@@ -11,9 +11,14 @@ export interface Tool {
 interface SidebarProps {
   tools: Tool[];
   currentPath?: string;
+  basePath?: string;
 }
 
-const Sidebar: React.FC<SidebarProps> = ({ tools, currentPath = "/" }) => {
+const Sidebar: React.FC<SidebarProps> = ({
+  tools,
+  currentPath = "/",
+  basePath = "",
+}) => {
   const [searchQuery, setSearchQuery] = useState("");
   const [isExpanded, setIsExpanded] = useState(true);
 
@@ -40,6 +45,10 @@ const Sidebar: React.FC<SidebarProps> = ({ tools, currentPath = "/" }) => {
     if (name.includes("encoder")) return "🔐";
     if (name.includes("decoder")) return "🔓";
     return "🛠️";
+  };
+
+  const getFullPath = (path: string) => {
+    return `${basePath}${path}`;
   };
 
   return (
@@ -103,13 +112,13 @@ const Sidebar: React.FC<SidebarProps> = ({ tools, currentPath = "/" }) => {
         ) : (
           <div className="p-2">
             {filteredTools.map((tool) => {
-              const isActive = currentPath === tool.path;
+              const isActive = currentPath === getFullPath(tool.path);
               const icon = getToolIcon(tool.name);
 
               return (
                 <div key={tool.path} className="group relative">
                   <a
-                    href={tool.path}
+                    href={getFullPath(tool.path)}
                     className={`flex items-center p-3 rounded-lg transition-all duration-200 ${
                       isActive
                         ? "bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 border-r-2 border-blue-500"
