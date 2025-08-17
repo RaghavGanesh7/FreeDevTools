@@ -1,12 +1,13 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getAllTools } from '../../config/tools';
 // Simple tools index page
 ---
 
 <BaseLayout 
   title="Developer Tools - Free Dev Tools"
   description="A collection of free developer tools"
-  canonical="https://yourdomain.com/tools/"
+  canonical="https://hexmos.com/freedevtools/t/tools/"
   themeColor="#1e40af"
 >
   <div class="max-w-4xl mx-auto p-8">
@@ -21,23 +22,16 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     
     <main>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
-        <a href="/base64-converter/" class="block p-6 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-inherit no-underline transition-all duration-200 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-lg hover:border-blue-500 dark:hover:border-blue-400">
-          <h2 class="m-0 mb-2 text-blue-600 dark:text-blue-400 text-xl font-semibold">
-            Base64 Converter
-          </h2>
-          <p class="m-0 text-slate-600 dark:text-slate-400">
-            Encode text to Base64 or decode Base64 to text
-          </p>
-        </a>
-        
-        <a href="/json-prettifier/" class="block p-6 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-inherit no-underline transition-all duration-200 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-lg hover:border-blue-500 dark:hover:border-blue-400">
-          <h2 class="text-xl font-semibold m-0 mb-2 text-blue-600 dark:text-blue-400">
-            JSON Prettifier
-          </h2>
-          <p class="m-0 text-slate-600 dark:text-slate-400">
-            Format, minify, and validate JSON data
-          </p>
-        </a>
+        {getAllTools().map((tool) => (
+          <a href={tool.path} class="block p-6 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-inherit no-underline transition-all duration-200 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-lg hover:border-blue-500 dark:hover:border-blue-400">
+            <h2 class="m-0 mb-2 text-blue-600 dark:text-blue-400 text-xl font-semibold">
+              {tool.name}
+            </h2>
+            <p class="m-0 text-slate-600 dark:text-slate-400">
+              {tool.description}
+            </p>
+          </a>
+        ))}
       </div>
     </main>
     

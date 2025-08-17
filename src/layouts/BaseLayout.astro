@@ -1,6 +1,5 @@
 ---
 import Sidebar from '../components/Sidebar.tsx';
-import { getToolsData } from '../utils/toolsData';
 
 export interface Props {
   title: string;
@@ -11,7 +10,6 @@ export interface Props {
 }
 
 const { title, description, canonical, themeColor = "#1e40af", showSidebar = true } = Astro.props;
-const tools = getToolsData();
 ---
 
 <!DOCTYPE html>
@@ -30,7 +28,7 @@ const tools = getToolsData();
   <body class="m-0 p-0 font-sans bg-slate-50 text-slate-800 leading-relaxed dark:bg-slate-900 dark:text-slate-200">
     <div class="flex h-screen">
       {showSidebar && (
-        <Sidebar client:load tools={tools} currentPath={Astro.url.pathname} basePath="/freedevtools/t" />
+        <Sidebar client:load currentPath={Astro.url.pathname} basePath="/freedevtools/t" />
       )}
       <main class="flex-1 overflow-auto">
         <slot />

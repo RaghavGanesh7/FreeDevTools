@@ -1,4 +1,4 @@
-.PHONY: build deploy run clean
+.PHONY: build deploy run clean gen
 
 # Build the project
 build:
@@ -15,4 +15,14 @@ run:
 # Clean build artifacts
 clean:
 	rm -rf dist/
-	rm -rf .astro/ 
+	rm -rf .astro/
+
+# Generate a new tool (usage: make gen tool-name)
+gen:
+	@if [ -z "$(tool)" ]; then \
+		echo "❌ Error: Tool name is required"; \
+		echo "Usage: make gen tool=<tool-name>"; \
+		echo "Example: make gen tool=password-generator"; \
+		exit 1; \
+	fi
+	node scripts/generateTool.cjs $(tool) 

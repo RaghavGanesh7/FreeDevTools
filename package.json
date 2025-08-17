@@ -5,9 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "update-tools": "node scripts/updateTools.js",
-    "prebuild": "npm run update-tools",
-    "build": "npm run update-tools && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },

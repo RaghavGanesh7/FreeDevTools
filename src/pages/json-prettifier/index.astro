@@ -1,13 +1,16 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import JsonPrettifier from './_JsonPrettifier.tsx';
+import { getToolByKey } from '../../config/tools';
+
+const tool = getToolByKey('json-prettifier');
 ---
 
 <BaseLayout 
-  title="JSON Prettifier - Format, Minify & Validate JSON Online | Free Dev Tools"
-  description="Free online JSON prettifier. Format, minify, and validate JSON data instantly. Multiple indentation options, real-time validation, and no registration required."
-  canonical="https://hexmos.com/freedevtools/t/json-prettifier/"
-  themeColor="#10b981"
+  title={`${tool.name} - Format, Minify & Validate JSON Online | Free Dev Tools`}
+  description={tool.description}
+  canonical={tool.canonical}
+  themeColor={tool.themeColor}
 >
   <JsonPrettifier client:load />
 </BaseLayout> 

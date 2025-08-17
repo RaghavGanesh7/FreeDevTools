@@ -1,26 +1,19 @@
 import React, { useState, useMemo } from "react";
-
-export interface Tool {
-  name: string;
-  path: string;
-  description: string;
-  icon?: string;
-  category?: string;
-}
+import type { Tool } from "../config/tools";
+import { getAllTools } from "../config/tools";
 
 interface SidebarProps {
-  tools: Tool[];
   currentPath?: string;
   basePath?: string;
 }
 
 const Sidebar: React.FC<SidebarProps> = ({
-  tools,
   currentPath = "/",
   basePath = "",
 }) => {
   const [searchQuery, setSearchQuery] = useState("");
   const [isExpanded, setIsExpanded] = useState(true);
+  const tools = getAllTools();
 
   const filteredTools = useMemo(() => {
     if (!searchQuery.trim()) return tools;
@@ -30,22 +23,10 @@ const Sidebar: React.FC<SidebarProps> = ({
       (tool) =>
         tool.name.toLowerCase().includes(query) ||
         tool.description.toLowerCase().includes(query) ||
-        tool.category?.toLowerCase().includes(query)
+        tool.category.toLowerCase().includes(query) ||
+        tool.keywords.some((keyword) => keyword.toLowerCase().includes(query))
     );
   }, [tools, searchQuery]);
-
-  const getToolIcon = (toolName: string) => {
-    const name = toolName.toLowerCase();
-    if (name.includes("base64")) return "🔤";
-    if (name.includes("json")) return "📄";
-    if (name.includes("converter")) return "🔄";
-    if (name.includes("prettifier")) return "✨";
-    if (name.includes("formatter")) return "📝";
-    if (name.includes("validator")) return "✅";
-    if (name.includes("encoder")) return "🔐";
-    if (name.includes("decoder")) return "🔓";
-    return "🛠️";
-  };
 
   const getFullPath = (path: string) => {
     return `${basePath}${path}`;
@@ -113,8 +94,6 @@ const Sidebar: React.FC<SidebarProps> = ({
           <div className="p-2">
             {filteredTools.map((tool) => {
               const isActive = currentPath === getFullPath(tool.path);
-              const icon = getToolIcon(tool.name);
-
               return (
                 <div key={tool.path} className="group relative">
                   <a
@@ -125,7 +104,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                         : "text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700"
                     }`}
                   >
-                    <span className="text-xl mr-3">{icon}</span>
+                    <span className="text-xl mr-3">{tool.icon}</span>
                     {isExpanded && (
                       <div className="flex-1 min-w-0">
                         <div className="font-medium truncate">{tool.name}</div>
