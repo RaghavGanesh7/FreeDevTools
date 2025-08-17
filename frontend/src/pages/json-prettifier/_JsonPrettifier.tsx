@@ -49,12 +49,12 @@ const JsonPrettifier: React.FC = () => {
           }
         );
 
-        // Initialize output editor (view mode for formatted output)
+        // Initialize output editor (text mode for formatted output)
         if (!outputEditorRef.current) return;
         outputEditorInstanceRef.current = new JSONEditor(
           outputEditorRef.current,
           {
-            mode: 'view',
+            mode: 'text',
             enableSort: false,
             enableTransform: false,
           }
@@ -116,7 +116,7 @@ const JsonPrettifier: React.FC = () => {
       setError('');
       setIsValid(null);
       if (outputEditorInstanceRef.current) {
-        outputEditorInstanceRef.current.set({});
+        outputEditorInstanceRef.current.setText('');
       }
       return;
     }
@@ -130,7 +130,7 @@ const JsonPrettifier: React.FC = () => {
       setError(err.message || 'Invalid JSON');
       setIsValid(false);
       if (outputEditorInstanceRef.current) {
-        outputEditorInstanceRef.current.set({});
+        outputEditorInstanceRef.current.setText('');
       }
     }
   };
@@ -138,23 +138,27 @@ const JsonPrettifier: React.FC = () => {
   const formatAndDisplayJson = (json: any) => {
     if (outputEditorInstanceRef.current) {
       const formatted = JSON.stringify(json, null, indentSize);
-      outputEditorInstanceRef.current.set(json);
+      outputEditorInstanceRef.current.setText(formatted);
     }
   };
 
   const handleIndentChange = (increment: boolean) => {
     const newIndent = increment ? indentSize + 1 : indentSize - 1;
     if (newIndent >= 1 && newIndent <= 8) {
-      setIndentSize(newIndent);
-      // Re-format the current JSON with new indent
+      // Re-format the current JSON with new indent first
       if (inputEditorInstanceRef.current && isValid) {
         try {
           const currentJson = inputEditorInstanceRef.current.get();
-          formatAndDisplayJson(currentJson);
+          const formatted = JSON.stringify(currentJson, null, newIndent);
+          if (outputEditorInstanceRef.current) {
+            outputEditorInstanceRef.current.setText(formatted);
+          }
         } catch (err) {
           // Ignore errors during re-formatting
         }
       }
+      // Then update the state
+      setIndentSize(newIndent);
     }
   };
 
@@ -163,7 +167,7 @@ const JsonPrettifier: React.FC = () => {
       inputEditorInstanceRef.current.set({});
     }
     if (outputEditorInstanceRef.current) {
-      outputEditorInstanceRef.current.set({});
+      outputEditorInstanceRef.current.setText('');
     }
     setError('');
     setIsValid(null);
@@ -185,7 +189,7 @@ const JsonPrettifier: React.FC = () => {
 
   if (!isClient) {
     return (
-      <div className="json-prettifier max-w-7xl mx-auto p-6">
+      <div className="json-prettifier max-w-7xl mx-auto py-6">
         <div className="mb-8 text-center">
           <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-4">
             JSON Prettifier
@@ -199,7 +203,7 @@ const JsonPrettifier: React.FC = () => {
   }
 
   return (
-    <div className="json-prettifier max-w-7xl mx-auto p-6">
+    <div className="json-prettifier max-w-7xl mx-auto py-6">
       <div className="mb-8 text-center">
         <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-4">
           JSON Prettifier
@@ -209,9 +213,9 @@ const JsonPrettifier: React.FC = () => {
         </p>
       </div>
 
-      <div className="grid grid-cols-1 xl:grid-cols-3 gap-6 mb-6">
+      <div className="grid grid-cols-1 xl:grid-cols-12 gap-4 mb-6">
         {/* Left Panel - Input Editor */}
-        <div className="xl:col-span-1">
+        <div className="xl:col-span-5">
           <div className="flex items-center justify-between mb-4">
             <label className="text-lg font-semibold text-slate-700 dark:text-slate-300">
               Input JSON
@@ -227,7 +231,8 @@ const JsonPrettifier: React.FC = () => {
           <div className="relative">
             <div
               ref={inputEditorRef}
-              className="h-96 border border-slate-300 rounded-lg dark:border-slate-600"
+              className="h-screen border border-slate-300 rounded-lg dark:border-slate-600 resize-y overflow-hidden"
+              style={{ minHeight: '500px', maxHeight: '80vh' }}
             />
             {isValid !== null && (
               <div className="mt-2 text-sm">
@@ -246,7 +251,7 @@ const JsonPrettifier: React.FC = () => {
         </div>
 
         {/* Center Panel - Controls */}
-        <div className="xl:col-span-1 flex flex-col items-center justify-center space-y-6">
+        <div className="xl:col-span-2 flex flex-col items-center justify-center space-y-6">
           <div className="text-center">
             <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-3">
               Indent
@@ -287,7 +292,7 @@ const JsonPrettifier: React.FC = () => {
         </div>
 
         {/* Right Panel - Output Editor */}
-        <div className="xl:col-span-1">
+        <div className="xl:col-span-5">
           <div className="flex items-center justify-between mb-4">
             <label className="text-lg font-semibold text-slate-700 dark:text-slate-300">
               Formatted Output
@@ -302,7 +307,8 @@ const JsonPrettifier: React.FC = () => {
           <div className="relative">
             <div
               ref={outputEditorRef}
-              className="h-96 border border-slate-300 rounded-lg dark:border-slate-600"
+              className="h-screen border border-slate-300 rounded-lg dark:border-slate-600 resize-y overflow-hidden"
+              style={{ minHeight: '500px', maxHeight: '80vh' }}
             />
           </div>
 
@@ -331,6 +337,7 @@ const JsonPrettifier: React.FC = () => {
             <li>Professional code editor with syntax highlighting</li>
             <li>Copy formatted JSON to clipboard</li>
             <li>Dynamic indent control (1-8 spaces)</li>
+            <li>Resizable editors for better workflow</li>
           </ul>
         </div>
       </div>
