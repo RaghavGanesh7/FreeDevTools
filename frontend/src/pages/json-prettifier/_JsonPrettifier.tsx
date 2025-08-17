@@ -286,7 +286,7 @@ const JsonPrettifier: React.FC = () => {
             <button
               onClick={handleCopy}
               disabled={!isValid}
-              className="px-4 py-2 bg-neon hover:bg-neon-dark disabled:bg-slate-400 text-slate-900 font-medium rounded-lg transition-all duration-200 disabled:cursor-not-allowed shadow-neon hover:shadow-lg"
+              className="px-4 py-2 bg-primary hover:bg-primary/90 disabled:bg-muted text-primary-foreground font-medium rounded-lg transition-all duration-200 disabled:cursor-not-allowed hover:shadow-lg"
             >
               Copy Formatted
             </button>
@@ -326,7 +326,7 @@ const JsonPrettifier: React.FC = () => {
 
       <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6 mb-6 border border-slate-200 dark:border-slate-700">
         <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3 flex items-center">
-          <span className="w-2 h-2 bg-neon rounded-full mr-3"></span>
+          <span className="w-2 h-2 bg-primary rounded-full mr-3"></span>
           Shortcut Keys
         </h3>
 
@@ -557,7 +557,7 @@ const JsonPrettifier: React.FC = () => {
 
       <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6 border border-slate-200 dark:border-slate-700">
         <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3 flex items-center">
-          <span className="w-2 h-2 bg-neon rounded-full mr-3"></span>
+          <span className="w-2 h-2 bg-primary rounded-full mr-3"></span>
           About JSON Prettifier
         </h3>
         <div className="text-slate-600 dark:text-slate-400 space-y-2">
