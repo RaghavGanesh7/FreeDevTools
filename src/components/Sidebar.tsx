@@ -28,10 +28,6 @@ const Sidebar: React.FC<SidebarProps> = ({
     );
   }, [tools, searchQuery]);
 
-  const getFullPath = (path: string) => {
-    return `${basePath}${path}`;
-  };
-
   return (
     <div
       className={`bg-white dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 transition-all duration-300 ${
@@ -93,11 +89,11 @@ const Sidebar: React.FC<SidebarProps> = ({
         ) : (
           <div className="p-2">
             {filteredTools.map((tool) => {
-              const isActive = currentPath === getFullPath(tool.path);
+              const isActive = currentPath === tool.path;
               return (
                 <div key={tool.path} className="group relative">
                   <a
-                    href={getFullPath(tool.path)}
+                    href={tool.path}
                     className={`flex items-center p-3 rounded-lg transition-all duration-200 ${
                       isActive
                         ? "bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 border-r-2 border-blue-500"
