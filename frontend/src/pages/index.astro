@@ -13,7 +13,7 @@ import { getAllTools } from '../config/tools';
 >
   <div class="max-w-6xl mx-auto p-8">
     <header class="text-center mb-16">
-      <h1 class="text-5xl font-extrabold mb-4 text-blue-600 dark:text-blue-400">
+      <h1 class="text-5xl font-extrabold mb-4 text-neon dark:text-neon-light">
         Free Dev Tools
       </h1>
       <p class="text-2xl text-slate-600 dark:text-slate-400 m-0">
@@ -24,8 +24,8 @@ import { getAllTools } from '../config/tools';
     <main>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
         {getAllTools().map((tool) => (
-          <a href={tool.path} class="block p-8 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-inherit no-underline transition-all duration-300 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-xl hover:border-blue-500 dark:hover:border-blue-400">
-            <h2 class="m-0 mb-4 text-blue-600 dark:text-blue-400 text-2xl font-semibold">
+          <a href={tool.path} class="block p-8 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-inherit no-underline transition-all duration-300 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-xl hover:border-neon dark:hover:border-neon-light">
+            <h2 class="m-0 mb-4 text-neon dark:text-neon-light text-2xl font-semibold">
               {tool.name}
             </h2>
             <p class="m-0 text-slate-600 dark:text-slate-400 text-lg">
@@ -36,7 +36,7 @@ import { getAllTools } from '../config/tools';
       </div>
       
       <div class="text-center p-8 bg-white dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700">
-        <h2 class="text-blue-600 dark:text-blue-400 mb-4">
+        <h2 class="text-neon dark:text-neon-light mb-4">
           Why Free Dev Tools?
         </h2>
         <p class="text-slate-600 dark:text-slate-400 text-lg m-0">

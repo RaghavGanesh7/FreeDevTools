@@ -231,18 +231,20 @@ const JsonPrettifier: React.FC = () => {
           <div className="relative">
             <div
               ref={inputEditorRef}
-              className="h-screen border border-slate-300 rounded-lg dark:border-slate-600 resize-y overflow-hidden"
+              className="h-screen border border-slate-300 rounded-lg dark:border-slate-600 resize-y overflow-hidden shadow-lg"
               style={{ minHeight: '500px', maxHeight: '80vh' }}
             />
             {isValid !== null && (
               <div className="mt-2 text-sm">
                 {isValid ? (
-                  <span className="text-green-600 dark:text-green-400">
-                    ✓ Valid JSON
+                  <span className="text-green-600 dark:text-green-400 flex items-center">
+                    <span className="w-2 h-2 bg-green-500 rounded-full mr-2 animate-pulse"></span>
+                    Valid JSON
                   </span>
                 ) : (
-                  <span className="text-red-600 dark:text-red-400">
-                    ✗ Invalid JSON
+                  <span className="text-red-600 dark:text-red-400 flex items-center">
+                    <span className="w-2 h-2 bg-red-500 rounded-full mr-2 animate-pulse"></span>
+                    Invalid JSON
                   </span>
                 )}
               </div>
@@ -284,7 +286,7 @@ const JsonPrettifier: React.FC = () => {
             <button
               onClick={handleCopy}
               disabled={!isValid}
-              className="px-4 py-2 bg-blue-600 hover:bg-blue-700 disabled:bg-slate-400 text-white font-medium rounded-lg transition-colors disabled:cursor-not-allowed"
+              className="px-4 py-2 bg-neon hover:bg-neon-dark disabled:bg-slate-400 text-slate-900 font-medium rounded-lg transition-all duration-200 disabled:cursor-not-allowed shadow-neon hover:shadow-lg"
             >
               Copy Formatted
             </button>
@@ -298,7 +300,8 @@ const JsonPrettifier: React.FC = () => {
               Formatted Output
             </label>
             {error && (
-              <span className="text-sm text-red-600 dark:text-red-400">
+              <span className="text-sm text-red-600 dark:text-red-400 flex items-center">
+                <span className="w-2 h-2 bg-red-500 rounded-full mr-2 animate-pulse"></span>
                 Error detected
               </span>
             )}
@@ -307,7 +310,7 @@ const JsonPrettifier: React.FC = () => {
           <div className="relative">
             <div
               ref={outputEditorRef}
-              className="h-screen border border-slate-300 rounded-lg dark:border-slate-600 resize-y overflow-hidden"
+              className="h-screen border border-slate-300 rounded-lg dark:border-slate-600 resize-y overflow-hidden shadow-lg"
               style={{ minHeight: '500px', maxHeight: '80vh' }}
             />
           </div>
@@ -321,8 +324,9 @@ const JsonPrettifier: React.FC = () => {
         </div>
       </div>
 
-      <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6 mb-6">
-        <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3">
+      <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6 mb-6 border border-slate-200 dark:border-slate-700">
+        <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3 flex items-center">
+          <span className="w-2 h-2 bg-neon rounded-full mr-3"></span>
           Shortcut Keys
         </h3>
 
@@ -551,8 +555,9 @@ const JsonPrettifier: React.FC = () => {
         </div>
       </div>
 
-      <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6">
-        <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3">
+      <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6 border border-slate-200 dark:border-slate-700">
+        <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3 flex items-center">
+          <span className="w-2 h-2 bg-neon rounded-full mr-3"></span>
           About JSON Prettifier
         </h3>
         <div className="text-slate-600 dark:text-slate-400 space-y-2">

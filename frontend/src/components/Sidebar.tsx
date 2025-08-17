@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { getAllTools } from '../config/tools';
+import ThemeSwitcher from './ThemeSwitcher';
 
 interface SidebarProps {
   currentPath?: string;
@@ -128,10 +129,13 @@ const Sidebar: React.FC<SidebarProps> = ({
       {/* Footer */}
       {isExpanded && (
         <div className="p-4 border-t border-slate-200 dark:border-slate-700">
-          <div className="text-xs text-slate-500 dark:text-slate-400 text-center">
+          <div className="text-xs text-slate-500 dark:text-slate-400 text-center mb-3">
             {filteredTools.length} tool{filteredTools.length !== 1 ? 's' : ''}{' '}
             available
           </div>
+
+          {/* Theme Switcher */}
+          <ThemeSwitcher />
         </div>
       )}
     </div>
