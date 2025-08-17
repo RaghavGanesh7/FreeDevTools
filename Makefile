@@ -6,7 +6,7 @@ build:
 
 # Deploy: build first, then rsync to server
 deploy: build
-	rsync -avz ./dist/ master:/tools/
+	rsync -avz --progress ./dist/ master:/tools/
 
 # Run development server
 run:
