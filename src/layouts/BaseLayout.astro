@@ -1,12 +1,17 @@
 ---
+import Sidebar from '../components/Sidebar.tsx';
+import { getToolsData } from '../utils/toolsData';
+
 export interface Props {
   title: string;
   description?: string;
   canonical?: string;
   themeColor?: string;
+  showSidebar?: boolean;
 }
 
-const { title, description, canonical, themeColor = "#1e40af" } = Astro.props;
+const { title, description, canonical, themeColor = "#1e40af", showSidebar = true } = Astro.props;
+const tools = getToolsData();
 ---
 
 <!DOCTYPE html>
@@ -23,6 +28,13 @@ const { title, description, canonical, themeColor = "#1e40af" } = Astro.props;
     <link rel="stylesheet" href="/src/styles/global.css" />
   </head>
   <body class="m-0 p-0 font-sans bg-slate-50 text-slate-800 leading-relaxed dark:bg-slate-900 dark:text-slate-200">
-    <slot />
+    <div class="flex h-screen">
+      {showSidebar && (
+        <Sidebar client:load tools={tools} currentPath={Astro.url.pathname} />
+      )}
+      <main class="flex-1 overflow-auto">
+        <slot />
+      </main>
+    </div>
   </body>
 </html> 
