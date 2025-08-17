@@ -1,15 +1,15 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
 const Base64Converter: React.FC = () => {
-  const [input, setInput] = useState("");
-  const [output, setOutput] = useState("");
-  const [mode, setMode] = useState<"encode" | "decode">("encode");
-  const [error, setError] = useState("");
+  const [input, setInput] = useState('');
+  const [output, setOutput] = useState('');
+  const [mode, setMode] = useState<'encode' | 'decode'>('encode');
+  const [error, setError] = useState('');
 
   const handleConvert = () => {
-    setError("");
+    setError('');
     try {
-      if (mode === "encode") {
+      if (mode === 'encode') {
         const encoded = btoa(input);
         setOutput(encoded);
       } else {
@@ -17,15 +17,15 @@ const Base64Converter: React.FC = () => {
         setOutput(decoded);
       }
     } catch (err) {
-      setError("Invalid input for " + mode + "ing");
-      setOutput("");
+      setError('Invalid input for ' + mode + 'ing');
+      setOutput('');
     }
   };
 
   const handleClear = () => {
-    setInput("");
-    setOutput("");
-    setError("");
+    setInput('');
+    setOutput('');
+    setError('');
   };
 
   const handleCopy = () => {
@@ -49,21 +49,21 @@ const Base64Converter: React.FC = () => {
         <div className="space-y-4">
           <div className="flex space-x-2">
             <button
-              onClick={() => setMode("encode")}
+              onClick={() => setMode('encode')}
               className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-                mode === "encode"
-                  ? "bg-blue-600 text-white"
-                  : "bg-slate-200 text-slate-700 hover:bg-slate-300 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600"
+                mode === 'encode'
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-slate-200 text-slate-700 hover:bg-slate-300 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600'
               }`}
             >
               Encode
             </button>
             <button
-              onClick={() => setMode("decode")}
+              onClick={() => setMode('decode')}
               className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-                mode === "decode"
-                  ? "bg-blue-600 text-white"
-                  : "bg-slate-200 text-slate-700 hover:bg-slate-300 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600"
+                mode === 'decode'
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-slate-200 text-slate-700 hover:bg-slate-300 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600'
               }`}
             >
               Decode
@@ -72,15 +72,15 @@ const Base64Converter: React.FC = () => {
 
           <div>
             <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">
-              {mode === "encode" ? "Text to Encode" : "Base64 to Decode"}
+              {mode === 'encode' ? 'Text to Encode' : 'Base64 to Decode'}
             </label>
             <textarea
               value={input}
               onChange={(e) => setInput(e.target.value)}
               placeholder={
-                mode === "encode"
-                  ? "Enter text to encode..."
-                  : "Enter Base64 string to decode..."
+                mode === 'encode'
+                  ? 'Enter text to encode...'
+                  : 'Enter Base64 string to decode...'
               }
               className="w-full h-32 p-3 border border-slate-300 rounded-lg resize-none focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-slate-800 dark:border-slate-600 dark:text-slate-100"
             />
@@ -91,7 +91,7 @@ const Base64Converter: React.FC = () => {
               onClick={handleConvert}
               className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors"
             >
-              {mode === "encode" ? "Encode" : "Decode"}
+              {mode === 'encode' ? 'Encode' : 'Decode'}
             </button>
             <button
               onClick={handleClear}
@@ -105,7 +105,7 @@ const Base64Converter: React.FC = () => {
         <div className="space-y-4">
           <div>
             <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">
-              {mode === "encode" ? "Encoded Result" : "Decoded Result"}
+              {mode === 'encode' ? 'Encoded Result' : 'Decoded Result'}
             </label>
             <div className="relative">
               <textarea

@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
 const JsonPrettifier: React.FC = () => {
-  const [input, setInput] = useState("");
-  const [output, setOutput] = useState("");
+  const [input, setInput] = useState('');
+  const [output, setOutput] = useState('');
   const [indentSize, setIndentSize] = useState(2);
-  const [error, setError] = useState("");
+  const [error, setError] = useState('');
   const [isValid, setIsValid] = useState<boolean | null>(null);
 
   const validateJson = (jsonString: string): boolean => {
@@ -17,9 +17,9 @@ const JsonPrettifier: React.FC = () => {
   };
 
   const formatJson = () => {
-    setError("");
+    setError('');
     if (!input.trim()) {
-      setError("Please enter some JSON to format");
+      setError('Please enter some JSON to format');
       return;
     }
 
@@ -29,16 +29,16 @@ const JsonPrettifier: React.FC = () => {
       setOutput(formatted);
       setIsValid(true);
     } catch (err) {
-      setError("Invalid JSON format");
+      setError('Invalid JSON format');
       setIsValid(false);
-      setOutput("");
+      setOutput('');
     }
   };
 
   const minifyJson = () => {
-    setError("");
+    setError('');
     if (!input.trim()) {
-      setError("Please enter some JSON to minify");
+      setError('Please enter some JSON to minify');
       return;
     }
 
@@ -48,16 +48,16 @@ const JsonPrettifier: React.FC = () => {
       setOutput(minified);
       setIsValid(true);
     } catch (err) {
-      setError("Invalid JSON format");
+      setError('Invalid JSON format');
       setIsValid(false);
-      setOutput("");
+      setOutput('');
     }
   };
 
   const handleClear = () => {
-    setInput("");
-    setOutput("");
-    setError("");
+    setInput('');
+    setOutput('');
+    setError('');
     setIsValid(null);
   };
 
@@ -73,13 +73,13 @@ const JsonPrettifier: React.FC = () => {
       const valid = validateJson(value);
       setIsValid(valid);
       if (!valid) {
-        setError("Invalid JSON format");
+        setError('Invalid JSON format');
       } else {
-        setError("");
+        setError('');
       }
     } else {
       setIsValid(null);
-      setError("");
+      setError('');
     }
   };
 
@@ -121,21 +121,21 @@ const JsonPrettifier: React.FC = () => {
               placeholder="Paste your JSON here..."
               className={`w-full h-32 p-3 border rounded-lg resize-none focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-slate-800 dark:text-slate-100 ${
                 isValid === null
-                  ? "border-slate-300 dark:border-slate-600"
+                  ? 'border-slate-300 dark:border-slate-600'
                   : isValid
-                  ? "border-green-300 dark:border-green-600"
-                  : "border-red-300 dark:border-red-600"
+                  ? 'border-green-300 dark:border-green-600'
+                  : 'border-red-300 dark:border-red-600'
               }`}
             />
             {isValid !== null && (
               <div
                 className={`mt-2 text-sm ${
                   isValid
-                    ? "text-green-600 dark:text-green-400"
-                    : "text-red-600 dark:text-red-400"
+                    ? 'text-green-600 dark:text-green-400'
+                    : 'text-red-600 dark:text-red-400'
                 }`}
               >
-                {isValid ? "✓ Valid JSON" : "✗ Invalid JSON"}
+                {isValid ? '✓ Valid JSON' : '✗ Invalid JSON'}
               </div>
             )}
           </div>
