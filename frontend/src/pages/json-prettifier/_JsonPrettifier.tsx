@@ -1,206 +1,315 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 
 const JsonPrettifier: React.FC = () => {
-  const [input, setInput] = useState('');
-  const [output, setOutput] = useState('');
   const [indentSize, setIndentSize] = useState(2);
   const [error, setError] = useState('');
   const [isValid, setIsValid] = useState<boolean | null>(null);
+  const [isClient, setIsClient] = useState(false);
 
-  const validateJson = (jsonString: string): boolean => {
-    try {
-      JSON.parse(jsonString);
-      return true;
-    } catch {
-      return false;
-    }
-  };
+  const inputEditorRef = useRef<HTMLDivElement>(null);
+  const outputEditorRef = useRef<HTMLDivElement>(null);
+  const inputEditorInstanceRef = useRef<any>(null);
+  const outputEditorInstanceRef = useRef<any>(null);
 
-  const formatJson = () => {
-    setError('');
-    if (!input.trim()) {
-      setError('Please enter some JSON to format');
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
+
+  useEffect(() => {
+    if (!isClient || !inputEditorRef.current || !outputEditorRef.current)
+      return;
+
+    const initEditors = async () => {
+      try {
+        const { default: JSONEditor } = await import('jsoneditor');
+        await import('../../assets/jsoneditor.min.css');
+
+        // Initialize input editor (code mode for user input)
+        if (!inputEditorRef.current) return;
+        inputEditorInstanceRef.current = new JSONEditor(
+          inputEditorRef.current,
+          {
+            mode: 'code',
+            onChangeText: (jsonString: string) => {
+              handleInputChange(jsonString);
+            },
+            onError: (err: any) => {
+              setError(err.message || 'Invalid JSON');
+              setIsValid(false);
+            },
+            onValidationError: (errors: readonly any[]) => {
+              if (errors.length > 0) {
+                setError(errors[0].message || 'Validation error');
+                setIsValid(false);
+              } else {
+                setError('');
+                setIsValid(true);
+              }
+            },
+          }
+        );
+
+        // Initialize output editor (view mode for formatted output)
+        if (!outputEditorRef.current) return;
+        outputEditorInstanceRef.current = new JSONEditor(
+          outputEditorRef.current,
+          {
+            mode: 'view',
+            enableSort: false,
+            enableTransform: false,
+          }
+        );
+
+        // Set initial sample JSON
+        const sampleJson = {
+          menu: {
+            id: 'file',
+            value: 'File',
+            popup: {
+              menuitem: [
+                {
+                  value: 'New',
+                  onclick: 'CreateNewDoc()',
+                },
+                {
+                  value: 'Open',
+                  onclick: 'OpenDoc()',
+                },
+                {
+                  value: 'Close',
+                  onclick: 'CloseDoc()',
+                },
+              ],
+            },
+          },
+        };
+
+        inputEditorInstanceRef.current.set(sampleJson);
+        formatAndDisplayJson(sampleJson);
+      } catch (err) {
+        console.error('Failed to initialize JSONEditor:', err);
+      }
+    };
+
+    initEditors();
+
+    return () => {
+      if (inputEditorInstanceRef.current) {
+        try {
+          inputEditorInstanceRef.current.destroy();
+        } catch (err) {
+          // Ignore cleanup errors
+        }
+      }
+      if (outputEditorInstanceRef.current) {
+        try {
+          outputEditorInstanceRef.current.destroy();
+        } catch (err) {
+          // Ignore cleanup errors
+        }
+      }
+    };
+  }, [isClient]);
+
+  const handleInputChange = (jsonString: string) => {
+    if (!jsonString.trim()) {
+      setError('');
+      setIsValid(null);
+      if (outputEditorInstanceRef.current) {
+        outputEditorInstanceRef.current.set({});
+      }
       return;
     }
 
     try {
-      const parsed = JSON.parse(input);
-      const formatted = JSON.stringify(parsed, null, indentSize);
-      setOutput(formatted);
+      const parsed = JSON.parse(jsonString);
       setIsValid(true);
-    } catch (err) {
-      setError('Invalid JSON format');
+      setError('');
+      formatAndDisplayJson(parsed);
+    } catch (err: any) {
+      setError(err.message || 'Invalid JSON');
       setIsValid(false);
-      setOutput('');
+      if (outputEditorInstanceRef.current) {
+        outputEditorInstanceRef.current.set({});
+      }
     }
   };
 
-  const minifyJson = () => {
-    setError('');
-    if (!input.trim()) {
-      setError('Please enter some JSON to minify');
-      return;
+  const formatAndDisplayJson = (json: any) => {
+    if (outputEditorInstanceRef.current) {
+      const formatted = JSON.stringify(json, null, indentSize);
+      outputEditorInstanceRef.current.set(json);
     }
+  };
 
-    try {
-      const parsed = JSON.parse(input);
-      const minified = JSON.stringify(parsed);
-      setOutput(minified);
-      setIsValid(true);
-    } catch (err) {
-      setError('Invalid JSON format');
-      setIsValid(false);
-      setOutput('');
+  const handleIndentChange = (increment: boolean) => {
+    const newIndent = increment ? indentSize + 1 : indentSize - 1;
+    if (newIndent >= 1 && newIndent <= 8) {
+      setIndentSize(newIndent);
+      // Re-format the current JSON with new indent
+      if (inputEditorInstanceRef.current && isValid) {
+        try {
+          const currentJson = inputEditorInstanceRef.current.get();
+          formatAndDisplayJson(currentJson);
+        } catch (err) {
+          // Ignore errors during re-formatting
+        }
+      }
     }
   };
 
   const handleClear = () => {
-    setInput('');
-    setOutput('');
+    if (inputEditorInstanceRef.current) {
+      inputEditorInstanceRef.current.set({});
+    }
+    if (outputEditorInstanceRef.current) {
+      outputEditorInstanceRef.current.set({});
+    }
     setError('');
     setIsValid(null);
   };
 
   const handleCopy = () => {
-    if (output) {
-      navigator.clipboard.writeText(output);
+    if (outputEditorInstanceRef.current && isValid) {
+      try {
+        const currentJson = inputEditorInstanceRef.current?.get();
+        if (currentJson) {
+          const formatted = JSON.stringify(currentJson, null, indentSize);
+          navigator.clipboard.writeText(formatted);
+        }
+      } catch (err) {
+        // Ignore copy errors
+      }
     }
   };
 
-  const handleInputChange = (value: string) => {
-    setInput(value);
-    if (value.trim()) {
-      const valid = validateJson(value);
-      setIsValid(valid);
-      if (!valid) {
-        setError('Invalid JSON format');
-      } else {
-        setError('');
-      }
-    } else {
-      setIsValid(null);
-      setError('');
-    }
-  };
+  if (!isClient) {
+    return (
+      <div className="json-prettifier max-w-7xl mx-auto p-6">
+        <div className="mb-8 text-center">
+          <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-4">
+            JSON Prettifier
+          </h1>
+          <p className="text-slate-600 dark:text-slate-400 text-lg">
+            Loading...
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   return (
-    <div className="json-prettifier max-w-4xl mx-auto p-6">
+    <div className="json-prettifier max-w-7xl mx-auto p-6">
       <div className="mb-8 text-center">
         <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-4">
           JSON Prettifier
         </h1>
         <p className="text-slate-600 dark:text-slate-400 text-lg">
-          Format, minify, and validate your JSON data
+          Real-time JSON formatting, validation, and error detection
         </p>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
-        <div className="space-y-4">
-          <div className="flex items-center space-x-4">
-            <label className="text-sm font-medium text-slate-700 dark:text-slate-300">
-              Indent Size:
-            </label>
-            <select
-              value={indentSize}
-              onChange={(e) => setIndentSize(Number(e.target.value))}
-              className="px-3 py-1 border border-slate-300 rounded-md bg-white dark:bg-slate-800 dark:border-slate-600 dark:text-slate-100"
-            >
-              <option value={2}>2 spaces</option>
-              <option value={4}>4 spaces</option>
-              <option value={8}>8 spaces</option>
-            </select>
-          </div>
-
-          <div>
-            <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">
+      <div className="grid grid-cols-1 xl:grid-cols-3 gap-6 mb-6">
+        {/* Left Panel - Input Editor */}
+        <div className="xl:col-span-1">
+          <div className="flex items-center justify-between mb-4">
+            <label className="text-lg font-semibold text-slate-700 dark:text-slate-300">
               Input JSON
             </label>
-            <textarea
-              value={input}
-              onChange={(e) => handleInputChange(e.target.value)}
-              placeholder="Paste your JSON here..."
-              className={`w-full h-32 p-3 border rounded-lg resize-none focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-slate-800 dark:text-slate-100 ${
-                isValid === null
-                  ? 'border-slate-300 dark:border-slate-600'
-                  : isValid
-                  ? 'border-green-300 dark:border-green-600'
-                  : 'border-red-300 dark:border-red-600'
-              }`}
-            />
-            {isValid !== null && (
-              <div
-                className={`mt-2 text-sm ${
-                  isValid
-                    ? 'text-green-600 dark:text-green-400'
-                    : 'text-red-600 dark:text-red-400'
-                }`}
-              >
-                {isValid ? '✓ Valid JSON' : '✗ Invalid JSON'}
-              </div>
-            )}
-          </div>
-
-          <div className="flex space-x-3">
-            <button
-              onClick={formatJson}
-              className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors"
-            >
-              Format
-            </button>
-            <button
-              onClick={minifyJson}
-              className="flex-1 bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-lg transition-colors"
-            >
-              Minify
-            </button>
             <button
               onClick={handleClear}
-              className="px-4 py-2 border border-slate-300 text-slate-700 rounded-lg hover:bg-slate-50 dark:border-slate-600 dark:text-slate-300 dark:hover:bg-slate-700 transition-colors"
+              className="px-3 py-1 text-sm border border-slate-300 text-slate-700 rounded-md hover:bg-slate-50 dark:border-slate-600 dark:text-slate-300 dark:hover:bg-slate-700 transition-colors"
             >
               Clear
             </button>
           </div>
+
+          <div className="relative">
+            <div
+              ref={inputEditorRef}
+              className="h-96 border border-slate-300 rounded-lg dark:border-slate-600"
+            />
+            {isValid !== null && (
+              <div className="mt-2 text-sm">
+                {isValid ? (
+                  <span className="text-green-600 dark:text-green-400">
+                    ✓ Valid JSON
+                  </span>
+                ) : (
+                  <span className="text-red-600 dark:text-red-400">
+                    ✗ Invalid JSON
+                  </span>
+                )}
+              </div>
+            )}
+          </div>
         </div>
 
-        <div className="space-y-4">
-          <div>
-            <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">
-              Output
+        {/* Center Panel - Controls */}
+        <div className="xl:col-span-1 flex flex-col items-center justify-center space-y-6">
+          <div className="text-center">
+            <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-3">
+              Indent
             </label>
-            <div className="relative">
-              <textarea
-                value={output}
-                readOnly
-                placeholder="Formatted or minified JSON will appear here..."
-                className="w-full h-32 p-3 border border-slate-300 rounded-lg resize-none bg-slate-50 dark:bg-slate-800 dark:border-slate-600 dark:text-slate-100"
-              />
-              {output && (
-                <button
-                  onClick={handleCopy}
-                  className="absolute top-2 right-2 p-2 text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200 transition-colors"
-                  title="Copy to clipboard"
-                >
-                  <svg
-                    className="w-5 h-5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"
-                    />
-                  </svg>
-                </button>
-              )}
+            <div className="flex items-center space-x-3">
+              <button
+                onClick={() => handleIndentChange(false)}
+                disabled={indentSize <= 1}
+                className="w-8 h-8 flex items-center justify-center text-lg font-bold text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-md disabled:opacity-50 disabled:cursor-not-allowed dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600 transition-colors"
+              >
+                -
+              </button>
+              <span className="text-lg font-mono text-slate-900 dark:text-slate-100 min-w-[2rem] text-center">
+                {indentSize}
+              </span>
+              <button
+                onClick={() => handleIndentChange(true)}
+                disabled={indentSize >= 8}
+                className="w-8 h-8 flex items-center justify-center text-lg font-bold text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-md disabled:opacity-50 disabled:cursor-not-allowed dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600 transition-colors"
+              >
+                +
+              </button>
             </div>
+            <span className="text-xs text-slate-500 dark:text-slate-400 mt-1 block">
+              spaces
+            </span>
+          </div>
+
+          <div className="text-center">
+            <button
+              onClick={handleCopy}
+              disabled={!isValid}
+              className="px-4 py-2 bg-blue-600 hover:bg-blue-700 disabled:bg-slate-400 text-white font-medium rounded-lg transition-colors disabled:cursor-not-allowed"
+            >
+              Copy Formatted
+            </button>
+          </div>
+        </div>
+
+        {/* Right Panel - Output Editor */}
+        <div className="xl:col-span-1">
+          <div className="flex items-center justify-between mb-4">
+            <label className="text-lg font-semibold text-slate-700 dark:text-slate-300">
+              Formatted Output
+            </label>
+            {error && (
+              <span className="text-sm text-red-600 dark:text-red-400">
+                Error detected
+              </span>
+            )}
+          </div>
+
+          <div className="relative">
+            <div
+              ref={outputEditorRef}
+              className="h-96 border border-slate-300 rounded-lg dark:border-slate-600"
+            />
           </div>
 
           {error && (
-            <div className="p-3 bg-red-50 border border-red-200 rounded-lg text-red-700 dark:bg-red-900/20 dark:border-red-800 dark:text-red-400">
-              {error}
+            <div className="mt-3 p-3 bg-red-50 border border-red-200 rounded-lg text-red-700 dark:bg-red-900/20 dark:border-red-800 dark:text-red-400">
+              <div className="font-medium mb-1">JSON Error:</div>
+              <div className="text-sm">{error}</div>
             </div>
           )}
         </div>
@@ -212,14 +321,16 @@ const JsonPrettifier: React.FC = () => {
         </h3>
         <div className="text-slate-600 dark:text-slate-400 space-y-2">
           <p>
-            This tool helps you format, minify, and validate JSON data. It can
-            be useful for:
+            This enhanced JSON prettifier provides real-time formatting and
+            validation using the powerful JSONEditor library. Features include:
           </p>
           <ul className="list-disc list-inside space-y-1 ml-4">
-            <li>Making JSON more readable with proper indentation</li>
-            <li>Reducing file size by removing unnecessary whitespace</li>
-            <li>Validating JSON syntax before using it in your applications</li>
-            <li>Converting between different formatting styles</li>
+            <li>Real-time JSON validation as you type</li>
+            <li>Instant formatting with customizable indentation</li>
+            <li>Precise error location and detailed error messages</li>
+            <li>Professional code editor with syntax highlighting</li>
+            <li>Copy formatted JSON to clipboard</li>
+            <li>Dynamic indent control (1-8 spaces)</li>
           </ul>
         </div>
       </div>
