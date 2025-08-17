@@ -1,0 +1,215 @@
+---
+// Simple homepage for the dev tools
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Primary Meta Tags -->
+    <title>Free Dev Tools - Essential Developer Utilities Online | No Registration Required</title>
+    <meta name="title" content="Free Dev Tools - Essential Developer Utilities Online | No Registration Required" />
+    <meta name="description" content="Collection of free, open-source developer tools including Base64 converter, JSON prettifier, and more. Boost your productivity with our online utilities." />
+    <meta name="keywords" content="developer tools, free tools, base64 converter, json prettifier, online utilities, web tools, programming tools, no registration" />
+    <meta name="author" content="Free Dev Tools" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://yourdomain.com/" />
+    <meta property="og:title" content="Free Dev Tools - Essential Developer Utilities Online" />
+    <meta property="og:description" content="Collection of free, open-source developer tools. Base64 converter, JSON prettifier, and more utilities to boost your productivity." />
+    <meta property="og:image" content="https://yourdomain.com/og-homepage.png" />
+    <meta property="og:site_name" content="Free Dev Tools" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://yourdomain.com/" />
+    <meta property="twitter:title" content="Free Dev Tools - Essential Developer Utilities Online" />
+    <meta property="twitter:description" content="Collection of free, open-source developer tools to boost your productivity." />
+    <meta property="twitter:image" content="https://yourdomain.com/og-homepage.png" />
+    
+    <!-- Additional SEO -->
+    <meta name="application-name" content="Free Dev Tools" />
+    <meta name="theme-color" content="#1e40af" />
+    <link rel="canonical" href="https://yourdomain.com/" />
+    
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Free Dev Tools",
+      "description": "Collection of free, open-source developer tools and utilities",
+      "url": "https://yourdomain.com/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://yourdomain.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "creator": {
+        "@type": "Organization",
+        "name": "Free Dev Tools"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Free Dev Tools</h1>
+        <p>Essential tools for developers</p>
+      </header>
+      
+      <main>
+        <div class="tools-grid">
+          <a href="/tools/base64-converter/" class="tool-card">
+            <h2>Base64 Converter</h2>
+            <p>Encode text to Base64 or decode Base64 to text</p>
+          </a>
+          
+          <a href="/tools/json-prettifier/" class="tool-card">
+            <h2>JSON Prettifier</h2>
+            <p>Format, minify, and validate JSON data</p>
+          </a>
+        </div>
+        
+        <div class="info-section">
+          <h2>Why Free Dev Tools?</h2>
+          <p>We believe that essential developer tools should be free, open source, and accessible to everyone.</p>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
+
+<style is:global>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #f8fafc;
+    color: #1e293b;
+    line-height: 1.6;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #0f172a;
+      color: #e2e8f0;
+    }
+  }
+</style>
+
+<style>
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+  
+  header h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #1e40af;
+    font-weight: 800;
+  }
+  
+  header p {
+    font-size: 1.5rem;
+    color: #64748b;
+    margin: 0;
+  }
+  
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-bottom: 4rem;
+  }
+  
+  .tool-card {
+    display: block;
+    padding: 2rem;
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.75rem;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  }
+  
+  .tool-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+    border-color: #3b82f6;
+  }
+  
+  .tool-card h2 {
+    margin: 0 0 1rem 0;
+    color: #1e40af;
+    font-size: 1.75rem;
+    font-weight: 600;
+  }
+  
+  .tool-card p {
+    margin: 0;
+    color: #64748b;
+    font-size: 1.1rem;
+  }
+  
+  .info-section {
+    text-align: center;
+    padding: 2rem;
+    background: white;
+    border-radius: 0.75rem;
+    border: 1px solid #e2e8f0;
+  }
+  
+  .info-section h2 {
+    color: #1e40af;
+    margin-bottom: 1rem;
+  }
+  
+  .info-section p {
+    color: #64748b;
+    font-size: 1.1rem;
+    margin: 0;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .tool-card,
+    .info-section {
+      background: #1e293b;
+      border-color: #334155;
+    }
+    
+    .tool-card:hover {
+      border-color: #60a5fa;
+    }
+    
+    header h1,
+    .tool-card h2,
+    .info-section h2 {
+      color: #60a5fa;
+    }
+    
+    header p,
+    .tool-card p,
+    .info-section p {
+      color: #94a3b8;
+    }
+  }
+</style> 
