@@ -321,6 +321,236 @@ const JsonPrettifier: React.FC = () => {
         </div>
       </div>
 
+      <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6 mb-6">
+        <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3">
+          Shortcut Keys
+        </h3>
+
+        <div className="space-y-6">
+          {/* Tree Editor Shortcuts */}
+          <div>
+            <h4 className="text-md font-semibold text-slate-800 dark:text-slate-200 mb-2">
+              Tree Editor
+            </h4>
+            <div className="overflow-x-auto">
+              <table className="min-w-full text-sm border-collapse border border-slate-300 dark:border-slate-600">
+                <thead>
+                  <tr className="bg-slate-100 dark:bg-slate-700">
+                    <th className="border border-slate-300 dark:border-slate-600 px-3 py-2 text-left font-medium text-slate-700 dark:text-slate-300">
+                      Key
+                    </th>
+                    <th className="border border-slate-300 dark:border-slate-600 px-3 py-2 text-left font-medium text-slate-700 dark:text-slate-300">
+                      Description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody className="bg-white dark:bg-slate-800">
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Alt+Arrows
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Move the caret up/down/left/right between fields
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Shift+Arrow Up/Down
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Select multiple fields
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Shift+Alt+Arrows
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Move current field or selected fields up/down/left/right
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+D
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Duplicate field
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Del
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Remove field
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Enter
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Open link when on a field containing an url
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Ins
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Insert a new field with type auto
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Shift+Ins
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Append a new field with type auto
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+E
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Expand or collapse field
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Alt+End
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Move the caret to the last field
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+F
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Find
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      F3, Ctrl+G
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Find next
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Shift+F3, Ctrl+Shift+G
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Find previous
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Alt+Home
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Move the caret to the first field
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+M
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Show actions menu
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Z
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Undo last action
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Shift+Z
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Redo
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          {/* Code Editor Shortcuts */}
+          <div>
+            <h4 className="text-md font-semibold text-slate-800 dark:text-slate-200 mb-2">
+              Code Editor
+            </h4>
+            <p className="text-sm text-slate-600 dark:text-slate-400 mb-3">
+              The code editor is powered by{' '}
+              <a
+                href="http://ace.c9.io/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline"
+              >
+                Ace Editor
+              </a>
+              . This editor's shortcut keys are described{' '}
+              <a
+                href="https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline"
+              >
+                here
+              </a>
+              .
+            </p>
+            <p className="text-sm text-slate-600 dark:text-slate-400 mb-2">
+              Additionally, there are shortcut keys to format/compact the code:
+            </p>
+            <div className="overflow-x-auto">
+              <table className="min-w-full text-sm border-collapse border border-slate-300 dark:border-slate-600">
+                <thead>
+                  <tr className="bg-slate-100 dark:bg-slate-700">
+                    <th className="border border-slate-300 dark:border-slate-600 px-3 py-2 text-left font-medium text-slate-700 dark:text-slate-300">
+                      Key
+                    </th>
+                    <th className="border border-slate-300 dark:border-slate-600 px-3 py-2 text-left font-medium text-slate-700 dark:text-slate-300">
+                      Description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody className="bg-white dark:bg-slate-800">
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+I
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Format JSON data, set proper indentation
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2 font-mono text-slate-600 dark:text-slate-400">
+                      Ctrl+Shift+I
+                    </td>
+                    <td className="border border-slate-300 dark:border-slate-600 px-3 py-2">
+                      Compact JSON data, remove all whitespace
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div className="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6">
         <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3">
           About JSON Prettifier
