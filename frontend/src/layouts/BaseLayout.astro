@@ -49,7 +49,7 @@ const { title, description, canonical, themeColor = "#1e40af", showSidebar = tru
           <Sidebar client:load currentPath={Astro.url.pathname} basePath="/freedevtools/t" />
         </ThemeProvider>
       )}
-      <main class="flex-1 overflow-auto">
+      <main class="flex-1 overflow-auto bg-background">
         <ThemeProvider client:load>
           <slot />
         </ThemeProvider>

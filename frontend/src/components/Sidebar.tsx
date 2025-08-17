@@ -30,7 +30,7 @@ const Sidebar: React.FC<SidebarProps> = ({
 
   return (
     <div
-      className={`bg-white dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 transition-all duration-300 ${
+      className={`bg-white dark:bg-sidebarContainer border-r border-slate-200 dark:border-slate-700 transition-all duration-300 ${
         isExpanded ? 'w-80' : 'w-16'
       }`}
     >

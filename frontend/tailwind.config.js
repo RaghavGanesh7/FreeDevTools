@@ -8,14 +8,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: 'hsl(var(--background))',
+        sidebarContainer: 'rgb(16, 20, 31)',
+        background: 'rgb(var(--background))',
         foreground: 'hsl(var(--foreground))',
         card: {
-          DEFAULT: 'hsl(var(--card))',
+          DEFAULT: 'rgb(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
         },
         popover: {
-          DEFAULT: 'hsl(var(--popover))',
+          DEFAULT: 'rgb(var(--popover))',
           foreground: 'hsl(var(--popover-foreground))',
         },
         primary: {
