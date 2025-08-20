@@ -49,11 +49,19 @@ module.exports = {
           4: 'hsl(var(--chart-4))',
           5: 'hsl(var(--chart-5))',
         },
+        neon: {
+          DEFAULT: '#00ff88',
+          light: '#4fffb0',
+          dark: '#00cc6a',
+        },
       },
       borderRadius: {
         lg: 'var(--radius)',
         md: 'calc(var(--radius) - 2px)',
         sm: 'calc(var(--radius) - 4px)',
+      },
+      boxShadow: {
+        'neon': '0 0 10px #00ff88, 0 0 20px #00ff88, 0 0 30px #00ff88',
       },
     },
   },

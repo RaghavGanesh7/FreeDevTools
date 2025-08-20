@@ -22,7 +22,7 @@
     "editor.formatOnSave": true
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "vscode.typescript-language-features",
     "editor.formatOnSave": true
   },
   "[javascript]": {
@@ -44,5 +44,6 @@
   "prettier.tabWidth": 2,
   "prettier.useTabs": false,
   "prettier.singleQuote": true,
-  "prettier.quoteProps": "as-needed"
+  "prettier.quoteProps": "as-needed",
+  "kiroAgent.configureMCP": "Disabled"
 }

@@ -1,5 +1,6 @@
 ---
-import Sidebar from '../components/Sidebar.tsx';
+// import Sidebar from '../components/Sidebar.tsx';
+import AdBanner from '../components/AdBanner.tsx';
 import { ThemeProvider } from '../components/ThemeContext.tsx';
 
 export interface Props {
@@ -10,7 +11,7 @@ export interface Props {
   showSidebar?: boolean;
 }
 
-const { title, description, canonical, themeColor = "#1e40af", showSidebar = true } = Astro.props;
+const { title, description, canonical, themeColor = "#1e40af" } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -44,12 +45,20 @@ const { title, description, canonical, themeColor = "#1e40af", showSidebar = tru
   </head>
   <body class="m-0 p-0 font-sans bg-slate-50 text-slate-800 leading-relaxed dark:bg-slate-900 dark:text-slate-200">
     <div class="flex h-screen">
-      {showSidebar && (
+      <!-- Sidebar temporarily commented out but preserved for future use -->
+      <!-- {showSidebar && (
         <ThemeProvider client:load>
           <Sidebar client:load currentPath={Astro.url.pathname} basePath="/freedevtools/t" />
         </ThemeProvider>
-      )}
-      <main class="flex-1 overflow-auto bg-background">
+      )} -->
+      
+      <!-- AdBanner component with responsive positioning -->
+      <ThemeProvider client:load>
+        <AdBanner client:load />
+      </ThemeProvider>
+      
+      <!-- Main content area adjusted for banner layout -->
+      <main class="flex-1 overflow-auto bg-background pt-36 lg:pt-0 lg:pr-80">
         <ThemeProvider client:load>
           <slot />
         </ThemeProvider>
