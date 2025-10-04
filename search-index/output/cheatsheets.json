@@ -7840,157 +7840,10 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-elixir",
-    "name": "elixir cheatsheets",
-    "description": "Collection of cheatsheets for elixir",
-    "path": "/freedevtools/c/elixir",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-aws-ecr",
-    "name": "aws-ecr cheatsheets",
-    "description": "Collection of cheatsheets for aws-ecr",
-    "path": "/freedevtools/c/aws-ecr",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-docker",
-    "name": "docker cheatsheets",
-    "description": "Collection of cheatsheets for docker",
-    "path": "/freedevtools/c/docker",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-ecs",
-    "name": "ecs cheatsheets",
-    "description": "Collection of cheatsheets for ecs",
-    "path": "/freedevtools/c/ecs",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-pyspark",
-    "name": "pyspark cheatsheets",
-    "description": "Collection of cheatsheets for pyspark",
-    "path": "/freedevtools/c/pyspark",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-utils",
-    "name": "utils cheatsheets",
-    "description": "Collection of cheatsheets for utils",
-    "path": "/freedevtools/c/utils",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-aws-iam",
-    "name": "aws-iam cheatsheets",
-    "description": "Collection of cheatsheets for aws-iam",
-    "path": "/freedevtools/c/aws-iam",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-tools",
-    "name": "tools cheatsheets",
-    "description": "Collection of cheatsheets for tools",
-    "path": "/freedevtools/c/tools",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-elasticsearch",
-    "name": "elasticsearch cheatsheets",
-    "description": "Collection of cheatsheets for elasticsearch",
-    "path": "/freedevtools/c/elasticsearch",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-productivity",
-    "name": "productivity cheatsheets",
-    "description": "Collection of cheatsheets for productivity",
-    "path": "/freedevtools/c/productivity",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-vim",
-    "name": "vim cheatsheets",
-    "description": "Collection of cheatsheets for vim",
-    "path": "/freedevtools/c/vim",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-aws-python",
-    "name": "aws-python cheatsheets",
-    "description": "Collection of cheatsheets for aws-python",
-    "path": "/freedevtools/c/aws-python",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-cloud_tools",
-    "name": "cloud_tools cheatsheets",
-    "description": "Collection of cheatsheets for cloud_tools",
-    "path": "/freedevtools/c/cloud_tools",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-golang",
-    "name": "golang cheatsheets",
-    "description": "Collection of cheatsheets for golang",
-    "path": "/freedevtools/c/golang",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-python-flask",
-    "name": "python-flask cheatsheets",
-    "description": "Collection of cheatsheets for python-flask",
-    "path": "/freedevtools/c/python-flask",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-ansible",
-    "name": "ansible cheatsheets",
-    "description": "Collection of cheatsheets for ansible",
-    "path": "/freedevtools/c/ansible",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-codedeploy",
-    "name": "codedeploy cheatsheets",
-    "description": "Collection of cheatsheets for codedeploy",
-    "path": "/freedevtools/c/codedeploy",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-prometheus",
-    "name": "prometheus cheatsheets",
-    "description": "Collection of cheatsheets for prometheus",
-    "path": "/freedevtools/c/prometheus",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-ruby",
-    "name": "ruby cheatsheets",
-    "description": "Collection of cheatsheets for ruby",
-    "path": "/freedevtools/c/ruby",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-unreal_engine_5",
-    "name": "unreal_engine_5 cheatsheets",
-    "description": "Collection of cheatsheets for unreal_engine_5",
-    "path": "/freedevtools/c/unreal_engine_5",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-version_control",
-    "name": "version_control cheatsheets",
-    "description": "Collection of cheatsheets for version_control",
-    "path": "/freedevtools/c/version_control",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-frontend",
-    "name": "frontend cheatsheets",
-    "description": "Collection of cheatsheets for frontend",
-    "path": "/freedevtools/c/frontend",
+    "id": "cheatsheets-aws-codebuild",
+    "name": "aws-codebuild cheatsheets",
+    "description": "Collection of cheatsheets for aws-codebuild",
+    "path": "/freedevtools/c/aws-codebuild",
     "category": "cheatsheets"
   },
   {
@@ -8001,45 +7854,10 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-backend",
-    "name": "backend cheatsheets",
-    "description": "Collection of cheatsheets for backend",
-    "path": "/freedevtools/c/backend",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-devops",
-    "name": "devops cheatsheets",
-    "description": "Collection of cheatsheets for devops",
-    "path": "/freedevtools/c/devops",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-redis",
-    "name": "redis cheatsheets",
-    "description": "Collection of cheatsheets for redis",
-    "path": "/freedevtools/c/redis",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-slack",
-    "name": "slack cheatsheets",
-    "description": "Collection of cheatsheets for slack",
-    "path": "/freedevtools/c/slack",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-django_rest_framework",
-    "name": "django_rest_framework cheatsheets",
-    "description": "Collection of cheatsheets for django_rest_framework",
-    "path": "/freedevtools/c/django_rest_framework",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-gitlab-ci",
-    "name": "gitlab-ci cheatsheets",
-    "description": "Collection of cheatsheets for gitlab-ci",
-    "path": "/freedevtools/c/gitlab-ci",
+    "id": "cheatsheets-javascript",
+    "name": "javascript cheatsheets",
+    "description": "Collection of cheatsheets for javascript",
+    "path": "/freedevtools/c/javascript",
     "category": "cheatsheets"
   },
   {
@@ -8050,38 +7868,10 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-benchmarking",
-    "name": "benchmarking cheatsheets",
-    "description": "Collection of cheatsheets for benchmarking",
-    "path": "/freedevtools/c/benchmarking",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-html-css",
-    "name": "html-css cheatsheets",
-    "description": "Collection of cheatsheets for html-css",
-    "path": "/freedevtools/c/html-css",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-ide_editors",
-    "name": "ide_editors cheatsheets",
-    "description": "Collection of cheatsheets for ide_editors",
-    "path": "/freedevtools/c/ide_editors",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-security",
-    "name": "security cheatsheets",
-    "description": "Collection of cheatsheets for security",
-    "path": "/freedevtools/c/security",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-terminal_emulators",
-    "name": "terminal_emulators cheatsheets",
-    "description": "Collection of cheatsheets for terminal_emulators",
-    "path": "/freedevtools/c/terminal_emulators",
+    "id": "cheatsheets-ruby",
+    "name": "ruby cheatsheets",
+    "description": "Collection of cheatsheets for ruby",
+    "path": "/freedevtools/c/ruby",
     "category": "cheatsheets"
   },
   {
@@ -8092,31 +7882,10 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-languages",
-    "name": "languages cheatsheets",
-    "description": "Collection of cheatsheets for languages",
-    "path": "/freedevtools/c/languages",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-php-composer",
-    "name": "php-composer cheatsheets",
-    "description": "Collection of cheatsheets for php-composer",
-    "path": "/freedevtools/c/php-composer",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-programming",
-    "name": "programming cheatsheets",
-    "description": "Collection of cheatsheets for programming",
-    "path": "/freedevtools/c/programming",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-pushgateway",
-    "name": "pushgateway cheatsheets",
-    "description": "Collection of cheatsheets for pushgateway",
-    "path": "/freedevtools/c/pushgateway",
+    "id": "cheatsheets-ansible",
+    "name": "ansible cheatsheets",
+    "description": "Collection of cheatsheets for ansible",
+    "path": "/freedevtools/c/ansible",
     "category": "cheatsheets"
   },
   {
@@ -8127,76 +7896,6 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-aws-codebuild",
-    "name": "aws-codebuild cheatsheets",
-    "description": "Collection of cheatsheets for aws-codebuild",
-    "path": "/freedevtools/c/aws-codebuild",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-ci_cd",
-    "name": "ci_cd cheatsheets",
-    "description": "Collection of cheatsheets for ci_cd",
-    "path": "/freedevtools/c/ci_cd",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-dogecoin",
-    "name": "dogecoin cheatsheets",
-    "description": "Collection of cheatsheets for dogecoin",
-    "path": "/freedevtools/c/dogecoin",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-javascript",
-    "name": "javascript cheatsheets",
-    "description": "Collection of cheatsheets for javascript",
-    "path": "/freedevtools/c/javascript",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-monitoring",
-    "name": "monitoring cheatsheets",
-    "description": "Collection of cheatsheets for monitoring",
-    "path": "/freedevtools/c/monitoring",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-aws-cli",
-    "name": "aws-cli cheatsheets",
-    "description": "Collection of cheatsheets for aws-cli",
-    "path": "/freedevtools/c/aws-cli",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-databases",
-    "name": "databases cheatsheets",
-    "description": "Collection of cheatsheets for databases",
-    "path": "/freedevtools/c/databases",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-bitcoin",
-    "name": "bitcoin cheatsheets",
-    "description": "Collection of cheatsheets for bitcoin",
-    "path": "/freedevtools/c/bitcoin",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-dynamodb",
-    "name": "dynamodb cheatsheets",
-    "description": "Collection of cheatsheets for dynamodb",
-    "path": "/freedevtools/c/dynamodb",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-mongodb",
-    "name": "mongodb cheatsheets",
-    "description": "Collection of cheatsheets for mongodb",
-    "path": "/freedevtools/c/mongodb",
-    "category": "cheatsheets"
-  },
-  {
     "id": "cheatsheets-drone-ci",
     "name": "drone-ci cheatsheets",
     "description": "Collection of cheatsheets for drone-ci",
@@ -8204,45 +7903,10 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-loki",
-    "name": "loki cheatsheets",
-    "description": "Collection of cheatsheets for loki",
-    "path": "/freedevtools/c/loki",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-nginx",
-    "name": "nginx cheatsheets",
-    "description": "Collection of cheatsheets for nginx",
-    "path": "/freedevtools/c/nginx",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-php",
-    "name": "php cheatsheets",
-    "description": "Collection of cheatsheets for php",
-    "path": "/freedevtools/c/php",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-terraform",
-    "name": "terraform cheatsheets",
-    "description": "Collection of cheatsheets for terraform",
-    "path": "/freedevtools/c/terraform",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-github-actions",
-    "name": "github-actions cheatsheets",
-    "description": "Collection of cheatsheets for github-actions",
-    "path": "/freedevtools/c/github-actions",
-    "category": "cheatsheets"
-  },
-  {
-    "id": "cheatsheets-kubernetes",
-    "name": "kubernetes cheatsheets",
-    "description": "Collection of cheatsheets for kubernetes",
-    "path": "/freedevtools/c/kubernetes",
+    "id": "cheatsheets-frontend",
+    "name": "frontend cheatsheets",
+    "description": "Collection of cheatsheets for frontend",
+    "path": "/freedevtools/c/frontend",
     "category": "cheatsheets"
   },
   {
@@ -8253,10 +7917,346 @@
     "category": "cheatsheets"
   },
   {
+    "id": "cheatsheets-aws-python",
+    "name": "aws-python cheatsheets",
+    "description": "Collection of cheatsheets for aws-python",
+    "path": "/freedevtools/c/aws-python",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-benchmarking",
+    "name": "benchmarking cheatsheets",
+    "description": "Collection of cheatsheets for benchmarking",
+    "path": "/freedevtools/c/benchmarking",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-utils",
+    "name": "utils cheatsheets",
+    "description": "Collection of cheatsheets for utils",
+    "path": "/freedevtools/c/utils",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-html-css",
+    "name": "html-css cheatsheets",
+    "description": "Collection of cheatsheets for html-css",
+    "path": "/freedevtools/c/html-css",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-aws-iam",
+    "name": "aws-iam cheatsheets",
+    "description": "Collection of cheatsheets for aws-iam",
+    "path": "/freedevtools/c/aws-iam",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-databases",
+    "name": "databases cheatsheets",
+    "description": "Collection of cheatsheets for databases",
+    "path": "/freedevtools/c/databases",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-dogecoin",
+    "name": "dogecoin cheatsheets",
+    "description": "Collection of cheatsheets for dogecoin",
+    "path": "/freedevtools/c/dogecoin",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-elixir",
+    "name": "elixir cheatsheets",
+    "description": "Collection of cheatsheets for elixir",
+    "path": "/freedevtools/c/elixir",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-backend",
+    "name": "backend cheatsheets",
+    "description": "Collection of cheatsheets for backend",
+    "path": "/freedevtools/c/backend",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-codedeploy",
+    "name": "codedeploy cheatsheets",
+    "description": "Collection of cheatsheets for codedeploy",
+    "path": "/freedevtools/c/codedeploy",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-php-composer",
+    "name": "php-composer cheatsheets",
+    "description": "Collection of cheatsheets for php-composer",
+    "path": "/freedevtools/c/php-composer",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-security",
+    "name": "security cheatsheets",
+    "description": "Collection of cheatsheets for security",
+    "path": "/freedevtools/c/security",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-monitoring",
+    "name": "monitoring cheatsheets",
+    "description": "Collection of cheatsheets for monitoring",
+    "path": "/freedevtools/c/monitoring",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-devops",
+    "name": "devops cheatsheets",
+    "description": "Collection of cheatsheets for devops",
+    "path": "/freedevtools/c/devops",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-elasticsearch",
+    "name": "elasticsearch cheatsheets",
+    "description": "Collection of cheatsheets for elasticsearch",
+    "path": "/freedevtools/c/elasticsearch",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-programming",
+    "name": "programming cheatsheets",
+    "description": "Collection of cheatsheets for programming",
+    "path": "/freedevtools/c/programming",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-unreal_engine_5",
+    "name": "unreal_engine_5 cheatsheets",
+    "description": "Collection of cheatsheets for unreal_engine_5",
+    "path": "/freedevtools/c/unreal_engine_5",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-ci_cd",
+    "name": "ci_cd cheatsheets",
+    "description": "Collection of cheatsheets for ci_cd",
+    "path": "/freedevtools/c/ci_cd",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-docker",
+    "name": "docker cheatsheets",
+    "description": "Collection of cheatsheets for docker",
+    "path": "/freedevtools/c/docker",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-pyspark",
+    "name": "pyspark cheatsheets",
+    "description": "Collection of cheatsheets for pyspark",
+    "path": "/freedevtools/c/pyspark",
+    "category": "cheatsheets"
+  },
+  {
     "id": "cheatsheets-python",
     "name": "python cheatsheets",
     "description": "Collection of cheatsheets for python",
     "path": "/freedevtools/c/python",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-python-flask",
+    "name": "python-flask cheatsheets",
+    "description": "Collection of cheatsheets for python-flask",
+    "path": "/freedevtools/c/python-flask",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-version_control",
+    "name": "version_control cheatsheets",
+    "description": "Collection of cheatsheets for version_control",
+    "path": "/freedevtools/c/version_control",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-django_rest_framework",
+    "name": "django_rest_framework cheatsheets",
+    "description": "Collection of cheatsheets for django_rest_framework",
+    "path": "/freedevtools/c/django_rest_framework",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-dynamodb",
+    "name": "dynamodb cheatsheets",
+    "description": "Collection of cheatsheets for dynamodb",
+    "path": "/freedevtools/c/dynamodb",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-ecs",
+    "name": "ecs cheatsheets",
+    "description": "Collection of cheatsheets for ecs",
+    "path": "/freedevtools/c/ecs",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-github-actions",
+    "name": "github-actions cheatsheets",
+    "description": "Collection of cheatsheets for github-actions",
+    "path": "/freedevtools/c/github-actions",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-productivity",
+    "name": "productivity cheatsheets",
+    "description": "Collection of cheatsheets for productivity",
+    "path": "/freedevtools/c/productivity",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-redis",
+    "name": "redis cheatsheets",
+    "description": "Collection of cheatsheets for redis",
+    "path": "/freedevtools/c/redis",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-golang",
+    "name": "golang cheatsheets",
+    "description": "Collection of cheatsheets for golang",
+    "path": "/freedevtools/c/golang",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-kubernetes",
+    "name": "kubernetes cheatsheets",
+    "description": "Collection of cheatsheets for kubernetes",
+    "path": "/freedevtools/c/kubernetes",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-mongodb",
+    "name": "mongodb cheatsheets",
+    "description": "Collection of cheatsheets for mongodb",
+    "path": "/freedevtools/c/mongodb",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-prometheus",
+    "name": "prometheus cheatsheets",
+    "description": "Collection of cheatsheets for prometheus",
+    "path": "/freedevtools/c/prometheus",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-languages",
+    "name": "languages cheatsheets",
+    "description": "Collection of cheatsheets for languages",
+    "path": "/freedevtools/c/languages",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-slack",
+    "name": "slack cheatsheets",
+    "description": "Collection of cheatsheets for slack",
+    "path": "/freedevtools/c/slack",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-terminal_emulators",
+    "name": "terminal_emulators cheatsheets",
+    "description": "Collection of cheatsheets for terminal_emulators",
+    "path": "/freedevtools/c/terminal_emulators",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-terraform",
+    "name": "terraform cheatsheets",
+    "description": "Collection of cheatsheets for terraform",
+    "path": "/freedevtools/c/terraform",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-tools",
+    "name": "tools cheatsheets",
+    "description": "Collection of cheatsheets for tools",
+    "path": "/freedevtools/c/tools",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-aws-cli",
+    "name": "aws-cli cheatsheets",
+    "description": "Collection of cheatsheets for aws-cli",
+    "path": "/freedevtools/c/aws-cli",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-aws-ecr",
+    "name": "aws-ecr cheatsheets",
+    "description": "Collection of cheatsheets for aws-ecr",
+    "path": "/freedevtools/c/aws-ecr",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-php",
+    "name": "php cheatsheets",
+    "description": "Collection of cheatsheets for php",
+    "path": "/freedevtools/c/php",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-pushgateway",
+    "name": "pushgateway cheatsheets",
+    "description": "Collection of cheatsheets for pushgateway",
+    "path": "/freedevtools/c/pushgateway",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-gitlab-ci",
+    "name": "gitlab-ci cheatsheets",
+    "description": "Collection of cheatsheets for gitlab-ci",
+    "path": "/freedevtools/c/gitlab-ci",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-nginx",
+    "name": "nginx cheatsheets",
+    "description": "Collection of cheatsheets for nginx",
+    "path": "/freedevtools/c/nginx",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-loki",
+    "name": "loki cheatsheets",
+    "description": "Collection of cheatsheets for loki",
+    "path": "/freedevtools/c/loki",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-vim",
+    "name": "vim cheatsheets",
+    "description": "Collection of cheatsheets for vim",
+    "path": "/freedevtools/c/vim",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-bitcoin",
+    "name": "bitcoin cheatsheets",
+    "description": "Collection of cheatsheets for bitcoin",
+    "path": "/freedevtools/c/bitcoin",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-cloud_tools",
+    "name": "cloud_tools cheatsheets",
+    "description": "Collection of cheatsheets for cloud_tools",
+    "path": "/freedevtools/c/cloud_tools",
+    "category": "cheatsheets"
+  },
+  {
+    "id": "cheatsheets-ide_editors",
+    "name": "ide_editors cheatsheets",
+    "description": "Collection of cheatsheets for ide_editors",
+    "path": "/freedevtools/c/ide_editors",
     "category": "cheatsheets"
   }
 ]

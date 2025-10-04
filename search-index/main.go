@@ -43,11 +43,12 @@ func main() {
 	tldrChan := make(chan []TLDRData, 1)
 	emojisChan := make(chan []EmojiData, 1)
 	svgIconsChan := make(chan []SVGIconData, 1)
+	pngIconsChan := make(chan []SVGIconData, 1)
 	cheatsheetsChan := make(chan []CheatsheetData, 1)
-	errorsChan := make(chan error, 5)
+	errorsChan := make(chan error, 6)
 
 	// Start all collection goroutines
-	wg.Add(5)
+	wg.Add(6)
 
 	go func() {
 		defer wg.Done()
@@ -91,6 +92,17 @@ func main() {
 
 	go func() {
 		defer wg.Done()
+		pngIcons, err := generatePNGIconsData(ctx)
+		if err != nil {
+			errorsChan <- fmt.Errorf("PNG icons data generation failed: %w", err)
+			return
+		}
+		pngIconsChan <- pngIcons
+	}()
+	
+
+	go func() {
+		defer wg.Done()
 		cheatsheets, err := generateCheatsheetsData(ctx)
 		if err != nil {
 			errorsChan <- fmt.Errorf("cheatsheets data generation failed: %w", err)
@@ -106,6 +118,7 @@ func main() {
 		close(tldrChan)
 		close(emojisChan)
 		close(svgIconsChan)
+		close(pngIconsChan)
 		close(cheatsheetsChan)
 		close(errorsChan)
 	}()
@@ -115,12 +128,13 @@ func main() {
 	var tldr []TLDRData
 	var emojis []EmojiData
 	var svgIcons []SVGIconData
+	var pngIcons []SVGIconData
 	var cheatsheets []CheatsheetData
 	var errors []error
 
 	// Track which channels we've received data from
 	receivedChannels := 0
-	totalChannels := 5
+	totalChannels := 6
 
 	for receivedChannels < totalChannels {
 		select {
@@ -148,6 +162,12 @@ func main() {
 				fmt.Printf("✅ SVG icons data collected: %d items\n", len(s))
 			}
 			receivedChannels++
+		case p, ok := <-pngIconsChan:
+			if ok {
+				pngIcons = p
+				fmt.Printf("✅ PNG icons data collected: %d items\n", len(p))
+			}
+			receivedChannels++		
 		case c, ok := <-cheatsheetsChan:
 			if ok {
 				cheatsheets = c
@@ -208,6 +228,11 @@ doneWithErrors:
 		log.Fatalf("Failed to save SVG icons data: %v", err)
 	}
 
+	if err := saveToJSON("png_icons.json", pngIcons); err != nil {
+		log.Fatalf("Failed to save PNG icons data: %v", err)
+	}
+	
+
 	if err := saveToJSON("cheatsheets.json", cheatsheets); err != nil {
 		log.Fatalf("Failed to save cheatsheets data: %v", err)
 	}
@@ -219,6 +244,7 @@ doneWithErrors:
 	fmt.Printf("  - TLDR Pages: %d items\n", len(tldr))
 	fmt.Printf("  - Emojis: %d items\n", len(emojis))
 	fmt.Printf("  - SVG Icons: %d items\n", len(svgIcons))
+	fmt.Printf("  - PNG Icons: %d items\n", len(pngIcons))
 	fmt.Printf("  - Cheatsheets: %d items\n", len(cheatsheets))
 	fmt.Printf("\n💾 All files saved to ./output/ directory\n")
 }
@@ -247,11 +273,13 @@ func runSingleCategory(category string) {
 		runEmojisOnly(ctx, start)
 	case "svg_icons", "svg-icons":
 		runSVGIconsOnly(ctx, start)
+	case "png_icons", "png-icons":
+		runPNGIconsOnly(ctx, start)	
 	case "cheatsheets":
 		runCheatsheetsOnly(ctx, start)
 	default:
 		fmt.Printf("❌ Unknown category: %s\n", category)
-		fmt.Println("Available categories: tools, tldr, emojis, svg_icons, cheatsheets")
+		fmt.Println("Available categories: tools, tldr, emojis, svg_icons, png_icons, cheatsheets")
 		fmt.Println("Usage: go run main.go category=tools")
 		os.Exit(1)
 	}
@@ -382,6 +410,42 @@ func runSVGIconsOnly(ctx context.Context, start time.Time) {
 
 	fmt.Printf("💾 Data saved to output/svg_icons.json\n")
 }
+
+func runPNGIconsOnly(ctx context.Context, start time.Time) {
+	fmt.Println("🖼️ Generating PNG icons data only...")
+
+	icons, err := generatePNGIconsData(ctx)
+	if err != nil {
+		log.Fatalf("❌ PNG icons data generation failed: %v", err)
+	}
+
+	if err := saveToJSON("png_icons.json", icons); err != nil {
+		log.Fatalf("Failed to save PNG icons data: %v", err)
+	}
+
+	elapsed := time.Since(start)
+	fmt.Printf("\n🎉 PNG icons data generation completed in %v\n", elapsed)
+	fmt.Printf("📊 Generated %d PNG icons\n", len(icons))
+
+	// Show sample
+	fmt.Println("\n📝 Sample PNG icons:")
+	for i, icon := range icons {
+		if i >= 10 {
+			fmt.Printf("  ... and %d more icons\n", len(icons)-10)
+			break
+		}
+		fmt.Printf("  %d. %s (ID: %s)\n", i+1, icon.Name, icon.ID)
+		if icon.Description != "" {
+			fmt.Printf("     Description: %s\n", truncateString(icon.Description, 80))
+		}
+		fmt.Printf("     Image: %s\n", icon.Image)
+		fmt.Printf("     Path: %s\n", icon.Path)
+		fmt.Println()
+	}
+
+	fmt.Printf("💾 Data saved to output/png_icons.json\n")
+}
+
 
 func runCheatsheetsOnly(ctx context.Context, start time.Time) {
 	fmt.Println("📖 Generating cheatsheets data only...")

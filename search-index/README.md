@@ -246,6 +246,7 @@ make gen-tools        # Generate tools.json
 make gen-tldr         # Generate tldr_pages.json
 make gen-emojis       # Generate emojis.json
 make gen-svg-icons    # Generate svg_icons.json
+make gen-png-icons    # Generate png_icons.json
 make gen-cheatsheets  # Generate cheatsheets.json
 
 # Generate all categories
