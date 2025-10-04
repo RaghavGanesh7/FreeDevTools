@@ -20,6 +20,9 @@ gen-emojis:
 gen-svg-icons:
 	go run . category svg_icons
 
+gen-png-icons:
+	go run . category png_icons
+
 gen-cheatsheets:
 	go run . category cheatsheets
 
