@@ -56,7 +56,7 @@ const sheets = await getSheetsByCategory(category!);
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-4 lg:gap-8">
       {sheets.map((sheet) => (
         <a 
-          href={sheet.url}
+          href={'/freedevtools'+ sheet.url}
           class="block bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-900 rounded-xl p-4 md:p-4 lg:p-8 transition-all duration-300 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-xl hover:border-border"
         >
           <div class="flex items-center justify-between mb-2">
