@@ -8,10 +8,10 @@ import numpy as np
 # ----------------------------
 # 1. Load JSON files
 # ----------------------------
-with open("cluster.json", "r") as f:
+with open("cluster1.json", "r") as f:
     cluster_data = json.load(f)
 
-with open("cluster_output_png.json", "r") as f:
+with open("cluster2.json", "r") as f:
     cluster_png_data = json.load(f)
 
 # ----------------------------
@@ -105,7 +105,7 @@ for i, key in enumerate(tqdm(png_keys_for_vectorizer, desc="Computing similarity
 # ----------------------------
 # 7. Save results
 # ----------------------------
-with open("png_to_cluster_similarity.json", "w") as f:
+with open("cluster_similarity.json", "w") as f:
     json.dump(png_results_flags, f, indent=2)
 
 print("Similarity computation completed successfully!")
