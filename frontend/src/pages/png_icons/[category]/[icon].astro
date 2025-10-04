@@ -246,9 +246,9 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
 
         {/* Sections */}
         {[
-          { title: "Use Cases", content: iconData.usecases },
+          { title: "Use Cases for this icon", content: iconData.usecases },
           { 
-            title: "Synonyms", 
+            title: "Synonyms for this search term", 
             content: iconData.synonyms.length ? (
               <div class="flex flex-wrap gap-2">
                 {iconData.synonyms.map((synonym) => (
@@ -259,8 +259,8 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
               </div>
             ) : "No synonyms available." 
           },
-          { title: "Industry Relevance", content: iconData.industry },
-          { title: "Emotional Cues", content: iconData.emotional_cues }
+          { title: "Industry Relevance for this icon", content: iconData.industry },
+          { title: "Emotional Cues for this icon", content: iconData.emotional_cues }
         ].map((section) => (
           <div key={section.title}>
             <h2 class="text-lg font-semibold mb-2 text-black dark:text-slate-300">{section.title}</h2>
