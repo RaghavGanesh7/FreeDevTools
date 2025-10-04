@@ -61,7 +61,7 @@ func generatePNGIconsData(ctx context.Context) ([]SVGIconData, error) {
 				Name:        displayName,
 				Description: description,
 				Path:        iconPath,
-				Image:       fmt.Sprintf("/png_icons/%s/%s", clusterEntry.SourceFolder, fileName.FileName),
+				Image:       fmt.Sprintf("/svg_icons/%s/%s", clusterEntry.SourceFolder, fileName.FileName),
 				Category:    "png_icons",
 			}
 
