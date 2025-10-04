@@ -1,4 +1,4 @@
-[![FreeDevTools](frontend/public/site-banner.png)](https://hexmos.com/freedevtools/)
+[![FreeDevTools](frontend/public/fdt-banner.png)](https://hexmos.com/freedevtools/)
 
 A curated collection of 1,25,000+ free resources, icons, cheat sheets, and TLDRs. No login, unlimited downloads.
 
