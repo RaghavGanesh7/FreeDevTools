@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"regexp"
+	"sort"
 	"strings"
 )
 
@@ -48,7 +49,7 @@ func generatePNGIconsData(ctx context.Context) ([]SVGIconData, error) {
 			iconName = strings.TrimSuffix(iconName, ".svg")
 
 			displayName := formatIconName(iconName)
-			iconPath := fmt.Sprintf("/freedevtools/png_icons/%s/%s", clusterEntry.SourceFolder, iconName)
+			iconPath := fmt.Sprintf("/freedevtools/png_icons/%s/%s/", clusterEntry.SourceFolder, iconName)
 			iconID := generatePNGIconIDFromPath(iconPath)
 
 			description := fileName.Description
@@ -68,6 +69,11 @@ func generatePNGIconsData(ctx context.Context) ([]SVGIconData, error) {
 			pngIconsData = append(pngIconsData, iconData)
 		}
 	}
+
+	// Sort by ID
+	sort.Slice(pngIconsData, func(i, j int) bool {
+		return pngIconsData[i].ID < pngIconsData[j].ID
+	})
 
 	fmt.Printf("🖼️ Processed %d categories with %d PNG icons total\n", categoryCount, iconCount)
 	return pngIconsData, nil
