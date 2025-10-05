@@ -150,12 +150,18 @@ jobs:
             echo "🔧 Public assets only mode - no page exclusions needed"
           fi
 
-      - name: Install dependencies and build
+      - name: Install dependencies
         if: steps.detect-changes.outputs.should_deploy == 'true' && steps.detect-changes.outputs.changed_sections != 'public_assets_only'
         run: |
-          echo "📦 Installing dependencies and building..."
+          echo "📦 Installing dependencies..."
           cd frontend
           npm install
+
+      - name: Build project
+        if: steps.detect-changes.outputs.should_deploy == 'true' && steps.detect-changes.outputs.changed_sections != 'public_assets_only'
+        run: |
+          echo "🔨 Building project..."
+          cd frontend
           NODE_OPTIONS="--max-old-space-size=8192" npx astro build
         env:
           PUBLIC_GA_ID: ${{ secrets.PUBLIC_GA_ID }}
