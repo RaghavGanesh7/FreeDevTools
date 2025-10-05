@@ -8,6 +8,31 @@ import { marked } from 'marked';
 
 export const prerender = true;
 
+// Generate static paths for all MCP repositories
+export async function getStaticPaths() {
+  const { getCollection } = await import('astro:content');
+  const categoryEntries = await getCollection('mcpCategoryData' as any);
+  
+  const paths: Array<{ params: { category: string; repositoryId: string } }> = [];
+  
+  for (const categoryEntry of categoryEntries) {
+    const categoryData = (categoryEntry as any).data;
+    const category = categoryData.category;
+    
+    // Generate paths for all repositories in this category
+    Object.keys(categoryData.repositories).forEach((repositoryId) => {
+      paths.push({
+        params: {
+          category,
+          repositoryId
+        }
+      });
+    });
+  }
+  
+  return paths;
+}
+
 const { category, repositoryId } = Astro.params;
 
 if (!category || !repositoryId) {
