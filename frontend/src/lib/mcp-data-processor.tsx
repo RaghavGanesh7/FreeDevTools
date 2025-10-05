@@ -7,7 +7,7 @@ export interface ProcessedServer {
   authorUrl: string;
   description: string;
   isOfficial: boolean;
-  categories: string;
+  categories: string[];
   imageUrl?: string;
   scores: {
     security: string;
@@ -94,45 +94,49 @@ export interface ProcessedMetadata {
   };
 }
 
-export interface InputData {
+export interface MetadataInputData {
   totalCategories: number;
   totalRepositories: number;
   processing_started: string;
-  data: {
+  processing_completed: string;
+  categories: {
     [categoryKey: string]: {
-      category: string;
       categoryDisplay: string;
-      description: string;
       totalRepositories: number;
-      repositories: {
-        [repoKey: string]: {
-          owner: string;
-          name: string;
-          url: string;
-          imageUrl: string;
-          description: string;
-          enhanced: boolean;
-          processed: boolean;
-          got_data: boolean;
-          processing_timestamp: string;
-          collection_timestamp: string;
-          stars: number;
-          forks: number;
-          license: string;
-          language: string;
-          created_at: string;
-          updated_at: string;
-          open_issues: number;
-          readme_content: string;
-          github_success: boolean;
-          github_error: string | null;
-          npm_url: string;
-          npm_downloads: number;
-          npm_package_name: string | null;
-          npm_success: boolean;
-          npm_error: string | null;
-        };
-      };
+      totalStars: number;
+      totalForks: number;
+      npmPackages: number;
+      npmDownloads: number;
+    };
+  };
+  summary: {
+    totalStars: number;
+    totalForks: number;
+    npmPackages: number;
+    npmDownloads: number;
+  };
+}
+
+export interface CategoryInputData {
+  category: string;
+  categoryDisplay: string;
+  description: string;
+  totalRepositories: number;
+  repositories: {
+    [repoKey: string]: {
+      owner: string;
+      name: string;
+      url: string;
+      imageUrl?: string;
+      description?: string;
+      stars: number;
+      forks: number;
+      license: string;
+      language: string;
+      updated_at: string;
+      readme_content?: string;
+      npm_url: string;
+      npm_downloads: number;
     };
   };
 }
@@ -147,19 +151,22 @@ export async function loadMcpData(): Promise<{
 }> {
   // Load data from Astro content collections
   const { getCollection } = await import('astro:content');
-  const mcpDataEntries = await getCollection('mcpData');
+  const [metadataEntries, categoryEntries] = await Promise.all([
+    getCollection('mcpMetadata' as any),
+    getCollection('mcpCategoryData' as any)
+  ]);
 
-  // Get the first (and only) entry from the collection
-  const mcpDataEntry = mcpDataEntries[0];
-  if (!mcpDataEntry) {
-    throw new Error('No MCP data found in content collection');
+  // Get the metadata entry
+  const metadataEntry = metadataEntries[0];
+  if (!metadataEntry) {
+    throw new Error('No MCP metadata found in content collection');
   }
 
-  return processInputData(mcpDataEntry.data as InputData);
+  return processInputData((metadataEntry as any).data as MetadataInputData, categoryEntries);
 }
 
-// Process input.json data into the expected format
-export function processInputData(inputData: InputData): {
+// Process input data into the expected format
+export function processInputData(metadataData: MetadataInputData, categoryEntries: any[]): {
   servers: ProcessedServer[];
   tools: ProcessedTool[];
   clients: ProcessedClient[];
@@ -171,58 +178,52 @@ export function processInputData(inputData: InputData): {
   const clients: ProcessedClient[] = []; // Currently mock, will be populated from input.json if available
   const categories: ProcessedCategory[] = [];
 
-  // Process categories from input data
-  Object.entries(inputData.data).forEach(([categoryKey, categoryData]) => {
-    // Count processed repositories for this category
-    let processedRepoCount = 0;
-    Object.values(categoryData.repositories).forEach((repo) => {
-      if (repo.processed && repo.got_data) {
-        processedRepoCount++;
-      }
-    });
-
+  // Process categories from metadata
+  Object.entries(metadataData.categories).forEach(([categoryKey, categoryMeta]) => {
     const category: ProcessedCategory = {
-      id: categoryData.category,
-      name: categoryData.categoryDisplay,
-      description: categoryData.description,
-      icon: getCategoryIcon(categoryData.category),
-      serverCount: processedRepoCount, // Use actual processed count
-      url: `/freedevtools/mcp/${categoryData.category}`,
+      id: categoryKey,
+      name: categoryMeta.categoryDisplay,
+      description: `Explore MCP repositories in the ${categoryMeta.categoryDisplay} category`,
+      icon: getCategoryIcon(categoryKey),
+      serverCount: categoryMeta.totalRepositories,
+      url: `/freedevtools/mcp/${categoryKey}`,
     };
     categories.push(category);
+  });
+
+  // Process repositories from category files
+  categoryEntries.forEach((categoryEntry) => {
+    const categoryData = (categoryEntry as any).data as CategoryInputData;
 
     // Process repositories as servers
     Object.entries(categoryData.repositories).forEach(([repoKey, repo]) => {
-      // Only process repositories that have been successfully processed
-      if (repo.processed && repo.got_data) {
-        const server: ProcessedServer = {
-          id: repoKey,
-          name: repo.name,
-          author: repo.owner,
-          authorUrl: `https://github.com/${repo.owner}`,
-          description: repo.description,
-          isOfficial: categoryData.category === 'official-servers',
-          categories: categoryData.category,
-          imageUrl: repo.imageUrl || undefined,
-          scores: {
-            security: 'A', // Default score
-            license: getLicenseScore(repo.license),
-            quality: 'A', // Default score
-          },
-          stats: {
-            tools: Math.floor(Math.random() * 50) + 1, // Mock tool count
-            weeklyDownloads: repo.npm_downloads || 0,
-            githubStars: repo.stars,
-            lastUpdated: formatTimeAgo(repo.updated_at),
-          },
-          license: repo.license,
-          url: `/freedevtools/mcp/servers/@${repo.owner}/${repo.name}`,
-          githubUrl: repo.url,
-          npmUrl: repo.npm_url || undefined,
-          readmeContent: repo.readme_content || undefined,
-        };
-        servers.push(server);
-      }
+      const server: ProcessedServer = {
+        id: repoKey,
+        name: repo.name,
+        author: repo.owner,
+        authorUrl: `https://github.com/${repo.owner}`,
+        description: repo.description || '',
+        isOfficial: categoryData.category === 'official-servers',
+        categories: [categoryData.category],
+        imageUrl: repo.imageUrl || undefined,
+        scores: {
+          security: 'A', // Default score
+          license: getLicenseScore(repo.license),
+          quality: 'A', // Default score
+        },
+        stats: {
+          tools: Math.floor(Math.random() * 50) + 1, // Mock tool count
+          weeklyDownloads: repo.npm_downloads || 0,
+          githubStars: repo.stars,
+          lastUpdated: formatTimeAgo(repo.updated_at),
+        },
+        license: repo.license,
+        url: `/freedevtools/mcp/servers/@${repo.owner}/${repo.name}`,
+        githubUrl: repo.url,
+        npmUrl: repo.npm_url || undefined,
+        readmeContent: repo.readme_content || undefined,
+      };
+      servers.push(server);
     });
   });
 
@@ -285,7 +286,7 @@ export function processInputData(inputData: InputData): {
     totalTools: mockTools.length,
     totalClients: mockClients.length,
     totalCategories: categories.length,
-    lastUpdated: inputData.processing_started,
+    lastUpdated: metadataData.processing_started,
     version: '1.0.0',
     pagination: {
       defaultPerPage: 100,
@@ -326,6 +327,66 @@ export function processInputData(inputData: InputData): {
     categories,
     metadata,
   };
+}
+
+// Load data for a specific category
+export async function loadMcpCategoryData(categoryId: string): Promise<{
+  servers: ProcessedServer[];
+  category: ProcessedCategory;
+}> {
+  const { getCollection } = await import('astro:content');
+  const categoryEntries = await getCollection('mcpCategoryData' as any);
+
+  // Find the specific category entry
+  const categoryEntry = categoryEntries.find((entry: any) => entry.data.category === categoryId);
+  if (!categoryEntry) {
+    throw new Error(`Category ${categoryId} not found`);
+  }
+
+  const categoryData = (categoryEntry as any).data as CategoryInputData;
+  const servers: ProcessedServer[] = [];
+
+  // Process repositories as servers
+  Object.entries(categoryData.repositories).forEach(([repoKey, repo]) => {
+    const server: ProcessedServer = {
+      id: repoKey,
+      name: repo.name,
+      author: repo.owner,
+      authorUrl: `https://github.com/${repo.owner}`,
+      description: repo.description || '',
+      isOfficial: categoryData.category === 'official-servers',
+      categories: [categoryData.category],
+      imageUrl: repo.imageUrl || undefined,
+      scores: {
+        security: 'A', // Default score
+        license: getLicenseScore(repo.license),
+        quality: 'A', // Default score
+      },
+      stats: {
+        tools: Math.floor(Math.random() * 50) + 1, // Mock tool count
+        weeklyDownloads: repo.npm_downloads || 0,
+        githubStars: repo.stars,
+        lastUpdated: formatTimeAgo(repo.updated_at),
+      },
+      license: repo.license,
+      url: `/freedevtools/mcp/servers/@${repo.owner}/${repo.name}`,
+      githubUrl: repo.url,
+      npmUrl: repo.npm_url || undefined,
+      readmeContent: repo.readme_content || undefined,
+    };
+    servers.push(server);
+  });
+
+  const category: ProcessedCategory = {
+    id: categoryData.category,
+    name: categoryData.categoryDisplay,
+    description: categoryData.description,
+    icon: getCategoryIcon(categoryData.category),
+    serverCount: categoryData.totalRepositories,
+    url: `/freedevtools/mcp/${categoryData.category}`,
+  };
+
+  return { servers, category };
 }
 
 // Helper functions
