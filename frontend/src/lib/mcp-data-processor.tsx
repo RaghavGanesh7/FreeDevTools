@@ -9,6 +9,7 @@ export interface ProcessedServer {
   isOfficial: boolean;
   categories: string[];
   imageUrl?: string;
+  keywords?: string[];
   scores: {
     security: string;
     license: string;
@@ -137,6 +138,7 @@ export interface CategoryInputData {
       readme_content?: string;
       npm_url: string;
       npm_downloads: number;
+      keywords?: string[];
     };
   };
 }
@@ -222,6 +224,7 @@ export function processInputData(metadataData: MetadataInputData, categoryEntrie
         githubUrl: repo.url,
         npmUrl: repo.npm_url || undefined,
         readmeContent: repo.readme_content || undefined,
+        keywords: repo.keywords || undefined,
       };
       servers.push(server);
     });
@@ -373,6 +376,7 @@ export async function loadMcpCategoryData(categoryId: string): Promise<{
       githubUrl: repo.url,
       npmUrl: repo.npm_url || undefined,
       readmeContent: repo.readme_content || undefined,
+      keywords: repo.keywords || undefined,
     };
     servers.push(server);
   });

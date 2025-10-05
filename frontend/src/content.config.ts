@@ -98,6 +98,7 @@ const mcpCategoryData = defineCollection({
         readme_content: z.string().optional(),
         npm_url: z.string(),
         npm_downloads: z.number(),
+        keywords: z.array(z.string()).optional(),
       })
     ),
   }),

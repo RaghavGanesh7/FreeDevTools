@@ -43,17 +43,47 @@ const { category: categoryInfo } = await loadMcpCategoryData(category);
 // SEO Data
 const title = `${formattedName} - MCP Repository | Model Context Protocol Server | Free DevTools by Hexmos`;
 const description = `Download and use ${formattedName} MCP repository instantly. ${server.description} Browse Model Context Protocol servers, tools, and clients. Free, no registration required.`;
-const keywords = [
-  'mcp repository',
-  'model context protocol',
-  server.name.toLowerCase(),
-  'ai agent tools',
-  'mcp directory',
-  'open source mcp',
-  `${server.name.toLowerCase()} mcp server`,
-  'mcp tools',
-  'ai tools repository'
-];
+
+// Use repository keywords if available, otherwise use base keywords
+let keywords: string[];
+
+if (server.keywords && server.keywords.length > 0) {
+  // Use repository-specific keywords as primary
+  const categoryKeywords = [
+    `${categoryInfo.name.toLowerCase()} mcp`,
+    `${categoryInfo.name.toLowerCase()} tools`,
+    `${categoryInfo.name.toLowerCase()} server`
+  ];
+  
+  // Combine repository keywords with category keywords
+  keywords = [...new Set([...server.keywords, ...categoryKeywords])];
+} else {
+  // Fall back to base keywords if no repository keywords
+  const baseKeywords = [
+    'mcp repository',
+    'model context protocol',
+    server.name.toLowerCase(),
+    'ai agent tools',
+    'mcp directory',
+    'open source mcp',
+    `${server.name.toLowerCase()} mcp server`,
+    'mcp tools',
+    'ai tools repository',
+    'mcp server',
+    'model context protocol server',
+    'ai assistant tools',
+    'claude desktop',
+    'anthropic mcp'
+  ];
+  
+  const categoryKeywords = [
+    `${categoryInfo.name.toLowerCase()} mcp`,
+    `${categoryInfo.name.toLowerCase()} tools`,
+    `${categoryInfo.name.toLowerCase()} server`
+  ];
+  
+  keywords = [...new Set([...baseKeywords, ...categoryKeywords])];
+}
 
 // Breadcrumb data
 const categoryName = categoryInfo.name;
@@ -83,6 +113,7 @@ const breadcrumbItems = [
     `GitHub Stars: ${server.stats.githubStars}`,
     'Detailed documentation and usage examples'
   ]}
+  githubUrl={server.githubUrl}
 >
   <ToolContainer>
     
