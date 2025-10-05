@@ -71,6 +71,9 @@ export interface Props {
   commandName?: string;
   platform?: string;
   commandCategory?: string;
+  
+  // MCP Repository specific
+  githubUrl?: string;
 }
 
 const { 
@@ -132,6 +135,9 @@ const {
   commandName,
   platform,
   commandCategory,
+  
+  // MCP Repository specific
+  githubUrl,
 } = Astro.props;
 
 const currentUrl = canonical || Astro.url.href;
@@ -176,6 +182,17 @@ function determinePageType(path: string, props: any): string {
       return 'CollectionPage'; // Platform page
     } else {
       return 'CollectionPage'; // Main TLDR page
+    }
+  }
+  
+  // MCP pages
+  if (path.includes('/mcp/')) {
+    if (path.match(/\/mcp\/[^\/]+\/[^\/]+$/)) {
+      return 'SoftwareApplication'; // Individual MCP repository page
+    } else if (path.match(/\/mcp\/[^\/]+$/)) {
+      return 'CollectionPage'; // MCP category page
+    } else {
+      return 'CollectionPage'; // Main MCP page
     }
   }
   
@@ -271,26 +288,60 @@ function generatePageSpecificSchema(pageType: string, props: any) {
         }
       };
       
-    case 'SoftwareApplication': // Tool page
-      return {
-        ...baseSchema,
-        "@type": "SoftwareApplication",
-        "name": props.name,
-        "description": props.description,
-        "applicationCategory": "DeveloperTool",
-        "operatingSystem": "Any",
-        "browserRequirements": "Requires JavaScript. Requires HTML5.",
-        "softwareVersion": props.softwareVersion,
-        "featureList": props.features || [],
-        "keywords": props.keywords?.join(", ") || "",
-        "screenshot": props.ogImage,
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "USD",
-          "availability": "https://schema.org/InStock"
-        }
-      };
+    case 'SoftwareApplication': // Tool page or MCP repository
+      const isMcpRepository = props.path?.includes('/mcp/');
+      
+      if (isMcpRepository) {
+        return {
+          ...baseSchema,
+          "@type": "SoftwareApplication",
+          "name": props.name,
+          "description": props.description,
+          "applicationCategory": "DeveloperTool",
+          "operatingSystem": "Any",
+          "browserRequirements": "Requires Node.js, MCP Client",
+          "softwareVersion": props.softwareVersion,
+          "featureList": props.features || [],
+          "keywords": props.keywords?.join(", ") || "",
+          "screenshot": props.ogImage,
+          "programmingLanguage": "TypeScript",
+          "runtimePlatform": "Node.js",
+          "softwareRequirements": "Model Context Protocol (MCP) compatible client",
+          "category": "Model Context Protocol Server",
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          "codeRepository": {
+            "@type": "SoftwareSourceCode",
+            "url": props.githubUrl || props.url,
+            "programmingLanguage": "TypeScript",
+            "license": props.license === "MIT" ? "https://opensource.org/licenses/MIT" : (props.license || "https://opensource.org/licenses/MIT")
+          }
+        };
+      } else {
+        return {
+          ...baseSchema,
+          "@type": "SoftwareApplication",
+          "name": props.name,
+          "description": props.description,
+          "applicationCategory": "DeveloperTool",
+          "operatingSystem": "Any",
+          "browserRequirements": "Requires JavaScript. Requires HTML5.",
+          "softwareVersion": props.softwareVersion,
+          "featureList": props.features || [],
+          "keywords": props.keywords?.join(", ") || "",
+          "screenshot": props.ogImage,
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        };
+      }
       
     case 'TechArticle': // Command/Cheatsheet page
       return {
@@ -411,15 +462,12 @@ const GA_MEASUREMENT_ID = 'G-WXSDF484XZ';
     
     <!-- Fonts -->
     <!-- Preconnect to font origins -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-<!-- Preload font CSS with media print and onload trick -->
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" crossorigin="anonymous">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" media="print" onload="this.media='all'">
-
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" crossorigin="anonymous">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" media="print" onload="this.media='all'">
+    <!-- Load fonts directly without preload to avoid unused resource warnings -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" crossorigin="anonymous">
 
     <!-- Google Analytics-->
    

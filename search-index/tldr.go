@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 
 	"gopkg.in/yaml.v2"
@@ -42,6 +43,11 @@ func generateTLDRData(ctx context.Context) ([]TLDRData, error) {
 		}
 	}
 
+	// Sort by ID
+	sort.Slice(tldrData, func(i, j int) bool {
+		return tldrData[i].ID < tldrData[j].ID
+	})
+
 	fmt.Printf("📚 Processed %d TLDR files\n", len(tldrData))
 	return tldrData, nil
 }
@@ -76,11 +82,17 @@ func processTLDRFile(filePath string) (*TLDRData, error) {
 	// Generate ID from path
 	id := generateIDFromPath(frontmatter.Path)
 
+	// Ensure path ends with trailing slash
+	path := frontmatter.Path
+	if !strings.HasSuffix(path, "/") {
+		path = path + "/"
+	}
+
 	tldrData := &TLDRData{
 		ID:          id,
 		Name:        frontmatter.Name,
 		Description: frontmatter.Description,
-		Path:        frontmatter.Path,
+		Path:        path,
 		Category:    "tldr", // Always set to "tldr" for all TLDR entries
 	}
 
