@@ -49,7 +49,7 @@ func main() {
 	errorsChan := make(chan error, 6)
 
 	// Start all collection goroutines
-	wg.Add(6)
+	wg.Add(7)
 
 	go func() {
 		defer wg.Done()
@@ -147,7 +147,7 @@ func main() {
 
 	// Track which channels we've received data from
 	receivedChannels := 0
-	totalChannels := 6
+	totalChannels := 7
 
 	for receivedChannels < totalChannels {
 		select {

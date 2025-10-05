@@ -99,6 +99,7 @@ func generateMCPData(ctx context.Context) ([]MCPData, error) {
 		return nil, fmt.Errorf("failed to parse MCP metadata JSON: %w", err)
 	}
 
+
 	var mcpData []MCPData
 
 	// Process each category
@@ -128,8 +129,8 @@ func generateMCPData(ctx context.Context) ([]MCPData, error) {
 
 		// Process each repository in the category
 		for repoKey, repo := range category.Repositories {
-			// Skip if repository doesn't have data
-			if !repo.GotData || !repo.Processed {
+			// Skip if repository doesn't have a description (basic data quality check)
+			if repo.Description == "" {
 				continue
 			}
 
