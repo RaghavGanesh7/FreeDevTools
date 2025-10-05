@@ -278,18 +278,18 @@ const SearchPage: React.FC = () => {
             TLDR
           </Button>
           <Button
-            variant={activeCategory === "cheatsheet" ? "default" : "outline"}
+            variant={activeCategory === "cheatsheets" ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("cheatsheet")}
+            onClick={() => setActiveCategory("cheatsheets")}
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <FileText className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             Cheatsheets
           </Button>
           <Button
-            variant={activeCategory === "png" ? "default" : "outline"}
+            variant={activeCategory === "png_icons" ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("png")}
+            onClick={() => setActiveCategory("png_icons")}
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <Image className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
@@ -360,9 +360,9 @@ const SearchPage: React.FC = () => {
                   return 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200';
                 case 'tldr':
                   return 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200';
-                case 'cheatsheet':
+                case 'cheatsheets':
                   return 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200';
-                case 'png':
+                case 'png_icons':
                   return 'bg-pink-100 text-pink-800 dark:bg-pink-900 dark:text-pink-200';
                 default:
                   return 'bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-200';
@@ -393,20 +393,20 @@ const SearchPage: React.FC = () => {
                       </span>
                     </div>
                   </Card>
-                ) : result.category?.toLowerCase() === "svg_icons" ? (
+                ) : result.category?.toLowerCase() === "svg_icons" || result.category?.toLowerCase() === "png_icons" ? (
                   <Card
                     className="cursor-pointer hover:border-primary hover:bg-slate-50 dark:hover:bg-slate-900 transition-all h-full flex flex-col"
                   >
                     <div className="flex-1 flex flex-col items-center justify-center p-4 relative">
                       {result.category && (
                         <div className={`absolute top-2 right-2 px-2 py-1 rounded-full text-xs font-medium ${getBadgeVariant(result.category)}`}>
-                          SVG Icons
+                          {result.category === "svg_icons" ? "SVG Icons" : "PNG Icons"}
                         </div>
                       )}
                       <div className="w-16 h-16 mb-3 flex items-center justify-center bg-white dark:bg-gray-100 rounded-md p-2">
                         <img 
                           src={`https://hexmos.com/freedevtools${result.image}`} 
-                          alt={result.name || result.title || "SVG Icon"} 
+                          alt={result.name || result.title || "Icon"} 
                           className="w-full h-full object-contain"
                           onError={(e) => {
                             e.currentTarget.style.display = 'none';
@@ -418,7 +418,7 @@ const SearchPage: React.FC = () => {
                       </span>
                     </div>
                   </Card>
-                ) : (
+                ) : (                
                   <Card
                     className="cursor-pointer hover:border-primary hover:bg-slate-50 dark:hover:bg-slate-900 transition-all h-full flex flex-col"
                   >

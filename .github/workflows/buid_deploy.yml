@@ -139,16 +139,11 @@ jobs:
               fi
             done
           elif [[ "$changed_sections" == "full_rebuild" ]]; then
-            echo "🔧 Full rebuild mode - building all sections except tldr"
+            echo "🔧 Full rebuild mode - building all sections"
             for dir in */; do
               if [ -d "$dir" ]; then
                 dir_name=${dir%/}
-                if [[ "$dir_name" == "tldr" ]]; then
-                  echo "❌ Excluding: $dir_name -> _$dir_name (performance optimization)"
-                  mv "$dir" "_$dir"
-                else
-                  echo "✅ Including: $dir_name"
-                fi
+                echo "✅ Including: $dir_name"
               fi
             done
           else

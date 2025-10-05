@@ -39,7 +39,7 @@ const LearnMoreButton: React.FC<{ size?: "sm" | "md" }> = ({ size = "md" }) => {
   );
 };
 
-// Close Button Component
+// Close Button Component - Updated to handle responsive sizing
 const CloseButton: React.FC<{
   size?: "sm" | "md";
   onClick: (e: React.MouseEvent) => void;
@@ -53,7 +53,7 @@ const CloseButton: React.FC<{
       className={`absolute top-2 right-2 flex items-center justify-center text-gray-600 hover:text-gray-800 hover:bg-yellow-200 rounded-full transition-colors duration-200 z-10 py-2 pr-2`}
     >
       <svg
-        className={`${isSmall ? "w-4 h-4" : "w-5 h-5"}`}
+        className={`${isSmall ? "w-4 h-4" : "w-5 h-5"} xl:w-5 xl:h-5`}
         fill="none"
         stroke="currentColor"
         viewBox="0 0 24 24"
@@ -76,6 +76,7 @@ interface AdVariation {
   backgroundColor: string;
   textColor: string;
 }
+
 const link = "https://hexmos.com/livereview/";
 
 const adVariations: AdVariation[] = [
@@ -130,26 +131,10 @@ const adVariations: AdVariation[] = [
   },
 ];
 
-const useWindowWidth = () => {
-  const [width, setWidth] = useState(
-    typeof window !== "undefined" ? window.innerWidth : 1200
-  );
-  useEffect(() => {
-    const handleResize = () => setWidth(window.innerWidth);
-    window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
-  }, []);
-  return width;
-};
-
 const AdBanner: React.FC = () => {
-  const width = useWindowWidth();
-  // Always start with 0 for SSR
+  // Only keep state for things that actually need JS
   const [currentVariation, setCurrentVariation] = useState(0);
   const [isVisible, setIsVisible] = useState(true);
-  const [screenSize, setScreenSize] = useState<"mobile" | "tablet" | "desktop">(
-    "desktop"
-  );
 
   useEffect(() => {
     setCurrentVariation(Math.floor(Math.random() * adVariations.length));
@@ -157,32 +142,9 @@ const AdBanner: React.FC = () => {
 
   const currentAd = adVariations[currentVariation] || adVariations[0];
 
-  useEffect(() => {
-    const handleResize = () => {
-      const width = window.innerWidth;
-      if (width >= 1050) {
-        setScreenSize("desktop");
-      } else if (width >= 768) {
-        setScreenSize("tablet");
-      } else {
-        setScreenSize("mobile");
-      }
-    };
-
-    // Set initial size
-    handleResize();
-
-    // Add event listener
-    window.addEventListener("resize", handleResize);
-
-    // Cleanup
-    return () => window.removeEventListener("resize", handleResize);
-  }, []);
-
   const handleClose = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    console.log("Close button clicked, setting isVisible to false");
     setIsVisible(false);
   };
 
@@ -190,92 +152,51 @@ const AdBanner: React.FC = () => {
     return null;
   }
 
-  // Desktop Layout
-  if (screenSize === "desktop") {
-    return (
-      <div className="w-full bg-yellow-100 hover:bg-yellow-200 border border-gray-200 shadow-sm h-40 mb-10 mt-2 rounded-md relative flex justify-center transition-colors duration-300">
-        <CloseButton size="md" onClick={handleClose} />
-        <a
-          href={link + "?variation=" + currentVariation}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block h-full w-full flex justify-start"
-        >
-          <div className="px-6 h-full w-full min-w-96 flex flex-col justify-center">
-            <div className="text-left">
-              <p className="leading-tight font-eb-garamond tracking-wide mb-4 text-6xl font-bold text-red-700">
-                <span >{currentAd.title}</span>
-              </p>
-            </div>
-            <div className="text-left flex flex-row justify-between items-center gap-24 mt-0">
-              <div className="flex flex-row justify-between items-center gap-12">
-                <p className="text-gray-800 font-eb-garamond leading-relaxed text-3xl font-medium ">
-                  {currentAd.description}
-                </p>
-                <LearnMoreButton size="md" />
-              </div>
-              <div className="flex items-center gap-4 mt-1">
-                <LiveReviewBrand size="lg" />
-              </div>
-            </div>
-          </div>
-        </a>
-      </div>
-    );
-  }
-
-  // Tablet Layout
-  if (screenSize === "tablet") {
-    return (
-      <div className="w-full bg-yellow-100 border border-gray-200 shadow-sm rounded-lg relative mb-10 mt-6">
-        <CloseButton size="sm" onClick={handleClose} />
-        <a
-          href={link + "?variation=" + currentVariation}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block h-full hover:bg-yellow transition-colors duration-300 rounded-lg"
-        >
-          <div className="px-2 py-2 h-full flex flex-col justify-center">
-            <div className="text-left mb-4">
-              <p className="font-bold text-red-700 mb-3 leading-tight font-eb-garamond tracking-wide text-4xl">
-                {currentAd.title}
-              </p>
-              <p className="text-gray-800 font-eb-garamond leading-relaxed text-2xl font-medium">
-                {currentAd.description}
-              </p>
-            </div>
-            <div className="flex flex-row items-center justify-between gap-3">
-              <LearnMoreButton size="sm" />
-              <LiveReviewBrand size="sm" />
-            </div>
-          </div>
-        </a>
-      </div>
-    );
-  }
-
-  // Mobile Layout
   return (
-    <div className="w-full bg-yellow-100 border border-gray-200 shadow-sm rounded-lg relative mb-8 mt-6">
+    <div
+      className="w-full bg-yellow-100 hover:bg-yellow-200 border border-gray-200 shadow-sm rounded-md relative transition-colors duration-300
+      /* Mobile layout (default) */
+      mb-8 mt-6
+      /* Tablet layout */
+      md:mb-10 md:mt-6
+      /* Desktop layout */
+      xl:h-40 xl:mb-10 xl:mt-2 xl:flex xl:justify-center"
+    >
       <CloseButton size="sm" onClick={handleClose} />
       <a
         href={link + "?variation=" + currentVariation}
         target="_blank"
         rel="noopener noreferrer"
-        className="block h-full hover:bg-yellow transition-colors duration-300 rounded-lg"
+        className="block h-full hover:bg-yellow transition-colors duration-300 rounded-lg
+          xl:w-full xl:flex xl:justify-start"
       >
-        <div className="px-4 py-2 h-full flex flex-col justify-center">
-          <div className="text-left mb-4">
-            <p className="text-red-700 mb-2 leading-tight font-eb-garamond tracking-wide text-2xl font-bold">
+        <div className="px-4 py-2 h-full flex flex-col justify-center md:px-2 md:py-2 xl:px-6 xl:py-0 xl:w-full xl:min-w-96">
+          <div className="text-left mb-4 xl:mb-0">
+            <p className="text-red-700 mb-2 leading-tight font-eb-garamond tracking-wide font-bold text-2xl md:text-4xl md:mb-3 md:leading-tight xl:text-6xl xl:mb-4 xl:leading-tight">
               {currentAd.title}
             </p>
-            <p className="text-gray-800 font-eb-garamond leading-relaxed text-xl font-medium">
+            <p className="text-gray-800 font-eb-garamond leading-relaxed font-medium text-xl md:text-2xl xl:hidden">
               {currentAd.description}
             </p>
           </div>
-          <div className="flex flex-row items-center justify-between mb-2">
+
+          {/* Mobile and Tablet button row */}
+          <div className="flex flex-row items-center justify-between mb-2 xl:hidden">
             <LearnMoreButton size="sm" />
             <LiveReviewBrand size="sm" />
+          </div>
+
+          {/* Desktop layout - description and buttons in a row */}
+          <div className="hidden xl:flex xl:flex-row xl:justify-between xl:items-center xl:gap-24 xl:mt-0">
+            <div className="flex flex-row justify-between items-center gap-12">
+              <p className="text-gray-800 font-eb-garamond leading-relaxed text-3xl font-medium">
+                {currentAd.description}
+              </p>
+              <LearnMoreButton size="md" />
+            </div>
+            <div className="flex items-center gap-4 mt-1">
+              <LiveReviewBrand size="lg" />
+            </div>
           </div>
         </div>
       </a>

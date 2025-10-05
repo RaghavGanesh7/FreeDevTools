@@ -6,11 +6,11 @@ import { Tooltips } from 'astro-tooltips';
 
 
 export async function getStaticPaths() {
-  // Load the cluster.json file to get all categories
+  // Load the cluster_svg.json file to get all categories
   const fs = await import('fs/promises');
   const path = await import('path');
   
-  const clustorPath = path.join('./src/pages/svg_icons', 'cluster.json');
+  const clustorPath = path.join('./src/pages/svg_icons', 'cluster_svg.json');
   const clustorData = JSON.parse(await fs.readFile(clustorPath, 'utf-8'));
   
   const categories = Object.values(clustorData.clusters).map((cluster: any) => cluster.name);
@@ -25,11 +25,11 @@ const { category } = Astro.params;
 const { category: categoryProp } = Astro.props;
 
 async function getCategoryIcons() {
-  // Load the cluster.json file for metadata (fast)
+  // Load the cluster_svg.json file for metadata (fast)
   const fs = await import('fs/promises');
   const path = await import('path');
   
-  const clustorPath = path.join('./src/pages/svg_icons', 'cluster.json');
+  const clustorPath = path.join('./src/pages/svg_icons', 'cluster_svg.json');
   const clustorData = JSON.parse(await fs.readFile(clustorPath, 'utf-8'));
   
   // Find the cluster by name
@@ -96,7 +96,7 @@ const categoryIcon = categoryIconMap[category as keyof typeof categoryIconMap] |
   
   <div class="max-w-6xl mx-auto px-2 md:px-6">
       <div class="mb-16 mt-[74px]">
-        <AdBanner client:load />
+        <AdBanner />
       </div>
     
     <div class="mb-8">
@@ -122,7 +122,7 @@ const categoryIcon = categoryIconMap[category as keyof typeof categoryIconMap] |
             {category} SVG Icons
           </h1>
           <p class="text-lg text-slate-600 dark:text-slate-400">
-            {totalIcons} free {category} icons available for download
+            Discover {totalIcons} scalable {category} icons ready in vector SVG format
           </p>
         </div>
       </div>

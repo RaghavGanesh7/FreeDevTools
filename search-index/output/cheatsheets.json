@@ -63,10 +63,10 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-ansible",
-    "name": "ansible cheatsheets",
-    "description": "Collection of cheatsheets for ansible",
-    "path": "/freedevtools/c/ansible",
+    "id": "cheatsheets-dogecoin",
+    "name": "dogecoin cheatsheets",
+    "description": "Collection of cheatsheets for dogecoin",
+    "path": "/freedevtools/c/dogecoin",
     "category": "cheatsheets"
   },
   {
@@ -406,10 +406,10 @@
     "category": "cheatsheets"
   },
   {
-    "id": "cheatsheets-bitcoin",
-    "name": "bitcoin cheatsheets",
-    "description": "Collection of cheatsheets for bitcoin",
-    "path": "/freedevtools/c/bitcoin",
+    "id": "cheatsheets-kubernetes",
+    "name": "kubernetes cheatsheets",
+    "description": "Collection of cheatsheets for kubernetes",
+    "path": "/freedevtools/c/kubernetes",
     "category": "cheatsheets"
   },
   {
