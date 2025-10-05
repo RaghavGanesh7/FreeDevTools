@@ -6,17 +6,16 @@ import { loadMcpCategoryData } from '@/lib/mcp-data-processor.tsx';
 import { formatRepositoryName } from '@/lib/utils';
 import { marked } from 'marked';
 
-export const prerender = true;
 
 // Generate static paths for all MCP repositories
 export async function getStaticPaths() {
   const { getCollection } = await import('astro:content');
-  const categoryEntries = await getCollection('mcpCategoryData' as any);
+  const categoryEntries = await getCollection('mcpCategoryData');
   
   const paths: Array<{ params: { category: string; repositoryId: string } }> = [];
   
   for (const categoryEntry of categoryEntries) {
-    const categoryData = (categoryEntry as any).data;
+    const categoryData = categoryEntry.data;
     const category = categoryData.category;
     
     // Generate paths for all repositories in this category

@@ -1,18 +1,16 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 
-export const prerender = true;
-
 // Generate static paths for all MCP categories
 export async function getStaticPaths() {
   const { getCollection } = await import('astro:content');
-  const metadataEntries = await getCollection('mcpMetadata' as any);
+  const metadataEntries = await getCollection('mcpMetadata');
 
   if (!metadataEntries[0]) {
     return [];
   }
 
-  const metadata = (metadataEntries[0] as any).data;
+  const metadata = metadataEntries[0].data;
   const categories = Object.keys(metadata.categories);
 
   return categories.map((category) => ({
