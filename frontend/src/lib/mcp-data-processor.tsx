@@ -1,5 +1,5 @@
 // MCP Data Processor - Processes input.json into the expected format for the UI
-
+// 
 export interface ProcessedServer {
   id: string;
   name: string;
