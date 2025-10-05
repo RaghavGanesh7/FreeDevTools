@@ -9,13 +9,20 @@ import { marked } from 'marked';
 
 // Generate static paths for all MCP repositories
 export async function getStaticPaths() {
-  const { getCollection } = await import('astro:content');
-  const categoryEntries = await getCollection('mcpCategoryData');
+  const fs = await import('fs/promises');
+  const path = await import('path');
+  
+  const inputDir = path.join('./public/mcp/input');
+  const files = await fs.readdir(inputDir);
+  const jsonFiles = files.filter(file => file.endsWith('.json'));
   
   const paths: Array<{ params: { category: string; repositoryId: string } }> = [];
   
-  for (const categoryEntry of categoryEntries) {
-    const categoryData = categoryEntry.data;
+  for (const file of jsonFiles) {
+    const filePath = path.join(inputDir, file);
+    const fileContent = await fs.readFile(filePath, 'utf-8');
+    const categoryData = JSON.parse(fileContent);
+    
     const category = categoryData.category;
     
     // Generate paths for all repositories in this category

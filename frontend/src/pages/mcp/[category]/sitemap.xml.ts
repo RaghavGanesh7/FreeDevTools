@@ -3,15 +3,22 @@ import { getCollection } from 'astro:content';
 
 // Generate static paths for all MCP categories
 export async function getStaticPaths() {
-  const { getCollection } = await import('astro:content');
-  const metadataEntries = await getCollection('mcpMetadata');
+  const fs = await import('fs/promises');
+  const path = await import('path');
 
-  if (!metadataEntries[0]) {
-    return [];
+  const inputDir = path.join('./public/mcp/input');
+  const files = await fs.readdir(inputDir);
+  const jsonFiles = files.filter((file) => file.endsWith('.json'));
+
+  const categories = [];
+
+  for (const file of jsonFiles) {
+    const filePath = path.join(inputDir, file);
+    const fileContent = await fs.readFile(filePath, 'utf-8');
+    const categoryData = JSON.parse(fileContent);
+
+    categories.push(categoryData.category);
   }
-
-  const metadata = metadataEntries[0].data;
-  const categories = Object.keys(metadata.categories);
 
   return categories.map((category) => ({
     params: { category },
