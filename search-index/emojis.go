@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 )
 
@@ -40,6 +41,11 @@ func generateEmojisData(ctx context.Context) ([]EmojiData, error) {
 			emojisData = append(emojisData, *data)
 		}
 	}
+
+	// Sort by ID
+	sort.Slice(emojisData, func(i, j int) bool {
+		return emojisData[i].ID < emojisData[j].ID
+	})
 
 	fmt.Printf("😀 Processed %d emoji files\n", len(emojisData))
 	return emojisData, nil
@@ -99,7 +105,7 @@ func processEmojiFile(filePath string) (*EmojiData, error) {
 	}
 
 	// Create the path
-	path := fmt.Sprintf("/freedevtools/emoji/%s", slug)
+	path := fmt.Sprintf("/freedevtools/emoji/%s/", slug)
 
 	// Generate ID
 	id := fmt.Sprintf("emojis-%s", slug)

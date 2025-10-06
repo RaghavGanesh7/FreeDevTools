@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 )
 
@@ -51,9 +52,10 @@ func generateCheatsheetsData(ctx context.Context) ([]CheatsheetData, error) {
 		cheatsheetsData = append(cheatsheetsData, categoryData)
 	}
 
-	// Sort by name (like Python script does)
-	// Simple sorting - you could implement a more sophisticated sort if needed
-	// For now, categories will be added after individual cheatsheets
+	// Sort by ID
+	sort.Slice(cheatsheetsData, func(i, j int) bool {
+		return cheatsheetsData[i].ID < cheatsheetsData[j].ID
+	})
 
 	categoriesCount := len(categoriesSet)
 	individualCheatsheets := len(cheatsheetsData) - categoriesCount
@@ -97,7 +99,7 @@ func processCheatsheetFile(filePath, basePath string) (*CheatsheetData, string, 
 	}
 
 	// Generate path
-	fullPath := fmt.Sprintf("/freedevtools/c/%s/%s", category, name)
+	fullPath := fmt.Sprintf("/freedevtools/c/%s/%s/", category, name)
 
 	// Generate ID
 	id := generateCheatsheetID(fullPath)
@@ -150,6 +152,8 @@ func extractHTMLDescription(content string) string {
 func generateCheatsheetID(path string) string {
 	// Remove the base path
 	cleanPath := strings.Replace(path, "/freedevtools/c/", "", 1)
+	// Remove trailing slash if present
+	cleanPath = strings.TrimSuffix(cleanPath, "/")
 	// Replace slashes with hyphens
 	cleanPath = strings.Replace(cleanPath, "/", "-", -1)
 	// Replace any invalid characters with underscores

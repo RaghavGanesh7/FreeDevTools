@@ -45,10 +45,11 @@ func main() {
 	svgIconsChan := make(chan []SVGIconData, 1)
 	pngIconsChan := make(chan []SVGIconData, 1)
 	cheatsheetsChan := make(chan []CheatsheetData, 1)
+	mcpChan := make(chan []MCPData, 1)
 	errorsChan := make(chan error, 6)
 
 	// Start all collection goroutines
-	wg.Add(6)
+	wg.Add(7)
 
 	go func() {
 		defer wg.Done()
@@ -111,6 +112,16 @@ func main() {
 		cheatsheetsChan <- cheatsheets
 	}()
 
+	go func() {
+		defer wg.Done()
+		mcp, err := generateMCPData(ctx)
+		if err != nil {
+			errorsChan <- fmt.Errorf("MCP data generation failed: %w", err)
+			return
+		}
+		mcpChan <- mcp
+	}()
+
 	// Wait for all goroutines to complete
 	go func() {
 		wg.Wait()
@@ -120,6 +131,7 @@ func main() {
 		close(svgIconsChan)
 		close(pngIconsChan)
 		close(cheatsheetsChan)
+		close(mcpChan)
 		close(errorsChan)
 	}()
 
@@ -130,11 +142,12 @@ func main() {
 	var svgIcons []SVGIconData
 	var pngIcons []SVGIconData
 	var cheatsheets []CheatsheetData
+	var mcp []MCPData
 	var errors []error
 
 	// Track which channels we've received data from
 	receivedChannels := 0
-	totalChannels := 6
+	totalChannels := 7
 
 	for receivedChannels < totalChannels {
 		select {
@@ -172,6 +185,12 @@ func main() {
 			if ok {
 				cheatsheets = c
 				fmt.Printf("✅ Cheatsheets data collected: %d items\n", len(c))
+			}
+			receivedChannels++
+		case m, ok := <-mcpChan:
+			if ok {
+				mcp = m
+				fmt.Printf("✅ MCP data collected: %d items\n", len(m))
 			}
 			receivedChannels++
 		case err, ok := <-errorsChan:
@@ -237,6 +256,10 @@ doneWithErrors:
 		log.Fatalf("Failed to save cheatsheets data: %v", err)
 	}
 
+	if err := saveToJSON("mcp.json", mcp); err != nil {
+		log.Fatalf("Failed to save MCP data: %v", err)
+	}
+
 	elapsed := time.Since(start)
 	fmt.Printf("\n🎉 Search index generation completed successfully in %v\n", elapsed)
 	fmt.Printf("📊 Generated data:\n")
@@ -246,6 +269,7 @@ doneWithErrors:
 	fmt.Printf("  - SVG Icons: %d items\n", len(svgIcons))
 	fmt.Printf("  - PNG Icons: %d items\n", len(pngIcons))
 	fmt.Printf("  - Cheatsheets: %d items\n", len(cheatsheets))
+	fmt.Printf("  - MCP: %d items\n", len(mcp))
 	fmt.Printf("\n💾 All files saved to ./output/ directory\n")
 }
 
@@ -277,9 +301,11 @@ func runSingleCategory(category string) {
 		runPNGIconsOnly(ctx, start)	
 	case "cheatsheets":
 		runCheatsheetsOnly(ctx, start)
+	case "mcp":
+		runMCPOnly(ctx, start)
 	default:
 		fmt.Printf("❌ Unknown category: %s\n", category)
-		fmt.Println("Available categories: tools, tldr, emojis, svg_icons, png_icons, cheatsheets")
+		fmt.Println("Available categories: tools, tldr, emojis, svg_icons, png_icons, cheatsheets, mcp")
 		fmt.Println("Usage: go run main.go category=tools")
 		os.Exit(1)
 	}
