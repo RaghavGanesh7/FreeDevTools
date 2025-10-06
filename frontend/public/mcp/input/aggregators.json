@@ -100,9 +100,9 @@
       ],
       "category": "aggregators"
     },
-    "TheLunarCompany--lunar#mcpx": {
+    "TheLunarCompany--lunar": {
       "owner": "TheLunarCompany",
-      "name": "lunar#mcpx",
+      "name": "lunar",
       "url": "https://github.com/TheLunarCompany/lunar/tree/main/mcpx",
       "imageUrl": "",
       "description": "MCPX is a production-ready, open-source gateway to manage MCP servers at scale—centralize tool discovery, access controls, call prioritization, and usage tracking to simplify agent workflows.",
