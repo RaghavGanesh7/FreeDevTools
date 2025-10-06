@@ -166,8 +166,6 @@ async function main() {
     // Step 1: Exclude unchanged sections
     excludeUnchangedSections();
 
-    // Step 2: Install dependencies
-    installDependencies();
 
     // Step 3: Build project
     buildProject();
