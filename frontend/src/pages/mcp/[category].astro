@@ -11,20 +11,30 @@ import RepositoryCard from './_McpRepoCard.tsx';
 
 
 export async function getStaticPaths() {
+  console.log('🔍 MCP Category getStaticPaths: Starting...');
+  
   // Load metadata to get all categories
   const { getCollection } = await import('astro:content');
   const metadataEntries = await getCollection('mcpMetadata' as any);
   const metadata = (metadataEntries[0] as any)?.data as any;
   
+  console.log('🔍 MCP Category getStaticPaths: Found metadata entries:', metadataEntries.length);
+  
   if (!metadata) {
     throw new Error('No MCP metadata found');
   }
   
+  const categories = Object.keys(metadata.categories);
+  console.log('🔍 MCP Category getStaticPaths: Found categories:', categories);
+  
   // Generate static paths for all categories
-  const paths = Object.keys(metadata.categories).map((categoryId) => ({
+  const paths = categories.map((categoryId) => ({
     params: { category: categoryId },
     props: { category: { id: categoryId } }
   }));
+
+  console.log('🔍 MCP Category getStaticPaths: Generated paths:', paths.length);
+  console.log('🔍 MCP Category getStaticPaths: First few paths:', paths.slice(0, 3));
 
   return paths;
 }
