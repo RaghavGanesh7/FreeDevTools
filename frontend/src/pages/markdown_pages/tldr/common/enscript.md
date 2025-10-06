@@ -1,7 +1,7 @@
 ---
 title: "Enscript - Convert Text to PostScript | Online Free DevTools by Hexmos"
 name: enscript
-path: /freedevtools/tldr/common/enscript
+path: "/freedevtools/tldr/common/enscript/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/enscript/"
 description: "Convert text to various formats with Enscript. Easily generate PostScript, HTML, and RTF from text files using this versatile command. Free online tool, no registration required."
 category: common

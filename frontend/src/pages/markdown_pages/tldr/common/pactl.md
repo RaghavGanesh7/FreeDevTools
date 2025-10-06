@@ -1,7 +1,7 @@
 ---
 title: "PulseAudio Control - Manage Sound Server with pactl | Online Free DevTools by Hexmos"
 name: pactl
-path: /freedevtools/tldr/common/pactl
+path: "/freedevtools/tldr/common/pactl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pactl/"
 description: "Control PulseAudio sound server efficiently with pactl. Manage audio sinks, volume, and muting. Free online tool, no registration required."
 category: common

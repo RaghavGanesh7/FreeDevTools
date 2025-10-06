@@ -1,7 +1,7 @@
 ---
 title: "Secure MySQL - Improve Database Security | Online Free DevTools by Hexmos"
 name: mysql_secure_installation
-path: /freedevtools/tldr/common/mysql_secure_installation
+path: "/freedevtools/tldr/common/mysql_secure_installation/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mysql_secure_installation/"
 description: "Secure MySQL database installations with mysql_secure_installation. Harden your MySQL server by setting root password, removing anonymous users, and disallowing remote root login. Free online tool, no registration required."
 category: common

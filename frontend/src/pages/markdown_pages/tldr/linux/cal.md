@@ -1,7 +1,7 @@
 ---
 title: "Display Calendar - View Monthly & Yearly Schedules | Online Free DevTools by Hexmos"
 name: cal
-path: /freedevtools/tldr/linux/cal
+path: "/freedevtools/tldr/linux/cal/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cal/"
 description: "View and manage monthly and yearly schedules with the cal command.  Easily display calendars for specific months, years, or ranges. Free online tool, no registration required."
 category: linux

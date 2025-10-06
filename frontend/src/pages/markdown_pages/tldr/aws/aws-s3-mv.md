@@ -1,7 +1,7 @@
 ---
 title: "AWS S3 Move - Transfer S3 Objects | Online Free DevTools by Hexmos"
 name: aws-s3-mv
-path: /freedevtools/tldr/aws/aws-s3-mv
+path: "/freedevtools/tldr/aws/aws-s3-mv/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-s3-mv/"
 description: "Transfer S3 objects with AWS S3 Move. Manage files between local storage and S3 buckets. Free online tool, no registration required."
 category: common

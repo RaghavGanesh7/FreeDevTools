@@ -1,7 +1,7 @@
 ---
 title: "Nix Flake - Manage Dependencies with Nix | Online Free DevTools by Hexmos"
 name: nix-flake
-path: /freedevtools/tldr/nix/nix-flake
+path: "/freedevtools/tldr/nix/nix-flake/"
 canonical: "https://hexmos.com/freedevtools/tldr/nix/nix-flake/"
 description: "Manage dependencies with Nix Flake. Update inputs, show outputs, and create new flakes. Streamline package management on any system. Free online tool, no registration required."
 category: common

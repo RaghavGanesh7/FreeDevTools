@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Net - Control Domain Access | Online Free DevTools by Hexmos"
 name: mimikatz-net
-path: /freedevtools/tldr/windows/mimikatz-net
+path: "/freedevtools/tldr/windows/mimikatz-net/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-net/"
 description: "Control domain access with Mimikatz Net. Retrieve user lists, computer lists, and domain controller information. Free online tool, no registration required."
 category: windows

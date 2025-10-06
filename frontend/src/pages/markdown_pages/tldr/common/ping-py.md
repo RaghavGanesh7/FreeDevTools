@@ -1,7 +1,7 @@
 ---
 title: "ICMP Ping - Check Host Reachability | Online Free DevTools by Hexmos"
 name: ping.py
-path: /freedevtools/tldr/common/ping-py
+path: "/freedevtools/tldr/common/ping-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/ping-py/"
 description: "Check host reachability with ICMP Ping, diagnose network connectivity problems and troubleshoot network issues using command line. Free online tool, no registration required."
 category: common

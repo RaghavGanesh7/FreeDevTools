@@ -1,7 +1,7 @@
 ---
 title: "Recompress Files - Convert .Z to gzip | Online Free DevTools by Hexmos"
 name: znew
-path: /freedevtools/tldr/common/znew
+path: "/freedevtools/tldr/common/znew/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/znew/"
 description: "Recompress files with znew, easily converting legacy .Z files to the more efficient gzip format. Achieve smaller file sizes and faster decompression. Free online tool, no registration required."
 category: common

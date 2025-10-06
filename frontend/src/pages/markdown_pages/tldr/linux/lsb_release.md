@@ -1,7 +1,7 @@
 ---
 title: "Get Linux Distro Info - lsb_release Command | Online Free DevTools by Hexmos"
 name: lsb_release
-path: /freedevtools/tldr/linux/lsb_release
+path: "/freedevtools/tldr/linux/lsb_release/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsb_release/"
 description: "Get Linux distribution information quickly with the lsb_release command.  Retrieve details like description, ID, release, and codename. Free online tool, no registration required."
 category: linux

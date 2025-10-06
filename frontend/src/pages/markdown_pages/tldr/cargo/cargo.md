@@ -1,7 +1,7 @@
 ---
 title: "Cargo - Manage Rust Projects & Crates | Online Free DevTools by Hexmos"
 name: cargo
-path: /freedevtools/tldr/cargo/cargo
+path: "/freedevtools/tldr/cargo/cargo/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo/"
 description: "Manage Rust projects instantly with Cargo, the Rust package manager. Build, install, and manage dependencies effortlessly with this command-line interface. Free online tool, no registration required."
 category: common

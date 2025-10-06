@@ -1,7 +1,7 @@
 ---
 title: "Hacker News Reader - View HN Stories | Online Free DevTools by Hexmos"
 name: hn
-path: /freedevtools/tldr/common/hn
+path: "/freedevtools/tldr/common/hn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hn/"
 description: "View Hacker News stories instantly with Hacker News Reader. Browse latest posts, filter by limit, and keep list open. Free online tool, no registration required."
 category: common

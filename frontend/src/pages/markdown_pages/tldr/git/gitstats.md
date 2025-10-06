@@ -1,7 +1,7 @@
 ---
 title: "Generate Git Statistics - Analyze Repos | Online Free DevTools by Hexmos"
 name: gitstats
-path: /freedevtools/tldr/git/gitstats
+path: "/freedevtools/tldr/git/gitstats/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitstats/"
 description: "Generate Git repository statistics with gitstats. Analyze project history, contributor activity, and code metrics using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert XV Thumbnail - PPM Image Conversion | Online Free DevTools by Hexmos"
 name: xvminitoppm
-path: /freedevtools/tldr/common/xvminitoppm
+path: "/freedevtools/tldr/common/xvminitoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xvminitoppm/"
 description: "Convert XV Thumbnail to PPM images with xvminitoppm. Easily transform XV thumbnails into portable pixmap format. Free online tool, no registration required."
 category: common

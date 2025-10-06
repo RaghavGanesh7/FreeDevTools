@@ -1,7 +1,7 @@
 ---
 title: "Debug PHP Code - Interactive PsySH REPL | Online Free DevTools by Hexmos"
 name: psysh
-path: /freedevtools/tldr/common/psysh
+path: "/freedevtools/tldr/common/psysh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/psysh/"
 description: "Debug PHP code interactively with PsySH, a powerful REPL. Inspect variables, execute code snippets, and troubleshoot errors quickly. Free online tool, no registration required."
 category: common

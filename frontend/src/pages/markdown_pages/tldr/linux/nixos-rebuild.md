@@ -1,7 +1,7 @@
 ---
 title: "Nixos Rebuild - Control System Configuration | Online Free DevTools by Hexmos"
 name: nixos-rebuild
-path: /freedevtools/tldr/linux/nixos-rebuild
+path: "/freedevtools/tldr/linux/nixos-rebuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nixos-rebuild/"
 description: "Control system configuration with Nixos Rebuild. Manage boot entries, rollback changes, and test configurations. Free online tool, no registration required."
 category: linux

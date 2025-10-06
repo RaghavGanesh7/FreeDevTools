@@ -1,7 +1,7 @@
 ---
 title: "Convert Lisp Machine Bitmap - to PGM Image | Online Free DevTools by Hexmos"
 name: lispmtopgm
-path: "/freedevtools/tldr/common/lispmtopgm"
+path: "/freedevtools/tldr/common/lispmtopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lispmtopgm/"
 description: "Convert Lisp Machine Bitmap with lispmtopgm, a powerful image converter. Transform Lisp Machine graphics to PGM format easily. Free online tool, no registration required."
 category: common

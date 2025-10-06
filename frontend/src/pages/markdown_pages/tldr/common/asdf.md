@@ -1,7 +1,7 @@
 ---
 title: "Manage Package Versions - Control with asdf | Online Free DevTools by Hexmos"
 name: asdf
-path: "/freedevtools/tldr/common/asdf"
+path: "/freedevtools/tldr/common/asdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/asdf/"
 description: "Manage package versions easily with asdf. Install, update, and switch between different versions of programming languages and tools. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Register VM - Manage Virtual Machines with VBoxManage | Online Free DevTools by Hexmos"
 name: vboxmanage-registervm
-path: /freedevtools/tldr/vboxmanager/vboxmanage-registervm
+path: "/freedevtools/tldr/vboxmanager/vboxmanage-registervm/"
 canonical: "https://hexmos.com/freedevtools/tldr/vboxmanager/vboxmanage-registervm/"
 description: "Register virtual machines easily with VBoxManage. Import and manage existing VMs with encryption password support. Free online tool, no registration required."
 category: common

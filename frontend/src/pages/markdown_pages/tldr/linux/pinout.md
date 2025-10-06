@@ -1,7 +1,7 @@
 ---
 title: "View Pinout - Raspberry Pi GPIO Diagram | Online Free DevTools by Hexmos"
 name: pinout
-path: /freedevtools/tldr/linux/pinout
+path: "/freedevtools/tldr/linux/pinout/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pinout/"
 description: "View Raspberry Pi GPIO pinout information instantly with the pinout command.  Generate an ASCII diagram of the GPIO header in your terminal. Free online tool, no registration required."
 category: linux

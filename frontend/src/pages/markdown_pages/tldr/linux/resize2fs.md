@@ -1,7 +1,7 @@
 ---
 title: "Resize2fs - Resize Linux Filesystems | Online Free DevTools by Hexmos"
 name: resize2fs
-path: /freedevtools/tldr/linux/resize2fs
+path: "/freedevtools/tldr/linux/resize2fs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/resize2fs/"
 description: "Resize filesystems with Resize2fs. Adjust ext2/3/4 partition sizes. Free online tool, no registration required."
 category: linux

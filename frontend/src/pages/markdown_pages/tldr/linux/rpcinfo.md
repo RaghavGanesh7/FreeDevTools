@@ -1,7 +1,7 @@
 ---
 title: "RPC Service Control - Manage RPC Calls with rpcinfo | Online Free DevTools by Hexmos"
 name: rpcinfo
-path: /freedevtools/tldr/linux/rpcinfo
+path: "/freedevtools/tldr/linux/rpcinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpcinfo/"
 description: "Manage RPC calls effectively with rpcinfo.  Query and control RPC services, view service registrations, and troubleshoot network issues. Free online tool, no registration required."
 category: linux

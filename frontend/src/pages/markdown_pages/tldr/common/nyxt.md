@@ -1,7 +1,7 @@
 ---
 title: "Control Nyxt Browser - Keyboard-Driven Web Navigation | Online Free DevTools by Hexmos"
 name: nyxt
-path: /freedevtools/tldr/common/nyxt
+path: "/freedevtools/tldr/common/nyxt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nyxt/"
 description: "Control browsing instantly with Nyxt Browser, a keyboard-driven web navigator. Manage profiles, configure settings and print system information. Free online tool, no registration required."
 category: common

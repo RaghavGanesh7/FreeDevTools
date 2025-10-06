@@ -1,7 +1,7 @@
 ---
 title: "Monitor Network Utilization - Bandwhich | Online Free DevTools by Hexmos"
 name: bandwhich
-path: /freedevtools/tldr/common/bandwhich
+path: "/freedevtools/tldr/common/bandwhich/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bandwhich/"
 description: "Monitor network utilization by process with Bandwhich. Analyze bandwidth usage and identify network intensive applications with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Token - Control Security Tokens | Online Free DevTools by Hexmos"
 name: mimikatz-token
-path: /freedevtools/tldr/windows/mimikatz-token
+path: "/freedevtools/tldr/windows/mimikatz-token/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-token/"
 description: "Control security tokens with Mimikatz Token. Elevate privileges, list tokens, and revert to original tokens. Free online tool, no registration required."
 category: windows

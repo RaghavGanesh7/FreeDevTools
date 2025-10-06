@@ -1,7 +1,7 @@
 ---
 title: "Systemd Unit Control - Start Services with systemctl | Online Free DevTools by Hexmos"
 name: systemctl-start
-path: /freedevtools/tldr/linux/systemctl-start
+path: "/freedevtools/tldr/linux/systemctl-start/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-start/"
 description: "Start and manage systemd units with the systemctl command. Control Linux services efficiently and effectively. Free online tool, no registration required."
 category: linux

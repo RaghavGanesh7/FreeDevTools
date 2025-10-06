@@ -1,7 +1,7 @@
 ---
 title: "Salesforce CLI - Control Salesforce Orgs | Online Free DevTools by Hexmos"
 name: sf
-path: /freedevtools/tldr/common/sf
+path: "/freedevtools/tldr/common/sf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sf/"
 description: "Control Salesforce organizations with Salesforce CLI. Authorize, list, and manage your Salesforce environments. Free online tool, no registration required."
 category: common

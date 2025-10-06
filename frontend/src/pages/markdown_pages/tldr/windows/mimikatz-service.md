@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Service - Manage Windows Services | Online Free DevTools by Hexmos"
 name: mimikatz-service
-path: /freedevtools/tldr/windows/mimikatz-service
+path: "/freedevtools/tldr/windows/mimikatz-service/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-service/"
 description: "Manage Windows services with Mimikatz Service. Control service startup, shutdown, and deletion through command line. Free online tool, no registration required."
 category: windows

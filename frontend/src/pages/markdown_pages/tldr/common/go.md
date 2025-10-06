@@ -1,7 +1,7 @@
 ---
 title: "Go - Manage Go Source Code | Online Free DevTools by Hexmos"
 name: go
-path: /freedevtools/tldr/common/go
+path: "/freedevtools/tldr/common/go/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/go/"
 description: "Manage Go source code with Go. Compile, build, and execute Go programs efficiently with this command-line tool. Free online tool, no registration required."
 category: common

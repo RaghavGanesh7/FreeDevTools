@@ -1,7 +1,7 @@
 ---
 title: "Choom - Control OOM Killer Score | Online Free DevTools by Hexmos"
 name: choom
-path: /freedevtools/tldr/linux/choom
+path: "/freedevtools/tldr/linux/choom/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/choom/"
 description: "Control process Out-Of-Memory (OOM) killer score with Choom. Adjust and display OOM scores easily on Linux systems. Free online tool, no registration required."
 category: linux

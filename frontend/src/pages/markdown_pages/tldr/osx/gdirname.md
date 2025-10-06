@@ -1,7 +1,7 @@
 ---
 title: "Gdirname - Extract Directory Name | Online Free DevTools by Hexmos"
 name: gdirname
-path: /freedevtools/tldr/osx/gdirname
+path: "/freedevtools/tldr/osx/gdirname/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gdirname/"
 description: "Extract directory names with Gdirname, a command-line tool for parsing file paths on macOS. Simplify shell scripting and automate directory management. Free online tool, no registration required."
 category: osx

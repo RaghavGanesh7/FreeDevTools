@@ -1,7 +1,7 @@
 ---
 title: "Wormhole - Transfer Files Securely | Online Free DevTools by Hexmos"
 name: wormhole
-path: /freedevtools/tldr/common/wormhole
+path: "/freedevtools/tldr/common/wormhole/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wormhole/"
 description: "Transfer files securely with Wormhole. Share files of any size using a secure, encrypted channel. Free online tool, no registration required."
 category: common

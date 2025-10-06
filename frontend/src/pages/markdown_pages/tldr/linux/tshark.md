@@ -1,7 +1,7 @@
 ---
 title: "Analyze Packets with tshark - Network Monitoring | Online Free DevTools by Hexmos"
 name: tshark
-path: /freedevtools/tldr/linux/tshark
+path: "/freedevtools/tldr/linux/tshark/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tshark/"
 description: "Analyze network packets effectively with tshark, the command-line network protocol analyzer. Capture, filter, and decode packets with ease. Free online tool, no registration required."
 category: linux

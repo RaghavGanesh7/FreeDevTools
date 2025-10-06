@@ -1,7 +1,7 @@
 ---
 title: "Neato Graph Generator - Render Graphviz Files | Online Free DevTools by Hexmos"
 name: neato
-path: /freedevtools/tldr/common/neato
+path: "/freedevtools/tldr/common/neato/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/neato/"
 description: "Generate graph images with Neato, a Graphviz layout engine. Visualize networks from dot files. Free online tool, no registration required."
 category: common

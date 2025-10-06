@@ -1,7 +1,7 @@
 ---
 title: "Generate PGM Texture - Extract Image Features | Online Free DevTools by Hexmos"
 name: pgmtexture
-path: /freedevtools/tldr/common/pgmtexture
+path: "/freedevtools/tldr/common/pgmtexture/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmtexture/"
 description: "Generate PGM texture features with pgmtexture. Extract image textural information using distance parameters for advanced analysis. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Diffoscope - Compare Files and Directories | Online Free DevTools by Hexmos"
 name: diffoscope
-path: /freedevtools/tldr/common/diffoscope
+path: "/freedevtools/tldr/common/diffoscope/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/diffoscope/"
 description: "Compare files and directories effortlessly with Diffoscope. Analyze archives and identify differences between versions for effective debugging. Free online tool, no registration required."
 category: common

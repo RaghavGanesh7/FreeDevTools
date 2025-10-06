@@ -1,7 +1,7 @@
 ---
 title: "PDF Merge - Combine PDF Files | Online Free DevTools by Hexmos"
 name: pdfjoin
-path: /freedevtools/tldr/common/pdfjoin
+path: "/freedevtools/tldr/common/pdfjoin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfjoin/"
 description: "Merge PDFs easily with pdfjoin. Combine multiple PDF documents into a single file or extract specific pages. Free online tool, no registration required."
 category: common

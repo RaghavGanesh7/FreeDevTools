@@ -1,7 +1,7 @@
 ---
 title: "JPEGtran - Transform JPEG Images Losslessly | Online Free DevTools by Hexmos"
 name: jpegtran
-path: /freedevtools/tldr/linux/jpegtran
+path: "/freedevtools/tldr/linux/jpegtran/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/jpegtran/"
 description: "Transform JPEG images losslessly with jpegtran.  Perform operations like mirroring, rotating, transposing, and cropping. Free online tool, no registration required."
 category: linux

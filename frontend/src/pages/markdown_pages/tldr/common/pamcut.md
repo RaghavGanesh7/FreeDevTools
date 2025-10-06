@@ -1,7 +1,7 @@
 ---
 title: "Pamcut - Cut Netpbm Images | Online Free DevTools by Hexmos"
 name: pamcut
-path: "/freedevtools/tldr/common/pamcut"
+path: "/freedevtools/tldr/common/pamcut/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamcut/"
 description: "Cut rectangular regions from Netpbm images with Pamcut. Crop images, discard columns/rows, and fill missing areas. Free online tool, no registration required."
 category: common

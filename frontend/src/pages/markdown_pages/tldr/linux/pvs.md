@@ -1,7 +1,7 @@
 ---
 title: "PVS - Display Physical Volumes | Online Free DevTools by Hexmos"
 name: pvs
-path: /freedevtools/tldr/linux/pvs
+path: "/freedevtools/tldr/linux/pvs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pvs/"
 description: "Display physical volumes with PVS on Linux. Inspect volume group attributes and manage storage efficiently. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Arch-Chroot - Control Root Environment on Linux | Online Free DevTools by Hexmos"
 name: arch-chroot
-path: /freedevtools/tldr/linux/arch-chroot
+path: "/freedevtools/tldr/linux/arch-chroot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/arch-chroot/"
 description: "Control root environment with Arch-Chroot. Easily create and manage a chrooted environment for Arch Linux system administration. Free online tool, no registration required."
 category: linux

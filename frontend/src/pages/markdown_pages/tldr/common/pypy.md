@@ -1,7 +1,7 @@
 ---
 title: "Execute Python Scripts - Run pypy Commands | Online Free DevTools by Hexmos"
 name: pypy
-path: /freedevtools/tldr/common/pypy
+path: "/freedevtools/tldr/common/pypy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pypy/"
 description: "Execute Python scripts instantly with pypy command. Run REPL, debug scripts, and install packages effortlessly. Free online tool, no registration required."
 category: common

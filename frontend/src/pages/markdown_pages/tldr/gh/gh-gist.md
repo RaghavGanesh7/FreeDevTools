@@ -1,7 +1,7 @@
 ---
 title: "Create GitHub Gists - Manage and Share Code | Online Free DevTools by Hexmos"
 name: gh-gist
-path: /freedevtools/tldr/gh/gh-gist
+path: "/freedevtools/tldr/gh/gh-gist/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-gist/"
 description: "Create GitHub Gists easily with gh-gist. Share code snippets and manage your public or secret gists directly from the command line. Free online tool, no registration required."
 category: common

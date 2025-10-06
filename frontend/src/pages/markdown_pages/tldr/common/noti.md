@@ -1,7 +1,7 @@
 ---
 title: "Monitor Process - Get Notifications | Online Free DevTools by Hexmos"
 name: noti
-path: /freedevtools/tldr/common/noti
+path: "/freedevtools/tldr/common/noti/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/noti/"
 description: "Monitor process executions with Noti. Get banner notifications upon completion or failure. Free online tool, no registration required. Enhance command-line productivity."
 category: common

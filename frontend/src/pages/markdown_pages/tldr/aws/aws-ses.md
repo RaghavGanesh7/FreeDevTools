@@ -1,7 +1,7 @@
 ---
 title: "AWS SES - Control Cloud Emails | Online Free DevTools by Hexmos"
 name: aws-ses
-path: /freedevtools/tldr/aws/aws-ses
+path: "/freedevtools/tldr/aws/aws-ses/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-ses/"
 description: "Control cloud emails easily with AWS SES CLI. Manage email sending, receiving, and configurations through the command line interface. Free online tool, no registration required."
 category: common

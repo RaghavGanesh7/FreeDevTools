@@ -1,7 +1,7 @@
 ---
 title: "Validate Dockerfiles - Hadolint Linter | Online Free DevTools by Hexmos"
 name: hadolint
-path: /freedevtools/tldr/common/hadolint
+path: "/freedevtools/tldr/common/hadolint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hadolint/"
 description: "Validate Dockerfiles with Hadolint, a Dockerfile linter. Detect errors and enforce best practices in your Docker configurations. Free online tool, no registration required."
 category: common

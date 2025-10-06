@@ -1,7 +1,7 @@
 ---
 title: "OOM Control - Analyze System Memory with oomctl | Online Free DevTools by Hexmos"
 name: oomctl
-path: /freedevtools/tldr/linux/oomctl
+path: "/freedevtools/tldr/linux/oomctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/oomctl/"
 description: "Analyze system memory with oomctl, a powerful Linux command. Troubleshoot OOM issues and understand cgroup states. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to LJ - Generate LaserJet Files | Online Free DevTools by Hexmos"
 name: ppmtolj
-path: /freedevtools/tldr/ppm/ppmtolj
+path: "/freedevtools/tldr/ppm/ppmtolj/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtolj/"
 description: "Convert PPM images to HP LaserJet PCL 5 Color files with ppmtolj. Effortlessly generate .lj files for printing. Free online tool, no registration required."
 category: common

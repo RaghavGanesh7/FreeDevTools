@@ -1,7 +1,7 @@
 ---
 title: "SNMP Scanner braa - Scan Networks Fast | Online Free DevTools by Hexmos"
 name: braa
-path: /freedevtools/tldr/linux/braa
+path: "/freedevtools/tldr/linux/braa/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/braa/"
 description: "Scan networks rapidly with braa SNMP scanner.  Query OIDs, manage network devices, and automate SNMP tasks. Free online tool, no registration required."
 category: linux

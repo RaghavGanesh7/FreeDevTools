@@ -1,7 +1,7 @@
 ---
 title: "Ideviceinfo - Show iOS Device Info | Online Free DevTools by Hexmos"
 name: ideviceinfo
-path: /freedevtools/tldr/common/ideviceinfo
+path: "/freedevtools/tldr/common/ideviceinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ideviceinfo/"
 description: "Show iOS device information with Ideviceinfo. Get UDID, model, and more. Access device details quickly using the command line. Free online tool, no registration required."
 category: common

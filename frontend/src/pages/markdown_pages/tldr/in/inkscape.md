@@ -1,7 +1,7 @@
 ---
 title: "Inkscape - Generate SVG Graphics | Online Free DevTools by Hexmos"
 name: inkscape
-path: /freedevtools/tldr/in/inkscape
+path: "/freedevtools/tldr/in/inkscape/"
 canonical: "https://hexmos.com/freedevtools/tldr/in/inkscape/"
 description: "Generate SVG graphics with Inkscape. Convert SVG files to other formats, edit objects, and automate graphics tasks using command line. Free online tool, no registration required."
 category: common

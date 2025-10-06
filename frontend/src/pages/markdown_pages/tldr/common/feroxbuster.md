@@ -1,7 +1,7 @@
 ---
 title: "Content Discovery - Scan URLs with Feroxbuster | Online Free DevTools by Hexmos"
 name: feroxbuster
-path: /freedevtools/tldr/common/feroxbuster
+path: "/freedevtools/tldr/common/feroxbuster/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/feroxbuster/"
 description: "Scan URLs for content discovery with Feroxbuster, a fast Rust-based tool. Brute-force directories, find hidden paths and enumerate links. Free online tool, no registration required."
 category: common

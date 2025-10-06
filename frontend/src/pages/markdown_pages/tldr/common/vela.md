@@ -1,7 +1,7 @@
 ---
 title: "Vela Pipeline - Trigger & Control CI/CD Workflows | Online Free DevTools by Hexmos"
 name: vela
-path: /freedevtools/tldr/common/vela
+path: "/freedevtools/tldr/common/vela/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vela/"
 description: "Control CI/CD pipelines with Vela. Trigger deployments, list deployments, and inspect specific deployments via command line. Free online tool, no registration required."
 category: common

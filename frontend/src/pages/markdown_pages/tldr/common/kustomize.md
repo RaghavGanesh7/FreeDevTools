@@ -1,7 +1,7 @@
 ---
 title: "Create Kubernetes Resources with Kustomize | Online Free DevTools by Hexmos"
 name: kustomize
-path: /freedevtools/tldr/common/kustomize
+path: "/freedevtools/tldr/common/kustomize/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kustomize/"
 description: "Create Kubernetes manifests with Kustomize. Define and manage your resources for streamlined deployments using overlays and patches. Free online tool, no registration required."
 category: common

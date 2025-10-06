@@ -1,7 +1,7 @@
 ---
 title: "Watch Files - Trigger Actions with Watchman | Online Free DevTools by Hexmos"
 name: watchman
-path: /freedevtools/tldr/common/watchman
+path: "/freedevtools/tldr/common/watchman/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/watchman/"
 description: "Trigger actions with Watchman when file changes occur. Monitor directories, automate build processes, and manage file system events efficiently. Free online tool, no registration required."
 category: common

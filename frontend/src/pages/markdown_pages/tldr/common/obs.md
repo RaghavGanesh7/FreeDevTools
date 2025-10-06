@@ -1,7 +1,7 @@
 ---
 title: "OBS Studio - Control Video Recording & Streaming | Online Free DevTools by Hexmos"
 name: obs
-path: /freedevtools/tldr/common/obs
+path: "/freedevtools/tldr/common/obs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/obs/"
 description: "Control video recording and live streaming with OBS Studio. Start recording, streaming, and manage replay buffers using command line. Free online tool, no registration required."
 category: common

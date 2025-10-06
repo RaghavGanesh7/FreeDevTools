@@ -1,7 +1,7 @@
 ---
 title: "Manage Tasks - To-Do List Manager | Online Free DevTools by Hexmos"
 name: task
-path: /freedevtools/tldr/common/task
+path: "/freedevtools/tldr/common/task/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/task/"
 description: "Manage your to-do list with Task, the command-line task manager. Schedule tasks, set priorities, and track progress efficiently. Free online tool, no registration required."
 category: common

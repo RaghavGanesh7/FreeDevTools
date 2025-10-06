@@ -1,7 +1,7 @@
 ---
 title: "Avahi-browse - Discover Network Services | Online Free DevTools by Hexmos"
 name: avahi-browse
-path: /freedevtools/tldr/linux/avahi-browse
+path: "/freedevtools/tldr/linux/avahi-browse/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/avahi-browse/"
 description: "Discover and browse network services with Avahi-browse.  Quickly identify available services and their addresses. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Sway - Tiling Window Manager | Online Free DevTools by Hexmos"
 name: sway
-path: /freedevtools/tldr/common/sway
+path: "/freedevtools/tldr/common/sway/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sway/"
 description: "Control your desktop with Sway, a tiling window manager for Wayland. Customize layouts, manage workspaces, and automate window placement. Free online tool, no registration required."
 category: common

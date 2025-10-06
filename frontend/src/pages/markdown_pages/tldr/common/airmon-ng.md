@@ -1,7 +1,7 @@
 ---
 title: "Control Wireless Devices - Airmon-ng Monitor Mode | Online Free DevTools by Hexmos"
 name: airmon-ng
-path: /freedevtools/tldr/common/airmon-ng
+path: "/freedevtools/tldr/common/airmon-ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/airmon-ng/"
 description: "Control wireless network devices with Airmon-ng to enable monitor mode and packet capturing. Troubleshoot network issues and perform security audits. Free online tool, no registration required."
 category: common

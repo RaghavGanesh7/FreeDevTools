@@ -1,7 +1,7 @@
 ---
 title: "Podman Machine - Create VMs | Online Free DevTools by Hexmos"
 name: podman-machine
-path: /freedevtools/tldr/podman/podman-machine
+path: "/freedevtools/tldr/podman/podman-machine/"
 canonical: "https://hexmos.com/freedevtools/tldr/podman/podman-machine/"
 description: "Create virtual machines with Podman Machine. Manage, start, stop, and inspect Podman VMs using the command line interface. Free online tool, no registration required."
 category: common

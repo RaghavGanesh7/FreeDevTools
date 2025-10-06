@@ -1,7 +1,7 @@
 ---
 title: "Capture TCP Traffic - Debug Network Packets | Online Free DevTools by Hexmos"
 name: tcpflow
-path: /freedevtools/tldr/linux/tcpflow
+path: "/freedevtools/tldr/linux/tcpflow/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tcpflow/"
 description: "Capture TCP traffic instantly with tcpflow for network debugging. Analyze packets and troubleshoot network issues easily. Free online tool, no registration required."
 category: linux

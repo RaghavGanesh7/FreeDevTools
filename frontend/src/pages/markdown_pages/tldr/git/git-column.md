@@ -1,7 +1,7 @@
 ---
 title: "Format Data with Git Column - Display Data in Columns | Online Free DevTools by Hexmos"
 name: git-column
-path: /freedevtools/tldr/git/git-column
+path: "/freedevtools/tldr/git/git-column/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-column/"
 description: "Format data with Git Column to display information in organized columns. Customize width and padding for clear output. Free online tool, no registration required."
 category: common

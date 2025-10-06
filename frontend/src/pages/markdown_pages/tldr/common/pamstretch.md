@@ -1,7 +1,7 @@
 ---
 title: "Stretch PAM Image - Scale Images with Pamstretch | Online Free DevTools by Hexmos"
 name: pamstretch
-path: /freedevtools/tldr/common/pamstretch
+path: "/freedevtools/tldr/common/pamstretch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamstretch/"
 description: "Scale PAM images with Pamstretch, a versatile image manipulation tool. Resize and enlarge images using pixel interpolation. Free online tool, no registration required."
 category: common

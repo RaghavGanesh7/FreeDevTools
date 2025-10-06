@@ -1,7 +1,7 @@
 ---
 title: "Query Packages - pacsift Filter | Online Free DevTools by Hexmos"
 name: pacsift
-path: /freedevtools/tldr/linux/pacsift
+path: "/freedevtools/tldr/linux/pacsift/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacsift/"
 description: "Query and filter packages with pacsift.  Easily list all available packages or find packages satisfying specific dependencies. Free online tool, no registration required."
 category: linux

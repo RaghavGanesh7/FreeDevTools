@@ -1,7 +1,7 @@
 ---
 title: "iPlayer Downloader - Record BBC iPlayer Content | Online Free DevTools by Hexmos"
 name: get_iplayer
-path: /freedevtools/tldr/get/get_iplayer
+path: "/freedevtools/tldr/get/get_iplayer/"
 canonical: "https://hexmos.com/freedevtools/tldr/get/get_iplayer/"
 description: "Download BBC iPlayer shows with iPlayer Downloader. Record your favorite programs and subtitles effortlessly. Free online tool, no registration required."
 category: common

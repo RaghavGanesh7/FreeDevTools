@@ -1,7 +1,7 @@
 ---
 title: "rr - Debug Program Execution | Online Free DevTools by Hexmos"
 name: rr
-path: /freedevtools/tldr/common/rr
+path: "/freedevtools/tldr/common/rr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rr/"
 description: "Debug program execution with rr. Record and replay application behavior to find and fix bugs effectively. Free online tool, no registration required."
 category: common

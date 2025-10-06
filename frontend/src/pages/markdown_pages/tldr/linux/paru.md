@@ -1,7 +1,7 @@
 ---
 title: "Manage AUR Packages - Paru Package Manager | Online Free DevTools by Hexmos"
 name: paru
-path: /freedevtools/tldr/linux/paru
+path: "/freedevtools/tldr/linux/paru/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/paru/"
 description: "Manage AUR packages easily with Paru package manager. Update, search, and install packages from the AUR repository. Free online tool, no registration required."
 category: linux

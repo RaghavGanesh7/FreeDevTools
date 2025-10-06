@@ -1,7 +1,7 @@
 ---
 title: "Maven Build Tool - Manage Java Projects | Online Free DevTools by Hexmos"
 name: mvn
-path: /freedevtools/tldr/common/mvn
+path: "/freedevtools/tldr/common/mvn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mvn/"
 description: "Manage Java projects effectively with Maven Build Tool. Automate builds, manage dependencies, and streamline development workflows. Free online tool, no registration required."
 category: common

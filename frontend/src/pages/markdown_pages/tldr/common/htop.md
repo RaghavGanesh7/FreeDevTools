@@ -1,7 +1,7 @@
 ---
 title: "Control Processes - htop Process Viewer | Online Free DevTools by Hexmos"
 name: htop
-path: /freedevtools/tldr/common/htop
+path: "/freedevtools/tldr/common/htop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/htop/"
 description: "Control system processes with htop process viewer. Monitor CPU usage and memory consumption with ease. Free online tool, no registration required."
 category: common

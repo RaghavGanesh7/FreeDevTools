@@ -1,7 +1,7 @@
 ---
 title: "QM Help - Display Proxmox Commands | Online Free DevTools by Hexmos"
 name: qm-help
-path: /freedevtools/tldr/linux/qm-help
+path: "/freedevtools/tldr/linux/qm-help/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-help/"
 description: "Display help for Proxmox commands using QM Help. Get detailed command information and usage examples for efficient VM management. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Monitor PipeWire - Real-time Statistics with pw-top | Online Free DevTools by Hexmos"
 name: pw-top
-path: /freedevtools/tldr/linux/pw-top
+path: "/freedevtools/tldr/linux/pw-top/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-top/"
 description: "Monitor PipeWire nodes and devices in real-time with pw-top.  View detailed statistics and troubleshoot audio/video issues effortlessly. Free online tool, no registration required."
 category: linux

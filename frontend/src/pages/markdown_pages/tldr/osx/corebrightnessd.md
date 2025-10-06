@@ -1,7 +1,7 @@
 ---
 title: "Corebrightnessd - Control Night Shift | Online Free DevTools by Hexmos"
 name: corebrightnessd
-path: /freedevtools/tldr/osx/corebrightnessd
+path: "/freedevtools/tldr/osx/corebrightnessd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/corebrightnessd/"
 description: "Control Night Shift with Corebrightnessd. Adjust screen color temperature and schedule automatic shifts for eye comfort on macOS. Free online tool, no registration required."
 category: osx

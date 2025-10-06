@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to Zinc - Create Zinc Bitmaps | Online Free DevTools by Hexmos"
 name: pbmtozinc
-path: "/freedevtools/tldr/common/pbmtozinc"
+path: "/freedevtools/tldr/common/pbmtozinc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtozinc/"
 description: "Convert PBM images to Zinc bitmaps with pbmtozinc. Generate compatible bitmap files for the Zinc Interface Library Version 1.0. Free online tool, no registration required."
 category: common

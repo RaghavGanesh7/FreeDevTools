@@ -1,7 +1,7 @@
 ---
 title: "Scontrol - Control Slurm Jobs | Online Free DevTools by Hexmos"
 name: scontrol
-path: /freedevtools/tldr/linux/scontrol
+path: "/freedevtools/tldr/linux/scontrol/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/scontrol/"
 description: "Control Slurm jobs with scontrol on Linux. Suspend, resume, hold, and release jobs with this free command-line interface tool. Free online tool, no registration required."
 category: linux

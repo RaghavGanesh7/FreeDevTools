@@ -1,7 +1,7 @@
 ---
 title: "Cargo Test - Execute Rust Tests | Online Free DevTools by Hexmos"
 name: cargo-test
-path: /freedevtools/tldr/cargo/cargo-test
+path: "/freedevtools/tldr/cargo/cargo-test/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-test/"
 description: "Execute Rust package tests with Cargo Test. Debug Rust code, optimize test execution and control test concurrency. Free online tool, no registration required."
 category: common

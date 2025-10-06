@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz - Manage Windows Credentials | Online Free DevTools by Hexmos"
 name: mimikatz-standard
-path: /freedevtools/tldr/windows/mimikatz-standard
+path: "/freedevtools/tldr/windows/mimikatz-standard/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-standard/"
 description: "Manage Windows credentials with Mimikatz, a powerful post-exploitation tool. Extract passwords, hashes, and Kerberos tickets for security auditing. Free online tool, no registration required."
 category: windows

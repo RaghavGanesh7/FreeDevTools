@@ -1,7 +1,7 @@
 ---
 title: "F3Write - Fill Drive with Test Files | Online Free DevTools by Hexmos"
 name: f3write
-path: /freedevtools/tldr/common/f3write
+path: "/freedevtools/tldr/common/f3write/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/f3write/"
 description: "Fill drives with test files using F3Write. Test drive capacity and performance with this simple command-line tool. Free online tool, no registration required."
 category: common

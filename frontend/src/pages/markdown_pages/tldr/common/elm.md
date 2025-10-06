@@ -1,7 +1,7 @@
 ---
 title: "Compile Elm Code - Generate JavaScript with Elm Compiler | Online Free DevTools by Hexmos"
 name: elm
-path: /freedevtools/tldr/common/elm
+path: "/freedevtools/tldr/common/elm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/elm/"
 description: "Compile Elm code effortlessly with the Elm Compiler. Generate JavaScript files and initialize projects using this free online tool, no registration required."
 category: common

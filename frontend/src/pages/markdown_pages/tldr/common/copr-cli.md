@@ -1,7 +1,7 @@
 ---
 title: "Build RPMs - Manage COPR Projects with copr-cli | Online Free DevTools by Hexmos"
 name: copr-cli
-path: /freedevtools/tldr/common/copr-cli
+path: "/freedevtools/tldr/common/copr-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/copr-cli/"
 description: "Build RPMs with copr-cli for Fedora projects. Manage COPR repositories and trigger builds from local spec files or Git repositories. Free online tool, no registration required."
 category: common

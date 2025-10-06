@@ -1,7 +1,7 @@
 ---
 title: "Play Sudoku - Solve Puzzles in Terminal | Online Free DevTools by Hexmos"
 name: nudoku
-path: /freedevtools/tldr/common/nudoku
+path: "/freedevtools/tldr/common/nudoku/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nudoku/"
 description: "Solve Sudoku puzzles in your terminal with nudoku. Enjoy easy, normal, or hard difficulty levels for a challenging and engaging experience. Free online tool, no registration required."
 category: common

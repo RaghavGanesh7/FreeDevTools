@@ -1,7 +1,7 @@
 ---
 title: "RBAC Lookup - Control Kubernetes Roles | Online Free DevTools by Hexmos"
 name: rbac-lookup
-path: /freedevtools/tldr/common/rbac-lookup
+path: "/freedevtools/tldr/common/rbac-lookup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rbac-lookup/"
 description: "Control Kubernetes roles with RBAC Lookup. Find roles and cluster roles attached to users or groups. Inspect access control easily. Free online tool, no registration required."
 category: common

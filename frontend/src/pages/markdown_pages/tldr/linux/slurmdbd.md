@@ -1,7 +1,7 @@
 ---
 title: "Slurm Database Daemon - Control Slurm Database | Online Free DevTools by Hexmos"
 name: slurmdbd
-path: /freedevtools/tldr/linux/slurmdbd
+path: "/freedevtools/tldr/linux/slurmdbd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slurmdbd/"
 description: "Control Slurm database daemon with slurmdbd. Manage job scheduling data and ensure secure access to your Slurm cluster information. Free online tool, no registration required."
 category: linux

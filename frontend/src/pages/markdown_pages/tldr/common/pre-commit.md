@@ -1,7 +1,7 @@
 ---
 title: "Create Git Hooks - Manage Code Quality with pre-commit | Online Free DevTools by Hexmos"
 name: pre-commit
-path: /freedevtools/tldr/common/pre-commit
+path: "/freedevtools/tldr/common/pre-commit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pre-commit/"
 description: "Create Git hooks with pre-commit to automate code quality checks. Enforce coding standards and prevent bad commits with ease. Free online tool, no registration required."
 category: common

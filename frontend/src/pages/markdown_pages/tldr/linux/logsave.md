@@ -1,7 +1,7 @@
 ---
 title: "Logsave - Save Command Output to Log File | Online Free DevTools by Hexmos"
 name: logsave
-path: /freedevtools/tldr/linux/logsave
+path: "/freedevtools/tldr/linux/logsave/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/logsave/"
 description: "Save command output effortlessly with Logsave. Capture and manage command-line data efficiently. Free online tool, no registration required."
 category: linux

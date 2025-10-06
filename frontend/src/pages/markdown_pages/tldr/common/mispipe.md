@@ -1,7 +1,7 @@
 ---
 title: "Pipe Commands - Control Command Execution | Online Free DevTools by Hexmos"
 name: mispipe
-path: /freedevtools/tldr/common/mispipe
+path: "/freedevtools/tldr/common/mispipe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mispipe/"
 description: "Control command execution with mispipe. Pipe two commands and retrieve the exit status of the first. Free online tool, no registration required."
 category: common

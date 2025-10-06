@@ -1,7 +1,7 @@
 ---
 title: "HTTP Probe - Check Server Status | Online Free DevTools by Hexmos"
 name: httprobe
-path: /freedevtools/tldr/http/httprobe
+path: "/freedevtools/tldr/http/httprobe/"
 canonical: "https://hexmos.com/freedevtools/tldr/http/httprobe/"
 description: "Probe HTTP and HTTPS server status with httprobe. Identify working web servers and troubleshoot connection issues. Free online tool, no registration required."
 category: common

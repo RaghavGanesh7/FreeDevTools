@@ -1,7 +1,7 @@
 ---
 title: "Create New-Item - File and Directory Creation | Online Free DevTools by Hexmos"
 name: new-item
-path: /freedevtools/tldr/windows/new-item
+path: "/freedevtools/tldr/windows/new-item/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/new-item/"
 description: "Create files and directories with New-Item. Manage file system objects and registry entries using this PowerShell command. Free online tool, no registration required."
 category: windows

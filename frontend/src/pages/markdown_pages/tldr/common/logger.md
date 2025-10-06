@@ -1,7 +1,7 @@
 ---
 title: "Log Messages - Add to Syslog with Logger | Online Free DevTools by Hexmos"
 name: logger
-path: /freedevtools/tldr/common/logger
+path: "/freedevtools/tldr/common/logger/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/logger/"
 description: "Add messages to syslog easily with Logger. Troubleshoot system issues and monitor application behavior effectively. Free online tool, no registration required."
 category: common

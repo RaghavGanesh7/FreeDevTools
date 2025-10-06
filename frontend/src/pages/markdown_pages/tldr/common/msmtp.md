@@ -1,7 +1,7 @@
 ---
 title: "Send Email - Send Emails via SMTP with msmtp | Online Free DevTools by Hexmos"
 name: msmtp
-path: /freedevtools/tldr/common/msmtp
+path: "/freedevtools/tldr/common/msmtp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msmtp/"
 description: "Send emails instantly with msmtp. Control SMTP settings and configure accounts for streamlined email sending via command line. Free online tool, no registration required."
 category: common

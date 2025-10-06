@@ -1,7 +1,7 @@
 ---
 title: "Pueue Kill - Control Task Execution | Online Free DevTools by Hexmos"
 name: pueue-kill
-path: /freedevtools/tldr/pueue/pueue-kill
+path: "/freedevtools/tldr/pueue/pueue-kill/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-kill/"
 description: "Control task execution with Pueue Kill. Manage running processes and groups, terminate child processes with ease. Free online tool, no registration required."
 category: common

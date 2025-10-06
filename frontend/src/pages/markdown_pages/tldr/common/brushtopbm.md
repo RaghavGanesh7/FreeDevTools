@@ -1,7 +1,7 @@
 ---
 title: "Convert Brush to PBM - Generate PBM Images | Online Free DevTools by Hexmos"
 name: brushtopbm
-path: /freedevtools/tldr/common/brushtopbm
+path: "/freedevtools/tldr/common/brushtopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/brushtopbm/"
 description: "Convert Brush files to PBM images with brushtopbm. Transform Xerox doodle brush files into PBM format effortlessly. Free online tool, no registration required."
 category: common

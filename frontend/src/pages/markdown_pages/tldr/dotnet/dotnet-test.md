@@ -1,7 +1,7 @@
 ---
 title: "Dotnet Test - Execute .NET Tests | Online Free DevTools by Hexmos"
 name: dotnet-test
-path: /freedevtools/tldr/dotnet/dotnet-test
+path: "/freedevtools/tldr/dotnet/dotnet-test/"
 canonical: "https://hexmos.com/freedevtools/tldr/dotnet/dotnet-test/"
 description: "Execute .NET tests quickly with Dotnet Test. Filter test execution based on names and properties for targeted results. Free online tool, no registration required."
 category: common

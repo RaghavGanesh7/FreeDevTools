@@ -1,7 +1,7 @@
 ---
 title: "KDE Connect Control - Manage Devices & Share Files | Online Free DevTools by Hexmos"
 name: kdeconnect-cli
-path: /freedevtools/tldr/common/kdeconnect-cli
+path: "/freedevtools/tldr/common/kdeconnect-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kdeconnect-cli/"
 description: "Control KDE Connect devices easily with KDE Connect CLI. Share files, send SMS messages, and simulate key presses effortlessly using the command line. Free online tool, no registration required."
 category: common

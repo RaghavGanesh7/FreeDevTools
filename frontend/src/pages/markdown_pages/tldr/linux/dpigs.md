@@ -1,7 +1,7 @@
 ---
 title: "DPigs - Analyze Disk Usage on Linux | Online Free DevTools by Hexmos"
 name: dpigs
-path: /freedevtools/tldr/linux/dpigs
+path: "/freedevtools/tldr/linux/dpigs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dpigs/"
 description: "Analyze disk usage effectively with DPigs on Linux systems. Identify large packages consuming space and optimize your system. Free online tool, no registration required."
 category: linux

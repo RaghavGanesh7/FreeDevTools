@@ -1,7 +1,7 @@
 ---
 title: "OCSP Daemon - Verify Certificate Status | Online Free DevTools by Hexmos"
 name: ocspd
-path: /freedevtools/tldr/osx/ocspd
+path: "/freedevtools/tldr/osx/ocspd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ocspd/"
 description: "Verify certificate status with OCSP Daemon. Retrieve CRLs and OCSP responses for robust certificate validation. Free online tool, no registration required."
 category: osx

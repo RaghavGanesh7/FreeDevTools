@@ -1,7 +1,7 @@
 ---
 title: "Control SSH Daemon - Secure Remote Access | Online Free DevTools by Hexmos"
 name: sshd
-path: /freedevtools/tldr/ssh/sshd
+path: "/freedevtools/tldr/ssh/sshd/"
 canonical: "https://hexmos.com/freedevtools/tldr/ssh/sshd/"
 description: "Control SSH Daemon for secure remote access with SSHD. Manage secure shell connections and execute remote commands. Free online tool, no registration required."
 category: common

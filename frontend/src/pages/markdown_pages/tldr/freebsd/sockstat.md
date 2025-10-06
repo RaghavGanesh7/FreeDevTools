@@ -1,7 +1,7 @@
 ---
 title: "Sockstat - List Open Sockets | Online Free DevTools by Hexmos"
 name: sockstat
-path: "/freedevtools/tldr/freebsd/sockstat"
+path: "/freedevtools/tldr/freebsd/sockstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/sockstat/"
 description: "List open sockets with Sockstat, a network utility for FreeBSD. Examine listening ports, connected sockets, and protocol states. Free online tool, no registration required."
 category: freebsd

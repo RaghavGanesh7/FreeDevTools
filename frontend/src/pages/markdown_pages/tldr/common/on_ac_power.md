@@ -1,7 +1,7 @@
 ---
 title: "Check AC Power - Test Line Power Status | Online Free DevTools by Hexmos"
 name: on_ac_power
-path: /freedevtools/tldr/common/on_ac_power
+path: "/freedevtools/tldr/common/on_ac_power/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/on_ac_power/"
 description: "Check AC power status with On AC Power. Determine if your computer is running on battery or line power. Free online tool, no registration required."
 category: common

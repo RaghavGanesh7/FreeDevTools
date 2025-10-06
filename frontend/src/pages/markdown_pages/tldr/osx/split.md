@@ -1,7 +1,7 @@
 ---
 title: "Split File - Create File Splits | Online Free DevTools by Hexmos"
 name: split
-path: "/freedevtools/tldr/osx/split"
+path: "/freedevtools/tldr/osx/split/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/split/"
 description: "Create file splits easily with Split File command. Divide large files into smaller, manageable pieces. Free online tool, no registration required."
 category: osx

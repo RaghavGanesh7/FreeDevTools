@@ -1,7 +1,7 @@
 ---
 title: "Assemble LLVM Bitcode - Generate .bc Files | Online Free DevTools by Hexmos"
 name: llvm-as
-path: /freedevtools/tldr/llvm/llvm-as
+path: "/freedevtools/tldr/llvm/llvm-as/"
 canonical: "https://hexmos.com/freedevtools/tldr/llvm/llvm-as/"
 description: "Assemble LLVM Intermediate Representation with llvm-as. Convert .ll files to .bc bitcode. Easy compilation for developers. Free online tool, no registration required."
 category: common

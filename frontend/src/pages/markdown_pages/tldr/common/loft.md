@@ -1,7 +1,7 @@
 ---
 title: "Manage Kubernetes Clusters - Loft Virtual Clusters | Online Free DevTools by Hexmos"
 name: loft
-path: /freedevtools/tldr/common/loft
+path: "/freedevtools/tldr/common/loft/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/loft/"
 description: "Manage Kubernetes clusters with Loft. Create and manage virtual Kubernetes environments effortlessly. Free online tool, no registration required. Try our DevOps tools."
 category: common

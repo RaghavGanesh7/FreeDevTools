@@ -1,7 +1,7 @@
 ---
 title: "Reduce Image Depth - Control PAM Images | Online Free DevTools by Hexmos"
 name: pamdepth
-path: /freedevtools/tldr/common/pamdepth
+path: "/freedevtools/tldr/common/pamdepth/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamdepth/"
 description: "Reduce image depth with Pamdepth. Modify maxval in PAM images, optimizing color resolution for various applications. Free online tool, no registration required."
 category: common

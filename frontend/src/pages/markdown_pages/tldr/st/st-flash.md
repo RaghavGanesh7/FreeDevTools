@@ -1,7 +1,7 @@
 ---
 title: "Flash STM32 - Program Microcontrollers | Online Free DevTools by Hexmos"
 name: st-flash
-path: /freedevtools/tldr/st/st-flash
+path: "/freedevtools/tldr/st/st-flash/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/st-flash/"
 description: "Flash STM32 microcontrollers with st-flash. Program firmware, erase memory, and read/write data to STM32 devices easily. Free online tool, no registration required."
 category: common

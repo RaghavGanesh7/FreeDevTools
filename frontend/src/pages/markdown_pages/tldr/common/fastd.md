@@ -1,7 +1,7 @@
 ---
 title: "Fastd - Control VPN Daemon | Online Free DevTools by Hexmos"
 name: fastd
-path: /freedevtools/tldr/common/fastd
+path: "/freedevtools/tldr/common/fastd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fastd/"
 description: "Control your VPN daemon with Fastd, supporting various encryption methods. Securely manage network connections with a lightweight, configurable VPN tool. Free online tool, no registration required."
 category: common

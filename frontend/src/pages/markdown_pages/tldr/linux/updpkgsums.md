@@ -1,7 +1,7 @@
 ---
 title: "Update PKGBUILD Checksums - Manage Linux Packages | Online Free DevTools by Hexmos"
 name: updpkgsums
-path: /freedevtools/tldr/linux/updpkgsums
+path: "/freedevtools/tldr/linux/updpkgsums/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/updpkgsums/"
 description: "Manage package checksums with updpkgsums for secure Linux software distribution. Verify integrity and update source files with ease. Free online tool, no registration required."
 category: linux

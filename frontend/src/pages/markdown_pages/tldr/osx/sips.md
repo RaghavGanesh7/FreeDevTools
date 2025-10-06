@@ -1,7 +1,7 @@
 ---
 title: "Sips - Control Image Processing on macOS | Online Free DevTools by Hexmos"
 name: sips
-path: /freedevtools/tldr/osx/sips
+path: "/freedevtools/tldr/osx/sips/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/sips/"
 description: "Control image processing with Sips on macOS. Convert image formats and manipulate ColorSync ICC profiles using the command line. Free online tool, no registration required."
 category: osx

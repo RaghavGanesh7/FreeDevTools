@@ -1,7 +1,7 @@
 ---
 title: "Rustdoc Generator - Generate Rust Docs | Online Free DevTools by Hexmos"
 name: rustdoc
-path: /freedevtools/tldr/common/rustdoc
+path: "/freedevtools/tldr/common/rustdoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rustdoc/"
 description: "Generate Rust documentation quickly with Rustdoc Generator. Convert Rust code into readable documentation with various options. Free online tool, no registration required."
 category: common

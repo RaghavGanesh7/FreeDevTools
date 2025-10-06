@@ -1,7 +1,7 @@
 ---
 title: "Remote Shell - Execute Remote Commands | Online Free DevTools by Hexmos"
 name: grsh
-path: /freedevtools/tldr/osx/grsh
+path: "/freedevtools/tldr/osx/grsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/grsh/"
 description: "Execute remote commands with Remote Shell, an alias of GNU rsh. Access remote systems, transfer files, and manage processes remotely. Free online tool, no registration required."
 category: osx

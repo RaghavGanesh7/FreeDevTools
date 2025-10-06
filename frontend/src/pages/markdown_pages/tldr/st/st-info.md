@@ -1,7 +1,7 @@
 ---
 title: "ST-Link Info - Control STM32 Devices | Online Free DevTools by Hexmos"
 name: st-info
-path: /freedevtools/tldr/st/st-info
+path: "/freedevtools/tldr/st/st-info/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/st-info/"
 description: "Control STM32 devices with ST-Link Info, providing detailed device diagnostics and program memory analysis. Free online tool, no registration required for MCU information."
 category: common

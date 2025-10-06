@@ -1,7 +1,7 @@
 ---
 title: "Valgrind Debugging - Analyze Memory Usage | Online Free DevTools by Hexmos"
 name: valgrind
-path: /freedevtools/tldr/common/valgrind
+path: "/freedevtools/tldr/common/valgrind/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/valgrind/"
 description: "Analyze memory usage with Valgrind debugging tool for program optimization and error detection. Identify memory leaks and profile performance effortlessly. Free online tool, no registration required."
 category: common

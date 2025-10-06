@@ -1,7 +1,7 @@
 ---
 title: "Vegeta Load Test - Generate HTTP Traffic | Online Free DevTools by Hexmos"
 name: vegeta
-path: /freedevtools/tldr/common/vegeta
+path: "/freedevtools/tldr/common/vegeta/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vegeta/"
 description: "Generate HTTP traffic with Vegeta, a versatile HTTP load testing tool. Analyze web server performance and identify bottlenecks. Free online tool, no registration required."
 category: common

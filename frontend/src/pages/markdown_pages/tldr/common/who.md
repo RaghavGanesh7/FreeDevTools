@@ -1,7 +1,7 @@
 ---
 title: "Who - Display Logged-In Users | Online Free DevTools by Hexmos"
 name: who
-path: /freedevtools/tldr/common/who
+path: "/freedevtools/tldr/common/who/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/who/"
 description: "Display logged-in users with Who command. Identify active sessions and system boot time on Linux/macOS. Free online tool, no registration required."
 category: common

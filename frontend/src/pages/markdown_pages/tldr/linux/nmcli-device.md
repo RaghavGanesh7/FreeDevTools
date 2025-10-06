@@ -1,7 +1,7 @@
 ---
 title: "Control Network Devices - nmcli Device | Online Free DevTools by Hexmos"
 name: nmcli-device
-path: /freedevtools/tldr/linux/nmcli-device
+path: "/freedevtools/tldr/linux/nmcli-device/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmcli-device/"
 description: "Control network devices with nmcli Device. Manage interfaces, Wi-Fi connections, and network configurations easily using command line. Free online tool, no registration required."
 category: linux

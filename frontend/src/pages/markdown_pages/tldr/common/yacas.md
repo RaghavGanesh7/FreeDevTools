@@ -1,7 +1,7 @@
 ---
 title: "Control Yacas Algebra - Interactive Session | Online Free DevTools by Hexmos"
 name: yacas
-path: /freedevtools/tldr/common/yacas
+path: "/freedevtools/tldr/common/yacas/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yacas/"
 description: "Control symbolic mathematics with Yacas, a general-purpose computer algebra system. Execute statements, load scripts, and automate calculations with ease. Free online tool, no registration required."
 category: common

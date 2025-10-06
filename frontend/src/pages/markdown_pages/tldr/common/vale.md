@@ -1,7 +1,7 @@
 ---
 title: "Vale - Validate Style with CLI Tool | Online Free DevTools by Hexmos"
 name: vale
-path: /freedevtools/tldr/common/vale
+path: "/freedevtools/tldr/common/vale/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vale/"
 description: "Validate text style with Vale, a powerful CLI style checker. Ensure consistency and quality across Markdown and AsciiDoc files. Free online tool, no registration required."
 category: common

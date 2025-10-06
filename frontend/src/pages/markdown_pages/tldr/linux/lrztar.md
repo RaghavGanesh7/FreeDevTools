@@ -1,7 +1,7 @@
 ---
 title: "Lrztar - Compress Directories | Online Free DevTools by Hexmos"
 name: lrztar
-path: /freedevtools/tldr/linux/lrztar
+path: "/freedevtools/tldr/linux/lrztar/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lrztar/"
 description: "Compress directories easily with Lrztar, a wrapper for lrzip. Enhance file compression and archiving on Linux systems using command line. Free online tool, no registration required."
 category: linux

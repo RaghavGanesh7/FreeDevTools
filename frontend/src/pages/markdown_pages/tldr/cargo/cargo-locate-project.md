@@ -1,7 +1,7 @@
 ---
 title: "Locate Cargo Project - Find Cargo.toml Manifest | Online Free DevTools by Hexmos"
 name: cargo-locate-project
-path: /freedevtools/tldr/cargo/cargo-locate-project
+path: "/freedevtools/tldr/cargo/cargo-locate-project/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-locate-project/"
 description: "Locate Cargo projects instantly with Cargo Locate-Project. Find the Cargo.toml manifest path for projects and workspaces. Free online tool, no registration required."
 category: common

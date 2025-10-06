@@ -1,7 +1,7 @@
 ---
 title: "Blkid - List Partitions and UUIDs | Online Free DevTools by Hexmos"
 name: blkid
-path: /freedevtools/tldr/linux/blkid
+path: "/freedevtools/tldr/linux/blkid/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/blkid/"
 description: "List partitions and their UUIDs with Blkid. Easily identify devices and mount points on your Linux system. Free online tool, no registration required."
 category: linux

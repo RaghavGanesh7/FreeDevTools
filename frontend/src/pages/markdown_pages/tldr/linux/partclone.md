@@ -1,7 +1,7 @@
 ---
 title: "Partclone - Backup Partitions Disregarding Empty Blocks | Online Free DevTools by Hexmos"
 name: partclone
-path: /freedevtools/tldr/linux/partclone
+path: "/freedevtools/tldr/linux/partclone/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/partclone/"
 description: "Backup partitions instantly with Partclone, disregarding empty blocks for efficient disk imaging. Create and restore partition images quickly. Free online tool, no registration required."
 category: linux

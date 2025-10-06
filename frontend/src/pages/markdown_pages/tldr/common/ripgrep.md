@@ -1,7 +1,7 @@
 ---
 title: "Ripgrep Search - Find Text Fast | Online Free DevTools by Hexmos"
 name: ripgrep
-path: /freedevtools/tldr/common/ripgrep
+path: "/freedevtools/tldr/common/ripgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ripgrep/"
 description: "Search text with Ripgrep, a fast and powerful command line tool for recursively searching directories. Free online tool, no registration required."
 category: common

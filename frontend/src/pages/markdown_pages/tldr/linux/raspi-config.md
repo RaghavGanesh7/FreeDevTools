@@ -1,7 +1,7 @@
 ---
 title: "Configure Raspberry Pi - Control System Settings with raspi-config | Online Free DevTools by Hexmos"
 name: raspi-config
-path: /freedevtools/tldr/linux/raspi-config
+path: "/freedevtools/tldr/linux/raspi-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/raspi-config/"
 description: "Configure Raspberry Pi settings easily with raspi-config.  Manage network interfaces, boot options, and more using this ncurses interface. Free online tool, no registration required."
 category: linux

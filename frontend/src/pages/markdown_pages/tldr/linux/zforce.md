@@ -1,7 +1,7 @@
 ---
 title: "Zforce - Add Gzip Extension | Online Free DevTools by Hexmos"
 name: zforce
-path: /freedevtools/tldr/linux/zforce
+path: "/freedevtools/tldr/linux/zforce/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/zforce/"
 description: "Add Gzip extension with Zforce. Quickly rename Gzip files to include the '.gz' extension. Efficient Linux command for file management. Free online tool, no registration required."
 category: linux

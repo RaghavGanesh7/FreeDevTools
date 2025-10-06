@@ -1,7 +1,7 @@
 ---
 title: "Autojump - Navigate Directories Quickly | Online Free DevTools by Hexmos"
 name: j
-path: /freedevtools/tldr/common/j
+path: "/freedevtools/tldr/common/j/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/j/"
 description: "Navigate directories quickly with Autojump command alias. Jump to frequently used folders instantly from your terminal. Free online tool, no registration required."
 category: common

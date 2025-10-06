@@ -1,7 +1,7 @@
 ---
 title: "SWIG - Generate Bindings for Multiple Languages | Online Free DevTools by Hexmos"
 name: swig
-path: "/freedevtools/tldr/common/swig"
+path: "/freedevtools/tldr/common/swig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swig/"
 description: "Generate language bindings with SWIG. Create wrappers for C/C++ code in Python, Java, Go, and more. Free online tool, no registration required."
 category: common

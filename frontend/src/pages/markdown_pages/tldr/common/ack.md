@@ -1,7 +1,7 @@
 ---
 title: "Search Text with Ack - Find Patterns | Online Free DevTools by Hexmos"
 name: ack
-path: /freedevtools/tldr/common/ack
+path: "/freedevtools/tldr/common/ack/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ack/"
 description: "Search text with Ack, a streamlined grep alternative for developers. Quickly find code patterns and text within files. Free online tool, no registration required."
 category: common

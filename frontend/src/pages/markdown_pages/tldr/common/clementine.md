@@ -1,7 +1,7 @@
 ---
 title: "Clementine Player - Control Music Playback | Online Free DevTools by Hexmos"
 name: clementine
-path: /freedevtools/tldr/common/clementine
+path: "/freedevtools/tldr/common/clementine/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clementine/"
 description: "Control music playback with Clementine music player. Manage playlists, skip tracks, and pause/resume music with ease. Free online tool, no registration required."
 category: common

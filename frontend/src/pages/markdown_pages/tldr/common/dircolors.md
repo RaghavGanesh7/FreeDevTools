@@ -1,7 +1,7 @@
 ---
 title: "Generate LS_COLOR - Style LS Commands | Online Free DevTools by Hexmos"
 name: dircolors
-path: /freedevtools/tldr/common/dircolors
+path: "/freedevtools/tldr/common/dircolors/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dircolors/"
 description: "Generate LS_COLOR environment variables with dircolors. Style `ls` commands, customize terminal colors, and improve file readability. Free online tool, no registration required."
 category: common

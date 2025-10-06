@@ -1,7 +1,7 @@
 ---
 title: "Convert SPOT to PGM - Image Conversion | Online Free DevTools by Hexmos"
 name: spottopgm
-path: /freedevtools/tldr/common/spottopgm
+path: "/freedevtools/tldr/common/spottopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spottopgm/"
 description: "Convert SPOT image to PGM format with spottopgm. Extract color channels and specific rectangles for image processing. Free online tool, no registration required."
 category: common

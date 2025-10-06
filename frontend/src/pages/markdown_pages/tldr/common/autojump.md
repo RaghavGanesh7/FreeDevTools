@@ -1,7 +1,7 @@
 ---
 title: "Autojump Directory - Navigate Faster | Online Free DevTools by Hexmos"
 name: autojump
-path: /freedevtools/tldr/common/autojump
+path: "/freedevtools/tldr/common/autojump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/autojump/"
 description: "Navigate directories faster with Autojump directory navigation. Quickly jump to frequently used folders and purge old entries. Free online tool, no registration required."
 category: common

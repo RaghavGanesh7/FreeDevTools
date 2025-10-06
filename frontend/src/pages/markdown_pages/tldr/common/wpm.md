@@ -1,7 +1,7 @@
 ---
 title: "Measure WPM - Typing Speed Test with Command Line | Online Free DevTools by Hexmos"
 name: wpm
-path: /freedevtools/tldr/common/wpm
+path: "/freedevtools/tldr/common/wpm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wpm/"
 description: "Measure WPM (Words Per Minute) with Command Line. Analyze your typing speed and accuracy using this console-based tool. Free online tool, no registration required."
 category: common

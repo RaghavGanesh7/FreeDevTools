@@ -1,7 +1,7 @@
 ---
 title: "Create Git Files - Add to Index with Git Touch | Online Free DevTools by Hexmos"
 name: git-touch
-path: /freedevtools/tldr/git/git-touch
+path: "/freedevtools/tldr/git/git-touch/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-touch/"
 description: "Create Git files easily with Git Touch. Quickly add new files to the index in your repository, streamlining your workflow. Free online tool, no registration required."
 category: common

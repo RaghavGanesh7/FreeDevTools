@@ -1,7 +1,7 @@
 ---
 title: "Pueue Reset - Kill Tasks & Clear Logs | Online Free DevTools by Hexmos"
 name: pueue-reset
-path: /freedevtools/tldr/pueue/pueue-reset
+path: "/freedevtools/tldr/pueue/pueue-reset/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-reset/"
 description: "Reset Pueue queues instantly. Delete tasks, logs, and status with Pueue Reset. Free online tool, no registration required."
 category: common

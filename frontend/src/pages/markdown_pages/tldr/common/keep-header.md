@@ -1,7 +1,7 @@
 ---
 title: "Control Header - Keep File Header with Command | Online Free DevTools by Hexmos"
 name: keep-header
-path: /freedevtools/tldr/common/keep-header
+path: "/freedevtools/tldr/common/keep-header/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/keep-header/"
 description: "Control header lines with keep-header. Preserve the first line of files while running commands. Simplify data processing with header preservation. Free online tool, no registration required."
 category: common

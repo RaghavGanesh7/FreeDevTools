@@ -1,7 +1,7 @@
 ---
 title: "JHAT Analyzer - Analyze Java Heap Dumps | Online Free DevTools by Hexmos"
 name: jhat
-path: /freedevtools/tldr/common/jhat
+path: "/freedevtools/tldr/common/jhat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jhat/"
 description: "Analyze Java heap dumps with JHAT analyzer. Inspect memory usage, identify leaks, and optimize performance. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Directories - Lsyncd File Watcher | Online Free DevTools by Hexmos"
 name: lsyncd
-path: /freedevtools/tldr/common/lsyncd
+path: "/freedevtools/tldr/common/lsyncd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lsyncd/"
 description: "Synchronize files with Lsyncd, an automated file watcher. Keep directories in sync across systems using rsync, ensuring immediate mirroring. Free online tool, no registration required."
 category: common

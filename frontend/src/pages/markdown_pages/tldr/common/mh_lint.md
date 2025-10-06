@@ -1,7 +1,7 @@
 ---
 title: "Validate MATLAB Code - Find Bugs with mh_lint | Online Free DevTools by Hexmos"
 name: mh_lint
-path: /freedevtools/tldr/common/mh_lint
+path: "/freedevtools/tldr/common/mh_lint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mh_lint/"
 description: "Validate MATLAB code with mh_lint, a static analysis tool for finding bugs and potential issues in your scripts. Free online tool, no registration required."
 category: common

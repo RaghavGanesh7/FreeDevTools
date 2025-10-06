@@ -1,7 +1,7 @@
 ---
 title: "Basenc Encode - Encode Data with GNU Basenc | Online Free DevTools by Hexmos"
 name: gbasenc
-path: /freedevtools/tldr/osx/gbasenc
+path: "/freedevtools/tldr/osx/gbasenc/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gbasenc/"
 description: "Encode data with Basenc using GNU basenc command on macOS. Convert files to base32, base64, and other encodings. Free online tool, no registration required."
 category: osx

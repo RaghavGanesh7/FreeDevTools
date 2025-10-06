@@ -1,7 +1,7 @@
 ---
 title: "Invoke-WebRequest - Download Files | Online Free DevTools by Hexmos"
 name: iwr
-path: /freedevtools/tldr/windows/iwr
+path: "/freedevtools/tldr/windows/iwr/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/iwr/"
 description: "Download files with Invoke-WebRequest (iwr) on Windows. Quickly retrieve web content and data. Free online tool, no registration required."
 category: windows

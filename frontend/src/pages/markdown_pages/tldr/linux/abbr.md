@@ -1,7 +1,7 @@
 ---
 title: "Control Abbreviations - Manage Shell Aliases | Online Free DevTools by Hexmos"
 name: abbr
-path: /freedevtools/tldr/linux/abbr
+path: "/freedevtools/tldr/linux/abbr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/abbr/"
 description: "Control abbreviations easily with Abbr. Manage shell aliases, create shortcuts, and expand commands in your fish shell. Free online tool, no registration required."
 category: linux

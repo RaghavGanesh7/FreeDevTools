@@ -1,7 +1,7 @@
 ---
 title: "QM Suspend - Control Virtual Machines | Online Free DevTools by Hexmos"
 name: qm-suspend
-path: /freedevtools/tldr/linux/qm-suspend
+path: "/freedevtools/tldr/linux/qm-suspend/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-suspend/"
 description: "Control virtual machine suspension with QM Suspend. Manage PVE VMs using command line. Suspend with or without lock checks. Free online tool, no registration required."
 category: linux

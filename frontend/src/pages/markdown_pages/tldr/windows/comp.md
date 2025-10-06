@@ -1,7 +1,7 @@
 ---
 title: "Compare Files - Compare File Contents | Online Free DevTools by Hexmos"
 name: comp
-path: /freedevtools/tldr/windows/comp
+path: "/freedevtools/tldr/windows/comp/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/comp/"
 description: "Compare file contents easily with Compare Files. Find differences between files and sets of files using wildcard support. Free online tool, no registration required."
 category: windows

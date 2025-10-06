@@ -1,7 +1,7 @@
 ---
 title: "Fastlane - Build Mobile Apps | Online Free DevTools by Hexmos"
 name: fastlane
-path: /freedevtools/tldr/common/fastlane
+path: "/freedevtools/tldr/common/fastlane/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fastlane/"
 description: "Build mobile apps instantly with Fastlane. Automate iOS and Android app deployment, code signing, and release processes. Free online tool, no registration required."
 category: common

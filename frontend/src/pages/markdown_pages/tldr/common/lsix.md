@@ -1,7 +1,7 @@
 ---
 title: "List Images - Display Sixel Images on Terminal | Online Free DevTools by Hexmos"
 name: lsix
-path: /freedevtools/tldr/common/lsix
+path: "/freedevtools/tldr/common/lsix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lsix/"
 description: "List images with lsix to display them in Sixel format on your terminal. Convert to Sixel, preview images quickly. Free online tool, no registration required."
 category: common

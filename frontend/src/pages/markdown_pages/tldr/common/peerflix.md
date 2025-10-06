@@ -1,7 +1,7 @@
 ---
 title: "Stream Torrents - Peerflix Stream Media | Online Free DevTools by Hexmos"
 name: peerflix
-path: /freedevtools/tldr/common/peerflix
+path: "/freedevtools/tldr/common/peerflix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/peerflix/"
 description: "Stream torrent files directly with Peerflix, eliminating downloads. Play video and audio torrents online using media players. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pacman Package Manager - Manage Arch Linux Packages | Online Free DevTools by Hexmos"
 name: pacman
-path: /freedevtools/tldr/linux/pacman
+path: "/freedevtools/tldr/linux/pacman/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman/"
 description: "Manage Arch Linux packages efficiently with Pacman. Install, remove, update, and query packages using simple commands. Free online tool, no registration required."
 category: linux

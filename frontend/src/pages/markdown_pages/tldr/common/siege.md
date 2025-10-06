@@ -1,7 +1,7 @@
 ---
 title: "Siege Load Testing - Benchmark Websites | Online Free DevTools by Hexmos"
 name: siege
-path: /freedevtools/tldr/common/siege
+path: "/freedevtools/tldr/common/siege/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/siege/"
 description: "Benchmark websites with Siege load testing tool. Analyze website performance and simulate user traffic for stress testing. Free online tool, no registration required."
 category: common

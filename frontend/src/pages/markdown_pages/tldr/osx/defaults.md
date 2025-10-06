@@ -1,7 +1,7 @@
 ---
 title: "Defaults - Manage macOS User Configuration | Online Free DevTools by Hexmos"
 name: defaults
-path: /freedevtools/tldr/osx/defaults
+path: "/freedevtools/tldr/osx/defaults/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/defaults/"
 description: "Manage macOS user configuration with Defaults. Read, write, and delete application preferences via the command line. Free online tool, no registration required."
 category: osx

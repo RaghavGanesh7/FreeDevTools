@@ -1,7 +1,7 @@
 ---
 title: "Control Real-Time Processes - chrt | Online Free DevTools by Hexmos"
 name: chrt
-path: /freedevtools/tldr/linux/chrt
+path: "/freedevtools/tldr/linux/chrt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chrt/"
 description: "Control real-time process attributes with chrt on Linux. Manage scheduling policies and priorities efficiently. Free online tool, no registration required."
 category: linux

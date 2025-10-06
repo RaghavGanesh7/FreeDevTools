@@ -1,7 +1,7 @@
 ---
 title: "Create Diff Histogram - Analyze File Changes | Online Free DevTools by Hexmos"
 name: diffstat
-path: /freedevtools/tldr/common/diffstat
+path: "/freedevtools/tldr/common/diffstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/diffstat/"
 description: "Create diff histogram with Diffstat. Analyze code changes and file modifications from diff output with ease. Free online tool, no registration required."
 category: common

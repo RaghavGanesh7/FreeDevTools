@@ -1,7 +1,7 @@
 ---
 title: "Rails Routes - List Routes in Rails Apps | Online Free DevTools by Hexmos"
 name: rails-routes
-path: /freedevtools/tldr/rails/rails-routes
+path: "/freedevtools/tldr/rails/rails-routes/"
 canonical: "https://hexmos.com/freedevtools/tldr/rails/rails-routes/"
 description: "List routes easily with Rails Routes. Inspect routes, filter by controller or path, and debug routing configurations. Free online tool, no registration required."
 category: common

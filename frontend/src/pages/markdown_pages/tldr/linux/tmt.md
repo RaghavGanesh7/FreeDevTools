@@ -1,7 +1,7 @@
 ---
 title: "Tmt - Test Management | Online Free DevTools by Hexmos"
 name: tmt
-path: /freedevtools/tldr/linux/tmt
+path: "/freedevtools/tldr/linux/tmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tmt/"
 description: "Manage tests efficiently with Tmt, the Test Management Tool for Linux. Create, run, and debug tests with ease. Free online tool, no registration required."
 category: linux

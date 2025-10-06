@@ -1,7 +1,7 @@
 ---
 title: "Backup Data Securely - Control Restic Backups | Online Free DevTools by Hexmos"
 name: restic
-path: /freedevtools/tldr/common/restic
+path: "/freedevtools/tldr/common/restic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/restic/"
 description: "Control data backups securely with Restic. Manage snapshots, restore files, and prune repositories. Free online tool, no registration required."
 category: common

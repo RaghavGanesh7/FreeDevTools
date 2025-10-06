@@ -1,7 +1,7 @@
 ---
 title: "Convert PDF Files - Format Images with pstoedit | Online Free DevTools by Hexmos"
 name: pstoedit
-path: /freedevtools/tldr/linux/pstoedit
+path: "/freedevtools/tldr/linux/pstoedit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pstoedit/"
 description: "Format images from PDF files with pstoedit, a powerful PDF converter. Extract specific pages, and convert to PNG or JPG formats. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "FTP Control - Transfer Files on MacOS | Online Free DevTools by Hexmos"
 name: gftp
-path: /freedevtools/tldr/osx/gftp
+path: "/freedevtools/tldr/osx/gftp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gftp/"
 description: "Control FTP file transfers with gftp, a command-line interface for MacOS. Securely upload, download and manage files on remote servers. Free online tool, no registration required."
 category: osx

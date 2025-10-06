@@ -1,7 +1,7 @@
 ---
 title: "DNF Config Manager - Control Repositories on Linux | Online Free DevTools by Hexmos"
 name: dnf-config-manager
-path: /freedevtools/tldr/linux/dnf-config-manager
+path: "/freedevtools/tldr/linux/dnf-config-manager/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf-config-manager/"
 description: "Control DNF repositories on Linux with DNF Config Manager. Manage, add, enable, and disable repositories easily. Free online tool, no registration required."
 category: linux

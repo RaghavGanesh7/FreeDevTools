@@ -1,7 +1,7 @@
 ---
 title: "Compile C# Code - Control Compilation with mcs | Online Free DevTools by Hexmos"
 name: mcs
-path: /freedevtools/tldr/common/mcs
+path: "/freedevtools/tldr/common/mcs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mcs/"
 description: "Compile C# code quickly with mcs, the Mono C# Compiler. Generate executables, libraries, or modules with ease. Free online tool, no registration required."
 category: common

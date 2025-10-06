@@ -1,7 +1,7 @@
 ---
 title: "Crictl - Control Container Runtimes | Online Free DevTools by Hexmos"
 name: crictl
-path: /freedevtools/tldr/common/crictl
+path: "/freedevtools/tldr/common/crictl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/crictl/"
 description: "Control container runtimes with Crictl. Inspect pods, manage images and execute commands inside containers. Free online tool, no registration required."
 category: common

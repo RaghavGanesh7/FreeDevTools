@@ -1,7 +1,7 @@
 ---
 title: "Iostat - Monitor Device Statistics | Online Free DevTools by Hexmos"
 name: iostat
-path: /freedevtools/tldr/osx/iostat
+path: "/freedevtools/tldr/osx/iostat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/iostat/"
 description: "Monitor device statistics with Iostat on MacOS. Analyze disk I/O performance and CPU usage. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Report Non-Free Packages - with VRMS | Online Free DevTools by Hexmos"
 name: vrms
-path: /freedevtools/tldr/linux/vrms
+path: "/freedevtools/tldr/linux/vrms/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vrms/"
 description: "Report non-free software packages with VRMS, identifying restricted software on your Debian system. Analyze software licenses effortlessly. Free online tool, no registration required."
 category: linux

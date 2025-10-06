@@ -1,7 +1,7 @@
 ---
 title: "Ark Archiver - Manage Archives Efficiently | Online Free DevTools by Hexmos"
 name: ark
-path: /freedevtools/tldr/linux/ark
+path: "/freedevtools/tldr/linux/ark/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ark/"
 description: "Manage archives efficiently with Ark Archiver. Extract, create, and add files to archives using simple commands. Free online tool, no registration required."
 category: linux

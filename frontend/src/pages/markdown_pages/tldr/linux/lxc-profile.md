@@ -1,7 +1,7 @@
 ---
 title: "LXC Profile - Manage Container Profiles | Online Free DevTools by Hexmos"
 name: lxc-profile
-path: /freedevtools/tldr/linux/lxc-profile
+path: "/freedevtools/tldr/linux/lxc-profile/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-profile/"
 description: "Manage LXD container profiles with LXC Profile. Configure, edit, and assign profiles to control container behavior. Free online tool, no registration required."
 category: linux

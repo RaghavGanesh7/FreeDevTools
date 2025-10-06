@@ -1,7 +1,7 @@
 ---
 title: "Nodenv - Manage Node.js Versions | Online Free DevTools by Hexmos"
 name: nodenv
-path: /freedevtools/tldr/common/nodenv
+path: "/freedevtools/tldr/common/nodenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nodenv/"
 description: "Manage Node.js versions effectively with Nodenv. Install specific versions, control global and local versions effortlessly. Free online tool, no registration required."
 category: common

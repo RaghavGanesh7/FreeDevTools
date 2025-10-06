@@ -1,7 +1,7 @@
 ---
 title: "Disk Utility - Manage Disks and Volumes | Online Free DevTools by Hexmos"
 name: diskutil
-path: /freedevtools/tldr/osx/diskutil
+path: "/freedevtools/tldr/osx/diskutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/diskutil/"
 description: "Manage disks with Disk Utility, a command-line tool for macOS. Repair volumes, unmount disks, and eject media using command prompts. Free online tool, no registration required."
 category: osx

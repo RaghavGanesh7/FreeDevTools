@@ -1,7 +1,7 @@
 ---
 title: "Monitor Progress - Control Data Flow with pv | Online Free DevTools by Hexmos"
 name: pv
-path: /freedevtools/tldr/common/pv
+path: "/freedevtools/tldr/common/pv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pv/"
 description: "Control data flow and monitor progress with pv, a powerful pipe viewer for Linux and macOS. Track data transfer speeds and amounts. Free online tool, no registration required."
 category: common

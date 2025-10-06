@@ -1,7 +1,7 @@
 ---
 title: "Readlink Command - Resolve Symbolic Links | Online Free DevTools by Hexmos"
 name: greadlink
-path: /freedevtools/tldr/osx/greadlink
+path: "/freedevtools/tldr/osx/greadlink/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/greadlink/"
 description: "Resolve symbolic links with the Readlink Command. Quickly find the target of symbolic links on macOS systems. Free online tool, no registration required."
 category: osx

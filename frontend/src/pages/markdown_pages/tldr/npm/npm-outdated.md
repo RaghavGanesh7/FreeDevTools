@@ -1,7 +1,7 @@
 ---
 title: "Check NPM Outdated - Analyze Package Versions | Online Free DevTools by Hexmos"
 name: npm-outdated
-path: /freedevtools/tldr/npm/npm-outdated
+path: "/freedevtools/tldr/npm/npm-outdated/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-outdated/"
 description: "Analyze outdated npm packages with NPM Outdated. Find vulnerable dependencies and keep your project secure. Free online tool, no registration required."
 category: common

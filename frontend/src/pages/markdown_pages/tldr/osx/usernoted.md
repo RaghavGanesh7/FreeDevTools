@@ -1,7 +1,7 @@
 ---
 title: "Usernoted - Provide Notifications | Online Free DevTools by Hexmos"
 name: usernoted
-path: /freedevtools/tldr/osx/usernoted
+path: "/freedevtools/tldr/osx/usernoted/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/usernoted/"
 description: "Provide notification services with Usernoted. Control user notifications and system alerts on macOS. Free online tool, no registration required."
 category: osx

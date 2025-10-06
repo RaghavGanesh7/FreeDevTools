@@ -1,7 +1,7 @@
 ---
 title: "Sort Files - Organize Data with gsort | Online Free DevTools by Hexmos"
 name: gsort
-path: /freedevtools/tldr/osx/gsort
+path: "/freedevtools/tldr/osx/gsort/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsort/"
 description: "Organize data with gsort, the GNU sort alias for macOS. Sort text files, CSVs, and other data formats easily using this free online tool, no registration required."
 category: osx

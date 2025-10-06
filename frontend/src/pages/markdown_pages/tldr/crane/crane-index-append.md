@@ -1,7 +1,7 @@
 ---
 title: "Crane - Append Index Manifest | Online Free DevTools by Hexmos"
 name: crane-index-append
-path: /freedevtools/tldr/crane/crane-index-append
+path: "/freedevtools/tldr/crane/crane-index-append/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-index-append/"
 description: "Append container index manifest with Crane. Create new container image indexes by adding manifests. Free online tool, no registration required."
 category: common

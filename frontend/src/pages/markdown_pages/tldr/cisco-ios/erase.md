@@ -1,7 +1,7 @@
 ---
 title: "Erase Cisco Configuration - Delete Files | Online Free DevTools by Hexmos"
 name: erase
-path: /freedevtools/tldr/cisco-ios/erase
+path: "/freedevtools/tldr/cisco-ios/erase/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/erase/"
 description: "Delete Cisco IOS configuration files with Erase. Quickly remove startup-config or entire filesystems on Cisco routers. Free online tool, no registration required."
 category: cisco-ios

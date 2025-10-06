@@ -1,7 +1,7 @@
 ---
 title: "Git Add - Stage Changes for Commit | Online Free DevTools by Hexmos"
 name: git-add
-path: /freedevtools/tldr/git/git-add
+path: "/freedevtools/tldr/git/git-add/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-add/"
 description: "Stage changes with Git Add command to prepare for committing. Easily add new and modified files to the index for version control. Free online tool, no registration required."
 category: common

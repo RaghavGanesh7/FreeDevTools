@@ -1,7 +1,7 @@
 ---
 title: "Git Remove - Remove Files from Git Index | Online Free DevTools by Hexmos"
 name: git-rm
-path: /freedevtools/tldr/git/git-rm
+path: "/freedevtools/tldr/git/git-rm/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-rm/"
 description: "Remove files from the Git index with Git Remove. Manage version control, delete files, and update repositories efficiently. Free online tool, no registration required."
 category: common

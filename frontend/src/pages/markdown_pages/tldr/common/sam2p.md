@@ -1,7 +1,7 @@
 ---
 title: "Convert Images - sam2p | Online Free DevTools by Hexmos"
 name: sam2p
-path: /freedevtools/tldr/common/sam2p
+path: "/freedevtools/tldr/common/sam2p/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sam2p/"
 description: "Convert images with sam2p. Easily generate PDF and PostScript files. A free online image converter, no registration required. Optimize bitmap images now!"
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Password Manager - Control Passwords with rbw | Online Free DevTools by Hexmos"
 name: rbw
-path: /freedevtools/tldr/common/rbw
+path: "/freedevtools/tldr/common/rbw/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rbw/"
 description: "Control passwords efficiently with rbw Password Manager. Securely manage and generate passwords using the command line. Free online tool, no registration required."
 category: common

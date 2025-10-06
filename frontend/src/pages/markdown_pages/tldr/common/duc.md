@@ -1,7 +1,7 @@
 ---
 title: "Visualize Disk Usage - Inspect Files with Duc | Online Free DevTools by Hexmos"
 name: duc
-path: /freedevtools/tldr/common/duc
+path: "/freedevtools/tldr/common/duc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/duc/"
 description: "Visualize disk usage with Duc. Index, inspect, and graph directory sizes to analyze file system space. Free online tool, no registration required."
 category: common

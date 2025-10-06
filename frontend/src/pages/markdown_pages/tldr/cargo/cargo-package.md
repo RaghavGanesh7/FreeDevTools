@@ -1,7 +1,7 @@
 ---
 title: "Package Rust Code - Create Cargo Package | Online Free DevTools by Hexmos"
 name: cargo-package
-path: /freedevtools/tldr/cargo/cargo-package
+path: "/freedevtools/tldr/cargo/cargo-package/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-package/"
 description: "Package Rust code with Cargo Package for distribution. Easily create distributable `.crate` files and verify package contents. Free online tool, no registration required."
 category: common

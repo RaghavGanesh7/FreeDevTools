@@ -1,7 +1,7 @@
 ---
 title: "SHA224SUM - Generate SHA224 Checksums | Online Free DevTools by Hexmos"
 name: gsha224sum
-path: /freedevtools/tldr/osx/gsha224sum
+path: "/freedevtools/tldr/osx/gsha224sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsha224sum/"
 description: "Generate SHA224 checksums with gsha224sum on MacOS. Verify file integrity and ensure data security. Free online tool, no registration required."
 category: osx

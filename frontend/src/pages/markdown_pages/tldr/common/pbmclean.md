@@ -1,7 +1,7 @@
 ---
 title: "Clean PBM Image - Erase Pixels | Online Free DevTools by Hexmos"
 name: pbmclean
-path: /freedevtools/tldr/common/pbmclean
+path: "/freedevtools/tldr/common/pbmclean/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmclean/"
 description: "Clean PBM images by removing isolated pixels with PBMclean. Enhance image quality and reduce noise. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Port - Package Management on macOS | Online Free DevTools by Hexmos"
 name: port
-path: /freedevtools/tldr/osx/port
+path: "/freedevtools/tldr/osx/port/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/port/"
 description: "Manage packages with Port, the macOS package manager. Install, update, and uninstall software from the command line. Free online tool, no registration required."
 category: osx

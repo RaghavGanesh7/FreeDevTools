@@ -1,7 +1,7 @@
 ---
 title: "Debug Programs - Control LLDB with Command Line | Online Free DevTools by Hexmos"
 name: lldb
-path: /freedevtools/tldr/osx/lldb
+path: "/freedevtools/tldr/osx/lldb/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/lldb/"
 description: "Debug programs efficiently with LLDB, the Low-Level Debugger. Attach to running processes and control execution flow on macOS. Free online tool, no registration required."
 category: osx

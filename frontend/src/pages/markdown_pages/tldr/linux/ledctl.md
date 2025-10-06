@@ -1,7 +1,7 @@
 ---
 title: "LED Control - Manage Enclosure LEDs | Online Free DevTools by Hexmos"
 name: ledctl
-path: /freedevtools/tldr/linux/ledctl
+path: "/freedevtools/tldr/linux/ledctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ledctl/"
 description: "Control enclosure LEDs with ledctl. Manage device status, locate devices, and turn LEDs on or off on Linux systems. Free online tool, no registration required."
 category: linux

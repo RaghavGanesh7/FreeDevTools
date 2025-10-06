@@ -1,7 +1,7 @@
 ---
 title: "Index Email - Search Maildir with mu | Online Free DevTools by Hexmos"
 name: mu
-path: /freedevtools/tldr/common/mu
+path: "/freedevtools/tldr/common/mu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mu/"
 description: "Index and search email messages with mu, a powerful command-line tool for Maildir. Find emails by keywords, sender, date, and attachments. Free online tool, no registration required."
 category: common

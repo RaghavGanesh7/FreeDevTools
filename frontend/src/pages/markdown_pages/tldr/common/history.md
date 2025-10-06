@@ -1,7 +1,7 @@
 ---
 title: "Manage Command History - Control Bash History | Online Free DevTools by Hexmos"
 name: history
-path: /freedevtools/tldr/common/history
+path: "/freedevtools/tldr/common/history/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/history/"
 description: "Manage command-line history with the Bash History tool. Control, clear, and manipulate your shell history easily. Free online tool, no registration required."
 category: common

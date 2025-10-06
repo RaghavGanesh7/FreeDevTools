@@ -1,7 +1,7 @@
 ---
 title: "Nsenter - Control Process Namespaces | Online Free DevTools by Hexmos"
 name: nsenter
-path: /freedevtools/tldr/linux/nsenter
+path: "/freedevtools/tldr/linux/nsenter/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nsenter/"
 description: "Control process namespaces with Nsenter. Execute commands within existing process namespaces for enhanced container management. Free online tool, no registration required."
 category: linux

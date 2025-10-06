@@ -1,7 +1,7 @@
 ---
 title: "Locate VS Installations - Find Visual Studio with vswhere | Online Free DevTools by Hexmos"
 name: vswhere
-path: /freedevtools/tldr/windows/vswhere
+path: "/freedevtools/tldr/windows/vswhere/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/vswhere/"
 description: "Find Visual Studio installations with vswhere, a powerful command-line tool. Locate MSVC compilers, Clang tools, and MSBuild executables quickly. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Lookup MSRPC Interfaces - Control RPC Connections | Online Free DevTools by Hexmos"
 name: rpcmap.py
-path: /freedevtools/tldr/common/rpcmap-py
+path: "/freedevtools/tldr/common/rpcmap-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/rpcmap-py/"
 description: "Lookup MSRPC interfaces with rpcmap.py. Discover listening RPC endpoints and brute-force UUIDs for penetration testing. Free online tool, no registration required."
 category: common

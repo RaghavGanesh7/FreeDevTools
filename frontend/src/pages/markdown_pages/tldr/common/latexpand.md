@@ -1,7 +1,7 @@
 ---
 title: "Expand LaTeX Files - Simplify Documents | Online Free DevTools by Hexmos"
 name: latexpand
-path: /freedevtools/tldr/common/latexpand
+path: "/freedevtools/tldr/common/latexpand/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/latexpand/"
 description: "Expand LaTeX files effortlessly with latexpand. Simplify LaTeX documents by resolving includes and removing comments. Free online tool, no registration required."
 category: common

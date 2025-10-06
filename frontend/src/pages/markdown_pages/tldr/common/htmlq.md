@@ -1,7 +1,7 @@
 ---
 title: "Extract HTML Content - Control with htmlq | Online Free DevTools by Hexmos"
 name: htmlq
-path: /freedevtools/tldr/common/htmlq
+path: "/freedevtools/tldr/common/htmlq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/htmlq/"
 description: "Extract HTML content with htmlq, a CSS selector tool. Query HTML files efficiently from the command line with this free online tool, no registration required."
 category: common

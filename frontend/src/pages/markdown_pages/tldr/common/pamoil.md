@@ -1,7 +1,7 @@
 ---
 title: "Generate Oil Painting - PAM Image to Oil | Online Free DevTools by Hexmos"
 name: pamoil
-path: /freedevtools/tldr/common/pamoil
+path: "/freedevtools/tldr/common/pamoil/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamoil/"
 description: "Generate oil paintings with pamoil, converting PAM images into artistic renderings. Adjust pixel neighborhood for varied smearing effects. Free online tool, no registration required."
 category: common

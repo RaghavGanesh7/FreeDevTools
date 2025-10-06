@@ -1,7 +1,7 @@
 ---
 title: "Transcode Video - Convert Media Formats | Online Free DevTools by Hexmos"
 name: transcode
-path: /freedevtools/tldr/common/transcode
+path: "/freedevtools/tldr/common/transcode/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/transcode/"
 description: "Transcode video and audio formats with Transcode. Convert between media formats and apply stabilization filters. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Get Location - Print Directory Path | Online Free DevTools by Hexmos"
 name: get-location
-path: /freedevtools/tldr/windows/get-location
+path: "/freedevtools/tldr/windows/get-location/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-location/"
 description: "Get current location instantly with Get-Location. Print your current working directory on Windows PowerShell with this command. Free online tool, no registration required."
 category: windows

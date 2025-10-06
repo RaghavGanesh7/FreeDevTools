@@ -1,7 +1,7 @@
 ---
 title: "Generate ASCII Art - Cowsay Command | Online Free DevTools by Hexmos"
 name: cowsay
-path: /freedevtools/tldr/common/cowsay
+path: "/freedevtools/tldr/common/cowsay/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cowsay/"
 description: "Generate ASCII art with Cowsay. Create customizable talking cows and other animals using this versatile command-line tool. Free online tool, no registration required."
 category: common

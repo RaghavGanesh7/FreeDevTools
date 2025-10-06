@@ -1,7 +1,7 @@
 ---
 title: "Exit Command - Quit CMD Instances | Online Free DevTools by Hexmos"
 name: exit
-path: /freedevtools/tldr/windows/exit
+path: "/freedevtools/tldr/windows/exit/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/exit/"
 description: "Quit CMD instances with Exit Command. Terminate batch scripts and specify exit codes for precise control. Free online tool, no registration required."
 category: windows

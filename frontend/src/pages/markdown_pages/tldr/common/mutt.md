@@ -1,7 +1,7 @@
 ---
 title: "Send Email with Mutt - Command Line Mail | Online Free DevTools by Hexmos"
 name: mutt
-path: /freedevtools/tldr/common/mutt
+path: "/freedevtools/tldr/common/mutt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mutt/"
 description: "Send email with Mutt command-line client. Compose, send, and manage email from the terminal with advanced customization. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Alias Command - Access Commands with rcat | Online Free DevTools by Hexmos"
 name: rcat
-path: /freedevtools/tldr/common/rcat
+path: "/freedevtools/tldr/common/rcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rcat/"
 description: "Access shell commands instantly with Alias Command (rcat). Streamline workflows and execute complex operations. Free online tool, no registration required."
 category: common

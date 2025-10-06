@@ -1,7 +1,7 @@
 ---
 title: "Terraform - Create Infrastructure as Code | Online Free DevTools by Hexmos"
 name: terraform
-path: /freedevtools/tldr/terraform/terraform
+path: "/freedevtools/tldr/terraform/terraform/"
 canonical: "https://hexmos.com/freedevtools/tldr/terraform/terraform/"
 description: "Create infrastructure as code with Terraform. Deploy and manage cloud resources using configuration files. Free online tool, no registration required."
 category: common

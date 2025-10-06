@@ -1,7 +1,7 @@
 ---
 title: "Uninstall Chocolatey Packages - Manage Software | Online Free DevTools by Hexmos"
 name: cuninst
-path: /freedevtools/tldr/windows/cuninst
+path: "/freedevtools/tldr/windows/cuninst/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/cuninst/"
 description: "Manage Chocolatey software packages easily with Uninstall Chocolatey Packages. Remove applications, clean up installations, and streamline your system. Free online tool, no registration required."
 category: windows

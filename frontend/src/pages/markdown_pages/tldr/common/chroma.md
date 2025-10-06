@@ -1,7 +1,7 @@
 ---
 title: "Highlight Syntax - Chroma Code Formatter | Online Free DevTools by Hexmos"
 name: chroma
-path: /freedevtools/tldr/common/chroma
+path: "/freedevtools/tldr/common/chroma/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chroma/"
 description: "Highlight syntax with Chroma, a versatile code formatter for various programming languages. Effortlessly format code snippets for web or documentation. Free online tool, no registration required."
 category: common

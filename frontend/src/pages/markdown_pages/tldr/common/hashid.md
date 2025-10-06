@@ -1,7 +1,7 @@
 ---
 title: "Hash Identifier - Identify Password Hashes | Online Free DevTools by Hexmos"
 name: hashid
-path: /freedevtools/tldr/common/hashid
+path: "/freedevtools/tldr/common/hashid/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hashid/"
 description: "Identify password hashes instantly with Hash Identifier. Discover hash types and formats. Free online tool, no registration required."
 category: common

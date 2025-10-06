@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages with Mamba - Fast Conda Replacement | Online Free DevTools by Hexmos"
 name: mamba
-path: /freedevtools/tldr/common/mamba
+path: "/freedevtools/tldr/common/mamba/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mamba/"
 description: "Manage packages efficiently with Mamba, a fast Conda alternative for environment management. Install, update, and search packages with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Thaw - Control Frozen Units | Online Free DevTools by Hexmos"
 name: systemctl-thaw
-path: /freedevtools/tldr/linux/systemctl-thaw
+path: "/freedevtools/tldr/linux/systemctl-thaw/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-thaw/"
 description: "Control frozen systemd units with systemctl thaw. Resume processes and manage system services efficiently. Free online tool, no registration required."
 category: linux

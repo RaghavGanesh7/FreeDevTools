@@ -1,7 +1,7 @@
 ---
 title: "Render Manim Animation - Create Explanatory Math Videos | Online Free DevTools by Hexmos"
 name: manim
-path: /freedevtools/tldr/common/manim
+path: "/freedevtools/tldr/common/manim/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/manim/"
 description: "Render animations with Manim, the powerful animation engine for creating explanatory math videos. Generate high-quality educational content easily. Free online tool, no registration required."
 category: common

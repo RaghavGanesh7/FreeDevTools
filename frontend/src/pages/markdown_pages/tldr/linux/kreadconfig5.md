@@ -1,7 +1,7 @@
 ---
 title: "Kreadconfig5 - Read KDE Config | Online Free DevTools by Hexmos"
 name: kreadconfig5
-path: /freedevtools/tldr/linux/kreadconfig5
+path: "/freedevtools/tldr/linux/kreadconfig5/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kreadconfig5/"
 description: "Read KDE configuration settings with Kreadconfig5, a command-line tool for accessing Plasma settings.  Retrieve specific key values and check system configurations. Free online tool, no registration required."
 category: linux

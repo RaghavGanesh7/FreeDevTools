@@ -1,7 +1,7 @@
 ---
 title: "Deploy Netlify Sites - Configure CD with Netlify CLI | Online Free DevTools by Hexmos"
 name: netlify
-path: /freedevtools/tldr/common/netlify
+path: "/freedevtools/tldr/common/netlify/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/netlify/"
 description: "Deploy Netlify sites easily with Netlify CLI. Configure continuous deployment and manage your Netlify projects efficiently. Free online tool, no registration required."
 category: common

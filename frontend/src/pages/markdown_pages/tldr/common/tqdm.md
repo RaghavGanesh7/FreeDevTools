@@ -1,7 +1,7 @@
 ---
 title: "Create Progress Bars - Tqdm Command | Online Free DevTools by Hexmos"
 name: tqdm
-path: /freedevtools/tldr/common/tqdm
+path: "/freedevtools/tldr/common/tqdm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tqdm/"
 description: "Create progress bars with Tqdm for command-line tools. Monitor execution time and track completion easily. Free online tool, no registration required."
 category: common

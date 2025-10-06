@@ -1,7 +1,7 @@
 ---
 title: "Control Colorpicker - Select Colors on Linux | Online Free DevTools by Hexmos"
 name: colorpicker
-path: /freedevtools/tldr/common/colorpicker
+path: "/freedevtools/tldr/common/colorpicker/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/colorpicker/"
 description: "Control colors with Colorpicker, a minimalist X11 tool. Quickly grab hexadecimal and RGB values from any pixel on your screen. Free online tool, no registration required."
 category: common

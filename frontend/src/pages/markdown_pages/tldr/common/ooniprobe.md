@@ -1,7 +1,7 @@
 ---
 title: "Network Interference Tests - Run ooniprobe | Online Free DevTools by Hexmos"
 name: ooniprobe
-path: /freedevtools/tldr/common/ooniprobe
+path: "/freedevtools/tldr/common/ooniprobe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ooniprobe/"
 description: "Run network interference tests with ooniprobe to measure network performance and detect censorship. Free online tool, no registration required."
 category: common

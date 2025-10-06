@@ -1,7 +1,7 @@
 ---
 title: "chpasswd - Change Passwords Securely | Online Free DevTools by Hexmos"
 name: chpasswd
-path: /freedevtools/tldr/linux/chpasswd
+path: "/freedevtools/tldr/linux/chpasswd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chpasswd/"
 description: "Change multiple user passwords securely with chpasswd.  Manage user credentials efficiently via command line. Free online tool, no registration required."
 category: linux

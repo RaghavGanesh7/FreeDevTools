@@ -1,7 +1,7 @@
 ---
 title: "OpenStack Server - Manage VMs | Online Free DevTools by Hexmos"
 name: openstack-server
-path: /freedevtools/tldr/openstack/openstack-server
+path: "/freedevtools/tldr/openstack/openstack-server/"
 canonical: "https://hexmos.com/freedevtools/tldr/openstack/openstack-server/"
 description: "Manage OpenStack servers with this free tool. Control virtual machines, start/stop instances, and migrate servers easily. Free online tool, no registration required."
 category: common

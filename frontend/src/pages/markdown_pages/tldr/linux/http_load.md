@@ -1,7 +1,7 @@
 ---
 title: "HTTP Load Test - Benchmark Web Server Throughput | Online Free DevTools by Hexmos"
 name: http_load
-path: /freedevtools/tldr/linux/http_load
+path: "/freedevtools/tldr/linux/http_load/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/http_load/"
 description: "Load test your web server with HTTP Load. Simulate concurrent requests and measure throughput. Free online tool, no registration required."
 category: linux

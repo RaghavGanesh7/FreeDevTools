@@ -1,7 +1,7 @@
 ---
 title: "Render HTML to PDF - Weasyprint | Online Free DevTools by Hexmos"
 name: weasyprint
-path: /freedevtools/tldr/common/weasyprint
+path: "/freedevtools/tldr/common/weasyprint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/weasyprint/"
 description: "Render HTML documents to PDF with Weasyprint. Convert HTML files to high-quality PDFs or PNGs using command line options. Free online tool, no registration required."
 category: common

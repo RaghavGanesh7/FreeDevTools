@@ -1,7 +1,7 @@
 ---
 title: "Cheatshh - Manage CLI Cheatsheets | Online Free DevTools by Hexmos"
 name: cheatshh
-path: /freedevtools/tldr/common/cheatshh
+path: "/freedevtools/tldr/common/cheatshh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cheatshh/"
 description: "Manage CLI cheatsheets easily with Cheatshh. Customize descriptions and groups for quick reference. Free online tool, no registration required."
 category: common

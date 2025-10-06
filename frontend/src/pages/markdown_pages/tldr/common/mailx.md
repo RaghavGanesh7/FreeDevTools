@@ -1,7 +1,7 @@
 ---
 title: "Send Mail - Send and Receive Email with Mailx | Online Free DevTools by Hexmos"
 name: mailx
-path: /freedevtools/tldr/common/mailx
+path: "/freedevtools/tldr/common/mailx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mailx/"
 description: "Send mail easily with Mailx. Compose, send, and manage emails directly from the command line with this email client tool. Free online tool, no registration required."
 category: common

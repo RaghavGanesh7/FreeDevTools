@@ -1,7 +1,7 @@
 ---
 title: "Create Archive Files - Manage Unix Archives | Online Free DevTools by Hexmos"
 name: ar
-path: /freedevtools/tldr/common/ar
+path: "/freedevtools/tldr/common/ar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ar/"
 description: "Create archive files with ar, a powerful tool for managing Unix archives, static libraries, and Debian packages. Free online tool, no registration required."
 category: common

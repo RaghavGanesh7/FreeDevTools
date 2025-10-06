@@ -1,7 +1,7 @@
 ---
 title: "Execute Typescript - Control Shell Scripts in Real-Time | Online Free DevTools by Hexmos"
 name: scriptlive
-path: /freedevtools/tldr/linux/scriptlive
+path: "/freedevtools/tldr/linux/scriptlive/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/scriptlive/"
 description: "Execute typescript files in real-time with scriptlive. Replay shell sessions and control timing using a timing file. Free online tool, no registration required."
 category: linux

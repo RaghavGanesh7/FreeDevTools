@@ -1,7 +1,7 @@
 ---
 title: "Ifup Enable - Control Network Interfaces | Online Free DevTools by Hexmos"
 name: ifup
-path: "/freedevtools/tldr/linux/ifup"
+path: "/freedevtools/tldr/linux/ifup/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ifup/"
 description: "Enable network interfaces with Ifup. Configure and manage network connectivity on Linux systems easily. Free online tool, no registration required."
 category: linux

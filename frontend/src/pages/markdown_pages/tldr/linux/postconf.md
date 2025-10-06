@@ -1,7 +1,7 @@
 ---
 title: "Control Postfix Configuration - Manage Mail Server Settings | Online Free DevTools by Hexmos"
 name: postconf
-path: /freedevtools/tldr/linux/postconf
+path: "/freedevtools/tldr/linux/postconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/postconf/"
 description: "Manage Postfix configuration files with Postconf. Inspect, edit, and customize your mail server settings. Free online tool, no registration required."
 category: linux

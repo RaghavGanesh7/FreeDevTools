@@ -1,7 +1,7 @@
 ---
 title: "Pixi Global - Manage Packages Globally | Online Free DevTools by Hexmos"
 name: pixi-global
-path: /freedevtools/tldr/pixi/pixi-global
+path: "/freedevtools/tldr/pixi/pixi-global/"
 canonical: "https://hexmos.com/freedevtools/tldr/pixi/pixi-global/"
 description: "Manage packages globally with Pixi Global. Simplify environment management and dependencies across projects. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Fortune - Print Random Quotations | Online Free DevTools by Hexmos"
 name: fortune
-path: /freedevtools/tldr/common/fortune
+path: "/freedevtools/tldr/common/fortune/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fortune/"
 description: "Generate random quotations with Fortune. Retrieve classic, offensive, or specified length fortunes with ease. Free online tool, no registration required."
 category: common

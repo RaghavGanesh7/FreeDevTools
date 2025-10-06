@@ -1,7 +1,7 @@
 ---
 title: "QM Shutdown - Control Virtual Machines | Online Free DevTools by Hexmos"
 name: qm-shutdown
-path: /freedevtools/tldr/linux/qm-shutdown
+path: "/freedevtools/tldr/linux/qm-shutdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-shutdown/"
 description: "Control virtual machines with QM Shutdown. Power off, stop, and manage VMs on Linux using the command line. Free online tool, no registration required."
 category: linux

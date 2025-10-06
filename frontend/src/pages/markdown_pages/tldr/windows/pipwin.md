@@ -1,7 +1,7 @@
 ---
 title: "Install Python Packages - Control pipwin Packages | Online Free DevTools by Hexmos"
 name: pipwin
-path: /freedevtools/tldr/windows/pipwin
+path: "/freedevtools/tldr/windows/pipwin/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pipwin/"
 description: "Install Python packages effortlessly with pipwin, your go-to tool for unofficial binaries on Windows. Download, search, and manage packages with ease. Free online tool, no registration required."
 category: windows

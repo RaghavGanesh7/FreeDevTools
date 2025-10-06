@@ -1,7 +1,7 @@
 ---
 title: "Flatpak Info - View Remote Application Information | Online Free DevTools by Hexmos"
 name: flatpak-remote-info
-path: /freedevtools/tldr/linux/flatpak-remote-info
+path: "/freedevtools/tldr/linux/flatpak-remote-info/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flatpak-remote-info/"
 description: "View Flatpak application information with Flatpak Remote Info. Inspect application details, check version history and examine commit details from remote repositories. Free online tool, no registration required."
 category: linux

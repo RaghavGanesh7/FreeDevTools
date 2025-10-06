@@ -1,7 +1,7 @@
 ---
 title: "Create Filesystem - Format Partitions with mkfs | Online Free DevTools by Hexmos"
 name: mkfs
-path: /freedevtools/tldr/linux/mkfs
+path: "/freedevtools/tldr/linux/mkfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mkfs/"
 description: "Create filesystem structures with mkfs. Format disk partitions to various types like ext4 or ntfs, checking for bad blocks. Free online tool, no registration required."
 category: linux

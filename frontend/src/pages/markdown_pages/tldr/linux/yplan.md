@@ -1,7 +1,7 @@
 ---
 title: "Generate LaTeX Planner - Create Daily Planners | Online Free DevTools by Hexmos"
 name: yplan
-path: /freedevtools/tldr/linux/yplan
+path: "/freedevtools/tldr/linux/yplan/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/yplan/"
 description: "Generate LaTeX code for a two-page vertical daily planner with yplan. Customize language, lettercase, and year. Free online tool, no registration required."
 category: linux

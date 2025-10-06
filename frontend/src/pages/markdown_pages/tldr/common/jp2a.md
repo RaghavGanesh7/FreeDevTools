@@ -1,7 +1,7 @@
 ---
 title: "Convert JPEG to ASCII - Generate Art | Online Free DevTools by Hexmos"
 name: jp2a
-path: /freedevtools/tldr/common/jp2a
+path: "/freedevtools/tldr/common/jp2a/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jp2a/"
 description: "Generate ASCII art with jp2a. Convert JPEG images to text-based representations. Free online tool, no registration required. Supports color and custom character sets."
 category: common

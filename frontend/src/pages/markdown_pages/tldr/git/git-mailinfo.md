@@ -1,7 +1,7 @@
 ---
 title: "Extract Git Mailinfo - Analyze Email Patches | Online Free DevTools by Hexmos"
 name: git-mailinfo
-path: /freedevtools/tldr/git/git-mailinfo
+path: "/freedevtools/tldr/git/git-mailinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-mailinfo/"
 description: "Extract email patches and authorship information with Git Mailinfo. Analyze git patches from emails, remove whitespace, and filter body content. Free online tool, no registration required."
 category: common

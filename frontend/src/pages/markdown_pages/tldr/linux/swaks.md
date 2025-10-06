@@ -1,7 +1,7 @@
 ---
 title: "SMTP Tester - Test Email Deliverability with swaks | Online Free DevTools by Hexmos"
 name: swaks
-path: /freedevtools/tldr/linux/swaks
+path: "/freedevtools/tldr/linux/swaks/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/swaks/"
 description: "Test email deliverability with swaks SMTP tester.  Send test emails, authenticate with various methods, and test spam/virus scanners. Free online tool, no registration required."
 category: linux

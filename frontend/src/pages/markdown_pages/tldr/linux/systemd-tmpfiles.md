@@ -1,7 +1,7 @@
 ---
 title: "Systemd-tmpfiles - Create Temp Files | Online Free DevTools by Hexmos"
 name: systemd-tmpfiles
-path: /freedevtools/tldr/linux/systemd-tmpfiles
+path: "/freedevtools/tldr/linux/systemd-tmpfiles/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-tmpfiles/"
 description: "Create temporary files and directories with Systemd-tmpfiles configuration on Linux. Manage volatile files and directories. Free online tool, no registration required."
 category: linux

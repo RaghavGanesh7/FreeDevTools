@@ -1,7 +1,7 @@
 ---
 title: "Postfix MTA - Control Email Server with Postfix | Online Free DevTools by Hexmos"
 name: postfix
-path: /freedevtools/tldr/linux/postfix
+path: "/freedevtools/tldr/linux/postfix/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/postfix/"
 description: "Control your email server effortlessly with Postfix MTA. Manage mail queues, check configurations, and monitor the daemon's status. Free online tool, no registration required."
 category: linux

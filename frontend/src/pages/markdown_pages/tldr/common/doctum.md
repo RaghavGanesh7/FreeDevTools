@@ -1,7 +1,7 @@
 ---
 title: "Generate PHP API Documentation with Doctum | Online Free DevTools by Hexmos"
 name: doctum
-path: /freedevtools/tldr/common/doctum
+path: "/freedevtools/tldr/common/doctum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/doctum/"
 description: "Generate PHP API documentation with Doctum. Automatically parse code, render beautiful documentation, and update versions efficiently. Free online tool, no registration required."
 category: common

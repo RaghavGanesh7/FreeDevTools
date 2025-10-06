@@ -1,7 +1,7 @@
 ---
 title: "Docker Tag - Assign Tags to Docker Images | Online Free DevTools by Hexmos"
 name: docker-tag
-path: /freedevtools/tldr/docker/docker-tag
+path: "/freedevtools/tldr/docker/docker-tag/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-tag/"
 description: "Assign tags to existing Docker images with Docker Tag. Easily manage and organize your container images using the command line. Free online tool, no registration required."
 category: common

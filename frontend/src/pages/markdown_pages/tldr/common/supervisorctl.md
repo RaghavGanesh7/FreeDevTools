@@ -1,7 +1,7 @@
 ---
 title: "Supervisorctl - Control Processes | Online Free DevTools by Hexmos"
 name: supervisorctl
-path: /freedevtools/tldr/common/supervisorctl
+path: "/freedevtools/tldr/common/supervisorctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/supervisorctl/"
 description: "Control system processes with Supervisorctl. Manage, monitor and update processes on UNIX-like systems. Free online tool, no registration required."
 category: common

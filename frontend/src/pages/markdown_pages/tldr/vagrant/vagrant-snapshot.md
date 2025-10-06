@@ -1,7 +1,7 @@
 ---
 title: "Vagrant Snapshot - Manage VM States | Online Free DevTools by Hexmos"
 name: vagrant-snapshot
-path: /freedevtools/tldr/vagrant/vagrant-snapshot
+path: "/freedevtools/tldr/vagrant/vagrant-snapshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/vagrant/vagrant-snapshot/"
 description: "Manage VM states easily with Vagrant Snapshot. Save, restore, and delete virtual machine snapshots with a simple command. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pytest - Run Python Tests | Online Free DevTools by Hexmos"
 name: pytest
-path: /freedevtools/tldr/common/pytest
+path: "/freedevtools/tldr/common/pytest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pytest/"
 description: "Run Python tests effortlessly with Pytest. Execute tests, filter by keywords, and control execution flow for efficient debugging. Free online tool, no registration required."
 category: common

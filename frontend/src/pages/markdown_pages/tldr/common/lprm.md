@@ -1,7 +1,7 @@
 ---
 title: "Cancel Print Jobs - Control Printing with lprm | Online Free DevTools by Hexmos"
 name: lprm
-path: /freedevtools/tldr/common/lprm
+path: "/freedevtools/tldr/common/lprm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lprm/"
 description: "Cancel print jobs with lprm. Control print queues, manage server connections, and remove unwanted print tasks. Free online tool, no registration required."
 category: common

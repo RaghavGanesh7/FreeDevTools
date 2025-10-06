@@ -1,7 +1,7 @@
 ---
 title: "Convert ILBM to PPM - Image Conversion | Online Free DevTools by Hexmos"
 name: ilbmtoppm
-path: /freedevtools/tldr/common/ilbmtoppm
+path: "/freedevtools/tldr/common/ilbmtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ilbmtoppm/"
 description: "Convert ILBM images to PPM format with ilbmtoppm. Utilize transparency controls and ignore specific chunks during image conversion. Free online tool, no registration required."
 category: common

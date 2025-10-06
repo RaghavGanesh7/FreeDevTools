@@ -1,7 +1,7 @@
 ---
 title: "Calculate Code Metrics - mh_metric Tool | Online Free DevTools by Hexmos"
 name: mh_metric
-path: /freedevtools/tldr/common/mh_metric
+path: "/freedevtools/tldr/common/mh_metric/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mh_metric/"
 description: "Calculate code metrics with mh_metric for MATLAB and Octave. Improve code quality, identify complexity, and enforce coding standards. Free online tool, no registration required."
 category: common

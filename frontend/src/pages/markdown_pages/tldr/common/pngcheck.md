@@ -1,7 +1,7 @@
 ---
 title: "PNG Check - Validate PNG Images | Online Free DevTools by Hexmos"
 name: pngcheck
-path: /freedevtools/tldr/common/pngcheck
+path: "/freedevtools/tldr/common/pngcheck/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pngcheck/"
 description: "Validate PNG images quickly with PNGCheck. Verify integrity, extract embedded data, and diagnose issues in PNG, JNG, and MNG files. Free online tool, no registration required."
 category: common

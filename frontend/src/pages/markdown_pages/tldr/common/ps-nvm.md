@@ -1,7 +1,7 @@
 ---
 title: "Node.js Version Manager - Manage Node.js Versions | Online Free DevTools by Hexmos"
 name: ps-nvm
-path: /freedevtools/tldr/common/ps-nvm
+path: "/freedevtools/tldr/common/ps-nvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ps-nvm/"
 description: "Manage Node.js versions easily with ps-nvm, a PowerShell Node Version Manager. Install, uninstall and switch between multiple Node.js versions. Free online tool, no registration required."
 category: common

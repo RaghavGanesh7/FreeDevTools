@@ -1,7 +1,7 @@
 ---
 title: "Number Lines - Format Text Output | Online Free DevTools by Hexmos"
 name: nl
-path: /freedevtools/tldr/linux/nl
+path: "/freedevtools/tldr/linux/nl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nl/"
 description: "Format text output with the nl command, easily numbering lines in files or from stdin.  Customize numbering style, increments, separators, and more. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Torrent Downloader - Control Downloads with transmission-cli | Online Free DevTools by Hexmos"
 name: transmission-cli
-path: /freedevtools/tldr/transmission/transmission-cli
+path: "/freedevtools/tldr/transmission/transmission-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/transmission/transmission-cli/"
 description: "Control torrent downloads easily with transmission-cli, a lightweight command-line BitTorrent client. Manage download speed and encryption. Free online tool, no registration required."
 category: common

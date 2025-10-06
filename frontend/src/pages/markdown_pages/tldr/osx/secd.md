@@ -1,7 +1,7 @@
 ---
 title: "Control Keychain - Manage Security Items | Online Free DevTools by Hexmos"
 name: secd
-path: /freedevtools/tldr/osx/secd
+path: "/freedevtools/tldr/osx/secd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/secd/"
 description: "Control keychain items with Secd. Manage security and access on macOS. Free online tool, no registration required."
 category: osx

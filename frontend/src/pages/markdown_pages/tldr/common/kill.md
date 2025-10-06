@@ -1,7 +1,7 @@
 ---
 title: "Kill Process - Terminate Processes with Signals | Online Free DevTools by Hexmos"
 name: kill
-path: /freedevtools/tldr/common/kill
+path: "/freedevtools/tldr/common/kill/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kill/"
 description: "Terminate processes with Kill Command. Send signals to manage and stop processes on Linux, macOS, and Unix systems. Free online tool, no registration required."
 category: common

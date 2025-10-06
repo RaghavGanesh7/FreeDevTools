@@ -1,7 +1,7 @@
 ---
 title: "apx Package Manager - Manage Software Packages | Online Free DevTools by Hexmos"
 name: apx
-path: /freedevtools/tldr/linux/apx
+path: "/freedevtools/tldr/linux/apx/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apx/"
 description: "Manage software packages efficiently with apx Package Manager.  Install packages across multiple sources and subsystems. Free online tool, no registration required."
 category: linux

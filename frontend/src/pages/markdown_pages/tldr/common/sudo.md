@@ -1,7 +1,7 @@
 ---
 title: "Sudo - Execute Commands as Superuser | Online Free DevTools by Hexmos"
 name: sudo
-path: /freedevtools/tldr/common/sudo
+path: "/freedevtools/tldr/common/sudo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sudo/"
 description: "Execute commands as superuser with Sudo. Control system access and perform administrative tasks. Free online tool, no registration required."
 category: common

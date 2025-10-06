@@ -1,7 +1,7 @@
 ---
 title: "CS2 Command - View Counter Strike 2 Docs | Online Free DevTools by Hexmos"
 name: cs2
-path: /freedevtools/tldr/linux/cs2
+path: "/freedevtools/tldr/linux/cs2/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cs2/"
 description: "View Counter Strike 2 documentation with CS2 command on Linux. Access concise, community-driven help pages instantly. Free online tool, no registration required."
 category: linux

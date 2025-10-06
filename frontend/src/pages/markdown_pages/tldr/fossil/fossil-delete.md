@@ -1,7 +1,7 @@
 ---
 title: "Fossil Delete - Control Versioned Files | Online Free DevTools by Hexmos"
 name: fossil-delete
-path: /freedevtools/tldr/fossil/fossil-delete
+path: "/freedevtools/tldr/fossil/fossil-delete/"
 canonical: "https://hexmos.com/freedevtools/tldr/fossil/fossil-delete/"
 description: "Control versioned files with Fossil Delete. Remove files or directories from version control with ease using this command line tool. Free online tool, no registration required."
 category: common

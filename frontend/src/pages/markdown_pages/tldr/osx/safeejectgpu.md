@@ -1,7 +1,7 @@
 ---
 title: "Eject GPU - Safely Eject GPU on macOS | Online Free DevTools by Hexmos"
 name: safeejectgpu
-path: /freedevtools/tldr/osx/safeejectgpu
+path: "/freedevtools/tldr/osx/safeejectgpu/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/safeejectgpu/"
 description: "Safely eject a GPU with SafeEjectGPU on macOS. Manage GPU devices and applications using the command line. Free online tool, no registration required."
 category: osx

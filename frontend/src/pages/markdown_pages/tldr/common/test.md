@@ -1,7 +1,7 @@
 ---
 title: "Test Command - Validate File Types | Online Free DevTools by Hexmos"
 name: test
-path: /freedevtools/tldr/common/test
+path: "/freedevtools/tldr/common/test/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/test/"
 description: "Validate file types and compare values with Test Command. Determine file existence and compare strings. Free online tool, no registration required."
 category: common

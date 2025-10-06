@@ -1,7 +1,7 @@
 ---
 title: "Control iOS Screenshot - Capture Device Images | Online Free DevTools by Hexmos"
 name: idevicescreenshot
-path: /freedevtools/tldr/common/idevicescreenshot
+path: "/freedevtools/tldr/common/idevicescreenshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicescreenshot/"
 description: "Capture iOS screenshots instantly with idevicescreenshot. Control your connected device's display and save images. Free online tool, no registration required."
 category: common

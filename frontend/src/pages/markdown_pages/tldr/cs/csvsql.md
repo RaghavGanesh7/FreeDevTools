@@ -1,7 +1,7 @@
 ---
 title: "Generate SQL from CSV - csvsql | Online Free DevTools by Hexmos"
 name: csvsql
-path: /freedevtools/tldr/cs/csvsql
+path: "/freedevtools/tldr/cs/csvsql/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/csvsql/"
 description: "Generate SQL statements from CSV files with csvsql. Convert CSV data to SQL, import into databases, and run queries directly. Free online tool, no registration required."
 category: common

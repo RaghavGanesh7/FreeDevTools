@@ -1,7 +1,7 @@
 ---
 title: "Control clifm - Command-Line File Manager | Online Free DevTools by Hexmos"
 name: clifm
-path: /freedevtools/tldr/common/clifm
+path: "/freedevtools/tldr/common/clifm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clifm/"
 description: "Control files with clifm, a powerful command-line file manager for navigating and manipulating files on Linux, macOS, and other platforms. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "LimaCTL - Create Linux VMs on MacOS | Online Free DevTools by Hexmos"
 name: limactl
-path: /freedevtools/tldr/common/limactl
+path: "/freedevtools/tldr/common/limactl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/limactl/"
 description: "Create and manage Linux virtual machines with LimaCTL, featuring multiple VM templates on macOS. Run containers and generic VMs easily. Free online tool, no registration required."
 category: common

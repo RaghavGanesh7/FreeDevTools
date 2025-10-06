@@ -1,7 +1,7 @@
 ---
 title: "Create System Users - Manage User Accounts | Online Free DevTools by Hexmos"
 name: systemd-sysusers
-path: /freedevtools/tldr/linux/systemd-sysusers
+path: "/freedevtools/tldr/linux/systemd-sysusers/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-sysusers/"
 description: "Create system users with systemd-sysusers. Configure user accounts and groups efficiently using configuration files. Free online tool, no registration required."
 category: linux

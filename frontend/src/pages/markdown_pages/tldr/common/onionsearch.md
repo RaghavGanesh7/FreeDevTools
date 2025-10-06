@@ -1,7 +1,7 @@
 ---
 title: "Onion Search - Scrape Onion URLs | Online Free DevTools by Hexmos"
 name: onionsearch
-path: /freedevtools/tldr/common/onionsearch
+path: "/freedevtools/tldr/common/onionsearch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/onionsearch/"
 description: "Scrape .onion URLs with OnionSearch. Discover hidden services and explore the dark web with specific search engines. Free online tool, no registration required."
 category: common

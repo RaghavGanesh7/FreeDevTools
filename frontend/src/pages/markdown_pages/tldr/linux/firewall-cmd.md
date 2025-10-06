@@ -1,7 +1,7 @@
 ---
 title: "Control Firewall with firewall-cmd - Manage Network Security | Online Free DevTools by Hexmos"
 name: firewall-cmd
-path: /freedevtools/tldr/linux/firewall-cmd
+path: "/freedevtools/tldr/linux/firewall-cmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/firewall-cmd/"
 description: "Manage network security with firewall-cmd, the command-line firewall interface.  Configure firewall rules, zones, and services easily. Free online tool, no registration required."
 category: linux

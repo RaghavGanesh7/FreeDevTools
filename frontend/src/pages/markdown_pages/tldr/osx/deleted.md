@@ -1,7 +1,7 @@
 ---
 title: "Deleted - Manage Purgeable Space on macOS | Online Free DevTools by Hexmos"
 name: deleted
-path: /freedevtools/tldr/osx/deleted
+path: "/freedevtools/tldr/osx/deleted/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/deleted/"
 description: "Manage purgeable disk space with Deleted on macOS. Keep track of available space and trigger purges when needed. Free online tool, no registration required."
 category: osx

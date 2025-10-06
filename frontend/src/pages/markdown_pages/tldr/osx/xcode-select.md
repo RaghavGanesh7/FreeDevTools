@@ -1,7 +1,7 @@
 ---
 title: "Xcode Select - Control Xcode Versions | Online Free DevTools by Hexmos"
 name: xcode-select
-path: /freedevtools/tldr/osx/xcode-select
+path: "/freedevtools/tldr/osx/xcode-select/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xcode-select/"
 description: "Control Xcode versions quickly with Xcode Select. Switch developer directories, update Xcode paths, and manage command-line tools with ease. Free online tool, no registration required."
 category: osx

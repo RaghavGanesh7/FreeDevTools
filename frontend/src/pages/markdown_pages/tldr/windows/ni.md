@@ -1,7 +1,7 @@
 ---
 title: "New-Item - Create Files & Directories | Online Free DevTools by Hexmos"
 name: ni
-path: /freedevtools/tldr/windows/ni
+path: "/freedevtools/tldr/windows/ni/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/ni/"
 description: "Create files and directories quickly with New-Item, a PowerShell command alias. Manage file system objects, create new items, and set properties. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Structural Search - Rewrite Code with Ast-grep | Online Free DevTools by Hexmos"
 name: sg
-path: /freedevtools/tldr/common/sg
+path: "/freedevtools/tldr/common/sg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sg/"
 description: "Rewrite code structurally with Ast-grep, a powerful structural search tool for code linting and rewriting. Free online tool, no registration required."
 category: common

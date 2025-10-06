@@ -1,7 +1,7 @@
 ---
 title: "Pacdiff - Manage Pacman Configuration Files | Online Free DevTools by Hexmos"
 name: pacdiff
-path: /freedevtools/tldr/linux/pacdiff
+path: "/freedevtools/tldr/linux/pacdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacdiff/"
 description: "Manage pacman configuration files with Pacdiff. Review, merge, and backup `.pacorig`, `.pacnew`, and `.pacsave` files efficiently. Free online tool, no registration required."
 category: linux

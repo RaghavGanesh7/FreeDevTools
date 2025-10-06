@@ -1,7 +1,7 @@
 ---
 title: "Write Message - Send User Messages on Terminal | Online Free DevTools by Hexmos"
 name: write
-path: /freedevtools/tldr/common/write
+path: "/freedevtools/tldr/common/write/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/write/"
 description: "Send messages with Write command to logged-in users on specific terminals. Communicate directly on Linux systems for real-time interaction. Free online tool, no registration required."
 category: common

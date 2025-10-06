@@ -1,7 +1,7 @@
 ---
 title: "MySQL Shell - Control MySQL Databases | Online Free DevTools by Hexmos"
 name: mysqlsh
-path: /freedevtools/tldr/common/mysqlsh
+path: "/freedevtools/tldr/common/mysqlsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mysqlsh/"
 description: "Control MySQL databases with MySQL Shell. Connect, query, and manage your MySQL servers from the command line. Free online tool, no registration required."
 category: common

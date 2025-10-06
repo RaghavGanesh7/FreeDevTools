@@ -1,7 +1,7 @@
 ---
 title: "Measure Command - Analyze Script Performance | Online Free DevTools by Hexmos"
 name: measure-command
-path: /freedevtools/tldr/windows/measure-command
+path: "/freedevtools/tldr/windows/measure-command/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/measure-command/"
 description: "Analyze PowerShell script performance with Measure Command. Measure execution time and optimize code using this powerful command. Free online tool, no registration required."
 category: windows

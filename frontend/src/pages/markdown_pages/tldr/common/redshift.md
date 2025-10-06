@@ -1,7 +1,7 @@
 ---
 title: "Redshift - Adjust Screen Color Temperature | Online Free DevTools by Hexmos"
 name: redshift
-path: /freedevtools/tldr/common/redshift
+path: "/freedevtools/tldr/common/redshift/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/redshift/"
 description: "Adjust screen color temperature with Redshift. Optimize display for day and night viewing on Linux, macOS, and other platforms. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Cosign - Sign Container Images | Online Free DevTools by Hexmos"
 name: cosign
-path: /freedevtools/tldr/common/cosign
+path: "/freedevtools/tldr/common/cosign/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cosign/"
 description: "Sign container images with Cosign for secure deployments. Authenticate, verify, and manage image signatures easily. Free online tool, no registration required."
 category: common

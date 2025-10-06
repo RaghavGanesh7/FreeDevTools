@@ -1,7 +1,7 @@
 ---
 title: "VMStat - Monitor System Activity | Online Free DevTools by Hexmos"
 name: vmstat
-path: /freedevtools/tldr/linux/vmstat
+path: "/freedevtools/tldr/linux/vmstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vmstat/"
 description: "Monitor system activity with VMStat. Analyze memory usage, CPU activity, and I/O operations. Free online tool, no registration required."
 category: linux

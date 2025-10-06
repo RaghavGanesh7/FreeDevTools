@@ -1,7 +1,7 @@
 ---
 title: "IPC Resource Delete - Manage Linux IPC Resources | Online Free DevTools by Hexmos"
 name: ipcrm
-path: /freedevtools/tldr/linux/ipcrm
+path: "/freedevtools/tldr/linux/ipcrm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ipcrm/"
 description: "Delete Linux IPC resources with ipcrm. Remove shared memory segments, message queues, and semaphores. Free online tool, no registration required."
 category: linux

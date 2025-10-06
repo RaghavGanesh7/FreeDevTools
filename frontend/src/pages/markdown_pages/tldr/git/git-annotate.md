@@ -1,7 +1,7 @@
 ---
 title: "Git Annotate - Show Commit History | Online Free DevTools by Hexmos"
 name: git-annotate
-path: /freedevtools/tldr/git/git-annotate
+path: "/freedevtools/tldr/git/git-annotate/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-annotate/"
 description: "Show commit history with Git Annotate. Inspect line-by-line author and commit information for file versions. Free online tool, no registration required."
 category: common

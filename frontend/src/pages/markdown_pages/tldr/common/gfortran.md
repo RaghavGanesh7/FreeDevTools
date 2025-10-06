@@ -1,7 +1,7 @@
 ---
 title: "Compile Fortran Code - Generate Executables with gfortran | Online Free DevTools by Hexmos"
 name: gfortran
-path: /freedevtools/tldr/common/gfortran
+path: "/freedevtools/tldr/common/gfortran/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gfortran/"
 description: "Compile Fortran code with gfortran. Generate executables and object files using advanced compilation options. Free online tool, no registration required."
 category: common

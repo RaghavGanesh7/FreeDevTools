@@ -1,7 +1,7 @@
 ---
 title: "Create Ada Packages - Manage Projects with Alr | Online Free DevTools by Hexmos"
 name: alr
-path: /freedevtools/tldr/common/alr
+path: "/freedevtools/tldr/common/alr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/alr/"
 description: "Create Ada packages with Alr, the Ada package manager. Manage dependencies, build projects, and run binaries effortlessly. Free online tool, no registration required."
 category: common

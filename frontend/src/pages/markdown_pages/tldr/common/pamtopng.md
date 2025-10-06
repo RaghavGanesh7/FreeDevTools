@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM to PNG - Optimize Images | Online Free DevTools by Hexmos"
 name: pamtopng
-path: /freedevtools/tldr/common/pamtopng
+path: "/freedevtools/tldr/common/pamtopng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtopng/"
 description: "Convert PAM to PNG format with pamtopng. Transform your Portable Arbitrary Map images to PNG online, customize transparency, and optimize for web use. Free online tool, no registration required."
 category: common

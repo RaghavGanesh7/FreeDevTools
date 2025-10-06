@@ -1,7 +1,7 @@
 ---
 title: "GUptime - View System Uptime | Online Free DevTools by Hexmos"
 name: guptime
-path: /freedevtools/tldr/osx/guptime
+path: "/freedevtools/tldr/osx/guptime/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/guptime/"
 description: "View system uptime with GUptime, an alias for GNU uptime. Monitor system performance and identify potential issues. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Download Packages - Access YUM Packages | Online Free DevTools by Hexmos"
 name: yumdownloader
-path: /freedevtools/tldr/linux/yumdownloader
+path: "/freedevtools/tldr/linux/yumdownloader/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/yumdownloader/"
 description: "Access legacy YUM packages with YUM Downloader. Retrieve RPM files for Fedora installations and explore historical software versions using this deprecated command. Free online tool, no registration required."
 category: linux

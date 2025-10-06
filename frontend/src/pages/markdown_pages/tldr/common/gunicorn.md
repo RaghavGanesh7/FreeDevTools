@@ -1,7 +1,7 @@
 ---
 title: "Gunicorn Server - Run Python Web Apps | Online Free DevTools by Hexmos"
 name: gunicorn
-path: /freedevtools/tldr/common/gunicorn
+path: "/freedevtools/tldr/common/gunicorn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gunicorn/"
 description: "Run Python web apps easily with Gunicorn HTTP server. Configure ports, workers, and enable HTTPS for secure deployments. Free online tool, no registration required."
 category: common

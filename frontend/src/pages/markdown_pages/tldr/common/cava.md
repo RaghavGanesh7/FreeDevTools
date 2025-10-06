@@ -1,7 +1,7 @@
 ---
 title: "Visualize Audio - Control CAVA Visualizer | Online Free DevTools by Hexmos"
 name: cava
-path: /freedevtools/tldr/common/cava
+path: "/freedevtools/tldr/common/cava/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cava/"
 description: "Visualize audio spectrum with CAVA. Control audio visualization parameters, customize colors, and reload configurations easily. Free online tool, no registration required."
 category: common

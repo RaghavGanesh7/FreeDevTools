@@ -1,7 +1,7 @@
 ---
 title: "bspwm Window Manager - Control Desktop Windows | Online Free DevTools by Hexmos"
 name: bspwm
-path: /freedevtools/tldr/linux/bspwm
+path: "/freedevtools/tldr/linux/bspwm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bspwm/"
 description: "Control desktop windows efficiently with bspwm, a tiling window manager based on binary space partitioning. Manage and arrange windows with simple commands. Free online tool, no registration required."
 category: linux

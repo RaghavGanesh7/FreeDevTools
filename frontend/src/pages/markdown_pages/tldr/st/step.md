@@ -1,7 +1,7 @@
 ---
 title: "Step PKI - Create Certificates & Keys | Online Free DevTools by Hexmos"
 name: step
-path: "/freedevtools/tldr/st/step"
+path: "/freedevtools/tldr/st/step/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/step/"
 description: "Create certificates easily with Step PKI. Generate root CAs, leaf certificates, and verify certificate chains. Free online tool, no registration required."
 category: common

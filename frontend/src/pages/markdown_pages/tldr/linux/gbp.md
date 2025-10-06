@@ -1,7 +1,7 @@
 ---
 title: "GBP - Build Debian Packages with Git | Online Free DevTools by Hexmos"
 name: gbp
-path: "/freedevtools/tldr/linux/gbp"
+path: "/freedevtools/tldr/linux/gbp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gbp/"
 description: "Build Debian packages efficiently with GBP, integrating Git workflow. Automate package building, manage versions, and streamline Debian development. Free online tool, no registration required."
 category: linux

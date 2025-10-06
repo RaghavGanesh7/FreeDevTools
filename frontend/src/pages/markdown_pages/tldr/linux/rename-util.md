@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Control Filenames with Rename Util | Online Free DevTools by Hexmos"
 name: rename.util
-path: /freedevtools/tldr/linux/rename-util
+path: "/freedevtools/tldr/linux/rename-util/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/rename-util/"
 description: "Control filenames with Rename Files Util. Easily rename multiple files using substitutions, change extensions, and prepend names. Free online tool, no registration required."
 category: linux

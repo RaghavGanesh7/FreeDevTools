@@ -1,7 +1,7 @@
 ---
 title: "MySQL CLI - Control Databases with mycli | Online Free DevTools by Hexmos"
 name: mycli
-path: /freedevtools/tldr/common/mycli
+path: "/freedevtools/tldr/common/mycli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mycli/"
 description: "Control databases instantly with mycli. Manage MySQL, MariaDB, and Percona databases through command line interface. Free online tool, no registration required."
 category: common

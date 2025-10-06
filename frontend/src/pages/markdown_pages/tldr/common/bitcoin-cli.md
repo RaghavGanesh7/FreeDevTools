@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin CLI - Control Bitcoin Daemon via RPC | Online Free DevTools by Hexmos"
 name: bitcoin-cli
-path: /freedevtools/tldr/common/bitcoin-cli
+path: "/freedevtools/tldr/common/bitcoin-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bitcoin-cli/"
 description: "Control Bitcoin Core daemon with Bitcoin-cli command. Manage blockchain, send transactions, and get wallet information via RPC calls. Free online tool, no registration required."
 category: common

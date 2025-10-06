@@ -1,7 +1,7 @@
 ---
 title: "VSCE - Manage VS Code Extensions | Online Free DevTools by Hexmos"
 name: vsce
-path: /freedevtools/tldr/common/vsce
+path: "/freedevtools/tldr/common/vsce/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vsce/"
 description: "Manage VS Code extensions with VSCE. Package, publish, and unpublish extensions quickly. Streamline your Visual Studio Code development workflow. Free online tool, no registration required."
 category: common

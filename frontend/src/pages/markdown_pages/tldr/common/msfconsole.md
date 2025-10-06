@@ -1,7 +1,7 @@
 ---
 title: "Metasploit Console - Exploit Systems | Online Free DevTools by Hexmos"
 name: msfconsole
-path: /freedevtools/tldr/common/msfconsole
+path: "/freedevtools/tldr/common/msfconsole/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msfconsole/"
 description: "Exploit systems with Metasploit Console, a powerful penetration testing framework. Conduct vulnerability assessments and security audits efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Colorize Output - Format Text with BLAHAJ | Online Free DevTools by Hexmos"
 name: blahaj
-path: /freedevtools/tldr/common/blahaj
+path: "/freedevtools/tldr/common/blahaj/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/blahaj/"
 description: "Format text output with BLAHAJ, a command-line colorizer for flags and sharks. Add vibrant colors to your terminal. Free online tool, no registration required."
 category: common

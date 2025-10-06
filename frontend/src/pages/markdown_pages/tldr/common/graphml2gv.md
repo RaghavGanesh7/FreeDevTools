@@ -1,7 +1,7 @@
 ---
 title: "Convert GraphML to GV - Graph Conversion | Online Free DevTools by Hexmos"
 name: graphml2gv
-path: "/freedevtools/tldr/common/graphml2gv"
+path: "/freedevtools/tldr/common/graphml2gv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/graphml2gv/"
 description: "Convert GraphML to GV with graphml2gv. Efficient graph conversion for visualization and analysis using command-line. Free online tool, no registration required."
 category: common

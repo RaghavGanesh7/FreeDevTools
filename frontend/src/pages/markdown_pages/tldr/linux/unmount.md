@@ -1,7 +1,7 @@
 ---
 title: "Unmount Command - Control File Systems | Online Free DevTools by Hexmos"
 name: umount
-path: /freedevtools/tldr/linux/unmount
+path: "/freedevtools/tldr/linux/unmount/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unmount/"
 description: "Control file system mounts with the umount command.  Safely unmount file systems and partitions using this powerful Linux command. Free online tool, no registration required."
 category: linux

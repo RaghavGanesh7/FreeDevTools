@@ -1,7 +1,7 @@
 ---
 title: "Control Terraform Infrastructure with Terragrunt | Online Free DevTools by Hexmos"
 name: terragrunt
-path: /freedevtools/tldr/common/terragrunt
+path: "/freedevtools/tldr/common/terragrunt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/terragrunt/"
 description: "Control Terraform infrastructure effortlessly with Terragrunt. Manage configurations, automate deployments, and keep arguments DRY. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Sysctl - Control Kernel State Info | Online Free DevTools by Hexmos"
 name: sysctl
-path: /freedevtools/tldr/osx/sysctl
+path: "/freedevtools/tldr/osx/sysctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/sysctl/"
 description: "Control kernel state information with Sysctl. Access and modify kernel parameters on macOS for system tuning and debugging. Free online tool, no registration required."
 category: osx

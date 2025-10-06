@@ -1,7 +1,7 @@
 ---
 title: "Query Debian Packages - Manage Apt Packages | Online Free DevTools by Hexmos"
 name: apt-cache
-path: /freedevtools/tldr/linux/apt-cache
+path: "/freedevtools/tldr/linux/apt-cache/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apt-cache/"
 description: "Manage Debian and Ubuntu packages with apt-cache. Search, view details, check status, and manage dependencies easily. Free online tool, no registration required."
 category: linux

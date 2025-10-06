@@ -1,7 +1,7 @@
 ---
 title: "Convert FIASCO to PNM - Image Conversion | Online Free DevTools by Hexmos"
 name: fiascotopnm
-path: /freedevtools/tldr/common/fiascotopnm
+path: "/freedevtools/tldr/common/fiascotopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fiascotopnm/"
 description: "Convert FIASCO images to PNM format with fiascotopnm. Transform and manipulate image files effortlessly using this command-line tool. Free online tool, no registration required."
 category: common

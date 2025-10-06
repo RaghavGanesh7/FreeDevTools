@@ -1,7 +1,7 @@
 ---
 title: "XIM to PPM - Convert Image Format | Online Free DevTools by Hexmos"
 name: ximtoppm
-path: /freedevtools/tldr/common/ximtoppm
+path: "/freedevtools/tldr/common/ximtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ximtoppm/"
 description: "Convert XIM images to PPM format with ximtoppm. Efficiently manage image formats and transparency masks via command line. Free online tool, no registration required."
 category: common

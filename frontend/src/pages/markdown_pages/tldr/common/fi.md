@@ -1,7 +1,7 @@
 ---
 title: "End If Statement - Control Shell Flow | Online Free DevTools by Hexmos"
 name: fi
-path: /freedevtools/tldr/common/fi
+path: "/freedevtools/tldr/common/fi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fi/"
 description: "Control shell script flow with End If Statement command. Simplify conditional logic and improve script readability. Free online tool, no registration required."
 category: common

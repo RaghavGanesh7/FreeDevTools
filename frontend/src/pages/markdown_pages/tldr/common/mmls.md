@@ -1,7 +1,7 @@
 ---
 title: "Display Partition Layout - Mmls Tool | Online Free DevTools by Hexmos"
 name: mmls
-path: /freedevtools/tldr/common/mmls
+path: "/freedevtools/tldr/common/mmls/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mmls/"
 description: "Display partition layout information with Mmls. Analyze disk images and volume systems, identify partition types, and recover data. Free online tool, no registration required."
 category: common

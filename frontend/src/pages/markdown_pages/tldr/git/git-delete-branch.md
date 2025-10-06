@@ -1,7 +1,7 @@
 ---
 title: "Git Delete Branch - Remove Local/Remote Branches | Online Free DevTools by Hexmos"
 name: git-delete-branch
-path: /freedevtools/tldr/git/git-delete-branch
+path: "/freedevtools/tldr/git/git-delete-branch/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-delete-branch/"
 description: "Delete Git branches locally and remotely with Git Delete Branch. Streamline branch management, remove outdated branches, and keep your repository clean. Free online tool, no registration required."
 category: common

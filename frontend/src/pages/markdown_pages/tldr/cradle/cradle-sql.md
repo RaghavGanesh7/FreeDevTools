@@ -1,7 +1,7 @@
 ---
 title: "Cradle SQL - Manage Databases | Online Free DevTools by Hexmos"
 name: cradle-sql
-path: /freedevtools/tldr/cradle/cradle-sql
+path: "/freedevtools/tldr/cradle/cradle-sql/"
 canonical: "https://hexmos.com/freedevtools/tldr/cradle/cradle-sql/"
 description: "Manage databases with Cradle SQL. Rebuild schema, flush tables, and populate data for PHP applications. Free online tool, no registration required."
 category: common

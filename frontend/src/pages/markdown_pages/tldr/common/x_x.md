@@ -1,7 +1,7 @@
 ---
 title: "View Excel and CSV Files - Read Data with x_x | Online Free DevTools by Hexmos"
 name: x_x
-path: /freedevtools/tldr/common/x_x
+path: "/freedevtools/tldr/common/x_x/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/x_x/"
 description: "View Excel and CSV files easily with x_x. Read data, specify delimiters, and use headers for better data organization. Free online tool, no registration required."
 category: common

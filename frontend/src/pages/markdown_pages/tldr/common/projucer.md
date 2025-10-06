@@ -1,7 +1,7 @@
 ---
 title: "Projucer - Manage JUCE Projects | Online Free DevTools by Hexmos"
 name: projucer
-path: /freedevtools/tldr/common/projucer
+path: "/freedevtools/tldr/common/projucer/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/projucer/"
 description: "Manage JUCE projects easily with Projucer. Resave files, update versions, and generate new projects from PIP files. Free online tool, no registration required."
 category: common

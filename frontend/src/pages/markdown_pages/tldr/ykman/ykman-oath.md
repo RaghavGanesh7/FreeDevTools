@@ -1,7 +1,7 @@
 ---
 title: "Manage YubiKey OATH - Control Authentication | Online Free DevTools by Hexmos"
 name: ykman-oath
-path: /freedevtools/tldr/ykman/ykman-oath
+path: "/freedevtools/tldr/ykman/ykman-oath/"
 canonical: "https://hexmos.com/freedevtools/tldr/ykman/ykman-oath/"
 description: "Control YubiKey OATH authentication accounts with ykman. Manage secrets, generate TOTP codes, and reset OATH application easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "GitHub Control - Manage Repositories with GH | Online Free DevTools by Hexmos"
 name: gh
-path: /freedevtools/tldr/common/gh
+path: "/freedevtools/tldr/common/gh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gh/"
 description: "Manage GitHub repositories with GH, a powerful CLI tool. Create issues, review pull requests, and clone repos locally. Free online tool, no registration required."
 category: common

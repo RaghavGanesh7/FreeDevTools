@@ -1,7 +1,7 @@
 ---
 title: "Create Archive - Manage Files with pax Utility | Online Free DevTools by Hexmos"
 name: pax
-path: /freedevtools/tldr/common/pax
+path: "/freedevtools/tldr/common/pax/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pax/"
 description: "Create archives with pax, a powerful archiving utility. Easily manage files, extract data, and copy directories while preserving metadata. Free online tool, no registration required."
 category: common

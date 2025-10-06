@@ -1,7 +1,7 @@
 ---
 title: "Vagrant Halt - Shutdown Virtual Machines | Online Free DevTools by Hexmos"
 name: vagrant-halt
-path: /freedevtools/tldr/vagrant/vagrant-halt
+path: "/freedevtools/tldr/vagrant/vagrant-halt/"
 canonical: "https://hexmos.com/freedevtools/tldr/vagrant/vagrant-halt/"
 description: "Shutdown virtual machines effortlessly with Vagrant Halt. Manage and control your Vagrant environments with ease. Free online tool, no registration required."
 category: common

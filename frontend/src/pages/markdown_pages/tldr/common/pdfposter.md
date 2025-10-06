@@ -1,7 +1,7 @@
 ---
 title: "Generate PDF Posters - Scale and Print PDFs | Online Free DevTools by Hexmos"
 name: pdfposter
-path: /freedevtools/tldr/common/pdfposter
+path: "/freedevtools/tldr/common/pdfposter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfposter/"
 description: "Generate PDF posters with pdfposter. Scale and convert large PDF documents into printable pages. Free online tool, no registration required."
 category: common

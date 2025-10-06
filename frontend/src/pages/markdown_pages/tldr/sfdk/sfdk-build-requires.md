@@ -1,7 +1,7 @@
 ---
 title: "Update Build Requires - SFDK Dependency Manager | Online Free DevTools by Hexmos"
 name: sfdk-build-requires
-path: /freedevtools/tldr/sfdk/sfdk-build-requires
+path: "/freedevtools/tldr/sfdk/sfdk-build-requires/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-build-requires/"
 description: "Manage Sailfish OS build dependencies with SFDK Build Requires. Refresh cache, install updates and compare environments. Free online tool, no registration required."
 category: common

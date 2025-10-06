@@ -1,7 +1,7 @@
 ---
 title: "Latexdiff - Determine LaTeX Differences | Online Free DevTools by Hexmos"
 name: latexdiff
-path: "/freedevtools/tldr/common/latexdiff"
+path: "/freedevtools/tldr/common/latexdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/latexdiff/"
 description: "Determine LaTeX differences with Latexdiff. Compare LaTeX files, highlight changes, and generate diff documents effortlessly. Free online tool, no registration required."
 category: common

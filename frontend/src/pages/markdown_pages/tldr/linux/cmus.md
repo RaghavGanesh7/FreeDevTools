@@ -1,7 +1,7 @@
 ---
 title: "Control cmus - Command-Line Music Player | Online Free DevTools by Hexmos"
 name: cmus
-path: "/freedevtools/tldr/linux/cmus"
+path: "/freedevtools/tldr/linux/cmus/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cmus/"
 description: "Control cmus music player easily with this command-line interface. Manage your music library and playback with simple commands. Free online tool, no registration required."
 category: linux

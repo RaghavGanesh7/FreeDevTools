@@ -1,7 +1,7 @@
 ---
 title: "Dictionary Lookup - Search Dictionaries with sdcv | Online Free DevTools by Hexmos"
 name: sdcv
-path: /freedevtools/tldr/common/sdcv
+path: "/freedevtools/tldr/common/sdcv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sdcv/"
 description: "Lookup dictionary definitions with sdcv. Search online dictionaries and retrieve definitions using the command line interface. Free online tool, no registration required."
 category: common

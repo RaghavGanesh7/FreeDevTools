@@ -1,7 +1,7 @@
 ---
 title: "Build Dependencies - Manage Packages with dnf-builddep | Online Free DevTools by Hexmos"
 name: dnf-builddep
-path: /freedevtools/tldr/linux/dnf-builddep
+path: "/freedevtools/tldr/linux/dnf-builddep/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf-builddep/"
 description: "Manage package build dependencies with dnf-builddep.  Install required packages effortlessly, skip unavailable ones, and define macros. Free online tool, no registration required."
 category: linux

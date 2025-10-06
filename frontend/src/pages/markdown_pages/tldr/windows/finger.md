@@ -1,7 +1,7 @@
 ---
 title: "Finger Command - Check User Information | Online Free DevTools by Hexmos"
 name: finger
-path: /freedevtools/tldr/windows/finger
+path: "/freedevtools/tldr/windows/finger/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/finger/"
 description: "Check user information with Finger Command. Quickly retrieve details about users on a remote system running the Finger service. Free online tool, no registration required."
 category: windows

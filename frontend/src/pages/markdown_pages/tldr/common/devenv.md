@@ -1,7 +1,7 @@
 ---
 title: "Devenv - Create Development Environments | Online Free DevTools by Hexmos"
 name: devenv
-path: /freedevtools/tldr/common/devenv
+path: "/freedevtools/tldr/common/devenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/devenv/"
 description: "Create reproducible development environments with Devenv. Manage dependencies and configurations for consistent development across platforms. Free online tool, no registration required."
 category: common

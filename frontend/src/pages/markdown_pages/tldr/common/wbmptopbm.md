@@ -1,7 +1,7 @@
 ---
 title: "Convert WBMP to PBM - Image Conversion | Online Free DevTools by Hexmos"
 name: wbmptopbm
-path: /freedevtools/tldr/common/wbmptopbm
+path: "/freedevtools/tldr/common/wbmptopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wbmptopbm/"
 description: "Convert WBMP images to PBM format with wbmptopbm. Perform wireless bitmap conversion easily and efficiently. Free online tool, no registration required."
 category: common

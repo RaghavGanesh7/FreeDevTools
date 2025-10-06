@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Control - Manage System with PWSH | Online Free DevTools by Hexmos"
 name: pwsh
-path: /freedevtools/tldr/common/pwsh
+path: "/freedevtools/tldr/common/pwsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pwsh/"
 description: "Control your system with PowerShell PWSH, a cross-platform task automation and configuration management framework. Execute commands and scripts. Free online tool, no registration required."
 category: common

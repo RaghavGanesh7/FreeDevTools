@@ -1,7 +1,7 @@
 ---
 title: "HPing3 Ping - Advanced Network Probing | Online Free DevTools by Hexmos"
 name: hping3
-path: /freedevtools/tldr/common/hping3
+path: "/freedevtools/tldr/common/hping3/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hping3/"
 description: "Advanced network probing with HPing3. Analyze network traffic and perform sophisticated ping operations. Free online tool, no registration required."
 category: common

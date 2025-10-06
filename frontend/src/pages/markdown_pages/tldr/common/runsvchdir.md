@@ -1,7 +1,7 @@
 ---
 title: "Control runsvchdir - Manage Service Directories | Online Free DevTools by Hexmos"
 name: runsvchdir
-path: "/freedevtools/tldr/common/runsvchdir"
+path: "/freedevtools/tldr/common/runsvchdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/runsvchdir/"
 description: "Control runsvchdir service directory with this tool. Easily manage and switch runsvdir directories using the command line. Free online tool, no registration required."
 category: common

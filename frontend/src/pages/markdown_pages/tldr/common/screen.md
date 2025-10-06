@@ -1,7 +1,7 @@
 ---
 title: "Control Screen Sessions - Manage SSH Connections | Online Free DevTools by Hexmos"
 name: screen
-path: /freedevtools/tldr/common/screen
+path: "/freedevtools/tldr/common/screen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/screen/"
 description: "Control screen sessions with Screen. Manage multiple SSH windows and keep sessions running even when disconnected. Free online tool, no registration required."
 category: common

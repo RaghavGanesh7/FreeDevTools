@@ -1,7 +1,7 @@
 ---
 title: "Control Node Install Location - Set Directory | Online Free DevTools by Hexmos"
 name: set-nodeinstalllocation
-path: /freedevtools/tldr/set/set-nodeinstalllocation
+path: "/freedevtools/tldr/set/set-nodeinstalllocation/"
 canonical: "https://hexmos.com/freedevtools/tldr/set/set-nodeinstalllocation/"
 description: "Control Node.js install location with ps-nvm. Set the default installation directory for Node.js and manage versions effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Flutter Pub - Manage Dart Packages | Online Free DevTools by Hexmos"
 name: flutter-pub
-path: /freedevtools/tldr/common/flutter-pub
+path: "/freedevtools/tldr/common/flutter-pub/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flutter-pub/"
 description: "Manage Dart packages easily with Flutter Pub. Add, remove, and upgrade your Flutter dependencies seamlessly. Free online tool, no registration required."
 category: common

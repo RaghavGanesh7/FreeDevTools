@@ -1,7 +1,7 @@
 ---
 title: "View Package Dependency - Control Linux Packages | Online Free DevTools by Hexmos"
 name: pactree
-path: /freedevtools/tldr/linux/pactree
+path: "/freedevtools/tldr/linux/pactree/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pactree/"
 description: "Control Linux package dependencies easily with Pactree. Analyze package relationships and identify dependencies quickly. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "MSBuild - Build Visual Studio Projects | Online Free DevTools by Hexmos"
 name: msbuild
-path: /freedevtools/tldr/common/msbuild
+path: "/freedevtools/tldr/common/msbuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msbuild/"
 description: "Build Visual Studio projects efficiently with MSBuild. Automate compilation, manage dependencies, and create distributable packages. Free online tool, no registration required."
 category: common

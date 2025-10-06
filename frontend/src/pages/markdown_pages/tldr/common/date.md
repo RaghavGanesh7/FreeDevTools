@@ -1,7 +1,7 @@
 ---
 title: "Format Date - Control System Time | Online Free DevTools by Hexmos"
 name: date
-path: /freedevtools/tldr/common/date
+path: "/freedevtools/tldr/common/date/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/date/"
 description: "Format and control system date and time with the date command.  Display dates in various formats, including Unix timestamps and ISO 8601. Free online tool, no registration required."
 category: common

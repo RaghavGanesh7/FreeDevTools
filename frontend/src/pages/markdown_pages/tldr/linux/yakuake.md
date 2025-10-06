@@ -1,7 +1,7 @@
 ---
 title: "Control Yakuake - KDE Drop-Down Terminal | Online Free DevTools by Hexmos"
 name: yakuake
-path: /freedevtools/tldr/linux/yakuake
+path: "/freedevtools/tldr/linux/yakuake/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/yakuake/"
 description: "Control Yakuake terminal sessions with ease, a drop-down KDE terminal emulator. Customize appearance, manage tabs and splits, and streamline workflows. Free online tool, no registration required."
 category: linux

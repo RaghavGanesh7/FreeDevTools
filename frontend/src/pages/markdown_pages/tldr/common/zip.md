@@ -1,7 +1,7 @@
 ---
 title: "Zip Archive - Package and Compress Files | Online Free DevTools by Hexmos"
 name: zip
-path: "/freedevtools/tldr/common/zip"
+path: "/freedevtools/tldr/common/zip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zip/"
 description: "Package and compress files with Zip Archive. Create, update, and manage zip files easily using command-line. Free online tool, no registration required."
 category: common

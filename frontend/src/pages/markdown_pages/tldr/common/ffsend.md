@@ -1,7 +1,7 @@
 ---
 title: "Share Files Securely with ffsend | Online Free DevTools by Hexmos"
 name: ffsend
-path: /freedevtools/tldr/common/ffsend
+path: "/freedevtools/tldr/common/ffsend/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ffsend/"
 description: "Share files securely with ffsend. Upload and download files with encryption and password protection, ensuring secure file transfer. Free online tool, no registration required."
 category: common

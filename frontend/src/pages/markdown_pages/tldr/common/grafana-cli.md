@@ -1,7 +1,7 @@
 ---
 title: "Grafana CLI - Control Grafana Plugins | Online Free DevTools by Hexmos"
 name: grafana-cli
-path: /freedevtools/tldr/common/grafana-cli
+path: "/freedevtools/tldr/common/grafana-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/grafana-cli/"
 description: "Control Grafana plugins with Grafana CLI. Install, update, and remove plugins from the command line interface. Free online tool, no registration required."
 category: common

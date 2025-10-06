@@ -1,7 +1,7 @@
 ---
 title: "Create 7Zip Archives - Compress Files with p7zip | Online Free DevTools by Hexmos"
 name: p7zip
-path: "/freedevtools/tldr/common/p7zip"
+path: "/freedevtools/tldr/common/p7zip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/p7zip/"
 description: "Create 7Zip archives with p7zip. Compress and decompress files using the command line archiver. Free online tool, no registration required."
 category: common

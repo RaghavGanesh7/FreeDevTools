@@ -1,7 +1,7 @@
 ---
 title: "Hello Command - Generate Customizable Greetings | Online Free DevTools by Hexmos"
 name: hello
-path: /freedevtools/tldr/common/hello
+path: "/freedevtools/tldr/common/hello/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hello/"
 description: "Generate customizable greetings with the Hello Command. Print personalized messages and traditional greetings using the command line. Free online tool, no registration required."
 category: common

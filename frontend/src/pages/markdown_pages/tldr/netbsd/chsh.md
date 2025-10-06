@@ -1,7 +1,7 @@
 ---
 title: "Change User Shell - Alter Shell Settings | Online Free DevTools by Hexmos"
 name: chsh
-path: /freedevtools/tldr/netbsd/chsh
+path: "/freedevtools/tldr/netbsd/chsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/netbsd/chsh/"
 description: "Change user shell settings with chsh. Modify login shell on NetBSD and leverage system authentication for user account management. Free online tool, no registration required."
 category: netbsd

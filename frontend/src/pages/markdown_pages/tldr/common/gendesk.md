@@ -1,7 +1,7 @@
 ---
 title: "Generate Desktop File - Create .desktop Files | Online Free DevTools by Hexmos"
 name: gendesk
-path: /freedevtools/tldr/common/gendesk
+path: "/freedevtools/tldr/common/gendesk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gendesk/"
 description: "Generate .desktop files easily with gendesk. Create application launchers and download icons quickly using the command line. Free online tool, no registration required."
 category: common

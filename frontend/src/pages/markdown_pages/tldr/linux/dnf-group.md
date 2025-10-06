@@ -1,7 +1,7 @@
 ---
 title: "DNF Group - Manage Package Collections | Online Free DevTools by Hexmos"
 name: dnf-group
-path: /freedevtools/tldr/linux/dnf-group
+path: "/freedevtools/tldr/linux/dnf-group/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf-group/"
 description: "Manage package collections with DNF Group, a powerful Fedora package manager.  Install, remove, and upgrade groups of packages effortlessly. Free online tool, no registration required."
 category: linux

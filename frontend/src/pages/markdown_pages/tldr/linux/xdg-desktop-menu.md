@@ -1,7 +1,7 @@
 ---
 title: "Manage Desktop Menus - Control App Menus with xdg-desktop-menu | Online Free DevTools by Hexmos"
 name: xdg-desktop-menu
-path: /freedevtools/tldr/linux/xdg-desktop-menu
+path: "/freedevtools/tldr/linux/xdg-desktop-menu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xdg-desktop-menu/"
 description: "Control and manage desktop application menus with xdg-desktop-menu.  Install, uninstall, and update desktop menu entries easily. Free online tool, no registration required."
 category: linux

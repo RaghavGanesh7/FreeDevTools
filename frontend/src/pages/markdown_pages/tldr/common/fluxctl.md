@@ -1,7 +1,7 @@
 ---
 title: "Control Flux v1 - Manage Kubernetes Deployments | Online Free DevTools by Hexmos"
 name: fluxctl
-path: /freedevtools/tldr/common/fluxctl
+path: "/freedevtools/tldr/common/fluxctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fluxctl/"
 description: "Control Kubernetes deployments with fluxctl, a tool for managing Flux v1. Automate deployments, list workloads, and sync with Git repositories. Free online tool, no registration required."
 category: common

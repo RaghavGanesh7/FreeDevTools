@@ -1,7 +1,7 @@
 ---
 title: "Create Torrent Files - Generate Metainfo with mktorrent | Online Free DevTools by Hexmos"
 name: mktorrent
-path: /freedevtools/tldr/common/mktorrent
+path: "/freedevtools/tldr/common/mktorrent/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mktorrent/"
 description: "Create torrent files with mktorrent, a command-line tool for generating metainfo files. Build torrents with custom piece size and trackers. Free online tool, no registration required."
 category: common

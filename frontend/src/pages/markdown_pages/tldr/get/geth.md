@@ -1,7 +1,7 @@
 ---
 title: "Ethereum Geth - Connect to Ethereum Network | Online Free DevTools by Hexmos"
 name: geth
-path: /freedevtools/tldr/get/geth
+path: "/freedevtools/tldr/get/geth/"
 canonical: "https://hexmos.com/freedevtools/tldr/get/geth/"
 description: "Connect to Ethereum networks with Geth, the go-ethereum command-line interface. Manage accounts, enable mining, and interact with the blockchain. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Choco Install - Package Management on Windows | Online Free DevTools by Hexmos"
 name: choco-install
-path: /freedevtools/tldr/windows/choco-install
+path: "/freedevtools/tldr/windows/choco-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-install/"
 description: "Package management with Choco Install on Windows. Install, update, and manage software packages efficiently using Chocolatey command line. Free online tool, no registration required."
 category: windows

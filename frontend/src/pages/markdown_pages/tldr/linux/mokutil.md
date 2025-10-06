@@ -1,7 +1,7 @@
 ---
 title: "Mokutil - Configure Secure Boot Keys | Online Free DevTools by Hexmos"
 name: mokutil
-path: /freedevtools/tldr/linux/mokutil
+path: "/freedevtools/tldr/linux/mokutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mokutil/"
 description: "Configure Secure Boot keys with Mokutil. Enable or disable Secure Boot validation, list and enroll keys using the command line. Free online tool, no registration required."
 category: linux

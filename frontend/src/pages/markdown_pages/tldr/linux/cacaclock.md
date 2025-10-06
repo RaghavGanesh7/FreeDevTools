@@ -1,7 +1,7 @@
 ---
 title: "Display Time as ASCII Art - cacaclock | Online Free DevTools by Hexmos"
 name: cacaclock
-path: /freedevtools/tldr/linux/cacaclock
+path: "/freedevtools/tldr/linux/cacaclock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cacaclock/"
 description: "Display the current time as ASCII art with cacaclock. Customize font and format using strftime. Free online tool, no registration required."
 category: linux

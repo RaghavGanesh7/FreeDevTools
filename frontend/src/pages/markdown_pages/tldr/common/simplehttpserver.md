@@ -1,7 +1,7 @@
 ---
 title: "Create HTTP Server - Simple File Sharing | Online Free DevTools by Hexmos"
 name: simplehttpserver
-path: /freedevtools/tldr/common/simplehttpserver
+path: "/freedevtools/tldr/common/simplehttpserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/simplehttpserver/"
 description: "Create HTTP server instantly with SimpleHTTPServer. Share files and directories easily using custom rules and authentication. Free online tool, no registration required."
 category: common

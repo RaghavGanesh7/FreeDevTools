@@ -1,7 +1,7 @@
 ---
 title: "Generate Go Files - Automate Code Generation | Online Free DevTools by Hexmos"
 name: go-generate
-path: /freedevtools/tldr/go/go-generate
+path: "/freedevtools/tldr/go/go-generate/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-generate/"
 description: "Generate Go files automatically with go-generate. Streamline your Go development workflow by automating code generation. Free online tool, no registration required."
 category: common

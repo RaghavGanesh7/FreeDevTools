@@ -1,7 +1,7 @@
 ---
 title: "Ncal - Generate Calendar | Online Free DevTools by Hexmos"
 name: ncal
-path: /freedevtools/tldr/linux/ncal
+path: "/freedevtools/tldr/linux/ncal/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ncal/"
 description: "Generate calendar outputs with Ncal, a versatile Linux command. Display yearly or monthly calendars on the terminal using ncal. Free online tool, no registration required."
 category: linux

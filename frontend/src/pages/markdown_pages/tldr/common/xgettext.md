@@ -1,7 +1,7 @@
 ---
 title: "xgettext - Extract Text Strings | Online Free DevTools by Hexmos"
 name: xgettext
-path: /freedevtools/tldr/common/xgettext
+path: "/freedevtools/tldr/common/xgettext/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xgettext/"
 description: "Extract text strings with xgettext for internationalization. Create translation files from source code effortlessly. Free online tool, no registration required."
 category: common

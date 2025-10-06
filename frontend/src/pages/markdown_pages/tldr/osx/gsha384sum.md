@@ -1,7 +1,7 @@
 ---
 title: "Generate SHA384 Checksum - gsha384sum | Online Free DevTools by Hexmos"
 name: gsha384sum
-path: /freedevtools/tldr/osx/gsha384sum
+path: "/freedevtools/tldr/osx/gsha384sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsha384sum/"
 description: "Generate SHA384 checksums with gsha384sum. Verify data integrity and create secure hashes quickly. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "SLMGR - Control Windows Activation | Online Free DevTools by Hexmos"
 name: slmgr
-path: /freedevtools/tldr/windows/slmgr
+path: "/freedevtools/tldr/windows/slmgr/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/slmgr/"
 description: "Control Windows activation with SLMGR, a command-line tool for managing software licensing. Activate, extend, or retrieve licensing information. Free online tool, no registration required."
 category: windows

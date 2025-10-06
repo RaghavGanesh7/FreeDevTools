@@ -1,7 +1,7 @@
 ---
 title: "Setserial - Control Serial Ports | Online Free DevTools by Hexmos"
 name: setserial
-path: /freedevtools/tldr/linux/setserial
+path: "/freedevtools/tldr/linux/setserial/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setserial/"
 description: "Control serial ports with Setserial. Configure serial devices and retrieve detailed port information. Free online tool, no registration required."
 category: linux

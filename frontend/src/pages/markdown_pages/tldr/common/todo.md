@@ -1,7 +1,7 @@
 ---
 title: "Todo Manager - Create Todo Lists | Online Free DevTools by Hexmos"
 name: todo
-path: /freedevtools/tldr/common/todo
+path: "/freedevtools/tldr/common/todo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/todo/"
 description: "Create tasks with Todo Manager, a simple command-line todo list application. Manage tasks, set due dates, and organize projects efficiently. Free online tool, no registration required."
 category: common

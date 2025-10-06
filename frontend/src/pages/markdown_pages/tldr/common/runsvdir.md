@@ -1,7 +1,7 @@
 ---
 title: "Run Services - Control Service Directory with runsvdir | Online Free DevTools by Hexmos"
 name: runsvdir
-path: /freedevtools/tldr/common/runsvdir
+path: "/freedevtools/tldr/common/runsvdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/runsvdir/"
 description: "Control a service directory with runsvdir. Manage and start services as user or root, run in separate sessions. Free online tool, no registration required."
 category: common

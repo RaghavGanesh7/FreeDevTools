@@ -1,7 +1,7 @@
 ---
 title: "Control Directory Stack - Manage Dirs with Bash | Online Free DevTools by Hexmos"
 name: dirs
-path: /freedevtools/tldr/common/dirs
+path: "/freedevtools/tldr/common/dirs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dirs/"
 description: "Control your directory stack with Dirs. Navigate file systems efficiently using pushd and popd. Free online tool, no registration required."
 category: common

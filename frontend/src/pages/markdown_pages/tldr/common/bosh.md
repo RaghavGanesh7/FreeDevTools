@@ -1,7 +1,7 @@
 ---
 title: "BOSH Manager - Deploy BOSH Directors | Online Free DevTools by Hexmos"
 name: bosh
-path: /freedevtools/tldr/common/bosh
+path: "/freedevtools/tldr/common/bosh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bosh/"
 description: "Deploy and manage BOSH directors with BOSH Manager. Simplify cloud deployment, configure stemcells, and manage virtual machines efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Execute Commands | Online Free DevTools by Hexmos"
 name: powershell
-path: /freedevtools/tldr/common/powershell
+path: "/freedevtools/tldr/common/powershell/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/powershell/"
 description: "Execute commands with PowerShell. Manage Windows systems, automate tasks and configure settings with Windows PowerShell command-line interface. Free online tool, no registration required."
 category: common

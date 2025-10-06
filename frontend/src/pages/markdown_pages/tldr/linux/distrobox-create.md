@@ -1,7 +1,7 @@
 ---
 title: "Create Distrobox Containers - Linux Containerization | Online Free DevTools by Hexmos"
 name: distrobox-create
-path: /freedevtools/tldr/linux/distrobox-create
+path: "/freedevtools/tldr/linux/distrobox-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox-create/"
 description: "Create Distrobox containers easily with distrobox-create.  Manage and clone Linux containers seamlessly for improved development workflow. Free online tool, no registration required."
 category: linux

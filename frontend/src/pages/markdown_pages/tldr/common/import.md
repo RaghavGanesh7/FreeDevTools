@@ -1,7 +1,7 @@
 ---
 title: "Import Image - Convert Image Formats | Online Free DevTools by Hexmos"
 name: import
-path: /freedevtools/tldr/common/import
+path: "/freedevtools/tldr/common/import/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/import/"
 description: "Convert image formats with Import Image tool. Transform images between various file types, optimize for web, and resize instantly. Free online tool, no registration required."
 category: common

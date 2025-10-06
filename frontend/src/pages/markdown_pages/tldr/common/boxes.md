@@ -1,7 +1,7 @@
 ---
 title: "Create ASCII Art Boxes - Draw Boxes | Online Free DevTools by Hexmos"
 name: boxes
-path: /freedevtools/tldr/common/boxes
+path: "/freedevtools/tldr/common/boxes/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/boxes/"
 description: "Draw ASCII art boxes with Boxes. Customize box designs and sizes for visually appealing command-line output. Free online tool, no registration required."
 category: common

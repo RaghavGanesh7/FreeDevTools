@@ -1,7 +1,7 @@
 ---
 title: "Git Clear - Reset Git Working Directory | Online Free DevTools by Hexmos"
 name: git-clear
-path: /freedevtools/tldr/git/git-clear
+path: "/freedevtools/tldr/git/git-clear/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-clear/"
 description: "Reset a Git working directory to a clean state with Git Clear. Discard local changes and untracked files, even those in .gitignore. Free online tool, no registration required."
 category: common

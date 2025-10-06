@@ -1,7 +1,7 @@
 ---
 title: "Lebab Modernizer - Transpile JavaScript ES6/ES7 | Online Free DevTools by Hexmos"
 name: lebab
-path: /freedevtools/tldr/common/lebab
+path: "/freedevtools/tldr/common/lebab/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lebab/"
 description: "Transpile JavaScript with Lebab Modernizer, converting legacy JavaScript code to modern ES6/ES7 syntax. Automate code upgrades. Free online tool, no registration required."
 category: common

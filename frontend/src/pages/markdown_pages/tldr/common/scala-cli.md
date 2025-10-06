@@ -1,7 +1,7 @@
 ---
 title: "Scala Control - Interact with Scala Code | Online Free DevTools by Hexmos"
 name: scala-cli
-path: /freedevtools/tldr/common/scala-cli
+path: "/freedevtools/tldr/common/scala-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scala-cli/"
 description: "Control Scala code development with scala-cli. Compile, run, test, and format Scala scripts with this powerful command-line tool. Free online tool, no registration required."
 category: common

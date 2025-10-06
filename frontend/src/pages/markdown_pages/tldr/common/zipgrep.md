@@ -1,7 +1,7 @@
 ---
 title: "Zipgrep - Search Zip Files with Regex | Online Free DevTools by Hexmos"
 name: zipgrep
-path: /freedevtools/tldr/common/zipgrep
+path: "/freedevtools/tldr/common/zipgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zipgrep/"
 description: "Search Zip files effectively with Zipgrep, using regex patterns for precise matching. Extract specific data from archives. Free online tool, no registration required."
 category: common

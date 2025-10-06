@@ -1,7 +1,7 @@
 ---
 title: "Color Control - Set Console Colors on Windows | Online Free DevTools by Hexmos"
 name: color
-path: /freedevtools/tldr/windows/color
+path: "/freedevtools/tldr/windows/color/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/color/"
 description: "Control console colors with Color command. Customize foreground and background colors instantly using hexadecimal codes. Free online tool, no registration required."
 category: windows

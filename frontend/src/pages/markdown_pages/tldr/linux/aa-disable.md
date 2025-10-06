@@ -1,7 +1,7 @@
 ---
 title: "Disable AppArmor - Control Security Policies | Online Free DevTools by Hexmos"
 name: aa-disable
-path: /freedevtools/tldr/linux/aa-disable
+path: "/freedevtools/tldr/linux/aa-disable/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-disable/"
 description: "Disable AppArmor security policies with aa-disable.  Control application security profiles on Linux systems with ease. Free online tool, no registration required."
 category: linux

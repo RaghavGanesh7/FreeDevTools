@@ -1,7 +1,7 @@
 ---
 title: "Create Backups - Manage Data with Rustic | Online Free DevTools by Hexmos"
 name: rustic
-path: /freedevtools/tldr/common/rustic
+path: "/freedevtools/tldr/common/rustic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rustic/"
 description: "Create backups quickly with Rustic. Encrypt, deduplicate, and manage your data using this powerful Rust-based backup tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Log - View System Logs on macOS | Online Free DevTools by Hexmos"
 name: log
-path: /freedevtools/tldr/osx/log
+path: "/freedevtools/tldr/osx/log/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/log/"
 description: "View system logs on macOS with Log. Analyze system activity, troubleshoot issues, and monitor processes using command-line. Free online tool, no registration required."
 category: osx

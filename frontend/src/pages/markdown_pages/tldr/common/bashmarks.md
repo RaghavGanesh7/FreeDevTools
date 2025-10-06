@@ -1,7 +1,7 @@
 ---
 title: "Bashmarks - Manage Directories with Single Character Commands | Online Free DevTools by Hexmos"
 name: bashmarks
-path: /freedevtools/tldr/common/bashmarks
+path: "/freedevtools/tldr/common/bashmarks/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bashmarks/"
 description: "Manage directories efficiently with Bashmarks. Quickly save and jump to common locations using one-character commands in your terminal. Free online tool, no registration required."
 category: common

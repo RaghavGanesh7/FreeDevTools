@@ -1,7 +1,7 @@
 ---
 title: "Reflex - Watch Files & Rerun Commands | Online Free DevTools by Hexmos"
 name: reflex
-path: /freedevtools/tldr/common/reflex
+path: "/freedevtools/tldr/common/reflex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/reflex/"
 description: "Watch file changes and rerun commands with Reflex. Automate builds, trigger deployments, and monitor file modifications using command-line interface. Free online tool, no registration required."
 category: common

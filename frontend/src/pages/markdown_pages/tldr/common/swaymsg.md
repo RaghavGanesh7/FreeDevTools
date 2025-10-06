@@ -1,7 +1,7 @@
 ---
 title: "Swaymsg - Control Sway Window Manager via IPC | Online Free DevTools by Hexmos"
 name: swaymsg
-path: /freedevtools/tldr/common/swaymsg
+path: "/freedevtools/tldr/common/swaymsg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swaymsg/"
 description: "Control your Sway window manager with Swaymsg. Send commands, manage workspaces, and query window information. Free online tool, no registration required."
 category: common

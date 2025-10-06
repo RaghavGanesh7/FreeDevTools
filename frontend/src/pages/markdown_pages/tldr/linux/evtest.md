@@ -1,7 +1,7 @@
 ---
 title: "Evtest Input Device - Display Events | Online Free DevTools by Hexmos"
 name: evtest
-path: /freedevtools/tldr/linux/evtest
+path: "/freedevtools/tldr/linux/evtest/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/evtest/"
 description: "Display and control input device events with evtest.  Monitor keystrokes, mouse movements, and other input activity using command-line interface. Free online tool, no registration required."
 category: linux

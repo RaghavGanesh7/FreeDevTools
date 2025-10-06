@@ -1,7 +1,7 @@
 ---
 title: "List SunOS Services - Check Service Status | Online Free DevTools by Hexmos"
 name: svcs
-path: /freedevtools/tldr/sunos/svcs
+path: "/freedevtools/tldr/sunos/svcs/"
 canonical: "https://hexmos.com/freedevtools/tldr/sunos/svcs/"
 description: "List SunOS services and check their status with the svcs command. Diagnose issues, view logs, and manage dependencies. Free online tool, no registration required."
 category: sunos

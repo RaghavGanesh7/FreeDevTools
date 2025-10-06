@@ -1,7 +1,7 @@
 ---
 title: "AppArmor Profile - Update Security Profiles | Online Free DevTools by Hexmos"
 name: aa-logprof
-path: /freedevtools/tldr/linux/aa-logprof
+path: "/freedevtools/tldr/linux/aa-logprof/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-logprof/"
 description: "Update AppArmor security profiles with aa-logprof. Intuitively manage application confinement and reduce system vulnerabilities. Free online tool, no registration required."
 category: linux

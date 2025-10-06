@@ -1,7 +1,7 @@
 ---
 title: "Scoop - Manage Windows Packages | Online Free DevTools by Hexmos"
 name: scoop
-path: /freedevtools/tldr/windows/scoop
+path: "/freedevtools/tldr/windows/scoop/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/scoop/"
 description: "Manage Windows packages effectively with Scoop. Install, uninstall, and update software effortlessly on your Windows system. Free online tool, no registration required."
 category: windows

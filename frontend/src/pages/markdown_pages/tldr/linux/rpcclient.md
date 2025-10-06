@@ -1,7 +1,7 @@
 ---
 title: "RPC Client - Control Remote Windows Systems | Online Free DevTools by Hexmos"
 name: rpcclient
-path: /freedevtools/tldr/linux/rpcclient
+path: "/freedevtools/tldr/linux/rpcclient/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpcclient/"
 description: "Control remote Windows systems with RPC Client, a powerful Samba tool. Manage users, execute commands, and query system information. Free online tool, no registration required."
 category: linux

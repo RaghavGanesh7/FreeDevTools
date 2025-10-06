@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Files - Unison File Synchronization | Online Free DevTools by Hexmos"
 name: unison
-path: /freedevtools/tldr/common/unison
+path: "/freedevtools/tldr/common/unison/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unison/"
 description: "Synchronize files easily with Unison, a powerful bidirectional file synchronization tool. Keep your directories in sync across platforms. Free online tool, no registration required."
 category: common

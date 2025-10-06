@@ -1,7 +1,7 @@
 ---
 title: "Smartctl - Monitor Disk Health & SMART Data | Online Free DevTools by Hexmos"
 name: smartctl
-path: /freedevtools/tldr/common/smartctl
+path: "/freedevtools/tldr/common/smartctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/smartctl/"
 description: "Monitor disk health with Smartctl, a command-line tool for checking SMART data and running self-tests. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Format Rust Code - cargo-fmt | Online Free DevTools by Hexmos"
 name: cargo-fmt
-path: /freedevtools/tldr/cargo/cargo-fmt
+path: "/freedevtools/tldr/cargo/cargo-fmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-fmt/"
 description: "Format Rust code quickly with cargo-fmt. Improve code readability and maintain consistent style across your projects. Free online tool, no registration required."
 category: common

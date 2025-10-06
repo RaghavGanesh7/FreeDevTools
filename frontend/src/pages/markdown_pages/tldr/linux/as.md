@@ -1,7 +1,7 @@
 ---
 title: "Assemble Files - Generate Assembly Code with AS | Online Free DevTools by Hexmos"
 name: as
-path: /freedevtools/tldr/linux/as
+path: "/freedevtools/tldr/linux/as/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/as/"
 description: "Assemble files instantly with AS, the GNU assembler. Convert source code into machine-readable assembly language for linking. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Generate Password - XKCDpass Phrase Generator | Online Free DevTools by Hexmos"
 name: xkcdpass
-path: /freedevtools/tldr/common/xkcdpass
+path: "/freedevtools/tldr/common/xkcdpass/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xkcdpass/"
 description: "Generate strong passwords with XKCDpass, a scriptable password generator inspired by XKCD 936. Create memorable passphrases easily. Free online tool, no registration required."
 category: common

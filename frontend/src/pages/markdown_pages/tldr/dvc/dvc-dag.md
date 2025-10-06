@@ -1,7 +1,7 @@
 ---
 title: "Generate DVC DAG - Visualize Pipelines | Online Free DevTools by Hexmos"
 name: dvc-dag
-path: /freedevtools/tldr/dvc/dvc-dag
+path: "/freedevtools/tldr/dvc/dvc-dag/"
 canonical: "https://hexmos.com/freedevtools/tldr/dvc/dvc-dag/"
 description: "Generate DVC DAG diagrams for your data pipelines with DVC Dag. Visualize dependencies and relationships in your DVC projects. Free online tool, no registration required."
 category: common

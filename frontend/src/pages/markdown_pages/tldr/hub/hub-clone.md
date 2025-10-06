@@ -1,7 +1,7 @@
 ---
 title: "Hub Clone - Clone Repositories Easily | Online Free DevTools by Hexmos"
 name: hub-clone
-path: /freedevtools/tldr/hub/hub-clone
+path: "/freedevtools/tldr/hub/hub-clone/"
 canonical: "https://hexmos.com/freedevtools/tldr/hub/hub-clone/"
 description: "Clone repositories easily with Hub Clone. Quickly duplicate GitHub repositories to your local machine using command line. Free online tool, no registration required."
 category: common

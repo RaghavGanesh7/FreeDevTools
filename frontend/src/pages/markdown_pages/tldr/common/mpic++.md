@@ -1,7 +1,7 @@
 ---
 title: "MPI C++ Compiler - Compile Parallel C++ Code | Online Free DevTools by Hexmos"
 name: mpic++
-path: /freedevtools/tldr/common/mpic++
+path: "/freedevtools/tldr/common/mpic++/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpic++/"
 description: "Compile parallel C++ code with MPI C++ Compiler, enabling efficient message passing. Build distributed applications on Linux. Free online tool, no registration required."
 category: common

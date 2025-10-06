@@ -1,7 +1,7 @@
 ---
 title: "Validate Python Code - Pylint Code Linter | Online Free DevTools by Hexmos"
 name: pylint
-path: /freedevtools/tldr/common/pylint
+path: "/freedevtools/tldr/common/pylint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pylint/"
 description: "Validate Python code with Pylint, a powerful code linter. Improve code quality and catch errors early. Free online tool, no registration required."
 category: common

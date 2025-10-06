@@ -1,7 +1,7 @@
 ---
 title: "Kill Process - Control Processes Cross-Platform | Online Free DevTools by Hexmos"
 name: fkill
-path: /freedevtools/tldr/common/fkill
+path: "/freedevtools/tldr/common/fkill/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fkill/"
 description: "Control process termination easily with fkill. Kill processes by PID, name, or port across different operating systems. Free online tool, no registration required."
 category: common

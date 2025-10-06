@@ -1,7 +1,7 @@
 ---
 title: "Mount SteamOS - Control Filesystem Partitions | Online Free DevTools by Hexmos"
 name: mount.steamos
-path: /freedevtools/tldr/linux/mount-steamos
+path: "/freedevtools/tldr/linux/mount-steamos/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mount-steamos/"
 description: "Control SteamOS filesystem partitions with mount.steamos. Mount and unmount partitions, exclude specific partitions, and display help information. Free online tool, no registration required."
 category: linux

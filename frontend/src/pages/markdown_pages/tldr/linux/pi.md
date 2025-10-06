@@ -1,7 +1,7 @@
 ---
 title: "Compute Pi - Calculate Archimedes' Constant on Linux | Online Free DevTools by Hexmos"
 name: pi
-path: /freedevtools/tldr/linux/pi
+path: "/freedevtools/tldr/linux/pi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pi/"
 description: "Calculate Archimedes' constant Pi with Pi command line tool on Linux. Display precise decimal digits for scientific calculations. Free online tool, no registration required."
 category: linux

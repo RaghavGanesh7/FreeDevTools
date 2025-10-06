@@ -1,7 +1,7 @@
 ---
 title: "Fly - Control Concourse CI Pipelines | Online Free DevTools by Hexmos"
 name: fly
-path: /freedevtools/tldr/common/fly
+path: "/freedevtools/tldr/common/fly/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fly/"
 description: "Control Concourse CI pipelines with Fly. Manage targets, update configurations, and destroy pipelines using this command-line tool. Free online tool, no registration required."
 category: common

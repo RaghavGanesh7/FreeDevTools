@@ -1,7 +1,7 @@
 ---
 title: "Bison - Generate Parsers from Grammar Files | Online Free DevTools by Hexmos"
 name: bison
-path: /freedevtools/tldr/common/bison
+path: "/freedevtools/tldr/common/bison/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bison/"
 description: "Generate parsers quickly with Bison from grammar files, ensuring code correctness and efficient syntax analysis. Free online tool, no registration required."
 category: common

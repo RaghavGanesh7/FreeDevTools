@@ -1,7 +1,7 @@
 ---
 title: "Zipalign - Optimize Zip Archives for Android | Online Free DevTools by Hexmos"
 name: zipalign
-path: /freedevtools/tldr/common/zipalign
+path: "/freedevtools/tldr/common/zipalign/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zipalign/"
 description: "Optimize Zip archives with Zipalign for enhanced Android app performance. Align APK files, reduce memory usage, and improve app startup speed. Free online tool, no registration required."
 category: common

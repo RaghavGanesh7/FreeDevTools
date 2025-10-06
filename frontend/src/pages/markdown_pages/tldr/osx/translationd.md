@@ -1,7 +1,7 @@
 ---
 title: "Translation Daemon - Enable Translations | Online Free DevTools by Hexmos"
 name: translationd
-path: /freedevtools/tldr/osx/translationd
+path: "/freedevtools/tldr/osx/translationd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/translationd/"
 description: "Enable translations with translationd on macOS. Manage language translation processes, translate text, and handle localization tasks. Free online tool, no registration required."
 category: osx

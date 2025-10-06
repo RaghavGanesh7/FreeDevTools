@@ -1,7 +1,7 @@
 ---
 title: "Colorize Graph - Colorize Ranked Digraphs | Online Free DevTools by Hexmos"
 name: gvcolor
-path: /freedevtools/tldr/common/gvcolor
+path: "/freedevtools/tldr/common/gvcolor/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gvcolor/"
 description: "Colorize ranked digraphs with gvcolor. Enhance graph visualization with dynamic color ranges, improving data analysis and presentation. Free online tool, no registration required."
 category: common

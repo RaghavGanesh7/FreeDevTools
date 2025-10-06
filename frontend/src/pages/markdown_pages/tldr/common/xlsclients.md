@@ -1,7 +1,7 @@
 ---
 title: "Xlsclients - Control X11 Display Clients | Online Free DevTools by Hexmos"
 name: xlsclients
-path: /freedevtools/tldr/common/xlsclients
+path: "/freedevtools/tldr/common/xlsclients/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xlsclients/"
 description: "Control X11 display clients with xlsclients. List, filter, and manage applications running on an X11 server using the command line. Free online tool, no registration required."
 category: common

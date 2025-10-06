@@ -1,7 +1,7 @@
 ---
 title: "OCaml Compiler - Generate Native Code | Online Free DevTools by Hexmos"
 name: ocamlopt
-path: /freedevtools/tldr/common/ocamlopt
+path: "/freedevtools/tldr/common/ocamlopt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ocamlopt/"
 description: "Generate native executables with OCaml Compiler (ocamlopt). Compile OCaml code to ELF binaries on Linux and debug with ease. Free online tool, no registration required."
 category: common

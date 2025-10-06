@@ -1,7 +1,7 @@
 ---
 title: "Distrobox Export - Export Apps & Binaries | Online Free DevTools by Hexmos"
 name: distrobox-export
-path: /freedevtools/tldr/linux/distrobox-export
+path: "/freedevtools/tldr/linux/distrobox-export/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox-export/"
 description: "Export applications and binaries from Distrobox containers with ease. Manage exported services and delete exports. Free online tool, no registration required."
 category: linux

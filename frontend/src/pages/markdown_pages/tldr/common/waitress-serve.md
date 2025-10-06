@@ -1,7 +1,7 @@
 ---
 title: "Serve WSGI Apps - Run Python Apps with Waitress | Online Free DevTools by Hexmos"
 name: waitress-serve
-path: /freedevtools/tldr/common/waitress-serve
+path: "/freedevtools/tldr/common/waitress-serve/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/waitress-serve/"
 description: "Serve Python WSGI applications with Waitress-serve. Deploy Python web apps with customizable ports and threads. Free online tool, no registration required."
 category: common

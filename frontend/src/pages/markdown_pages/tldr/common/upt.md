@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages - Upt Package Manager | Online Free DevTools by Hexmos"
 name: upt
-path: /freedevtools/tldr/common/upt
+path: "/freedevtools/tldr/common/upt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/upt/"
 description: "Manage packages easily with Upt Package Manager, a unified interface for various operating systems. Install, update, and remove packages effortlessly. Free online tool, no registration required."
 category: common

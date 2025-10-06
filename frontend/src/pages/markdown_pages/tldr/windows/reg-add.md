@@ -1,7 +1,7 @@
 ---
 title: "Registry Add - Create Registry Keys | Online Free DevTools by Hexmos"
 name: reg-add
-path: /freedevtools/tldr/windows/reg-add
+path: "/freedevtools/tldr/windows/reg-add/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-add/"
 description: "Create registry keys with Registry Add on Windows. Manage registry values, force overwrites, and specify data types quickly. Free online tool, no registration required."
 category: windows

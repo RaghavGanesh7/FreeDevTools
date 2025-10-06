@@ -1,7 +1,7 @@
 ---
 title: "Check Git Ignore - Analyze Ignore Rules | Online Free DevTools by Hexmos"
 name: git-check-ignore
-path: /freedevtools/tldr/git/git-check-ignore
+path: "/freedevtools/tldr/git/git-check-ignore/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-check-ignore/"
 description: "Analyze Git ignore rules with git-check-ignore. Debug .gitignore files and ensure unwanted files are excluded from your Git repository. Free online tool, no registration required."
 category: common

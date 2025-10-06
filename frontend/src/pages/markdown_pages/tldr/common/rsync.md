@@ -1,7 +1,7 @@
 ---
 title: "Rsync File Transfer - Sync and Copy Files | Online Free DevTools by Hexmos"
 name: rsync
-path: "/freedevtools/tldr/common/rsync"
+path: "/freedevtools/tldr/common/rsync/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rsync/"
 description: "Transfer files instantly with Rsync. Securely copy files between systems, efficiently update directories, and manage file versions. Free online tool, no registration required."
 category: common

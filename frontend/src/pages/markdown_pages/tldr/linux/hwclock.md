@@ -1,7 +1,7 @@
 ---
 title: "hwclock - Control System Time | Online Free DevTools by Hexmos"
 name: hwclock
-path: /freedevtools/tldr/linux/hwclock
+path: "/freedevtools/tldr/linux/hwclock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hwclock/"
 description: "Manage system time with hwclock, a command-line tool for precise time synchronization.  Read and set hardware and software clocks easily. Free online tool, no registration required."
 category: linux

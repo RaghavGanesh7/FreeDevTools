@@ -1,7 +1,7 @@
 ---
 title: "SA Command - Summarize Accounting Data | Online Free DevTools by Hexmos"
 name: sa
-path: /freedevtools/tldr/linux/sa
+path: "/freedevtools/tldr/linux/sa/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sa/"
 description: "Summarize accounting information with the SA command. Analyze CPU time, I/O rates, and user activity. Free online tool, no registration required."
 category: linux

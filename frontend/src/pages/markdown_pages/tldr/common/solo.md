@@ -1,7 +1,7 @@
 ---
 title: "Solo Key Control - Interact with Solo Keys | Online Free DevTools by Hexmos"
 name: solo
-path: /freedevtools/tldr/common/solo
+path: "/freedevtools/tldr/common/solo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/solo/"
 description: "Control Solo hardware security keys with Solo. Update firmware, generate random bytes, and monitor serial output. Free online tool, no registration required."
 category: common

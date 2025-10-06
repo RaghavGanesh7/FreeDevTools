@@ -1,7 +1,7 @@
 ---
 title: "Control Tetris Game - Play Cuyo Game on Linux | Online Free DevTools by Hexmos"
 name: cuyo
-path: /freedevtools/tldr/linux/cuyo
+path: "/freedevtools/tldr/linux/cuyo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cuyo/"
 description: "Control the Tetris-like game Cuyo instantly with this command-line tool. Master falling blocks and clear lines in your terminal. Free online tool, no registration required."
 category: linux

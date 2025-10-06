@@ -1,7 +1,7 @@
 ---
 title: "File Type - Determine File Type with File Command | Online Free DevTools by Hexmos"
 name: file
-path: /freedevtools/tldr/common/file
+path: "/freedevtools/tldr/common/file/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/file/"
 description: "Determine file type with File command. Identify file format, examine compressed archives, and work with special files. Free online tool, no registration required."
 category: common

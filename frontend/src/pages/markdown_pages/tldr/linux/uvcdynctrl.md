@@ -1,7 +1,7 @@
 ---
 title: "UVC Control - Manage UVC Cameras on Linux | Online Free DevTools by Hexmos"
 name: uvcdynctrl
-path: /freedevtools/tldr/linux/uvcdynctrl
+path: "/freedevtools/tldr/linux/uvcdynctrl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uvcdynctrl/"
 description: "Control UVC cameras on Linux with uvcdynctrl. Adjust camera settings, save configurations, and load profiles. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "AIDE Validate File Integrity - Linux Intrusion Detection | Online Free DevTools by Hexmos"
 name: aide
-path: /freedevtools/tldr/linux/aide
+path: "/freedevtools/tldr/linux/aide/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aide/"
 description: "Validate file integrity with AIDE, the Advanced Intrusion Detection Environment for Linux systems. Detect system changes and ensure security. Free online tool, no registration required."
 category: linux

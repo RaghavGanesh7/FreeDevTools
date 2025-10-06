@@ -1,7 +1,7 @@
 ---
 title: "OpenVPN - Create Secure VPN Tunnels | Online Free DevTools by Hexmos"
 name: openvpn
-path: /freedevtools/tldr/common/openvpn
+path: "/freedevtools/tldr/common/openvpn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/openvpn/"
 description: "Create secure VPN tunnels with OpenVPN. Configure client-server and peer-to-peer VPN connections easily using command line. Free online tool, no registration required."
 category: common

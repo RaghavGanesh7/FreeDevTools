@@ -1,7 +1,7 @@
 ---
 title: "Control mitmweb - HTTP Proxy Interception | Online Free DevTools by Hexmos"
 name: mitmweb
-path: /freedevtools/tldr/common/mitmweb
+path: "/freedevtools/tldr/common/mitmweb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mitmweb/"
 description: "Control web traffic interception with mitmweb, the interactive HTTP proxy. Analyze, modify, and replay network requests. Free online tool, no registration required."
 category: common

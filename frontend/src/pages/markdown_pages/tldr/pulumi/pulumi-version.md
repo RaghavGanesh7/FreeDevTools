@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Version - Display Pulumi Version | Online Free DevTools by Hexmos"
 name: pulumi-version
-path: /freedevtools/tldr/pulumi/pulumi-version
+path: "/freedevtools/tldr/pulumi/pulumi-version/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-version/"
 description: "Display Pulumi version with Pulumi Version. Get the current installed version of Pulumi for troubleshooting and compatibility. Free online tool, no registration required."
 category: common

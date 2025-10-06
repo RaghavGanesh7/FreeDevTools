@@ -1,7 +1,7 @@
 ---
 title: "Debian Package Builder - Create Packages from Source | Online Free DevTools by Hexmos"
 name: debuild
-path: /freedevtools/tldr/linux/debuild
+path: "/freedevtools/tldr/linux/debuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/debuild/"
 description: "Create Debian packages quickly with debuild. Build binary packages and control lintian checks for quality assurance. Free online tool, no registration required."
 category: linux

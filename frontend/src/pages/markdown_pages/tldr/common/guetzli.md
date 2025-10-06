@@ -1,7 +1,7 @@
 ---
 title: "Guetzli - Compress JPEG Images | Online Free DevTools by Hexmos"
 name: guetzli
-path: /freedevtools/tldr/common/guetzli
+path: "/freedevtools/tldr/common/guetzli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/guetzli/"
 description: "Compress JPEG images effectively with Guetzli. Reduce file size and optimize for web using this image compression tool. Free online tool, no registration required."
 category: common

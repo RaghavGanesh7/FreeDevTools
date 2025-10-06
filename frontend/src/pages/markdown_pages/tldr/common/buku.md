@@ -1,7 +1,7 @@
 ---
 title: "Manage Bookmarks - Control Browser Bookmarks with Buku | Online Free DevTools by Hexmos"
 name: buku
-path: /freedevtools/tldr/common/buku
+path: "/freedevtools/tldr/common/buku/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/buku/"
 description: "Manage browser bookmarks efficiently with Buku. Organize, tag, and search your bookmarks from the command line. Free online tool, no registration required."
 category: common

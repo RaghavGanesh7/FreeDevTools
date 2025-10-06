@@ -1,7 +1,7 @@
 ---
 title: "Quickemu - Create VMs Quickly | Online Free DevTools by Hexmos"
 name: quickemu
-path: /freedevtools/tldr/linux/quickemu
+path: "/freedevtools/tldr/linux/quickemu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/quickemu/"
 description: "Create and manage highly optimized desktop virtual machines quickly with Quickemu.  Manage snapshots and customize configurations effortlessly. Free online tool, no registration required."
 category: linux

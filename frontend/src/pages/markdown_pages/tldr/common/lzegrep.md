@@ -1,7 +1,7 @@
 ---
 title: "LZegrep - Search Compressed Files | Online Free DevTools by Hexmos"
 name: lzegrep
-path: /freedevtools/tldr/common/lzegrep
+path: "/freedevtools/tldr/common/lzegrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzegrep/"
 description: "Search compressed files efficiently with LZegrep. Quickly find patterns in xz-compressed files using regular expressions. Free online tool, no registration required."
 category: common

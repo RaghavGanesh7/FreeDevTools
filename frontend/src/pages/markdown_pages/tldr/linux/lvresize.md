@@ -1,7 +1,7 @@
 ---
 title: "Lvresize - Resize Logical Volumes | Online Free DevTools by Hexmos"
 name: lvresize
-path: /freedevtools/tldr/linux/lvresize
+path: "/freedevtools/tldr/linux/lvresize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lvresize/"
 description: "Resize logical volumes with Lvresize, manage storage space and extend filesystem capacity on Linux. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Create Bup Backups - Deduplicate Data | Online Free DevTools by Hexmos"
 name: bup
-path: /freedevtools/tldr/common/bup
+path: "/freedevtools/tldr/common/bup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bup/"
 description: "Create backups with Bup. Easily manage incremental backups with global deduplication and version control, using the Git packfile format. Free online tool, no registration required."
 category: common

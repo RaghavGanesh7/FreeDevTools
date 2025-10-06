@@ -1,7 +1,7 @@
 ---
 title: "Print Runmailcap - Control File Printing | Online Free DevTools by Hexmos"
 name: print.runmailcap
-path: /freedevtools/tldr/linux/print-runmailcap
+path: "/freedevtools/tldr/linux/print-runmailcap/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/print-runmailcap/"
 description: "Control file printing with Print Runmailcap. Print files from the command line effortlessly using run-mailcap. Free online tool, no registration required."
 category: linux

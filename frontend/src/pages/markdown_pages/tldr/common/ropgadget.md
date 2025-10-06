@@ -1,7 +1,7 @@
 ---
 title: "Find ROP Gadgets - Analyze Binaries | Online Free DevTools by Hexmos"
 name: ropgadget
-path: /freedevtools/tldr/common/ropgadget
+path: "/freedevtools/tldr/common/ropgadget/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ropgadget/"
 description: "Find ROP gadgets with ROPgadget. Analyze binary files for Return-Oriented Programming vulnerabilities and exploit development. Free online tool, no registration required."
 category: common

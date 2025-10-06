@@ -1,7 +1,7 @@
 ---
 title: "Control System Power States with systemd-inhibit | Online Free DevTools by Hexmos"
 name: systemd-inhibit
-path: /freedevtools/tldr/linux/systemd-inhibit
+path: "/freedevtools/tldr/linux/systemd-inhibit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-inhibit/"
 description: "Control system power states with systemd-inhibit.  Prevent system sleep, shutdown, and idle. Free online tool, no registration required."
 category: linux

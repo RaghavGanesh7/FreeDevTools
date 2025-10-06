@@ -1,7 +1,7 @@
 ---
 title: "Convert RAST to PNM - Transform Rasterfiles | Online Free DevTools by Hexmos"
 name: rasttopnm
-path: /freedevtools/tldr/common/rasttopnm
+path: "/freedevtools/tldr/common/rasttopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rasttopnm/"
 description: "Convert RAST images to PNM files with rasttopnm. Transform rasterfiles to portable network maps for wider compatibility. Free online tool, no registration required."
 category: common

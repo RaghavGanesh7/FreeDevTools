@@ -1,7 +1,7 @@
 ---
 title: "XML Validate - Validate XML Documents | Online Free DevTools by Hexmos"
 name: xml-validate
-path: /freedevtools/tldr/xml/xml-validate
+path: "/freedevtools/tldr/xml/xml-validate/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-validate/"
 description: "Validate XML files with XML Validate, ensuring they are well-formed and adhere to specified schemas. Free online tool, no registration required."
 category: common

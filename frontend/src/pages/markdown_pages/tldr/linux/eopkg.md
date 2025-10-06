@@ -1,7 +1,7 @@
 ---
 title: "Eopkg - Manage Solus Packages | Online Free DevTools by Hexmos"
 name: eopkg
-path: /freedevtools/tldr/linux/eopkg
+path: "/freedevtools/tldr/linux/eopkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eopkg/"
 description: "Manage Solus packages easily with Eopkg, the Solus package manager. Install, update, and search for software. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Asterisk Server - Manage Phone Instances | Online Free DevTools by Hexmos"
 name: asterisk
-path: /freedevtools/tldr/linux/asterisk
+path: "/freedevtools/tldr/linux/asterisk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/asterisk/"
 description: "Manage Asterisk phone server instances with this command line tool. Configure SIP clients, monitor channels, and control voicemail boxes. Free online tool, no registration required."
 category: linux

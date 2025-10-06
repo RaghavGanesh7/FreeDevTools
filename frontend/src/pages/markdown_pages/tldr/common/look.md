@@ -1,7 +1,7 @@
 ---
 title: "Look - Search Sorted File Lines | Online Free DevTools by Hexmos"
 name: look
-path: /freedevtools/tldr/common/look
+path: "/freedevtools/tldr/common/look/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/look/"
 description: "Search sorted file lines with Look, quickly finding lines beginning with a prefix in a sorted file. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Virtual Machines - virt-viewer | Online Free DevTools by Hexmos"
 name: virt-viewer
-path: /freedevtools/tldr/linux/virt-viewer
+path: "/freedevtools/tldr/linux/virt-viewer/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/virt-viewer/"
 description: "Control virtual machines with virt-viewer. Connect to VMs, manage connections and monitor performance. Free online tool, no registration required."
 category: linux

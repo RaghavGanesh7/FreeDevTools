@@ -1,7 +1,7 @@
 ---
 title: "Generate Host ID - Get System Identifier | Online Free DevTools by Hexmos"
 name: hostid
-path: /freedevtools/tldr/common/hostid
+path: "/freedevtools/tldr/common/hostid/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hostid/"
 description: "Generate host ID with hostid. Obtain a system's unique hexadecimal identifier for licensing, system monitoring, and network configuration. Free online tool, no registration required."
 category: common

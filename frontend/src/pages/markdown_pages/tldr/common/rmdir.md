@@ -1,7 +1,7 @@
 ---
 title: "Rmdir - Remove Directories | Online Free DevTools by Hexmos"
 name: rmdir
-path: /freedevtools/tldr/common/rmdir
+path: "/freedevtools/tldr/common/rmdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rmdir/"
 description: "Remove empty directories with Rmdir. Easily clean up your file system and reclaim storage space using this command-line tool. Free online tool, no registration required."
 category: common

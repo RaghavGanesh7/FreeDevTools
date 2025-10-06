@@ -1,7 +1,7 @@
 ---
 title: "Secret Tool - Manage Passwords Securely | Online Free DevTools by Hexmos"
 name: secret-tool
-path: /freedevtools/tldr/linux/secret-tool
+path: "/freedevtools/tldr/linux/secret-tool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/secret-tool/"
 description: "Manage passwords securely with Secret Tool. Store, retrieve, and delete secrets using command line interface. Free online tool, no registration required."
 category: linux

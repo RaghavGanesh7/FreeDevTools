@@ -1,7 +1,7 @@
 ---
 title: "Activity Manager - Control Android Activities with ADB | Online Free DevTools by Hexmos"
 name: am
-path: /freedevtools/tldr/android/am
+path: "/freedevtools/tldr/android/am/"
 canonical: "https://hexmos.com/freedevtools/tldr/android/am/"
 description: "Control Android activities instantly with ADB Activity Manager. Start components, manage intents and convert to URIs using command line. Free online tool, no registration required."
 category: android

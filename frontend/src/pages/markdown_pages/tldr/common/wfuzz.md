@@ -1,7 +1,7 @@
 ---
 title: "WFuzz - Web Application Brute Forcer | Online Free DevTools by Hexmos"
 name: wfuzz
-path: /freedevtools/tldr/common/wfuzz
+path: "/freedevtools/tldr/common/wfuzz/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wfuzz/"
 description: "Brute force web applications with WFuzz, a powerful penetration testing tool for discovering vulnerabilities. Improve security with comprehensive directory traversal and parameter fuzzing. Free online tool, no registration required."
 category: common

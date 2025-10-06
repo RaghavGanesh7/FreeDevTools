@@ -1,7 +1,7 @@
 ---
 title: "Setcap - Set File Capabilities | Online Free DevTools by Hexmos"
 name: setcap
-path: /freedevtools/tldr/linux/setcap
+path: "/freedevtools/tldr/linux/setcap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setcap/"
 description: "Set file capabilities with setcap to manage permissions and security attributes for executables. Grant or revoke specific privileges on files. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Certbot - Obtain SSL Certificates | Online Free DevTools by Hexmos"
 name: certbot
-path: /freedevtools/tldr/linux/certbot
+path: "/freedevtools/tldr/linux/certbot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/certbot/"
 description: "Obtain and manage SSL certificates with Certbot.  Automate certificate renewal and easily integrate with web servers. Free online tool, no registration required."
 category: linux

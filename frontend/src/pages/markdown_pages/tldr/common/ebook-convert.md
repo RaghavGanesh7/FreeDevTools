@@ -1,7 +1,7 @@
 ---
 title: "Ebook Converter - Format Ebooks Quickly | Online Free DevTools by Hexmos"
 name: ebook-convert
-path: /freedevtools/tldr/common/ebook-convert
+path: "/freedevtools/tldr/common/ebook-convert/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ebook-convert/"
 description: "Format ebook files with Ebook Converter. Convert between various formats like EPUB, MOBI, and PDF. Free online tool, no registration required."
 category: common

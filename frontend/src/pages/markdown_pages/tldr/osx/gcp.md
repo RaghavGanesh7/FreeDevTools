@@ -1,7 +1,7 @@
 ---
 title: "GCP - Copy Files on macOS | Online Free DevTools by Hexmos"
 name: gcp
-path: /freedevtools/tldr/osx/gcp
+path: "/freedevtools/tldr/osx/gcp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gcp/"
 description: "Copy files on macOS with GCP, an alias for the GNU cp command. Quickly transfer and manage files with this command-line utility. Free online tool, no registration required."
 category: osx

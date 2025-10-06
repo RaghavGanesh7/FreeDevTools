@@ -1,7 +1,7 @@
 ---
 title: "Show Proxmox VM Command - Display VM Startup Command | Online Free DevTools by Hexmos"
 name: qm-showcmd
-path: /freedevtools/tldr/linux/qm-showcmd
+path: "/freedevtools/tldr/linux/qm-showcmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-showcmd/"
 description: "Display Proxmox VM startup commands with qm showcmd.  Quickly view the command-line used to start a virtual machine. Free online tool, no registration required."
 category: linux

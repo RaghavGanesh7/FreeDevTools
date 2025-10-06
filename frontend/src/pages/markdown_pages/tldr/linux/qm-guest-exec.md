@@ -1,7 +1,7 @@
 ---
 title: "qm guest exec - Execute Guest Commands | Online Free DevTools by Hexmos"
 name: qm-guest-exec
-path: /freedevtools/tldr/linux/qm-guest-exec
+path: "/freedevtools/tldr/linux/qm-guest-exec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-guest-exec/"
 description: "Execute commands within Proxmox VMs using qm guest exec.  Manage guest agents and control virtual machine processes easily. Free online tool, no registration required."
 category: linux

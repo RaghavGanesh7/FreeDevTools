@@ -1,7 +1,7 @@
 ---
 title: "LDAP Exploitation - Control Active Directory | Online Free DevTools by Hexmos"
 name: nxc-ldap
-path: /freedevtools/tldr/nxc/nxc-ldap
+path: "/freedevtools/tldr/nxc/nxc-ldap/"
 canonical: "https://hexmos.com/freedevtools/tldr/nxc/nxc-ldap/"
 description: "Control Active Directory via LDAP exploitation with nxc-ldap. Enumerate users, extract data, and attempt ASREPRoasting attacks. Free online tool, no registration required."
 category: common

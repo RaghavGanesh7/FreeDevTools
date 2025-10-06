@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to ASCII - Generate ASCII Art | Online Free DevTools by Hexmos"
 name: ppmtoascii
-path: /freedevtools/tldr/ppm/ppmtoascii
+path: "/freedevtools/tldr/ppm/ppmtoascii/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtoascii/"
 description: "Convert PPM to ASCII with ppmtoascii. Generate ASCII art from images using ANSI terminal color codes. Free online tool, no registration required."
 category: common

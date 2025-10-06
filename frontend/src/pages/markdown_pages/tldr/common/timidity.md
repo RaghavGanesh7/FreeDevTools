@@ -1,7 +1,7 @@
 ---
 title: "Play MIDI Files - Convert MIDI Audio | Online Free DevTools by Hexmos"
 name: timidity
-path: /freedevtools/tldr/common/timidity
+path: "/freedevtools/tldr/common/timidity/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/timidity/"
 description: "Play MIDI files with Timidity. Convert MIDI files to WAV and FLAC audio formats using this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Cisco Show - Display System Info | Online Free DevTools by Hexmos"
 name: show
-path: /freedevtools/tldr/cisco-ios/show
+path: "/freedevtools/tldr/cisco-ios/show/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/show/"
 description: "Display Cisco system information with the Cisco Show command. Inspect network configurations, monitor interface status, and troubleshoot network issues. Free online tool, no registration required."
 category: cisco-ios

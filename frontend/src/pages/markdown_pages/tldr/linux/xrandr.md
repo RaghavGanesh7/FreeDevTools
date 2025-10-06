@@ -1,7 +1,7 @@
 ---
 title: "xrandr - Control Screen Resolution | Online Free DevTools by Hexmos"
 name: xrandr
-path: /freedevtools/tldr/linux/xrandr
+path: "/freedevtools/tldr/linux/xrandr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xrandr/"
 description: "Control screen resolution and orientation with xrandr.  Manage multiple displays, set brightness, and configure output settings easily. Free online tool, no registration required."
 category: linux

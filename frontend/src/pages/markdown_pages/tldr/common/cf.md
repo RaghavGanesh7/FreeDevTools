@@ -1,7 +1,7 @@
 ---
 title: "Cloud Foundry Control - Manage Cloud Apps | Online Free DevTools by Hexmos"
 name: cf
-path: /freedevtools/tldr/common/cf
+path: "/freedevtools/tldr/common/cf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cf/"
 description: "Control your Cloud Foundry applications with CF. Deploy, manage services, and monitor logs instantly. Free online tool, no registration required."
 category: common

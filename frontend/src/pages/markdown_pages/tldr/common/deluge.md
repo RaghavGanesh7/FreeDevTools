@@ -1,7 +1,7 @@
 ---
 title: "Deluge Torrent Client - Download Torrents | Online Free DevTools by Hexmos"
 name: deluge
-path: /freedevtools/tldr/common/deluge
+path: "/freedevtools/tldr/common/deluge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/deluge/"
 description: "Download torrent files easily with Deluge Torrent Client. Manage downloads, configure settings, and optimize performance. Free online tool, no registration required."
 category: common

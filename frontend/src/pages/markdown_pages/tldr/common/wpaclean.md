@@ -1,7 +1,7 @@
 ---
 title: "WPAclean - Clean Capture Files | Online Free DevTools by Hexmos"
 name: wpaclean
-path: /freedevtools/tldr/common/wpaclean
+path: "/freedevtools/tldr/common/wpaclean/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wpaclean/"
 description: "Clean WiFi capture files with WPAclean. Extract 4-way handshakes and beacons from pcap files for security analysis. Free online tool, no registration required."
 category: common

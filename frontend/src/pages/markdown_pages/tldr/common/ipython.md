@@ -1,7 +1,7 @@
 ---
 title: "IPython Shell - Create Interactive Python Sessions | Online Free DevTools by Hexmos"
 name: ipython
-path: /freedevtools/tldr/common/ipython
+path: "/freedevtools/tldr/common/ipython/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipython/"
 description: "Create interactive Python sessions with IPython shell. Enhance your Python development with dynamic object introspection and command completion. Free online tool, no registration required."
 category: common

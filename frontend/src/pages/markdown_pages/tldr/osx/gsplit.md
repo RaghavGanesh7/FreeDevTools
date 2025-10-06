@@ -1,7 +1,7 @@
 ---
 title: "Split Files - Create Smaller Chunks with gsplit | Online Free DevTools by Hexmos"
 name: gsplit
-path: /freedevtools/tldr/osx/gsplit
+path: "/freedevtools/tldr/osx/gsplit/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsplit/"
 description: "Create smaller file chunks with gsplit, the GNU split alias for macOS. Easily split large files into manageable parts for easier sharing and storage. Free online tool, no registration required."
 category: osx

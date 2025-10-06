@@ -1,7 +1,7 @@
 ---
 title: "Control Systemd - Manage Services with systemctl | Online Free DevTools by Hexmos"
 name: systemctl
-path: /freedevtools/tldr/linux/systemctl
+path: "/freedevtools/tldr/linux/systemctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl/"
 description: "Control and manage systemd services with the systemctl command.  Start, stop, restart, enable, and disable services easily. Free online tool, no registration required."
 category: linux

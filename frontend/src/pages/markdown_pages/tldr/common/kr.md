@@ -1,7 +1,7 @@
 ---
 title: "KiteRunner - Execute Security Workflows | Online Free DevTools by Hexmos"
 name: kr
-path: /freedevtools/tldr/common/kr
+path: "/freedevtools/tldr/common/kr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kr/"
 description: "Execute security workflows efficiently with KiteRunner. Automate penetration testing tasks, discover vulnerabilities, and streamline security audits. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pacman Deptest - Check Package Dependencies | Online Free DevTools by Hexmos"
 name: pacman-deptest
-path: /freedevtools/tldr/linux/pacman-deptest
+path: "/freedevtools/tldr/linux/pacman-deptest/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-deptest/"
 description: "Check package dependencies with Pacman Deptest. Identify unsatisfied Linux dependencies and verify version requirements. Free online tool, no registration required."
 category: linux

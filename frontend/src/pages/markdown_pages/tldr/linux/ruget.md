@@ -1,7 +1,7 @@
 ---
 title: "Download Files - Download Files with Ruget | Online Free DevTools by Hexmos"
 name: ruget
-path: /freedevtools/tldr/linux/ruget
+path: "/freedevtools/tldr/linux/ruget/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ruget/"
 description: "Download files instantly with Ruget, a Rust-based wget alternative. Easily fetch content from URLs with specified output file names. Free online tool, no registration required."
 category: linux

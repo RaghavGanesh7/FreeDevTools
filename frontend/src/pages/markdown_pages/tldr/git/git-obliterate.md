@@ -1,7 +1,7 @@
 ---
 title: "Obliterate Git History - Remove Files | Online Free DevTools by Hexmos"
 name: git-obliterate
-path: /freedevtools/tldr/git/git-obliterate
+path: "/freedevtools/tldr/git/git-obliterate/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-obliterate/"
 description: "Remove files with Git Obliterate and erase their history permanently. Securely sanitize your repository and protect sensitive data. Free online tool, no registration required."
 category: common

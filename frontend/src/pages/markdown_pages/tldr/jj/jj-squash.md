@@ -1,7 +1,7 @@
 ---
 title: "JJ Squash - Combine Changes Effortlessly | Online Free DevTools by Hexmos"
 name: jj-squash
-path: /freedevtools/tldr/jj/jj-squash
+path: "/freedevtools/tldr/jj/jj-squash/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-squash/"
 description: "Combine changes effortlessly with JJ Squash. Merge revisions, resolve conflicts, and improve commit history using this powerful command. Free online tool, no registration required."
 category: common

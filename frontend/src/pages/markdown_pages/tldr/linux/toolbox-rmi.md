@@ -1,7 +1,7 @@
 ---
 title: "Toolbox Image Remover - Remove Images | Online Free DevTools by Hexmos"
 name: toolbox-rmi
-path: /freedevtools/tldr/linux/toolbox-rmi
+path: "/freedevtools/tldr/linux/toolbox-rmi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox-rmi/"
 description: "Remove Toolbox images quickly and easily with the toolbox rmi command.  Manage your container images efficiently. Free online tool, no registration required."
 category: linux

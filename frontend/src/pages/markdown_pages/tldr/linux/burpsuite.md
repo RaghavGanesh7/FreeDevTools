@@ -1,7 +1,7 @@
 ---
 title: "Burp Suite - Control Web App Security | Online Free DevTools by Hexmos"
 name: burpsuite
-path: /freedevtools/tldr/linux/burpsuite
+path: "/freedevtools/tldr/linux/burpsuite/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/burpsuite/"
 description: "Control web application security testing with Burp Suite. Analyze requests, intercept traffic, and identify vulnerabilities. Free online tool, no registration required."
 category: linux

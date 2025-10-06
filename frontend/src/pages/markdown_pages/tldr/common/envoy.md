@@ -1,7 +1,7 @@
 ---
 title: "Envoy - Control Laravel Server Tasks | Online Free DevTools by Hexmos"
 name: envoy
-path: "/freedevtools/tldr/common/envoy"
+path: "/freedevtools/tldr/common/envoy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/envoy/"
 description: "Control Laravel server tasks with Envoy. Automate deployments, run remote commands, and manage server configurations with this PHP-based task runner. Free online tool, no registration required."
 category: common

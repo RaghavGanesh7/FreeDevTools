@@ -1,7 +1,7 @@
 ---
 title: "Control Data Duplication - gdd Command Tool | Online Free DevTools by Hexmos"
 name: gdd
-path: /freedevtools/tldr/osx/gdd
+path: "/freedevtools/tldr/osx/gdd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gdd/"
 description: "Control data duplication with gdd, an alias for GNU dd. Efficiently copy and convert data. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Format String - Output String with PowerShell | Online Free DevTools by Hexmos"
 name: out-string
-path: /freedevtools/tldr/windows/out-string
+path: "/freedevtools/tldr/windows/out-string/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/out-string/"
 description: "Format string data with Out-String in PowerShell. Stream output as a string and control width to prevent truncation. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Set SELinux Boolean - Control Security Policies | Online Free DevTools by Hexmos"
 name: setsebool
-path: /freedevtools/tldr/linux/setsebool
+path: "/freedevtools/tldr/linux/setsebool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setsebool/"
 description: "Control SELinux boolean values with Setsebool. Manage Linux security policies and toggle boolean states quickly. Free online tool, no registration required."
 category: linux

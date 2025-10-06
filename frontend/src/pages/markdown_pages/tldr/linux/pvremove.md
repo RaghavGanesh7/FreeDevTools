@@ -1,7 +1,7 @@
 ---
 title: "PVRemove - Remove LVM Labels | Online Free DevTools by Hexmos"
 name: pvremove
-path: /freedevtools/tldr/linux/pvremove
+path: "/freedevtools/tldr/linux/pvremove/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pvremove/"
 description: "Remove LVM labels with PVRemove on Linux. Efficiently manage physical volumes and reclaim disk space. Free online tool, no registration required."
 category: linux

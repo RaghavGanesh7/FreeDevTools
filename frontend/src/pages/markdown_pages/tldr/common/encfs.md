@@ -1,7 +1,7 @@
 ---
 title: "Create Encrypted Filesystems - with encfs | Online Free DevTools by Hexmos"
 name: encfs
-path: /freedevtools/tldr/common/encfs
+path: "/freedevtools/tldr/common/encfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/encfs/"
 description: "Create encrypted filesystems with encfs. Secure your data with ease using this command line tool for creating and mounting virtual encrypted storage. Free online tool, no registration required."
 category: common

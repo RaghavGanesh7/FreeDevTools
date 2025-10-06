@@ -1,7 +1,7 @@
 ---
 title: "HG Remove - Control Staged Files | Online Free DevTools by Hexmos"
 name: hg-remove
-path: /freedevtools/tldr/hg/hg-remove
+path: "/freedevtools/tldr/hg/hg-remove/"
 canonical: "https://hexmos.com/freedevtools/tldr/hg/hg-remove/"
 description: "Control staged files with HG Remove. Easily remove files and directories from the Mercurial staging area. Free online tool, no registration required."
 category: common

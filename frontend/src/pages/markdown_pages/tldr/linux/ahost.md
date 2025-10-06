@@ -1,7 +1,7 @@
 ---
 title: "Ahost Lookup - Display DNS Records | Online Free DevTools by Hexmos"
 name: ahost
-path: /freedevtools/tldr/linux/ahost
+path: "/freedevtools/tldr/linux/ahost/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ahost/"
 description: "Display DNS records with Ahost Lookup. Quickly retrieve A and AAAA records for any hostname or IP address on Linux. Free online tool, no registration required."
 category: linux

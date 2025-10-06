@@ -1,7 +1,7 @@
 ---
 title: "Get-History - Display PowerShell Command History | Online Free DevTools by Hexmos"
 name: get-history
-path: /freedevtools/tldr/windows/get-history
+path: "/freedevtools/tldr/windows/get-history/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-history/"
 description: "Display PowerShell command history with Get-History. View command history by ID or count, and manage past commands. Free online tool, no registration required."
 category: windows

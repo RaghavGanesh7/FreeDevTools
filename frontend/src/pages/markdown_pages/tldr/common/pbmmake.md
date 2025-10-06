@@ -1,7 +1,7 @@
 ---
 title: "Create Bitmap - Generate Blank PBM Images | Online Free DevTools by Hexmos"
 name: pbmmake
-path: /freedevtools/tldr/common/pbmmake
+path: "/freedevtools/tldr/common/pbmmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmmake/"
 description: "Generate bitmap images with pbmmake, a powerful tool for creating PBM files. Customize color and dimensions effortlessly. Free online tool, no registration required."
 category: common

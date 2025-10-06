@@ -1,7 +1,7 @@
 ---
 title: "Firebase Manager - Control Firebase Projects | Online Free DevTools by Hexmos"
 name: firebase
-path: /freedevtools/tldr/common/firebase
+path: "/freedevtools/tldr/common/firebase/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/firebase/"
 description: "Control Firebase projects easily with Firebase Manager. Deploy assets, manage projects, and serve your application locally. Free online tool, no registration required."
 category: common

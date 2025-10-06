@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Colorizer - Colorize Text with lolcat | Online Free DevTools by Hexmos"
 name: lolcat
-path: /freedevtools/tldr/common/lolcat
+path: "/freedevtools/tldr/common/lolcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lolcat/"
 description: "Colorize text with lolcat and add rainbow effects to your console output. Enhance command line text with vibrant truecolor. Free online tool, no registration required."
 category: common

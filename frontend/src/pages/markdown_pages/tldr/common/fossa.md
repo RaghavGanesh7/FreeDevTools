@@ -1,7 +1,7 @@
 ---
 title: "Analyze Fossa Scans - Generate License Reports | Online Free DevTools by Hexmos"
 name: fossa
-path: /freedevtools/tldr/common/fossa
+path: "/freedevtools/tldr/common/fossa/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fossa/"
 description: "Analyze open source licenses with Fossa. Generate realtime license audits and vulnerability scans for dependencies. Free online tool, no registration required."
 category: common

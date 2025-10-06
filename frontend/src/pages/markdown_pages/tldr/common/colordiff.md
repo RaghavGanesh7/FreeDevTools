@@ -1,7 +1,7 @@
 ---
 title: "Colordiff - Highlight Diff Output | Online Free DevTools by Hexmos"
 name: colordiff
-path: /freedevtools/tldr/common/colordiff
+path: "/freedevtools/tldr/common/colordiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/colordiff/"
 description: "Highlight diff output with Colordiff. Visualize changes in files with syntax highlighting and customizable color schemes. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compile D Code - LDC D Compiler with LLVM | Online Free DevTools by Hexmos"
 name: ldc
-path: /freedevtools/tldr/common/ldc
+path: "/freedevtools/tldr/common/ldc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ldc/"
 description: "Compile D code efficiently with LDC D Compiler, using LLVM backend for optimized performance. Cross-compile, link, and generate executables. Free online tool, no registration required."
 category: common

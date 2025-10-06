@@ -1,7 +1,7 @@
 ---
 title: "Control Bluetooth Devices - Bluetoothd Management | Online Free DevTools by Hexmos"
 name: bluetoothd
-path: /freedevtools/tldr/linux/bluetoothd
+path: "/freedevtools/tldr/linux/bluetoothd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bluetoothd/"
 description: "Control Bluetooth devices on Linux with bluetoothd. Start, configure, and debug your Bluetooth daemon easily. Free online tool, no registration required."
 category: linux

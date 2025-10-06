@@ -1,7 +1,7 @@
 ---
 title: "Sed Stream Editor - Edit Text with Scripts | Online Free DevTools by Hexmos"
 name: sed
-path: /freedevtools/tldr/freebsd/sed
+path: "/freedevtools/tldr/freebsd/sed/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/sed/"
 description: "Edit text streams powerfully using sed stream editor.  Perform complex text manipulations using regular expressions, scripting, and in-place file editing. Free online tool, no registration required."
 category: freebsd

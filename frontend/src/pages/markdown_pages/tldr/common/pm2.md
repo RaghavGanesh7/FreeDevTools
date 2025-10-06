@@ -1,7 +1,7 @@
 ---
 title: "PM2 - Manage Node.js Processes | Online Free DevTools by Hexmos"
 name: pm2
-path: /freedevtools/tldr/common/pm2
+path: "/freedevtools/tldr/common/pm2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pm2/"
 description: "Manage Node.js processes with PM2. Monitor, start, stop, and restart applications with ease. Control your Node.js deployments. Free online tool, no registration required."
 category: common

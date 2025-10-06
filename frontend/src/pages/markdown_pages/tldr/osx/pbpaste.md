@@ -1,7 +1,7 @@
 ---
 title: "Control Clipboard - Access Clipboard Contents | Online Free DevTools by Hexmos"
 name: pbpaste
-path: /freedevtools/tldr/osx/pbpaste
+path: "/freedevtools/tldr/osx/pbpaste/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/pbpaste/"
 description: "Control clipboard contents on macOS with pbpaste. Access data, copy to file, or pipe into commands easily. Free online tool, no registration required."
 category: osx

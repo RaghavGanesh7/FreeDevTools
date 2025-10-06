@@ -1,7 +1,7 @@
 ---
 title: "Blight - Control Display Brightness | Online Free DevTools by Hexmos"
 name: blight
-path: /freedevtools/tldr/linux/blight
+path: "/freedevtools/tldr/linux/blight/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/blight/"
 description: "Control display brightness with Blight.  Set, increase, or decrease brightness levels easily and efficiently. Free online tool, no registration required."
 category: linux

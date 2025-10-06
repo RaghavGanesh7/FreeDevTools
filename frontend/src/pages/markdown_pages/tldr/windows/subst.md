@@ -1,7 +1,7 @@
 ---
 title: "Create Virtual Drives - Control Paths with Subst | Online Free DevTools by Hexmos"
 name: subst
-path: /freedevtools/tldr/windows/subst
+path: "/freedevtools/tldr/windows/subst/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/subst/"
 description: "Create virtual drives instantly with Subst on Windows. Associate paths to drive letters for easier access and management. Free online tool, no registration required."
 category: windows

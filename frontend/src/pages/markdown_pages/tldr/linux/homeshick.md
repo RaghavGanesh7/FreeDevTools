@@ -1,7 +1,7 @@
 ---
 title: "Homesick - Synchronize Git Dotfiles | Online Free DevTools by Hexmos"
 name: homeshick
-path: /freedevtools/tldr/linux/homeshick
+path: "/freedevtools/tldr/linux/homeshick/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/homeshick/"
 description: "Synchronize Git dotfiles easily with Homesick. Manage multiple configurations and streamline your workflow. Free online tool, no registration required."
 category: linux

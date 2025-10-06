@@ -1,7 +1,7 @@
 ---
 title: "Ikaros - Manage Device Drivers | Online Free DevTools by Hexmos"
 name: ikaros
-path: /freedevtools/tldr/linux/ikaros
+path: "/freedevtools/tldr/linux/ikaros/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ikaros/"
 description: "Manage device drivers with Ikaros, the Vanilla OS driver management tool. Easily install, update, and list device drivers. Free online tool, no registration required."
 category: linux

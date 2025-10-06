@@ -1,7 +1,7 @@
 ---
 title: "Speedtest - Measure Network Speed | Online Free DevTools by Hexmos"
 name: speedtest-rs
-path: /freedevtools/tldr/speedtest/speedtest-rs
+path: "/freedevtools/tldr/speedtest/speedtest-rs/"
 canonical: "https://hexmos.com/freedevtools/tldr/speedtest/speedtest-rs/"
 description: "Measure network speed with Speedtest-rs. Test download and upload speeds using the command line. Get a shareable link of results. Free online tool, no registration required."
 category: common

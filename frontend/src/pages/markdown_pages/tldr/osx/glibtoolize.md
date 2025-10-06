@@ -1,7 +1,7 @@
 ---
 title: "Generate Libtool Scripts - glibtoolize | Online Free DevTools by Hexmos"
 name: glibtoolize
-path: /freedevtools/tldr/osx/glibtoolize
+path: "/freedevtools/tldr/osx/glibtoolize/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/glibtoolize/"
 description: "Generate libtool scripts with glibtoolize, ensuring compatibility and portability across different systems. Automate the build process. Free online tool, no registration required."
 category: osx

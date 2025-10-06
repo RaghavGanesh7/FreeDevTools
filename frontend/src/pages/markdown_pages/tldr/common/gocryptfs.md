@@ -1,7 +1,7 @@
 ---
 title: "Encrypt Filesystem - Manage Files with gocryptfs | Online Free DevTools by Hexmos"
 name: gocryptfs
-path: /freedevtools/tldr/common/gocryptfs
+path: "/freedevtools/tldr/common/gocryptfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gocryptfs/"
 description: "Encrypt filesystems with gocryptfs, a secure overlay filesystem. Manage encrypted data, create snapshots, and change passwords with ease. Free online tool, no registration required."
 category: common

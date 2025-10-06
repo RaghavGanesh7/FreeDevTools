@@ -1,7 +1,7 @@
 ---
 title: "Manage rpm-ostree - Control OS Deployments | Online Free DevTools by Hexmos"
 name: rpm-ostree
-path: /freedevtools/tldr/linux/rpm-ostree
+path: "/freedevtools/tldr/linux/rpm-ostree/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpm-ostree/"
 description: "Manage rpm-ostree deployments instantly and update operating system images. Preview upgrades, rollback changes, and install packages. Free online tool, no registration required."
 category: linux

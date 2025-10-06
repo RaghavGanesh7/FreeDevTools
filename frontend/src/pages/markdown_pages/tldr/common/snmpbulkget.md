@@ -1,7 +1,7 @@
 ---
 title: "SNMP Bulk Get - Query MIB Tree Values | Online Free DevTools by Hexmos"
 name: snmpbulkget
-path: /freedevtools/tldr/common/snmpbulkget
+path: "/freedevtools/tldr/common/snmpbulkget/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snmpbulkget/"
 description: "Query MIB tree values with SNMP Bulk Get. Retrieve multiple SNMP values efficiently for network management and device monitoring. Free online tool, no registration required."
 category: common

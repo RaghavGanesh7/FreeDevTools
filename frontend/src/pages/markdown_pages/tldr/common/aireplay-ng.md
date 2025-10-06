@@ -1,7 +1,7 @@
 ---
 title: "Aireplay-ng Inject Packets - Control Wireless Network | Online Free DevTools by Hexmos"
 name: aireplay-ng
-path: /freedevtools/tldr/common/aireplay-ng
+path: "/freedevtools/tldr/common/aireplay-ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/aireplay-ng/"
 description: "Inject packets with aireplay-ng, controlling wireless network traffic. Disassociate clients and test network security vulnerabilities. Free online tool, no registration required."
 category: common

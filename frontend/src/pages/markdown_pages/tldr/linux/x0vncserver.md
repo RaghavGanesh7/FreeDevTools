@@ -1,7 +1,7 @@
 ---
 title: "Control VNC Server - Access X Displays | Online Free DevTools by Hexmos"
 name: x0vncserver
-path: /freedevtools/tldr/linux/x0vncserver
+path: "/freedevtools/tldr/linux/x0vncserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/x0vncserver/"
 description: "Control remote access with x0vncserver. Securely access Linux X displays via VNC and manage connections remotely. Free online tool, no registration required."
 category: linux

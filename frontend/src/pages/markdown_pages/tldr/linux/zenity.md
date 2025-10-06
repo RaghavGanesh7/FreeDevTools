@@ -1,7 +1,7 @@
 ---
 title: "Display Dialogs with Zenity - Command-Line Tool | Online Free DevTools by Hexmos"
 name: zenity
-path: /freedevtools/tldr/linux/zenity
+path: "/freedevtools/tldr/linux/zenity/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/zenity/"
 description: "Display dialogs instantly with Zenity, the command-line dialog tool. Create interactive shell scripts and forms easily. Free online tool, no registration required."
 category: linux

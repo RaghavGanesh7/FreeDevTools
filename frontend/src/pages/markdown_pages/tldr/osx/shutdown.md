@@ -1,7 +1,7 @@
 ---
 title: "Shutdown - Control System Shutdown & Reboot | Online Free DevTools by Hexmos"
 name: shutdown
-path: /freedevtools/tldr/osx/shutdown
+path: "/freedevtools/tldr/osx/shutdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/shutdown/"
 description: "Control system shutdown and reboot with Shutdown command on macOS. Schedule shutdowns, power off, or reboot your system effortlessly. Free online tool, no registration required."
 category: osx

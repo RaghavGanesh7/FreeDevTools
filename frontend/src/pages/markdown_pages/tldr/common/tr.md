@@ -1,7 +1,7 @@
 ---
 title: "Translate Characters - Replace Text | Online Free DevTools by Hexmos"
 name: tr
-path: /freedevtools/tldr/common/tr
+path: "/freedevtools/tldr/common/tr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tr/"
 description: "Translate characters with tr. Replace characters in text strings or files using command-line utilities. Free online tool, no registration required."
 category: common

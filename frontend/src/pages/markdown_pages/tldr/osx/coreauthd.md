@@ -1,7 +1,7 @@
 ---
 title: "Coreauthd - Manage Authentication | Online Free DevTools by Hexmos"
 name: coreauthd
-path: /freedevtools/tldr/osx/coreauthd
+path: "/freedevtools/tldr/osx/coreauthd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/coreauthd/"
 description: "Manage authentication processes with Coreauthd on macOS. Control local authentication framework functionality and troubleshoot authentication issues. Free online tool, no registration required."
 category: osx

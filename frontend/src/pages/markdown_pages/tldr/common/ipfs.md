@@ -1,7 +1,7 @@
 ---
 title: "Control IPFS Files - Manage Decentralized Storage | Online Free DevTools by Hexmos"
 name: ipfs
-path: /freedevtools/tldr/common/ipfs
+path: "/freedevtools/tldr/common/ipfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipfs/"
 description: "Manage IPFS files with IPFS command. Add, pin, and retrieve decentralized storage content. Free online tool, no registration required."
 category: common

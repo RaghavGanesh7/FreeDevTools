@@ -1,7 +1,7 @@
 ---
 title: "Manage Nim Packages - Nimble Package Manager | Online Free DevTools by Hexmos"
 name: nimble
-path: /freedevtools/tldr/common/nimble
+path: "/freedevtools/tldr/common/nimble/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nimble/"
 description: "Manage Nim packages effectively with Nimble. Install, build, and search for Nim packages to streamline development. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Ping IPv6 - Check Host Reachability | Online Free DevTools by Hexmos"
 name: ping6.py
-path: /freedevtools/tldr/common/ping6-py
+path: "/freedevtools/tldr/common/ping6-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/ping6-py/"
 description: "Check IPv6 host reachability with Ping IPv6 using ICMPv6 echo requests. Troubleshoot network connectivity and verify IPv6 configurations. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Configure Cisco IOS - Control Network Configuration | Online Free DevTools by Hexmos"
 name: configure
-path: /freedevtools/tldr/cisco-ios/configure
+path: "/freedevtools/tldr/cisco-ios/configure/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/configure/"
 description: "Control network configurations with Cisco IOS Configure. Enter configuration mode, navigate levels, and exit with ease. Free online tool, no registration required."
 category: cisco-ios

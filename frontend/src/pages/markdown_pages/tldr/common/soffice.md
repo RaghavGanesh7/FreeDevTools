@@ -1,7 +1,7 @@
 ---
 title: "Convert Documents - Control LibreOffice with Soffice CLI | Online Free DevTools by Hexmos"
 name: soffice
-path: /freedevtools/tldr/common/soffice
+path: "/freedevtools/tldr/common/soffice/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/soffice/"
 description: "Convert documents instantly with Soffice CLI, control LibreOffice from the command line. Automate document processing and printing. Free online tool, no registration required."
 category: common

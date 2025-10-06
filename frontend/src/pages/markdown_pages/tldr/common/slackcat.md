@@ -1,7 +1,7 @@
 ---
 title: "Slackcat - Send Files and Output to Slack | Online Free DevTools by Hexmos"
 name: slackcat
-path: /freedevtools/tldr/common/slackcat
+path: "/freedevtools/tldr/common/slackcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/slackcat/"
 description: "Send files and command output to Slack with Slackcat. Share text snippets, stream data, and control notifications effortlessly. Free online tool, no registration required."
 category: common

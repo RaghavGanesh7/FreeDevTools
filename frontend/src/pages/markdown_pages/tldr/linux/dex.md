@@ -1,7 +1,7 @@
 ---
 title: "Generate DesktopEntry Files - dex Command | Online Free DevTools by Hexmos"
 name: dex
-path: /freedevtools/tldr/linux/dex
+path: "/freedevtools/tldr/linux/dex/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dex/"
 description: "Generate and execute DesktopEntry files with the dex command.  Manage application autostart, preview executions, and create desktop entries easily. Free online tool, no registration required."
 category: linux

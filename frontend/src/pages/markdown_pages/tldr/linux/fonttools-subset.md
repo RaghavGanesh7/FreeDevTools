@@ -1,7 +1,7 @@
 ---
 title: "Subset Fonts - Generate Font Subsets | Online Free DevTools by Hexmos"
 name: fonttools-subset
-path: /freedevtools/tldr/linux/fonttools-subset
+path: "/freedevtools/tldr/linux/fonttools-subset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fonttools-subset/"
 description: "Generate font subsets with fonttools subset. Optimize font file sizes and customize font features for web and application development. Free online tool, no registration required."
 category: linux

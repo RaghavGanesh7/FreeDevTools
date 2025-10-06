@@ -1,7 +1,7 @@
 ---
 title: "Ionice - Control I/O Scheduling | Online Free DevTools by Hexmos"
 name: ionice
-path: /freedevtools/tldr/linux/ionice
+path: "/freedevtools/tldr/linux/ionice/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ionice/"
 description: "Control I/O scheduling with Ionice. Prioritize disk access for processes and improve system performance using command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control File Explorer - Manage Files with Windows | Online Free DevTools by Hexmos"
 name: explorer
-path: /freedevtools/tldr/windows/explorer
+path: "/freedevtools/tldr/windows/explorer/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/explorer/"
 description: "Manage files easily with Windows File Explorer. Navigate directories, launch applications and access network locations quickly. Free online tool, no registration required."
 category: windows

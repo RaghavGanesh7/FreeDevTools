@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM Images - Format with pamtopam | Online Free DevTools by Hexmos"
 name: pamtopam
-path: /freedevtools/tldr/common/pamtopam
+path: "/freedevtools/tldr/common/pamtopam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtopam/"
 description: "Format PAM images with pamtopam, a Netpbm tool. Convert between PAM, PBM, PGM, and PPM formats easily. Free online tool, no registration required."
 category: common

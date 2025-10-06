@@ -1,7 +1,7 @@
 ---
 title: "Disk Usage Utility - Analyze Disk Space | Online Free DevTools by Hexmos"
 name: duf
-path: /freedevtools/tldr/common/duf
+path: "/freedevtools/tldr/common/duf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/duf/"
 description: "Analyze disk space with Disk Usage Utility (duf). Monitor disk usage, free space, and file systems across multiple platforms. Free online tool, no registration required."
 category: common

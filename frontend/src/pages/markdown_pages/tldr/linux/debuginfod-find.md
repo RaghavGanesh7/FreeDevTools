@@ -1,7 +1,7 @@
 ---
 title: "Find Debuginfo - Request Debug Data | Online Free DevTools by Hexmos"
 name: debuginfod-find
-path: /freedevtools/tldr/linux/debuginfod-find
+path: "/freedevtools/tldr/linux/debuginfod-find/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/debuginfod-find/"
 description: "Request debuginfo data with debuginfod-find.  Find and retrieve debugging information efficiently using build IDs. Free online tool, no registration required."
 category: linux

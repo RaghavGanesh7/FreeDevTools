@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to X10BM - Format Image Files | Online Free DevTools by Hexmos"
 name: pbmtox10bm
-path: /freedevtools/tldr/common/pbmtox10bm
+path: "/freedevtools/tldr/common/pbmtox10bm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtox10bm/"
 description: "Format image files with PBM to X10BM converter. Convert Portable Bitmap images to X10 Bitmap format for compatibility. Free online tool, no registration required."
 category: common

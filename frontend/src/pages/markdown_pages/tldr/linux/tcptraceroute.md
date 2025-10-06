@@ -1,7 +1,7 @@
 ---
 title: "Trace Route - Network Route Trace with tcptraceroute | Online Free DevTools by Hexmos"
 name: tcptraceroute
-path: /freedevtools/tldr/linux/tcptraceroute
+path: "/freedevtools/tldr/linux/tcptraceroute/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tcptraceroute/"
 description: "Trace network routes with tcptraceroute, a powerful TCP traceroute utility. Analyze network paths and diagnose connectivity issues. Free online tool, no registration required."
 category: linux

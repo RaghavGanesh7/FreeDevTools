@@ -1,7 +1,7 @@
 ---
 title: "Upscale Images - waifu2x-ncnn-vulkan | Online Free DevTools by Hexmos"
 name: waifu2x-ncnn-vulkan
-path: /freedevtools/tldr/common/waifu2x-ncnn-vulkan
+path: "/freedevtools/tldr/common/waifu2x-ncnn-vulkan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/waifu2x-ncnn-vulkan/"
 description: "Upscale images easily with waifu2x-ncnn-vulkan. Enhance image resolution using NCNN neural network framework. Free online tool, no registration required."
 category: common

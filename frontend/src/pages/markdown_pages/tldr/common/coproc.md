@@ -1,7 +1,7 @@
 ---
 title: "Coprocess - Create Subshells Asynchronously | Online Free DevTools by Hexmos"
 name: coproc
-path: /freedevtools/tldr/common/coproc
+path: "/freedevtools/tldr/common/coproc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/coproc/"
 description: "Create asynchronous subshells with Coproc in Bash. Manage concurrent processes and streamline background tasks. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Git Bug Reports - Debug System Information | Online Free DevTools by Hexmos"
 name: git-bugreport
-path: /freedevtools/tldr/git/git-bugreport
+path: "/freedevtools/tldr/git/git-bugreport/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-bugreport/"
 description: "Generate Git bug reports with git-bugreport. Captures debug information to simplify reporting issues. Free online tool, no registration required."
 category: common

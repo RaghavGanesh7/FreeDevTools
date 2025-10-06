@@ -1,7 +1,7 @@
 ---
 title: "Angular CLI - Generate Angular Apps | Online Free DevTools by Hexmos"
 name: ng
-path: /freedevtools/tldr/common/ng
+path: "/freedevtools/tldr/common/ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ng/"
 description: "Generate Angular applications with Angular CLI. Quickly scaffold components, classes, and directives. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Reduce Logical Volume Size - LVM Tool | Online Free DevTools by Hexmos"
 name: lvreduce
-path: /freedevtools/tldr/linux/lvreduce
+path: "/freedevtools/tldr/linux/lvreduce/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lvreduce/"
 description: "Reduce Logical Volume Size with LVM tool. Resize and manage logical volumes efficiently. Free online tool, no registration required."
 category: linux

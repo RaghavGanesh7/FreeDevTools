@@ -1,7 +1,7 @@
 ---
 title: "Edit Images - Edit Images with GIMP | Online Free DevTools by Hexmos"
 name: gimp
-path: /freedevtools/tldr/common/gimp
+path: "/freedevtools/tldr/common/gimp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gimp/"
 description: "Edit images with GIMP image editor. Open, manipulate and enhance your photos with powerful command-line options. Free online tool, no registration required."
 category: common

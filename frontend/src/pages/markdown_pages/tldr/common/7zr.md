@@ -1,7 +1,7 @@
 ---
 title: "Archive Files - Create 7zr Archives | Online Free DevTools by Hexmos"
 name: 7zr
-path: /freedevtools/tldr/common/7zr
+path: "/freedevtools/tldr/common/7zr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/7zr/"
 description: "Create 7z archives with 7zr, a high-compression file archiver. Compress files, encrypt archives, and extract content. Free online tool, no registration required."
 category: common

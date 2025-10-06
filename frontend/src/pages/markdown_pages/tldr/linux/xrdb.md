@@ -1,7 +1,7 @@
 ---
 title: "Xrdb Resource Database - Manage X Window System Settings | Online Free DevTools by Hexmos"
 name: xrdb
-path: /freedevtools/tldr/linux/xrdb
+path: "/freedevtools/tldr/linux/xrdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xrdb/"
 description: "Manage X Window System settings with xrdb. Load, query, and modify resource files for customized appearance and behavior. Free online tool, no registration required."
 category: linux

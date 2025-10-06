@@ -1,7 +1,7 @@
 ---
 title: "Generate Gemini AI Prompts - Interact with AI | Online Free DevTools by Hexmos"
 name: gemini
-path: /freedevtools/tldr/common/gemini
+path: "/freedevtools/tldr/common/gemini/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gemini/"
 description: "Generate AI prompts with Gemini. Interact with Google's AI models using the Gemini command-line tool. Free online tool, no registration required."
 category: common

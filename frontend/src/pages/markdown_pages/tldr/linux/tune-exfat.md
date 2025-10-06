@@ -1,7 +1,7 @@
 ---
 title: "Tune exFAT - Adjust exFAT Parameters | Online Free DevTools by Hexmos"
 name: tune.exfat
-path: /freedevtools/tldr/linux/tune-exfat
+path: "/freedevtools/tldr/linux/tune-exfat/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/tune-exfat/"
 description: "Adjust exFAT parameters with tune.exfat. Control volume labels and GUIDs on exFAT filesystems via the command line. Free online tool, no registration required."
 category: linux

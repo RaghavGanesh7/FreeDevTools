@@ -1,7 +1,7 @@
 ---
 title: "Git Help - Display Git Information | Online Free DevTools by Hexmos"
 name: git-help
-path: /freedevtools/tldr/git/git-help
+path: "/freedevtools/tldr/git/git-help/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-help/"
 description: "Display Git information with Git Help. Access Git subcommands, guides, and configurations. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Toolbox Create - Container Creation | Online Free DevTools by Hexmos"
 name: toolbox-create
-path: /freedevtools/tldr/linux/toolbox-create
+path: "/freedevtools/tldr/linux/toolbox-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox-create/"
 description: "Create toolbox containers easily with the toolbox create command. Manage distributions, releases, and custom images for seamless development. Free online tool, no registration required."
 category: linux

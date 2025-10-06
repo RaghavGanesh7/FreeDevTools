@@ -1,7 +1,7 @@
 ---
 title: "Control Atom Packages - Manage APM Packages | Online Free DevTools by Hexmos"
 name: apm
-path: /freedevtools/tldr/common/apm
+path: "/freedevtools/tldr/common/apm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/apm/"
 description: "Control Atom packages with APM Package Manager. Install, remove, and upgrade Atom packages and themes easily. Free online tool, no registration required."
 category: common

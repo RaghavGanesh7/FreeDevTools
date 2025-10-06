@@ -1,7 +1,7 @@
 ---
 title: "Redirect Input - Control Input Streams | Online Free DevTools by Hexmos"
 name: less-than
-path: /freedevtools/tldr/less/less-than
+path: "/freedevtools/tldr/less/less-than/"
 canonical: "https://hexmos.com/freedevtools/tldr/less/less-than/"
 description: "Control input streams with Redirect Input (<). Manipulate stdin with files, here documents, and here strings. Free online tool, no registration required."
 category: common

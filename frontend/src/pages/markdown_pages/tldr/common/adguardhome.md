@@ -1,7 +1,7 @@
 ---
 title: "Control AdGuardHome - Block Ads Network-Wide | Online Free DevTools by Hexmos"
 name: adguardhome
-path: /freedevtools/tldr/common/adguardhome
+path: "/freedevtools/tldr/common/adguardhome/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/adguardhome/"
 description: "Control ads network-wide with AdGuardHome. Block ads and tracking at the DNS level. Free online tool, no registration required."
 category: common

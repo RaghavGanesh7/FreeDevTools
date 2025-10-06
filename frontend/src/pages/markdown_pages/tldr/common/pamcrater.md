@@ -1,7 +1,7 @@
 ---
 title: "Create PAM Cratered Terrain - Image Generator | Online Free DevTools by Hexmos"
 name: pamcrater
-path: /freedevtools/tldr/common/pamcrater
+path: "/freedevtools/tldr/common/pamcrater/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamcrater/"
 description: "Generate PAM cratered terrain images with pamcrater. Control image dimensions and crater density effortlessly. Free online tool, no registration required."
 category: common

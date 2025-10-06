@@ -1,7 +1,7 @@
 ---
 title: "Troff - Format Documents with Groff | Online Free DevTools by Hexmos"
 name: troff
-path: /freedevtools/tldr/common/troff
+path: "/freedevtools/tldr/common/troff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/troff/"
 description: "Format documents instantly with Troff, the Groff typesetting processor. Convert text files into PostScript, PDF, or ASCII formats. Free online tool, no registration required."
 category: common

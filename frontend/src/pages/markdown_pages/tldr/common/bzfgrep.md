@@ -1,7 +1,7 @@
 ---
 title: "Bzfgrep Search - Find Strings in bzip2 Files | Online Free DevTools by Hexmos"
 name: bzfgrep
-path: /freedevtools/tldr/common/bzfgrep
+path: "/freedevtools/tldr/common/bzfgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bzfgrep/"
 description: "Find strings within bzip2 compressed files with Bzfgrep, quickly locating specific content. An efficient command-line search tool. Free online tool, no registration required."
 category: common

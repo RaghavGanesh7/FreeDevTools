@@ -1,7 +1,7 @@
 ---
 title: "Dune Build System - Build OCaml Projects | Online Free DevTools by Hexmos"
 name: dune
-path: /freedevtools/tldr/common/dune
+path: "/freedevtools/tldr/common/dune/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dune/"
 description: "Build OCaml projects with Dune build system. Efficiently manage dependencies and automate compilation. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Browse VNC - Explore SSH/VNC Servers | Online Free DevTools by Hexmos"
 name: bvnc
-path: /freedevtools/tldr/common/bvnc
+path: "/freedevtools/tldr/common/bvnc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bvnc/"
 description: "Browse SSH/VNC servers with bvnc, a powerful GUI tool for exploring servers on your network. Discover available servers quickly and easily. Free online tool, no registration required."
 category: common

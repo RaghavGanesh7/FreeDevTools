@@ -1,7 +1,7 @@
 ---
 title: "Create Python Virtual Environments - uv-venv | Online Free DevTools by Hexmos"
 name: uv-venv
-path: /freedevtools/tldr/uv/uv-venv
+path: "/freedevtools/tldr/uv/uv-venv/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-venv/"
 description: "Create isolated Python environments with uv-venv, a modern and fast virtual environment creator. Manage project dependencies and streamline development. Free online tool, no registration required."
 category: common

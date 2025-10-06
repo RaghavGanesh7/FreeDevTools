@@ -1,7 +1,7 @@
 ---
 title: "Find Bad Blocks - Scan Disks for Errors | Online Free DevTools by Hexmos"
 name: badblocks
-path: /freedevtools/tldr/common/badblocks
+path: "/freedevtools/tldr/common/badblocks/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/badblocks/"
 description: "Find disk errors with badblocks. Scan storage devices for bad blocks using read-only, read-write, or destructive write tests. Free online tool, no registration required."
 category: common

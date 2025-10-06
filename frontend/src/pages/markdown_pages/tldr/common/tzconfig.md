@@ -1,7 +1,7 @@
 ---
 title: "Timezone Config - Manage System Timezone | Online Free DevTools by Hexmos"
 name: tzconfig
-path: /freedevtools/tldr/common/tzconfig
+path: "/freedevtools/tldr/common/tzconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tzconfig/"
 description: "Manage system timezone with tzconfig, a simple and effective command-line tool. Configure and update your timezone settings effortlessly. Free online tool, no registration required."
 category: common

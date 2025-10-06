@@ -1,7 +1,7 @@
 ---
 title: "Manage SELinux Ports - Control Network Access with semanage-port | Online Free DevTools by Hexmos"
 name: semanage-port
-path: /freedevtools/tldr/linux/semanage-port
+path: "/freedevtools/tldr/linux/semanage-port/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/semanage-port/"
 description: "Control network access with semanage-port, a Linux command-line tool for managing SELinux port definitions. Add, delete, and list port rules easily. Free online tool, no registration required."
 category: linux

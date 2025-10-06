@@ -1,7 +1,7 @@
 ---
 title: "Manage Proxmox Storage - Control Datastores | Online Free DevTools by Hexmos"
 name: pvesm
-path: /freedevtools/tldr/linux/pvesm
+path: "/freedevtools/tldr/linux/pvesm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pvesm/"
 description: "Manage Proxmox storage with pvesm. Control datastores, list storage contents, and add or remove storage. Free online tool, no registration required."
 category: linux

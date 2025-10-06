@@ -1,7 +1,7 @@
 ---
 title: "Generate rustup Completions - Shell Scripts | Online Free DevTools by Hexmos"
 name: rustup-completions
-path: /freedevtools/tldr/rustup/rustup-completions
+path: "/freedevtools/tldr/rustup/rustup-completions/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-completions/"
 description: "Generate shell completions with rustup, providing enhanced command-line experience for rustup and cargo. Free online tool, no registration required."
 category: common

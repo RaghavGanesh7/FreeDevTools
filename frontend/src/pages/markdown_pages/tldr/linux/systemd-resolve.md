@@ -1,7 +1,7 @@
 ---
 title: "Resolve Domain Names - Query DNS with systemd-resolve | Online Free DevTools by Hexmos"
 name: systemd-resolve
-path: /freedevtools/tldr/linux/systemd-resolve
+path: "/freedevtools/tldr/linux/systemd-resolve/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-resolve/"
 description: "Resolve domain names with systemd-resolve. Query DNS records, IPv4, and IPv6 addresses. A simple alternative to dig and nslookup. Free online tool, no registration required."
 category: linux

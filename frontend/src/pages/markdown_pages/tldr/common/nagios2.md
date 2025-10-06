@@ -1,7 +1,7 @@
 ---
 title: "Control Nagios2 - Legacy Monitoring with Config Check | Online Free DevTools by Hexmos"
 name: nagios2
-path: /freedevtools/tldr/common/nagios2
+path: "/freedevtools/tldr/common/nagios2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nagios2/"
 description: "Control Nagios2 monitoring service with this tool. Verify configurations and manage legacy networking. Free online tool, no registration required."
 category: common

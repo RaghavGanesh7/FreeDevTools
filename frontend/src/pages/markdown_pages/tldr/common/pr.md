@@ -1,7 +1,7 @@
 ---
 title: "Print Formatter - Format Files for Printing | Online Free DevTools by Hexmos"
 name: pr
-path: /freedevtools/tldr/common/pr
+path: "/freedevtools/tldr/common/pr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pr/"
 description: "Format files with Print Formatter (pr) for printing. Control layout, add headers/footers, and paginate documents using the command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create Distributed Compiler - Distccd Server | Online Free DevTools by Hexmos"
 name: distccd
-path: /freedevtools/tldr/common/distccd
+path: "/freedevtools/tldr/common/distccd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/distccd/"
 description: "Create distributed compiler environments with Distccd server daemon. Accelerate compilation times using network resources. Free online tool, no registration required."
 category: common

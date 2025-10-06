@@ -1,7 +1,7 @@
 ---
 title: "Manage Azure Redis - Control Caches | Online Free DevTools by Hexmos"
 name: az-redis
-path: /freedevtools/tldr/az/az-redis
+path: "/freedevtools/tldr/az/az-redis/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-redis/"
 description: "Manage Azure Redis caches with AZ Redis. Control, create, update, export and delete Redis instances. Free online tool, no registration required."
 category: common

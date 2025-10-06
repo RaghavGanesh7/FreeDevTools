@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Wait - Control Resource States | Online Free DevTools by Hexmos"
 name: kubectl-wait
-path: /freedevtools/tldr/kubectl/kubectl-wait
+path: "/freedevtools/tldr/kubectl/kubectl-wait/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-wait/"
 description: "Control Kubernetes resource states with Kubectl Wait. Monitor deployment readiness, pod availability, and job completion efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate PHP Coverage Reports with php-coveralls | Online Free DevTools by Hexmos"
 name: php-coveralls
-path: /freedevtools/tldr/php/php-coveralls
+path: "/freedevtools/tldr/php/php-coveralls/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/php-coveralls/"
 description: "Generate PHP coverage reports effortlessly with php-coveralls. Analyze code coverage for improved software quality with this free online tool, no registration required."
 category: common

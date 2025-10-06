@@ -1,7 +1,7 @@
 ---
 title: "Boltctl - Control Thunderbolt Devices | Online Free DevTools by Hexmos"
 name: boltctl
-path: /freedevtools/tldr/linux/boltctl
+path: "/freedevtools/tldr/linux/boltctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/boltctl/"
 description: "Control Thunderbolt devices easily with Boltctl. Authorize, enroll, and manage your thunderbolt connections efficiently on Linux. Free online tool, no registration required."
 category: linux

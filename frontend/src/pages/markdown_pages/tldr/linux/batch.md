@@ -1,7 +1,7 @@
 ---
 title: "Batch Scheduler - Execute Commands Later | Online Free DevTools by Hexmos"
 name: batch
-path: /freedevtools/tldr/linux/batch
+path: "/freedevtools/tldr/linux/batch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/batch/"
 description: "Schedule commands with Batch, executing them when system load is low. Automate tasks and manage system resources efficiently. Free online tool, no registration required."
 category: linux

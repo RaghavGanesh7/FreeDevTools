@@ -1,7 +1,7 @@
 ---
 title: "SBCL Compiler - Compile Lisp Code | Online Free DevTools by Hexmos"
 name: sbcl
-path: /freedevtools/tldr/common/sbcl
+path: "/freedevtools/tldr/common/sbcl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sbcl/"
 description: "Compile Lisp code with SBCL Compiler. Optimize performance and execute Lisp scripts efficiently using the command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pipe Command - Connect Programs with Vertical Bar | Online Free DevTools by Hexmos"
 name: vertical-bar
-path: /freedevtools/tldr/common/vertical-bar
+path: "/freedevtools/tldr/common/vertical-bar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vertical-bar/"
 description: "Connect programs with the Pipe Command. Chain commands together, redirecting output and error streams. Free online tool, no registration required."
 category: common

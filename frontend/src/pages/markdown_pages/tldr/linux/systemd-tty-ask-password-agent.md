@@ -1,7 +1,7 @@
 ---
 title: "Password Agent - Process System Password Requests | Online Free DevTools by Hexmos"
 name: systemd-tty-ask-password-agent
-path: /freedevtools/tldr/linux/systemd-tty-ask-password-agent
+path: "/freedevtools/tldr/linux/systemd-tty-ask-password-agent/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-tty-ask-password-agent/"
 description: "Process system passwords with systemd-tty-ask-password-agent. List, query, and forward password requests to manage system authentication efficiently. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Create PipeWire Loopback - Audio Routing | Online Free DevTools by Hexmos"
 name: pw-loopback
-path: /freedevtools/tldr/linux/pw-loopback
+path: "/freedevtools/tldr/linux/pw-loopback/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-loopback/"
 description: "Create audio loopback devices with pw-loopback for advanced PipeWire audio routing. Manage input/output streams and connect virtual audio devices. Free online tool, no registration required."
 category: linux

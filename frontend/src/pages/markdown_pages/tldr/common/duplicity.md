@@ -1,7 +1,7 @@
 ---
 title: "Create Backups with Duplicity - Encrypted & Versioned | Online Free DevTools by Hexmos"
 name: duplicity
-path: "/freedevtools/tldr/common/duplicity"
+path: "/freedevtools/tldr/common/duplicity/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/duplicity/"
 description: "Create encrypted backups with Duplicity. Securely archive data, manage versions, and restore files with this powerful backup solution. Free online tool, no registration required."
 category: common

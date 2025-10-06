@@ -1,7 +1,7 @@
 ---
 title: "Control Text Expansion - Automate Text with Espanso | Online Free DevTools by Hexmos"
 name: espanso
-path: /freedevtools/tldr/common/espanso
+path: "/freedevtools/tldr/common/espanso/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/espanso/"
 description: "Control text expansion with Espanso, the powerful Rust-based text expander. Automate typing, insert boilerplate text, and manage snippets efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "GDAL DEM - Analyze Elevation Models | Online Free DevTools by Hexmos"
 name: gdaldem
-path: /freedevtools/tldr/common/gdaldem
+path: "/freedevtools/tldr/common/gdaldem/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdaldem/"
 description: "Analyze digital elevation models with GDAL DEM. Generate hillshades, slopes, and aspects from raster data. Free online tool, no registration required."
 category: common

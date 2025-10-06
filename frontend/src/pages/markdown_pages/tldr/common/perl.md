@@ -1,7 +1,7 @@
 ---
 title: "Perl Script Interpreter - Run Perl Scripts | Online Free DevTools by Hexmos"
 name: perl
-path: /freedevtools/tldr/common/perl
+path: "/freedevtools/tldr/common/perl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/perl/"
 description: "Run Perl scripts instantly with the Perl Script Interpreter. Execute commands, filter text, and manipulate files using the Perl language. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Knotc - Control Knot DNS Server Configuration | Online Free DevTools by Hexmos"
 name: knotc
-path: /freedevtools/tldr/common/knotc
+path: "/freedevtools/tldr/common/knotc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/knotc/"
 description: "Control Knot DNS server configuration with Knotc. Manage zones, set DNS records, and read server configurations effortlessly. Free online tool, no registration required."
 category: common

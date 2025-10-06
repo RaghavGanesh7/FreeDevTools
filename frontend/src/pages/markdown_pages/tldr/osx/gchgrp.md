@@ -1,7 +1,7 @@
 ---
 title: "Control Group Ownership - gchgrp Command | Online Free DevTools by Hexmos"
 name: gchgrp
-path: /freedevtools/tldr/osx/gchgrp
+path: "/freedevtools/tldr/osx/gchgrp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gchgrp/"
 description: "Control group ownership with gchgrp, an alias for GNU chgrp. Manage file permissions and user access with this command. Free online tool, no registration required."
 category: osx

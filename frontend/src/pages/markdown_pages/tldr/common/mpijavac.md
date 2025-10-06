@@ -1,7 +1,7 @@
 ---
 title: "Compile Java with mpijavac - MPI Compiler | Online Free DevTools by Hexmos"
 name: mpijavac
-path: /freedevtools/tldr/common/mpijavac
+path: "/freedevtools/tldr/common/mpijavac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpijavac/"
 description: "Compile Java MPI applications with mpijavac. Streamline parallel computing development by using this compiler wrapper for Open MPI. Free online tool, no registration required."
 category: common

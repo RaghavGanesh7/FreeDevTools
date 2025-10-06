@@ -1,7 +1,7 @@
 ---
 title: "Scan Networks - Control Network Scans with Zmap | Online Free DevTools by Hexmos"
 name: zmap
-path: /freedevtools/tldr/common/zmap
+path: "/freedevtools/tldr/common/zmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zmap/"
 description: "Control network scans instantly with Zmap. Perform fast, Internet-wide network surveys and analyze network infrastructure. Free online tool, no registration required."
 category: common

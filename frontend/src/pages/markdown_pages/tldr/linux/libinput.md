@@ -1,7 +1,7 @@
 ---
 title: "Libinput - Interface with Input Devices | Online Free DevTools by Hexmos"
 name: libinput
-path: /freedevtools/tldr/linux/libinput
+path: "/freedevtools/tldr/linux/libinput/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/libinput/"
 description: "Interface with input devices using Libinput. Debug device events, visualize interactions, and manage tablet axis values with this powerful Linux command-line tool. Free online tool, no registration required."
 category: linux

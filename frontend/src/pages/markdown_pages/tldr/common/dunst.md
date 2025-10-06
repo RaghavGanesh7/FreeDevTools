@@ -1,7 +1,7 @@
 ---
 title: "Control Dunst Notifications - Customize X11/Wayland | Online Free DevTools by Hexmos"
 name: dunst
-path: /freedevtools/tldr/common/dunst
+path: "/freedevtools/tldr/common/dunst/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dunst/"
 description: "Control X11/Wayland notifications easily with Dunst. Configure notification appearance, behavior, and filtering. Free online tool, no registration required."
 category: common

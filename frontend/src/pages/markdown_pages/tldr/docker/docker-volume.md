@@ -1,7 +1,7 @@
 ---
 title: "Docker Volume - Manage Data Volumes | Online Free DevTools by Hexmos"
 name: docker-volume
-path: /freedevtools/tldr/docker/docker-volume
+path: "/freedevtools/tldr/docker/docker-volume/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-volume/"
 description: "Manage Docker data volumes with Docker Volume. Create, list, remove, and inspect volumes efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Tarsnap Key - Secure Backup Keygen | Online Free DevTools by Hexmos"
 name: tarsnap-keygen
-path: /freedevtools/tldr/common/tarsnap-keygen
+path: "/freedevtools/tldr/common/tarsnap-keygen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tarsnap-keygen/"
 description: "Generate Tarsnap keys with tarsnap-keygen. Secure your online backups and register machines for Tarsnap cloud storage services. Free online tool, no registration required."
 category: common

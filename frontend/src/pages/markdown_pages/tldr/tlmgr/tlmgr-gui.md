@@ -1,7 +1,7 @@
 ---
 title: "TLMGR GUI - Control TeX Live Manager Graphically | Online Free DevTools by Hexmos"
 name: tlmgr-gui
-path: /freedevtools/tldr/tlmgr/tlmgr-gui
+path: "/freedevtools/tldr/tlmgr/tlmgr-gui/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-gui/"
 description: "Control TeX Live Manager graphically with TLMGR GUI. Configure TeX packages and settings using an intuitive interface. Free online tool, no registration required."
 category: common

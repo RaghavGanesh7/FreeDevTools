@@ -1,7 +1,7 @@
 ---
 title: "List Symbols - Inspect Object Files with nm | Online Free DevTools by Hexmos"
 name: nm
-path: /freedevtools/tldr/common/nm
+path: "/freedevtools/tldr/common/nm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nm/"
 description: "List symbols quickly with nm. Inspect object files, identify undefined symbols, and demangle C++ names with this free online tool, no registration required."
 category: common

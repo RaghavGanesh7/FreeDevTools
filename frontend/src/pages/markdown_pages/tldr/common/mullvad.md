@@ -1,7 +1,7 @@
 ---
 title: "Mullvad VPN - Control Privacy with CLI | Online Free DevTools by Hexmos"
 name: mullvad
-path: /freedevtools/tldr/common/mullvad
+path: "/freedevtools/tldr/common/mullvad/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mullvad/"
 description: "Control online privacy with Mullvad VPN CLI. Secure your connection, manage account, and configure server locations. Free online tool, no registration required."
 category: common

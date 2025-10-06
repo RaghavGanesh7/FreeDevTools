@@ -1,7 +1,7 @@
 ---
 title: "Service Control - Manage Windows Services | Online Free DevTools by Hexmos"
 name: sc
-path: /freedevtools/tldr/windows/sc
+path: "/freedevtools/tldr/windows/sc/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sc/"
 description: "Manage Windows services with Service Control (sc). Start, stop, configure, and query services directly from the command line. Free online tool, no registration required."
 category: windows

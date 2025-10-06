@@ -1,7 +1,7 @@
 ---
 title: "PHP Artisan - Control Laravel Applications | Online Free DevTools by Hexmos"
 name: php-artisan
-path: /freedevtools/tldr/php/php-artisan
+path: "/freedevtools/tldr/php/php-artisan/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/php-artisan/"
 description: "Control Laravel applications with PHP Artisan. Manage migrations, generate models, and serve your application. Free online tool, no registration required."
 category: common

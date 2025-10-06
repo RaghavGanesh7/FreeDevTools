@@ -1,7 +1,7 @@
 ---
 title: "Jira - Control Project Issues | Online Free DevTools by Hexmos"
 name: jira
-path: /freedevtools/tldr/common/jira
+path: "/freedevtools/tldr/common/jira/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jira/"
 description: "Control Jira project issues efficiently with Jira command-line interface. Manage issues, sprints, and projects from your terminal. Free online tool, no registration required."
 category: common

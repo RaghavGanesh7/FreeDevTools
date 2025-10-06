@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - bzip2 Block-Sorting Compression | Online Free DevTools by Hexmos"
 name: bzip2
-path: /freedevtools/tldr/common/bzip2
+path: "/freedevtools/tldr/common/bzip2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bzip2/"
 description: "Compress files efficiently with bzip2, a block-sorting compression tool. Reduce file sizes and improve storage utilization with this powerful command-line utility. Free online tool, no registration required."
 category: common

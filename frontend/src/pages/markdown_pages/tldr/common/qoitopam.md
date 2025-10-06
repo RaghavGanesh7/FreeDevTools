@@ -1,7 +1,7 @@
 ---
 title: "Convert QOI to PNM - Image Format Conversion | Online Free DevTools by Hexmos"
 name: qoitopam
-path: /freedevtools/tldr/common/qoitopam
+path: "/freedevtools/tldr/common/qoitopam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qoitopam/"
 description: "Convert QOI images to PNM format with Qoitopam. Ensure compatibility across platforms. Free online tool, no registration required."
 category: common

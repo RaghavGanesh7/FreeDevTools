@@ -1,7 +1,7 @@
 ---
 title: "Control App State - lsappinfo Tool on macOS | Online Free DevTools by Hexmos"
 name: lsappinfo
-path: "/freedevtools/tldr/osx/lsappinfo"
+path: "/freedevtools/tldr/osx/lsappinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/lsappinfo/"
 description: "Control app state on macOS with lsappinfo. Query application details, list running apps, and show front application information. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Bluetooth Network Control - Manage macOS Connections | Online Free DevTools by Hexmos"
 name: bnepd
-path: /freedevtools/tldr/osx/bnepd
+path: "/freedevtools/tldr/osx/bnepd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/bnepd/"
 description: "Control Bluetooth network connections with bnepd. Manage connections, start the daemon, and troubleshoot issues on macOS. Free online tool, no registration required."
 category: osx

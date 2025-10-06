@@ -1,7 +1,7 @@
 ---
 title: "Manage Multicast Addresses with ip maddress | Online Free DevTools by Hexmos"
 name: ip-maddress
-path: /freedevtools/tldr/linux/ip-maddress
+path: "/freedevtools/tldr/linux/ip-maddress/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ip-maddress/"
 description: "Manage multicast addresses using the ip maddress command.  View subscribed programs, join and leave multicast groups, and manage network interfaces. Free online tool, no registration required."
 category: linux

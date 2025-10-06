@@ -1,7 +1,7 @@
 ---
 title: "Directory View - List Directories with gvdir | Online Free DevTools by Hexmos"
 name: gvdir
-path: /freedevtools/tldr/osx/gvdir
+path: "/freedevtools/tldr/osx/gvdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gvdir/"
 description: "List directory contents with gvdir, a command-line directory viewer for macOS. Quickly view detailed file information and organize files. Free online tool, no registration required."
 category: osx

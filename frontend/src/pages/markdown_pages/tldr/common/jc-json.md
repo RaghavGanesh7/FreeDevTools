@@ -1,7 +1,7 @@
 ---
 title: "Convert to JSON - Format Command Output | Online Free DevTools by Hexmos"
 name: jc.json
-path: /freedevtools/tldr/common/jc-json
+path: "/freedevtools/tldr/common/jc-json/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/jc-json/"
 description: "Format command output with jc, converting to JSON for easy parsing and integration. Get structured data from any command line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "IPMI Control - Manage Servers with ipmitool | Online Free DevTools by Hexmos"
 name: ipmitool
-path: /freedevtools/tldr/linux/ipmitool
+path: "/freedevtools/tldr/linux/ipmitool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ipmitool/"
 description: "Control server hardware remotely with ipmitool.  Manage IPMI, access the shell, and monitor system health. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Decompress JPEG XL - Convert JXL Images | Online Free DevTools by Hexmos"
 name: djxl
-path: /freedevtools/tldr/common/djxl
+path: "/freedevtools/tldr/common/djxl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/djxl/"
 description: "Decompress JPEG XL files with djxl. Easily convert JXL images to PNG, JPEG, and more. Free online tool, no registration required."
 category: common

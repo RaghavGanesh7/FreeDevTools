@@ -1,7 +1,7 @@
 ---
 title: "Pulumi State - Edit Stack State | Online Free DevTools by Hexmos"
 name: pulumi-state
-path: /freedevtools/tldr/pulumi/pulumi-state
+path: "/freedevtools/tldr/pulumi/pulumi-state/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-state/"
 description: "Edit your Pulumi stack's state with Pulumi State. Move resources, repair invalid states, and manage deployments. Free online tool, no registration required."
 category: common

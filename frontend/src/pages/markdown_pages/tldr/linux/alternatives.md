@@ -1,7 +1,7 @@
 ---
 title: "Alternatives - Manage System Commands on Linux | Online Free DevTools by Hexmos"
 name: alternatives
-path: /freedevtools/tldr/linux/alternatives
+path: "/freedevtools/tldr/linux/alternatives/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/alternatives/"
 description: "Manage system command alternatives with Alternatives. Configure default commands, update symlinks, and resolve conflicts easily. Free online tool, no registration required."
 category: linux

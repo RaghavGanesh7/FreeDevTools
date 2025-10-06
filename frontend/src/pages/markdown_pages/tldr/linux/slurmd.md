@@ -1,7 +1,7 @@
 ---
 title: "Slurmd Control - Manage Slurm Compute Nodes | Online Free DevTools by Hexmos"
 name: slurmd
-path: /freedevtools/tldr/linux/slurmd
+path: "/freedevtools/tldr/linux/slurmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slurmd/"
 description: "Control Slurm compute node tasks with Slurmd. Monitor, launch, and manage tasks on your Slurm cluster. Free online tool, no registration required."
 category: linux

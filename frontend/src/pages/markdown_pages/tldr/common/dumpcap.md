@@ -1,7 +1,7 @@
 ---
 title: "Capture Network Packets - Dumpcap Tool | Online Free DevTools by Hexmos"
 name: dumpcap
-path: /freedevtools/tldr/common/dumpcap
+path: "/freedevtools/tldr/common/dumpcap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dumpcap/"
 description: "Capture network packets efficiently with Dumpcap. Analyze network traffic and diagnose issues using this command-line tool. Free online tool, no registration required."
 category: common

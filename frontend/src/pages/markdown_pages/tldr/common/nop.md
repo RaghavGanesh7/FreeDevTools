@@ -1,7 +1,7 @@
 ---
 title: "Validate Graph - Format Graphviz Files | Online Free DevTools by Hexmos"
 name: nop
-path: /freedevtools/tldr/common/nop
+path: "/freedevtools/tldr/common/nop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nop/"
 description: "Validate graphs with nop, a Graphviz file formatter. Checks syntax, pretty-prints, and ensures canonical format. Free online tool, no registration required."
 category: common

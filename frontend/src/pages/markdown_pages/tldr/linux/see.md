@@ -1,7 +1,7 @@
 ---
 title: "See File Viewer - Display Files with Linux | Online Free DevTools by Hexmos"
 name: see
-path: /freedevtools/tldr/linux/see
+path: "/freedevtools/tldr/linux/see/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/see/"
 description: "Display files instantly with See File Viewer. View images and documents using the default mailcap viewer in Linux. Free online tool, no registration required."
 category: linux

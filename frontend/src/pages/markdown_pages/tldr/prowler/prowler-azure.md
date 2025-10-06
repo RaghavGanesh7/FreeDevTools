@@ -1,7 +1,7 @@
 ---
 title: "Azure Security Audit - Generate Prowler Reports | Online Free DevTools by Hexmos"
 name: prowler-azure
-path: /freedevtools/tldr/prowler/prowler-azure
+path: "/freedevtools/tldr/prowler/prowler-azure/"
 canonical: "https://hexmos.com/freedevtools/tldr/prowler/prowler-azure/"
 description: "Audit Azure security with Prowler Azure. Generate compliance reports and identify vulnerabilities in your Azure environment. Free online tool, no registration required."
 category: common

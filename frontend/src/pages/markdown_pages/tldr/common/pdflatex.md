@@ -1,7 +1,7 @@
 ---
 title: "Generate PDF from LaTeX - Compile Documents | Online Free DevTools by Hexmos"
 name: pdflatex
-path: /freedevtools/tldr/common/pdflatex
+path: "/freedevtools/tldr/common/pdflatex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdflatex/"
 description: "Generate PDF documents easily with pdflatex. Quickly compile LaTeX source files into PDFs using command-line options. Free online tool, no registration required."
 category: common

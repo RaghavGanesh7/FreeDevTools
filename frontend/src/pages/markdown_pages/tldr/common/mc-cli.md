@@ -1,7 +1,7 @@
 ---
 title: "Control Object Storage - MinIO Client (mc) | Online Free DevTools by Hexmos"
 name: mc.cli
-path: /freedevtools/tldr/common/mc-cli
+path: "/freedevtools/tldr/common/mc-cli/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/mc-cli/"
 description: "Control object storage with MinIO Client (mc). Manage S3 buckets, configure access, and list content recursively. Free online tool, no registration required."
 category: common

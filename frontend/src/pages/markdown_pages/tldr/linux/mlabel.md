@@ -1,7 +1,7 @@
 ---
 title: "Format FAT Label - Set Volume Label | Online Free DevTools by Hexmos"
 name: mlabel
-path: /freedevtools/tldr/linux/mlabel
+path: "/freedevtools/tldr/linux/mlabel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mlabel/"
 description: "Format FAT label with mlabel to set MS-DOS volume labels on FAT and VFAT filesystems on Linux. Free online tool, no registration required."
 category: linux

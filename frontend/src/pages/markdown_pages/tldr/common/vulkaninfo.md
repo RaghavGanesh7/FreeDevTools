@@ -1,7 +1,7 @@
 ---
 title: "Vulkan Info - Print System Information | Online Free DevTools by Hexmos"
 name: vulkaninfo
-path: /freedevtools/tldr/common/vulkaninfo
+path: "/freedevtools/tldr/common/vulkaninfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vulkaninfo/"
 description: "Print system Vulkan information with Vulkan Info. Retrieve detailed graphics card details and driver information. Free online tool, no registration required."
 category: common

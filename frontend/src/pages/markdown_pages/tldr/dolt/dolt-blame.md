@@ -1,7 +1,7 @@
 ---
 title: "Dolt Blame - Track Row Changes | Online Free DevTools by Hexmos"
 name: dolt-blame
-path: /freedevtools/tldr/dolt/dolt-blame
+path: "/freedevtools/tldr/dolt/dolt-blame/"
 canonical: "https://hexmos.com/freedevtools/tldr/dolt/dolt-blame/"
 description: "Track row changes with Dolt Blame. Investigate data lineage and audit trails in Dolt databases, identifying commit information for each row. Free online tool, no registration required."
 category: common

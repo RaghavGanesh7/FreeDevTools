@@ -1,7 +1,7 @@
 ---
 title: "Vipe Editor - Control Pipeline Input | Online Free DevTools by Hexmos"
 name: vipe
-path: /freedevtools/tldr/common/vipe
+path: "/freedevtools/tldr/common/vipe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vipe/"
 description: "Control pipeline input with Vipe. Edit text streams mid-pipeline using your preferred text editor. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Zellij - Manage Terminal Sessions | Online Free DevTools by Hexmos"
 name: zellij
-path: "/freedevtools/tldr/common/zellij"
+path: "/freedevtools/tldr/common/zellij/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zellij/"
 description: "Manage terminal sessions with Zellij, a terminal multiplexer. Organize windows and panes efficiently with this command-line tool. Free online tool, no registration required."
 category: common

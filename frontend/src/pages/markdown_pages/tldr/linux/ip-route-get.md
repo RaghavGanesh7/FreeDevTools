@@ -1,7 +1,7 @@
 ---
 title: "Get IP Route - Find Network Routes on Linux | Online Free DevTools by Hexmos"
 name: ip-route-get
-path: /freedevtools/tldr/linux/ip-route-get
+path: "/freedevtools/tldr/linux/ip-route-get/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ip-route-get/"
 description: "Find IP routes with the ip route get command on Linux. Retrieve network route information and troubleshoot network connectivity issues. Free online tool, no registration required."
 category: linux

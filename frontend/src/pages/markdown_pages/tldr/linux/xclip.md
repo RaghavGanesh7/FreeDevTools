@@ -1,7 +1,7 @@
 ---
 title: "Control Xclip Clipboard - Linux Data Transfer | Online Free DevTools by Hexmos"
 name: xclip
-path: /freedevtools/tldr/linux/xclip
+path: "/freedevtools/tldr/linux/xclip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xclip/"
 description: "Control clipboard data with Xclip, a versatile Linux command-line tool. Transfer data between applications efficiently. Free online tool, no registration required."
 category: linux

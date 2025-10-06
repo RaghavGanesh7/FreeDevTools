@@ -1,7 +1,7 @@
 ---
 title: "Systemd systemctl - Stop Services | Online Free DevTools by Hexmos"
 name: systemctl-stop
-path: /freedevtools/tldr/linux/systemctl-stop
+path: "/freedevtools/tldr/linux/systemctl-stop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-stop/"
 description: "Stop systemd services efficiently with systemctl. Manage units, suppress warnings, and control user units with this command-line tool. Free online tool, no registration required."
 category: linux

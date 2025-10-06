@@ -1,7 +1,7 @@
 ---
 title: "Mongoimport - Import Data to MongoDB | Online Free DevTools by Hexmos"
 name: mongoimport
-path: /freedevtools/tldr/mongo/mongoimport
+path: "/freedevtools/tldr/mongo/mongoimport/"
 canonical: "https://hexmos.com/freedevtools/tldr/mongo/mongoimport/"
 description: "Import data to MongoDB with Mongoimport. Convert JSON, CSV, and TSV files into MongoDB collections using command-line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Route53 DNS - CLI53 Command | Online Free DevTools by Hexmos"
 name: cli53
-path: /freedevtools/tldr/common/cli53
+path: "/freedevtools/tldr/common/cli53/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cli53/"
 description: "Control Route53 DNS zones with CLI53. Easily manage DNS records, create domains, and export zone files. Free online tool, no registration required."
 category: common

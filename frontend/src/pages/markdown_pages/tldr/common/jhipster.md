@@ -1,7 +1,7 @@
 ---
 title: "JHipster Generator - Create Web Apps | Online Free DevTools by Hexmos"
 name: jhipster
-path: /freedevtools/tldr/common/jhipster
+path: "/freedevtools/tldr/common/jhipster/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jhipster/"
 description: "Generate web applications with JHipster. Quickly create full-stack applications and microservices architectures. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Hardware Database - Manage Hardware with systemd-hwdb | Online Free DevTools by Hexmos"
 name: systemd-hwdb
-path: /freedevtools/tldr/linux/systemd-hwdb
+path: "/freedevtools/tldr/linux/systemd-hwdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-hwdb/"
 description: "Manage hardware data with systemd-hwdb on Linux. Update udev hardware database and query device information efficiently. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Check Git Mailmap - Show Canonical Names | Online Free DevTools by Hexmos"
 name: git-check-mailmap
-path: /freedevtools/tldr/git/git-check-mailmap
+path: "/freedevtools/tldr/git/git-check-mailmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-check-mailmap/"
 description: "Check Git Mailmap for canonical names with this command-line tool. Resolve email addresses to names. Free online tool, no registration required."
 category: common

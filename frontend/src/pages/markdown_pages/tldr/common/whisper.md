@@ -1,7 +1,7 @@
 ---
 title: "Convert Audio to Text - Whisper | Online Free DevTools by Hexmos"
 name: whisper
-path: /freedevtools/tldr/common/whisper
+path: "/freedevtools/tldr/common/whisper/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/whisper/"
 description: "Convert audio to text with Whisper. Transcribe audio files to various formats like txt, srt, and json using this powerful command-line tool. Free online tool, no registration required."
 category: common

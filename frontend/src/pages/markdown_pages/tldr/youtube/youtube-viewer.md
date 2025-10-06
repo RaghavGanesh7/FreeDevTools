@@ -1,7 +1,7 @@
 ---
 title: "Youtube-viewer - Search and Play YouTube Videos | Online Free DevTools by Hexmos"
 name: youtube-viewer
-path: /freedevtools/tldr/youtube/youtube-viewer
+path: "/freedevtools/tldr/youtube/youtube-viewer/"
 canonical: "https://hexmos.com/freedevtools/tldr/youtube/youtube-viewer/"
 description: "Search YouTube videos easily with youtube-viewer. Stream content, log in to your account, and specify playback quality. Free online tool, no registration required."
 category: common

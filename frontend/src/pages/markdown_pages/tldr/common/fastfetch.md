@@ -1,7 +1,7 @@
 ---
 title: "Fastfetch - Display System Information | Online Free DevTools by Hexmos"
 name: fastfetch
-path: /freedevtools/tldr/common/fastfetch
+path: "/freedevtools/tldr/common/fastfetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fastfetch/"
 description: "Display system information quickly with Fastfetch. Analyze operating system, software, and hardware details. Free online tool, no registration required."
 category: common

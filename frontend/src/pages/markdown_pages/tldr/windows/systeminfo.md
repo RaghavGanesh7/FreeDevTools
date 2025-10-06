@@ -1,7 +1,7 @@
 ---
 title: "Systeminfo - Display System Information | Online Free DevTools by Hexmos"
 name: systeminfo
-path: /freedevtools/tldr/windows/systeminfo
+path: "/freedevtools/tldr/windows/systeminfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/systeminfo/"
 description: "Display system information easily with Systeminfo. Analyze Windows configuration and troubleshoot issues. Get detailed OS insights with this free online tool, no registration required."
 category: windows

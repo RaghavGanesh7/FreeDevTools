@@ -1,7 +1,7 @@
 ---
 title: "Glibtool - Manage Libraries | Online Free DevTools by Hexmos"
 name: glibtool
-path: /freedevtools/tldr/osx/glibtool
+path: "/freedevtools/tldr/osx/glibtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/glibtool/"
 description: "Manage software libraries with Glibtool. Compile, link, and install libraries on macOS. Free online tool, no registration required."
 category: osx

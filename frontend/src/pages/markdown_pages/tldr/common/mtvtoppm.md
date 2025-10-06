@@ -1,7 +1,7 @@
 ---
 title: "Convert MTV to PPM - Format Ray Tracer Files | Online Free DevTools by Hexmos"
 name: mtvtoppm
-path: /freedevtools/tldr/common/mtvtoppm
+path: "/freedevtools/tldr/common/mtvtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mtvtoppm/"
 description: "Convert MTV to PPM formats with Mtvtoppm. Transform ray tracer MTV files into PPM images effortlessly. Free online tool, no registration required."
 category: common

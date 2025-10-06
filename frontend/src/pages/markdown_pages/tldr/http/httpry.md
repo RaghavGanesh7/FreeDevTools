@@ -1,7 +1,7 @@
 ---
 title: "Capture HTTP Traffic - Analyze Network Packets | Online Free DevTools by Hexmos"
 name: httpry
-path: /freedevtools/tldr/http/httpry
+path: "/freedevtools/tldr/http/httpry/"
 canonical: "https://hexmos.com/freedevtools/tldr/http/httpry/"
 description: "Capture HTTP traffic with httpry, a lightweight packet sniffer for analyzing network traffic. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Mac App Store - Manage Apps with mas CLI | Online Free DevTools by Hexmos"
 name: mas
-path: /freedevtools/tldr/osx/mas
+path: "/freedevtools/tldr/osx/mas/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mas/"
 description: "Manage Mac App Store apps with mas CLI. Install, update, search and list applications directly from the command line. Free online tool, no registration required."
 category: osx

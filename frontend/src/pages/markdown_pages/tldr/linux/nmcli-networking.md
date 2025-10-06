@@ -1,7 +1,7 @@
 ---
 title: "Control nmcli Networking - Manage NetworkManager | Online Free DevTools by Hexmos"
 name: nmcli-networking
-path: /freedevtools/tldr/linux/nmcli-networking
+path: "/freedevtools/tldr/linux/nmcli-networking/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmcli-networking/"
 description: "Control nmcli networking with this tool. Enable, disable and check the connectivity of NetworkManager managed interfaces. Free online tool, no registration required."
 category: linux

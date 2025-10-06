@@ -1,7 +1,7 @@
 ---
 title: "Generate Network Graph - Force Directed Layout | Online Free DevTools by Hexmos"
 name: fdp
-path: /freedevtools/tldr/common/fdp
+path: "/freedevtools/tldr/common/fdp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fdp/"
 description: "Generate network graph images with FDP, a force-directed layout tool. Visualize complex data structures and relationships using graphviz files. Free online tool, no registration required."
 category: common

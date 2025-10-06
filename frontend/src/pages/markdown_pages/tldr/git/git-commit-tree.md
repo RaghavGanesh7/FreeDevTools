@@ -1,7 +1,7 @@
 ---
 title: "Create Git Commit - Build Objects Easily | Online Free DevTools by Hexmos"
 name: git-commit-tree
-path: /freedevtools/tldr/git/git-commit-tree
+path: "/freedevtools/tldr/git/git-commit-tree/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-commit-tree/"
 description: "Create Git commit objects with git-commit-tree, a low-level utility. Specify parents, messages, and sign commits. Free online tool, no registration required."
 category: common

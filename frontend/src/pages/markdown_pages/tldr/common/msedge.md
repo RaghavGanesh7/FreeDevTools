@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Edge - Control Browser via Command Line | Online Free DevTools by Hexmos"
 name: msedge
-path: /freedevtools/tldr/common/msedge
+path: "/freedevtools/tldr/common/msedge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msedge/"
 description: "Control Microsoft Edge browser instances using the command line with msedge. Manage profiles, launch URLs, and automate browser tasks. Free online tool, no registration required."
 category: common

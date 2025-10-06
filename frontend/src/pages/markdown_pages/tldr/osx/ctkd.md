@@ -1,7 +1,7 @@
 ---
 title: "SmartCard Daemon - Control SmartCard Access | Online Free DevTools by Hexmos"
 name: ctkd
-path: /freedevtools/tldr/osx/ctkd
+path: "/freedevtools/tldr/osx/ctkd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ctkd/"
 description: "Control SmartCard access with ctkd, the SmartCard daemon for macOS. Manage cryptographic keys, authenticate users, and secure communication. Free online tool, no registration required."
 category: osx

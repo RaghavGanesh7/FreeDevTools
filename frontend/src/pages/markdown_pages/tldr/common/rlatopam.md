@@ -1,7 +1,7 @@
 ---
 title: "Convert RLA Image - Format RLA to PAM | Online Free DevTools by Hexmos"
 name: rlatopam
-path: /freedevtools/tldr/common/rlatopam
+path: "/freedevtools/tldr/common/rlatopam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rlatopam/"
 description: "Format RLA images with rlatopam, converting RLA and RPF files to Netpbm (PAM/PGM) format. Command-line image conversion, free online tool, no registration required."
 category: common

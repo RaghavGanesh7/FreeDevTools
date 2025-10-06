@@ -1,7 +1,7 @@
 ---
 title: "Convert MGR to PBM - Image Converter | Online Free DevTools by Hexmos"
 name: mgrtopbm
-path: "/freedevtools/tldr/common/mgrtopbm"
+path: "/freedevtools/tldr/common/mgrtopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mgrtopbm/"
 description: "Convert MGR to PBM files with mgrtopbm. Transform MGR bitmap images to PBM format using this efficient image converter. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pyrit WPA/WPA2 Cracker - Crack Passwords with Pyrit | Online Free DevTools by Hexmos"
 name: pyrit
-path: /freedevtools/tldr/linux/pyrit
+path: "/freedevtools/tldr/linux/pyrit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pyrit/"
 description: "Crack WPA/WPA2 passwords efficiently with Pyrit.  This powerful command-line tool utilizes computational power for fast cracking. Free online tool, no registration required."
 category: linux

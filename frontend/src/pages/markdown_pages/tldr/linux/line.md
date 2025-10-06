@@ -1,7 +1,7 @@
 ---
 title: "Read Line Input - Command Line Input Reader | Online Free DevTools by Hexmos"
 name: line
-path: /freedevtools/tldr/linux/line
+path: "/freedevtools/tldr/linux/line/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/line/"
 description: "Read single line input with the line command.  This simple command-line tool efficiently handles text input. Free online tool, no registration required."
 category: linux

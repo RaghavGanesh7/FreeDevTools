@@ -1,7 +1,7 @@
 ---
 title: "Lynis Audit - Secure Linux Systems | Online Free DevTools by Hexmos"
 name: lynis
-path: /freedevtools/tldr/linux/lynis
+path: "/freedevtools/tldr/linux/lynis/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lynis/"
 description: "Secure Linux systems with Lynis Audit. Perform security audits, detect vulnerabilities and improve system hardening. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Trace-cmd Report - Display Trace Events | Online Free DevTools by Hexmos"
 name: trace-cmd-report
-path: /freedevtools/tldr/linux/trace-cmd-report
+path: "/freedevtools/tldr/linux/trace-cmd-report/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trace-cmd-report/"
 description: "Display recorded trace events with trace-cmd report.  Analyze system performance and debug issues using this Linux command-line tool. Free online tool, no registration required."
 category: linux

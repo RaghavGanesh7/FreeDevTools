@@ -1,7 +1,7 @@
 ---
 title: "Wake-on-LAN - Send WOL Packets | Online Free DevTools by Hexmos"
 name: wakeonlan
-path: /freedevtools/tldr/common/wakeonlan
+path: "/freedevtools/tldr/common/wakeonlan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wakeonlan/"
 description: "Send Wake-on-LAN packets with Wakeonlan. Remotely power on computers over a network. Free online tool, no registration required."
 category: common

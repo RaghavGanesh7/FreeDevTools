@@ -1,7 +1,7 @@
 ---
 title: "Package Manager - Manage FreeBSD Packages | Online Free DevTools by Hexmos"
 name: pkg
-path: /freedevtools/tldr/freebsd/pkg
+path: "/freedevtools/tldr/freebsd/pkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/pkg/"
 description: "Manage software packages with pkg, the FreeBSD package manager. Easily install, remove, and update software. Free online resource, no registration required."
 category: freebsd

@@ -1,7 +1,7 @@
 ---
 title: "List PlatformIO Boards - Explore Embedded Devices | Online Free DevTools by Hexmos"
 name: pio-boards
-path: /freedevtools/tldr/pio/pio-boards
+path: "/freedevtools/tldr/pio/pio-boards/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-boards/"
 description: "Explore PlatformIO boards with this tool. List available embedded devices and filter by installed platforms to streamline your development. Free online tool, no registration required."
 category: common

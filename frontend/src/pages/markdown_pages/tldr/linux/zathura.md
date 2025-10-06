@@ -1,7 +1,7 @@
 ---
 title: "Control Documents with Zathura - Modal Viewer | Online Free DevTools by Hexmos"
 name: zathura
-path: /freedevtools/tldr/linux/zathura
+path: "/freedevtools/tldr/linux/zathura/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/zathura/"
 description: "Control documents easily with Zathura, a modal document viewer. Navigate, rotate, and search within documents using a command-line interface. Free online tool, no registration required."
 category: linux

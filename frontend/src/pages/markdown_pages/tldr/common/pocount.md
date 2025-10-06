@@ -1,7 +1,7 @@
 ---
 title: "PO Count - Get Translation Progress | Online Free DevTools by Hexmos"
 name: pocount
-path: /freedevtools/tldr/common/pocount
+path: "/freedevtools/tldr/common/pocount/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pocount/"
 description: "Get translation progress with PO Count. Analyze translation files in various formats to determine completion status. Free online tool, no registration required."
 category: common

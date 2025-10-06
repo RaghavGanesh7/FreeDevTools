@@ -1,7 +1,7 @@
 ---
 title: "Measure Internet Speed - Fast CLI | Online Free DevTools by Hexmos"
 name: fast
-path: "/freedevtools/tldr/common/fast"
+path: "/freedevtools/tldr/common/fast/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fast/"
 description: "Measure internet speed quickly with Fast CLI. Test download and upload speeds from the command line. Free online tool, no registration required."
 category: common

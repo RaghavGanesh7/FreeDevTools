@@ -1,7 +1,7 @@
 ---
 title: "Gcrane GC - List Untagged Images | Online Free DevTools by Hexmos"
 name: gcrane-gc
-path: /freedevtools/tldr/gcrane/gcrane-gc
+path: "/freedevtools/tldr/gcrane/gcrane-gc/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcrane/gcrane-gc/"
 description: "List untagged container images with Gcrane GC. Identify and manage orphaned images for efficient registry cleanup. Free online tool, no registration required."
 category: common

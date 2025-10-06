@@ -1,7 +1,7 @@
 ---
 title: "Manage Patches with Quilt - Patch Management | Online Free DevTools by Hexmos"
 name: quilt
-path: /freedevtools/tldr/common/quilt
+path: "/freedevtools/tldr/common/quilt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/quilt/"
 description: "Manage code patches with Quilt, a powerful patch management tool. Import, create, and refresh patches with ease. Free online tool, no registration required."
 category: common

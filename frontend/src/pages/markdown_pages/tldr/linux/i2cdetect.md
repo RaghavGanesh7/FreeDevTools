@@ -1,7 +1,7 @@
 ---
 title: "Scan I2C Buses - I2C Detect Command | Online Free DevTools by Hexmos"
 name: i2cdetect
-path: /freedevtools/tldr/linux/i2cdetect
+path: "/freedevtools/tldr/linux/i2cdetect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/i2cdetect/"
 description: "Scan I2C buses with the i2cdetect command.  Quickly identify connected I2C devices using this simple command-line tool. Free online tool, no registration required."
 category: linux

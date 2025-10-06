@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to PGM - Image Conversion | Online Free DevTools by Hexmos"
 name: ppmtopgm
-path: /freedevtools/tldr/ppm/ppmtopgm
+path: "/freedevtools/tldr/ppm/ppmtopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtopgm/"
 description: "Convert PPM images to PGM images with ppmtopgm. A versatile image format converter for command-line image processing. Free online tool, no registration required."
 category: common

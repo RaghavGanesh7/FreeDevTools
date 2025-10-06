@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Enable - Control Systemd Services | Online Free DevTools by Hexmos"
 name: systemctl-enable
-path: /freedevtools/tldr/linux/systemctl-enable
+path: "/freedevtools/tldr/linux/systemctl-enable/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-enable/"
 description: "Control systemd services easily with Systemctl Enable. Manage startup, user units, and service dependencies on Linux. Free online tool, no registration required."
 category: linux

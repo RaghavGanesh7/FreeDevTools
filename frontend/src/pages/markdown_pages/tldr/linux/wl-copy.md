@@ -1,7 +1,7 @@
 ---
 title: "Copy Clipboard - Control Wayland Clipboard | Online Free DevTools by Hexmos"
 name: wl-copy
-path: /freedevtools/tldr/linux/wl-copy
+path: "/freedevtools/tldr/linux/wl-copy/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wl-copy/"
 description: "Control Wayland clipboard with wl-copy. Copy text, images, and output to the clipboard effortlessly on Linux systems. Free online tool, no registration required."
 category: linux

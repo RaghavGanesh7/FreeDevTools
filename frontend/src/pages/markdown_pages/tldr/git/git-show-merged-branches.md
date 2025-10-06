@@ -1,7 +1,7 @@
 ---
 title: "Show Merged Branches - List Git Branches | Online Free DevTools by Hexmos"
 name: git-show-merged-branches
-path: /freedevtools/tldr/git/git-show-merged-branches
+path: "/freedevtools/tldr/git/git-show-merged-branches/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-show-merged-branches/"
 description: "List Git branches that have been merged with git-show-merged-branches. Find merged branches in your repository and clean up your workflow. Free online tool, no registration required."
 category: common

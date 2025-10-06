@@ -1,7 +1,7 @@
 ---
 title: "Konsave - Manage Linux Configurations | Online Free DevTools by Hexmos"
 name: konsave
-path: /freedevtools/tldr/linux/konsave
+path: "/freedevtools/tldr/linux/konsave/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/konsave/"
 description: "Manage Linux customizations easily with Konsave. Save, apply, and manage profiles for your system configurations. Free online tool, no registration required."
 category: linux

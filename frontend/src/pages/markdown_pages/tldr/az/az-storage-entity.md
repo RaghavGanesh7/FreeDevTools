@@ -1,7 +1,7 @@
 ---
 title: "Storage Entity - Manage Azure Tables | Online Free DevTools by Hexmos"
 name: az-storage-entity
-path: /freedevtools/tldr/az/az-storage-entity
+path: "/freedevtools/tldr/az/az-storage-entity/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-storage-entity/"
 description: "Manage Azure table storage entities with Storage Entity Tool. Insert, delete, update, and query entities in Azure tables. Free online tool, no registration required."
 category: common

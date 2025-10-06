@@ -1,7 +1,7 @@
 ---
 title: "Just - Execute Commands with Precision | Online Free DevTools by Hexmos"
 name: just
-path: /freedevtools/tldr/common/just
+path: "/freedevtools/tldr/common/just/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/just/"
 description: "Execute commands with Just, a versatile command runner for streamlined workflows. Define, manage, and execute tasks efficiently. Free online tool, no registration required."
 category: common

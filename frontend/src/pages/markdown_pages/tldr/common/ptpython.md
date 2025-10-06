@@ -1,7 +1,7 @@
 ---
 title: "Better Python REPL - Enhanced Shell | Online Free DevTools by Hexmos"
 name: ptpython
-path: /freedevtools/tldr/common/ptpython
+path: "/freedevtools/tldr/common/ptpython/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ptpython/"
 description: "Enhance Python REPL experience with ptpython. Interactive shell featuring auto-completion and syntax highlighting. Free online tool, no registration required."
 category: common

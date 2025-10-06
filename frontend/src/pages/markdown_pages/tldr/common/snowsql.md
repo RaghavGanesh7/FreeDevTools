@@ -1,7 +1,7 @@
 ---
 title: "SnowSQL Client - Execute SQL Commands | Online Free DevTools by Hexmos"
 name: snowsql
-path: /freedevtools/tldr/common/snowsql
+path: "/freedevtools/tldr/common/snowsql/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snowsql/"
 description: "Execute SQL commands with SnowSQL client for Snowflake's Data Cloud. Connect to Snowflake, run queries and manage data efficiently. Free online tool, no registration required."
 category: common

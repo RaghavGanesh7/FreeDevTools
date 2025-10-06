@@ -1,7 +1,7 @@
 ---
 title: "Generate Signatures - minisign | Online Free DevTools by Hexmos"
 name: minisign
-path: /freedevtools/tldr/common/minisign
+path: "/freedevtools/tldr/common/minisign/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minisign/"
 description: "Generate secure signatures with minisign, a simple file signing tool. Verify file integrity and authenticity with trusted comments. Free online tool, no registration required."
 category: common

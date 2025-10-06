@@ -1,7 +1,7 @@
 ---
 title: "Create Minix Filesystem - Format Partitions with mkfs.minix | Online Free DevTools by Hexmos"
 name: mkfs.minix
-path: /freedevtools/tldr/linux/mkfs-minix
+path: "/freedevtools/tldr/linux/mkfs-minix/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mkfs-minix/"
 description: "Format partitions with mkfs.minix to create Minix filesystems quickly and easily.  This command-line tool offers precise control over filesystem creation. Free online tool, no registration required."
 category: linux

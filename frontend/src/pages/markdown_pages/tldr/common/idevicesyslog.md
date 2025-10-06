@@ -1,7 +1,7 @@
 ---
 title: "iOS Syslog Relay - Stream Device Logs | Online Free DevTools by Hexmos"
 name: idevicesyslog
-path: /freedevtools/tldr/common/idevicesyslog
+path: "/freedevtools/tldr/common/idevicesyslog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicesyslog/"
 description: "Stream iOS syslog messages in real-time with idevicesyslog. Capture device logs for debugging and monitoring purposes efficiently. Free online tool, no registration required."
 category: common

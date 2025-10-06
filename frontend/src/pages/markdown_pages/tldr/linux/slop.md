@@ -1,7 +1,7 @@
 ---
 title: "Slop - Capture Screen Selections | Online Free DevTools by Hexmos"
 name: slop
-path: /freedevtools/tldr/linux/slop
+path: "/freedevtools/tldr/linux/slop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slop/"
 description: "Capture screen selections instantly with Slop. Define screen regions and retrieve geometry data for scripting. Free online tool, no registration required."
 category: linux

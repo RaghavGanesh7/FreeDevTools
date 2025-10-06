@@ -1,7 +1,7 @@
 ---
 title: "Readonly - Control Shell Variables | Online Free DevTools by Hexmos"
 name: readonly
-path: /freedevtools/tldr/common/readonly
+path: "/freedevtools/tldr/common/readonly/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/readonly/"
 description: "Control shell variables with Readonly. Set and manage read-only shell variables to protect critical configurations. Free online tool, no registration required."
 category: common

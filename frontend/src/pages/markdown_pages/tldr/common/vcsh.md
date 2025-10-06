@@ -1,7 +1,7 @@
 ---
 title: "Control Version Control - Manage Repositories with vcsh | Online Free DevTools by Hexmos"
 name: vcsh
-path: /freedevtools/tldr/common/vcsh
+path: "/freedevtools/tldr/common/vcsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vcsh/"
 description: "Control your version control with vcsh, a home directory version management tool. Clone, list, and execute Git commands. Free online tool, no registration required."
 category: common

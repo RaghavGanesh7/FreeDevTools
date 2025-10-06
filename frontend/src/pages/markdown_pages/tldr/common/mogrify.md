@@ -1,7 +1,7 @@
 ---
 title: "Mogrify Image Files - Convert Images | Online Free DevTools by Hexmos"
 name: mogrify
-path: /freedevtools/tldr/common/mogrify
+path: "/freedevtools/tldr/common/mogrify/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mogrify/"
 description: "Convert image files easily with Mogrify. Resize, rotate, and optimize images using the command line. Free online tool, no registration required."
 category: common

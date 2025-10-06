@@ -1,7 +1,7 @@
 ---
 title: "Share Websites - Expose Local Sites with Tunnel | Online Free DevTools by Hexmos"
 name: expose
-path: /freedevtools/tldr/common/expose
+path: "/freedevtools/tldr/common/expose/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/expose/"
 description: "Share websites instantly with Expose, an open-source tunnel application. Expose your local development servers and preview your work online. Free online tool, no registration required."
 category: common

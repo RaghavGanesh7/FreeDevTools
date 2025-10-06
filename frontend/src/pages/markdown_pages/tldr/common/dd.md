@@ -1,7 +1,7 @@
 ---
 title: "Convert and Copy Files with dd | Online Free DevTools by Hexmos"
 name: dd
-path: /freedevtools/tldr/common/dd
+path: "/freedevtools/tldr/common/dd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dd/"
 description: "Convert and copy files with the powerful dd command.  Clone disks, create bootable USB drives, and generate random data. Free online tool, no registration required."
 category: common

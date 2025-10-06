@@ -1,7 +1,7 @@
 ---
 title: "Create Debian Sources - Configure APT with Netselect-apt | Online Free DevTools by Hexmos"
 name: netselect-apt
-path: /freedevtools/tldr/linux/netselect-apt
+path: "/freedevtools/tldr/linux/netselect-apt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/netselect-apt/"
 description: "Create Debian sources.list with Netselect-apt. Find the fastest Debian mirror with minimal latency. Free online tool, no registration required."
 category: linux

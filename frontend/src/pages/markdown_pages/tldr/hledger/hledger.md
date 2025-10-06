@@ -1,7 +1,7 @@
 ---
 title: "Control hledger - Plain Text Accounting | Online Free DevTools by Hexmos"
 name: hledger
-path: "/freedevtools/tldr/hledger/hledger"
+path: "/freedevtools/tldr/hledger/hledger/"
 canonical: "https://hexmos.com/freedevtools/tldr/hledger/hledger/"
 description: "Control plain text accounting with hledger. Manage financial transactions, generate reports, and track expenses effectively. Free online tool, no registration required."
 category: common

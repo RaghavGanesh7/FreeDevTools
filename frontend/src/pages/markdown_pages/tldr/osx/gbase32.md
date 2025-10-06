@@ -1,7 +1,7 @@
 ---
 title: "Base32 Encode - Encode Data to Base32 Format | Online Free DevTools by Hexmos"
 name: gbase32
-path: /freedevtools/tldr/osx/gbase32
+path: "/freedevtools/tldr/osx/gbase32/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gbase32/"
 description: "Encode data to Base32 format with gbase32. Efficiently convert binary data to Base32 strings for easy transmission and storage. Free online tool, no registration required."
 category: osx

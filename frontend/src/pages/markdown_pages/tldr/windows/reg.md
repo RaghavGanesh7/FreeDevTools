@@ -1,7 +1,7 @@
 ---
 title: "Registry Manager - Control Windows Registry | Online Free DevTools by Hexmos"
 name: reg
-path: /freedevtools/tldr/windows/reg
+path: "/freedevtools/tldr/windows/reg/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg/"
 description: "Control Windows Registry with Registry Manager. Add, delete, query, export, and import registry keys and values quickly. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Bleachbit - Clean Junk Files | Online Free DevTools by Hexmos"
 name: bleachbit_console
-path: /freedevtools/tldr/windows/bleachbit_console
+path: "/freedevtools/tldr/windows/bleachbit_console/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/bleachbit_console/"
 description: "Clean junk files with Bleachbit, a powerful system cleaner. Securely shred files and preview cleanup operations for privacy. Free online tool, no registration required."
 category: windows

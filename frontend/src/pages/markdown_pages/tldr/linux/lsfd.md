@@ -1,7 +1,7 @@
 ---
 title: "List Open Files - Linux File Management | Online Free DevTools by Hexmos"
 name: lsfd
-path: /freedevtools/tldr/linux/lsfd
+path: "/freedevtools/tldr/linux/lsfd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsfd/"
 description: "Manage Linux open files efficiently with lsfd.  List open file descriptors, identify processes using specific files, and filter by PID or filename. Free online tool, no registration required."
 category: linux

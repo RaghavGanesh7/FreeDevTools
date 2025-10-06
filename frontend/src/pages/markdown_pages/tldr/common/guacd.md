@@ -1,7 +1,7 @@
 ---
 title: "Guacamole Proxy - Control Remote Desktops | Online Free DevTools by Hexmos"
 name: guacd
-path: /freedevtools/tldr/common/guacd
+path: "/freedevtools/tldr/common/guacd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/guacd/"
 description: "Control remote desktops with Guacamole Proxy. Connect to RDP, VNC, and other protocols securely and efficiently. Free online tool, no registration required."
 category: common

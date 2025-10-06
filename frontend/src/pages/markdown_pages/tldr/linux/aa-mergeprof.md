@@ -1,7 +1,7 @@
 ---
 title: "Merge AppArmor Profiles - Manage Security with aa-mergeprof | Online Free DevTools by Hexmos"
 name: aa-mergeprof
-path: /freedevtools/tldr/linux/aa-mergeprof
+path: "/freedevtools/tldr/linux/aa-mergeprof/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-mergeprof/"
 description: "Merge AppArmor security profiles efficiently with aa-mergeprof.  Manage and combine profile files for enhanced security. Free online tool, no registration required."
 category: linux

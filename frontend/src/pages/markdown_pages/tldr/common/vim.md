@@ -1,7 +1,7 @@
 ---
 title: "Vim Editor - Control Text Editing with Vim | Online Free DevTools by Hexmos"
 name: vim
-path: /freedevtools/tldr/common/vim
+path: "/freedevtools/tldr/common/vim/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vim/"
 description: "Control text editing with Vim Editor, a powerful command-line text editor. Perform regex substitutions, search patterns, and navigate files efficiently. Free online tool, no registration required."
 category: common

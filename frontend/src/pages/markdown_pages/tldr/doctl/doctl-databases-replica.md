@@ -1,7 +1,7 @@
 ---
 title: "doctl Replica - Manage Database Replicas | Online Free DevTools by Hexmos"
 name: doctl-databases-replica
-path: /freedevtools/tldr/doctl/doctl-databases-replica
+path: "/freedevtools/tldr/doctl/doctl-databases-replica/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-databases-replica/"
 description: "Manage database replicas with doctl Replica. Create, list, and delete read-only database replicas. Free online tool, no registration required, plus secure token management."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Change Password - Manage User Info on OpenBSD | Online Free DevTools by Hexmos"
 name: chpass
-path: "/freedevtools/tldr/openbsd/chpass"
+path: "/freedevtools/tldr/openbsd/chpass/"
 canonical: "https://hexmos.com/freedevtools/tldr/openbsd/chpass/"
 description: "Manage user information with Change Password (chpass) on OpenBSD. Update login shells, passwords, and user database entries quickly. Free online tool, no registration required."
 category: openbsd

@@ -1,7 +1,7 @@
 ---
 title: "Manpath - Control Manual Page Paths | Online Free DevTools by Hexmos"
 name: manpath
-path: "/freedevtools/tldr/linux/manpath"
+path: "/freedevtools/tldr/linux/manpath/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/manpath/"
 description: "Control the search path for manual pages with Manpath on Linux. Manage where your system looks for documentation efficiently using this free online tool, no registration required."
 category: linux

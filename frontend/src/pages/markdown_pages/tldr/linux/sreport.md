@@ -1,7 +1,7 @@
 ---
 title: "Generate sreport - Cluster Reports | Online Free DevTools by Hexmos"
 name: sreport
-path: /freedevtools/tldr/linux/sreport
+path: "/freedevtools/tldr/linux/sreport/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sreport/"
 description: "Generate comprehensive cluster utilization reports with sreport.  Analyze job sizes and user activity quickly. Free online tool, no registration required."
 category: linux

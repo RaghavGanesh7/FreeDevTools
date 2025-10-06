@@ -1,7 +1,7 @@
 ---
 title: "Clone Container - pct clone Command | Online Free DevTools by Hexmos"
 name: pct-clone
-path: /freedevtools/tldr/linux/pct-clone
+path: "/freedevtools/tldr/linux/pct-clone/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-clone/"
 description: "Clone Proxmox containers quickly with the pct clone command.  Create copies of your containers easily and efficiently. Free online tool, no registration required."
 category: linux

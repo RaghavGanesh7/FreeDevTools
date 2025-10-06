@@ -1,7 +1,7 @@
 ---
 title: "Resize Container Storage - pct resize | Online Free DevTools by Hexmos"
 name: pct-resize
-path: /freedevtools/tldr/linux/pct-resize
+path: "/freedevtools/tldr/linux/pct-resize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-resize/"
 description: "Resize container storage with pct resize command.  Manage container disk space easily and efficiently using this powerful command-line tool. Free online tool, no registration required."
 category: linux

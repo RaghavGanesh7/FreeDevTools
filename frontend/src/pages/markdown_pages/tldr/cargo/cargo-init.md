@@ -1,7 +1,7 @@
 ---
 title: "Create Rust Package - Cargo Init Tool | Online Free DevTools by Hexmos"
 name: cargo-init
-path: /freedevtools/tldr/cargo/cargo-init
+path: "/freedevtools/tldr/cargo/cargo-init/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-init/"
 description: "Create Rust package instantly with Cargo Init, a versatile Rust package manager. Easily initialize new projects, manage dependencies, and build applications. Free online tool, no registration required."
 category: common

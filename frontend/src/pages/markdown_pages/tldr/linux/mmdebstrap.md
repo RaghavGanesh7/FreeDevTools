@@ -1,7 +1,7 @@
 ---
 title: "Create Debian Chroots with mmdebstrap | Online Free DevTools by Hexmos"
 name: mmdebstrap
-path: /freedevtools/tldr/linux/mmdebstrap
+path: "/freedevtools/tldr/linux/mmdebstrap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mmdebstrap/"
 description: "Create Debian chroots quickly with mmdebstrap, a powerful alternative to debootstrap.  Generate customized chroots with ease using various options including specifying mirrors and packages. Free online tool, no registration required."
 category: linux

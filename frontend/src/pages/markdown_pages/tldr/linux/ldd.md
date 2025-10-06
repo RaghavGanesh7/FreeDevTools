@@ -1,7 +1,7 @@
 ---
 title: "Display Shared Library Dependencies with ldd | Online Free DevTools by Hexmos"
 name: ldd
-path: /freedevtools/tldr/linux/ldd
+path: "/freedevtools/tldr/linux/ldd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ldd/"
 description: "Display shared library dependencies with ldd. Uncover hidden dependencies and resolve issues. Analyze binaries effortlessly. Free online tool, no registration required."
 category: linux

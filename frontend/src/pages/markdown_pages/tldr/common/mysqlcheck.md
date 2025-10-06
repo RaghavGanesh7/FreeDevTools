@@ -1,7 +1,7 @@
 ---
 title: "MySQL Check - Repair Tables | Online Free DevTools by Hexmos"
 name: mysqlcheck
-path: /freedevtools/tldr/common/mysqlcheck
+path: "/freedevtools/tldr/common/mysqlcheck/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mysqlcheck/"
 description: "Check and repair MySQL database tables quickly with MySQLCheck. Optimize tables, verify data integrity, and ensure database performance. Free online tool, no registration required."
 category: common

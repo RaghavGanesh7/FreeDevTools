@@ -1,7 +1,7 @@
 ---
 title: "Lbu - Manage APK Overlays on Linux | Online Free DevTools by Hexmos"
 name: lbu
-path: /freedevtools/tldr/linux/lbu
+path: "/freedevtools/tldr/linux/lbu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lbu/"
 description: "Manage apk overlays with lbu, a Linux utility for Alpine systems. Commit changes, revert to backups and control file inclusion and exclusion. Free online tool, no registration required."
 category: linux

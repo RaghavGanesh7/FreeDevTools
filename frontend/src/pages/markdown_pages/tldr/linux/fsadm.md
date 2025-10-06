@@ -1,7 +1,7 @@
 ---
 title: "Fsadm - Check & Resize Filesystems | Online Free DevTools by Hexmos"
 name: fsadm
-path: /freedevtools/tldr/linux/fsadm
+path: "/freedevtools/tldr/linux/fsadm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fsadm/"
 description: "Resize filesystems quickly with fsadm on Linux. Manage disk space and check filesystem integrity using the command line. Free online tool, no registration required."
 category: linux

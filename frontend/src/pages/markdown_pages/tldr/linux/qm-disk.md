@@ -1,7 +1,7 @@
 ---
 title: "QM Disk - Manage Virtual Disks | Online Free DevTools by Hexmos"
 name: qm-disk
-path: /freedevtools/tldr/linux/qm-disk
+path: "/freedevtools/tldr/linux/qm-disk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-disk/"
 description: "Manage virtual disks with QM Disk. Resize, move, delete, and import disk images easily. Free online tool, no registration required."
 category: linux

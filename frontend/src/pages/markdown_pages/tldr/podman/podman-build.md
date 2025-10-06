@@ -1,7 +1,7 @@
 ---
 title: "Create Podman Images - Daemonless Build Tool | Online Free DevTools by Hexmos"
 name: podman-build
-path: /freedevtools/tldr/podman/podman-build
+path: "/freedevtools/tldr/podman/podman-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/podman/podman-build/"
 description: "Create container images with Podman Build. A daemonless build tool compatible with Dockerfiles. Free online tool, no registration required."
 category: common

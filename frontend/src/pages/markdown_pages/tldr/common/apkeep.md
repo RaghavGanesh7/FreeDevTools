@@ -1,7 +1,7 @@
 ---
 title: "Download APK - Fetch Apps from Stores | Online Free DevTools by Hexmos"
 name: apkeep
-path: /freedevtools/tldr/common/apkeep
+path: "/freedevtools/tldr/common/apkeep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/apkeep/"
 description: "Download APK files easily with apkeep. Fetch Android applications from various online sources directly to your machine. Free online tool, no registration required."
 category: common

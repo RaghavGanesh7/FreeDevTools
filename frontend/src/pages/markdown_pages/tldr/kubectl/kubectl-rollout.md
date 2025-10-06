@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Rollout - Manage Kubernetes Rollouts | Online Free DevTools by Hexmos"
 name: kubectl-rollout
-path: /freedevtools/tldr/kubectl/kubectl-rollout
+path: "/freedevtools/tldr/kubectl/kubectl-rollout/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-rollout/"
 description: "Manage Kubernetes rollouts easily with Kubectl Rollout. Control deployments, daemonsets, and statefulsets with ease. Free online tool, no registration required."
 category: common

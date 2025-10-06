@@ -1,7 +1,7 @@
 ---
 title: "Herd - Manage Laravel Development on macOS | Online Free DevTools by Hexmos"
 name: herd
-path: /freedevtools/tldr/osx/herd
+path: "/freedevtools/tldr/osx/herd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/herd/"
 description: "Manage Laravel development environments easily with Herd on macOS. Control services, link directories, and open sites in your browser. Free online tool, no registration required."
 category: osx

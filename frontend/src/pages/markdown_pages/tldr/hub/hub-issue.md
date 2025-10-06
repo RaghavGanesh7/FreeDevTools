@@ -1,7 +1,7 @@
 ---
 title: "Manage GitHub Issues - Control Issues with Hub | Online Free DevTools by Hexmos"
 name: hub-issue
-path: /freedevtools/tldr/hub/hub-issue
+path: "/freedevtools/tldr/hub/hub-issue/"
 canonical: "https://hexmos.com/freedevtools/tldr/hub/hub-issue/"
 description: "Manage GitHub issues efficiently with Hub Issue Manager. List, display, and filter issues directly from the command line. Free online tool, no registration required."
 category: common

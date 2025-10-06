@@ -1,7 +1,7 @@
 ---
 title: "PPM Shift - Randomize PPM Image Lines | Online Free DevTools by Hexmos"
 name: ppmshift
-path: /freedevtools/tldr/ppm/ppmshift
+path: "/freedevtools/tldr/ppm/ppmshift/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmshift/"
 description: "Randomize PPM image lines with PPM Shift. Adjust pixel positions for creative effects and unique image distortions. Free online tool, no registration required."
 category: common

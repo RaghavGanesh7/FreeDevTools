@@ -1,7 +1,7 @@
 ---
 title: "OSM Data Handler - Manage OpenStreetMap Files | Online Free DevTools by Hexmos"
 name: osmium
-path: /freedevtools/tldr/common/osmium
+path: "/freedevtools/tldr/common/osmium/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/osmium/"
 description: "Manage OSM data with Osmium, a versatile OpenStreetMap file handler. Convert formats, extract regions, and filter tags effortlessly. Free online tool, no registration required."
 category: common

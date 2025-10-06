@@ -1,7 +1,7 @@
 ---
 title: "Reverse File Order - Tac Command | Online Free DevTools by Hexmos"
 name: tac
-path: /freedevtools/tldr/common/tac
+path: "/freedevtools/tldr/common/tac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tac/"
 description: "Reverse file order instantly with Tac command. Concatenate files and display lines in reversed sequence on Linux & macOS. Free online tool, no registration required."
 category: common

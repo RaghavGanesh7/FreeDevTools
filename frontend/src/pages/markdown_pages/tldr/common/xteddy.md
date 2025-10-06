@@ -1,7 +1,7 @@
 ---
 title: "Display Teddy Bear - Control X Desktop with xteddy | Online Free DevTools by Hexmos"
 name: xteddy
-path: /freedevtools/tldr/common/xteddy
+path: "/freedevtools/tldr/common/xteddy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xteddy/"
 description: "Display teddy bear on your X desktop with xteddy. Customize placement, keep it on top, and even replace it with another image. Free online tool, no registration required."
 category: common

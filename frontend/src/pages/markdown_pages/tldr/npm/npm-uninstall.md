@@ -1,7 +1,7 @@
 ---
 title: "npm Uninstall - Remove Packages | Online Free DevTools by Hexmos"
 name: npm-uninstall
-path: /freedevtools/tldr/npm/npm-uninstall
+path: "/freedevtools/tldr/npm/npm-uninstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-uninstall/"
 description: "Uninstall packages easily with npm Uninstall. Remove project dependencies and global modules quickly. Free online tool, no registration required."
 category: common

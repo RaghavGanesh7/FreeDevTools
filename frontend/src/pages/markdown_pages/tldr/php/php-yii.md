@@ -1,7 +1,7 @@
 ---
 title: "PHP Yii - Generate Yii Framework Components | Online Free DevTools by Hexmos"
 name: php-yii
-path: /freedevtools/tldr/php/php-yii
+path: "/freedevtools/tldr/php/php-yii/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/php-yii/"
 description: "Generate Yii framework components with PHP Yii. Easily create controllers, models, and views for rapid web application development. Free online tool, no registration required."
 category: common

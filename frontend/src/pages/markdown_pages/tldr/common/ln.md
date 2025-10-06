@@ -1,7 +1,7 @@
 ---
 title: "Create Symbolic Links - Files & Directories | Online Free DevTools by Hexmos"
 name: ln
-path: /freedevtools/tldr/common/ln
+path: "/freedevtools/tldr/common/ln/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ln/"
 description: "Create symbolic links easily with ln. Manage file system links on Linux and macOS using command line. Free online tool, no registration required."
 category: common

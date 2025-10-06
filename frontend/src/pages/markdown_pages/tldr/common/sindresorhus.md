@@ -1,7 +1,7 @@
 ---
 title: "Control Sindre Sorhus CLI - Interactive Tool | Online Free DevTools by Hexmos"
 name: sindresorhus
-path: /freedevtools/tldr/common/sindresorhus
+path: "/freedevtools/tldr/common/sindresorhus/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sindresorhus/"
 description: "Control interactive command-line tools with Sindre Sorhus CLI. Access a curated list of utilities and improve workflow. Free online tool, no registration required."
 category: common

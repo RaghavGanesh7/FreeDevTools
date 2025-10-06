@@ -1,7 +1,7 @@
 ---
 title: "Fakeroot - Run Commands as Root | Online Free DevTools by Hexmos"
 name: fakeroot
-path: /freedevtools/tldr/linux/fakeroot
+path: "/freedevtools/tldr/linux/fakeroot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fakeroot/"
 description: "Run commands with fakeroot to simulate root privileges for file manipulation.  Easily manage file permissions and execute commands requiring elevated access. Free online tool, no registration required."
 category: linux

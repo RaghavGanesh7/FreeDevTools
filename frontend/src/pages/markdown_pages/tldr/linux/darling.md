@@ -1,7 +1,7 @@
 ---
 title: "Darling - Run macOS Programs on Linux | Online Free DevTools by Hexmos"
 name: darling
-path: /freedevtools/tldr/linux/darling
+path: "/freedevtools/tldr/linux/darling/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/darling/"
 description: "Run macOS programs seamlessly with Darling on Linux. Execute macOS applications and commands directly on your Linux system. Free online tool, no registration required."
 category: linux

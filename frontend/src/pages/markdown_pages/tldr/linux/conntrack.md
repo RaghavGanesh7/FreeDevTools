@@ -1,7 +1,7 @@
 ---
 title: "Control Connections - Conntrack Linux Tool | Online Free DevTools by Hexmos"
 name: conntrack
-path: /freedevtools/tldr/linux/conntrack
+path: "/freedevtools/tldr/linux/conntrack/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/conntrack/"
 description: "Control Linux connections with Conntrack, a powerful network debugging utility for inspecting and managing network flows. Free online tool, no registration required."
 category: linux

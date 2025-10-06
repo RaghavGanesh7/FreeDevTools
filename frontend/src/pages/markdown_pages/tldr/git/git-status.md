@@ -1,7 +1,7 @@
 ---
 title: "Git Status - Track File Changes | Online Free DevTools by Hexmos"
 name: git-status
-path: /freedevtools/tldr/git/git-status
+path: "/freedevtools/tldr/git/git-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-status/"
 description: "Track file changes with Git Status. Easily identify modified, added, and deleted files in your Git repository. Free online tool, no registration required."
 category: common

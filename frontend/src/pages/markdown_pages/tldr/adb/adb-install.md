@@ -1,7 +1,7 @@
 ---
 title: "ADB Install - Push Android Packages | Online Free DevTools by Hexmos"
 name: adb-install
-path: /freedevtools/tldr/adb/adb-install
+path: "/freedevtools/tldr/adb/adb-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/adb/adb-install/"
 description: "Install Android APK packages with ADB. Quickly deploy and update applications to Android devices and emulators using the command line. Free online tool, no registration required."
 category: common

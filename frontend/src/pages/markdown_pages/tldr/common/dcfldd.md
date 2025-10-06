@@ -1,7 +1,7 @@
 ---
 title: "Copy Disk Image - Forensics with dcfldd | Online Free DevTools by Hexmos"
 name: dcfldd
-path: /freedevtools/tldr/common/dcfldd
+path: "/freedevtools/tldr/common/dcfldd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dcfldd/"
 description: "Copy disk image with dcfldd, an enhanced dd command for forensics. Securely acquire data and generate cryptographic hashes for integrity verification. Free online tool, no registration required."
 category: common

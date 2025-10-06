@@ -1,7 +1,7 @@
 ---
 title: "Tofu Format - Format Tofu Configuration | Online Free DevTools by Hexmos"
 name: tofu-fmt
-path: /freedevtools/tldr/tofu/tofu-fmt
+path: "/freedevtools/tldr/tofu/tofu-fmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/tofu/tofu-fmt/"
 description: "Format Tofu configuration files with Tofu Format. Ensure consistent and readable infrastructure-as-code. Free online tool, no registration required."
 category: common

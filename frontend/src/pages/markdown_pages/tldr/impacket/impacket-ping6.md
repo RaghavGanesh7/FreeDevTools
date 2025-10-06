@@ -1,7 +1,7 @@
 ---
 title: "Impacket Ping6 - Network Connectivity Test | Online Free DevTools by Hexmos"
 name: impacket-ping6
-path: /freedevtools/tldr/impacket/impacket-ping6
+path: "/freedevtools/tldr/impacket/impacket-ping6/"
 canonical: "https://hexmos.com/freedevtools/tldr/impacket/impacket-ping6/"
 description: "Test network connectivity with Impacket Ping6, a powerful IPv6 ping tool. Troubleshoot network issues and verify IPv6 reachability. Free online tool, no registration required."
 category: common

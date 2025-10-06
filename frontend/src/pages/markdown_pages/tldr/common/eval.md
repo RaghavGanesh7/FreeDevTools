@@ -1,7 +1,7 @@
 ---
 title: "Eval Command - Execute Shell Commands | Online Free DevTools by Hexmos"
 name: eval
-path: /freedevtools/tldr/common/eval
+path: "/freedevtools/tldr/common/eval/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eval/"
 description: "Execute shell commands easily with Eval Command. Evaluate expressions, set variables, and run complex commands directly in the shell. Free online tool, no registration required."
 category: common

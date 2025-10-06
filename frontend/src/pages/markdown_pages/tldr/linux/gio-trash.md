@@ -1,7 +1,7 @@
 ---
 title: "GIO Trash - Manage Files in Trash Bin | Online Free DevTools by Hexmos"
 name: gio-trash
-path: /freedevtools/tldr/linux/gio-trash
+path: "/freedevtools/tldr/linux/gio-trash/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gio-trash/"
 description: "Manage files in trash bin with GIO Trash. Restore deleted files and empty the trash directly from the command line. Free online tool, no registration required."
 category: linux

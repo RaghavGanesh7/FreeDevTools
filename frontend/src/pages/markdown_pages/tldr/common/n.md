@@ -1,7 +1,7 @@
 ---
 title: "Node Version Manager - Control Node Versions | Online Free DevTools by Hexmos"
 name: n
-path: /freedevtools/tldr/common/n
+path: "/freedevtools/tldr/common/n/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/n/"
 description: "Manage Node versions instantly with Node Version Manager. Install, remove, and switch between different Node.js versions easily. Free online tool, no registration required."
 category: common

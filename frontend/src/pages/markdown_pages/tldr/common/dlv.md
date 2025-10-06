@@ -1,7 +1,7 @@
 ---
 title: "Debug Go Code - Delve Go Programs | Online Free DevTools by Hexmos"
 name: dlv
-path: /freedevtools/tldr/common/dlv
+path: "/freedevtools/tldr/common/dlv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dlv/"
 description: "Debug Go code with Delve, a powerful Go language debugger. Inspect variables, set breakpoints, and step through code. Free online tool, no registration required."
 category: common

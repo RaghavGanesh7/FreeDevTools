@@ -1,7 +1,7 @@
 ---
 title: "Create Matrix User - Register Users on Linux | Online Free DevTools by Hexmos"
 name: register_new_matrix_user
-path: /freedevtools/tldr/linux/register_new_matrix_user
+path: "/freedevtools/tldr/linux/register_new_matrix_user/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/register_new_matrix_user/"
 description: "Create Matrix user accounts easily with register_new_matrix_user. Register new users on a Linux home server when registration is disabled. Free online tool, no registration required."
 category: linux

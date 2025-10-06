@@ -1,7 +1,7 @@
 ---
 title: "Pvesh - Interface Proxmox VE API | Online Free DevTools by Hexmos"
 name: pvesh
-path: /freedevtools/tldr/linux/pvesh
+path: "/freedevtools/tldr/linux/pvesh/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pvesh/"
 description: "Interface with the Proxmox VE API using Pvesh. Explore nodes, manage containers/VMs, and discover API paths effortlessly. Free online tool, no registration required."
 category: linux

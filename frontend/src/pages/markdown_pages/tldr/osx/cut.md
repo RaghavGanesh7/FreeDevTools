@@ -1,7 +1,7 @@
 ---
 title: "Cut - Extract Text Fields | Online Free DevTools by Hexmos"
 name: cut
-path: /freedevtools/tldr/osx/cut
+path: "/freedevtools/tldr/osx/cut/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/cut/"
 description: "Extract text fields with Cut. Effortlessly manipulate text by specifying delimiters and field ranges. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Netexec - Execute Commands | Online Free DevTools by Hexmos"
 name: netexec
-path: /freedevtools/tldr/common/netexec
+path: "/freedevtools/tldr/common/netexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/netexec/"
 description: "Execute network commands instantly with Netexec, a versatile command-line tool. Manage network connections, run system commands and automate tasks. Free online tool, no registration required."
 category: common

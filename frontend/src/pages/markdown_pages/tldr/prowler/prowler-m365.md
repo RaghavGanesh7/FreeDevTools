@@ -1,7 +1,7 @@
 ---
 title: "Prowler M365 - Assess Security Configurations | Online Free DevTools by Hexmos"
 name: prowler-m365
-path: /freedevtools/tldr/prowler/prowler-m365
+path: "/freedevtools/tldr/prowler/prowler-m365/"
 canonical: "https://hexmos.com/freedevtools/tldr/prowler/prowler-m365/"
 description: "Assess Microsoft 365 security configurations with Prowler M365. Identify vulnerabilities and ensure best practices using this command-line tool. Free online tool, no registration required."
 category: common

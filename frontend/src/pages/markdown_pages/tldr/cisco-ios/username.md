@@ -1,7 +1,7 @@
 ---
 title: "Manage Username - Control User Accounts on Cisco IOS | Online Free DevTools by Hexmos"
 name: username
-path: /freedevtools/tldr/cisco-ios/username
+path: "/freedevtools/tldr/cisco-ios/username/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/username/"
 description: "Control user accounts on Cisco IOS with the Username command. Manage privilege levels and set secure passwords for network administrators. Free online tool, no registration required."
 category: cisco-ios

@@ -1,7 +1,7 @@
 ---
 title: "Snap Package Manager - Manage Linux Software | Online Free DevTools by Hexmos"
 name: snap.pkg
-path: /freedevtools/tldr/linux/snap-pkg
+path: "/freedevtools/tldr/linux/snap-pkg/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/snap-pkg/"
 description: "Manage Linux software packages with the Snap Package Manager.  Easily install, update, and remove applications. Free online tool, no registration required."
 category: linux

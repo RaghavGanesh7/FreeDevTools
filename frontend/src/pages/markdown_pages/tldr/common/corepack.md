@@ -1,7 +1,7 @@
 ---
 title: "Corepack - Manage Package Managers | Online Free DevTools by Hexmos"
 name: corepack
-path: /freedevtools/tldr/common/corepack
+path: "/freedevtools/tldr/common/corepack/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/corepack/"
 description: "Manage Node.js package managers with Corepack. Enable, disable, and prepare npm, pnpm, and yarn effortlessly. Free online tool, no registration required."
 category: common

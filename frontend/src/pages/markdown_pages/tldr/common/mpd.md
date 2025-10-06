@@ -1,7 +1,7 @@
 ---
 title: "Control Music Playback - MPD Command | Online Free DevTools by Hexmos"
 name: mpd
-path: /freedevtools/tldr/common/mpd
+path: "/freedevtools/tldr/common/mpd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpd/"
 description: "Control music playback with MPD. Manage your music library, create playlists, and stream audio from the command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Resolvconf - Manage Nameserver Info | Online Free DevTools by Hexmos"
 name: resolvconf
-path: /freedevtools/tldr/common/resolvconf
+path: "/freedevtools/tldr/common/resolvconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/resolvconf/"
 description: "Manage nameserver information with resolvconf. Control DNS resolution and update configurations automatically using this command-line tool. Free online tool, no registration required."
 category: common

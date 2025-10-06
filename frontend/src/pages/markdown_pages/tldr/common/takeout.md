@@ -1,7 +1,7 @@
 ---
 title: "Takeout - Manage Docker Dependencies | Online Free DevTools by Hexmos"
 name: takeout
-path: /freedevtools/tldr/common/takeout
+path: "/freedevtools/tldr/common/takeout/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/takeout/"
 description: "Manage Docker dependencies with Takeout, a development-only dependency manager. Simplify environment setup and streamline your workflow with this free online tool, no registration required."
 category: common

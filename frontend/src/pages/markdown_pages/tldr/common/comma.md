@@ -1,7 +1,7 @@
 ---
 title: "Command Alias - Execute Commands Easily | Online Free DevTools by Hexmos"
 name: comma
-path: /freedevtools/tldr/common/comma
+path: "/freedevtools/tldr/common/comma/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/comma/"
 description: "Execute command aliases easily with Comma, streamlining your command-line workflow. Simplify complex tasks and improve productivity. Free online tool, no registration required."
 category: common

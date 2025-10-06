@@ -1,7 +1,7 @@
 ---
 title: "Look - Display Sorted File Lines | Online Free DevTools by Hexmos"
 name: look
-path: /freedevtools/tldr/linux/look
+path: "/freedevtools/tldr/linux/look/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/look/"
 description: "Display sorted file lines with Look. Quickly find lines beginning with a specific prefix in a file. Free online tool, no registration required."
 category: linux

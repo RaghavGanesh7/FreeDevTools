@@ -1,7 +1,7 @@
 ---
 title: "Claude - Code Generation with Natural Language | Online Free DevTools by Hexmos"
 name: claude
-path: /freedevtools/tldr/common/claude
+path: "/freedevtools/tldr/common/claude/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/claude/"
 description: "Generate code effortlessly with Claude, an agent-based coding assistant. Understand your codebase and create commits via natural language. Free online tool, no registration required."
 category: common

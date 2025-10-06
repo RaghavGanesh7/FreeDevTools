@@ -1,7 +1,7 @@
 ---
 title: "Perlbrew - Manage Perl Versions | Online Free DevTools by Hexmos"
 name: perlbrew
-path: /freedevtools/tldr/common/perlbrew
+path: "/freedevtools/tldr/common/perlbrew/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/perlbrew/"
 description: "Manage Perl versions effectively with Perlbrew. Install, switch, and list Perl installations. Lightweight and easy to use. Free online tool, no registration required."
 category: common

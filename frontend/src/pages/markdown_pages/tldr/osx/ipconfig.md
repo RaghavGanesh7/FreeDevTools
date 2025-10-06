@@ -1,7 +1,7 @@
 ---
 title: "IP Config - Control Network Interfaces | Online Free DevTools by Hexmos"
 name: ipconfig
-path: "/freedevtools/tldr/osx/ipconfig"
+path: "/freedevtools/tldr/osx/ipconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ipconfig/"
 description: "Control network interfaces with IP Config. View, manage and troubleshoot network connections on macOS. Free online tool, no registration required."
 category: osx

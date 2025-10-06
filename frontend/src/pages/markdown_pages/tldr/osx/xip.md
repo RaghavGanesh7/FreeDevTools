@@ -1,7 +1,7 @@
 ---
 title: "Create XIP Archive - Expand Secure Archives | Online Free DevTools by Hexmos"
 name: xip
-path: /freedevtools/tldr/osx/xip
+path: "/freedevtools/tldr/osx/xip/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xip/"
 description: "Create secure XIP archives with XIP. Expand signed Apple archives with confidence on macOS. Free online tool, no registration required."
 category: osx

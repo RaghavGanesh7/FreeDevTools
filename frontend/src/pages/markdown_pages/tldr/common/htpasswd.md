@@ -1,7 +1,7 @@
 ---
 title: "Create htpasswd Files - Manage Basic Authentication | Online Free DevTools by Hexmos"
 name: htpasswd
-path: /freedevtools/tldr/common/htpasswd
+path: "/freedevtools/tldr/common/htpasswd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/htpasswd/"
 description: "Create htpasswd files with htpasswd to protect web directories using basic authentication. Secure your web server. Free online tool, no registration required."
 category: common

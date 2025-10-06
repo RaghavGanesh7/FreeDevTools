@@ -1,7 +1,7 @@
 ---
 title: "Ptyxis Terminal - Control GNOME Sessions | Online Free DevTools by Hexmos"
 name: ptyxis
-path: /freedevtools/tldr/linux/ptyxis
+path: "/freedevtools/tldr/linux/ptyxis/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ptyxis/"
 description: "Control GNOME terminal sessions with Ptyxis Terminal, a container-oriented terminal for Linux. Manage windows, tabs, and execute commands easily. Free online tool, no registration required."
 category: linux

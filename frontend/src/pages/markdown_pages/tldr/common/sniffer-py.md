@@ -1,7 +1,7 @@
 ---
 title: "Capture Network Packets with Sniffer.py | Online Free DevTools by Hexmos"
 name: sniffer.py
-path: /freedevtools/tldr/common/sniffer-py
+path: "/freedevtools/tldr/common/sniffer-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/sniffer-py/"
 description: "Capture network packets with Sniffer.py, an Impacket tool. Analyze TCP/IP traffic and monitor network activity effectively. Free online tool, no registration required."
 category: common

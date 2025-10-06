@@ -1,7 +1,7 @@
 ---
 title: "C# Compiler - Generate Executables | Online Free DevTools by Hexmos"
 name: csc
-path: /freedevtools/tldr/cs/csc
+path: "/freedevtools/tldr/cs/csc/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/csc/"
 description: "Generate executables with C# Compiler (csc). Compile C# code, create .dll libraries, and manage dependencies easily. Free online tool, no registration required."
 category: common

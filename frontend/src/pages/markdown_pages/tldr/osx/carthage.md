@@ -1,7 +1,7 @@
 ---
 title: "Control Carthage Dependencies - Manage Cocoa Apps | Online Free DevTools by Hexmos"
 name: carthage
-path: /freedevtools/tldr/osx/carthage
+path: "/freedevtools/tldr/osx/carthage/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/carthage/"
 description: "Control Cocoa app dependencies with Carthage. Manage, update, and build dependencies for your iOS and macOS projects. Free online tool, no registration required."
 category: osx

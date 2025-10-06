@@ -1,7 +1,7 @@
 ---
 title: "Istats - Show System Statistics | Online Free DevTools by Hexmos"
 name: istats
-path: /freedevtools/tldr/osx/istats
+path: "/freedevtools/tldr/osx/istats/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/istats/"
 description: "Show system statistics with istats on macOS. Monitor CPU temperature, fan speed, and battery status with this command-line tool. Free online tool, no registration required."
 category: osx

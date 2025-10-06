@@ -1,7 +1,7 @@
 ---
 title: "Control Audio Volume - Pamixer Command | Online Free DevTools by Hexmos"
 name: pamixer
-path: /freedevtools/tldr/common/pamixer
+path: "/freedevtools/tldr/common/pamixer/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamixer/"
 description: "Control audio volume effortlessly with Pamixer. Adjust PulseAudio settings, toggle mute, and manage audio streams with command-line. Free online tool, no registration required."
 category: common

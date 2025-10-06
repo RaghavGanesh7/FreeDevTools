@@ -1,7 +1,7 @@
 ---
 title: "Xzegrep - Extended Grep Search | Online Free DevTools by Hexmos"
 name: xzegrep
-path: /freedevtools/tldr/common/xzegrep
+path: "/freedevtools/tldr/common/xzegrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xzegrep/"
 description: "Search with Xzegrep using extended regular expressions. Quickly filter and locate specific patterns in xz-compressed files. Free online tool, no registration required."
 category: common

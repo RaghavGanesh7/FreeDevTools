@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Login - Manage Cloud Access | Online Free DevTools by Hexmos"
 name: pulumi-login
-path: /freedevtools/tldr/pulumi/pulumi-login
+path: "/freedevtools/tldr/pulumi/pulumi-login/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-login/"
 description: "Manage Pulumi Cloud access with Pulumi Login. Configure and authenticate to your Pulumi account using the CLI. Free online tool, no registration required."
 category: common

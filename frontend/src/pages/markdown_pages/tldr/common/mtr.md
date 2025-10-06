@@ -1,7 +1,7 @@
 ---
 title: "MTR Traceroute - Diagnose Network Paths | Online Free DevTools by Hexmos"
 name: mtr
-path: /freedevtools/tldr/common/mtr
+path: "/freedevtools/tldr/common/mtr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mtr/"
 description: "Diagnose network paths with MTR Traceroute. Identify network latency and packet loss using this combined traceroute and ping utility. Free online tool, no registration required."
 category: common

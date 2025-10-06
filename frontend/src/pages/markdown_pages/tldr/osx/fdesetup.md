@@ -1,7 +1,7 @@
 ---
 title: "FileVault Control - Manage Disk Encryption | Online Free DevTools by Hexmos"
 name: fdesetup
-path: /freedevtools/tldr/osx/fdesetup
+path: "/freedevtools/tldr/osx/fdesetup/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/fdesetup/"
 description: "Control disk encryption with FileVault using fdesetup. Manage FileVault users, enable/disable encryption, and check the current status. Free online tool, no registration required."
 category: osx

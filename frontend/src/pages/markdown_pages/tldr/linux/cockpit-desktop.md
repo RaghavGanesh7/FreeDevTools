@@ -1,7 +1,7 @@
 ---
 title: "Control Cockpit - Secure Linux Sessions | Online Free DevTools by Hexmos"
 name: cockpit-desktop
-path: /freedevtools/tldr/linux/cockpit-desktop
+path: "/freedevtools/tldr/linux/cockpit-desktop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cockpit-desktop/"
 description: "Control Cockpit sessions securely with Cockpit-desktop. Access Cockpit pages in an isolated environment for enhanced security. Free online tool, no registration required."
 category: linux

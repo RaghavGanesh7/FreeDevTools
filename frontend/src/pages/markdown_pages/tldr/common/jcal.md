@@ -1,7 +1,7 @@
 ---
 title: "Jalali Calendar - Display Persian Calendar | Online Free DevTools by Hexmos"
 name: jcal
-path: /freedevtools/tldr/common/jcal
+path: "/freedevtools/tldr/common/jcal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jcal/"
 description: "Display Persian Calendar with jcal. View Jalali calendar for specific months and years in the terminal. Free online tool, no registration required."
 category: common

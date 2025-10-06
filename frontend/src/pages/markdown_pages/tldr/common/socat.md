@@ -1,7 +1,7 @@
 ---
 title: "Socat Relay - Create Network Connections | Online Free DevTools by Hexmos"
 name: socat
-path: /freedevtools/tldr/common/socat
+path: "/freedevtools/tldr/common/socat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/socat/"
 description: "Create network connections with Socat Relay. Transfer data, forward ports, and listen for connections with this versatile tool. Free online tool, no registration required."
 category: common

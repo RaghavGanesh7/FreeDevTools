@@ -1,7 +1,7 @@
 ---
 title: "SCCache - Compiler Cache Control | Online Free DevTools by Hexmos"
 name: sccache
-path: /freedevtools/tldr/common/sccache
+path: "/freedevtools/tldr/common/sccache/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sccache/"
 description: "Speed up compilations with SCCache, a fast C/C++/Rust compiler cache. Improve build times and developer productivity instantly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Hostnames - Translate IPs with avahi-resolve | Online Free DevTools by Hexmos"
 name: avahi-resolve
-path: /freedevtools/tldr/linux/avahi-resolve
+path: "/freedevtools/tldr/linux/avahi-resolve/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/avahi-resolve/"
 description: "Translate IP addresses to hostnames with avahi-resolve. Resolve local service names and debug network configurations. Free online tool, no registration required."
 category: linux

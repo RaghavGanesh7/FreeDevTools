@@ -1,7 +1,7 @@
 ---
 title: "Speed Read Text - Increase Reading Speed with RSVP | Online Free DevTools by Hexmos"
 name: speedread
-path: /freedevtools/tldr/linux/speedread
+path: "/freedevtools/tldr/linux/speedread/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/speedread/"
 description: "Increase reading speed with Speed Read Text, a terminal-based RSVP reader.  Control your reading pace with adjustable WPM and multi-word display. Free online tool, no registration required."
 category: linux

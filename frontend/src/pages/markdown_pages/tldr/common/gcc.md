@@ -1,7 +1,7 @@
 ---
 title: "Compile C/C++ Code - Control GCC Compiler | Online Free DevTools by Hexmos"
 name: gcc
-path: /freedevtools/tldr/common/gcc
+path: "/freedevtools/tldr/common/gcc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gcc/"
 description: "Compile C/C++ code efficiently with GCC Compiler. Optimize performance, debug effectively, and manage libraries effortlessly using command line. Free online tool, no registration required."
 category: common

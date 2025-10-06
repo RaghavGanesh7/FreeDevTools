@@ -1,7 +1,7 @@
 ---
 title: "Cat Command - Print Files | Online Free DevTools by Hexmos"
 name: cat
-path: /freedevtools/tldr/common/cat
+path: "/freedevtools/tldr/common/cat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cat/"
 description: "Print files easily with Cat Command. Concatenate and display file contents directly in your terminal. Free online tool, no registration required."
 category: common

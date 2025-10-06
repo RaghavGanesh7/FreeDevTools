@@ -1,7 +1,7 @@
 ---
 title: "Drush - Control Drupal Modules | Online Free DevTools by Hexmos"
 name: drush
-path: /freedevtools/tldr/common/drush
+path: "/freedevtools/tldr/common/drush/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/drush/"
 description: "Control Drupal module installations with Drush. Enable, disable, and clear caches with this powerful command-line tool. Free online tool, no registration required."
 category: common

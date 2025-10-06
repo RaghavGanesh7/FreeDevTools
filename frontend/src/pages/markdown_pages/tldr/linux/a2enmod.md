@@ -1,7 +1,7 @@
 ---
 title: "Enable Apache Modules - a2enmod Command | Online Free DevTools by Hexmos"
 name: a2enmod
-path: /freedevtools/tldr/linux/a2enmod
+path: "/freedevtools/tldr/linux/a2enmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/a2enmod/"
 description: "Enable Apache modules easily with the a2enmod command. Manage Apache configurations and activate necessary modules for your web server. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Create Directory - Make Directories with gmkdir | Online Free DevTools by Hexmos"
 name: gmkdir
-path: /freedevtools/tldr/osx/gmkdir
+path: "/freedevtools/tldr/osx/gmkdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gmkdir/"
 description: "Create directories quickly with gmkdir, a macOS directory creation command. Effortlessly manage your file system using this free online tool, no registration required."
 category: osx

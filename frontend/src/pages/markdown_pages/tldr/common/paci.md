@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages - Paci Package Manager for Bash | Online Free DevTools by Hexmos"
 name: paci
-path: /freedevtools/tldr/common/paci
+path: "/freedevtools/tldr/common/paci/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/paci/"
 description: "Manage Bash script packages with Paci Package Manager. Install, update, and search packages effortlessly with this free online tool, no registration required."
 category: common

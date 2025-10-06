@@ -1,7 +1,7 @@
 ---
 title: "Vidir Editor - Edit Directories in Editor | Online Free DevTools by Hexmos"
 name: vidir
-path: /freedevtools/tldr/common/vidir
+path: "/freedevtools/tldr/common/vidir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vidir/"
 description: "Edit directories with Vidir Editor. Modify file lists using your favorite text editor, ensuring quick and efficient directory management. Free online tool, no registration required."
 category: common

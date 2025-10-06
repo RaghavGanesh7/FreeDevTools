@@ -1,7 +1,7 @@
 ---
 title: "Tag Music with Picard - Generate MusicBrainz Tags | Online Free DevTools by Hexmos"
 name: picard
-path: /freedevtools/tldr/common/picard
+path: "/freedevtools/tldr/common/picard/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/picard/"
 description: "Tag music with Picard, a powerful MusicBrainz tagging application. Effortlessly organize and identify your music library. Free online tool, no registration required."
 category: common

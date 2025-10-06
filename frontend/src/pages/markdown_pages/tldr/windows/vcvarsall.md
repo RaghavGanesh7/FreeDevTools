@@ -1,7 +1,7 @@
 ---
 title: "VCVARSALL - Setup Visual Studio Environment | Online Free DevTools by Hexmos"
 name: vcvarsall
-path: /freedevtools/tldr/windows/vcvarsall
+path: "/freedevtools/tldr/windows/vcvarsall/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/vcvarsall/"
 description: "Setup environment variables with VCVARSALL for Visual Studio development. Configure compilers, linkers, and SDK paths. Free online tool, no registration required."
 category: windows

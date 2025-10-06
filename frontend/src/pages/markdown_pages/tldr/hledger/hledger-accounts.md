@@ -1,7 +1,7 @@
 ---
 title: "List Hledger Accounts - Manage Ledger Account Names | Online Free DevTools by Hexmos"
 name: hledger-accounts
-path: /freedevtools/tldr/hledger/hledger-accounts
+path: "/freedevtools/tldr/hledger/hledger-accounts/"
 canonical: "https://hexmos.com/freedevtools/tldr/hledger/hledger-accounts/"
 description: "List accounts with Hledger, the powerful accounting tool. Manage account names, filter by type, and generate account directives. Free online tool, no registration required."
 category: common

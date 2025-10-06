@@ -1,7 +1,7 @@
 ---
 title: "Pdbedit - Edit Samba User Database | Online Free DevTools by Hexmos"
 name: pdbedit
-path: /freedevtools/tldr/linux/pdbedit
+path: "/freedevtools/tldr/linux/pdbedit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdbedit/"
 description: "Edit user database with pdbedit, a powerful Samba management tool. Manage user accounts and security settings efficiently on Linux. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Enlarge Pnm Image - Resize Images | Online Free DevTools by Hexmos"
 name: pnmenlarge
-path: /freedevtools/tldr/pnm/pnmenlarge
+path: "/freedevtools/tldr/pnm/pnmenlarge/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmenlarge/"
 description: "Resize images with Pnm Enlarge. Enlarge Pnm image files using powerful scaling algorithms and custom zoom factors. Free online tool, no registration required."
 category: common

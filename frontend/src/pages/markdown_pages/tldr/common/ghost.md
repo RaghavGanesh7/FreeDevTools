@@ -1,7 +1,7 @@
 ---
 title: "Manage Ghost Blogs - Deploy and Control | Online Free DevTools by Hexmos"
 name: ghost
-path: /freedevtools/tldr/common/ghost
+path: "/freedevtools/tldr/common/ghost/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ghost/"
 description: "Manage Ghost blogs and headless CMS deployments with Ghost. Install, start, restart, and troubleshoot your Ghost instance easily. Free online tool, no registration required."
 category: common

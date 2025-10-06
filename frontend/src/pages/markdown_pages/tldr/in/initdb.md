@@ -1,7 +1,7 @@
 ---
 title: "Create PostgreSQL Database - Initialize DB | Online Free DevTools by Hexmos"
 name: initdb
-path: /freedevtools/tldr/in/initdb
+path: "/freedevtools/tldr/in/initdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/in/initdb/"
 description: "Create PostgreSQL database clusters with initdb. Initialize a new PostgreSQL instance and configure storage locations. Free online tool, no registration required."
 category: common

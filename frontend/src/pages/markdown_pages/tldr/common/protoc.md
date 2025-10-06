@@ -1,7 +1,7 @@
 ---
 title: "Generate Protobuf - Compile .proto Files | Online Free DevTools by Hexmos"
 name: protoc
-path: /freedevtools/tldr/common/protoc
+path: "/freedevtools/tldr/common/protoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/protoc/"
 description: "Generate Protobuf files with Protoc. Convert .proto files into code for various languages including Python and Java. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Gather Domain Information - theHarvester | Online Free DevTools by Hexmos"
 name: theharvester
-path: /freedevtools/tldr/common/theharvester
+path: "/freedevtools/tldr/common/theharvester/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/theharvester/"
 description: "Gather domain information with theHarvester. Uncover emails, subdomains, and hostnames for penetration testing. Free online tool, no registration required."
 category: common

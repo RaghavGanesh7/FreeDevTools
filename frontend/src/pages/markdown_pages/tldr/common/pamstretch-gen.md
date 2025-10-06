@@ -1,7 +1,7 @@
 ---
 title: "Generate PAM Image Scale - pamstretch-gen | Online Free DevTools by Hexmos"
 name: pamstretch-gen
-path: /freedevtools/tldr/common/pamstretch-gen
+path: "/freedevtools/tldr/common/pamstretch-gen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamstretch-gen/"
 description: "Generate PAM image scale factor with pamstretch-gen, enhancing image resolution. Achieve precise image resizing effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Consul - Distributed Key-Value Store | Online Free DevTools by Hexmos"
 name: consul
-path: /freedevtools/tldr/common/consul
+path: "/freedevtools/tldr/common/consul/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/consul/"
 description: "Manage service discovery with Consul, a distributed key-value store with health checking. Configure, monitor, and deploy services using Consul's powerful features. Free online tool, no registration required."
 category: common

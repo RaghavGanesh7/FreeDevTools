@@ -1,7 +1,7 @@
 ---
 title: "Control BIRD Routing - Manage Network Routes | Online Free DevTools by Hexmos"
 name: bird
-path: /freedevtools/tldr/common/bird
+path: "/freedevtools/tldr/common/bird/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bird/"
 description: "Control network routing with BIRD Routing Daemon. Manage BGP, OSPF, and Babel protocols. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Vue Serve - Develop Vue Apps Quickly | Online Free DevTools by Hexmos"
 name: vue-serve
-path: /freedevtools/tldr/vue/vue-serve
+path: "/freedevtools/tldr/vue/vue-serve/"
 canonical: "https://hexmos.com/freedevtools/tldr/vue/vue-serve/"
 description: "Serve Vue applications quickly with Vue Serve. Easily prototype and develop Vue.js projects with zero configuration. Free online tool, no registration required."
 category: common

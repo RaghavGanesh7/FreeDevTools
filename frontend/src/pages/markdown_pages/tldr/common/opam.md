@@ -1,7 +1,7 @@
 ---
 title: "OPAM - Manage OCaml Packages | Online Free DevTools by Hexmos"
 name: opam
-path: /freedevtools/tldr/common/opam
+path: "/freedevtools/tldr/common/opam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/opam/"
 description: "Manage OCaml packages with OPAM, the OCaml package manager. Install, update, and search for OCaml libraries and tools. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Highlight Log Files - Control Log Output with tspin | Online Free DevTools by Hexmos"
 name: tspin
-path: /freedevtools/tldr/common/tspin
+path: "/freedevtools/tldr/common/tspin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tspin/"
 description: "Control log output with tspin, a log file highlighter. Analyze, filter, and debug logs efficiently. Free online tool, no registration required."
 category: common

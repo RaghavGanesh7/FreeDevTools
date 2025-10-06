@@ -1,7 +1,7 @@
 ---
 title: "Create Rails App - Generate New Rails Projects | Online Free DevTools by Hexmos"
 name: rails-new
-path: /freedevtools/tldr/rails/rails-new
+path: "/freedevtools/tldr/rails/rails-new/"
 canonical: "https://hexmos.com/freedevtools/tldr/rails/rails-new/"
 description: "Create Rails applications instantly with Rails new. Generate API-only apps, specify databases, and skip JavaScript generation. Free online tool, no registration required."
 category: common

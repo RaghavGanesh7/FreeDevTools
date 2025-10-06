@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Run - Create Pods in Kubernetes | Online Free DevTools by Hexmos"
 name: kubectl-run
-path: /freedevtools/tldr/kubectl/kubectl-run
+path: "/freedevtools/tldr/kubectl/kubectl-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-run/"
 description: "Create Kubernetes pods instantly with Kubectl Run. Deploy applications, manage containers, and test configurations. Free online tool, no registration required."
 category: common

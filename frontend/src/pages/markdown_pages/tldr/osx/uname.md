@@ -1,7 +1,7 @@
 ---
 title: "Uname - Print System Information | Online Free DevTools by Hexmos"
 name: uname
-path: /freedevtools/tldr/osx/uname
+path: "/freedevtools/tldr/osx/uname/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/uname/"
 description: "Print system information with Uname. Display kernel name, operating system version, and hardware architecture details. Free online tool, no registration required."
 category: osx

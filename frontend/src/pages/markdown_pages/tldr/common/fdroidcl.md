@@ -1,7 +1,7 @@
 ---
 title: "F-Droid Manager - Control Apps via ADB | Online Free DevTools by Hexmos"
 name: fdroidcl
-path: /freedevtools/tldr/common/fdroidcl
+path: "/freedevtools/tldr/common/fdroidcl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fdroidcl/"
 description: "Control F-Droid apps via ADB with F-Droid Manager. Manage app installation, updates, and repositories on connected Android devices. Free online tool, no registration required."
 category: common

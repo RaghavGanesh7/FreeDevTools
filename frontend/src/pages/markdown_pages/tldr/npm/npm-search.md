@@ -1,7 +1,7 @@
 ---
 title: "NPM Search - Find Packages in the Registry | Online Free DevTools by Hexmos"
 name: npm-search
-path: /freedevtools/tldr/npm/npm-search
+path: "/freedevtools/tldr/npm/npm-search/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-search/"
 description: "Find NPM packages easily with NPM Search. Discover, explore, and install Node.js modules from the registry. Free online tool, no registration required."
 category: common

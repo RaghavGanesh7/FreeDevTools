@@ -1,7 +1,7 @@
 ---
 title: "Hugo Server - Build Websites Quickly | Online Free DevTools by Hexmos"
 name: hugo-server
-path: /freedevtools/tldr/common/hugo-server
+path: "/freedevtools/tldr/common/hugo-server/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hugo-server/"
 description: "Build sites rapidly with Hugo Server. Develop, test, and preview your Hugo website instantly with hot reloading. Free online tool, no registration required."
 category: common

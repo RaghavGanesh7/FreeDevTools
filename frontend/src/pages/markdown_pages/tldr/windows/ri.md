@@ -1,7 +1,7 @@
 ---
 title: "Remove Item - Delete Files on Windows | Online Free DevTools by Hexmos"
 name: ri
-path: /freedevtools/tldr/windows/ri
+path: "/freedevtools/tldr/windows/ri/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/ri/"
 description: "Delete files instantly with Remove Item on Windows. Easily remove items, directories, and files using PowerShell commands. Free online tool, no registration required."
 category: windows

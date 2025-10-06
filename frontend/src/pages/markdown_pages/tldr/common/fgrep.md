@@ -1,7 +1,7 @@
 ---
 title: "fgrep - Search Fixed Strings | Online Free DevTools by Hexmos"
 name: fgrep
-path: /freedevtools/tldr/common/fgrep
+path: "/freedevtools/tldr/common/fgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fgrep/"
 description: "Search fixed strings with fgrep. Quickly find exact text patterns in files using this command-line utility. Free online tool, no registration required."
 category: common

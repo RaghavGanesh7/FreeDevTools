@@ -1,7 +1,7 @@
 ---
 title: "Compile Terminfo - Manage Terminal Definitions | Online Free DevTools by Hexmos"
 name: tic
-path: /freedevtools/tldr/linux/tic
+path: "/freedevtools/tldr/linux/tic/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tic/"
 description: "Compile terminfo with tic for managing terminal definitions on Linux. Validate terminfo files and customize terminal behavior with this command-line tool. Free online tool, no registration required."
 category: linux

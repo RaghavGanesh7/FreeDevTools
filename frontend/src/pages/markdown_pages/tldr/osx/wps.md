@@ -1,7 +1,7 @@
 ---
 title: "WPS Control - Manage WiFi Connections on macOS | Online Free DevTools by Hexmos"
 name: wps
-path: /freedevtools/tldr/osx/wps
+path: "/freedevtools/tldr/osx/wps/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/wps/"
 description: "Control WiFi connections with WPS (Wireless Protected Setup). Manage network access and assist AirPort on macOS using command line. Free online tool, no registration required."
 category: osx

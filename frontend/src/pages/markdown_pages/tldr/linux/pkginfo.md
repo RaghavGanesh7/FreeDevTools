@@ -1,7 +1,7 @@
 ---
 title: "Query Package Info - Manage CRUX Packages | Online Free DevTools by Hexmos"
 name: pkginfo
-path: /freedevtools/tldr/linux/pkginfo
+path: "/freedevtools/tldr/linux/pkginfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkginfo/"
 description: "Query package information with pkginfo. Manage installed software and dependencies on CRUX systems efficiently. Free online tool, no registration required."
 category: linux

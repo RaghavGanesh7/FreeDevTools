@@ -1,7 +1,7 @@
 ---
 title: "Generate Drupal Code - DCG | Online Free DevTools by Hexmos"
 name: dcg
-path: /freedevtools/tldr/common/dcg
+path: "/freedevtools/tldr/common/dcg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dcg/"
 description: "Generate Drupal code efficiently with DCG. Streamline module, service, and form creation. Boost Drupal development productivity. Free online tool, no registration required."
 category: common

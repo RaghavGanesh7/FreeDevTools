@@ -1,7 +1,7 @@
 ---
 title: "Newgrp - Switch User Group Membership | Online Free DevTools by Hexmos"
 name: newgrp
-path: /freedevtools/tldr/linux/newgrp
+path: "/freedevtools/tldr/linux/newgrp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/newgrp/"
 description: "Switch user group with Newgrp. Change primary group membership and reset to default with this Linux command. Free online tool, no registration required."
 category: linux

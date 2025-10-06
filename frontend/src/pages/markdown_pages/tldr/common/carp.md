@@ -1,7 +1,7 @@
 ---
 title: "Carp REPL - Build Carp Projects | Online Free DevTools by Hexmos"
 name: carp
-path: /freedevtools/tldr/common/carp
+path: "/freedevtools/tldr/common/carp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/carp/"
 description: "Build your Carp projects effortlessly with Carp REPL. Compile, transpile, and execute Carp code with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Dotfiles - Control Dotfile Configurations | Online Free DevTools by Hexmos"
 name: tuckr
-path: /freedevtools/tldr/common/tuckr
+path: "/freedevtools/tldr/common/tuckr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tuckr/"
 description: "Manage dotfiles with Tuckr, the Rust-based dotfile manager. Control configurations across systems, add, remove, and update dotfiles effortlessly. Free online tool, no registration required."
 category: common

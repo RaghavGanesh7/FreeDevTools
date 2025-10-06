@@ -1,7 +1,7 @@
 ---
 title: "Extract PDF Images - Control Images in PDFs | Online Free DevTools by Hexmos"
 name: pdfimages
-path: /freedevtools/tldr/common/pdfimages
+path: "/freedevtools/tldr/common/pdfimages/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfimages/"
 description: "Extract PDF images quickly with pdfimages. Extract images from PDF files and list image information effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create Linux Packages - Track Install with Checkinstall | Online Free DevTools by Hexmos"
 name: checkinstall
-path: /freedevtools/tldr/linux/checkinstall
+path: "/freedevtools/tldr/linux/checkinstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/checkinstall/"
 description: "Create Linux packages easily with Checkinstall. Track software installations and generate installable binaries with your system's package manager. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Esearch - Perform Entrez Searches | Online Free DevTools by Hexmos"
 name: esearch
-path: /freedevtools/tldr/linux/esearch
+path: "/freedevtools/tldr/linux/esearch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/esearch/"
 description: "Perform advanced Entrez searches with Esearch to query biological databases like PubMed and protein. Quickly retrieve data with this command-line tool. Free online tool, no registration required."
 category: linux

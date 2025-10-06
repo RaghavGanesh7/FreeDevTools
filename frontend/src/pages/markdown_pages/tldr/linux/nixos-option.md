@@ -1,7 +1,7 @@
 ---
 title: "Inspect NixOS Configuration - List Options | Online Free DevTools by Hexmos"
 name: nixos-option
-path: /freedevtools/tldr/linux/nixos-option
+path: "/freedevtools/tldr/linux/nixos-option/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nixos-option/"
 description: "Inspect NixOS configurations with nixos-option. List option keys, view boot modules, and manage user settings effortlessly. Free online tool, no registration required."
 category: linux

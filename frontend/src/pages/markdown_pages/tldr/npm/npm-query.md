@@ -1,7 +1,7 @@
 ---
 title: "NPM Query - Print Package Dependencies | Online Free DevTools by Hexmos"
 name: npm-query
-path: /freedevtools/tldr/npm/npm-query
+path: "/freedevtools/tldr/npm/npm-query/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-query/"
 description: "Print package dependencies with NPM Query, using CSS-like selectors to filter and extract data. Inspect package structure, identify dependencies, and automate tasks. Free online tool, no registration required."
 category: common

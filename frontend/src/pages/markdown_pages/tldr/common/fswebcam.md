@@ -1,7 +1,7 @@
 ---
 title: "Capture Webcam Image - Control Camera Feed | Online Free DevTools by Hexmos"
 name: fswebcam
-path: /freedevtools/tldr/common/fswebcam
+path: "/freedevtools/tldr/common/fswebcam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fswebcam/"
 description: "Capture webcam image with fswebcam. Control camera settings, adjust resolution, and add timestamps to your captures. Free online tool, no registration required."
 category: common

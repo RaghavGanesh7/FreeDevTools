@@ -1,7 +1,7 @@
 ---
 title: "Opera - View Chromium Documentation | Online Free DevTools by Hexmos"
 name: opera
-path: /freedevtools/tldr/common/opera
+path: "/freedevtools/tldr/common/opera/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/opera/"
 description: "View Chromium documentation with Opera. This command is an alias, quickly access help information using command-line. Free online tool, no registration required."
 category: common

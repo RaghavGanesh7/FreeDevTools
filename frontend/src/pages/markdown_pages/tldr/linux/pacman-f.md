@@ -1,7 +1,7 @@
 ---
 title: "Pacman Files - Manage Files with Pacman | Online Free DevTools by Hexmos"
 name: pacman-f
-path: /freedevtools/tldr/linux/pacman-f
+path: "/freedevtools/tldr/linux/pacman-f/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-f/"
 description: "Manage files efficiently with Pacman. View file information and lists of files installed by packages. Free online tool, no registration required."
 category: linux

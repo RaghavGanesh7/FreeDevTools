@@ -1,7 +1,7 @@
 ---
 title: "Warpd - Control Mouse with Keyboard | Online Free DevTools by Hexmos"
 name: warpd
-path: /freedevtools/tldr/linux/warpd
+path: "/freedevtools/tldr/linux/warpd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/warpd/"
 description: "Control your mouse with Warpd keyboard shortcuts. Move cursor, emulate clicks, and navigate easily without a physical mouse. Free online tool, no registration required."
 category: linux

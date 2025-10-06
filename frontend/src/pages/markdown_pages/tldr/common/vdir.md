@@ -1,7 +1,7 @@
 ---
 title: "List Directory - Verbose Listing with vdir | Online Free DevTools by Hexmos"
 name: vdir
-path: /freedevtools/tldr/common/vdir
+path: "/freedevtools/tldr/common/vdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vdir/"
 description: "List directory contents with vdir for detailed file information. Quickly analyze file sizes and modification times on Linux, macOS, and Unix. Free online tool, no registration required."
 category: common

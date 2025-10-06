@@ -1,7 +1,7 @@
 ---
 title: "Generate Tiles - gdal2tiles.py for Raster Data | Online Free DevTools by Hexmos"
 name: gdal2tiles.py
-path: /freedevtools/tldr/common/gdal2tiles-py
+path: "/freedevtools/tldr/common/gdal2tiles-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/gdal2tiles-py/"
 description: "Generate raster tiles with gdal2tiles.py for web mapping. Create TMS and XYZ tiles efficiently. Free online tool, no registration required."
 category: common

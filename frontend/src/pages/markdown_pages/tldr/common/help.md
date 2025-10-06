@@ -1,7 +1,7 @@
 ---
 title: "Bash Help - Display Command Information | Online Free DevTools by Hexmos"
 name: help
-path: /freedevtools/tldr/common/help
+path: "/freedevtools/tldr/common/help/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/help/"
 description: "Display Bash command information with Bash Help. Explore command syntax, usage, and examples directly from the command line. Free online tool, no registration required."
 category: common

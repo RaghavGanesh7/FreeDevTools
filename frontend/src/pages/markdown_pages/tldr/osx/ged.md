@@ -1,7 +1,7 @@
 ---
 title: "GNU Ed - Edit Text Files | Online Free DevTools by Hexmos"
 name: ged
-path: "/freedevtools/tldr/osx/ged"
+path: "/freedevtools/tldr/osx/ged/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ged/"
 description: "Edit text files quickly with GNU Ed, the classic line editor. Open, modify, and save text files directly from your terminal. Free online tool, no registration required."
 category: osx

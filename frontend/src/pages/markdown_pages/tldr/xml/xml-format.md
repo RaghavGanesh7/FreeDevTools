@@ -1,7 +1,7 @@
 ---
 title: "XML Format - Format XML Documents | Online Free DevTools by Hexmos"
 name: xml-format
-path: /freedevtools/tldr/xml/xml-format
+path: "/freedevtools/tldr/xml/xml-format/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-format/"
 description: "Format XML documents with XML Format. Clean, indent, and recover XML data with ease using this command line tool. Free online tool, no registration required."
 category: common

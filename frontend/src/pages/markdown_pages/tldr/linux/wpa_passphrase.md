@@ -1,7 +1,7 @@
 ---
 title: "Generate WPA-PSK Key - WPA Passphrase Generator | Online Free DevTools by Hexmos"
 name: wpa_passphrase
-path: /freedevtools/tldr/linux/wpa_passphrase
+path: "/freedevtools/tldr/linux/wpa_passphrase/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wpa_passphrase/"
 description: "Generate WPA-PSK keys with wpa_passphrase.  This command-line tool securely creates WPA/WPA2 pre-shared keys. Free online tool, no registration required."
 category: linux

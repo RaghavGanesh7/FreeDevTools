@@ -1,7 +1,7 @@
 ---
 title: "Search Linux Packages - Find Files with pkgfile | Online Free DevTools by Hexmos"
 name: pkgfile
-path: /freedevtools/tldr/linux/pkgfile
+path: "/freedevtools/tldr/linux/pkgfile/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgfile/"
 description: "Search for files within Linux packages using pkgfile. Easily identify the package containing a specific file. Free online tool, no registration required."
 category: linux

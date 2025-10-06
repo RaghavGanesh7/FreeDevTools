@@ -1,7 +1,7 @@
 ---
 title: "GPG - Manage Encryption Keys | Online Free DevTools by Hexmos"
 name: gpg2
-path: /freedevtools/tldr/gpg/gpg2
+path: "/freedevtools/tldr/gpg/gpg2/"
 canonical: "https://hexmos.com/freedevtools/tldr/gpg/gpg2/"
 description: "Manage encryption keys with GPG. Generate, import, and verify GPG keys securely using this command-line tool. Free online tool, no registration required."
 category: common

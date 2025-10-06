@@ -1,7 +1,7 @@
 ---
 title: "CUPS Control - Manage Printing System Configuration | Online Free DevTools by Hexmos"
 name: cupsctl
-path: /freedevtools/tldr/common/cupsctl
+path: "/freedevtools/tldr/common/cupsctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cupsctl/"
 description: "Manage CUPS printing system configuration with CUPS Control. Configure printer settings and manage server options efficiently. Free online tool, no registration required."
 category: common

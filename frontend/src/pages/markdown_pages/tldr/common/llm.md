@@ -1,7 +1,7 @@
 ---
 title: "Interact with LLMs - Generate Text | Online Free DevTools by Hexmos"
 name: llm
-path: "/freedevtools/tldr/common/llm"
+path: "/freedevtools/tldr/common/llm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/llm/"
 description: "Generate text with Large Language Models (LLMs) using llm. Interact with remote APIs and local models. Free online tool, no registration required."
 category: common

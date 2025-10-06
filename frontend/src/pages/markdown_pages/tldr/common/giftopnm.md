@@ -1,7 +1,7 @@
 ---
 title: "Convert GIF to PNM - Pixel-Perfect Conversion | Online Free DevTools by Hexmos"
 name: giftopnm
-path: /freedevtools/tldr/common/giftopnm
+path: "/freedevtools/tldr/common/giftopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/giftopnm/"
 description: "Convert GIF images to PNM pixel-for-pixel with giftopnm. Achieve lossless image format conversion for graphic preservation and editing. Free online tool, no registration required."
 category: common

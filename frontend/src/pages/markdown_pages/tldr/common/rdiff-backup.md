@@ -1,7 +1,7 @@
 ---
 title: "Rdiff-backup - Backup Files Incrementally | Online Free DevTools by Hexmos"
 name: rdiff-backup
-path: /freedevtools/tldr/common/rdiff-backup
+path: "/freedevtools/tldr/common/rdiff-backup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rdiff-backup/"
 description: "Backup files with rdiff-backup for local or remote mirroring. Incrementally manage file versions and restore specific points in time. Free online tool, no registration required."
 category: common

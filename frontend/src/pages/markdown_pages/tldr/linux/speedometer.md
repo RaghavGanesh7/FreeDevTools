@@ -1,7 +1,7 @@
 ---
 title: "Speedometer - Monitor Network Traffic | Online Free DevTools by Hexmos"
 name: speedometer
-path: /freedevtools/tldr/linux/speedometer
+path: "/freedevtools/tldr/linux/speedometer/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/speedometer/"
 description: "Monitor network traffic with Speedometer, a command-line tool for visualizing network activity on Linux. Analyze bandwidth usage and troubleshoot network issues. Free online tool, no registration required."
 category: linux

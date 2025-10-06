@@ -1,7 +1,7 @@
 ---
 title: "Convert Palm Bitmap - Generate PNM Image | Online Free DevTools by Hexmos"
 name: palmtopnm
-path: /freedevtools/tldr/common/palmtopnm
+path: "/freedevtools/tldr/common/palmtopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/palmtopnm/"
 description: "Convert Palm bitmap to PNM image with palmtopnm. Generate, view, and manipulate image formats with this command line tool. Free online tool, no registration required."
 category: common

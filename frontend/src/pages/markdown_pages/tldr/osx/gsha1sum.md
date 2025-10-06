@@ -1,7 +1,7 @@
 ---
 title: "Generate SHA1 Checksums - gsha1sum on macOS | Online Free DevTools by Hexmos"
 name: gsha1sum
-path: /freedevtools/tldr/osx/gsha1sum
+path: "/freedevtools/tldr/osx/gsha1sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsha1sum/"
 description: "Generate SHA1 checksums with gsha1sum, an alias for sha1sum on macOS. Verify file integrity and ensure data authenticity. Free online tool, no registration required."
 category: osx

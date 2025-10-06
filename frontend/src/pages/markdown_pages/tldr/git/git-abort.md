@@ -1,7 +1,7 @@
 ---
 title: "Abort Git - Manage Rebase Operations | Online Free DevTools by Hexmos"
 name: git-abort
-path: /freedevtools/tldr/git/git-abort
+path: "/freedevtools/tldr/git/git-abort/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-abort/"
 description: "Manage Git rebase operations with Git Abort command. Cancel merges, cherry-picks and ongoing rebases effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Navigate Disk Space - Control Disk Usage with Diskonaut | Online Free DevTools by Hexmos"
 name: diskonaut
-path: /freedevtools/tldr/common/diskonaut
+path: "/freedevtools/tldr/common/diskonaut/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/diskonaut/"
 description: "Control disk space usage with Diskonaut, a terminal disk space navigator. Analyze directory sizes and free up storage space. Free online tool, no registration required."
 category: common

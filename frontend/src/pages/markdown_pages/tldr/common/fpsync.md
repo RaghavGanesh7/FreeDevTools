@@ -1,7 +1,7 @@
 ---
 title: "FileSync - Synchronize Files Recursively | Online Free DevTools by Hexmos"
 name: fpsync
-path: /freedevtools/tldr/common/fpsync
+path: "/freedevtools/tldr/common/fpsync/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fpsync/"
 description: "Synchronize files recursively with FileSync across local and remote servers. Efficiently manage file transfers and backups with rsync-based parallel processing. Free online tool, no registration required."
 category: common

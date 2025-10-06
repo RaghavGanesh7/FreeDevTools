@@ -1,7 +1,7 @@
 ---
 title: "View Images - Render Images in Terminal | Online Free DevTools by Hexmos"
 name: viu
-path: /freedevtools/tldr/common/viu
+path: "/freedevtools/tldr/common/viu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/viu/"
 description: "Render images instantly with Viu terminal image viewer. Display PNGs, JPGs, and GIFs directly in your command line. Free online tool, no registration required."
 category: common

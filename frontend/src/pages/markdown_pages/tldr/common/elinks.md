@@ -1,7 +1,7 @@
 ---
 title: "ELinks Browser - Browse Text-Based Websites | Online Free DevTools by Hexmos"
 name: elinks
-path: /freedevtools/tldr/common/elinks
+path: "/freedevtools/tldr/common/elinks/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/elinks/"
 description: "Browse websites with ELinks text browser. Quickly access information from the command line, dump webpage content, and analyze text-based data. Free online tool, no registration required."
 category: common

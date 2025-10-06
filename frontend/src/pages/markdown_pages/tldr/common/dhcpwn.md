@@ -1,7 +1,7 @@
 ---
 title: "DHCP Exhaustion Attack - Control DHCP with dhcpwn | Online Free DevTools by Hexmos"
 name: dhcpwn
-path: /freedevtools/tldr/common/dhcpwn
+path: "/freedevtools/tldr/common/dhcpwn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dhcpwn/"
 description: "Control DHCP server using dhcpwn to perform exhaustion attacks and sniff network traffic. Simulate attacks and monitor DHCP communications. Free online tool, no registration required."
 category: common

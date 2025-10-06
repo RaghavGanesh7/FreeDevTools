@@ -1,7 +1,7 @@
 ---
 title: "Convert Audio Files - vgmstream_cli Audio Converter | Online Free DevTools by Hexmos"
 name: vgmstream_cli
-path: /freedevtools/tldr/common/vgmstream_cli
+path: "/freedevtools/tldr/common/vgmstream_cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vgmstream_cli/"
 description: "Convert audio files effortlessly with vgmstream_cli. Decode various video game audio formats to WAV with advanced looping and fade options. Free online tool, no registration required."
 category: common

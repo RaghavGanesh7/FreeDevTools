@@ -1,7 +1,7 @@
 ---
 title: "Apply Git Patch - Create Commits Easily | Online Free DevTools by Hexmos"
 name: git-am
-path: /freedevtools/tldr/git/git-am
+path: "/freedevtools/tldr/git/git-am/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-am/"
 description: "Apply Git patches instantly with Git am. Create commits from patch files, useful for email-based workflows and collaboration. Free online tool, no registration required."
 category: common

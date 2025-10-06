@@ -1,7 +1,7 @@
 ---
 title: "PNPM Manager - Control Node Packages | Online Free DevTools by Hexmos"
 name: pnpm
-path: /freedevtools/tldr/pnpm/pnpm
+path: "/freedevtools/tldr/pnpm/pnpm/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnpm/pnpm/"
 description: "Control Node.js packages with PNPM Manager. Install, uninstall, and manage dependencies efficiently. Improve project speed and disk space. Free online tool, no registration required."
 category: common

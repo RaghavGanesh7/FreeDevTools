@@ -1,7 +1,7 @@
 ---
 title: "Instaloader - Download Instagram Media | Online Free DevTools by Hexmos"
 name: instaloader
-path: /freedevtools/tldr/linux/instaloader
+path: "/freedevtools/tldr/linux/instaloader/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/instaloader/"
 description: "Download Instagram media with Instaloader, including photos, videos, stories, and highlights. Easily archive Instagram content offline. Free online tool, no registration required."
 category: linux

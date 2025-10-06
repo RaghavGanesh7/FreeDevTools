@@ -1,7 +1,7 @@
 ---
 title: "Gchcon - Control File Security Contexts | Online Free DevTools by Hexmos"
 name: gchcon
-path: /freedevtools/tldr/osx/gchcon
+path: "/freedevtools/tldr/osx/gchcon/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gchcon/"
 description: "Control file security contexts with gchcon. Manage SELinux context and file permissions on macOS. Free online tool, no registration required."
 category: osx

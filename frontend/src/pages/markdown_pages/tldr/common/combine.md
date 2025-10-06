@@ -1,7 +1,7 @@
 ---
 title: "Combine Files - Perform Set Operations on Lines | Online Free DevTools by Hexmos"
 name: combine
-path: /freedevtools/tldr/common/combine
+path: "/freedevtools/tldr/common/combine/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/combine/"
 description: "Combine lines with Combine: perform set operations on lines of two files. Quickly identify common, unique, or differing lines. Free online tool, no registration required."
 category: common

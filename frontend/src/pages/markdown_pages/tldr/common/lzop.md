@@ -1,7 +1,7 @@
 ---
 title: "LZOP Compress - Compress Files with LZO | Online Free DevTools by Hexmos"
 name: lzop
-path: "/freedevtools/tldr/common/lzop"
+path: "/freedevtools/tldr/common/lzop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzop/"
 description: "Compress files with LZOP, an efficient LZO data compressor. Reduce file sizes quickly with this compression tool. Free online tool, no registration required."
 category: common

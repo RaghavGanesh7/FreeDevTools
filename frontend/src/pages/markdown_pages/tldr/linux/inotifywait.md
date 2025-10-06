@@ -1,7 +1,7 @@
 ---
 title: "Inotifywait - Monitor File Changes | Online Free DevTools by Hexmos"
 name: inotifywait
-path: /freedevtools/tldr/linux/inotifywait
+path: "/freedevtools/tldr/linux/inotifywait/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/inotifywait/"
 description: "Monitor file changes with Inotifywait. Watch files and directories for specific events, such as modification, access, or creation. Free online tool, no registration required."
 category: linux

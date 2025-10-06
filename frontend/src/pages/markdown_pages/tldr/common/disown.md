@@ -1,7 +1,7 @@
 ---
 title: "Disown Process - Detach Background Jobs | Online Free DevTools by Hexmos"
 name: disown
-path: /freedevtools/tldr/common/disown
+path: "/freedevtools/tldr/common/disown/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/disown/"
 description: "Detach processes with Disown. Prevent sub-processes from terminating when the shell exits. Free online tool, no registration required."
 category: common

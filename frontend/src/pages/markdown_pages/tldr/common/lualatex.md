@@ -1,7 +1,7 @@
 ---
 title: "Compile LaTeX - Create PDFs with LuaLaTeX | Online Free DevTools by Hexmos"
 name: lualatex
-path: /freedevtools/tldr/common/lualatex
+path: "/freedevtools/tldr/common/lualatex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lualatex/"
 description: "Compile LaTeX documents effortlessly with LuaLaTeX. Generate PDFs from .tex files with advanced customization options. Free online tool, no registration required."
 category: common

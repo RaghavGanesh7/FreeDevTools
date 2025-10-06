@@ -1,7 +1,7 @@
 ---
 title: "Control Mouse & Keyboard - ydotool Commands | Online Free DevTools by Hexmos"
 name: ydotool
-path: /freedevtools/tldr/linux/ydotool
+path: "/freedevtools/tldr/linux/ydotool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ydotool/"
 description: "Control mouse and keyboard inputs with ydotool commands.  Simulate clicks, keystrokes, and more across different display servers. Free online tool, no registration required."
 category: linux

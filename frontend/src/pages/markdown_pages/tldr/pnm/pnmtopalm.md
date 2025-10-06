@@ -1,7 +1,7 @@
 ---
 title: "Convert PNM to Palm - Create Palm Images | Online Free DevTools by Hexmos"
 name: pnmtopalm
-path: /freedevtools/tldr/pnm/pnmtopalm
+path: "/freedevtools/tldr/pnm/pnmtopalm/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmtopalm/"
 description: "Convert PNM images to Palm bitmaps with Pnmtopalm. Generate Palm images with various color depths and compression methods. Free online tool, no registration required."
 category: common

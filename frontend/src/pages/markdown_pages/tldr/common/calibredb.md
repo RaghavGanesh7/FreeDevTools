@@ -1,7 +1,7 @@
 ---
 title: "Control E-book Database - Calibredb Command | Online Free DevTools by Hexmos"
 name: calibredb
-path: /freedevtools/tldr/common/calibredb
+path: "/freedevtools/tldr/common/calibredb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calibredb/"
 description: "Control your e-book library database with Calibredb. Manage, search, and add books effortlessly with this command-line tool. Free online tool, no registration required."
 category: common

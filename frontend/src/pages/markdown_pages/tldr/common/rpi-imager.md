@@ -1,7 +1,7 @@
 ---
 title: "RPI Imager - Flash Images to Storage | Online Free DevTools by Hexmos"
 name: rpi-imager
-path: /freedevtools/tldr/common/rpi-imager
+path: "/freedevtools/tldr/common/rpi-imager/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rpi-imager/"
 description: "Flash OS images with RPI Imager. Quickly write Raspberry Pi images to storage devices with checksum validation options. Free online tool, no registration required."
 category: common

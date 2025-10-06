@@ -1,7 +1,7 @@
 ---
 title: "Gzip - Compress and Decompress Files | Online Free DevTools by Hexmos"
 name: gzip
-path: /freedevtools/tldr/common/gzip
+path: "/freedevtools/tldr/common/gzip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gzip/"
 description: "Compress files with Gzip. Quickly archive, decompress, and manage files using the command line. Free online tool, no registration required. Secondary keyword: file compression."
 category: common

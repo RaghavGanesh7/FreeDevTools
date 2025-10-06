@@ -1,7 +1,7 @@
 ---
 title: "Snakefmt - Format Snakemake Files | Online Free DevTools by Hexmos"
 name: snakefmt
-path: /freedevtools/tldr/common/snakefmt
+path: "/freedevtools/tldr/common/snakefmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snakefmt/"
 description: "Format Snakemake files instantly with Snakefmt. Ensure consistent code style and improve readability for easier collaboration. Free online tool, no registration required."
 category: common

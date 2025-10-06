@@ -1,7 +1,7 @@
 ---
 title: "Format Documents - Groff Typesetting | Online Free DevTools by Hexmos"
 name: groff
-path: /freedevtools/tldr/common/groff
+path: "/freedevtools/tldr/common/groff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/groff/"
 description: "Format documents with Groff, a powerful typesetting system for creating professional-quality documents. Convert text to PostScript, HTML, or PDF. Free online tool, no registration required."
 category: common

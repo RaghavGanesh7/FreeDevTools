@@ -1,7 +1,7 @@
 ---
 title: "Compute Checksums - Calculate File Checksums | Online Free DevTools by Hexmos"
 name: sum
-path: /freedevtools/tldr/common/sum
+path: "/freedevtools/tldr/common/sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sum/"
 description: "Compute checksums with Sum command. Calculate file integrity, verify data transfer, and detect file corruption on Linux and MacOS. Free online tool, no registration required."
 category: common

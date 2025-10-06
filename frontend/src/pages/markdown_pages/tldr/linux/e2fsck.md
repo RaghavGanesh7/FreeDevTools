@@ -1,7 +1,7 @@
 ---
 title: "e2fsck Filesystem Check - Validate Linux Partitions | Online Free DevTools by Hexmos"
 name: e2fsck
-path: /freedevtools/tldr/linux/e2fsck
+path: "/freedevtools/tldr/linux/e2fsck/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/e2fsck/"
 description: "Validate Linux ext2/ext3/ext4 filesystems with e2fsck. Check and repair damaged blocks, ensuring data integrity. Free online tool, no registration required."
 category: linux

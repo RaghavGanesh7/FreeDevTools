@@ -1,7 +1,7 @@
 ---
 title: "Convert TLDR to Clip - Generate CLI Pages | Online Free DevTools by Hexmos"
 name: md-to-clip
-path: /freedevtools/tldr/common/md-to-clip
+path: "/freedevtools/tldr/common/md-to-clip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/md-to-clip/"
 description: "Convert TLDR pages to CLI pages with md-to-clip. Generate command-line documentation easily. Free online tool, no registration required."
 category: common

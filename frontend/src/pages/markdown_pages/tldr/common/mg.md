@@ -1,7 +1,7 @@
 ---
 title: "Control Text Files - Edit Files with mg | Online Free DevTools by Hexmos"
 name: mg
-path: /freedevtools/tldr/common/mg
+path: "/freedevtools/tldr/common/mg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mg/"
 description: "Edit text files efficiently with mg, a lightweight `emacs`-based editor. Open, modify, and save files quickly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Whoami - Check User Identity | Online Free DevTools by Hexmos"
 name: pulumi-whoami
-path: /freedevtools/tldr/pulumi/pulumi-whoami
+path: "/freedevtools/tldr/pulumi/pulumi-whoami/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-whoami/"
 description: "Check user identity with Pulumi Whoami. Retrieve your username and detailed account information with this simple CLI command. Free online tool, no registration required."
 category: common

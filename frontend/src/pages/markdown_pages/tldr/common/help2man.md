@@ -1,7 +1,7 @@
 ---
 title: "Generate Man Pages - help2man Tool | Online Free DevTools by Hexmos"
 name: help2man
-path: /freedevtools/tldr/common/help2man
+path: "/freedevtools/tldr/common/help2man/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/help2man/"
 description: "Generate man pages easily with help2man. Convert --help output to manual pages. Free online tool, no registration required."
 category: common

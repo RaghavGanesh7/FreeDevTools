@@ -1,7 +1,7 @@
 ---
 title: "Nagios Monitoring - Control Network Services | Online Free DevTools by Hexmos"
 name: nagios
-path: /freedevtools/tldr/common/nagios
+path: "/freedevtools/tldr/common/nagios/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nagios/"
 description: "Control network services with Nagios Monitoring. Schedule checks, verify configurations, and daemonize processes easily. Free online tool, no registration required."
 category: common

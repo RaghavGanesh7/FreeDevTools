@@ -1,7 +1,7 @@
 ---
 title: "Create JAR Archive - Package Java Applications | Online Free DevTools by Hexmos"
 name: jar
-path: /freedevtools/tldr/common/jar
+path: "/freedevtools/tldr/common/jar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jar/"
 description: "Create JAR archives with JAR. Package Java applications and libraries efficiently for distribution. Free online tool, no registration required. Easily compress files."
 category: common

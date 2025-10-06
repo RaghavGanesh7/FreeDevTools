@@ -1,7 +1,7 @@
 ---
 title: "Truncate - Control File Size | Online Free DevTools by Hexmos"
 name: truncate
-path: /freedevtools/tldr/common/truncate
+path: "/freedevtools/tldr/common/truncate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/truncate/"
 description: "Control file size with Truncate, a command-line utility. Resize, extend, or shrink files effortlessly. Free online tool, no registration required."
 category: common

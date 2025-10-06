@@ -1,7 +1,7 @@
 ---
 title: "LMMS - Create Music Tracks with Open Source DAW | Online Free DevTools by Hexmos"
 name: lmms
-path: /freedevtools/tldr/common/lmms
+path: "/freedevtools/tldr/common/lmms/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lmms/"
 description: "Create music tracks with LMMS, the free and open-source digital audio workstation. Edit, render, and compose music with this cross-platform tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "TLDR Lint - Validate Command Documentation | Online Free DevTools by Hexmos"
 name: tldrl
-path: /freedevtools/tldr/common/tldrl
+path: "/freedevtools/tldr/common/tldrl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tldrl/"
 description: "Validate TLDR command documentation with TLDR Lint. Ensure accuracy and consistency of command examples. Free online tool, no registration required."
 category: common

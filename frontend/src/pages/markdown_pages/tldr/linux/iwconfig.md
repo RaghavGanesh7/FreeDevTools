@@ -1,7 +1,7 @@
 ---
 title: "Configure Wireless Networks with iwconfig | Online Free DevTools by Hexmos"
 name: iwconfig
-path: /freedevtools/tldr/linux/iwconfig
+path: "/freedevtools/tldr/linux/iwconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iwconfig/"
 description: "Configure and manage wireless network interfaces with iwconfig.  View network parameters and statistics, set ESSID, and control operating modes. Free online tool, no registration required."
 category: linux

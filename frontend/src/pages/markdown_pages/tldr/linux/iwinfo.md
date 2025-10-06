@@ -1,7 +1,7 @@
 ---
 title: "Iwinfo - Control Wireless Interfaces | Online Free DevTools by Hexmos"
 name: iwinfo
-path: /freedevtools/tldr/linux/iwinfo
+path: "/freedevtools/tldr/linux/iwinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iwinfo/"
 description: "Control wireless interfaces instantly with iwinfo on Linux. Monitor network connections, scan for networks, and troubleshoot connectivity issues with this command. Free online tool, no registration required."
 category: linux

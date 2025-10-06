@@ -1,7 +1,7 @@
 ---
 title: "Pacman Database - Control Pacman Database on Linux | Online Free DevTools by Hexmos"
 name: pacman-d
-path: /freedevtools/tldr/linux/pacman-d
+path: "/freedevtools/tldr/linux/pacman-d/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-d/"
 description: "Control Pacman database efficiently with Pacman -D. Manage package installations, resolve dependencies and repair corrupted databases on Linux. Free online tool, no registration required."
 category: linux

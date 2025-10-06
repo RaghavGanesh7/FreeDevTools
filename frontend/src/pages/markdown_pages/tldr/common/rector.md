@@ -1,7 +1,7 @@
 ---
 title: "Refactor PHP Code - Automate Updates with Rector | Online Free DevTools by Hexmos"
 name: rector
-path: /freedevtools/tldr/common/rector
+path: "/freedevtools/tldr/common/rector/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rector/"
 description: "Automate PHP code refactoring with Rector. Upgrade legacy PHP applications, enforce coding standards, and improve code quality effortlessly. Free online tool, no registration required."
 category: common

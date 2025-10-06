@@ -1,7 +1,7 @@
 ---
 title: "Evaluate Expression - Manipulate Strings with Expr | Online Free DevTools by Hexmos"
 name: expr
-path: /freedevtools/tldr/common/expr
+path: "/freedevtools/tldr/common/expr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/expr/"
 description: "Evaluate expressions and manipulate strings with Expr. Perform arithmetic operations, substring extractions, and pattern matching. Free online tool, no registration required."
 category: common

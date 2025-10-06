@@ -1,7 +1,7 @@
 ---
 title: "Brave Browser - Control Browser Settings | Online Free DevTools by Hexmos"
 name: brave
-path: /freedevtools/tldr/common/brave
+path: "/freedevtools/tldr/common/brave/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/brave/"
 description: "Control Brave browser settings easily with command-line flags. Configure privacy, security, and performance options. Free online tool, no registration required."
 category: common

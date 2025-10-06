@@ -1,7 +1,7 @@
 ---
 title: "Control Cisco Transport - Manage Line Protocols | Online Free DevTools by Hexmos"
 name: transport
-path: /freedevtools/tldr/cisco-ios/transport
+path: "/freedevtools/tldr/cisco-ios/transport/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/transport/"
 description: "Control Cisco line transport with this utility. Manage line transport protocols on Cisco IOS devices, restricting access to SSH or Telnet. Free online tool, no registration required."
 category: cisco-ios

@@ -1,7 +1,7 @@
 ---
 title: "Control MQTT Topics - mosquitto_sub | Online Free DevTools by Hexmos"
 name: mosquitto_sub
-path: /freedevtools/tldr/common/mosquitto_sub
+path: "/freedevtools/tldr/common/mosquitto_sub/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mosquitto_sub/"
 description: "Control MQTT topics with mosquitto_sub. Subscribe to topics, filter messages, and monitor broker status. Free online tool, no registration required."
 category: common

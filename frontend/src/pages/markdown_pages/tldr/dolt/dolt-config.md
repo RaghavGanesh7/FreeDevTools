@@ -1,7 +1,7 @@
 ---
 title: "Dolt Config - Manage Dolt Configuration Variables | Online Free DevTools by Hexmos"
 name: dolt-config
-path: /freedevtools/tldr/dolt/dolt-config
+path: "/freedevtools/tldr/dolt/dolt-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/dolt/dolt-config/"
 description: "Manage Dolt configuration variables with Dolt Config. Read, write, and delete local and global configuration options. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Qcp - Copy Files with Editor | Online Free DevTools by Hexmos"
 name: qcp
-path: /freedevtools/tldr/common/qcp
+path: "/freedevtools/tldr/common/qcp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qcp/"
 description: "Copy files easily with Qcp using your default text editor. Define source and target filenames quickly for efficient transfers. Free online tool, no registration required."
 category: common

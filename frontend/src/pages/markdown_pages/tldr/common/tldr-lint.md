@@ -1,7 +1,7 @@
 ---
 title: "Lint tldr Pages - Format & Validate | Online Free DevTools by Hexmos"
 name: tldr-lint
-path: /freedevtools/tldr/common/tldr-lint
+path: "/freedevtools/tldr/common/tldr-lint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tldr-lint/"
 description: "Format tldr pages with tldr-lint. Validate syntax, ensure consistency, and maintain high-quality documentation. Free online tool, no registration required."
 category: common

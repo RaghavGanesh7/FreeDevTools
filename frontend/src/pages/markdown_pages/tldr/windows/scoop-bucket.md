@@ -1,7 +1,7 @@
 ---
 title: "Scoop Bucket - Manage App Repositories | Online Free DevTools by Hexmos"
 name: scoop-bucket
-path: /freedevtools/tldr/windows/scoop-bucket
+path: "/freedevtools/tldr/windows/scoop-bucket/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/scoop-bucket/"
 description: "Manage Scoop buckets with Scoop Bucket. Add, remove, and list app repositories for easy installation. Free online tool, no registration required."
 category: windows

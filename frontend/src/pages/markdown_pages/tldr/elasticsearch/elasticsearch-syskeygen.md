@@ -1,7 +1,7 @@
 ---
 title: "Generate Elasticsearch System Key - System Keygen | Online Free DevTools by Hexmos"
 name: elasticsearch-syskeygen
-path: /freedevtools/tldr/elasticsearch/elasticsearch-syskeygen
+path: "/freedevtools/tldr/elasticsearch/elasticsearch-syskeygen/"
 canonical: "https://hexmos.com/freedevtools/tldr/elasticsearch/elasticsearch-syskeygen/"
 description: "Generate Elasticsearch system keys with Elasticsearch-Syskeygen. Secure your Elasticsearch cluster configuration easily using this free online tool, no registration required."
 category: common

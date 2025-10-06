@@ -1,7 +1,7 @@
 ---
 title: "Speed Test - Check Internet Speed and Ping | Online Free DevTools by Hexmos"
 name: speed-test
-path: /freedevtools/tldr/common/speed-test
+path: "/freedevtools/tldr/common/speed-test/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/speed-test/"
 description: "Check your internet speed with Speed Test. Measure download speed, upload speed, and ping latency efficiently via command line. Free online tool, no registration required."
 category: common

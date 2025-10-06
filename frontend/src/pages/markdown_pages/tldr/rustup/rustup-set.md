@@ -1,7 +1,7 @@
 ---
 title: "Rustup Settings - Control Rust Installations | Online Free DevTools by Hexmos"
 name: rustup-set
-path: /freedevtools/tldr/rustup/rustup-set
+path: "/freedevtools/tldr/rustup/rustup-set/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-set/"
 description: "Control rustup settings easily with Rustup-Set. Manage host triples, profiles, and auto-updates for Rust installations. Free online tool, no registration required."
 category: common

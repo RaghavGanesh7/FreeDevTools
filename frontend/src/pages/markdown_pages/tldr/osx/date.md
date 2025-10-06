@@ -1,7 +1,7 @@
 ---
 title: "Date Command - Display System Date | Online Free DevTools by Hexmos"
 name: date
-path: /freedevtools/tldr/osx/date
+path: "/freedevtools/tldr/osx/date/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/date/"
 description: "Display system date with Date Command. Get current date and time in various formats on macOS. Free online tool, no registration required."
 category: osx

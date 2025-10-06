@@ -1,7 +1,7 @@
 ---
 title: "Qt Creator - Develop Qt Applications | Online Free DevTools by Hexmos"
 name: qtcreator
-path: /freedevtools/tldr/common/qtcreator
+path: "/freedevtools/tldr/common/qtcreator/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qtcreator/"
 description: "Develop cross-platform applications with Qt Creator, the powerful Qt IDE. Debug code, design UIs, and manage projects efficiently. Free online tool, no registration required."
 category: common

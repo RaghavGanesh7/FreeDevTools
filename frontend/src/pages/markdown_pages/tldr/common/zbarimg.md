@@ -1,7 +1,7 @@
 ---
 title: "Decode Barcodes - Scan Images with zbarimg | Online Free DevTools by Hexmos"
 name: zbarimg
-path: /freedevtools/tldr/common/zbarimg
+path: "/freedevtools/tldr/common/zbarimg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zbarimg/"
 description: "Scan barcodes from images with zbarimg. Decode QR codes and other barcode types from various image formats. Free online tool, no registration required."
 category: common

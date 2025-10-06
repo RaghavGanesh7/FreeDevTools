@@ -1,7 +1,7 @@
 ---
 title: "LLVM Objdump - Inspect Object Code | Online Free DevTools by Hexmos"
 name: llvm-objdump
-path: /freedevtools/tldr/llvm/llvm-objdump
+path: "/freedevtools/tldr/llvm/llvm-objdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/llvm/llvm-objdump/"
 description: "Inspect object code with LLVM Objdump, a powerful disassembly tool. Analyze executable files, object files, and archives. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to MGR - Create MGR Bitmap | Online Free DevTools by Hexmos"
 name: pbmtomgr
-path: /freedevtools/tldr/common/pbmtomgr
+path: "/freedevtools/tldr/common/pbmtomgr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtomgr/"
 description: "Convert PBM images to MGR bitmaps with pbmtomgr. Create MGR bitmap files from PBM format. Free online tool, no registration required."
 category: common

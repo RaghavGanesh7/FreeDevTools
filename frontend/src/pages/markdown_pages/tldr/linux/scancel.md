@@ -1,7 +1,7 @@
 ---
 title: "Scancel Jobs - Cancel Slurm Jobs | Online Free DevTools by Hexmos"
 name: scancel
-path: /freedevtools/tldr/linux/scancel
+path: "/freedevtools/tldr/linux/scancel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/scancel/"
 description: "Cancel Slurm jobs efficiently with scancel. Manage your job queue and terminate processes instantly using this command-line tool. Free online tool, no registration required."
 category: linux

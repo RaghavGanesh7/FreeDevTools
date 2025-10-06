@@ -1,7 +1,7 @@
 ---
 title: "Golang Linter - Validate Go Code | Online Free DevTools by Hexmos"
 name: golangci-lint
-path: /freedevtools/tldr/common/golangci-lint
+path: "/freedevtools/tldr/common/golangci-lint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/golangci-lint/"
 description: "Validate Go code instantly with GolangCI-Lint. Find bugs, enforce coding standards, and improve code quality using this fast linter. Free online tool, no registration required."
 category: common

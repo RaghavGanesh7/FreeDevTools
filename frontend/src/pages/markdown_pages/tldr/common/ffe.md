@@ -1,7 +1,7 @@
 ---
 title: "Format Flat Files - Extract Fields with FFE | Online Free DevTools by Hexmos"
 name: ffe
-path: /freedevtools/tldr/common/ffe
+path: "/freedevtools/tldr/common/ffe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ffe/"
 description: "Format flat file data with FFE, a powerful field extractor. Convert files, select fields, and filter records using configuration files. Free online tool, no registration required."
 category: common

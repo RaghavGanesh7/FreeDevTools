@@ -1,7 +1,7 @@
 ---
 title: "Pinky Command - Print User Info with Finger Protocol | Online Free DevTools by Hexmos"
 name: pinky
-path: /freedevtools/tldr/common/pinky
+path: "/freedevtools/tldr/common/pinky/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pinky/"
 description: "Print user information easily with Pinky command. Retrieve user details and system information using the finger protocol on Linux and macOS. Free online tool, no registration required."
 category: common

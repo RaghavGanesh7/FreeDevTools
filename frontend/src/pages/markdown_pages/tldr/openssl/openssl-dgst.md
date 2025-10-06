@@ -1,7 +1,7 @@
 ---
 title: "Generate Digests - OpenSSL dgst Command | Online Free DevTools by Hexmos"
 name: openssl-dgst
-path: /freedevtools/tldr/openssl/openssl-dgst
+path: "/freedevtools/tldr/openssl/openssl-dgst/"
 canonical: "https://hexmos.com/freedevtools/tldr/openssl/openssl-dgst/"
 description: "Generate cryptographic digests with OpenSSL dgst. Secure your data using hashing algorithms and signature operations. Free online tool, no registration required."
 category: common

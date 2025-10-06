@@ -1,7 +1,7 @@
 ---
 title: "Clang-Tidy - Validate C/C++ Code | Online Free DevTools by Hexmos"
 name: clang-tidy
-path: /freedevtools/tldr/clang/clang-tidy
+path: "/freedevtools/tldr/clang/clang-tidy/"
 canonical: "https://hexmos.com/freedevtools/tldr/clang/clang-tidy/"
 description: "Validate C/C++ code with Clang-Tidy. Find style violations, bugs, and security flaws using static analysis. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "NPM Docs - Access Package Documentation | Online Free DevTools by Hexmos"
 name: npm-docs
-path: /freedevtools/tldr/npm/npm-docs
+path: "/freedevtools/tldr/npm/npm-docs/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-docs/"
 description: "Access NPM package documentation quickly with NPM Docs. View package information, explore modules, and understand dependencies easily. Free online tool, no registration required."
 category: common

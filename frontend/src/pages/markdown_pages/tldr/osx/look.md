@@ -1,7 +1,7 @@
 ---
 title: "Look - Display Lines in Sorted File | Online Free DevTools by Hexmos"
 name: look
-path: /freedevtools/tldr/osx/look
+path: "/freedevtools/tldr/osx/look/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/look/"
 description: "Display lines with Look in a sorted file. Find lines beginning with a specific prefix in a file. Free online tool, no registration required."
 category: osx

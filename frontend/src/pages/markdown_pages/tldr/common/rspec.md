@@ -1,7 +1,7 @@
 ---
 title: "RSpec - Test Ruby Code with Behavior-Driven Development | Online Free DevTools by Hexmos"
 name: rspec
-path: /freedevtools/tldr/common/rspec
+path: "/freedevtools/tldr/common/rspec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rspec/"
 description: "Test Ruby code effectively with RSpec, a behavior-driven development framework. Write cleaner and more maintainable tests. Free online tool, no registration required."
 category: common

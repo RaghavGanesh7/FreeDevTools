@@ -1,7 +1,7 @@
 ---
 title: "UV Tool - Run Python Packages | Online Free DevTools by Hexmos"
 name: uv-tool
-path: /freedevtools/tldr/uv/uv-tool
+path: "/freedevtools/tldr/uv/uv-tool/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-tool/"
 description: "Run Python packages instantly with UV Tool. Install, upgrade, and uninstall packages system-wide from the command line. Free online tool, no registration required."
 category: common

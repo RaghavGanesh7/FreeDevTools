@@ -1,7 +1,7 @@
 ---
 title: "Lock Screen - Control Swaylock Screen Locking | Online Free DevTools by Hexmos"
 name: swaylock
-path: /freedevtools/tldr/common/swaylock
+path: "/freedevtools/tldr/common/swaylock/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swaylock/"
 description: "Control screen locking with Swaylock. Enhance security by locking your Wayland compositor screen quickly and easily. Free online tool, no registration required."
 category: common

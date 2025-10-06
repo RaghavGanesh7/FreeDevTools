@@ -1,7 +1,7 @@
 ---
 title: "Foreman - Manage Procfile Apps | Online Free DevTools by Hexmos"
 name: foreman
-path: /freedevtools/tldr/linux/foreman
+path: "/freedevtools/tldr/linux/foreman/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/foreman/"
 description: "Manage Procfile-based applications with Foreman. Start, check, and run processes effortlessly. Free online tool, no registration required."
 category: linux

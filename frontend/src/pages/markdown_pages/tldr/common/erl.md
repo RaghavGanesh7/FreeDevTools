@@ -1,7 +1,7 @@
 ---
 title: "Erlang Runtime - Run Erlang Programs | Online Free DevTools by Hexmos"
 name: erl
-path: "/freedevtools/tldr/common/erl"
+path: "/freedevtools/tldr/common/erl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/erl/"
 description: "Run Erlang programs easily with Erlang Runtime. Compile and execute Erlang code, connect to nodes, and manage modules. Free online tool, no registration required."
 category: common

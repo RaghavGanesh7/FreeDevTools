@@ -1,7 +1,7 @@
 ---
 title: "Convert ST4 to PGM - Image Converter | Online Free DevTools by Hexmos"
 name: st4topgm
-path: "/freedevtools/tldr/st/st4topgm"
+path: "/freedevtools/tldr/st/st4topgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/st4topgm/"
 description: "Convert ST4 image files to PGM format with ST4toPGM. Fast and easy image conversion for astronomy files. Free online tool, no registration required."
 category: common

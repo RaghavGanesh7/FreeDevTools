@@ -1,7 +1,7 @@
 ---
 title: "RPC Dump - Discover RPC Endpoints with rpcdump.py | Online Free DevTools by Hexmos"
 name: rpcdump.py
-path: /freedevtools/tldr/common/rpcdump-py
+path: "/freedevtools/tldr/common/rpcdump-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/rpcdump-py/"
 description: "Discover RPC endpoints with rpcdump.py. Enumerate RPC services and identify potential vulnerabilities for security auditing. Free online tool, no registration required."
 category: common

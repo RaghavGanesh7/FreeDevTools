@@ -1,7 +1,7 @@
 ---
 title: "FFplay - Play Media Files Easily | Online Free DevTools by Hexmos"
 name: ffplay
-path: /freedevtools/tldr/common/ffplay
+path: "/freedevtools/tldr/common/ffplay/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ffplay/"
 description: "Play media files with FFplay, a versatile and portable media player using FFmpeg libraries. Supports various formats and codecs. Free online tool, no registration required."
 category: common

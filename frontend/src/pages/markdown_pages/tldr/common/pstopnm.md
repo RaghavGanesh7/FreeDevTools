@@ -1,7 +1,7 @@
 ---
 title: "Convert PostScript to PNM - Generate Images | Online Free DevTools by Hexmos"
 name: pstopnm
-path: /freedevtools/tldr/common/pstopnm
+path: "/freedevtools/tldr/common/pstopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pstopnm/"
 description: "Convert PostScript files to PNM images with pstopnm. Control resolution and output format with this file converter. Free online tool, no registration required."
 category: common

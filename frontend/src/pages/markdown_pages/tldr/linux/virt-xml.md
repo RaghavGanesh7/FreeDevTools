@@ -1,7 +1,7 @@
 ---
 title: "Edit Libvirt XML - Manage VM Configurations | Online Free DevTools by Hexmos"
 name: virt-xml
-path: /freedevtools/tldr/linux/virt-xml
+path: "/freedevtools/tldr/linux/virt-xml/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/virt-xml/"
 description: "Edit and manage libvirt virtual machine (VM) configurations with virt-xml.  Modify XML settings, add devices, and control boot options easily. Free online tool, no registration required."
 category: linux

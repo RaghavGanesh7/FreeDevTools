@@ -1,7 +1,7 @@
 ---
 title: "Format MO File - Decompile to PO | Online Free DevTools by Hexmos"
 name: msgunfmt
-path: /freedevtools/tldr/common/msgunfmt
+path: "/freedevtools/tldr/common/msgunfmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msgunfmt/"
 description: "Format .mo files to .po with msgunfmt. Decompile binary message catalogs for translation editing. Free online tool, no registration required."
 category: common

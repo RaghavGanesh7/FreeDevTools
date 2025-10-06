@@ -1,7 +1,7 @@
 ---
 title: "Convert Debian Packages - debtap Arch Linux Converter | Online Free DevTools by Hexmos"
 name: debtap
-path: /freedevtools/tldr/linux/debtap
+path: "/freedevtools/tldr/linux/debtap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/debtap/"
 description: "Convert Debian packages to Arch Linux packages with debtap.  Easily manage and install Debian software on Arch systems. Free online tool, no registration required."
 category: linux

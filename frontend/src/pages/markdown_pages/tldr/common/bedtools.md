@@ -1,7 +1,7 @@
 ---
 title: "Bedtools Analysis - Intersect Genomic Data | Online Free DevTools by Hexmos"
 name: bedtools
-path: /freedevtools/tldr/common/bedtools
+path: "/freedevtools/tldr/common/bedtools/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bedtools/"
 description: "Intersect genomic data with Bedtools analysis. Analyze, group, and convert genomic data formats like BAM, BED, and VCF. Free online tool, no registration required."
 category: common

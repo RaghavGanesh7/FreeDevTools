@@ -1,7 +1,7 @@
 ---
 title: "Unshare Command - Execute in New Namespaces | Online Free DevTools by Hexmos"
 name: unshare
-path: /freedevtools/tldr/linux/unshare
+path: "/freedevtools/tldr/linux/unshare/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unshare/"
 description: "Execute commands with Unshare Command in isolated namespaces. Create separate network, mount, and PID spaces to isolate processes. Free online tool, no registration required."
 category: linux

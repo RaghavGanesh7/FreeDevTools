@@ -1,7 +1,7 @@
 ---
 title: "Convert SBIG to PGM - Create CCDOPS Images | Online Free DevTools by Hexmos"
 name: sbigtopgm
-path: /freedevtools/tldr/common/sbigtopgm
+path: "/freedevtools/tldr/common/sbigtopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sbigtopgm/"
 description: "Convert SBIG image files to PGM with sbigtopgm. Easily create portable graymap images from CCDOPS data. Free online tool, no registration required."
 category: common

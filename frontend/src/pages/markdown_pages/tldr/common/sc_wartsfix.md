@@ -1,7 +1,7 @@
 ---
 title: "Wartsfix Tool - Truncate Damaged Warts Files | Online Free DevTools by Hexmos"
 name: sc_wartsfix
-path: /freedevtools/tldr/common/sc_wartsfix
+path: "/freedevtools/tldr/common/sc_wartsfix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_wartsfix/"
 description: "Truncate damaged warts files with Wartsfix Tool. Salvage data from corrupted warts files and maintain data integrity. Free online tool, no registration required."
 category: common

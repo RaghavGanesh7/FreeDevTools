@@ -1,7 +1,7 @@
 ---
 title: "ASNmap Lookup - Map Network Ranges | Online Free DevTools by Hexmos"
 name: asnmap
-path: /freedevtools/tldr/common/asnmap
+path: "/freedevtools/tldr/common/asnmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/asnmap/"
 description: "Map network ranges with ASNmap, a powerful ASN lookup tool. Discover CIDR blocks and organization network information quickly and easily. Free online tool, no registration required."
 category: common

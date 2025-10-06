@@ -1,7 +1,7 @@
 ---
 title: "Convert AsciiDoc - Generate Documents | Online Free DevTools by Hexmos"
 name: asciidoctor
-path: "/freedevtools/tldr/common/asciidoctor"
+path: "/freedevtools/tldr/common/asciidoctor/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/asciidoctor/"
 description: "Convert AsciiDoc documents effortlessly with Asciidoctor. Generate HTML and PDF files from AsciiDoc source. Free online tool, no registration required."
 category: common

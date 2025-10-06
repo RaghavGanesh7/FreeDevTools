@@ -1,7 +1,7 @@
 ---
 title: "Recognize Text - gocr OCR Tool | Online Free DevTools by Hexmos"
 name: gocr
-path: /freedevtools/tldr/common/gocr
+path: "/freedevtools/tldr/common/gocr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gocr/"
 description: "Recognize text with gocr, a powerful Optical Character Recognition tool. Convert images to text and extract data effortlessly. Free online tool, no registration required."
 category: common

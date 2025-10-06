@@ -1,7 +1,7 @@
 ---
 title: "Manage Containerd - Control Containers with ctr | Online Free DevTools by Hexmos"
 name: ctr
-path: /freedevtools/tldr/linux/ctr
+path: "/freedevtools/tldr/linux/ctr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ctr/"
 description: "Control and manage containerd containers and images with the ctr command.  List, pull, and tag images easily. Free online tool, no registration required."
 category: linux

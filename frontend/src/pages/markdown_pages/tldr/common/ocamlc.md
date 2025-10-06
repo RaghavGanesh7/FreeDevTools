@@ -1,7 +1,7 @@
 ---
 title: "OCaml Compiler - Create Bytecode Executables | Online Free DevTools by Hexmos"
 name: ocamlc
-path: /freedevtools/tldr/common/ocamlc
+path: "/freedevtools/tldr/common/ocamlc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ocamlc/"
 description: "Create bytecode executables with OCaml Compiler. Compile OCaml source files into runnable programs for the OCaml interpreter. Free online tool, no registration required."
 category: common

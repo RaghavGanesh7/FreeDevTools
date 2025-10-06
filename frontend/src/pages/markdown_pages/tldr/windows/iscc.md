@@ -1,7 +1,7 @@
 ---
 title: "Create Inno Setup Installer - Compile Scripts | Online Free DevTools by Hexmos"
 name: iscc
-path: /freedevtools/tldr/windows/iscc
+path: "/freedevtools/tldr/windows/iscc/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/iscc/"
 description: "Create Windows installers with ISCC, the Inno Setup Compiler. Easily compile Inno Setup scripts into executable installers. Free online tool, no registration required."
 category: windows

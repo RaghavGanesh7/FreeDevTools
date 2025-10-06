@@ -1,7 +1,7 @@
 ---
 title: "PipeWire Control - Manage Objects via Command Line | Online Free DevTools by Hexmos"
 name: pw-cli
-path: /freedevtools/tldr/linux/pw-cli
+path: "/freedevtools/tldr/linux/pw-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-cli/"
 description: "Control PipeWire audio and video objects with pw-cli. Manage modules, devices, nodes, and links for real-time processing. Free online tool, no registration required."
 category: linux

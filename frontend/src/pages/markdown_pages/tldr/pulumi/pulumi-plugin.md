@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Plugin Manager - Control Plugins | Online Free DevTools by Hexmos"
 name: pulumi-plugin
-path: /freedevtools/tldr/pulumi/pulumi-plugin
+path: "/freedevtools/tldr/pulumi/pulumi-plugin/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-plugin/"
 description: "Control Pulumi plugins with Pulumi Plugin Manager. Install, list, and remove resource provider plugins. Free online tool, no registration required."
 category: common

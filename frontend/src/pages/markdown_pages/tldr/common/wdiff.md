@@ -1,7 +1,7 @@
 ---
 title: "Compare Text - Display Word Differences with wdiff | Online Free DevTools by Hexmos"
 name: wdiff
-path: /freedevtools/tldr/common/wdiff
+path: "/freedevtools/tldr/common/wdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wdiff/"
 description: "Compare text files with wdiff to quickly display word differences between versions. Analyze changes and identify alterations instantly. Free online tool, no registration required."
 category: common

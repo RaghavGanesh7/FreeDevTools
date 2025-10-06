@@ -1,7 +1,7 @@
 ---
 title: "Ping IPv6 - Send Network Packets with Ping6 | Online Free DevTools by Hexmos"
 name: ping6
-path: /freedevtools/tldr/common/ping6
+path: "/freedevtools/tldr/common/ping6/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ping6/"
 description: "Send IPv6 network packets with Ping6. Diagnose network connectivity and measure round-trip time. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "adig DNS Lookup - Query DNS Records | Online Free DevTools by Hexmos"
 name: adig
-path: /freedevtools/tldr/linux/adig
+path: "/freedevtools/tldr/linux/adig/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/adig/"
 description: "Query DNS records with adig, a powerful command-line tool for detailed DNS information.  Get A records, debug DNS queries, and specify servers and ports. Free online tool, no registration required."
 category: linux

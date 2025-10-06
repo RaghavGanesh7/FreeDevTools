@@ -1,7 +1,7 @@
 ---
 title: "BZCAT - Decompress Files | Online Free DevTools by Hexmos"
 name: bzcat
-path: /freedevtools/tldr/common/bzcat
+path: "/freedevtools/tldr/common/bzcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bzcat/"
 description: "Decompress bzip2 files with BZCAT. Quickly extract compressed data from the command line. Free online tool, no registration required."
 category: common

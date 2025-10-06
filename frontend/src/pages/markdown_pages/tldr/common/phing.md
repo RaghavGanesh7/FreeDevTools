@@ -1,7 +1,7 @@
 ---
 title: "Phing - Build PHP Projects | Online Free DevTools by Hexmos"
 name: phing
-path: /freedevtools/tldr/common/phing
+path: "/freedevtools/tldr/common/phing/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/phing/"
 description: "Build PHP projects efficiently with Phing, the PHP build tool. Automate tasks, manage dependencies, and streamline your development workflow. Free online tool, no registration required."
 category: common

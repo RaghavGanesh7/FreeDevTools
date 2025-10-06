@@ -1,7 +1,7 @@
 ---
 title: "Create Crane Registry - Serve Container Images | Online Free DevTools by Hexmos"
 name: crane-registry
-path: /freedevtools/tldr/crane/crane-registry
+path: "/freedevtools/tldr/crane/crane-registry/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-registry/"
 description: "Create container registries with Crane Registry. Serve container images, store blobs on disk, and manage image layers. Free online tool, no registration required."
 category: common

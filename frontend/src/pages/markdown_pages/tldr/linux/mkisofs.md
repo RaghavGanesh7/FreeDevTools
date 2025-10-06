@@ -1,7 +1,7 @@
 ---
 title: "Create ISO Images - Generate ISO Files with mkisofs | Online Free DevTools by Hexmos"
 name: mkisofs
-path: /freedevtools/tldr/linux/mkisofs
+path: "/freedevtools/tldr/linux/mkisofs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mkisofs/"
 description: "Generate ISO images with mkisofs, a powerful command-line tool for creating ISO9660 disk images from directories.  Easily create custom ISO files. Free online tool, no registration required."
 category: linux

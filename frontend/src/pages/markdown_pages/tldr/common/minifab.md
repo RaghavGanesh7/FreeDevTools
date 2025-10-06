@@ -1,7 +1,7 @@
 ---
 title: "Fabric Deploy - Automate Hyperledger Fabric Networks | Online Free DevTools by Hexmos"
 name: minifab
-path: /freedevtools/tldr/common/minifab
+path: "/freedevtools/tldr/common/minifab/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minifab/"
 description: "Automate Hyperledger Fabric deployments with minifab. Quickly set up, manage, and interact with blockchain networks. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Format Lua Code - Stylua Code Formatter | Online Free DevTools by Hexmos"
 name: stylua
-path: /freedevtools/tldr/st/stylua
+path: "/freedevtools/tldr/st/stylua/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/stylua/"
 description: "Format Lua code instantly with Stylua. Ensure consistent coding style, improve readability, and automate code formatting. Free online tool, no registration required."
 category: common

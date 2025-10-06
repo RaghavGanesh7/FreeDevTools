@@ -1,7 +1,7 @@
 ---
 title: "Identify Image - Format Images | Online Free DevTools by Hexmos"
 name: identify
-path: /freedevtools/tldr/common/identify
+path: "/freedevtools/tldr/common/identify/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/identify/"
 description: "Format images quickly with Identify Image tool. Get detailed image information, dimensions, and metadata. Free online tool, no registration required."
 category: common

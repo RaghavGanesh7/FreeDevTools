@@ -1,7 +1,7 @@
 ---
 title: "Automate Chat - Control Serial Device Conversations | Online Free DevTools by Hexmos"
 name: chat
-path: /freedevtools/tldr/linux/chat
+path: "/freedevtools/tldr/linux/chat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chat/"
 description: "Automate serial device conversations with Chat, a command-line tool for scripting interactions. Establish PPP connections and manage modems easily. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Oh Dear CLI - Control Website Monitoring | Online Free DevTools by Hexmos"
 name: ohdear-cli
-path: /freedevtools/tldr/common/ohdear-cli
+path: "/freedevtools/tldr/common/ohdear-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ohdear-cli/"
 description: "Control website monitoring with Oh Dear CLI. Manage sites, view status, and add new sites easily using the command line. Free online tool, no registration required."
 category: common

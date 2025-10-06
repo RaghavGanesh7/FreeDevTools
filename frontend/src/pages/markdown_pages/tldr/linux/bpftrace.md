@@ -1,7 +1,7 @@
 ---
 title: "bpftrace Tracing - Control Linux eBPF with bpftrace | Online Free DevTools by Hexmos"
 name: bpftrace
-path: /freedevtools/tldr/linux/bpftrace
+path: "/freedevtools/tldr/linux/bpftrace/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bpftrace/"
 description: "Control Linux system tracing with bpftrace, a high-level eBPF tracing language.  Analyze system calls, kernel events, and more. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Vivaldi - Browse Web Pages | Online Free DevTools by Hexmos"
 name: vivaldi
-path: /freedevtools/tldr/common/vivaldi
+path: "/freedevtools/tldr/common/vivaldi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vivaldi/"
 description: "Browse web pages with Vivaldi. Leverage Chromium's functionalities within the Vivaldi browser. Free online tool, no registration required."
 category: common

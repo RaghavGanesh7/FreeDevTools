@@ -1,7 +1,7 @@
 ---
 title: "Arduino IDE - Control Sketches & Upload Code | Online Free DevTools by Hexmos"
 name: arduino
-path: /freedevtools/tldr/common/arduino
+path: "/freedevtools/tldr/common/arduino/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/arduino/"
 description: "Control Arduino IDE sketches with this command-line interface. Build, upload, and manage your Arduino projects efficiently. Free online tool, no registration required."
 category: common

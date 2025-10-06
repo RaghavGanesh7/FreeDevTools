@@ -1,7 +1,7 @@
 ---
 title: "chpass Command - Manage User Accounts | Online Free DevTools by Hexmos"
 name: chpass
-path: /freedevtools/tldr/freebsd/chpass
+path: "/freedevtools/tldr/freebsd/chpass/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/chpass/"
 description: "Manage user accounts with the chpass command.  Modify user database information, including passwords and shells. Free online tool, no registration required."
 category: freebsd

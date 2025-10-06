@@ -1,7 +1,7 @@
 ---
 title: "Recover Deleted Files - with PhotoRec | Online Free DevTools by Hexmos"
 name: photorec
-path: /freedevtools/tldr/linux/photorec
+path: "/freedevtools/tldr/linux/photorec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/photorec/"
 description: "Recover deleted files with PhotoRec. Quickly retrieve lost data from various file systems and storage media. Free online tool, no registration required."
 category: linux

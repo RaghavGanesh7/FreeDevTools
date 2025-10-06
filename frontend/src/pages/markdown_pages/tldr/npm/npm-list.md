@@ -1,7 +1,7 @@
 ---
 title: "NPM List - Display Installed Packages | Online Free DevTools by Hexmos"
 name: npm-list
-path: /freedevtools/tldr/npm/npm-list
+path: "/freedevtools/tldr/npm/npm-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-list/"
 description: "Display installed packages with NPM List. Inspect dependencies, check version numbers and identify outdated modules. Free online tool, no registration required."
 category: common

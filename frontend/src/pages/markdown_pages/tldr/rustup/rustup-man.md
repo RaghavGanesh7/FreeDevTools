@@ -1,7 +1,7 @@
 ---
 title: "Rustup Man - View Command Documentation | Online Free DevTools by Hexmos"
 name: rustup-man
-path: /freedevtools/tldr/rustup/rustup-man
+path: "/freedevtools/tldr/rustup/rustup-man/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-man/"
 description: "View Rust documentation with Rustup Man. Access command man pages for different toolchains and Rust versions directly from your terminal. Free online tool, no registration required."
 category: common

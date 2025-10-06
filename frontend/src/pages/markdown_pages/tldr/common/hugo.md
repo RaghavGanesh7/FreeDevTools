@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Sites - Control Site Building with Hugo | Online Free DevTools by Hexmos"
 name: hugo
-path: /freedevtools/tldr/common/hugo
+path: "/freedevtools/tldr/common/hugo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hugo/"
 description: "Generate static sites quickly and easily with Hugo. Build and manage websites using themes, templates, and components. Free online tool, no registration required."
 category: common

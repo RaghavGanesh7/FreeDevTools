@@ -1,7 +1,7 @@
 ---
 title: "Perldoc - View Perl Documentation | Online Free DevTools by Hexmos"
 name: perldoc
-path: /freedevtools/tldr/common/perldoc
+path: "/freedevtools/tldr/common/perldoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/perldoc/"
 description: "View Perl documentation with Perldoc. Access documentation for built-in functions, search Perl FAQ, and specify language translations. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Switch User - Manage Linux User Sessions | Online Free DevTools by Hexmos"
 name: su
-path: /freedevtools/tldr/linux/su
+path: "/freedevtools/tldr/linux/su/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/su/"
 description: "Manage Linux user sessions with Switch User (su). Gain root privileges, change users, and execute commands securely. Free online tool, no registration required."
 category: linux

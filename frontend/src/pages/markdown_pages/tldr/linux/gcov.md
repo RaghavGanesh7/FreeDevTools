@@ -1,7 +1,7 @@
 ---
 title: "Gcov - Generate Code Coverage Reports | Online Free DevTools by Hexmos"
 name: gcov
-path: /freedevtools/tldr/linux/gcov
+path: "/freedevtools/tldr/linux/gcov/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gcov/"
 description: "Generate code coverage reports with Gcov. Analyze code execution and identify untested parts of your program. Free online tool, no registration required."
 category: linux

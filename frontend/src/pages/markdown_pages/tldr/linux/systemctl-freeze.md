@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Freeze - Control Linux Services | Online Free DevTools by Hexmos"
 name: systemctl-freeze
-path: /freedevtools/tldr/linux/systemctl-freeze
+path: "/freedevtools/tldr/linux/systemctl-freeze/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-freeze/"
 description: "Control Linux systemd units and services with Systemctl Freeze. Quickly freeze and thaw units for debugging and maintenance. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Manage Trashcan - Safely Remove Files with Gomi | Online Free DevTools by Hexmos"
 name: gomi
-path: /freedevtools/tldr/common/gomi
+path: "/freedevtools/tldr/common/gomi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gomi/"
 description: "Safely manage files with Gomi trashcan manager. Easily remove files and folders, restore deleted items, and prune old trash. Free online tool, no registration required."
 category: common

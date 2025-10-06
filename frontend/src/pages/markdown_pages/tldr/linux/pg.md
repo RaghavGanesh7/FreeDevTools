@@ -1,7 +1,7 @@
 ---
 title: "View File - Control Files with pg Command | Online Free DevTools by Hexmos"
 name: pg
-path: /freedevtools/tldr/linux/pg
+path: "/freedevtools/tldr/linux/pg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pg/"
 description: "Control files one page at a time with pg. Easily view large text files and display help information. Free online tool, no registration required."
 category: linux

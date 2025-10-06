@@ -1,7 +1,7 @@
 ---
 title: "Systemd-Cgls - Control Linux Control Groups | Online Free DevTools by Hexmos"
 name: systemd-cgls
-path: /freedevtools/tldr/linux/systemd-cgls
+path: "/freedevtools/tldr/linux/systemd-cgls/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-cgls/"
 description: "Control Linux control groups easily with Systemd-Cgls. Analyze resource usage and manage system processes effectively. Free online tool, no registration required."
 category: linux

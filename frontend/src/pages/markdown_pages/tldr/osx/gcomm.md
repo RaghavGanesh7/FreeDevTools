@@ -1,7 +1,7 @@
 ---
 title: "Compare Files - Control File Differences with gcomm | Online Free DevTools by Hexmos"
 name: gcomm
-path: /freedevtools/tldr/osx/gcomm
+path: "/freedevtools/tldr/osx/gcomm/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gcomm/"
 description: "Control file differences effectively with gcomm, a powerful file comparison tool for macOS. Identify common lines and unique elements effortlessly. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Control Watchdog Daemon - System Health Monitoring | Online Free DevTools by Hexmos"
 name: watchdogd
-path: /freedevtools/tldr/osx/watchdogd
+path: "/freedevtools/tldr/osx/watchdogd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/watchdogd/"
 description: "Control system health with Watchdog Daemon on macOS. Monitor system integrity and ensure continuous operation using this command-line tool. Free online tool, no registration required."
 category: osx

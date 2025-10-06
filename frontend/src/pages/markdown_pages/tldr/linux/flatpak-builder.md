@@ -1,7 +1,7 @@
 ---
 title: "Flatpak Builder - Build App Dependencies | Online Free DevTools by Hexmos"
 name: flatpak-builder
-path: "/freedevtools/tldr/linux/flatpak-builder"
+path: "/freedevtools/tldr/linux/flatpak-builder/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flatpak-builder/"
 description: "Build application dependencies with Flatpak Builder. Create and manage Flatpak packages, streamlining app distribution. Free online tool, no registration required."
 category: linux

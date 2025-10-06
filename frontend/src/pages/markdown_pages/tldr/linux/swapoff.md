@@ -1,7 +1,7 @@
 ---
 title: "Disable Swap Area - Manage Memory with Swapoff | Online Free DevTools by Hexmos"
 name: swapoff
-path: /freedevtools/tldr/linux/swapoff
+path: "/freedevtools/tldr/linux/swapoff/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/swapoff/"
 description: "Manage swap areas with Swapoff, disable or enable swap partitions and files to control memory usage. Free online tool, no registration required."
 category: linux

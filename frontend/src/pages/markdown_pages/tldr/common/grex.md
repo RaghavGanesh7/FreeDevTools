@@ -1,7 +1,7 @@
 ---
 title: "Generate Regex - Create Regular Expressions | Online Free DevTools by Hexmos"
 name: grex
-path: /freedevtools/tldr/common/grex
+path: "/freedevtools/tldr/common/grex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/grex/"
 description: "Generate regular expressions with Grex. Create complex regex patterns effortlessly. Free online tool, no registration required. Perfect for developers and sysadmins."
 category: common

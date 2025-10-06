@@ -1,7 +1,7 @@
 ---
 title: "Recompress FLAC - Compress Audio Files with Reflac | Online Free DevTools by Hexmos"
 name: reflac
-path: /freedevtools/tldr/common/reflac
+path: "/freedevtools/tldr/common/reflac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/reflac/"
 description: "Recompress audio files with Reflac. Reduce FLAC file sizes while preserving metadata. Improve storage efficiency and audio quality using lossless compression. Free online tool, no registration required."
 category: common

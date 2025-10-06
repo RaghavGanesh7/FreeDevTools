@@ -1,7 +1,7 @@
 ---
 title: "Octez Client - Interact with Tezos Blockchain | Online Free DevTools by Hexmos"
 name: octez-client
-path: /freedevtools/tldr/common/octez-client
+path: "/freedevtools/tldr/common/octez-client/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/octez-client/"
 description: "Interact with the Tezos blockchain using Octez Client. Manage accounts, transfer tez, and deploy smart contracts easily. Free online tool, no registration required."
 category: common

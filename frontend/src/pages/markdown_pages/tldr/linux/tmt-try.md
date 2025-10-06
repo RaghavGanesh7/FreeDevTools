@@ -1,7 +1,7 @@
 ---
 title: "TMT Try - Experiment with Tests | Online Free DevTools by Hexmos"
 name: tmt-try
-path: /freedevtools/tldr/linux/tmt-try
+path: "/freedevtools/tldr/linux/tmt-try/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tmt-try/"
 description: "Experiment quickly with TMT Try for streamlined testing.  Easily run tests, specify OS, and customize environments. Free online tool, no registration required."
 category: linux

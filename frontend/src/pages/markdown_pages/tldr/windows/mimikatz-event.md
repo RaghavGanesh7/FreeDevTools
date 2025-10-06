@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Event Log - Manage Records | Online Free DevTools by Hexmos"
 name: mimikatz-event
-path: /freedevtools/tldr/windows/mimikatz-event
+path: "/freedevtools/tldr/windows/mimikatz-event/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-event/"
 description: "Manage event logs with Mimikatz Event Log tool. Clear event records, display providers for Windows systems. Free online tool, no registration required."
 category: windows

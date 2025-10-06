@@ -1,7 +1,7 @@
 ---
 title: "Create EKS Clusters - Manage Kubernetes with eksctl | Online Free DevTools by Hexmos"
 name: eksctl
-path: /freedevtools/tldr/common/eksctl
+path: "/freedevtools/tldr/common/eksctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eksctl/"
 description: "Create and manage Amazon EKS clusters efficiently with eksctl. Streamline Kubernetes deployment and scaling with this powerful command-line tool. Free online tool, no registration required."
 category: common

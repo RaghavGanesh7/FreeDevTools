@@ -1,7 +1,7 @@
 ---
 title: "Pacaur Package Manager - Install AUR Packages | Online Free DevTools by Hexmos"
 name: pacaur
-path: /freedevtools/tldr/linux/pacaur
+path: "/freedevtools/tldr/linux/pacaur/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacaur/"
 description: "Install AUR packages easily with Pacaur Package Manager. Update, remove, and search Arch Linux packages. Free online tool, no registration required."
 category: linux

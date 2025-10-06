@@ -1,7 +1,7 @@
 ---
 title: "Pacman Remove - Remove Packages on Linux | Online Free DevTools by Hexmos"
 name: pacman-remove
-path: /freedevtools/tldr/linux/pacman-remove
+path: "/freedevtools/tldr/linux/pacman-remove/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-remove/"
 description: "Remove Linux packages easily with Pacman Remove. Manage dependencies, delete orphan packages, and cascade removals effectively. Free online tool, no registration required."
 category: linux

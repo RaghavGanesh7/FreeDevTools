@@ -1,7 +1,7 @@
 ---
 title: "Install DEB Packages - Manage .deb Files | Online Free DevTools by Hexmos"
 name: deb-get
-path: /freedevtools/tldr/linux/deb-get
+path: "/freedevtools/tldr/linux/deb-get/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/deb-get/"
 description: "Install .deb packages easily with deb-get, the apt-get alternative for managing software on Linux. Update, search, and remove .deb files quickly. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Monitor Processes - Control System Resources with top | Online Free DevTools by Hexmos"
 name: top
-path: /freedevtools/tldr/linux/top
+path: "/freedevtools/tldr/linux/top/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/top/"
 description: "Monitor and control system resources in real-time with the top command. View process information, sort by various fields, and filter processes by user or PID. Free online tool, no registration required."
 category: linux

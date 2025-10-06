@@ -1,7 +1,7 @@
 ---
 title: "Control Audio Playback - Audacious Player | Online Free DevTools by Hexmos"
 name: audacious
-path: /freedevtools/tldr/common/audacious
+path: "/freedevtools/tldr/common/audacious/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/audacious/"
 description: "Control audio playback with Audacious Player. Manage playlists, enqueue directories, and navigate tracks using simple commands. Free online tool, no registration required."
 category: common

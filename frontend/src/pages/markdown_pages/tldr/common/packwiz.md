@@ -1,7 +1,7 @@
 ---
 title: "Create Minecraft Modpacks - Manage Mods with Packwiz | Online Free DevTools by Hexmos"
 name: packwiz
-path: /freedevtools/tldr/common/packwiz
+path: "/freedevtools/tldr/common/packwiz/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/packwiz/"
 description: "Create Minecraft modpacks easily with Packwiz. Manage mods, update configurations, and export to Modrinth/Curseforge. Free online tool, no registration required."
 category: common

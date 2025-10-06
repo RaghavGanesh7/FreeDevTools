@@ -1,7 +1,7 @@
 ---
 title: "Opensnoop - Track File Opens on System | Online Free DevTools by Hexmos"
 name: opensnoop
-path: /freedevtools/tldr/osx/opensnoop
+path: "/freedevtools/tldr/osx/opensnoop/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/opensnoop/"
 description: "Track file opens on your system with Opensnoop, a powerful system observability tool for monitoring file access. Free online tool, no registration required."
 category: osx

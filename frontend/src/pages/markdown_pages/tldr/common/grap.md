@@ -1,7 +1,7 @@
 ---
 title: "Generate Groff Charts - Format Diagrams with Grap | Online Free DevTools by Hexmos"
 name: grap
-path: /freedevtools/tldr/common/grap
+path: "/freedevtools/tldr/common/grap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/grap/"
 description: "Generate Groff charts effortlessly with Grap, a charting preprocessor for creating diagrams in the Groff document formatting system. Free online tool, no registration required."
 category: common

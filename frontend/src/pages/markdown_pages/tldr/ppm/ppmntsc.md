@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to NTSC/PAL - Color Correct PPM Images | Online Free DevTools by Hexmos"
 name: ppmntsc
-path: /freedevtools/tldr/ppm/ppmntsc
+path: "/freedevtools/tldr/ppm/ppmntsc/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmntsc/"
 description: "Convert PPM images to NTSC/PAL color spaces with ppmntsc. Adjust RGB values for accurate display. Free online tool, no registration required."
 category: common

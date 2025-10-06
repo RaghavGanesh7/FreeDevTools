@@ -1,7 +1,7 @@
 ---
 title: "Add Steam Program - Create Steam Shortcut | Online Free DevTools by Hexmos"
 name: steamos-add-to-steam
-path: /freedevtools/tldr/linux/steamos-add-to-steam
+path: "/freedevtools/tldr/linux/steamos-add-to-steam/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-add-to-steam/"
 description: "Create Steam shortcuts easily with steamos-add-to-steam. Add any program to your Steam library for convenient launching. Free online tool, no registration required."
 category: linux

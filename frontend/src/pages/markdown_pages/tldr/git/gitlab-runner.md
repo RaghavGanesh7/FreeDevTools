@@ -1,7 +1,7 @@
 ---
 title: "Manage GitLab Runners - Control CI/CD Pipelines | Online Free DevTools by Hexmos"
 name: gitlab-runner
-path: /freedevtools/tldr/git/gitlab-runner
+path: "/freedevtools/tldr/git/gitlab-runner/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitlab-runner/"
 description: "Manage GitLab runners efficiently with gitlab-runner. Automate CI/CD pipelines and control runner status with ease. Free online tool, no registration required."
 category: common

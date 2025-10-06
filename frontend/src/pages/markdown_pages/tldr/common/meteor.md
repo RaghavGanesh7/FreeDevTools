@@ -1,7 +1,7 @@
 ---
 title: "Create Meteor Projects - Full-Stack App Development | Online Free DevTools by Hexmos"
 name: meteor
-path: "/freedevtools/tldr/common/meteor"
+path: "/freedevtools/tldr/common/meteor/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/meteor/"
 description: "Create and manage full-stack web apps with Meteor. Streamline development, add packages, and build production-ready applications quickly. Free online tool, no registration required."
 category: common

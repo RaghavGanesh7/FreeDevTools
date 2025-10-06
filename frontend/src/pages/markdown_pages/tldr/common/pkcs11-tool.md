@@ -1,7 +1,7 @@
 ---
 title: "PKCS11 Tool - Manage Security Tokens | Online Free DevTools by Hexmos"
 name: pkcs11-tool
-path: /freedevtools/tldr/common/pkcs11-tool
+path: "/freedevtools/tldr/common/pkcs11-tool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pkcs11-tool/"
 description: "Manage security tokens with PKCS11 Tool. Control PKCS #11 security modules and objects. Free online tool, no registration required."
 category: common

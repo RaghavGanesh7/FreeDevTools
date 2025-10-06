@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Describe - Show Kubernetes Resource Details | Online Free DevTools by Hexmos"
 name: kubectl-describe
-path: /freedevtools/tldr/kubectl/kubectl-describe
+path: "/freedevtools/tldr/kubectl/kubectl-describe/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-describe/"
 description: "Show Kubernetes resource details with Kubectl Describe. Inspect pods, nodes, and other objects. Streamline cluster management. Free online tool, no registration required."
 category: common

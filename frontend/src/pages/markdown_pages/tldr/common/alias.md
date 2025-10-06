@@ -1,7 +1,7 @@
 ---
 title: "Alias - Create Command Shortcuts | Online Free DevTools by Hexmos"
 name: alias
-path: /freedevtools/tldr/common/alias
+path: "/freedevtools/tldr/common/alias/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/alias/"
 description: "Create command shortcuts with Alias. Define custom aliases for frequently used commands to improve efficiency. Free online tool, no registration required."
 category: common

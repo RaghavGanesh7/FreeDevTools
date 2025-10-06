@@ -1,7 +1,7 @@
 ---
 title: "Git Control - Manage Git Workflow with Legit | Online Free DevTools by Hexmos"
 name: legit
-path: /freedevtools/tldr/linux/legit
+path: "/freedevtools/tldr/linux/legit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/legit/"
 description: "Control Git workflow efficiently with Legit. Simplify branch management, synchronize changes, and publish updates seamlessly. Free online tool, no registration required."
 category: linux

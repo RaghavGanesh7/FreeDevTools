@@ -1,7 +1,7 @@
 ---
 title: "Dotnet Restore - Restore .NET Dependencies | Online Free DevTools by Hexmos"
 name: dotnet-restore
-path: /freedevtools/tldr/dotnet/dotnet-restore
+path: "/freedevtools/tldr/dotnet/dotnet-restore/"
 canonical: "https://hexmos.com/freedevtools/tldr/dotnet/dotnet-restore/"
 description: "Restore .NET project dependencies with Dotnet Restore. Manage package sources and control verbosity levels for efficient builds. Free online tool, no registration required."
 category: common

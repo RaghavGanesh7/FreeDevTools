@@ -1,7 +1,7 @@
 ---
 title: "iDevice Pair - Manage iOS Device Pairing | Online Free DevTools by Hexmos"
 name: idevicepair
-path: /freedevtools/tldr/common/idevicepair
+path: "/freedevtools/tldr/common/idevicepair/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicepair/"
 description: "Manage iOS device pairing with iDevice Pair. List paired devices, and establish secure connections using the command line. Free online tool, no registration required."
 category: common

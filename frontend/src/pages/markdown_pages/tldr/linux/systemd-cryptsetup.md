@@ -1,7 +1,7 @@
 ---
 title: "Create systemd-cryptsetup Mappings | Online Free DevTools by Hexmos"
 name: systemd-cryptsetup
-path: /freedevtools/tldr/linux/systemd-cryptsetup
+path: "/freedevtools/tldr/linux/systemd-cryptsetup/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-cryptsetup/"
 description: "Create systemd-cryptsetup mappings with this tool. Effortlessly open/close encrypted volumes for enhanced data security on Linux systems. Free online tool, no registration required."
 category: linux

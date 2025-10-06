@@ -1,7 +1,7 @@
 ---
 title: "Compile Rust Code - Execute Rust Programs | Online Free DevTools by Hexmos"
 name: rustc
-path: /freedevtools/tldr/common/rustc
+path: "/freedevtools/tldr/common/rustc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rustc/"
 description: "Compile Rust code quickly with rustc. Optimize Rust programs for size and speed. Free online tool, no registration required."
 category: common

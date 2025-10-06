@@ -1,7 +1,7 @@
 ---
 title: "Draw Images - Edit Raster Images in Linux | Online Free DevTools by Hexmos"
 name: drawing
-path: /freedevtools/tldr/linux/drawing
+path: "/freedevtools/tldr/linux/drawing/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/drawing/"
 description: "Draw images online with Drawing, a free Linux raster image editor. Create and edit images, open files, and manage new windows using the command line. Free online tool, no registration required."
 category: linux

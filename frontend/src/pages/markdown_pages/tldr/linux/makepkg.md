@@ -1,7 +1,7 @@
 ---
 title: "Create Packages - Build Pacman Packages with makepkg | Online Free DevTools by Hexmos"
 name: makepkg
-path: /freedevtools/tldr/linux/makepkg
+path: "/freedevtools/tldr/linux/makepkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/makepkg/"
 description: "Create Pacman packages easily with makepkg. Build installable packages from PKGBUILD files and manage dependencies. Free online tool, no registration required."
 category: linux

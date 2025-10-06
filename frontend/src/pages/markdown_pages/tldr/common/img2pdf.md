@@ -1,7 +1,7 @@
 ---
 title: "Create PDF from Images - img2pdf Converter | Online Free DevTools by Hexmos"
 name: img2pdf
-path: /freedevtools/tldr/common/img2pdf
+path: "/freedevtools/tldr/common/img2pdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/img2pdf/"
 description: "Create PDFs from raster images with img2pdf. Convert various image formats losslessly to PDF. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Route Command - Manage Network Routes | Online Free DevTools by Hexmos"
 name: route
-path: /freedevtools/tldr/common/route
+path: "/freedevtools/tldr/common/route/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/route/"
 description: "Manage network routes efficiently with the Route command.  View, add, and delete routing table entries with ease. Free online tool, no registration required."
 category: common

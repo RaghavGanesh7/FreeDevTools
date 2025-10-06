@@ -1,7 +1,7 @@
 ---
 title: "Convert Video - FFmpeg Video Converter | Online Free DevTools by Hexmos"
 name: ffmpeg
-path: "/freedevtools/tldr/common/ffmpeg"
+path: "/freedevtools/tldr/common/ffmpeg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ffmpeg/"
 description: "Convert video formats easily with FFmpeg Video Converter. Transcode, trim, and remux video files. Free online tool, no registration required."
 category: common

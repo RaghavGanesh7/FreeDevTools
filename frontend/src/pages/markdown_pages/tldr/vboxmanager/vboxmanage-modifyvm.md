@@ -1,7 +1,7 @@
 ---
 title: "VBoxManage ModifyVM - Control Virtual Machine Settings | Online Free DevTools by Hexmos"
 name: vboxmanage-modifyvm
-path: /freedevtools/tldr/vboxmanager/vboxmanage-modifyvm
+path: "/freedevtools/tldr/vboxmanager/vboxmanage-modifyvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/vboxmanager/vboxmanage-modifyvm/"
 description: "Control virtual machine settings with VBoxManage ModifyVM. Adjust memory, CPU, VRDE, and recording options. Free online tool, no registration required."
 category: common

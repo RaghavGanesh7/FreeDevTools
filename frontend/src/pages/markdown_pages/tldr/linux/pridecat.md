@@ -1,7 +1,7 @@
 ---
 title: "Pridecat - Format Text with Pride Flags | Online Free DevTools by Hexmos"
 name: pridecat
-path: /freedevtools/tldr/linux/pridecat
+path: "/freedevtools/tldr/linux/pridecat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pridecat/"
 description: "Format text with Pridecat, adding colorful pride flag patterns.  Customize colors with various flag options including trans, lesbian, and bisexual flags. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Publish MQTT Messages - Control IoT Devices | Online Free DevTools by Hexmos"
 name: mosquitto_pub
-path: /freedevtools/tldr/common/mosquitto_pub
+path: "/freedevtools/tldr/common/mosquitto_pub/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mosquitto_pub/"
 description: "Publish MQTT messages with Mosquitto Pub, enabling seamless control of IoT devices. Send data to topics, manage QoS, and retain messages for reliable communication. Free online tool, no registration required."
 category: common

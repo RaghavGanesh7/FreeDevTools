@@ -1,7 +1,7 @@
 ---
 title: "QM Sendkey - Control VM Key Events | Online Free DevTools by Hexmos"
 name: qm-sendkey
-path: /freedevtools/tldr/linux/qm-sendkey
+path: "/freedevtools/tldr/linux/qm-sendkey/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-sendkey/"
 description: "Control virtual machine key events with QM Sendkey. Automate guest OS interactions and streamline VM management on Linux. Free online tool, no registration required."
 category: linux

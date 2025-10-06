@@ -1,7 +1,7 @@
 ---
 title: "SFDK Init - Create Sailfish OS Projects | Online Free DevTools by Hexmos"
 name: sfdk-init
-path: /freedevtools/tldr/sfdk/sfdk-init
+path: "/freedevtools/tldr/sfdk/sfdk-init/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-init/"
 description: "Create Sailfish OS projects quickly with SFDK Init. Generate project templates and customize builders for your Sailfish OS development. Free online tool, no registration required."
 category: common

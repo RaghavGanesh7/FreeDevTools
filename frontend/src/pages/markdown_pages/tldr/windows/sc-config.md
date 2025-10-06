@@ -1,7 +1,7 @@
 ---
 title: "Service Control - Configure Windows Services | Online Free DevTools by Hexmos"
 name: sc-config
-path: /freedevtools/tldr/windows/sc-config
+path: "/freedevtools/tldr/windows/sc-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sc-config/"
 description: "Configure Windows services instantly with Service Control (sc config). Modify service startup types, dependencies, and descriptions. Free online tool, no registration required."
 category: windows

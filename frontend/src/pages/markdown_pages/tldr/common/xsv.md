@@ -1,7 +1,7 @@
 ---
 title: "Control CSV Files - xsv Toolkit | Online Free DevTools by Hexmos"
 name: xsv
-path: /freedevtools/tldr/common/xsv
+path: "/freedevtools/tldr/common/xsv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xsv/"
 description: "Control CSV files easily with xsv toolkit. Analyze and manipulate CSV data efficiently using command line. Free online tool, no registration required."
 category: common

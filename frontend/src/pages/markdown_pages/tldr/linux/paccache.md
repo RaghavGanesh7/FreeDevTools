@@ -1,7 +1,7 @@
 ---
 title: "Paccache - Clean Pacman Cache | Online Free DevTools by Hexmos"
 name: paccache
-path: /freedevtools/tldr/linux/paccache
+path: "/freedevtools/tldr/linux/paccache/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/paccache/"
 description: "Clean Pacman package cache with Paccache. Remove old package versions, set retention limits, and perform dry runs for safe cleaning. Free online tool, no registration required."
 category: linux

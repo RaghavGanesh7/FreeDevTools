@@ -1,7 +1,7 @@
 ---
 title: "Git Prune - Remove Unreachable Objects | Online Free DevTools by Hexmos"
 name: git-prune
-path: /freedevtools/tldr/git/git-prune
+path: "/freedevtools/tldr/git/git-prune/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-prune/"
 description: "Remove unreachable objects with Git Prune. Streamline your Git repository and optimize storage space. Free online tool, no registration required."
 category: common

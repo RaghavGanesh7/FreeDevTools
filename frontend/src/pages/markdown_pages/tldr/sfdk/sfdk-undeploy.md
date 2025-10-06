@@ -1,7 +1,7 @@
 ---
 title: "SFDK Undeploy - Remove Packages from SailfishOS | Online Free DevTools by Hexmos"
 name: sfdk-undeploy
-path: /freedevtools/tldr/sfdk/sfdk-undeploy
+path: "/freedevtools/tldr/sfdk/sfdk-undeploy/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-undeploy/"
 description: "Undeploy SailfishOS packages effortlessly with SFDK Undeploy. Remove application files, test builds, and manage deployment using command-line options. Free online tool, no registration required."
 category: common

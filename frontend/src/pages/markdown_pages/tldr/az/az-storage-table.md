@@ -1,7 +1,7 @@
 ---
 title: "Storage Table - Manage Azure NoSQL Data | Online Free DevTools by Hexmos"
 name: az-storage-table
-path: /freedevtools/tldr/az/az-storage-table
+path: "/freedevtools/tldr/az/az-storage-table/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-storage-table/"
 description: "Manage Azure Storage Tables with az-storage-table. Create, delete, list, and generate SAS tokens for your NoSQL key-value data. Free online tool, no registration required."
 category: common

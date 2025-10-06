@@ -1,7 +1,7 @@
 ---
 title: "Network Control - Manage Data with Ncat | Online Free DevTools by Hexmos"
 name: ncat
-path: /freedevtools/tldr/linux/ncat
+path: "/freedevtools/tldr/linux/ncat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ncat/"
 description: "Manage network data with Ncat. Read, write, redirect, and encrypt data across networks, replacing netcat functionality. Free online tool, no registration required."
 category: linux

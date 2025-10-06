@@ -1,7 +1,7 @@
 ---
 title: "Read Arch News - Check Package Updates | Online Free DevTools by Hexmos"
 name: informant
-path: /freedevtools/tldr/linux/informant
+path: "/freedevtools/tldr/linux/informant/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/informant/"
 description: "Read Arch Linux package news with informant. Stay informed about updates, security advisories, and bug fixes. Free online tool, no registration required."
 category: linux

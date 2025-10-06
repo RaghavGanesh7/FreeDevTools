@@ -1,7 +1,7 @@
 ---
 title: "Generate Rust Documentation - Cargo Doc | Online Free DevTools by Hexmos"
 name: cargo-doc
-path: /freedevtools/tldr/cargo/cargo-doc
+path: "/freedevtools/tldr/cargo/cargo-doc/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-doc/"
 description: "Generate Rust documentation with Cargo Doc.  Build and open project documentation, manage dependencies, and view package-specific docs. Free online tool, no registration required."
 category: common

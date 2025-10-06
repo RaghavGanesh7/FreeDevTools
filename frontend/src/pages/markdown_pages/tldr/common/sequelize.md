@@ -1,7 +1,7 @@
 ---
 title: "Sequelize ORM - Generate Database Models | Online Free DevTools by Hexmos"
 name: sequelize
-path: /freedevtools/tldr/common/sequelize
+path: "/freedevtools/tldr/common/sequelize/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sequelize/"
 description: "Generate database models with Sequelize ORM. Automate database interactions using migrations and seeding. Free online tool, no registration required."
 category: common

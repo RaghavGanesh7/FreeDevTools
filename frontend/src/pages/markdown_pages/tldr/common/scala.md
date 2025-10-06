@@ -1,7 +1,7 @@
 ---
 title: "Scala Launcher - Run Scala Applications | Online Free DevTools by Hexmos"
 name: scala
-path: /freedevtools/tldr/common/scala
+path: "/freedevtools/tldr/common/scala/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scala/"
 description: "Run Scala applications with Scala Launcher. Execute scripts, manage classpath dependencies and interact with a REPL shell. Free online tool, no registration required."
 category: common

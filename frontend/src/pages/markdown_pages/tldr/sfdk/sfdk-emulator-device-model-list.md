@@ -1,7 +1,7 @@
 ---
 title: "SFDK Device Model - List Emulator Models | Online Free DevTools by Hexmos"
 name: sfdk-emulator-device-model-list
-path: /freedevtools/tldr/sfdk/sfdk-emulator-device-model-list
+path: "/freedevtools/tldr/sfdk/sfdk-emulator-device-model-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-emulator-device-model-list/"
 description: "List SFDK device models with SFDK Emulator Device Model List command. See available Android emulator configurations and device details instantly. Free online tool, no registration required."
 category: common

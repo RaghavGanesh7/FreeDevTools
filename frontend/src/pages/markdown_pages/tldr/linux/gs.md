@@ -1,7 +1,7 @@
 ---
 title: "GhostScript PDF Control - Manage PDFs with gs | Online Free DevTools by Hexmos"
 name: gs
-path: /freedevtools/tldr/linux/gs
+path: "/freedevtools/tldr/linux/gs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gs/"
 description: "Control and manipulate PDF files with GhostScript. Convert, merge, and extract pages from PDFs effortlessly. Free online tool, no registration required."
 category: linux

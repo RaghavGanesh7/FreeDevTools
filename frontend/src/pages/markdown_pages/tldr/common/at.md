@@ -1,7 +1,7 @@
 ---
 title: "Schedule Commands - Execute Tasks with At | Online Free DevTools by Hexmos"
 name: at
-path: /freedevtools/tldr/common/at
+path: "/freedevtools/tldr/common/at/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/at/"
 description: "Schedule commands with At. Execute tasks and automate processes on Unix-like systems. Free online tool, no registration required, for simple time-based automation."
 category: common

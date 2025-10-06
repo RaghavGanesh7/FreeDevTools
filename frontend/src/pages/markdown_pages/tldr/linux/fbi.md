@@ -1,7 +1,7 @@
 ---
 title: "Display Images - Control Images in Linux Framebuffer | Online Free DevTools by Hexmos"
 name: fbi
-path: /freedevtools/tldr/linux/fbi
+path: "/freedevtools/tldr/linux/fbi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fbi/"
 description: "Control images in the terminal with fbi, a linux framebuffer image viewer. Display single or multiple images and create slideshows effortlessly. Free online tool, no registration required."
 category: linux

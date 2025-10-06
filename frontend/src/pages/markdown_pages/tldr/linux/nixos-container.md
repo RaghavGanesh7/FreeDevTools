@@ -1,7 +1,7 @@
 ---
 title: "NixOS Container - Create & Manage Containers | Online Free DevTools by Hexmos"
 name: nixos-container
-path: /freedevtools/tldr/linux/nixos-container
+path: "/freedevtools/tldr/linux/nixos-container/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nixos-container/"
 description: "Create and manage NixOS containers easily with nixos-container.  Start, stop, and run commands within containers using simple commands. Free online tool, no registration required."
 category: linux

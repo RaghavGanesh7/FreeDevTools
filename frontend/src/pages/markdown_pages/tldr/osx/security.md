@@ -1,7 +1,7 @@
 ---
 title: "Security - Manage Keychains & Certificates | Online Free DevTools by Hexmos"
 name: security
-path: /freedevtools/tldr/osx/security
+path: "/freedevtools/tldr/osx/security/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/security/"
 description: "Manage keychains and certificates with Security. Securely store passwords, add trusted certs, and administer security settings. Free online tool, no registration required."
 category: osx

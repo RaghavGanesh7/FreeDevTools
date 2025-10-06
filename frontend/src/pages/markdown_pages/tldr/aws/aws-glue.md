@@ -1,7 +1,7 @@
 ---
 title: "AWS Glue CLI - Manage ETL Jobs and Workflows | Online Free DevTools by Hexmos"
 name: aws-glue
-path: /freedevtools/tldr/aws/aws-glue
+path: "/freedevtools/tldr/aws/aws-glue/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-glue/"
 description: "Manage ETL jobs and workflows with AWS Glue CLI. Define public endpoints, list jobs, and start workflows with ease. Free online tool, no registration required."
 category: common

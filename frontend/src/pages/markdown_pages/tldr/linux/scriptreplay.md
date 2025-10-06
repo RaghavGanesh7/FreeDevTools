@@ -1,7 +1,7 @@
 ---
 title: "Scriptreplay - Replay Terminal Sessions | Online Free DevTools by Hexmos"
 name: scriptreplay
-path: /freedevtools/tldr/linux/scriptreplay
+path: "/freedevtools/tldr/linux/scriptreplay/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/scriptreplay/"
 description: "Replay terminal sessions accurately with Scriptreplay. Analyze recorded terminal activity and reproduce it at varying speeds. Free online tool, no registration required."
 category: linux

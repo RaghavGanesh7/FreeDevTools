@@ -1,7 +1,7 @@
 ---
 title: "Cgroup Create - Control Resource Groups | Online Free DevTools by Hexmos"
 name: cgcreate
-path: /freedevtools/tldr/linux/cgcreate
+path: "/freedevtools/tldr/linux/cgcreate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cgcreate/"
 description: "Create resource control groups with Cgroup Create. Limit CPU, memory, and network resources for processes on Linux. Free online tool, no registration required."
 category: linux

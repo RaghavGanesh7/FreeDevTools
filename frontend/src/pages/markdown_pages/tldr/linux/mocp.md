@@ -1,7 +1,7 @@
 ---
 title: "mocp - Control Music Playback on Console | Online Free DevTools by Hexmos"
 name: mocp
-path: /freedevtools/tldr/linux/mocp
+path: "/freedevtools/tldr/linux/mocp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mocp/"
 description: "Control music playback effortlessly with mocp, the Music on Console player.  Manage playlists, add songs, and control playback from your terminal. Free online tool, no registration required."
 category: linux

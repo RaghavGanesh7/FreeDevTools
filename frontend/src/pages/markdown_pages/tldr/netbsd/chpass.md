@@ -1,7 +1,7 @@
 ---
 title: "Change Password - Manage User Passwords | Online Free DevTools by Hexmos"
 name: chpass
-path: /freedevtools/tldr/netbsd/chpass
+path: "/freedevtools/tldr/netbsd/chpass/"
 canonical: "https://hexmos.com/freedevtools/tldr/netbsd/chpass/"
 description: "Manage user passwords easily with chpass. Update user database information and login shell on NetBSD systems. Free online tool, no registration required."
 category: netbsd

@@ -1,7 +1,7 @@
 ---
 title: "Find Files - Locate Files and Directories | Online Free DevTools by Hexmos"
 name: find
-path: /freedevtools/tldr/common/find
+path: "/freedevtools/tldr/common/find/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/find/"
 description: "Locate files quickly with Find Files. A powerful command line utility for searching files and directories recursively. Free online tool, no registration required."
 category: common

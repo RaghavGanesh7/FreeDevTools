@@ -1,7 +1,7 @@
 ---
 title: "Logic Apps - Manage Azure Logic Apps | Online Free DevTools by Hexmos"
 name: az-logicapp
-path: /freedevtools/tldr/az/az-logicapp
+path: "/freedevtools/tldr/az/az-logicapp/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-logicapp/"
 description: "Manage Azure Logic Apps with az-logicapp. Deploy, configure, and monitor serverless workflows in Azure. Free online tool, no registration required."
 category: common

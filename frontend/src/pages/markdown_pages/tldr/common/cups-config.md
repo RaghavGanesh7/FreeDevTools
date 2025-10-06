@@ -1,7 +1,7 @@
 ---
 title: "CUPS Config - Show CUPS Configuration | Online Free DevTools by Hexmos"
 name: cups-config
-path: /freedevtools/tldr/common/cups-config
+path: "/freedevtools/tldr/common/cups-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cups-config/"
 description: "Show CUPS configuration instantly with CUPS Config. Display server paths, data directories, and versions. Free online tool, no registration required."
 category: common

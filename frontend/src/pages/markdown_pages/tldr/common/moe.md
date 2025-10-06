@@ -1,7 +1,7 @@
 ---
 title: "Edit Text with moe - WYSIWYG Editor | Online Free DevTools by Hexmos"
 name: moe
-path: /freedevtools/tldr/common/moe
+path: "/freedevtools/tldr/common/moe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/moe/"
 description: "Edit text files instantly with moe, a WYSIWYG ISO-8859-15 text editor. Control file backups and character case options with this command. Free online tool, no registration required."
 category: common

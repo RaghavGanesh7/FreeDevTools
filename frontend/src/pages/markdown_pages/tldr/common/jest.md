@@ -1,7 +1,7 @@
 ---
 title: "Jest Tests - Run JavaScript Tests | Online Free DevTools by Hexmos"
 name: jest
-path: /freedevtools/tldr/common/jest
+path: "/freedevtools/tldr/common/jest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jest/"
 description: "Run JavaScript tests with Jest testing framework. Execute test suites, find related tests and watch for changes with this CLI tool. Free online tool, no registration required."
 category: common

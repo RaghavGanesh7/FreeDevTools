@@ -1,7 +1,7 @@
 ---
 title: "Edit MP3 Tags - Control ID3v1 Metadata | Online Free DevTools by Hexmos"
 name: mp3info
-path: /freedevtools/tldr/common/mp3info
+path: "/freedevtools/tldr/common/mp3info/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mp3info/"
 description: "Control MP3 metadata easily with mp3info. Edit ID3v1 tags, manage artist, title, and album information. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pacman Key Manager - Secure Package Management | Online Free DevTools by Hexmos"
 name: pacman-key
-path: /freedevtools/tldr/linux/pacman-key
+path: "/freedevtools/tldr/linux/pacman-key/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-key/"
 description: "Secure pacman package management with pacman-key. Manage keys, verify package integrity, and enhance system security. Free online tool, no registration required."
 category: linux

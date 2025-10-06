@@ -1,7 +1,7 @@
 ---
 title: "Prosodyctl - Control Prosody Server | Online Free DevTools by Hexmos"
 name: prosodyctl
-path: /freedevtools/tldr/common/prosodyctl
+path: "/freedevtools/tldr/common/prosodyctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/prosodyctl/"
 description: "Control Prosody XMPP server with Prosodyctl. Manage users, reload configuration, and check server status. Free online tool, no registration required."
 category: common

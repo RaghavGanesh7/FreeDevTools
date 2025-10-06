@@ -1,7 +1,7 @@
 ---
 title: "Git List Remote - Show Remote Git References | Online Free DevTools by Hexmos"
 name: git-ls-remote
-path: /freedevtools/tldr/git/git-ls-remote
+path: "/freedevtools/tldr/git/git-ls-remote/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-ls-remote/"
 description: "Show remote Git references with Git List Remote. Inspect branches and tags within a remote repository using Git commands. Free online tool, no registration required."
 category: common

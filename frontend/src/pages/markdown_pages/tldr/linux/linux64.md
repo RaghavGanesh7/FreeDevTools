@@ -1,7 +1,7 @@
 ---
 title: "Linux64 - Control 64-bit Architecture | Online Free DevTools by Hexmos"
 name: linux64
-path: /freedevtools/tldr/linux/linux64
+path: "/freedevtools/tldr/linux/linux64/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/linux64/"
 description: "Control execution of 64-bit architecture Linux commands with Linux64. Set architecture for processes and ensure compatibility. Free online tool, no registration required."
 category: linux

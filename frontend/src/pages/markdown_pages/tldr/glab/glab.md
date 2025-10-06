@@ -1,7 +1,7 @@
 ---
 title: "GitLab CLI - Manage GitLab Repositories | Online Free DevTools by Hexmos"
 name: glab
-path: /freedevtools/tldr/glab/glab
+path: "/freedevtools/tldr/glab/glab/"
 canonical: "https://hexmos.com/freedevtools/tldr/glab/glab/"
 description: "Manage GitLab repositories seamlessly with GitLab CLI. Clone, create issues, and handle merge requests efficiently. Free online tool, no registration required."
 category: common

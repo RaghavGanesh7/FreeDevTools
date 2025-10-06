@@ -1,7 +1,7 @@
 ---
 title: "Create Sui PTB - Execute Programmable Transactions | Online Free DevTools by Hexmos"
 name: sui-client-ptb
-path: /freedevtools/tldr/sui/sui-client-ptb
+path: "/freedevtools/tldr/sui/sui-client-ptb/"
 canonical: "https://hexmos.com/freedevtools/tldr/sui/sui-client-ptb/"
 description: "Create Sui Programmable Transaction Blocks with sui-client-ptb. Build and execute complex transactions on the Sui blockchain. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Sync iCloud - Control iCloud & iCloud Drive | Online Free DevTools by Hexmos"
 name: bird
-path: /freedevtools/tldr/osx/bird
+path: "/freedevtools/tldr/osx/bird/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/bird/"
 description: "Control iCloud and iCloud Drive sync with Bird. Manage file synchronization and iCloud data seamlessly using this free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Ripgrep Search - Find Text Faster with rg | Online Free DevTools by Hexmos"
 name: rg
-path: /freedevtools/tldr/common/rg
+path: "/freedevtools/tldr/common/rg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rg/"
 description: "Search text efficiently with Ripgrep using command line. Quickly locate patterns, include hidden files, and refine searches. Free online tool, no registration required."
 category: common

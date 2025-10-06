@@ -1,7 +1,7 @@
 ---
 title: "Vladimyr CLI - Control System Utilities | Online Free DevTools by Hexmos"
 name: vladimyr
-path: /freedevtools/tldr/common/vladimyr
+path: "/freedevtools/tldr/common/vladimyr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vladimyr/"
 description: "Control system utilities with Vladimyr CLI.  Manage files, processes, and configurations via the command line interface. Free online tool, no registration required."
 category: common

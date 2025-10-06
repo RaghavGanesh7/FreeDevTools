@@ -1,7 +1,7 @@
 ---
 title: "NHentai Downloader - Download Doujinshis | Online Free DevTools by Hexmos"
 name: nhentai
-path: /freedevtools/tldr/common/nhentai
+path: "/freedevtools/tldr/common/nhentai/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nhentai/"
 description: "Download doujinshis with NHentai Downloader. Effortlessly retrieve comics from nhentai using command-line. Free online tool, no registration required."
 category: common

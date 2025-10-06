@@ -1,7 +1,7 @@
 ---
 title: "PAM Image Function - Apply Arithmetic Functions | Online Free DevTools by Hexmos"
 name: pamfunc
-path: /freedevtools/tldr/common/pamfunc
+path: "/freedevtools/tldr/common/pamfunc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamfunc/"
 description: "Apply arithmetic functions to PAM images with pamfunc. Manipulate pixel values using addition, subtraction, multiplication, division, and bitwise operations. Free online tool, no registration required."
 category: common

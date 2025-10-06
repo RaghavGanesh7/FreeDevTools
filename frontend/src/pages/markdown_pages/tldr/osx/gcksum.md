@@ -1,7 +1,7 @@
 ---
 title: "Generate Checksums - gcksum Command | Online Free DevTools by Hexmos"
 name: gcksum
-path: /freedevtools/tldr/osx/gcksum
+path: "/freedevtools/tldr/osx/gcksum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gcksum/"
 description: "Generate checksums with gcksum. Verify file integrity and detect data corruption using cryptographic hash functions. Free online tool, no registration required."
 category: osx

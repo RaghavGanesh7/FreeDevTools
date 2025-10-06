@@ -1,7 +1,7 @@
 ---
 title: "Link Command - Create Symbolic Links | Online Free DevTools by Hexmos"
 name: gln
-path: /freedevtools/tldr/osx/gln
+path: "/freedevtools/tldr/osx/gln/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gln/"
 description: "Create symbolic links with Link Command, an alias of GNU ln. Manage file system links and create shortcuts with this command line tool. Free online tool, no registration required."
 category: osx

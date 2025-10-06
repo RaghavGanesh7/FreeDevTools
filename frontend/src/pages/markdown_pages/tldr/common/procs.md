@@ -1,7 +1,7 @@
 ---
 title: "Process Monitor - Display Active Processes | Online Free DevTools by Hexmos"
 name: procs
-path: /freedevtools/tldr/common/procs
+path: "/freedevtools/tldr/common/procs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/procs/"
 description: "Monitor active processes with procs. View CPU usage and manage system resources on Linux, macOS, and other Unix-like systems. Free online tool, no registration required."
 category: common

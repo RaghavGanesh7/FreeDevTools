@@ -1,7 +1,7 @@
 ---
 title: "X Cursor Generate - Create Cursors from PNGs | Online Free DevTools by Hexmos"
 name: xcursorgen
-path: /freedevtools/tldr/linux/xcursorgen
+path: "/freedevtools/tldr/linux/xcursorgen/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xcursorgen/"
 description: "Generate X cursor files from PNG collections with xcursorgen. Customize cursor appearance and create visually appealing mouse pointers. Free online tool, no registration required."
 category: linux

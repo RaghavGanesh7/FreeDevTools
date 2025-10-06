@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Dashboard - Monitor Clusters with kdash | Online Free DevTools by Hexmos"
 name: kdash
-path: /freedevtools/tldr/common/kdash
+path: "/freedevtools/tldr/common/kdash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kdash/"
 description: "Monitor Kubernetes clusters in real-time with kdash. Visualize resource utilization, track pod status, and troubleshoot issues quickly. Free online tool, no registration required."
 category: common

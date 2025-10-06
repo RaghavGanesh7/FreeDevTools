@@ -1,7 +1,7 @@
 ---
 title: "Hledger Balance - Analyze Ledger Data | Online Free DevTools by Hexmos"
 name: hledger-balance
-path: /freedevtools/tldr/hledger/hledger-balance
+path: "/freedevtools/tldr/hledger/hledger-balance/"
 canonical: "https://hexmos.com/freedevtools/tldr/hledger/hledger-balance/"
 description: "Analyze ledger data with Hledger Balance. Generate insightful reports for transactions, budgets, and financial performance using this powerful command-line tool. Free online tool, no registration required."
 category: common

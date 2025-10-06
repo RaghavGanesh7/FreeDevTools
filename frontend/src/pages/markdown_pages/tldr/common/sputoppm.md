@@ -1,7 +1,7 @@
 ---
 title: "Convert SPU to PPM - Image Conversion | Online Free DevTools by Hexmos"
 name: sputoppm
-path: /freedevtools/tldr/common/sputoppm
+path: "/freedevtools/tldr/common/sputoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sputoppm/"
 description: "Convert Atari SPU images to PPM format with sputoppm. Transform your old Atari graphics into a modern image format. Free online tool, no registration required."
 category: common

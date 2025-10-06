@@ -1,7 +1,7 @@
 ---
 title: "Control Node.js Versions - NVM Command | Online Free DevTools by Hexmos"
 name: nvm
-path: /freedevtools/tldr/common/nvm
+path: "/freedevtools/tldr/common/nvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nvm/"
 description: "Control Node.js versions with NVM. Install, switch, and manage multiple Node.js environments effortlessly. Free online tool, no registration required."
 category: common

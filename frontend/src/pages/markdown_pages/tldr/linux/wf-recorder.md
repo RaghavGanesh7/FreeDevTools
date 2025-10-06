@@ -1,7 +1,7 @@
 ---
 title: "Screencast wf-recorder - Record Wayland Screens | Online Free DevTools by Hexmos"
 name: wf-recorder
-path: /freedevtools/tldr/linux/wf-recorder
+path: "/freedevtools/tldr/linux/wf-recorder/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wf-recorder/"
 description: "Screencast with wf-recorder, a command-line tool to capture Wayland displays. Record video and audio with ease on Linux. Free online tool, no registration required."
 category: linux

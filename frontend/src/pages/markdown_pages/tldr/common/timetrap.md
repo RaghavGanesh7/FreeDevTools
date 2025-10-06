@@ -1,7 +1,7 @@
 ---
 title: "Time Tracker - Track Time with Timetrap | Online Free DevTools by Hexmos"
 name: timetrap
-path: /freedevtools/tldr/common/timetrap
+path: "/freedevtools/tldr/common/timetrap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/timetrap/"
 description: "Track time efficiently with Timetrap, a command-line time tracker. Manage timesheets, create entries, and edit logs with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Kiterunner Schema - Compile and Replay API Endpoints | Online Free DevTools by Hexmos"
 name: kiterunner-kb
-path: /freedevtools/tldr/kiterunner/kiterunner-kb
+path: "/freedevtools/tldr/kiterunner/kiterunner-kb/"
 canonical: "https://hexmos.com/freedevtools/tldr/kiterunner/kiterunner-kb/"
 description: "Compile Kiterunner schemas and replay API endpoints with Kiterunner KB. Convert between JSON, KITE, and TXT formats for endpoint discovery. Free online tool, no registration required."
 category: common

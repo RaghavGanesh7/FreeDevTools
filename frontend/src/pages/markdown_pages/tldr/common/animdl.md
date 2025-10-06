@@ -1,7 +1,7 @@
 ---
 title: "Anime Downloader - Download Anime Easily | Online Free DevTools by Hexmos"
 name: animdl
-path: /freedevtools/tldr/common/animdl
+path: "/freedevtools/tldr/common/animdl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/animdl/"
 description: "Download anime quickly with animdl, a powerful anime scraper. Effortlessly download episodes and manage your anime library. Free online tool, no registration required."
 category: common

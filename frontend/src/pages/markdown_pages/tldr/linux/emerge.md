@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages with emerge - Gentoo Package Management | Online Free DevTools by Hexmos"
 name: emerge
-path: /freedevtools/tldr/linux/emerge
+path: "/freedevtools/tldr/linux/emerge/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/emerge/"
 description: "Manage Gentoo packages efficiently with emerge, the powerful package manager.  Update, install, remove, and search for packages with ease. Free online tool, no registration required."
 category: linux

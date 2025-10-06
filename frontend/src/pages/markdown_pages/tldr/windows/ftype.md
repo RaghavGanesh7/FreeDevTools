@@ -1,7 +1,7 @@
 ---
 title: "Ftype - Control File Associations | Online Free DevTools by Hexmos"
 name: ftype
-path: /freedevtools/tldr/windows/ftype
+path: "/freedevtools/tldr/windows/ftype/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/ftype/"
 description: "Control file associations with Ftype on Windows. Associate file extensions with specific programs for seamless workflow. Free online tool, no registration required."
 category: windows

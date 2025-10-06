@@ -1,7 +1,7 @@
 ---
 title: "Getent - Retrieve System Database Entries | Online Free DevTools by Hexmos"
 name: getent
-path: /freedevtools/tldr/linux/getent
+path: "/freedevtools/tldr/linux/getent/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/getent/"
 description: "Retrieve system database entries with Getent. Access group, user, service, and host information using Name Service Switch. Free online tool, no registration required."
 category: linux

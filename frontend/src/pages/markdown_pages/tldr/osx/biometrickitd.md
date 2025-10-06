@@ -1,7 +1,7 @@
 ---
 title: "Biometric Support - Manage Biometrics on macOS | Online Free DevTools by Hexmos"
 name: biometrickitd
-path: /freedevtools/tldr/osx/biometrickitd
+path: "/freedevtools/tldr/osx/biometrickitd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/biometrickitd/"
 description: "Manage biometric operations with biometrickitd on macOS. Obtain biometric authentication status, and access biometric sensor data. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Display User ID - Manage User Identity | Online Free DevTools by Hexmos"
 name: id
-path: /freedevtools/tldr/common/id
+path: "/freedevtools/tldr/common/id/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/id/"
 description: "Display user identity with the id command. Manage user and group IDs, and retrieve user information efficiently. Free online tool, no registration required."
 category: common

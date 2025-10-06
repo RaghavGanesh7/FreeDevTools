@@ -1,7 +1,7 @@
 ---
 title: "smem Memory Usage - Monitor System Processes | Online Free DevTools by Hexmos"
 name: smem
-path: /freedevtools/tldr/linux/smem
+path: "/freedevtools/tldr/linux/smem/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/smem/"
 description: "Monitor system memory usage with smem.  View process memory consumption per user, filter by username, and analyze system memory information. Free online tool, no registration required."
 category: linux

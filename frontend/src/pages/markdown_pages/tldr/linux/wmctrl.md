@@ -1,7 +1,7 @@
 ---
 title: "Control Windows with wmctrl - Manage X Window Manager | Online Free DevTools by Hexmos"
 name: wmctrl
-path: /freedevtools/tldr/linux/wmctrl
+path: "/freedevtools/tldr/linux/wmctrl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wmctrl/"
 description: "Control X Window Manager windows efficiently with wmctrl. List, switch, move, and manage windows via command line. Free online tool, no registration required."
 category: linux

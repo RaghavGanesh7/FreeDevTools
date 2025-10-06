@@ -1,7 +1,7 @@
 ---
 title: "Manage Repositories - Control VCS at Once | Online Free DevTools by Hexmos"
 name: mr
-path: /freedevtools/tldr/common/mr
+path: "/freedevtools/tldr/common/mr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mr/"
 description: "Manage multiple VCS repositories with MR. Update, checkout, and status your git, hg, and bzr repos simultaneously. Free online tool, no registration required."
 category: common

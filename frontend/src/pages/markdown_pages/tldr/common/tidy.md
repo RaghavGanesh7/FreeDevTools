@@ -1,7 +1,7 @@
 ---
 title: "Tidy - Format HTML and XML Files | Online Free DevTools by Hexmos"
 name: tidy
-path: /freedevtools/tldr/common/tidy
+path: "/freedevtools/tldr/common/tidy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tidy/"
 description: "Format HTML and XML files easily with Tidy. Clean up code, add indentation and improve readability using command line interface. Free online tool, no registration required."
 category: common

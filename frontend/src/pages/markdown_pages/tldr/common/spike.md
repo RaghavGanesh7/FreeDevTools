@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Websites - Spike | Online Free DevTools by Hexmos"
 name: spike
-path: /freedevtools/tldr/common/spike
+path: "/freedevtools/tldr/common/spike/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spike/"
 description: "Generate static websites with Spike, a comprehensive static site generator. Easily create, compile, and manage your web projects. Free online tool, no registration required."
 category: common

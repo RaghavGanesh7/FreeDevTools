@@ -1,7 +1,7 @@
 ---
 title: "Build Xcode Projects - Control Builds with xctool | Online Free DevTools by Hexmos"
 name: xctool
-path: /freedevtools/tldr/osx/xctool
+path: "/freedevtools/tldr/osx/xctool/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xctool/"
 description: "Control Xcode builds with xctool. Automate building, testing, and analyzing iOS and macOS projects. Free online tool, no registration required."
 category: osx

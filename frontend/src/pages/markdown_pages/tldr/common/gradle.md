@@ -1,7 +1,7 @@
 ---
 title: "Gradle Build Automation - Automate Builds | Online Free DevTools by Hexmos"
 name: gradle
-path: /freedevtools/tldr/common/gradle
+path: "/freedevtools/tldr/common/gradle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gradle/"
 description: "Automate builds with Gradle Build Automation. Streamline your software development process using command line tools. Free online tool, no registration required."
 category: common

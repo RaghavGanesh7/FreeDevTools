@@ -1,7 +1,7 @@
 ---
 title: "PNM Interpolation - Resample Images | Online Free DevTools by Hexmos"
 name: pnminterp
-path: /freedevtools/tldr/pnm/pnminterp
+path: "/freedevtools/tldr/pnm/pnminterp/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnminterp/"
 description: "Resample images with PNM Interpolation, transforming image sizes. Enhance image quality with advanced interpolation techniques using Netpbm tools. Free online tool, no registration required."
 category: common

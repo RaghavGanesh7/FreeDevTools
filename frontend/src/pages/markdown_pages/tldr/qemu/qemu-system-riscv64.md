@@ -1,7 +1,7 @@
 ---
 title: "QEMU RISC-V Emulator - Run RISC-V Systems | Online Free DevTools by Hexmos"
 name: qemu-system-riscv64
-path: /freedevtools/tldr/qemu/qemu-system-riscv64
+path: "/freedevtools/tldr/qemu/qemu-system-riscv64/"
 canonical: "https://hexmos.com/freedevtools/tldr/qemu/qemu-system-riscv64/"
 description: "Emulate RISC-V systems with QEMU RISC-V Emulator. Execute kernels and test software on a virtualized RISC-V architecture. Free online tool, no registration required."
 category: common

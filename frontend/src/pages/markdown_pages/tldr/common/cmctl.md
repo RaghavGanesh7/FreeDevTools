@@ -1,7 +1,7 @@
 ---
 title: "Control cert-manager - Manage Certificates | Online Free DevTools by Hexmos"
 name: cmctl
-path: /freedevtools/tldr/common/cmctl
+path: "/freedevtools/tldr/common/cmctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cmctl/"
 description: "Control cert-manager resources with cmctl. Approve certificate requests, check certificate status, and issue new requests. Free online tool, no registration required."
 category: common

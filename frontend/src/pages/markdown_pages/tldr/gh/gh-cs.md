@@ -1,7 +1,7 @@
 ---
 title: "Codespace Control - Manage Cloud Dev Environments | Online Free DevTools by Hexmos"
 name: gh-cs
-path: /freedevtools/tldr/gh/gh-cs
+path: "/freedevtools/tldr/gh/gh-cs/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-cs/"
 description: "Control codespaces easily with gh-cs, the GitHub CLI codespace alias. Manage cloud development environments and access documentation quickly. Free online tool, no registration required."
 category: common

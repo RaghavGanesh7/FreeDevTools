@@ -1,7 +1,7 @@
 ---
 title: "Link Checker - Validate Website Links | Online Free DevTools by Hexmos"
 name: linkchecker
-path: /freedevtools/tldr/common/linkchecker
+path: "/freedevtools/tldr/common/linkchecker/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/linkchecker/"
 description: "Validate website links effortlessly with Link Checker. Identify broken links, external links, and improve website SEO with this free online tool, no registration required."
 category: common

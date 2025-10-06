@@ -1,7 +1,7 @@
 ---
 title: "Rsh - Execute Remote Commands | Online Free DevTools by Hexmos"
 name: rsh
-path: /freedevtools/tldr/linux/rsh
+path: "/freedevtools/tldr/linux/rsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rsh/"
 description: "Execute remote commands with Rsh on Linux. Securely access remote hosts and manage server administration tasks. Free online tool, no registration required."
 category: linux

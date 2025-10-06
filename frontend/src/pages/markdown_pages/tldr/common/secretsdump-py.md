@@ -1,7 +1,7 @@
 ---
 title: "Dump NTLM Hashes - Secretsdump.py Windows Credentials | Online Free DevTools by Hexmos"
 name: secretsdump.py
-path: /freedevtools/tldr/common/secretsdump-py
+path: "/freedevtools/tldr/common/secretsdump-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/secretsdump-py/"
 description: "Dump NTLM hashes with secretsdump.py, extracting Windows credentials and Active Directory information. Free online tool, no registration required for credential recovery."
 category: common

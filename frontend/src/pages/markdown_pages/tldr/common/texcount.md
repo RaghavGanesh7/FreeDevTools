@@ -1,7 +1,7 @@
 ---
 title: "Count TeX Words - Analyze LaTeX Documents | Online Free DevTools by Hexmos"
 name: texcount
-path: /freedevtools/tldr/common/texcount
+path: "/freedevtools/tldr/common/texcount/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/texcount/"
 description: "Analyze TeX documents and count words with Texcount. Quickly estimate LaTeX document length, including subfiles and chapters. Free online tool, no registration required."
 category: common

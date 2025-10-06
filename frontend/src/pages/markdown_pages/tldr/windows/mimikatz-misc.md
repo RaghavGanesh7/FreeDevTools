@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Misc - Control System Functions | Online Free DevTools by Hexmos"
 name: mimikatz-misc
-path: /freedevtools/tldr/windows/mimikatz-misc
+path: "/freedevtools/tldr/windows/mimikatz-misc/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-misc/"
 description: "Control system functions with Mimikatz Misc commands. Manage processes, manipulate time, and trigger BSOD for testing. Free online tool, no registration required."
 category: windows

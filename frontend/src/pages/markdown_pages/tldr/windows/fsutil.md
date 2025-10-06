@@ -1,7 +1,7 @@
 ---
 title: "FSUTIL - Control File System Volumes | Online Free DevTools by Hexmos"
 name: fsutil
-path: "/freedevtools/tldr/windows/fsutil"
+path: "/freedevtools/tldr/windows/fsutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/fsutil/"
 description: "Control file system volumes with FSUTIL. Get volume information, manage dirty bit states, and check repair status on Windows. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Disassemble Java - Inspect Class Files | Online Free DevTools by Hexmos"
 name: javap
-path: /freedevtools/tldr/common/javap
+path: "/freedevtools/tldr/common/javap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/javap/"
 description: "Inspect Java class files with Javap. Disassemble bytecode and analyze code structure for debugging and reverse engineering. Free online tool, no registration required."
 category: common

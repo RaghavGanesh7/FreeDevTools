@@ -1,7 +1,7 @@
 ---
 title: "Convert PNM to RLE - Format Image Files | Online Free DevTools by Hexmos"
 name: pnmtorle
-path: /freedevtools/tldr/pnm/pnmtorle
+path: "/freedevtools/tldr/pnm/pnmtorle/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmtorle/"
 description: "Convert PNM files to RLE images with pnmtorle. Easily format image files for various applications. Free online tool, no registration required."
 category: common

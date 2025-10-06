@@ -1,7 +1,7 @@
 ---
 title: "Create Factorio Server - Manage Game Worlds | Online Free DevTools by Hexmos"
 name: factorio
-path: /freedevtools/tldr/linux/factorio
+path: "/freedevtools/tldr/linux/factorio/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/factorio/"
 description: "Create Factorio servers to manage complex game worlds. Use command-line options for custom map generation and settings. Free online tool, no registration required."
 category: linux

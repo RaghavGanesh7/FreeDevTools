@@ -1,7 +1,7 @@
 ---
 title: "Compile C Code - Run C Scripts with TCC | Online Free DevTools by Hexmos"
 name: tcc
-path: /freedevtools/tldr/common/tcc
+path: "/freedevtools/tldr/common/tcc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tcc/"
 description: "Compile C code with TCC, a tiny C compiler and linker. Execute C scripts and build executables directly from source files. Free online tool, no registration required."
 category: common

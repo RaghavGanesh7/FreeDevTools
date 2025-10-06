@@ -1,7 +1,7 @@
 ---
 title: "Merge Vector Datasets - with ogrmerge.py | Online Free DevTools by Hexmos"
 name: ogrmerge.py
-path: /freedevtools/tldr/common/ogrmerge-py
+path: "/freedevtools/tldr/common/ogrmerge-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/ogrmerge-py/"
 description: "Merge vector datasets effortlessly with ogrmerge.py. Combine multiple geospatial data files into a single, unified dataset. Free online tool, no registration required."
 category: common

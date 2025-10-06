@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to NEO - Image Format Tool | Online Free DevTools by Hexmos"
 name: ppmtoneo
-path: /freedevtools/tldr/ppm/ppmtoneo
+path: "/freedevtools/tldr/ppm/ppmtoneo/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtoneo/"
 description: "Convert PPM images to Atari Neochrome (NEO) format with ppmtoneo. Free online tool, no registration required. Simplify image format conversion with this utility."
 category: common

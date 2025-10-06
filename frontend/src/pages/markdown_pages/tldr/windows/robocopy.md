@@ -1,7 +1,7 @@
 ---
 title: "Robocopy - Control File and Folder Copy | Online Free DevTools by Hexmos"
 name: robocopy
-path: /freedevtools/tldr/windows/robocopy
+path: "/freedevtools/tldr/windows/robocopy/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/robocopy/"
 description: "Control file and folder copying with Robocopy. Perform robust file transfers with advanced options for syncing and mirroring directories. Free online tool, no registration required."
 category: windows

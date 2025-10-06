@@ -1,7 +1,7 @@
 ---
 title: "Hyprpm - Control Hyprland Plugins | Online Free DevTools by Hexmos"
 name: hyprpm
-path: /freedevtools/tldr/linux/hyprpm
+path: "/freedevtools/tldr/linux/hyprpm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hyprpm/"
 description: "Control Hyprland plugins effortlessly with Hyprpm. Manage, enable, disable, and update your Hyprland compositor plugins. Free online tool, no registration required."
 category: linux

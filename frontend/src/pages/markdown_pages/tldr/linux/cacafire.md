@@ -1,7 +1,7 @@
 ---
 title: "Display ASCII Fire - cacafire Command | Online Free DevTools by Hexmos"
 name: cacafire
-path: /freedevtools/tldr/linux/cacafire
+path: "/freedevtools/tldr/linux/cacafire/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cacafire/"
 description: "Display animated ASCII fire with the cacafire command.  This simple command provides a fun visual output in your terminal. Free online tool, no registration required."
 category: linux

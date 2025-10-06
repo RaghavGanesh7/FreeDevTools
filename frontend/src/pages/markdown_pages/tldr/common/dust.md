@@ -1,7 +1,7 @@
 ---
 title: "Analyze Disk Usage - Instantly View Directories with Dust | Online Free DevTools by Hexmos"
 name: dust
-path: /freedevtools/tldr/common/dust
+path: "/freedevtools/tldr/common/dust/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dust/"
 description: "Analyze disk usage instantly with Dust. Discover directory sizes and reclaim wasted space on Linux and macOS systems. Free online tool, no registration required."
 category: common

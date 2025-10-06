@@ -1,7 +1,7 @@
 ---
 title: "Compile Arduino Sketches - Command Line Tool | Online Free DevTools by Hexmos"
 name: arduino-builder
-path: /freedevtools/tldr/common/arduino-builder
+path: "/freedevtools/tldr/common/arduino-builder/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/arduino-builder/"
 description: "Compile Arduino sketches efficiently with arduino-builder. Customize build options, debug, and streamline your Arduino development process. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Select Timezone - Interactively Choose Timezone | Online Free DevTools by Hexmos"
 name: tzselect
-path: /freedevtools/tldr/linux/tzselect
+path: "/freedevtools/tldr/linux/tzselect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tzselect/"
 description: "Select timezone interactively with tzselect. Find the correct timezone based on your location using command line interface. Free online tool, no registration required."
 category: linux

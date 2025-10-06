@@ -1,7 +1,7 @@
 ---
 title: "Chocolatey Info - Display Package Details | Online Free DevTools by Hexmos"
 name: choco-info
-path: /freedevtools/tldr/windows/choco-info
+path: "/freedevtools/tldr/windows/choco-info/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-info/"
 description: "Display package details with Chocolatey Info. Get comprehensive information about Chocolatey packages, including dependencies and versions. Free online tool, no registration required."
 category: windows

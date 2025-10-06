@@ -1,7 +1,7 @@
 ---
 title: "Hex Viewer - Inspect Files in Hex Format | Online Free DevTools by Hexmos"
 name: hexyl
-path: /freedevtools/tldr/common/hexyl
+path: "/freedevtools/tldr/common/hexyl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hexyl/"
 description: "Inspect files in hex format with Hexyl. Analyze byte patterns, debug data structures, and understand file contents. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create WebP Animations - Webpmux | Online Free DevTools by Hexmos"
 name: webpmux
-path: /freedevtools/tldr/common/webpmux
+path: "/freedevtools/tldr/common/webpmux/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/webpmux/"
 description: "Create WebP animations with Webpmux. Generate animated WebP images using command-line tools for efficient image compression. Free online tool, no registration required."
 category: common

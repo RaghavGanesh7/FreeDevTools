@@ -1,7 +1,7 @@
 ---
 title: "Arch Command - Display System Architecture | Online Free DevTools by Hexmos"
 name: arch
-path: /freedevtools/tldr/common/arch
+path: "/freedevtools/tldr/common/arch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/arch/"
 description: "Display system architecture with Arch Command. Identify processor type and compatibility across operating systems. Free online tool, no registration required."
 category: common

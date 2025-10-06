@@ -1,7 +1,7 @@
 ---
 title: "MuseScore - Launch Music Notation Software | Online Free DevTools by Hexmos"
 name: mscore
-path: /freedevtools/tldr/common/mscore
+path: "/freedevtools/tldr/common/mscore/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mscore/"
 description: "Launch and open music notation software with MuseScore. Quickly access and manage your musical scores for editing and playback. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Export Variables - Set Shell Variables | Online Free DevTools by Hexmos"
 name: export
-path: /freedevtools/tldr/common/export
+path: "/freedevtools/tldr/common/export/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/export/"
 description: "Set shell variables instantly with Export Variables. Easily manage environment variables for child processes on Linux, macOS, and Unix systems. Free online tool, no registration required."
 category: common

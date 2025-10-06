@@ -1,7 +1,7 @@
 ---
 title: "Xsan Daemon - Control File System Services | Online Free DevTools by Hexmos"
 name: xsand
-path: /freedevtools/tldr/osx/xsand
+path: "/freedevtools/tldr/osx/xsand/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xsand/"
 description: "Control Xsan file system services with Xsand daemon. Manage volumes, metadata, and client connections efficiently. Free online tool, no registration required."
 category: osx

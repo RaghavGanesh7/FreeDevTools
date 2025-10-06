@@ -1,7 +1,7 @@
 ---
 title: "Screenshot Maker - Create Screenshots in Linux | Online Free DevTools by Hexmos"
 name: mate-screenshot
-path: /freedevtools/tldr/linux/mate-screenshot
+path: "/freedevtools/tldr/linux/mate-screenshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mate-screenshot/"
 description: "Create screenshots easily with Mate Screenshot. Capture full screen, specific windows, or custom areas. Free online tool, no registration required. Linux screenshot tool."
 category: linux

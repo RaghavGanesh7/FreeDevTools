@@ -1,7 +1,7 @@
 ---
 title: "Create Tar Archives - Archiving Utility | Online Free DevTools by Hexmos"
 name: tar
-path: /freedevtools/tldr/common/tar
+path: "/freedevtools/tldr/common/tar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tar/"
 description: "Create tar archives with Tar. An archiving utility frequently used with gzip or bzip2 for compression. Free online tool, no registration required."
 category: common

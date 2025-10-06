@@ -1,7 +1,7 @@
 ---
 title: "DNS Lookup - Analyze DNS Records | Online Free DevTools by Hexmos"
 name: dig
-path: /freedevtools/tldr/common/dig
+path: "/freedevtools/tldr/common/dig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dig/"
 description: "Analyze DNS records quickly with dig. Perform DNS lookups, query specific record types, and troubleshoot network issues. Free online tool, no registration required."
 category: common

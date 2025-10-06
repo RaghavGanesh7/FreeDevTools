@@ -1,7 +1,7 @@
 ---
 title: "Filefrag - Analyze File Fragmentation | Online Free DevTools by Hexmos"
 name: filefrag
-path: /freedevtools/tldr/linux/filefrag
+path: "/freedevtools/tldr/linux/filefrag/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/filefrag/"
 description: "Analyze file fragmentation with filefrag.  Identify and understand file fragmentation issues on your system using this command-line tool. Free online tool, no registration required."
 category: linux

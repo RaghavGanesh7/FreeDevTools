@@ -1,7 +1,7 @@
 ---
 title: "Control Serial Ports - Microcom Terminal | Online Free DevTools by Hexmos"
 name: microcom
-path: "/freedevtools/tldr/linux/microcom"
+path: "/freedevtools/tldr/linux/microcom/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/microcom/"
 description: "Control serial ports with Microcom. Connect to serial, CAN, and telnet devices from the command line. Free online tool, no registration required."
 category: linux

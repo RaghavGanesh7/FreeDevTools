@@ -1,7 +1,7 @@
 ---
 title: "Nfcd - Control NFC Controller | Online Free DevTools by Hexmos"
 name: nfcd
-path: /freedevtools/tldr/osx/nfcd
+path: "/freedevtools/tldr/osx/nfcd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/nfcd/"
 description: "Control NFC controller on macOS with Nfcd. This command line daemon manages Near Field Communication. Free online tool, no registration required. Automate NFC tasks with Nfcd."
 category: osx

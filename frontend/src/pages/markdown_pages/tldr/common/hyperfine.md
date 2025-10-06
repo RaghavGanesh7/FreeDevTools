@@ -1,7 +1,7 @@
 ---
 title: "Benchmark Tool - Run Command Benchmarks | Online Free DevTools by Hexmos"
 name: hyperfine
-path: /freedevtools/tldr/common/hyperfine
+path: "/freedevtools/tldr/common/hyperfine/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hyperfine/"
 description: "Run benchmarks with Hyperfine, a command-line benchmarking tool. Compare command execution times and optimize performance with ease. Free online tool, no registration required."
 category: common

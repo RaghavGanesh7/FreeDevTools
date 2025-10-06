@@ -1,7 +1,7 @@
 ---
 title: "Validate PPD Files - Test PPD Conformance | Online Free DevTools by Hexmos"
 name: cupstestppd
-path: /freedevtools/tldr/common/cupstestppd
+path: "/freedevtools/tldr/common/cupstestppd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cupstestppd/"
 description: "Validate PPD files with cupstestppd. Test printer definition conformance and identify errors in PPD files for CUPS. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "SSLStrip - Perform SSL Stripping Attacks | Online Free DevTools by Hexmos"
 name: sslstrip
-path: /freedevtools/tldr/linux/sslstrip
+path: "/freedevtools/tldr/linux/sslstrip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sslstrip/"
 description: "Perform SSL stripping attacks with SSLStrip for network security testing.  Intercept and manipulate HTTPS traffic. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Check GitHub CI Status - Display Checks | Online Free DevTools by Hexmos"
 name: hub-ci-status
-path: /freedevtools/tldr/hub/hub-ci-status
+path: "/freedevtools/tldr/hub/hub-ci-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/hub/hub-ci-status/"
 description: "Check GitHub CI status with hub-ci-status. Display commit statuses, identify failing checks, and debug build pipelines faster. Free online tool, no registration required."
 category: common

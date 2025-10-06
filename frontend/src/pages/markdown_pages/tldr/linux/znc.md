@@ -1,7 +1,7 @@
 ---
 title: "ZNC IRC Bouncer - Manage IRC Connections | Online Free DevTools by Hexmos"
 name: znc
-path: /freedevtools/tldr/linux/znc
+path: "/freedevtools/tldr/linux/znc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/znc/"
 description: "Manage IRC connections effortlessly with the ZNC IRC bouncer.  Setup and control your IRC experience from the command line. Free online tool, no registration required."
 category: linux

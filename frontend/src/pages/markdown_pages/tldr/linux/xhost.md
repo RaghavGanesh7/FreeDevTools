@@ -1,7 +1,7 @@
 ---
 title: "xhost - Control X Server Access | Online Free DevTools by Hexmos"
 name: xhost
-path: /freedevtools/tldr/linux/xhost
+path: "/freedevtools/tldr/linux/xhost/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xhost/"
 description: "Control X server access lists with the xhost command. Manage connections from specific hosts or allow/deny all. Free online tool, no registration required."
 category: linux

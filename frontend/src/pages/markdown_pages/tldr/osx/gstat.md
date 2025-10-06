@@ -1,7 +1,7 @@
 ---
 title: "Control File Status - gstat Command | Online Free DevTools by Hexmos"
 name: gstat
-path: /freedevtools/tldr/osx/gstat
+path: "/freedevtools/tldr/osx/gstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gstat/"
 description: "Control file status instantly with gstat. Inspect file attributes, timestamps, and permissions on macOS with this command alias. Free online tool, no registration required."
 category: osx

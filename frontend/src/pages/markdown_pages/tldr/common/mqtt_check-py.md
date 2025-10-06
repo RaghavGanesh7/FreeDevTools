@@ -1,7 +1,7 @@
 ---
 title: "Validate MQTT Credentials - Verify Login Details | Online Free DevTools by Hexmos"
 name: mqtt_check.py
-path: /freedevtools/tldr/common/mqtt_check-py
+path: "/freedevtools/tldr/common/mqtt_check-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/mqtt_check-py/"
 description: "Validate MQTT credentials with mqtt_check.py. Verify login information, enable SSL connections, and test client authentication. Free online tool, no registration required."
 category: common

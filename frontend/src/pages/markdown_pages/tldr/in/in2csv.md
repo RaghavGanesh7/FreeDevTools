@@ -1,7 +1,7 @@
 ---
 title: "Convert to CSV - Format Tabular Data | Online Free DevTools by Hexmos"
 name: in2csv
-path: /freedevtools/tldr/in/in2csv
+path: "/freedevtools/tldr/in/in2csv/"
 canonical: "https://hexmos.com/freedevtools/tldr/in/in2csv/"
 description: "Convert tabular data to CSV with in2csv. Format XLS, XLSX, DBF, and JSON files. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Fuzz Websites - Discover Vulnerabilities with ffuf | Online Free DevTools by Hexmos"
 name: ffuf
-path: /freedevtools/tldr/common/ffuf
+path: "/freedevtools/tldr/common/ffuf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ffuf/"
 description: "Discover website vulnerabilities with ffuf. Perform fast web fuzzing and enumerate directories using command-line. Free online tool, no registration required."
 category: common

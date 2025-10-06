@@ -1,7 +1,7 @@
 ---
 title: "Convert PICT to PPM - Image Converter | Online Free DevTools by Hexmos"
 name: picttoppm
-path: /freedevtools/tldr/common/picttoppm
+path: "/freedevtools/tldr/common/picttoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/picttoppm/"
 description: "Convert PICT images to PPM format with picttoppm. Process legacy Macintosh graphics into modern image formats. Free online tool, no registration required."
 category: common

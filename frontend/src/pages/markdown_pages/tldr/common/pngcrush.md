@@ -1,7 +1,7 @@
 ---
 title: "Compress PNG - Optimize Images with Pngcrush | Online Free DevTools by Hexmos"
 name: pngcrush
-path: /freedevtools/tldr/common/pngcrush
+path: "/freedevtools/tldr/common/pngcrush/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pngcrush/"
 description: "Compress PNG files with Pngcrush for optimal web performance. Reduce image size and improve website loading speed. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "MySQL Tool - Manage Databases | Online Free DevTools by Hexmos"
 name: mysql
-path: /freedevtools/tldr/common/mysql
+path: "/freedevtools/tldr/common/mysql/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mysql/"
 description: "Manage databases with MySQL tool. Connect to databases, execute SQL scripts, and restore backups. Free online tool, no registration required."
 category: common

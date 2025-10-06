@@ -1,7 +1,7 @@
 ---
 title: "While Loop - Control Command Execution | Online Free DevTools by Hexmos"
 name: while
-path: /freedevtools/tldr/common/while
+path: "/freedevtools/tldr/common/while/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/while/"
 description: "Control command execution with While Loop. Automate repetitive tasks and create conditional execution flows using shell scripting. Free online tool, no registration required."
 category: common

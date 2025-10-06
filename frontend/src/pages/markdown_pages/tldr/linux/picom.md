@@ -1,7 +1,7 @@
 ---
 title: "Picom Compositor - Manage Xorg Windowing | Online Free DevTools by Hexmos"
 name: picom
-path: /freedevtools/tldr/linux/picom
+path: "/freedevtools/tldr/linux/picom/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/picom/"
 description: "Manage Xorg windowing with Picom compositor.  Control window effects and enhance your desktop experience with this lightweight and efficient tool. Free online tool, no registration required."
 category: linux

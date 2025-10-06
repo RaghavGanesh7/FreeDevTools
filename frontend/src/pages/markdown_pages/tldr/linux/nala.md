@@ -1,7 +1,7 @@
 ---
 title: "Nala Package Manager - Manage Packages Efficiently | Online Free DevTools by Hexmos"
 name: nala
-path: /freedevtools/tldr/linux/nala
+path: "/freedevtools/tldr/linux/nala/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nala/"
 description: "Manage packages efficiently with Nala, a powerful package manager.  Install, remove, update, and search packages with ease. Free online tool, no registration required."
 category: linux

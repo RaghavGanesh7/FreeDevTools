@@ -1,7 +1,7 @@
 ---
 title: "Surfraw Search - Access Internet Search Engines | Online Free DevTools by Hexmos"
 name: sr
-path: /freedevtools/tldr/common/sr
+path: "/freedevtools/tldr/common/sr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sr/"
 description: "Access internet search engines with Surfraw search. Quickly search multiple sites and filter results using command line. Free online tool, no registration required."
 category: common

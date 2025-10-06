@@ -1,7 +1,7 @@
 ---
 title: "Control Tee Output - Duplicate Streams with gtee | Online Free DevTools by Hexmos"
 name: gtee
-path: /freedevtools/tldr/osx/gtee
+path: "/freedevtools/tldr/osx/gtee/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtee/"
 description: "Control tee output streams instantly with gtee. Duplicate standard input to files and standard output simultaneously. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Nix Build - Generate Packages with Nix | Online Free DevTools by Hexmos"
 name: nix-build
-path: /freedevtools/tldr/nix/nix-build
+path: "/freedevtools/tldr/nix/nix-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/nix/nix-build/"
 description: "Generate packages with Nix Build, a powerful build system. Create reproducible builds and manage dependencies effectively. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "SmalltalkCI - Test Smalltalk Projects | Online Free DevTools by Hexmos"
 name: smalltalkci
-path: /freedevtools/tldr/common/smalltalkci
+path: "/freedevtools/tldr/common/smalltalkci/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/smalltalkci/"
 description: "Test Smalltalk projects with SmalltalkCI, a framework supporting GitHub Actions, Travis CI, and GitLab CI. Automate your Smalltalk testing workflows. Free online tool, no registration required."
 category: common

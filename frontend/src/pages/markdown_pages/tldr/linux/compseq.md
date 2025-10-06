@@ -1,7 +1,7 @@
 ---
 title: "Calculate Sequence Composition - Compseq | Online Free DevTools by Hexmos"
 name: compseq
-path: /freedevtools/tldr/linux/compseq
+path: "/freedevtools/tldr/linux/compseq/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/compseq/"
 description: "Calculate sequence composition with Compseq. Analyze DNA and protein sequences to determine word frequencies. Free online tool, no registration required."
 category: linux

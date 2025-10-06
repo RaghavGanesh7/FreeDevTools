@@ -1,7 +1,7 @@
 ---
 title: "macOS Installer Tool - Download macOS Installers | Online Free DevTools by Hexmos"
 name: mist
-path: /freedevtools/tldr/osx/mist
+path: "/freedevtools/tldr/osx/mist/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mist/"
 description: "Download macOS Installers with MIST - macOS Installer Super Tool. Easily manage macOS versions and prepare installation media. Free online tool, no registration required."
 category: osx

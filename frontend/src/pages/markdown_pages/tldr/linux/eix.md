@@ -1,7 +1,7 @@
 ---
 title: "Search Gentoo Packages - Find Packages with Eix | Online Free DevTools by Hexmos"
 name: eix
-path: /freedevtools/tldr/linux/eix
+path: "/freedevtools/tldr/linux/eix/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eix/"
 description: "Search Gentoo Linux packages efficiently with Eix. Quickly find software, view package descriptions, and manage licenses. Free online tool, no registration required."
 category: linux

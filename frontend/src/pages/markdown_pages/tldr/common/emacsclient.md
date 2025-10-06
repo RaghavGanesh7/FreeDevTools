@@ -1,7 +1,7 @@
 ---
 title: "Emacsclient - Open Files in Emacs | Online Free DevTools by Hexmos"
 name: emacsclient
-path: /freedevtools/tldr/common/emacsclient
+path: "/freedevtools/tldr/common/emacsclient/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/emacsclient/"
 description: "Open files with Emacsclient, the command-line interface to Emacs. Quickly edit files and evaluate commands. Free online tool, no registration required."
 category: common

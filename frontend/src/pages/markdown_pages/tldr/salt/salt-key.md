@@ -1,7 +1,7 @@
 ---
 title: "Salt-Key - Control Salt Minion Keys | Online Free DevTools by Hexmos"
 name: salt-key
-path: /freedevtools/tldr/salt/salt-key
+path: "/freedevtools/tldr/salt/salt-key/"
 canonical: "https://hexmos.com/freedevtools/tldr/salt/salt-key/"
 description: "Control Salt minion keys securely with Salt-Key. Manage, accept, reject and fingerprint keys for secure communication. Free online tool, no registration required."
 category: common

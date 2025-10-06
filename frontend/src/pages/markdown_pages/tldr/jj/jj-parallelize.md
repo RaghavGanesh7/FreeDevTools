@@ -1,7 +1,7 @@
 ---
 title: "Parallelize Revisions - Control JJ Branches | Online Free DevTools by Hexmos"
 name: jj-parallelize
-path: /freedevtools/tldr/jj/jj-parallelize
+path: "/freedevtools/tldr/jj/jj-parallelize/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-parallelize/"
 description: "Control JJ branches by parallelizing revisions instantly with JJ Parallelize. Create siblings and manage repositories with ease. Free online tool, no registration required."
 category: common

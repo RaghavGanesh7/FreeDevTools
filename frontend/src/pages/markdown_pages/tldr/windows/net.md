@@ -1,7 +1,7 @@
 ---
 title: "Control Network Settings - Windows Net Command | Online Free DevTools by Hexmos"
 name: net
-path: /freedevtools/tldr/windows/net
+path: "/freedevtools/tldr/windows/net/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/net/"
 description: "Control network settings with Windows Net command. Manage SMB shares, users, and services using the command line interface. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Check Spelling - Interactive Spell Check with Ispell | Online Free DevTools by Hexmos"
 name: ispell
-path: /freedevtools/tldr/common/ispell
+path: "/freedevtools/tldr/common/ispell/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ispell/"
 description: "Check spelling instantly with Ispell. Correct typos in files interactively and improve your writing. Free online tool, no registration required."
 category: common

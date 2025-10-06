@@ -1,7 +1,7 @@
 ---
 title: "LuaJIT Compiler - Execute Lua Scripts | Online Free DevTools by Hexmos"
 name: luajit
-path: /freedevtools/tldr/common/luajit
+path: "/freedevtools/tldr/common/luajit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/luajit/"
 description: "Execute Lua scripts efficiently with LuaJIT Compiler. Compile and run Lua code using JIT optimization for enhanced performance. Free online tool, no registration required."
 category: common

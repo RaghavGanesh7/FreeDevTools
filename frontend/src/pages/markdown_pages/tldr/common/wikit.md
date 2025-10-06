@@ -1,7 +1,7 @@
 ---
 title: "Get Wikipedia Summary - Wikit Command | Online Free DevTools by Hexmos"
 name: wikit
-path: /freedevtools/tldr/common/wikit
+path: "/freedevtools/tldr/common/wikit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wikit/"
 description: "Get instant Wikipedia summaries with Wikit command. Retrieve concise information, specify languages, and open articles directly. Free online tool, no registration required."
 category: common

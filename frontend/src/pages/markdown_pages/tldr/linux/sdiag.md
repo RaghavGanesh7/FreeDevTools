@@ -1,7 +1,7 @@
 ---
 title: "Slurm Diagnose - Inspect Slurmctld | Online Free DevTools by Hexmos"
 name: sdiag
-path: /freedevtools/tldr/linux/sdiag
+path: "/freedevtools/tldr/linux/sdiag/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sdiag/"
 description: "Inspect slurmctld execution with Slurm Diagnose. Analyze performance counters, reset metrics, and format output. Free online tool, no registration required."
 category: linux

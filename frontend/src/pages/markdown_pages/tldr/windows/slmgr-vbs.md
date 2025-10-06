@@ -1,7 +1,7 @@
 ---
 title: "Manage Windows Licenses - Control Activation with slmgr.vbs | Online Free DevTools by Hexmos"
 name: slmgr.vbs
-path: /freedevtools/tldr/windows/slmgr-vbs
+path: "/freedevtools/tldr/windows/slmgr-vbs/"
 canonical: "https://hexmos-com/freedevtools/tldr/windows/slmgr-vbs/"
 description: "Manage Windows licenses with slmgr.vbs and control activation status. Install product keys, activate online, and remove keys from registry securely. Free online tool, no registration required."
 category: windows

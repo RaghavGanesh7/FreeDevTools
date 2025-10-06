@@ -1,7 +1,7 @@
 ---
 title: "Promtool Validator - Validate Prometheus Configs | Online Free DevTools by Hexmos"
 name: promtool
-path: /freedevtools/tldr/common/promtool
+path: "/freedevtools/tldr/common/promtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/promtool/"
 description: "Validate Prometheus configurations with Promtool. Ensure rule and config file validity, and check metric consistency using command line. Free online tool, no registration required."
 category: common

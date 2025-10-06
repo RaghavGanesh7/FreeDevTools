@@ -1,7 +1,7 @@
 ---
 title: "View PDF Files - Display PDF Documents with Xpdf | Online Free DevTools by Hexmos"
 name: xpdf
-path: /freedevtools/tldr/common/xpdf
+path: "/freedevtools/tldr/common/xpdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xpdf/"
 description: "Display PDF documents efficiently with Xpdf. Open, zoom, and navigate PDF files using command line options. Free online tool, no registration required."
 category: common

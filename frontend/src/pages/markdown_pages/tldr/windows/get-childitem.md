@@ -1,7 +1,7 @@
 ---
 title: "List Directory Items - Explore Files with Get-ChildItem | Online Free DevTools by Hexmos"
 name: get-childitem
-path: /freedevtools/tldr/windows/get-childitem
+path: "/freedevtools/tldr/windows/get-childitem/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-childitem/"
 description: "List directory items with Get-ChildItem. Explore files and folders easily using PowerShell on Windows. Discover hidden items too! Free online tool, no registration required."
 category: windows

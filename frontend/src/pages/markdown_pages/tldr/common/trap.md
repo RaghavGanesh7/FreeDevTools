@@ -1,7 +1,7 @@
 ---
 title: "Trap Command - Control Signals | Online Free DevTools by Hexmos"
 name: trap
-path: /freedevtools/tldr/common/trap
+path: "/freedevtools/tldr/common/trap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trap/"
 description: "Control signals effectively with Trap Command. Execute commands upon specific events and manage signal handling. Free online tool, no registration required."
 category: common

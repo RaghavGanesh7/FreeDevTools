@@ -1,7 +1,7 @@
 ---
 title: "Convert Text Encoding - Change Encoding with iconv | Online Free DevTools by Hexmos"
 name: iconv
-path: /freedevtools/tldr/common/iconv
+path: "/freedevtools/tldr/common/iconv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/iconv/"
 description: "Change text encoding with iconv, a powerful command-line conversion utility. Convert file formats, character sets, and more effortlessly. Free online tool, no registration required."
 category: common

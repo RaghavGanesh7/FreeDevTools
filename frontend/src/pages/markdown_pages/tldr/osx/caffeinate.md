@@ -1,7 +1,7 @@
 ---
 title: "Caffeinate - Prevent macOS Sleep | Online Free DevTools by Hexmos"
 name: caffeinate
-path: /freedevtools/tldr/osx/caffeinate
+path: "/freedevtools/tldr/osx/caffeinate/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/caffeinate/"
 description: "Prevent macOS from sleeping with Caffeinate. Stop your Mac from going idle, manage sleep settings, and prevent disk idling. Free online tool, no registration required."
 category: osx

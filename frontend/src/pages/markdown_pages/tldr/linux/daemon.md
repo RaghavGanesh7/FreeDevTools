@@ -1,7 +1,7 @@
 ---
 title: "Control Daemon Processes - Manage Background Tasks | Online Free DevTools by Hexmos"
 name: daemon
-path: /freedevtools/tldr/linux/daemon
+path: "/freedevtools/tldr/linux/daemon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/daemon/"
 description: "Control daemon processes easily with the Daemon command. Manage background tasks, restart crashed processes and log output effectively. Free online tool, no registration required."
 category: linux

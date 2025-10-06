@@ -1,7 +1,7 @@
 ---
 title: "Convert Dates - Gregorian & Hijri with ical | Online Free DevTools by Hexmos"
 name: ical
-path: /freedevtools/tldr/common/ical
+path: "/freedevtools/tldr/common/ical/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ical/"
 description: "Convert Gregorian and Hijri dates easily with ical. Display calendars and perform date conversions instantly. Free online tool, no registration required."
 category: common

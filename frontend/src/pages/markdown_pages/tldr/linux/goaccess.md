@@ -1,7 +1,7 @@
 ---
 title: "Analyze Web Logs - GoAccess Analyzer | Online Free DevTools by Hexmos"
 name: goaccess
-path: /freedevtools/tldr/linux/goaccess
+path: "/freedevtools/tldr/linux/goaccess/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/goaccess/"
 description: "Analyze web logs with GoAccess. Gain real-time insights and generate comprehensive reports from web server log files. Free online tool, no registration required."
 category: linux

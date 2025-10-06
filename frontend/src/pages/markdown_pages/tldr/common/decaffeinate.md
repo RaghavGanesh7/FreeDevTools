@@ -1,7 +1,7 @@
 ---
 title: "Convert CoffeeScript - Decaffeinate to JavaScript | Online Free DevTools by Hexmos"
 name: decaffeinate
-path: /freedevtools/tldr/common/decaffeinate
+path: "/freedevtools/tldr/common/decaffeinate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/decaffeinate/"
 description: "Convert CoffeeScript code to modern JavaScript with Decaffeinate. Effortlessly transform CoffeeScript files using command line. Free online tool, no registration required."
 category: common

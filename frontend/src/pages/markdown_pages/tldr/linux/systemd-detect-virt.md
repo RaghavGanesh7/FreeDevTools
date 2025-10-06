@@ -1,7 +1,7 @@
 ---
 title: "Detect Virtualization - Systemd Tool | Online Free DevTools by Hexmos"
 name: systemd-detect-virt
-path: /freedevtools/tldr/linux/systemd-detect-virt
+path: "/freedevtools/tldr/linux/systemd-detect-virt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-detect-virt/"
 description: "Detect virtualization environments with systemd-detect-virt.  Identify VMs and containers quickly and easily. Free online tool, no registration required."
 category: linux

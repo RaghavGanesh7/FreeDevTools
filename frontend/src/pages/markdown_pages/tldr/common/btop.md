@@ -1,7 +1,7 @@
 ---
 title: "Monitor Resources with Btop - System Monitoring | Online Free DevTools by Hexmos"
 name: btop
-path: /freedevtools/tldr/common/btop
+path: "/freedevtools/tldr/common/btop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/btop/"
 description: "Monitor system resources instantly with Btop. Track CPU, memory, disk, and network usage using a command-line interface. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Systemd Escape - Generate Unit Names | Online Free DevTools by Hexmos"
 name: systemd-escape
-path: /freedevtools/tldr/linux/systemd-escape
+path: "/freedevtools/tldr/linux/systemd-escape/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-escape/"
 description: "Generate systemd unit names with Systemd Escape. Efficiently escape strings for systemd and reverse the process for easy manipulation. Free online tool, no registration required."
 category: linux

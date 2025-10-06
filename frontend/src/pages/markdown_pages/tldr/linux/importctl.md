@@ -1,7 +1,7 @@
 ---
 title: "Importctl - Control Disk Images | Online Free DevTools by Hexmos"
 name: importctl
-path: /freedevtools/tldr/linux/importctl
+path: "/freedevtools/tldr/linux/importctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/importctl/"
 description: "Control disk images with Importctl. Download, import, and export disk images effortlessly. Free online tool, no registration required."
 category: linux

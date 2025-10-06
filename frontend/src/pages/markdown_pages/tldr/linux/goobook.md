@@ -1,7 +1,7 @@
 ---
 title: "Access Goobook Contacts - Manage Google Contacts | Online Free DevTools by Hexmos"
 name: goobook
-path: /freedevtools/tldr/linux/goobook
+path: "/freedevtools/tldr/linux/goobook/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/goobook/"
 description: "Access and manage Google contacts easily with Goobook. Synchronize your contacts with command-line tools on Linux. Free online tool, no registration required."
 category: linux

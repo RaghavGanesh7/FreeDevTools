@@ -1,7 +1,7 @@
 ---
 title: "lrzuntar Command - Extract Files | Online Free DevTools by Hexmos"
 name: lrzuntar
-path: /freedevtools/tldr/linux/lrzuntar
+path: "/freedevtools/tldr/linux/lrzuntar/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lrzuntar/"
 description: "Extract files with lrzuntar command. This efficient command-line utility offers seamless file extraction. Free online tool, no registration required."
 category: linux

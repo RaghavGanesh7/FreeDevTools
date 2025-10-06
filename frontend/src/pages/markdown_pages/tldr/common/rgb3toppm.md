@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM Images - Create PPM with rgb3toppm | Online Free DevTools by Hexmos"
 name: rgb3toppm
-path: /freedevtools/tldr/common/rgb3toppm
+path: "/freedevtools/tldr/common/rgb3toppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rgb3toppm/"
 description: "Create PPM images with rgb3toppm by converting PGM red, green and blue components. Fast image combining with this Netpbm tool. Free online tool, no registration required."
 category: common

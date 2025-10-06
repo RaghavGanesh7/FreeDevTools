@@ -1,7 +1,7 @@
 ---
 title: "Gmake - Generate Makefiles | Online Free DevTools by Hexmos"
 name: gmake
-path: /freedevtools/tldr/osx/gmake
+path: "/freedevtools/tldr/osx/gmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gmake/"
 description: "Generate Makefiles with Gmake, a GNU Make alias for controlling software compilation. Streamline your build process on macOS. Free online tool, no registration required."
 category: osx

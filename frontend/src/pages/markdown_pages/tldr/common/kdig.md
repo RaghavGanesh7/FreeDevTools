@@ -1,7 +1,7 @@
 ---
 title: "DNS Lookup - Query DNS Records with kdig | Online Free DevTools by Hexmos"
 name: kdig
-path: /freedevtools/tldr/common/kdig
+path: "/freedevtools/tldr/common/kdig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kdig/"
 description: "Query DNS records with kdig. Perform advanced DNS lookups, specify servers, and use DNS over TLS/HTTPS. Free online tool, no registration required."
 category: common

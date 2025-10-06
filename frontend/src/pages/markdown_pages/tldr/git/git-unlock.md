@@ -1,7 +1,7 @@
 ---
 title: "Unlock Git File - Enable Commit Access | Online Free DevTools by Hexmos"
 name: git-unlock
-path: /freedevtools/tldr/git/git-unlock
+path: "/freedevtools/tldr/git/git-unlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-unlock/"
 description: "Unlock Git files for modification with git-unlock. Enable commit access and manage file locking in Git repositories. Free online tool, no registration required."
 category: common

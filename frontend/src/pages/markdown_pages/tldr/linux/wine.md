@@ -1,7 +1,7 @@
 ---
 title: "Wine Executable Runner - Run Windows Apps on Linux | Online Free DevTools by Hexmos"
 name: wine
-path: /freedevtools/tldr/linux/wine
+path: "/freedevtools/tldr/linux/wine/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wine/"
 description: "Run Windows executables seamlessly with Wine. Execute .exe files, install MSI packages, and utilize common Windows applications directly on Linux systems. Free online tool, no registration required."
 category: linux

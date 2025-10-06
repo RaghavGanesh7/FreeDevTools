@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM to TIFF - Image Converter | Online Free DevTools by Hexmos"
 name: pamtotiff
-path: /freedevtools/tldr/common/pamtotiff
+path: "/freedevtools/tldr/common/pamtotiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtotiff/"
 description: "Convert PAM to TIFF with pamtotiff. Effortlessly create TIFF images from PAM files using this powerful command-line image converter. Free online tool, no registration required."
 category: common

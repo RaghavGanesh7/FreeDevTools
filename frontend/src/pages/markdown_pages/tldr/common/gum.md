@@ -1,7 +1,7 @@
 ---
 title: "Gum - Generate Glamorous Shell Scripts | Online Free DevTools by Hexmos"
 name: gum
-path: /freedevtools/tldr/common/gum
+path: "/freedevtools/tldr/common/gum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gum/"
 description: "Generate interactive shell scripts with Gum. Build user-friendly command-line interfaces and customize terminal prompts. Free online tool, no registration required."
 category: common

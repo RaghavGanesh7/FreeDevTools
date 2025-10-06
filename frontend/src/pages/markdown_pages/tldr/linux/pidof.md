@@ -1,7 +1,7 @@
 ---
 title: "Process ID Finder - Identify Processes | Online Free DevTools by Hexmos"
 name: pidof
-path: /freedevtools/tldr/linux/pidof
+path: "/freedevtools/tldr/linux/pidof/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pidof/"
 description: "Identify processes with Process ID Finder. Quickly locate process IDs by name and manage running applications. Free online tool, no registration required."
 category: linux

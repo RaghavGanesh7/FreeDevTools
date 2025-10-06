@@ -1,7 +1,7 @@
 ---
 title: "Droplet Control - Manage DigitalOcean VMs | Online Free DevTools by Hexmos"
 name: doctl-compute-droplet
-path: /freedevtools/tldr/doctl/doctl-compute-droplet
+path: "/freedevtools/tldr/doctl/doctl-compute-droplet/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-compute-droplet/"
 description: "Control DigitalOcean droplets with doctl compute droplet. Easily manage virtual machines, create, delete, and list droplets. Free online tool, no registration required."
 category: common

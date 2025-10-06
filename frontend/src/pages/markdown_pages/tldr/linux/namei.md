@@ -1,7 +1,7 @@
 ---
 title: "Path Analyzer - Resolve File Paths on Linux | Online Free DevTools by Hexmos"
 name: namei
-path: /freedevtools/tldr/linux/namei
+path: "/freedevtools/tldr/linux/namei/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/namei/"
 description: "Analyze file paths with Namei. Resolve symbolic links and identify path issues on Linux systems. Free online tool, no registration required."
 category: linux

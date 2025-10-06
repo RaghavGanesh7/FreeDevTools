@@ -1,7 +1,7 @@
 ---
 title: "Destroy VM - Manage QEMU VMs with qm destroy | Online Free DevTools by Hexmos"
 name: qm-destroy
-path: /freedevtools/tldr/linux/qm-destroy
+path: "/freedevtools/tldr/linux/qm-destroy/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-destroy/"
 description: "Manage QEMU virtual machines with qm destroy. Remove VMs, unreferenced disks, and purge VM data. Free online tool, no registration required."
 category: linux

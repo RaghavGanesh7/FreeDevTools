@@ -1,7 +1,7 @@
 ---
 title: "Pixel Color - Display Screen Color with Farge | Online Free DevTools by Hexmos"
 name: farge
-path: /freedevtools/tldr/linux/farge
+path: "/freedevtools/tldr/linux/farge/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/farge/"
 description: "Display screen color with Farge. Capture pixel color in hexadecimal or RGB formats. Free online tool, no registration required for instant color analysis."
 category: linux

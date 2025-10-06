@@ -1,7 +1,7 @@
 ---
 title: "Calculate with bc - Precision Calculation Tool | Online Free DevTools by Hexmos"
 name: bc
-path: /freedevtools/tldr/osx/bc
+path: "/freedevtools/tldr/osx/bc/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/bc/"
 description: "Calculate expressions with bc, an arbitrary precision calculator language. Perform complex math and execute scripts with ease. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Systemd-mount - Mount Filesystems | Online Free DevTools by Hexmos"
 name: systemd-mount
-path: /freedevtools/tldr/linux/systemd-mount
+path: "/freedevtools/tldr/linux/systemd-mount/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-mount/"
 description: "Mount filesystems instantly with systemd-mount on Linux. Automate transient mounts, manage block devices, and configure mount options. Free online tool, no registration required."
 category: linux

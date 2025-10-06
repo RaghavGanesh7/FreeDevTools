@@ -1,7 +1,7 @@
 ---
 title: "Pacman Database - Manage Arch Packages | Online Free DevTools by Hexmos"
 name: pacman-database
-path: /freedevtools/tldr/linux/pacman-database
+path: "/freedevtools/tldr/linux/pacman-database/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-database/"
 description: "Manage Arch Linux packages efficiently with Pacman Database.  Control package attributes, check dependencies, and ensure database synchronization. Free online tool, no registration required."
 category: linux

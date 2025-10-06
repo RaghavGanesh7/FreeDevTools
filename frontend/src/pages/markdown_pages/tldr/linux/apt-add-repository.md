@@ -1,7 +1,7 @@
 ---
 title: "Add Apt Repository - Manage Software Sources | Online Free DevTools by Hexmos"
 name: apt-add-repository
-path: /freedevtools/tldr/linux/apt-add-repository
+path: "/freedevtools/tldr/linux/apt-add-repository/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apt-add-repository/"
 description: "Add Apt Repository to manage software sources with apt-add-repository. Update package lists and install software easily on your system. Free online tool, no registration required."
 category: linux

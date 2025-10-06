@@ -1,7 +1,7 @@
 ---
 title: "Develop Kubernetes Apps - Control DevSpace Workflow | Online Free DevTools by Hexmos"
 name: devspace
-path: /freedevtools/tldr/common/devspace
+path: "/freedevtools/tldr/common/devspace/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/devspace/"
 description: "Develop Kubernetes applications efficiently with DevSpace. Deploy, debug and build images directly in Kubernetes. Free online tool, no registration required."
 category: common

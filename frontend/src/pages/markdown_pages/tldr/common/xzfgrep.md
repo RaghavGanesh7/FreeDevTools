@@ -1,7 +1,7 @@
 ---
 title: "Xzfgrep - Search Files Fast | Online Free DevTools by Hexmos"
 name: xzfgrep
-path: /freedevtools/tldr/common/xzfgrep
+path: "/freedevtools/tldr/common/xzfgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xzfgrep/"
 description: "Search files quickly with Xzfgrep, an alias for xzgrep with fixed strings. Find specific patterns in compressed files effortlessly. Free online tool, no registration required."
 category: common

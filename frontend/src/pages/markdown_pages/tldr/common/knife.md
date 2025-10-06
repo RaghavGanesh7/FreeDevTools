@@ -1,7 +1,7 @@
 ---
 title: "Control Chef Server - Manage Nodes with Knife | Online Free DevTools by Hexmos"
 name: knife
-path: /freedevtools/tldr/common/knife
+path: "/freedevtools/tldr/common/knife/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/knife/"
 description: "Control your Chef server with Knife. Manage nodes, roles, and data bags easily using command-line interactions. Free online tool, no registration required."
 category: common

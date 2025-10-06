@@ -1,7 +1,7 @@
 ---
 title: "Convert PCD Images - Format PCD files | Online Free DevTools by Hexmos"
 name: pcdindex
-path: /freedevtools/tldr/common/pcdindex
+path: "/freedevtools/tldr/common/pcdindex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pcdindex/"
 description: "Convert PCD images with pcdindex and transform your PCD files into PPM format effortlessly. Use this free online tool, no registration required."
 category: common

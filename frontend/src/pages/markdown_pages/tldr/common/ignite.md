@@ -1,7 +1,7 @@
 ---
 title: "Ignite - Create React Native Apps | Online Free DevTools by Hexmos"
 name: ignite
-path: /freedevtools/tldr/common/ignite
+path: "/freedevtools/tldr/common/ignite/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ignite/"
 description: "Create React Native applications effortlessly with Ignite. Scaffold projects, generate files from plugins and manage dependencies quickly. Free online tool, no registration required."
 category: common

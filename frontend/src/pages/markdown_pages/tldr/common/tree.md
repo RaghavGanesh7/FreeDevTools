@@ -1,7 +1,7 @@
 ---
 title: "Tree - Visualize Directory Structure | Online Free DevTools by Hexmos"
 name: tree
-path: "/freedevtools/tldr/common/tree"
+path: "/freedevtools/tldr/common/tree/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tree/"
 description: "Visualize directory structures with Tree. Explore files and folders in a tree-like format, understanding hierarchy easily. Free online tool, no registration required."
 category: common

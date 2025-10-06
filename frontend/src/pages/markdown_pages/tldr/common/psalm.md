@@ -1,7 +1,7 @@
 ---
 title: "Analyze PHP with Psalm - Find Errors | Online Free DevTools by Hexmos"
 name: psalm
-path: /freedevtools/tldr/common/psalm
+path: "/freedevtools/tldr/common/psalm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/psalm/"
 description: "Analyze PHP code with Psalm, a static analysis tool to detect errors in your applications. Improve code quality and prevent runtime issues. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Continue - Skip Loop Iterations | Online Free DevTools by Hexmos"
 name: continue
-path: /freedevtools/tldr/common/continue
+path: "/freedevtools/tldr/common/continue/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/continue/"
 description: "Control loop execution with Continue command. Skip iterations in for, while, until, and select loops. Free online tool, no registration required."
 category: common

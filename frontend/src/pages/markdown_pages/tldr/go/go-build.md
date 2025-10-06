@@ -1,7 +1,7 @@
 ---
 title: "Go Build - Compile Go Sources | Online Free DevTools by Hexmos"
 name: go-build
-path: /freedevtools/tldr/go/go-build
+path: "/freedevtools/tldr/go/go-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-build/"
 description: "Compile Go sources effortlessly with Go Build. Create binaries, specify output filenames, and enable race detection. Free online tool, no registration required."
 category: common

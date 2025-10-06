@@ -1,7 +1,7 @@
 ---
 title: "Crawl Websites - Katana Website Crawler | Online Free DevTools by Hexmos"
 name: katana
-path: /freedevtools/tldr/common/katana
+path: "/freedevtools/tldr/common/katana/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/katana/"
 description: "Crawl websites efficiently with Katana, a powerful website crawler designed for automation pipelines. Discover URLs and analyze web content easily. Free online tool, no registration required."
 category: common

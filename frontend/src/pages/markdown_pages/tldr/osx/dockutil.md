@@ -1,7 +1,7 @@
 ---
 title: "Control Dock Items - Manage macOS Dock with dockutil | Online Free DevTools by Hexmos"
 name: dockutil
-path: /freedevtools/tldr/osx/dockutil
+path: "/freedevtools/tldr/osx/dockutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/dockutil/"
 description: "Control macOS dock items easily with dockutil. Add, remove, and organize applications, directories, and URLs in your dock. Free online tool, no registration required."
 category: osx

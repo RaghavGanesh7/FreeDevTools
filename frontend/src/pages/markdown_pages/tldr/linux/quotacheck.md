@@ -1,7 +1,7 @@
 ---
 title: "Quotacheck - Manage Disk Usage with Quota Files | Online Free DevTools by Hexmos"
 name: quotacheck
-path: /freedevtools/tldr/linux/quotacheck
+path: "/freedevtools/tldr/linux/quotacheck/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/quotacheck/"
 description: "Manage disk usage efficiently with quotacheck.  Scan filesystems, check and repair quota files to control disk space allocation. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Trayer - Lightweight Systray | Online Free DevTools by Hexmos"
 name: trayer
-path: /freedevtools/tldr/linux/trayer
+path: "/freedevtools/tldr/linux/trayer/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trayer/"
 description: "Control systray appearance and behavior with Trayer, a lightweight GTK-2 based systray tool. Configure position, size, and icon spacing effortlessly. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Turbostat - Control Processor Stats | Online Free DevTools by Hexmos"
 name: turbostat
-path: /freedevtools/tldr/linux/turbostat
+path: "/freedevtools/tldr/linux/turbostat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/turbostat/"
 description: "Control processor performance stats with Turbostat. Monitor frequency, temperature, and power usage on Linux systems. Free online tool, no registration required."
 category: linux

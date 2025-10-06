@@ -1,7 +1,7 @@
 ---
 title: "Process List - Display Processes with Tasklist | Online Free DevTools by Hexmos"
 name: tasklist
-path: /freedevtools/tldr/windows/tasklist
+path: "/freedevtools/tldr/windows/tasklist/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/tasklist/"
 description: "Display processes with Tasklist. Monitor running applications and services on Windows. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Configure Authconfig - System Authentication | Online Free DevTools by Hexmos"
 name: authconfig
-path: "/freedevtools/tldr/linux/authconfig"
+path: "/freedevtools/tldr/linux/authconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/authconfig/"
 description: "Configure system authentication with Authconfig. Secure your Linux system by enabling or disabling various authentication methods. Free online tool, no registration required."
 category: linux

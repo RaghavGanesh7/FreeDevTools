@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM to FS - Format Image Files | Online Free DevTools by Hexmos"
 name: pgmtofs
-path: /freedevtools/tldr/common/pgmtofs
+path: "/freedevtools/tldr/common/pgmtofs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmtofs/"
 description: "Convert PGM images to Usenix FaceSaver format with pgmtofs. This free online image converter offers a quick and easy way to format image files. Free online tool, no registration required."
 category: common

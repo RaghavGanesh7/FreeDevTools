@@ -1,7 +1,7 @@
 ---
 title: "CPPCheck - Validate C/C++ Code | Online Free DevTools by Hexmos"
 name: cppcheck
-path: /freedevtools/tldr/common/cppcheck
+path: "/freedevtools/tldr/common/cppcheck/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cppcheck/"
 description: "Validate C/C++ code with CPPCheck, a static analyzer that detects errors compilers miss. Improve code quality and reliability effortlessly. Free online tool, no registration required."
 category: common

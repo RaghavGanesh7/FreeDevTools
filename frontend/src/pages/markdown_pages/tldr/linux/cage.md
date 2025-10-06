@@ -1,7 +1,7 @@
 ---
 title: "Cage Kiosk - Open Applications in Kiosk Mode | Online Free DevTools by Hexmos"
 name: cage
-path: /freedevtools/tldr/linux/cage
+path: "/freedevtools/tldr/linux/cage/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cage/"
 description: "Open applications instantly with Cage Kiosk. Create a kiosk mode environment, restrict application access, and enhance security. Free online tool, no registration required."
 category: linux

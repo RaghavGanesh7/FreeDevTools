@@ -1,7 +1,7 @@
 ---
 title: "Query SNMP Next - Retrieve MIB Data | Online Free DevTools by Hexmos"
 name: snmpgetnext
-path: /freedevtools/tldr/common/snmpgetnext
+path: "/freedevtools/tldr/common/snmpgetnext/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snmpgetnext/"
 description: "Query SNMP next OID values with snmpgetnext. Retrieve the subsequent entry in the MIB tree and display complete OID paths. Free online tool, no registration required."
 category: common

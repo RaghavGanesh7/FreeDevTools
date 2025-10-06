@@ -1,7 +1,7 @@
 ---
 title: "Control Processes - Kill Processes with Command | Online Free DevTools by Hexmos"
 name: kill
-path: /freedevtools/tldr/linux/kill
+path: "/freedevtools/tldr/linux/kill/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kill/"
 description: "Control processes instantly with the Kill command. Send signals to terminate, interrupt, or pause processes on your system. Free online tool, no registration required."
 category: linux

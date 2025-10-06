@@ -1,7 +1,7 @@
 ---
 title: "Conda Create - Generate Environments | Online Free DevTools by Hexmos"
 name: conda-create
-path: /freedevtools/tldr/conda/conda-create
+path: "/freedevtools/tldr/conda/conda-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/conda/conda-create/"
 description: "Generate conda environments with Conda Create. Install packages, clone environments, and manage dependencies using command line. Free online tool, no registration required."
 category: common

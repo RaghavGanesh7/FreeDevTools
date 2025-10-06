@@ -1,7 +1,7 @@
 ---
 title: "Convert File - Copy Files with dd Command | Online Free DevTools by Hexmos"
 name: dd
-path: /freedevtools/tldr/osx/dd
+path: "/freedevtools/tldr/osx/dd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/dd/"
 description: "Copy file efficiently with dd command. Convert file formats and create backups. Free online tool, no registration required."
 category: osx

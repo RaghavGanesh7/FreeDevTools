@@ -1,7 +1,7 @@
 ---
 title: "OCaml REPL - Interpret OCaml Commands | Online Free DevTools by Hexmos"
 name: ocaml
-path: /freedevtools/tldr/common/ocaml
+path: "/freedevtools/tldr/common/ocaml/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ocaml/"
 description: "Interpret OCaml commands instantly with OCaml REPL. Run OCaml scripts and evaluate expressions using the command-line interpreter. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Augment Humans with Fabric - AI Prompt Framework | Online Free DevTools by Hexmos"
 name: fabric
-path: /freedevtools/tldr/common/fabric
+path: "/freedevtools/tldr/common/fabric/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fabric/"
 description: "Augment humans with AI using Fabric, a modular AI prompt framework. Solve problems using crowdsourced prompts. Free online tool, no registration required."
 category: common

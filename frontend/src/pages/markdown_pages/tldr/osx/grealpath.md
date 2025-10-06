@@ -1,7 +1,7 @@
 ---
 title: "RealPath - Resolve File Paths | Online Free DevTools by Hexmos"
 name: grealpath
-path: /freedevtools/tldr/osx/grealpath
+path: "/freedevtools/tldr/osx/grealpath/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/grealpath/"
 description: "Resolve absolute file paths with RealPath, also known as GNU realpath. Obtain canonical paths for files and directories on macOS with this free online tool, no registration required."
 category: osx

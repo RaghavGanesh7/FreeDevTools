@@ -1,7 +1,7 @@
 ---
 title: "Remap Keys - Control Keyboard Bindings with keyd | Online Free DevTools by Hexmos"
 name: keyd
-path: /freedevtools/tldr/linux/keyd
+path: "/freedevtools/tldr/linux/keyd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/keyd/"
 description: "Control keyboard bindings with keyd. Remap keys and customize your keyboard layout on Linux using command line. Free online tool, no registration required."
 category: linux

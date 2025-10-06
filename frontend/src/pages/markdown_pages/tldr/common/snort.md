@@ -1,7 +1,7 @@
 ---
 title: "Snort - Analyze Network Traffic | Online Free DevTools by Hexmos"
 name: snort
-path: /freedevtools/tldr/common/snort
+path: "/freedevtools/tldr/common/snort/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snort/"
 description: "Analyze network traffic effectively with Snort, the open-source intrusion detection system. Capture packets, detect threats, and enhance network security. Free online tool, no registration required."
 category: common

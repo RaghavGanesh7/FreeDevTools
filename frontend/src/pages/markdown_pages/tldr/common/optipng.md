@@ -1,7 +1,7 @@
 ---
 title: "OptiPNG - Optimize PNG Files | Online Free DevTools by Hexmos"
 name: optipng
-path: /freedevtools/tldr/common/optipng
+path: "/freedevtools/tldr/common/optipng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/optipng/"
 description: "Optimize PNG images with OptiPNG. Compress PNG files and reduce file size for faster loading times. Free online tool, no registration required."
 category: common

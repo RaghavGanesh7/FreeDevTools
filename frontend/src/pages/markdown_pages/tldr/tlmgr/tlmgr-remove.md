@@ -1,7 +1,7 @@
 ---
 title: "Remove TeX Live Packages - Uninstall TLMGR | Online Free DevTools by Hexmos"
 name: tlmgr-remove
-path: /freedevtools/tldr/tlmgr/tlmgr-remove
+path: "/freedevtools/tldr/tlmgr/tlmgr-remove/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-remove/"
 description: "Uninstall TeX Live packages with TLMGR. Manage and remove packages, dependencies, and backups efficiently. Free online tool, no registration required."
 category: common

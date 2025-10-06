@@ -1,7 +1,7 @@
 ---
 title: "Convert ICON to PBM - Format Image Files | Online Free DevTools by Hexmos"
 name: icontopbm
-path: /freedevtools/tldr/common/icontopbm
+path: "/freedevtools/tldr/common/icontopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/icontopbm/"
 description: "Convert ICON image files with icontopbm. Format image data and translate ICON files into PBM format easily. Free online tool, no registration required."
 category: common

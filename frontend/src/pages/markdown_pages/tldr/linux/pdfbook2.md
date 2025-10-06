@@ -1,7 +1,7 @@
 ---
 title: "Create PDF Booklets - Format PDF for Printing | Online Free DevTools by Hexmos"
 name: pdfbook2
-path: /freedevtools/tldr/linux/pdfbook2
+path: "/freedevtools/tldr/linux/pdfbook2/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdfbook2/"
 description: "Create printable PDF booklets with pdfbook2. Format PDF files for double-sided printing and manage margins. Free online tool, no registration required."
 category: linux

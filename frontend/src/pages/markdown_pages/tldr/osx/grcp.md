@@ -1,7 +1,7 @@
 ---
 title: "Control Remote Copy - Transfer Files with GRCP | Online Free DevTools by Hexmos"
 name: grcp
-path: /freedevtools/tldr/osx/grcp
+path: "/freedevtools/tldr/osx/grcp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/grcp/"
 description: "Control remote copy actions with GRCP, a command for transferring files between machines on a network. Securely manage file transfers via command line. Free online tool, no registration required."
 category: osx

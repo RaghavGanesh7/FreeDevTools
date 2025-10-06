@@ -1,7 +1,7 @@
 ---
 title: "GitHub CLI MinTTY - Display Help | Online Free DevTools by Hexmos"
 name: gh-mintty
-path: /freedevtools/tldr/gh/gh-mintty
+path: "/freedevtools/tldr/gh/gh-mintty/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-mintty/"
 description: "Display GitHub CLI with MinTTY integration help. Configure command line interface for seamless terminal integration. Free online tool, no registration required."
 category: common

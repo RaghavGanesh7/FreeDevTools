@@ -1,7 +1,7 @@
 ---
 title: "I2cget - Read I2C Registers | Online Free DevTools by Hexmos"
 name: i2cget
-path: /freedevtools/tldr/linux/i2cget
+path: "/freedevtools/tldr/linux/i2cget/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/i2cget/"
 description: "Read I2C registers with I2cget. Inspect device communication and debug embedded systems efficiently. Free online tool, no registration required."
 category: linux

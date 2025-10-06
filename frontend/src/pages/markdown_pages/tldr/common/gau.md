@@ -1,7 +1,7 @@
 ---
 title: "Fetch URLs - Discover Website URLs with Gau | Online Free DevTools by Hexmos"
 name: gau
-path: /freedevtools/tldr/common/gau
+path: "/freedevtools/tldr/common/gau/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gau/"
 description: "Fetch website URLs with Gau, discovering endpoints from multiple sources including Wayback Machine and Common Crawl. Free online tool, no registration required."
 category: common

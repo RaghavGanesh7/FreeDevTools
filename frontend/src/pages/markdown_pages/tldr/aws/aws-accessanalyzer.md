@@ -1,7 +1,7 @@
 ---
 title: "Access Analyzer - Analyze AWS Resource Policies | Online Free DevTools by Hexmos"
 name: aws-accessanalyzer
-path: /freedevtools/tldr/aws/aws-accessanalyzer
+path: "/freedevtools/tldr/aws/aws-accessanalyzer/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-accessanalyzer/"
 description: "Analyze AWS resource policies with Access Analyzer. Identify potential security risks and enforce security best practices. Free online tool, no registration required."
 category: common

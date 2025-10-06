@@ -1,7 +1,7 @@
 ---
 title: "Push Directory - Manage Directory Stack | Online Free DevTools by Hexmos"
 name: pushd
-path: /freedevtools/tldr/common/pushd
+path: "/freedevtools/tldr/common/pushd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pushd/"
 description: "Manage directory stacks with pushd. Navigate directories efficiently and easily switch between locations in the command line. Free online tool, no registration required."
 category: common

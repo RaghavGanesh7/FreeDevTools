@@ -1,7 +1,7 @@
 ---
 title: "Gcloud Config Set - Control CLI Properties | Online Free DevTools by Hexmos"
 name: gcloud-config-set
-path: /freedevtools/tldr/gcloud/gcloud-config-set
+path: "/freedevtools/tldr/gcloud/gcloud-config-set/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcloud/gcloud-config-set/"
 description: "Control Google Cloud CLI properties with Gcloud Config Set. Manage projects, compute zones, and disable prompts for scripting. Free online tool, no registration required."
 category: common

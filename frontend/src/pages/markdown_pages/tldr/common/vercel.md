@@ -1,7 +1,7 @@
 ---
 title: "Vercel Deploy - Manage Vercel Deployments | Online Free DevTools by Hexmos"
 name: vercel
-path: /freedevtools/tldr/common/vercel
+path: "/freedevtools/tldr/common/vercel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vercel/"
 description: "Deploy projects with Vercel - Quickly manage Vercel deployments using the command line. Configure environment variables and default regions for deployment. Free online tool, no registration required."
 category: common

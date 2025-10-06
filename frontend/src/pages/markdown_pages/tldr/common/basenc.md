@@ -1,7 +1,7 @@
 ---
 title: "Encode/Decode Base - Convert Files with basenc | Online Free DevTools by Hexmos"
 name: basenc
-path: /freedevtools/tldr/common/basenc
+path: "/freedevtools/tldr/common/basenc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/basenc/"
 description: "Convert files and standard input with basenc. Easily encode to base32 or base64 formats or decode them back. Free online tool, no registration required."
 category: common

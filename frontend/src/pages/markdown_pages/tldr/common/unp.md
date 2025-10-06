@@ -1,7 +1,7 @@
 ---
 title: "Extract Archives - Unpack Any Archive | Online Free DevTools by Hexmos"
 name: unp
-path: /freedevtools/tldr/common/unp
+path: "/freedevtools/tldr/common/unp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unp/"
 description: "Extract archives easily with Unp. Unpack any archive format, including zip, tar.gz, and rar. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Format Python Code - Black Formatter | Online Free DevTools by Hexmos"
 name: black
-path: /freedevtools/tldr/common/black
+path: "/freedevtools/tldr/common/black/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/black/"
 description: "Format Python code efficiently with Black, the uncompromising code formatter. Ensure consistent style and improve code readability. Free online tool, no registration required."
 category: common

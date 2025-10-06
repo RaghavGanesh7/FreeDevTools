@@ -1,7 +1,7 @@
 ---
 title: "Track Time - Manage Work Time with Moro | Online Free DevTools by Hexmos"
 name: moro
-path: /freedevtools/tldr/common/moro
+path: "/freedevtools/tldr/common/moro/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/moro/"
 description: "Track work time effectively with Moro. Manage time logs and notes effortlessly for improved productivity. Free online tool, no registration required."
 category: common

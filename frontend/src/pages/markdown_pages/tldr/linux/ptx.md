@@ -1,7 +1,7 @@
 ---
 title: "Generate Permuted Index - ptx Command | Online Free DevTools by Hexmos"
 name: ptx
-path: /freedevtools/tldr/linux/ptx
+path: "/freedevtools/tldr/linux/ptx/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ptx/"
 description: "Generate a permuted index with ptx. Extract keywords and create context-aware indexes from text files with ease. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Krita Image Editor - Create Digital Art | Online Free DevTools by Hexmos"
 name: krita
-path: /freedevtools/tldr/common/krita
+path: "/freedevtools/tldr/common/krita/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/krita/"
 description: "Create stunning digital art with Krita Image Editor. Edit images, paint illustrations, and sketch designs using the command line. Free online tool, no registration required."
 category: common

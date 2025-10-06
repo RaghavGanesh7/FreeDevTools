@@ -1,7 +1,7 @@
 ---
 title: "Plot Command-Line Data - Visualize Stdin with Ttyplot | Online Free DevTools by Hexmos"
 name: ttyplot
-path: /freedevtools/tldr/linux/ttyplot
+path: "/freedevtools/tldr/linux/ttyplot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ttyplot/"
 description: "Visualize command-line data with Ttyplot, a real-time plotting utility.  Analyze streaming data from stdin and create dynamic charts. Free online tool, no registration required."
 category: linux

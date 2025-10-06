@@ -1,7 +1,7 @@
 ---
 title: "Manage PaperMC - Control Minecraft Server | Online Free DevTools by Hexmos"
 name: papermc
-path: /freedevtools/tldr/common/papermc
+path: "/freedevtools/tldr/common/papermc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/papermc/"
 description: "Control Minecraft server management with PaperMC. Start, stop, and backup Minecraft worlds using a simple command-line interface. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control SSH Shell - Xxh | Online Free DevTools by Hexmos"
 name: xxh
-path: /freedevtools/tldr/common/xxh
+path: "/freedevtools/tldr/common/xxh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xxh/"
 description: "Control SSH shells with Xxh. Securely manage and customize your shell environment across SSH sessions. Free online tool, no registration required."
 category: common

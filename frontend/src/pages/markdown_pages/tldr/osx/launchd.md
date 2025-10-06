@@ -1,7 +1,7 @@
 ---
 title: "Control Launchd - Manage macOS Processes | Online Free DevTools by Hexmos"
 name: launchd
-path: /freedevtools/tldr/osx/launchd
+path: "/freedevtools/tldr/osx/launchd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/launchd/"
 description: "Control macOS processes with Launchd. Manage system and user processes, and configure services. Free online tool, no registration required. Use Launchctl to interact."
 category: osx

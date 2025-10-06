@@ -1,7 +1,7 @@
 ---
 title: "SCSI Control - Send Raw SCSI Commands | Online Free DevTools by Hexmos"
 name: sg_raw
-path: /freedevtools/tldr/common/sg_raw
+path: "/freedevtools/tldr/common/sg_raw/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sg_raw/"
 description: "Control SCSI devices with sg_raw. Send raw SCSI commands, manipulate optical drives, and debug device interactions. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "GPRbuild - Build Ada Projects | Online Free DevTools by Hexmos"
 name: gprbuild
-path: /freedevtools/tldr/common/gprbuild
+path: "/freedevtools/tldr/common/gprbuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gprbuild/"
 description: "Build Ada projects effortlessly with GPRbuild. Manage compilation, linking, and dependencies for your Ada, C/C++, and Fortran code. Free online tool, no registration required."
 category: common

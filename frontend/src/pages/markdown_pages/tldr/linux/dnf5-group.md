@@ -1,7 +1,7 @@
 ---
 title: "DNF5 Group - Manage Package Groups | Online Free DevTools by Hexmos"
 name: dnf5-group
-path: /freedevtools/tldr/linux/dnf5-group
+path: "/freedevtools/tldr/linux/dnf5-group/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf5-group/"
 description: "Manage package groups with DNF5 Group. Install, remove, and list package groups on your Linux system with ease. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "XML Transform - Transform XML with XSLT | Online Free DevTools by Hexmos"
 name: xml-transform
-path: /freedevtools/tldr/xml/xml-transform
+path: "/freedevtools/tldr/xml/xml-transform/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-transform/"
 description: "Transform XML documents with XML Transform using XSLT stylesheets.  Apply complex transformations and extract data. Free online tool, no registration required."
 category: common

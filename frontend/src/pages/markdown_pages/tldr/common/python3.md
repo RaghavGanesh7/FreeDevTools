@@ -1,7 +1,7 @@
 ---
 title: "Python Execute Scripts - Run Code | Online Free DevTools by Hexmos"
 name: python3
-path: /freedevtools/tldr/common/python3
+path: "/freedevtools/tldr/common/python3/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/python3/"
 description: "Execute Python scripts and run code instantly with Python3. A simple alias to python, allowing execution of code. Free online tool, no registration required."
 category: common

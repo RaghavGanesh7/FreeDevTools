@@ -1,7 +1,7 @@
 ---
 title: "Filter PNM Image - Apply Non-Linear Filters | Online Free DevTools by Hexmos"
 name: pnmnlfilt
-path: /freedevtools/tldr/pnm/pnmnlfilt
+path: "/freedevtools/tldr/pnm/pnmnlfilt/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmnlfilt/"
 description: "Filter PNM images with pnmnlfilt. Apply alpha trimmed mean, optimal smoothing, and edge enhancement filters. Free online tool, no registration required."
 category: common

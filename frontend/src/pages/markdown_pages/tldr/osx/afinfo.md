@@ -1,7 +1,7 @@
 ---
 title: "AFInfo - Parse Audio Metadata | Online Free DevTools by Hexmos"
 name: afinfo
-path: /freedevtools/tldr/osx/afinfo
+path: "/freedevtools/tldr/osx/afinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/afinfo/"
 description: "Parse audio metadata with AFInfo, the built-in OSX audio file information tool. Analyze file data, extract info dictionaries, and validate audio files. Free online tool, no registration required."
 category: osx

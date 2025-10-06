@@ -1,7 +1,7 @@
 ---
 title: "Exit Shell - Terminate Processes | Online Free DevTools by Hexmos"
 name: exit
-path: /freedevtools/tldr/common/exit
+path: "/freedevtools/tldr/common/exit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exit/"
 description: "Terminate processes with Exit Shell. Control command-line sessions and specify exit codes for script automation and system administration. Free online tool, no registration required."
 category: common

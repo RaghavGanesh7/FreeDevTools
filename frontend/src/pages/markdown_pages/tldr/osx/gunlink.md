@@ -1,7 +1,7 @@
 ---
 title: "Unlink File - Remove Files with GNU Unlink | Online Free DevTools by Hexmos"
 name: gunlink
-path: /freedevtools/tldr/osx/gunlink
+path: "/freedevtools/tldr/osx/gunlink/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gunlink/"
 description: "Remove files swiftly with GNU Unlink on macOS. Easily delete files and manage your file system efficiently. Free online tool, no registration required."
 category: osx

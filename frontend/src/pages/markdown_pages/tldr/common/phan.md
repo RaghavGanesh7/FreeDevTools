@@ -1,7 +1,7 @@
 ---
 title: "Analyze PHP Code - Phan Static Analysis | Online Free DevTools by Hexmos"
 name: phan
-path: /freedevtools/tldr/common/phan
+path: "/freedevtools/tldr/common/phan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/phan/"
 description: "Analyze PHP code with Phan static analysis tool. Detect potential errors, improve code quality, and enforce coding standards. Free online tool, no registration required."
 category: common

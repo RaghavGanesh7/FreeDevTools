@@ -1,7 +1,7 @@
 ---
 title: "AVB Device Manager - Control Audio Video Bridging | Online Free DevTools by Hexmos"
 name: avbdeviced
-path: /freedevtools/tldr/osx/avbdeviced
+path: "/freedevtools/tldr/osx/avbdeviced/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/avbdeviced/"
 description: "Control audio video bridging (AVB) devices with AVB Device Manager. Manage AVB device configuration and ensure seamless audio/video streaming on macOS. Free online tool, no registration required."
 category: osx

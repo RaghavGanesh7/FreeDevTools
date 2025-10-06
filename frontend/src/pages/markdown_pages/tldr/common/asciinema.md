@@ -1,7 +1,7 @@
 ---
 title: "Asciinema - Record Terminal Sessions | Online Free DevTools by Hexmos"
 name: asciinema
-path: /freedevtools/tldr/common/asciinema
+path: "/freedevtools/tldr/common/asciinema/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/asciinema/"
 description: "Record terminal sessions with Asciinema. Create and share recordings of your command-line interactions for documentation or training. Free online tool, no registration required."
 category: common

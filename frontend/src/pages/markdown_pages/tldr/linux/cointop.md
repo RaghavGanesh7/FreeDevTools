@@ -1,7 +1,7 @@
 ---
 title: "Monitor Cryptocurrency - Track Crypto Prices with Cointop | Online Free DevTools by Hexmos"
 name: cointop
-path: /freedevtools/tldr/linux/cointop
+path: "/freedevtools/tldr/linux/cointop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cointop/"
 description: "Track cryptocurrency prices in real-time with Cointop. Monitor your crypto portfolio and clear cache efficiently using command line interface. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Gnatmake - Build Ada Programs | Online Free DevTools by Hexmos"
 name: gnatmake
-path: /freedevtools/tldr/common/gnatmake
+path: "/freedevtools/tldr/common/gnatmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gnatmake/"
 description: "Build Ada programs with Gnatmake. Streamline Ada development, manage dependencies, and automate compilation. Free online tool, no registration required."
 category: common

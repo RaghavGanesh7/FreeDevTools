@@ -1,7 +1,7 @@
 ---
 title: "GPing - Network Ping Monitoring | Online Free DevTools by Hexmos"
 name: gping
-path: /freedevtools/tldr/osx/gping
+path: "/freedevtools/tldr/osx/gping/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gping/"
 description: "Monitor network latency with GPing, a powerful network ping tool for macOS. Track response times and troubleshoot network issues easily. Free online tool, no registration required."
 category: osx

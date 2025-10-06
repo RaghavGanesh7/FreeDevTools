@@ -1,7 +1,7 @@
 ---
 title: "Rust Toolchain Manager - Manage Rust Versions | Online Free DevTools by Hexmos"
 name: rustup
-path: /freedevtools/tldr/rustup/rustup
+path: "/freedevtools/tldr/rustup/rustup/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup/"
 description: "Manage Rust toolchains with Rustup. Install, update, and switch between different Rust versions for your projects. Free online tool, no registration required."
 category: common

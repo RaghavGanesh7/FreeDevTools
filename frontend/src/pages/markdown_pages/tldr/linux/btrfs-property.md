@@ -1,7 +1,7 @@
 ---
 title: "Btrfs Property - Control Filesystem Properties | Online Free DevTools by Hexmos"
 name: btrfs-property
-path: /freedevtools/tldr/linux/btrfs-property
+path: "/freedevtools/tldr/linux/btrfs-property/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrfs-property/"
 description: "Control Btrfs filesystem properties with Btrfs Property. Manage labels, compression, and other attributes of filesystems, subvolumes, and devices. Free online tool, no registration required."
 category: linux

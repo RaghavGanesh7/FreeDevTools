@@ -1,7 +1,7 @@
 ---
 title: "Control Handshake Blockchain - hsd-cli | Online Free DevTools by Hexmos"
 name: hsd-cli
-path: /freedevtools/tldr/common/hsd-cli
+path: "/freedevtools/tldr/common/hsd-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hsd-cli/"
 description: "Control the Handshake blockchain with hsd-cli. Retrieve information, broadcast transactions, and view blocks. Free online tool, no registration required."
 category: common

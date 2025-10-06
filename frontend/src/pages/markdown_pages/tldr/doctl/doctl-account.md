@@ -1,7 +1,7 @@
 ---
 title: "Control DigitalOcean Accounts - doctl Account | Online Free DevTools by Hexmos"
 name: doctl-account
-path: /freedevtools/tldr/doctl/doctl-account
+path: "/freedevtools/tldr/doctl/doctl-account/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-account/"
 description: "Control DigitalOcean accounts with doctl Account. Manage account information, rate limits, and help documentation. Free online tool, no registration required."
 category: common

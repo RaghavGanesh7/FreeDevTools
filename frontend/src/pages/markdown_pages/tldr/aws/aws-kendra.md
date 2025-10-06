@@ -1,7 +1,7 @@
 ---
 title: "AWS Kendra - Manage Knowledge Base | Online Free DevTools by Hexmos"
 name: aws-kendra
-path: /freedevtools/tldr/aws/aws-kendra
+path: "/freedevtools/tldr/aws/aws-kendra/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-kendra/"
 description: "Manage your knowledge base with AWS Kendra. Create indexes, list data sources, and describe resources using command-line. Free online tool, no registration required."
 category: common

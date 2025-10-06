@@ -1,7 +1,7 @@
 ---
 title: "vlock - Lock Virtual Consoles | Online Free DevTools by Hexmos"
 name: vlock
-path: /freedevtools/tldr/linux/vlock
+path: "/freedevtools/tldr/linux/vlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vlock/"
 description: "Lock virtual console sessions with vlock.  Manage and secure your Linux sessions easily using this command-line tool. Free online tool, no registration required."
 category: linux

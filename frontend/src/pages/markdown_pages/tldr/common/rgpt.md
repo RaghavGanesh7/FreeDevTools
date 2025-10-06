@@ -1,7 +1,7 @@
 ---
 title: "Review Code - Improve Code with GPT | Online Free DevTools by Hexmos"
 name: rgpt
-path: /freedevtools/tldr/common/rgpt
+path: "/freedevtools/tldr/common/rgpt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rgpt/"
 description: "Improve code with rgpt, a GPT-powered code review tool. Analyze code changes and get suggestions directly from your terminal. Free online tool, no registration required."
 category: common

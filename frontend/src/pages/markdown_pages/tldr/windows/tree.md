@@ -1,7 +1,7 @@
 ---
 title: "Tree - Generate Directory Structure | Online Free DevTools by Hexmos"
 name: tree
-path: /freedevtools/tldr/windows/tree
+path: "/freedevtools/tldr/windows/tree/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/tree/"
 description: "Generate directory structure diagrams with the Tree command. Visualize file system organization and navigate folders efficiently. Free online tool, no registration required."
 category: windows

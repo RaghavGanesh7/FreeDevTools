@@ -1,7 +1,7 @@
 ---
 title: "GDM Stop - Control GNOME Display Manager | Online Free DevTools by Hexmos"
 name: gdm-stop
-path: /freedevtools/tldr/gdm/gdm-stop
+path: "/freedevtools/tldr/gdm/gdm-stop/"
 canonical: "https://hexmos.com/freedevtools/tldr/gdm/gdm-stop/"
 description: "Control GNOME Display Manager with GDM Stop. Quickly and safely stop the GDM service on Linux systems for troubleshooting or maintenance. Free online tool, no registration required."
 category: common

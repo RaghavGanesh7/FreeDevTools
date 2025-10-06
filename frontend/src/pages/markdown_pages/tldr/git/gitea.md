@@ -1,7 +1,7 @@
 ---
 title: "Control Gitea Server - Manage Git Repositories | Online Free DevTools by Hexmos"
 name: gitea
-path: /freedevtools/tldr/git/gitea
+path: "/freedevtools/tldr/git/gitea/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitea/"
 description: "Manage your Gitea server with Gitea CLI. Configure repositories, administer users, and migrate databases. Free online tool, no registration required."
 category: common

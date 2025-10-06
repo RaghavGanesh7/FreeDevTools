@@ -1,7 +1,7 @@
 ---
 title: "Manage Ruby Gems - Package Management | Online Free DevTools by Hexmos"
 name: gem
-path: /freedevtools/tldr/common/gem
+path: "/freedevtools/tldr/common/gem/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gem/"
 description: "Manage Ruby gems easily with Gem Package Manager. Install, update, uninstall, and search for gems efficiently. Free online tool, no registration required."
 category: common

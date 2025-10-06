@@ -1,7 +1,7 @@
 ---
 title: "Kexec - Reboot Kernel Directly | Online Free DevTools by Hexmos"
 name: kexec
-path: /freedevtools/tldr/linux/kexec
+path: "/freedevtools/tldr/linux/kexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kexec/"
 description: "Reboot directly into a new kernel with kexec.  Manage kernel loading, execution, and unloading efficiently. Free online tool, no registration required."
 category: linux

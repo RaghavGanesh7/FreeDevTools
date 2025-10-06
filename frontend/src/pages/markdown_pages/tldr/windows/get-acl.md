@@ -1,7 +1,7 @@
 ---
 title: "Get-Acl - Control Resource Access | Online Free DevTools by Hexmos"
 name: get-acl
-path: /freedevtools/tldr/windows/get-acl
+path: "/freedevtools/tldr/windows/get-acl/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-acl/"
 description: "Control resource access with Get-Acl. Retrieve security descriptors for files, directories, and registry keys. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM to SBIG - Image Converter | Online Free DevTools by Hexmos"
 name: pgmtosbig
-path: /freedevtools/tldr/common/pgmtosbig
+path: "/freedevtools/tldr/common/pgmtosbig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmtosbig/"
 description: "Convert PGM images to SBIG format with pgmtosbig. Effortlessly transform image files between formats. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate hledger Incomestatement - Analyze Finances | Online Free DevTools by Hexmos"
 name: hledger-incomestatement
-path: /freedevtools/tldr/hledger/hledger-incomestatement
+path: "/freedevtools/tldr/hledger/hledger-incomestatement/"
 canonical: "https://hexmos.com/freedevtools/tldr/hledger/hledger-incomestatement/"
 description: "Generate hledger incomestatements for financial analysis with hledger-incomestatement. Analyze revenue and expenses with command-line reporting. Free online tool, no registration required."
 category: common

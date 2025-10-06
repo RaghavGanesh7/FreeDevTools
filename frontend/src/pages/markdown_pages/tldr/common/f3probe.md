@@ -1,7 +1,7 @@
 ---
 title: "Flash Memory Probe - Detect Counterfeit Flash | Online Free DevTools by Hexmos"
 name: f3probe
-path: /freedevtools/tldr/common/f3probe
+path: "/freedevtools/tldr/common/f3probe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/f3probe/"
 description: "Detect counterfeit flash memory with F3probe. Probe block devices to identify fake capacity and data loss risks. Free online tool, no registration required."
 category: common

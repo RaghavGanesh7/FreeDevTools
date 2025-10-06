@@ -1,7 +1,7 @@
 ---
 title: "Crawl URLs - Scan Endpoints with Cariddi | Online Free DevTools by Hexmos"
 name: cariddi
-path: /freedevtools/tldr/common/cariddi
+path: "/freedevtools/tldr/common/cariddi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cariddi/"
 description: "Crawl URLs with Cariddi and scan for endpoints, secrets, and API keys from a list of domains. Improve web security with thorough reconnaissance. Free online tool, no registration required."
 category: common

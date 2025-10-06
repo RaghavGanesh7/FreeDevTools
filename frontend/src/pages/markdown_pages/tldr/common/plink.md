@@ -1,7 +1,7 @@
 ---
 title: "Plink SSH Client - Control SSH Connections | Online Free DevTools by Hexmos"
 name: plink
-path: /freedevtools/tldr/common/plink
+path: "/freedevtools/tldr/common/plink/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/plink/"
 description: "Control SSH connections with Plink, a command-line SSH client for secure remote access. Execute commands, transfer files, and manage servers. Free online tool, no registration required."
 category: common

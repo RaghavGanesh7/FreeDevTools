@@ -1,7 +1,7 @@
 ---
 title: "L2ping - Ping Bluetooth Devices | Online Free DevTools by Hexmos"
 name: l2ping
-path: /freedevtools/tldr/common/l2ping
+path: "/freedevtools/tldr/common/l2ping/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/l2ping/"
 description: "Ping Bluetooth devices quickly with L2ping. Diagnose connectivity issues and verify device status via command-line interface. Free online tool, no registration required."
 category: common

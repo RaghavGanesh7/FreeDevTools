@@ -1,7 +1,7 @@
 ---
 title: "Xtrlock - Lock X Display | Online Free DevTools by Hexmos"
 name: xtrlock
-path: /freedevtools/tldr/linux/xtrlock
+path: "/freedevtools/tldr/linux/xtrlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xtrlock/"
 description: "Lock X display with xtrlock. Secure your Linux session by locking the screen and preventing unauthorized access. Free online tool, no registration required."
 category: linux

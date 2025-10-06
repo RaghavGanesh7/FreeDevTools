@@ -1,7 +1,7 @@
 ---
 title: "PDF Separator - Extract PDF Pages | Online Free DevTools by Hexmos"
 name: pdfseparate
-path: /freedevtools/tldr/common/pdfseparate
+path: "/freedevtools/tldr/common/pdfseparate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfseparate/"
 description: "Extract PDF pages with PDF Separator, creating individual PDF files for each. Manage and split PDF documents easily. Free online tool, no registration required."
 category: common

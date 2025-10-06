@@ -1,7 +1,7 @@
 ---
 title: "Xcode Build - Build iOS/macOS Projects | Online Free DevTools by Hexmos"
 name: xcodebuild
-path: /freedevtools/tldr/osx/xcodebuild
+path: "/freedevtools/tldr/osx/xcodebuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xcodebuild/"
 description: "Build iOS and macOS projects effortlessly with Xcode Build. Compile code, manage configurations, and generate deliverables using the command line. Free online tool, no registration required."
 category: osx

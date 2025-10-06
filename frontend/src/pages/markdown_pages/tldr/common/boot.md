@@ -1,7 +1,7 @@
 ---
 title: "Boot Builder - Build Clojure Projects | Online Free DevTools by Hexmos"
 name: boot
-path: /freedevtools/tldr/common/boot
+path: "/freedevtools/tldr/common/boot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/boot/"
 description: "Build Clojure projects effortlessly with Boot Builder. Streamline project setup, dependency management, and deployment using a single command. Free online tool, no registration required."
 category: common

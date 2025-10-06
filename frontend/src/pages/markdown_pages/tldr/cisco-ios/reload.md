@@ -1,7 +1,7 @@
 ---
 title: "IOS Reload - Control System Reboot Behavior | Online Free DevTools by Hexmos"
 name: reload
-path: /freedevtools/tldr/cisco-ios/reload
+path: "/freedevtools/tldr/cisco-ios/reload/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/reload/"
 description: "Control Cisco IOS system reboot behavior with IOS Reload. Schedule reboots, cancel pending reboots, and manage system restarts. Free online tool, no registration required."
 category: cisco-ios

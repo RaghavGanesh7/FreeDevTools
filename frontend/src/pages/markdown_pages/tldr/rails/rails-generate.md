@@ -1,7 +1,7 @@
 ---
 title: "Rails Generate - Create Rails Templates | Online Free DevTools by Hexmos"
 name: rails-generate
-path: /freedevtools/tldr/rails/rails-generate
+path: "/freedevtools/tldr/rails/rails-generate/"
 canonical: "https://hexmos.com/freedevtools/tldr/rails/rails-generate/"
 description: "Generate Rails templates with Rails Generate. Quickly scaffold models, controllers, and migrations. Streamline Rails development with this free online tool, no registration required."
 category: common

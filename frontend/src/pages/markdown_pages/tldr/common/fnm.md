@@ -1,7 +1,7 @@
 ---
 title: "Control Node.js Versions - fnm | Online Free DevTools by Hexmos"
 name: fnm
-path: /freedevtools/tldr/common/fnm
+path: "/freedevtools/tldr/common/fnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fnm/"
 description: "Control Node.js versions with fnm, a fast Node.js version manager. Install, switch, and uninstall Node.js versions easily. Free online tool, no registration required."
 category: common

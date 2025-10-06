@@ -1,7 +1,7 @@
 ---
 title: "LZless - View Compressed Files | Online Free DevTools by Hexmos"
 name: lzless
-path: /freedevtools/tldr/common/lzless
+path: "/freedevtools/tldr/common/lzless/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzless/"
 description: "View compressed files with lzless. Extract and inspect .lz files efficiently using the command line. Free online tool, no registration required."
 category: common

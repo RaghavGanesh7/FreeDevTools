@@ -1,7 +1,7 @@
 ---
 title: "Generate Ephemerides - Kosmorro Date & Location | Online Free DevTools by Hexmos"
 name: kosmorro
-path: /freedevtools/tldr/common/kosmorro
+path: "/freedevtools/tldr/common/kosmorro/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kosmorro/"
 description: "Generate ephemerides with Kosmorro for specific dates and locations. Calculate celestial events and planetary positions using this command-line tool. Free online tool, no registration required."
 category: common

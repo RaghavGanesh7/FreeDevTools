@@ -1,7 +1,7 @@
 ---
 title: "View Images with Feh - Image Viewer Utility | Online Free DevTools by Hexmos"
 name: feh
-path: /freedevtools/tldr/common/feh
+path: "/freedevtools/tldr/common/feh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/feh/"
 description: "View images with Feh, a lightweight image viewing utility for Linux and other platforms. Display images locally or from URLs, set wallpaper and create montages. Free online tool, no registration required."
 category: common

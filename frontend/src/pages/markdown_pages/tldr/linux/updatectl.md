@@ -1,7 +1,7 @@
 ---
 title: "Updatectl - Control System Updates | Online Free DevTools by Hexmos"
 name: updatectl
-path: /freedevtools/tldr/linux/updatectl
+path: "/freedevtools/tldr/linux/updatectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/updatectl/"
 description: "Control system updates with Updatectl. Manage updates, check for available versions, and clean up old versions. Free online tool, no registration required."
 category: linux

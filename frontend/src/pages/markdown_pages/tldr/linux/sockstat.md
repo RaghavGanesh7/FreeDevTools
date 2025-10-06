@@ -1,7 +1,7 @@
 ---
 title: "List Sockets - Monitor Network Connections | Online Free DevTools by Hexmos"
 name: sockstat
-path: /freedevtools/tldr/linux/sockstat
+path: "/freedevtools/tldr/linux/sockstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sockstat/"
 description: "Monitor network connections with sockstat.  List open internet or UNIX domain sockets, filtering by protocol, port, process ID, or user. Free online tool, no registration required."
 category: linux

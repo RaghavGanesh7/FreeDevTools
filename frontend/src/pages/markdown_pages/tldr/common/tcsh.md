@@ -1,7 +1,7 @@
 ---
 title: "TC Shell - Execute Commands with Tcsh | Online Free DevTools by Hexmos"
 name: tcsh
-path: /freedevtools/tldr/common/tcsh
+path: "/freedevtools/tldr/common/tcsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tcsh/"
 description: "Execute commands swiftly with TC Shell. Manage shell sessions, execute scripts, and debug syntax using this powerful shell interpreter. Free online tool, no registration required."
 category: common

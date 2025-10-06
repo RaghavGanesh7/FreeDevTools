@@ -1,7 +1,7 @@
 ---
 title: "Composer Audit - Analyze PHP Dependencies | Online Free DevTools by Hexmos"
 name: composer-audit
-path: /freedevtools/tldr/composer/composer-audit
+path: "/freedevtools/tldr/composer/composer-audit/"
 canonical: "https://hexmos.com/freedevtools/tldr/composer/composer-audit/"
 description: "Analyze PHP dependencies with Composer Audit. Detect security vulnerabilities and manage your project's packages effectively. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Output Head - Display File First Lines | Online Free DevTools by Hexmos"
 name: head
-path: /freedevtools/tldr/common/head
+path: "/freedevtools/tldr/common/head/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/head/"
 description: "Output file first lines with Head. Display the beginning of any file, specify number of lines. Free online tool, no registration required."
 category: common

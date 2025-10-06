@@ -1,7 +1,7 @@
 ---
 title: "Nomad - Schedule Tasks | Online Free DevTools by Hexmos"
 name: nomad
-path: /freedevtools/tldr/common/nomad
+path: "/freedevtools/tldr/common/nomad/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nomad/"
 description: "Schedule tasks with Nomad, a distributed scheduler. Validate jobs, plan executions, and manage cluster resources. Free online tool, no registration required."
 category: common

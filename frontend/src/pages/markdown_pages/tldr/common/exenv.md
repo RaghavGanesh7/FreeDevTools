@@ -1,7 +1,7 @@
 ---
 title: "Manage Elixir Versions - Control Environments | Online Free DevTools by Hexmos"
 name: exenv
-path: /freedevtools/tldr/common/exenv
+path: "/freedevtools/tldr/common/exenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exenv/"
 description: "Manage Elixir versions easily with Exenv. Control application environments and switch between Elixir installations seamlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Ugrep Search - Ultra Fast File Search TUI | Online Free DevTools by Hexmos"
 name: ugrep
-path: /freedevtools/tldr/common/ugrep
+path: "/freedevtools/tldr/common/ugrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ugrep/"
 description: "Perform ultra fast file search with Ugrep. Find text patterns, search compressed files, and filter by file type with ease. Free online tool, no registration required."
 category: common

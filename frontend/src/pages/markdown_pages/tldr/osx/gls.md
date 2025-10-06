@@ -1,7 +1,7 @@
 ---
 title: "GLS - List Directory Contents | Online Free DevTools by Hexmos"
 name: gls
-path: /freedevtools/tldr/osx/gls
+path: "/freedevtools/tldr/osx/gls/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gls/"
 description: "List directory contents with GLS. Quickly view files and directories using this macOS alias for the GNU ls command. Free online tool, no registration required."
 category: osx

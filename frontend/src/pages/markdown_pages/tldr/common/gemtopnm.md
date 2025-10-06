@@ -1,7 +1,7 @@
 ---
 title: "Convert GEM to PNM - Image Conversion | Online Free DevTools by Hexmos"
 name: gemtopnm
-path: /freedevtools/tldr/common/gemtopnm
+path: "/freedevtools/tldr/common/gemtopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gemtopnm/"
 description: "Convert GEM images to PNM format with gemtopnm. Transform graphics files, describe image contents, and verify versions using this image conversion tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Network Select - Choose Fastest Server | Online Free DevTools by Hexmos"
 name: netselect
-path: /freedevtools/tldr/linux/netselect
+path: "/freedevtools/tldr/linux/netselect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/netselect/"
 description: "Select fastest network server with Netselect. Test latency and resolve nameserver efficiently. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Mount Network Share - Access Network Drives | Online Free DevTools by Hexmos"
 name: mount
-path: /freedevtools/tldr/windows/mount
+path: "/freedevtools/tldr/windows/mount/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mount/"
 description: "Mount network drives easily with Mount. Access remote files and directories using network shares on Windows. Free online tool, no registration required."
 category: windows

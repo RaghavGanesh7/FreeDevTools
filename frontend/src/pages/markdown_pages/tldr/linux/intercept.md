@@ -1,7 +1,7 @@
 ---
 title: "Intercept Tool - Control Input Events on Linux | Online Free DevTools by Hexmos"
 name: intercept
-path: /freedevtools/tldr/linux/intercept
+path: "/freedevtools/tldr/linux/intercept/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/intercept/"
 description: "Control input events with Intercept, a Linux command-line tool. Redirect raw input for custom control and debugging. Free online tool, no registration required."
 category: linux

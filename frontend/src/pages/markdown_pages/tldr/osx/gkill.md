@@ -1,7 +1,7 @@
 ---
 title: "Control Process with gkill - Send Signals | Online Free DevTools by Hexmos"
 name: gkill
-path: /freedevtools/tldr/osx/gkill
+path: "/freedevtools/tldr/osx/gkill/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gkill/"
 description: "Control process termination with gkill, a command-line tool to send signals to processes on macOS. Easily terminate, interrupt, or pause processes. Free online tool, no registration required."
 category: osx

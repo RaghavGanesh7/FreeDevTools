@@ -1,7 +1,7 @@
 ---
 title: "AWS RDS Control - Manage Relational Databases | Online Free DevTools by Hexmos"
 name: aws-rds
-path: /freedevtools/tldr/aws/aws-rds
+path: "/freedevtools/tldr/aws/aws-rds/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-rds/"
 description: "Control AWS RDS databases with this command-line tool. Manage instances, modify configurations, and apply updates efficiently. Free online tool, no registration required."
 category: common

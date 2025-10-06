@@ -1,7 +1,7 @@
 ---
 title: "Print Text - Echo Command | Online Free DevTools by Hexmos"
 name: echo
-path: /freedevtools/tldr/common/echo
+path: "/freedevtools/tldr/common/echo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/echo/"
 description: "Print text instantly with the Echo command. Manipulate strings and display environment variables directly from the command line. Free online tool, no registration required."
 category: common

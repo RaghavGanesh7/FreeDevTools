@@ -1,7 +1,7 @@
 ---
 title: "Consul KV - Manage Key-Value Data | Online Free DevTools by Hexmos"
 name: consul-kv
-path: /freedevtools/tldr/common/consul-kv
+path: "/freedevtools/tldr/common/consul-kv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/consul-kv/"
 description: "Manage key-value data with Consul KV. Store, retrieve, and delete data in a distributed key-value store using command line. Free online tool, no registration required."
 category: common

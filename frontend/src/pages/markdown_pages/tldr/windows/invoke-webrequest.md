@@ -1,7 +1,7 @@
 ---
 title: "WebRequest Invoke - Perform HTTP/HTTPS Requests | Online Free DevTools by Hexmos"
 name: invoke-webrequest
-path: /freedevtools/tldr/windows/invoke-webrequest
+path: "/freedevtools/tldr/windows/invoke-webrequest/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/invoke-webrequest/"
 description: "Perform HTTP/HTTPS requests with Invoke-WebRequest. Send data in JSON format and manage authentication seamlessly with this powerful command. Free online tool, no registration required."
 category: windows

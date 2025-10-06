@@ -1,7 +1,7 @@
 ---
 title: "Control Kakoune - Edit Code with Multiple Selections | Online Free DevTools by Hexmos"
 name: kak
-path: /freedevtools/tldr/common/kak
+path: "/freedevtools/tldr/common/kak/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kak/"
 description: "Control code editing with Kakoune, leveraging multiple selections for efficient text manipulation. Collaborative editing and advanced search capabilities. Free online tool, no registration required."
 category: common

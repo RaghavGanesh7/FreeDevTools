@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz - Extract Windows Credentials | Online Free DevTools by Hexmos"
 name: mimikatz
-path: /freedevtools/tldr/windows/mimikatz
+path: "/freedevtools/tldr/windows/mimikatz/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz/"
 description: "Extract Windows credentials with Mimikatz, a powerful post-exploitation tool. Dump passwords, hashes, and Kerberos tickets. Free online tool, no registration required."
 category: windows

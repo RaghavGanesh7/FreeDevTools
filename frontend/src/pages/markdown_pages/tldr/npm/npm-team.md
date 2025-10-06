@@ -1,7 +1,7 @@
 ---
 title: "Manage npm Teams - Organize Users | Online Free DevTools by Hexmos"
 name: npm-team
-path: /freedevtools/tldr/npm/npm-team
+path: "/freedevtools/tldr/npm/npm-team/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-team/"
 description: "Manage npm teams to control user access within your organization with npm-team. Add, remove, create, and list teams for efficient collaboration. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "IVPN Client - Control VPN Connections | Online Free DevTools by Hexmos"
 name: ivpn
-path: /freedevtools/tldr/common/ivpn
+path: "/freedevtools/tldr/common/ivpn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ivpn/"
 description: "Control VPN connections easily with IVPN Client. Manage server connections, view connection status, and control firewall settings. Free online tool, no registration required."
 category: common

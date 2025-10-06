@@ -1,7 +1,7 @@
 ---
 title: "Manage PKCS #11 Modules - with modutil | Online Free DevTools by Hexmos"
 name: modutil
-path: /freedevtools/tldr/common/modutil
+path: "/freedevtools/tldr/common/modutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/modutil/"
 description: "Manage PKCS #11 modules with modutil, control NSS security module database. Add, list, and modify PKCS #11 module information. Free online tool, no registration required."
 category: common

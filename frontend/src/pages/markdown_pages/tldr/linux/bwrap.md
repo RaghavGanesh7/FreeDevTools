@@ -1,7 +1,7 @@
 ---
 title: "bwrap Sandbox - Run Programs Securely | Online Free DevTools by Hexmos"
 name: bwrap
-path: /freedevtools/tldr/linux/bwrap
+path: "/freedevtools/tldr/linux/bwrap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bwrap/"
 description: "Run programs securely with bwrap, a lightweight sandbox. Isolate processes, control resource access, and enhance security. Free online tool, no registration required."
 category: linux

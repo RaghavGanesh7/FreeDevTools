@@ -1,7 +1,7 @@
 ---
 title: "Pokemon Sprites - Display Terminal Pokemon Art | Online Free DevTools by Hexmos"
 name: pokego
-path: /freedevtools/tldr/linux/pokego
+path: "/freedevtools/tldr/linux/pokego/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pokego/"
 description: "Display Pokemon sprites instantly with Pokego. Generate colored Pokemon art in your terminal using command line. Free online tool, no registration required."
 category: linux

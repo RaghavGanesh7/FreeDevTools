@@ -1,7 +1,7 @@
 ---
 title: "Generate Random Identity - Rig | Online Free DevTools by Hexmos"
 name: rig
-path: /freedevtools/tldr/linux/rig
+path: "/freedevtools/tldr/linux/rig/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rig/"
 description: "Generate random identity data with Rig. Create realistic fake names, addresses, and geographical information for development and testing. Free online tool, no registration required."
 category: linux

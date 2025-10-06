@@ -1,7 +1,7 @@
 ---
 title: "Control CPU Speed - auto-cpufreq Optimizer | Online Free DevTools by Hexmos"
 name: auto-cpufreq
-path: /freedevtools/tldr/linux/auto-cpufreq
+path: "/freedevtools/tldr/linux/auto-cpufreq/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/auto-cpufreq/"
 description: "Control CPU speed and power consumption with auto-cpufreq. Optimize system performance by dynamically adjusting CPU frequency. Free online tool, no registration required."
 category: linux

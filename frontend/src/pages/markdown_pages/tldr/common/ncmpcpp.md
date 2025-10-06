@@ -1,7 +1,7 @@
 ---
 title: "Control ncmpcpp - MPD Client | Online Free DevTools by Hexmos"
 name: ncmpcpp
-path: "/freedevtools/tldr/common/ncmpcpp"
+path: "/freedevtools/tldr/common/ncmpcpp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ncmpcpp/"
 description: "Control MPD client with ncmpcpp, a powerful music player interface. Manage music playback, playlists, and library effortlessly. Free online tool, no registration required."
 category: common

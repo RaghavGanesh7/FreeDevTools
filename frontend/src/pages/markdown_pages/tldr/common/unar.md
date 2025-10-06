@@ -1,7 +1,7 @@
 ---
 title: "Extract Archive - Extract Files from Archives | Online Free DevTools by Hexmos"
 name: unar
-path: /freedevtools/tldr/common/unar
+path: "/freedevtools/tldr/common/unar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unar/"
 description: "Extract archive files quickly with unar. Manage and access the contents of compressed files with this command line utility. Free online tool, no registration required."
 category: common

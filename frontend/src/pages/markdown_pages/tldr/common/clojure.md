@@ -1,7 +1,7 @@
 ---
 title: "Clojure - Execute Clojure Code | Online Free DevTools by Hexmos"
 name: clojure
-path: /freedevtools/tldr/common/clojure
+path: "/freedevtools/tldr/common/clojure/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clojure/"
 description: "Execute Clojure code instantly with the Clojure command.  Run scripts, manage dependencies, and interact with the REPL. Free online tool, no registration required."
 category: common

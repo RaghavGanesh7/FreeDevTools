@@ -1,7 +1,7 @@
 ---
 title: "Lspci - List PCI Devices | Online Free DevTools by Hexmos"
 name: lspci
-path: /freedevtools/tldr/linux/lspci
+path: "/freedevtools/tldr/linux/lspci/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lspci/"
 description: "List PCI devices instantly with Lspci. Identify hardware components and troubleshoot system issues using command line. Free online tool, no registration required."
 category: linux

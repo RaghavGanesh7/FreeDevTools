@@ -1,7 +1,7 @@
 ---
 title: "Control Locale - Manage System Language with eselect | Online Free DevTools by Hexmos"
 name: eselect-locale
-path: /freedevtools/tldr/linux/eselect-locale
+path: "/freedevtools/tldr/linux/eselect-locale/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eselect-locale/"
 description: "Manage system language instantly with eselect-locale. Configure the LANG environment variable, list available locales and set your preferred system language. Free online tool, no registration required."
 category: linux

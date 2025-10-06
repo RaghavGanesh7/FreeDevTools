@@ -1,7 +1,7 @@
 ---
 title: "Calculate Compression Ratio - compsize Command | Online Free DevTools by Hexmos"
 name: compsize
-path: /freedevtools/tldr/linux/compsize
+path: "/freedevtools/tldr/linux/compsize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/compsize/"
 description: "Calculate compression ratios with the compsize command.  Analyze file and directory compression on btrfs filesystems. Free online tool, no registration required."
 category: linux

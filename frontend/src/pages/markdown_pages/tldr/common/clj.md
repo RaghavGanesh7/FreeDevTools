@@ -1,7 +1,7 @@
 ---
 title: "Clojure REPL - Start Interactive Shell | Online Free DevTools by Hexmos"
 name: clj
-path: /freedevtools/tldr/common/clj
+path: "/freedevtools/tldr/common/clj/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clj/"
 description: "Start Clojure REPL with clj for interactive development and function execution. Resolve dependencies and manage ClojureScript projects easily. Free online tool, no registration required."
 category: common

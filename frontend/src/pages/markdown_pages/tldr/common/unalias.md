@@ -1,7 +1,7 @@
 ---
 title: "Remove Alias - Control Shell Aliases | Online Free DevTools by Hexmos"
 name: unalias
-path: /freedevtools/tldr/common/unalias
+path: "/freedevtools/tldr/common/unalias/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unalias/"
 description: "Remove alias commands with unalias. Manage shell aliases in bash and other shells using command line. Free online tool, no registration required."
 category: common

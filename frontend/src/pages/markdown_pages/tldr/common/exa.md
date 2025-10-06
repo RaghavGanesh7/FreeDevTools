@@ -1,7 +1,7 @@
 ---
 title: "Exa - List Directory Contents | Online Free DevTools by Hexmos"
 name: exa
-path: /freedevtools/tldr/common/exa
+path: "/freedevtools/tldr/common/exa/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exa/"
 description: "List directory contents with Exa, a modern replacement for `ls`.  Easily view file permissions, sizes, and modification dates. Free online tool, no registration required."
 category: common

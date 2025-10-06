@@ -1,7 +1,7 @@
 ---
 title: "Kate - Edit Text Files | Online Free DevTools by Hexmos"
 name: kate
-path: /freedevtools/tldr/common/kate
+path: "/freedevtools/tldr/common/kate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kate/"
 description: "Edit text files effortlessly with Kate, the advanced KDE text editor. Open, create, and modify files with ease using command line. Free online tool, no registration required."
 category: common

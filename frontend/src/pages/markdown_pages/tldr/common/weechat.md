@@ -1,7 +1,7 @@
 ---
 title: "Control WeeChat - IRC Client Configuration | Online Free DevTools by Hexmos"
 name: weechat
-path: /freedevtools/tldr/common/weechat
+path: "/freedevtools/tldr/common/weechat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/weechat/"
 description: "Control WeeChat IRC client settings with command-line options. Customize startup, plugins, and server connections. Free online tool, no registration required."
 category: common

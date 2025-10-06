@@ -1,7 +1,7 @@
 ---
 title: "Head - Output File Headings | Online Free DevTools by Hexmos"
 name: head
-path: /freedevtools/tldr/osx/head
+path: "/freedevtools/tldr/osx/head/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/head/"
 description: "Output file headings effortlessly with Head command. Extract specific lines or bytes from files using command-line options. Free online tool, no registration required."
 category: osx

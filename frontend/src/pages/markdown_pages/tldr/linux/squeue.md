@@ -1,7 +1,7 @@
 ---
 title: "Queue View - Monitor SLURM Jobs | Online Free DevTools by Hexmos"
 name: squeue
-path: /freedevtools/tldr/linux/squeue
+path: "/freedevtools/tldr/linux/squeue/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/squeue/"
 description: "View queued SLURM jobs with squeue. Monitor job status and manage resources efficiently using the SLURM scheduler. Free online tool, no registration required."
 category: linux

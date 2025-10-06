@@ -1,7 +1,7 @@
 ---
 title: "Quickget - Create Quickemu VMs | Online Free DevTools by Hexmos"
 name: quickget
-path: /freedevtools/tldr/linux/quickget
+path: "/freedevtools/tldr/linux/quickget/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/quickget/"
 description: "Create Quickemu virtual machines easily with quickget. Download and prepare OS images, configure VMs, and manage ISO files. Free online tool, no registration required."
 category: linux

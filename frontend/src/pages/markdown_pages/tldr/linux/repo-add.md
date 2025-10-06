@@ -1,7 +1,7 @@
 ---
 title: "Create Package Database - Manage Packages on Linux | Online Free DevTools by Hexmos"
 name: repo-add
-path: /freedevtools/tldr/linux/repo-add
+path: "/freedevtools/tldr/linux/repo-add/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/repo-add/"
 description: "Create and manage package databases with repo-add on Linux. Simplify package installation and updates using Pacman with this tool. Free online tool, no registration required."
 category: linux

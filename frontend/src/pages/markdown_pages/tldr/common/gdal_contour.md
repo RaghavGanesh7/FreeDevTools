@@ -1,7 +1,7 @@
 ---
 title: "Create Contours - Generate Elevation Data with GDAL Contour | Online Free DevTools by Hexmos"
 name: gdal_contour
-path: /freedevtools/tldr/common/gdal_contour
+path: "/freedevtools/tldr/common/gdal_contour/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdal_contour/"
 description: "Generate elevation data contours with GDAL Contour. Extract contour lines and polygons from DEM. Free online tool, no registration required."
 category: common

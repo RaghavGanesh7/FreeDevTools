@@ -1,7 +1,7 @@
 ---
 title: "MariaDB Client - Control Databases | Online Free DevTools by Hexmos"
 name: mariadb
-path: /freedevtools/tldr/common/mariadb
+path: "/freedevtools/tldr/common/mariadb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mariadb/"
 description: "Control databases with MariaDB Client. Connect, execute SQL scripts, and debug memory usage. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Format Text - Printf Command | Online Free DevTools by Hexmos"
 name: printf
-path: /freedevtools/tldr/common/printf
+path: "/freedevtools/tldr/common/printf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/printf/"
 description: "Format text with Printf, a powerful command-line utility. Control output formatting for strings, numbers, and variables in shell scripts. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Raw Bind - Control Device Binding on Linux | Online Free DevTools by Hexmos"
 name: raw
-path: /freedevtools/tldr/linux/raw
+path: "/freedevtools/tldr/linux/raw/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/raw/"
 description: "Control raw device bindings with raw on Linux. Query existing bindings and manage raw character devices. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Get-Date - Display Date and Time | Online Free DevTools by Hexmos"
 name: get-date
-path: /freedevtools/tldr/windows/get-date
+path: "/freedevtools/tldr/windows/get-date/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-date/"
 description: "Display current date and time with Get-Date. Convert timestamps and format output on Windows. Free online tool, no registration required."
 category: windows

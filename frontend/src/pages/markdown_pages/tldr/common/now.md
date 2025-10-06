@@ -1,7 +1,7 @@
 ---
 title: "Now Deployment - Cloud Serverless Deployment | Online Free DevTools by Hexmos"
 name: now
-path: /freedevtools/tldr/common/now
+path: "/freedevtools/tldr/common/now/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/now/"
 description: "Control serverless deployments with Now. Manage deployments, inspect logs, and remove deployments with ease. Free online tool, no registration required."
 category: common

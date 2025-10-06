@@ -1,7 +1,7 @@
 ---
 title: "Create Torrent Files - Transmission-Create | Online Free DevTools by Hexmos"
 name: transmission-create
-path: "/freedevtools/tldr/transmission/transmission-create"
+path: "/freedevtools/tldr/transmission/transmission-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/transmission/transmission-create/"
 description: "Create torrent files with Transmission-Create, a powerful BitTorrent client. Generate .torrent files with specific piece sizes and trackers. Free online tool, no registration required."
 category: common

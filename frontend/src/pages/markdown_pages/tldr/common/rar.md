@@ -1,7 +1,7 @@
 ---
 title: "RAR Archiver - Create and Manage Archives | Online Free DevTools by Hexmos"
 name: rar
-path: /freedevtools/tldr/common/rar
+path: "/freedevtools/tldr/common/rar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rar/"
 description: "Create RAR archives efficiently with RAR Archiver. Compress files, split volumes, and password-protect archives easily. Free online tool, no registration required."
 category: common

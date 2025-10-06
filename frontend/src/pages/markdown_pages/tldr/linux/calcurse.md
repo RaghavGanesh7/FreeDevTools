@@ -1,7 +1,7 @@
 ---
 title: "Manage Calendar - Calcurse Command-line Tool | Online Free DevTools by Hexmos"
 name: calcurse
-path: /freedevtools/tldr/linux/calcurse
+path: "/freedevtools/tldr/linux/calcurse/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/calcurse/"
 description: "Manage your calendar appointments efficiently with the Calcurse command-line tool.  View, add, and edit events with ease. Free online tool, no registration required."
 category: linux

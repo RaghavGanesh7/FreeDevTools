@@ -1,7 +1,7 @@
 ---
 title: "Kaggle CLI - Manage Datasets & Competitions | Online Free DevTools by Hexmos"
 name: kaggle
-path: /freedevtools/tldr/common/kaggle
+path: "/freedevtools/tldr/common/kaggle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kaggle/"
 description: "Manage datasets and competitions with Kaggle CLI. Download data, submit predictions, and explore Kaggle's resources. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Locate Files - Find Filenames Quickly | Online Free DevTools by Hexmos"
 name: plocate
-path: /freedevtools/tldr/common/plocate
+path: "/freedevtools/tldr/common/plocate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/plocate/"
 description: "Find filenames quickly with plocate. Search your file system database efficiently and locate files by name or pattern. Free online tool, no registration required."
 category: common

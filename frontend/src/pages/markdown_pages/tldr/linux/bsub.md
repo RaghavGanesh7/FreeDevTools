@@ -1,7 +1,7 @@
 ---
 title: "Submit LSF Jobs - Schedule Batch Tasks | Online Free DevTools by Hexmos"
 name: bsub
-path: /freedevtools/tldr/linux/bsub
+path: "/freedevtools/tldr/linux/bsub/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bsub/"
 description: "Schedule batch tasks with LSF bsub command. Submit jobs, manage queues, and allocate resources effectively. Free online tool, no registration required."
 category: linux

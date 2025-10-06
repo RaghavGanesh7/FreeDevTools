@@ -1,7 +1,7 @@
 ---
 title: "Manage CUPS Printing - Open Source Print System | Online Free DevTools by Hexmos"
 name: cups
-path: /freedevtools/tldr/common/cups
+path: "/freedevtools/tldr/common/cups/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cups/"
 description: "Manage CUPS printing with this open-source print system. Control print jobs, configure printers, and view status information. Free online tool, no registration required."
 category: common

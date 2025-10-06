@@ -1,7 +1,7 @@
 ---
 title: "IntelliJ IDEA - Open Projects & Diff Files | Online Free DevTools by Hexmos"
 name: idea
-path: /freedevtools/tldr/common/idea
+path: "/freedevtools/tldr/common/idea/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idea/"
 description: "Open projects and compare files with IntelliJ IDEA command-line tool. Enhance Java and Kotlin development workflow with this powerful IDE integration. Free online tool, no registration required."
 category: common

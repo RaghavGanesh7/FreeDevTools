@@ -1,7 +1,7 @@
 ---
 title: "Ganache CLI - Create Private Ethereum Blockchains | Online Free DevTools by Hexmos"
 name: ganache-cli
-path: /freedevtools/tldr/common/ganache-cli
+path: "/freedevtools/tldr/common/ganache-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ganache-cli/"
 description: "Create private Ethereum blockchains with Ganache CLI. Easily test and debug smart contracts in a controlled environment. Free online tool, no registration required."
 category: common

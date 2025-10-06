@@ -1,7 +1,7 @@
 ---
 title: "Execute Command - Control Process Execution with xe | Online Free DevTools by Hexmos"
 name: xe
-path: /freedevtools/tldr/common/xe
+path: "/freedevtools/tldr/common/xe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xe/"
 description: "Control process execution instantly with xe. Execute commands on each line of input, parallelize execution, and manage shellscripts. Free online tool, no registration required."
 category: common

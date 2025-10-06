@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Bulk Rename Files with mmv | Online Free DevTools by Hexmos"
 name: mmv
-path: /freedevtools/tldr/common/mmv
+path: "/freedevtools/tldr/common/mmv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mmv/"
 description: "Bulk rename files with mmv, quickly batch rename files using command-line patterns. Organize your files effortlessly! Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compile Typst to PDF - Generate Docs | Online Free DevTools by Hexmos"
 name: typst
-path: /freedevtools/tldr/common/typst
+path: "/freedevtools/tldr/common/typst/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/typst/"
 description: "Compile documents with Typst, a powerful typesetting language. Generate professional PDF files from Typst markup. Free online tool, no registration required."
 category: common

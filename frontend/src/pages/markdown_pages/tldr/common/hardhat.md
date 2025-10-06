@@ -1,7 +1,7 @@
 ---
 title: "Develop Ethereum Software - Hardhat Development | Online Free DevTools by Hexmos"
 name: hardhat
-path: "/freedevtools/tldr/common/hardhat"
+path: "/freedevtools/tldr/common/hardhat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hardhat/"
 description: "Develop Ethereum software with Hardhat, a robust development environment. Compile smart contracts, run tests, and deploy decentralized apps. Free online tool, no registration required."
 category: common

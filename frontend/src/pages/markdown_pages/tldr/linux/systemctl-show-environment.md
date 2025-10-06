@@ -1,7 +1,7 @@
 ---
 title: "Show Environment - Display Systemd Env Blocks | Online Free DevTools by Hexmos"
 name: systemctl-show-environment
-path: /freedevtools/tldr/linux/systemctl-show-environment
+path: "/freedevtools/tldr/linux/systemctl-show-environment/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-show-environment/"
 description: "Display environment variables with systemctl show-environment. Manage systemd environment blocks and troubleshoot configuration issues with this free online tool, no registration required."
 category: linux

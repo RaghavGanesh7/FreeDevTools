@@ -1,7 +1,7 @@
 ---
 title: "SNMP Test - Start Interactive SNMP Prompt | Online Free DevTools by Hexmos"
 name: snmptest
-path: /freedevtools/tldr/common/snmptest
+path: "/freedevtools/tldr/common/snmptest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snmptest/"
 description: "Test SNMP connections with snmptest. Verify SNMP agent reachability and functionality using an interactive prompt. Free online tool, no registration required."
 category: common

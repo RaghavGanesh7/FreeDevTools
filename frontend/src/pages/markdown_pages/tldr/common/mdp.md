@@ -1,7 +1,7 @@
 ---
 title: "Markdown Presentation - Create Slides from Markdown | Online Free DevTools by Hexmos"
 name: mdp
-path: /freedevtools/tldr/common/mdp
+path: "/freedevtools/tldr/common/mdp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mdp/"
 description: "Create Markdown presentations with mdp effortlessly. Generate slideshows from Markdown files for terminal display. Free online tool, no registration required."
 category: common

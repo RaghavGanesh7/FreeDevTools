@@ -1,7 +1,7 @@
 ---
 title: "OGRINFO - List Data Source Information | Online Free DevTools by Hexmos"
 name: ogrinfo
-path: /freedevtools/tldr/common/ogrinfo
+path: "/freedevtools/tldr/common/ogrinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ogrinfo/"
 description: "List data source information with OGRINFO, a powerful geospatial data tool. Inspect vector data formats and metadata using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Websites - Control Hexo Blog Framework | Online Free DevTools by Hexmos"
 name: hexo
-path: /freedevtools/tldr/common/hexo
+path: "/freedevtools/tldr/common/hexo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hexo/"
 description: "Generate static websites quickly with Hexo, a powerful blog framework. Build, deploy, and manage your blog efficiently. Free online tool, no registration required."
 category: common

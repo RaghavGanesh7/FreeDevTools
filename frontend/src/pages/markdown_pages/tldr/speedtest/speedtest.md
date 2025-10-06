@@ -1,7 +1,7 @@
 ---
 title: "Speedtest - Test Internet Speed | Online Free DevTools by Hexmos"
 name: speedtest
-path: /freedevtools/tldr/speedtest/speedtest
+path: "/freedevtools/tldr/speedtest/speedtest/"
 canonical: "https://hexmos.com/freedevtools/tldr/speedtest/speedtest/"
 description: "Test internet speed with Speedtest CLI. Measure bandwidth, latency, and network performance with this command-line tool. Free online tool, no registration required."
 category: common

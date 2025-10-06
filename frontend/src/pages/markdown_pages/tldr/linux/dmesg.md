@@ -1,7 +1,7 @@
 ---
 title: "View Kernel Messages - dmesg Command | Online Free DevTools by Hexmos"
 name: dmesg
-path: /freedevtools/tldr/linux/dmesg
+path: "/freedevtools/tldr/linux/dmesg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dmesg/"
 description: "View and analyze Linux kernel messages with the dmesg command.  Inspect system logs, troubleshoot errors, and monitor memory usage easily. Free online tool, no registration required."
 category: linux

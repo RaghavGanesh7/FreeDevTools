@@ -1,7 +1,7 @@
 ---
 title: "Type Command - Display Command Type | Online Free DevTools by Hexmos"
 name: type
-path: /freedevtools/tldr/common/type
+path: "/freedevtools/tldr/common/type/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/type/"
 description: "Display command type with Type command. Identify command type, location, and definition across various shells. Free online tool, no registration required."
 category: common

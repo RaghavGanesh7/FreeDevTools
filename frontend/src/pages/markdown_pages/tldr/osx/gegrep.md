@@ -1,7 +1,7 @@
 ---
 title: "Grep Text - Search Files with Grep Command | Online Free DevTools by Hexmos"
 name: gegrep
-path: /freedevtools/tldr/osx/gegrep
+path: "/freedevtools/tldr/osx/gegrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gegrep/"
 description: "Search text with Grep Command. Find patterns in files using GNU egrep on macOS. A free online tool providing quick command lookup, no registration required."
 category: osx

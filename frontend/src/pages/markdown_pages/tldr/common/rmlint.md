@@ -1,7 +1,7 @@
 ---
 title: "Find Duplicate Files - rmlint File Cleaner | Online Free DevTools by Hexmos"
 name: rmlint
-path: /freedevtools/tldr/common/rmlint
+path: "/freedevtools/tldr/common/rmlint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rmlint/"
 description: "Find duplicate files with rmlint, a powerful file system cleaner. Reclaim disk space and eliminate broken links. Free online tool, no registration required."
 category: common

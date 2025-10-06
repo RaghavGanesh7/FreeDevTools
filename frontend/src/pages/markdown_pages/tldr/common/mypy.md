@@ -1,7 +1,7 @@
 ---
 title: "Mypy - Type Check Python Code | Online Free DevTools by Hexmos"
 name: mypy
-path: /freedevtools/tldr/common/mypy
+path: "/freedevtools/tldr/common/mypy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mypy/"
 description: "Type check Python code with Mypy. Improve code quality and catch errors early with static type analysis. Free online tool, no registration required."
 category: common

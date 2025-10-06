@@ -1,7 +1,7 @@
 ---
 title: "Patchwork - Render Graphviz Images | Online Free DevTools by Hexmos"
 name: patchwork
-path: /freedevtools/tldr/common/patchwork
+path: "/freedevtools/tldr/common/patchwork/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/patchwork/"
 description: "Render graph network diagrams with Patchwork. Convert Graphviz DOT files to various image formats. Free online tool, no registration required."
 category: common

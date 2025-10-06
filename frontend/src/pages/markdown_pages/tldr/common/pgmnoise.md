@@ -1,7 +1,7 @@
 ---
 title: "Generate PGM Noise - Create White Noise Images | Online Free DevTools by Hexmos"
 name: pgmnoise
-path: /freedevtools/tldr/common/pgmnoise
+path: "/freedevtools/tldr/common/pgmnoise/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmnoise/"
 description: "Generate PGM images with pgmnoise. Create white noise patterns with custom width, height, and seed. Free online tool, no registration required."
 category: common

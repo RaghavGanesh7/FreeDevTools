@@ -1,7 +1,7 @@
 ---
 title: "VBoxManage Create VM - Generate Virtual Machines | Online Free DevTools by Hexmos"
 name: vboxmanage-createvm
-path: /freedevtools/tldr/vboxmanager/vboxmanage-createvm
+path: "/freedevtools/tldr/vboxmanager/vboxmanage-createvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/vboxmanager/vboxmanage-createvm/"
 description: "Create Virtual Machines with VBoxManage. Easily configure VM settings, including OS type and storage location. Free online tool, no registration required."
 category: common

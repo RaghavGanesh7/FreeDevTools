@@ -1,7 +1,7 @@
 ---
 title: "Compile C/C++ Code - Clang Compiler | Online Free DevTools by Hexmos"
 name: clang
-path: /freedevtools/tldr/clang/clang
+path: "/freedevtools/tldr/clang/clang/"
 canonical: "https://hexmos.com/freedevtools/tldr/clang/clang/"
 description: "Compile C/C++ code with Clang compiler. Optimize, debug, and generate LLVM IR from C/C++ source files. Free online tool, no registration required."
 category: common

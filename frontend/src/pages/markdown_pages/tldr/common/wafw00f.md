@@ -1,7 +1,7 @@
 ---
 title: "Identify WAF - Fingerprint Web Application Firewalls | Online Free DevTools by Hexmos"
 name: wafw00f
-path: /freedevtools/tldr/common/wafw00f
+path: "/freedevtools/tldr/common/wafw00f/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wafw00f/"
 description: "Identify web application firewalls (WAF) with wafw00f. Detect security measures and fingerprint WAF products protecting websites. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Banner Text Art - ASCII Art Generator | Online Free DevTools by Hexmos"
 name: banner
-path: /freedevtools/tldr/common/banner
+path: "/freedevtools/tldr/common/banner/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/banner/"
 description: "Generate large ASCII art with Banner. Create visually appealing text banners from the command line. Free online tool, no registration required."
 category: common

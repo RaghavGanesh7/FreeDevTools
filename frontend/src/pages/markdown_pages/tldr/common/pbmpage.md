@@ -1,7 +1,7 @@
 ---
 title: "Generate PBM Page - Create Printing Test Patterns | Online Free DevTools by Hexmos"
 name: pbmpage
-path: /freedevtools/tldr/common/pbmpage
+path: "/freedevtools/tldr/common/pbmpage/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmpage/"
 description: "Generate PBM page files with pbmpage, ideal for creating printing test patterns. Ensure precise printing with this command line tool. Free online tool, no registration required."
 category: common

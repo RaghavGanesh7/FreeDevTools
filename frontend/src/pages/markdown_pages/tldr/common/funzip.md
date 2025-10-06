@@ -1,7 +1,7 @@
 ---
 title: "Unzip Content - View Archive Contents | Online Free DevTools by Hexmos"
 name: funzip
-path: /freedevtools/tldr/common/funzip
+path: "/freedevtools/tldr/common/funzip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/funzip/"
 description: "View archive contents instantly with Funzip. Extract file information and inspect compressed data without decompression. Free online tool, no registration required."
 category: common

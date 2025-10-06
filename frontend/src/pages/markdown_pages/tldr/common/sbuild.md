@@ -1,7 +1,7 @@
 ---
 title: "Build Debian Package - Create Chroot Environments | Online Free DevTools by Hexmos"
 name: sbuild
-path: /freedevtools/tldr/common/sbuild
+path: "/freedevtools/tldr/common/sbuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sbuild/"
 description: "Build Debian packages with sbuild, creating isolated chroot environments for clean and reproducible builds.  Ensure package integrity and compatibility. Free online tool, no registration required."
 category: common

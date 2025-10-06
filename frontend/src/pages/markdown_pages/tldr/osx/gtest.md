@@ -1,7 +1,7 @@
 ---
 title: "GTest - Validate Expressions | Online Free DevTools by Hexmos"
 name: gtest
-path: /freedevtools/tldr/osx/gtest
+path: "/freedevtools/tldr/osx/gtest/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtest/"
 description: "Validate expressions with GTest, the GNU test alias. Check file types, compare strings, and verify conditions quickly. Free online tool, no registration required."
 category: osx

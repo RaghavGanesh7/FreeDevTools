@@ -1,7 +1,7 @@
 ---
 title: "AppArmor Policy - Control AppArmor with aa-complain | Online Free DevTools by Hexmos"
 name: aa-complain
-path: /freedevtools/tldr/linux/aa-complain
+path: "/freedevtools/tldr/linux/aa-complain/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-complain/"
 description: "Control AppArmor policies with the aa-complain command.  Easily switch AppArmor profiles to complain mode for security auditing and debugging. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Powertop - Optimize Battery Usage | Online Free DevTools by Hexmos"
 name: powertop
-path: /freedevtools/tldr/linux/powertop
+path: "/freedevtools/tldr/linux/powertop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/powertop/"
 description: "Optimize battery usage with Powertop, a power analysis tool for Linux. Extend battery life and reduce power consumption. Free online tool, no registration required."
 category: linux

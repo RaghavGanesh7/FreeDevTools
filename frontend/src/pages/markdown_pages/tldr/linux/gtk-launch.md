@@ -1,7 +1,7 @@
 ---
 title: "Launch Application - Start Apps with gtk-launch | Online Free DevTools by Hexmos"
 name: gtk-launch
-path: /freedevtools/tldr/linux/gtk-launch
+path: "/freedevtools/tldr/linux/gtk-launch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gtk-launch/"
 description: "Launch applications quickly with gtk-launch on Linux. Run .desktop files directly from the command line. Free online tool, no registration required."
 category: linux

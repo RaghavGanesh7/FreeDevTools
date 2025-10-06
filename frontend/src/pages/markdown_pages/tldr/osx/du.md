@@ -1,7 +1,7 @@
 ---
 title: "Disk Usage - Estimate Space Usage with du | Online Free DevTools by Hexmos"
 name: du
-path: /freedevtools/tldr/osx/du
+path: "/freedevtools/tldr/osx/du/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/du/"
 description: "Estimate file and directory space usage with du. Analyze disk usage effectively with this command-line utility. Free online tool, no registration required."
 category: osx

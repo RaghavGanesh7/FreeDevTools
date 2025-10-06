@@ -1,7 +1,7 @@
 ---
 title: "AWS SQS - Manage Queues | Online Free DevTools by Hexmos"
 name: aws-sqs
-path: /freedevtools/tldr/aws/aws-sqs
+path: "/freedevtools/tldr/aws/aws-sqs/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-sqs/"
 description: "Manage queues with AWS SQS. Create, delete, and send messages using this command-line tool. Free online tool, no registration required."
 category: common

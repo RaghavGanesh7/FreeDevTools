@@ -1,7 +1,7 @@
 ---
 title: "Sourcehut Control - Manage Repositories and Builds | Online Free DevTools by Hexmos"
 name: hut
-path: /freedevtools/tldr/common/hut
+path: "/freedevtools/tldr/common/hut/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hut/"
 description: "Control Sourcehut repositories and builds with hut, a command-line interface. List repositories, create new projects, and manage build jobs. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "NestJS CLI - Create and Manage NestJS Applications | Online Free DevTools by Hexmos"
 name: nest
-path: /freedevtools/tldr/common/nest
+path: "/freedevtools/tldr/common/nest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nest/"
 description: "Create NestJS applications effortlessly with Nest CLI. Initialize projects, build modules, and add libraries with a simple command. Free online tool, no registration required."
 category: common

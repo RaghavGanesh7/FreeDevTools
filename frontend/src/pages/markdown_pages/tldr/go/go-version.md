@@ -1,7 +1,7 @@
 ---
 title: "Display Go Version - Check Go Version Online | Online Free DevTools by Hexmos"
 name: go-version
-path: /freedevtools/tldr/go/go-version
+path: "/freedevtools/tldr/go/go-version/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-version/"
 description: "Display Go versions instantly with go-version. Check installed Go versions or the Go version used to build executables. Free online tool, no registration required."
 category: common

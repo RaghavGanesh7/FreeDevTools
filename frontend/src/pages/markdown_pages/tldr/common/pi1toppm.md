@@ -1,7 +1,7 @@
 ---
 title: "Convert PI1 to PPM - Image Conversion | Online Free DevTools by Hexmos"
 name: pi1toppm
-path: /freedevtools/tldr/common/pi1toppm
+path: "/freedevtools/tldr/common/pi1toppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pi1toppm/"
 description: "Convert Atari Degas PI1 images to PPM format with pi1toppm. Fast image manipulation and file conversion for retro graphics. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Systemd Confext - Extend System Configuration | Online Free DevTools by Hexmos"
 name: systemd-confext
-path: /freedevtools/tldr/linux/systemd-confext
+path: "/freedevtools/tldr/linux/systemd-confext/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-confext/"
 description: "Extend system configuration with Systemd Confext for enhanced management. Customize /etc directories easily. Free online tool, no registration required."
 category: linux

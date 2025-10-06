@@ -1,7 +1,7 @@
 ---
 title: "Replace Text - Find and Replace with sd | Online Free DevTools by Hexmos"
 name: sd
-path: /freedevtools/tldr/common/sd
+path: "/freedevtools/tldr/common/sd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sd/"
 description: "Replace text efficiently with sd, an intuitive find and replace tool. Perform regex replacements and manipulate text using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Attrib - Control File Attributes on Windows | Online Free DevTools by Hexmos"
 name: attrib
-path: /freedevtools/tldr/windows/attrib
+path: "/freedevtools/tldr/windows/attrib/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/attrib/"
 description: "Control file attributes with Attrib on Windows. Modify read-only, hidden, system, and archive flags. Free online tool, no registration required."
 category: windows

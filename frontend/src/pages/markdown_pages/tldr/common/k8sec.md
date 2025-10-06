@@ -1,7 +1,7 @@
 ---
 title: "Manage Kubernetes Secrets - Control K8s Secrets | Online Free DevTools by Hexmos"
 name: k8sec
-path: /freedevtools/tldr/common/k8sec
+path: "/freedevtools/tldr/common/k8sec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/k8sec/"
 description: "Control Kubernetes secrets effortlessly with k8sec. Securely manage, list, and set secret values in your Kubernetes clusters. Free online tool, no registration required."
 category: common

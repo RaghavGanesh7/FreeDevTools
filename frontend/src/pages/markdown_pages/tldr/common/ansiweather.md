@@ -1,7 +1,7 @@
 ---
 title: "Ansiweather - Display Weather in Terminal | Online Free DevTools by Hexmos"
 name: ansiweather
-path: /freedevtools/tldr/common/ansiweather
+path: "/freedevtools/tldr/common/ansiweather/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ansiweather/"
 description: "Display weather information with Ansiweather, a command-line weather tool. Get forecasts and weather data in your terminal. Free online tool, no registration required."
 category: common

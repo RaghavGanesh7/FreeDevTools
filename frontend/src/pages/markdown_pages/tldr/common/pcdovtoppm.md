@@ -1,7 +1,7 @@
 ---
 title: "Create PCD to PPM Image - Convert Photo CDs | Online Free DevTools by Hexmos"
 name: pcdovtoppm
-path: /freedevtools/tldr/common/pcdovtoppm
+path: "/freedevtools/tldr/common/pcdovtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pcdovtoppm/"
 description: "Create PCD to PPM image with pcdovtoppm. Generate index images from Photo CD overview files using this free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Blackfire Profiler - Monitor PHP Apps | Online Free DevTools by Hexmos"
 name: blackfire
-path: /freedevtools/tldr/common/blackfire
+path: "/freedevtools/tldr/common/blackfire/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/blackfire/"
 description: "Profile PHP applications effectively with Blackfire Profiler. Identify bottlenecks and optimize performance for faster web applications. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Query CSV - Execute SQL on Files | Online Free DevTools by Hexmos"
 name: q
-path: /freedevtools/tldr/common/q
+path: "/freedevtools/tldr/common/q/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/q/"
 description: "Execute SQL queries on CSV files with Query CSV. Quickly analyze and transform data from CSV and TSV files. Free online tool, no registration required."
 category: common

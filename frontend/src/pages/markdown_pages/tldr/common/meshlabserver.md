@@ -1,7 +1,7 @@
 ---
 title: "Convert Mesh - Process 3D Meshes with MeshLabserver | Online Free DevTools by Hexmos"
 name: meshlabserver
-path: /freedevtools/tldr/common/meshlabserver
+path: "/freedevtools/tldr/common/meshlabserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/meshlabserver/"
 description: "Process 3D meshes with MeshLabserver, a powerful mesh processing tool. Convert file formats and apply complex filters with ease. Free online tool, no registration required."
 category: common

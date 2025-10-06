@@ -1,7 +1,7 @@
 ---
 title: "Create Pipenv Project - Manage Python Dependencies | Online Free DevTools by Hexmos"
 name: pipenv
-path: /freedevtools/tldr/pip/pipenv
+path: "/freedevtools/tldr/pip/pipenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/pip/pipenv/"
 description: "Create Python project environments with Pipenv. Manage dependencies and virtual environments for seamless development. Free online tool, no registration required."
 category: common

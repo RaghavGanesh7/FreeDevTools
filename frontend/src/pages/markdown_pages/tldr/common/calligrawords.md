@@ -1,7 +1,7 @@
 ---
 title: "Create Documents with Calligra Words | Online Free DevTools by Hexmos"
 name: calligrawords
-path: /freedevtools/tldr/common/calligrawords
+path: "/freedevtools/tldr/common/calligrawords/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calligrawords/"
 description: "Create rich documents with Calligra Words, the versatile word processor application. Format text, add images and manage layouts with ease. Free online tool, no registration required."
 category: common

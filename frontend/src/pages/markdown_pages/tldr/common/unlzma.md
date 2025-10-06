@@ -1,7 +1,7 @@
 ---
 title: "Unlzma - Decompress LZMA Files | Online Free DevTools by Hexmos"
 name: unlzma
-path: /freedevtools/tldr/common/unlzma
+path: "/freedevtools/tldr/common/unlzma/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unlzma/"
 description: "Decompress LZMA files quickly with Unlzma. Use this tool to decompress LZMA archives via XZ. Free online tool, no registration required."
 category: common

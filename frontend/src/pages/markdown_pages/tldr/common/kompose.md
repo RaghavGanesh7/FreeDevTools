@@ -1,7 +1,7 @@
 ---
 title: "Kompose - Convert Docker Compose to Kubernetes | Online Free DevTools by Hexmos"
 name: kompose
-path: /freedevtools/tldr/common/kompose
+path: "/freedevtools/tldr/common/kompose/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kompose/"
 description: "Convert Docker Compose files to Kubernetes manifests with Kompose. Streamline application deployment and orchestration. Free online tool, no registration required."
 category: common

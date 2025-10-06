@@ -1,7 +1,7 @@
 ---
 title: "Run Architecture - Execute Commands on Specific CPU Arch | Online Free DevTools by Hexmos"
 name: arch
-path: /freedevtools/tldr/osx/arch
+path: "/freedevtools/tldr/osx/arch/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/arch/"
 description: "Execute commands with Architecture tool, allowing you to run processes under specific CPU architectures. Test and debug applications on different systems. Free online tool, no registration required."
 category: osx

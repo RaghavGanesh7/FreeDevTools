@@ -1,7 +1,7 @@
 ---
 title: "LXC Start - Control Linux Containers | Online Free DevTools by Hexmos"
 name: lxc-start
-path: /freedevtools/tldr/linux/lxc-start
+path: "/freedevtools/tldr/linux/lxc-start/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-start/"
 description: "Control Linux containers instantly with LXC Start. Manage container lifecycle, start in foreground, and stop running containers. Free online tool, no registration required."
 category: linux

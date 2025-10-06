@@ -1,7 +1,7 @@
 ---
 title: "Validate Pathnames - Check Pathnames for Portability | Online Free DevTools by Hexmos"
 name: pathchk
-path: /freedevtools/tldr/common/pathchk
+path: "/freedevtools/tldr/common/pathchk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pathchk/"
 description: "Validate pathnames with pathchk. Check file and directory paths for portability and validity across various POSIX compliant systems. Free online tool, no registration required."
 category: common

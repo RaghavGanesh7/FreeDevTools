@@ -1,7 +1,7 @@
 ---
 title: "Chmod Command - Control File Permissions | Online Free DevTools by Hexmos"
 name: gchmod
-path: /freedevtools/tldr/osx/gchmod
+path: "/freedevtools/tldr/osx/gchmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gchmod/"
 description: "Control file permissions quickly with Chmod Command. Manage file access and set ownership with this free online tool, no registration required."
 category: osx

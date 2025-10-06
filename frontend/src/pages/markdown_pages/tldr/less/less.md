@@ -1,7 +1,7 @@
 ---
 title: "Less - View Files Interactively | Online Free DevTools by Hexmos"
 name: less
-path: /freedevtools/tldr/less/less
+path: "/freedevtools/tldr/less/less/"
 canonical: "https://hexmos.com/freedevtools/tldr/less/less/"
 description: "View files interactively with Less. Navigate, search, and follow file content directly from the command line. Free online tool, no registration required."
 category: common

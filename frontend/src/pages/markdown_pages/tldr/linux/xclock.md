@@ -1,7 +1,7 @@
 ---
 title: "xclock Time Display - Show Analog or Digital Clocks | Online Free DevTools by Hexmos"
 name: xclock
-path: /freedevtools/tldr/linux/xclock
+path: "/freedevtools/tldr/linux/xclock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xclock/"
 description: "Display analog or digital clocks instantly with xclock. Customize clock format, update intervals, and choose between 12/24-hour modes. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Print Commands - View Documentation | Online Free DevTools by Hexmos"
 name: print
-path: /freedevtools/tldr/common/print
+path: "/freedevtools/tldr/common/print/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/print/"
 description: "Control print commands with this documentation viewer. Access Zsh, run-mailcap, and Windows print command documentation easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Plasmashell - Restart Plasma Desktop | Online Free DevTools by Hexmos"
 name: plasmashell
-path: /freedevtools/tldr/linux/plasmashell
+path: "/freedevtools/tldr/linux/plasmashell/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/plasmashell/"
 description: "Restart Plasma Desktop with Plasmashell. Manage and control your Plasma desktop environment effortlessly using command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Convert Images to AVIF - Create AVIF Files | Online Free DevTools by Hexmos"
 name: cavif
-path: /freedevtools/tldr/common/cavif
+path: "/freedevtools/tldr/common/cavif/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cavif/"
 description: "Convert images to AVIF with cavif. Create high-quality, compressed AVIF files from PNG and JPEG images using this command-line tool. Free online tool, no registration required."
 category: common

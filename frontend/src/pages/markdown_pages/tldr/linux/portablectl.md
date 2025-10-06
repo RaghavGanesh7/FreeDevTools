@@ -1,7 +1,7 @@
 ---
 title: "Portablectl - Manage Portable Service Images | Online Free DevTools by Hexmos"
 name: portablectl
-path: /freedevtools/tldr/linux/portablectl
+path: "/freedevtools/tldr/linux/portablectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/portablectl/"
 description: "Manage portable service images with portablectl, a systemd utility for deploying services on Linux. Simplify container deployment. Free online tool, no registration required."
 category: linux

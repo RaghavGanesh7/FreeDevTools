@@ -1,7 +1,7 @@
 ---
 title: "Runcon - Control SELinux Context | Online Free DevTools by Hexmos"
 name: runcon
-path: /freedevtools/tldr/linux/runcon
+path: "/freedevtools/tldr/linux/runcon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/runcon/"
 description: "Control SELinux security contexts with Runcon. Execute programs in different security contexts for enhanced system security. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Unsquashfs - Extract Squashfs Filesystems | Online Free DevTools by Hexmos"
 name: unsquashfs
-path: /freedevtools/tldr/linux/unsquashfs
+path: "/freedevtools/tldr/linux/unsquashfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unsquashfs/"
 description: "Extract Squashfs filesystems with unsquashfs.  List and inspect files within Squashfs archives without extraction. Free online tool, no registration required."
 category: linux

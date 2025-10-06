@@ -1,7 +1,7 @@
 ---
 title: "AppArmor Status - Check Modules | Online Free DevTools by Hexmos"
 name: aa-status
-path: /freedevtools/tldr/linux/aa-status
+path: "/freedevtools/tldr/linux/aa-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-status/"
 description: "Check AppArmor module status with aa-status.  View loaded policies and their enforcement status. Free online tool, no registration required."
 category: linux

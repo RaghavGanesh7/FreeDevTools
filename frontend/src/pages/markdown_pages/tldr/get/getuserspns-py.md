@@ -1,7 +1,7 @@
 ---
 title: "Generate Kerberos SPNs - Extract User SPNs | Online Free DevTools by Hexmos"
 name: getuserspns.py
-path: /freedevtools/tldr/get/getuserspns-py
+path: "/freedevtools/tldr/get/getuserspns-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/get/getuserspns-py/"
 description: "Generate Kerberos SPNs with GetUserSPNs.py, retrieve SPNs associated with Active Directory users and request Kerberos TGS tickets. Free online tool, no registration required."
 category: common

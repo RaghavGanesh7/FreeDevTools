@@ -1,7 +1,7 @@
 ---
 title: "Encode MP3 Audio - Convert WAV to MP3 with LAME | Online Free DevTools by Hexmos"
 name: lame
-path: /freedevtools/tldr/common/lame
+path: "/freedevtools/tldr/common/lame/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lame/"
 description: "Encode MP3 audio with LAME. Convert WAV files to MP3 and AAC formats using command-line options. Free online tool, no registration required."
 category: common

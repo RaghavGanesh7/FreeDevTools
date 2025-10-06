@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Suspend - Control System Suspend | Online Free DevTools by Hexmos"
 name: systemctl-suspend
-path: /freedevtools/tldr/linux/systemctl-suspend
+path: "/freedevtools/tldr/linux/systemctl-suspend/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-suspend/"
 description: "Control system suspend with systemctl suspend. Manage system sleep states and schedule suspend operations. Free online tool, no registration required."
 category: linux

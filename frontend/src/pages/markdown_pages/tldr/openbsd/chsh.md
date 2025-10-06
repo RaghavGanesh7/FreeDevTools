@@ -1,7 +1,7 @@
 ---
 title: "Chsh - Change User Shell | Online Free DevTools by Hexmos"
 name: chsh
-path: /freedevtools/tldr/openbsd/chsh
+path: "/freedevtools/tldr/openbsd/chsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/openbsd/chsh/"
 description: "Change user shell easily with Chsh on OpenBSD. Quickly update login shell configurations and manage user environments. Free online tool, no registration required."
 category: openbsd

@@ -1,7 +1,7 @@
 ---
 title: "Allocate Disk Space - Control Files with fallocate | Online Free DevTools by Hexmos"
 name: fallocate
-path: /freedevtools/tldr/linux/fallocate
+path: "/freedevtools/tldr/linux/fallocate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fallocate/"
 description: "Control disk space allocation with fallocate. Reserve and deallocate file space quickly and easily using the command line. Free online tool, no registration required."
 category: linux

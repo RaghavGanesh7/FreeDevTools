@@ -1,7 +1,7 @@
 ---
 title: "Nmtui - Control Network Connections | Online Free DevTools by Hexmos"
 name: nmtui
-path: /freedevtools/tldr/linux/nmtui
+path: "/freedevtools/tldr/linux/nmtui/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmtui/"
 description: "Control network connections with Nmtui, the NetworkManager text user interface. Manage, activate, and deactivate network connections easily. Free online tool, no registration required."
 category: linux

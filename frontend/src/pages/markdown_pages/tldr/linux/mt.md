@@ -1,7 +1,7 @@
 ---
 title: "MT - Control Magnetic Tape Drive Operation | Online Free DevTools by Hexmos"
 name: mt
-path: /freedevtools/tldr/linux/mt
+path: "/freedevtools/tldr/linux/mt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mt/"
 description: "Control magnetic tape drive operation with MT. Manage LTO tapes, rewind, eject, and write EOF marks. Free online tool, no registration required."
 category: linux

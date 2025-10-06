@@ -1,7 +1,7 @@
 ---
 title: "Manage UEFI Variables with efivar | Online Free DevTools by Hexmos"
 name: efivar
-path: /freedevtools/tldr/linux/efivar
+path: "/freedevtools/tldr/linux/efivar/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/efivar/"
 description: "Manage UEFI variables effortlessly with the efivar command. List, print, and modify UEFI variables with ease. Free online tool, no registration required."
 category: linux

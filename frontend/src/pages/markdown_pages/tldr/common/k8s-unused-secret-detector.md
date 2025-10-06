@@ -1,7 +1,7 @@
 ---
 title: "Detect Kubernetes Secrets - Identify Unused Secrets | Online Free DevTools by Hexmos"
 name: k8s-unused-secret-detector
-path: /freedevtools/tldr/common/k8s-unused-secret-detector
+path: "/freedevtools/tldr/common/k8s-unused-secret-detector/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/k8s-unused-secret-detector/"
 description: "Detect Kubernetes secrets easily with k8s-unused-secret-detector. Identify and manage unused secrets, enhancing cluster security. Free online tool, no registration required."
 category: common

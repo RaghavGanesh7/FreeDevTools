@@ -1,7 +1,7 @@
 ---
 title: "Manage Containerized Environments - Control Toolbox on Linux | Online Free DevTools by Hexmos"
 name: toolbox
-path: /freedevtools/tldr/linux/toolbox
+path: "/freedevtools/tldr/linux/toolbox/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox/"
 description: "Control containerized command-line environments with Toolbox. Manage and run containers easily on Linux. Free online tool, no registration required."
 category: linux

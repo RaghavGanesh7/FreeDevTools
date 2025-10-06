@@ -1,7 +1,7 @@
 ---
 title: "Control Zsh Shell - Execute Commands | Online Free DevTools by Hexmos"
 name: zsh
-path: /freedevtools/tldr/common/zsh
+path: "/freedevtools/tldr/common/zsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zsh/"
 description: "Execute shell commands with Zsh Shell. Run scripts, check syntax, and customize your terminal environment. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Tree Command - Visualize Directory Structure | Online Free DevTools by Hexmos"
 name: tre
-path: /freedevtools/tldr/common/tre
+path: "/freedevtools/tldr/common/tre/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tre/"
 description: "Visualize directory structure with Tree Command. Explore file hierarchies and manage files efficiently using the tre command. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create Hard Link - File Linking Command | Online Free DevTools by Hexmos"
 name: link
-path: /freedevtools/tldr/common/link
+path: "/freedevtools/tldr/common/link/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/link/"
 description: "Create hard links to files with the 'link' command. Manage file system entries and improve storage efficiency. Free online tool, no registration required."
 category: common

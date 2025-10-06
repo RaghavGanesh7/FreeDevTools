@@ -1,7 +1,7 @@
 ---
 title: "Convert Filenames - Change Filename Encoding | Online Free DevTools by Hexmos"
 name: convmv
-path: /freedevtools/tldr/common/convmv
+path: "/freedevtools/tldr/common/convmv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/convmv/"
 description: "Convert filenames easily with convmv, a powerful command-line tool. Change filename encodings, fix character set issues, and batch rename files. Free online tool, no registration required."
 category: common

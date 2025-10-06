@@ -1,7 +1,7 @@
 ---
 title: "Synthesize Speech - Generate Audio from Text | Online Free DevTools by Hexmos"
 name: tts
-path: /freedevtools/tldr/common/tts
+path: "/freedevtools/tldr/common/tts/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tts/"
 description: "Synthesize speech with TTS. Convert text to speech, creating audio files using various models and configurations. Free online tool, no registration required."
 category: common

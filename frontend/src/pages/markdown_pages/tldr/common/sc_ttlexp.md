@@ -1,7 +1,7 @@
 ---
 title: "Sc_ttlexp - Dump TTL Expired Addresses | Online Free DevTools by Hexmos"
 name: sc_ttlexp
-path: /freedevtools/tldr/common/sc_ttlexp
+path: "/freedevtools/tldr/common/sc_ttlexp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_ttlexp/"
 description: "Dump TTL expired addresses with sc_ttlexp. Analyze ICMP TTL expired messages to identify source addresses. Free online tool, no registration required."
 category: common

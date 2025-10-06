@@ -1,7 +1,7 @@
 ---
 title: "Dump TLPDB - Generate TeX Live Database | Online Free DevTools by Hexmos"
 name: tlmgr-dump-tlpdb
-path: /freedevtools/tldr/tlmgr/tlmgr-dump-tlpdb
+path: "/freedevtools/tldr/tlmgr/tlmgr-dump-tlpdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-dump-tlpdb/"
 description: "Generate TeX Live package database with TLPDB Dump. Extract package information, analyze dependencies, and manage TeX Live installations. Free online tool, no registration required."
 category: common

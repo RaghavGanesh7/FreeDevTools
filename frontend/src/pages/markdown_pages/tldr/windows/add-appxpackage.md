@@ -1,7 +1,7 @@
 ---
 title: "Add AppxPackage - Install Windows Apps | Online Free DevTools by Hexmos"
 name: add-appxpackage
-path: /freedevtools/tldr/windows/add-appxpackage
+path: "/freedevtools/tldr/windows/add-appxpackage/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/add-appxpackage/"
 description: "Install AppxPackage apps with this PowerShell command. Deploy Windows apps and manage dependencies easily with Add-AppxPackage. Free online tool, no registration required."
 category: windows

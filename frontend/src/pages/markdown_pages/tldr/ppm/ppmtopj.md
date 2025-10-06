@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to PJ - Format Image Files | Online Free DevTools by Hexmos"
 name: ppmtopj
-path: /freedevtools/tldr/ppm/ppmtopj
+path: "/freedevtools/tldr/ppm/ppmtopj/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtopj/"
 description: "Convert PPM files with ppmtopj. Easily format image files from PPM to HP PaintJet format. Free online tool, no registration required."
 category: common

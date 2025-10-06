@@ -1,7 +1,7 @@
 ---
 title: "Alien - Convert Package Formats | Online Free DevTools by Hexmos"
 name: alien
-path: /freedevtools/tldr/linux/alien
+path: "/freedevtools/tldr/linux/alien/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/alien/"
 description: "Convert installation packages between Debian (.deb), Red Hat (.rpm), and Slackware (.tgz) formats with Alien.  Manage Linux software packages easily. Free online tool, no registration required."
 category: linux

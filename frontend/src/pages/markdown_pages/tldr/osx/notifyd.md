@@ -1,7 +1,7 @@
 ---
 title: "Control Notifications - Manage OSX Notifications | Online Free DevTools by Hexmos"
 name: notifyd
-path: /freedevtools/tldr/osx/notifyd
+path: "/freedevtools/tldr/osx/notifyd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/notifyd/"
 description: "Control system notifications with notifyd, the OSX notification server. Manage alerts, debug notification behavior, and configure logging. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Android Apps - Run and Control on Linux with Anbox | Online Free DevTools by Hexmos"
 name: anbox
-path: /freedevtools/tldr/linux/anbox
+path: "/freedevtools/tldr/linux/anbox/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/anbox/"
 description: "Run Android apps with Anbox on Linux. Execute applications and manage the Android environment seamlessly. Free online tool, no registration required."
 category: linux

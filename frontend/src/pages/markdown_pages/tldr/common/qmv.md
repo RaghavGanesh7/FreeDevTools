@@ -1,7 +1,7 @@
 ---
 title: "Qmv - Move Files Easily | Online Free DevTools by Hexmos"
 name: qmv
-path: /freedevtools/tldr/common/qmv
+path: "/freedevtools/tldr/common/qmv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qmv/"
 description: "Move files effortlessly with Qmv, a command-line tool for renaming files using your default text editor. Free online tool, no registration required."
 category: common

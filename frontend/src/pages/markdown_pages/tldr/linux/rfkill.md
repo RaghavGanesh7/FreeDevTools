@@ -1,7 +1,7 @@
 ---
 title: "Control Wireless Devices with rfkill | Online Free DevTools by Hexmos"
 name: rfkill
-path: /freedevtools/tldr/linux/rfkill
+path: "/freedevtools/tldr/linux/rfkill/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rfkill/"
 description: "Control wireless devices with the rfkill command.  Manage Bluetooth, Wi-Fi, and other wireless interfaces easily. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Autoscale - Create Pod Autoscalers | Online Free DevTools by Hexmos"
 name: kubectl-autoscale
-path: /freedevtools/tldr/kubectl/kubectl-autoscale
+path: "/freedevtools/tldr/kubectl/kubectl-autoscale/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-autoscale/"
 description: "Create pod autoscalers with Kubectl Autoscale. Intelligently scale Kubernetes deployments based on cluster demands. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "D-Bus Daemon - Control Message Bus | Online Free DevTools by Hexmos"
 name: dbus-daemon
-path: /freedevtools/tldr/linux/dbus-daemon
+path: "/freedevtools/tldr/linux/dbus-daemon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dbus-daemon/"
 description: "Control message exchange with D-Bus Daemon. Configure system-wide and session-specific message buses and manage process communication. Free online tool, no registration required."
 category: linux

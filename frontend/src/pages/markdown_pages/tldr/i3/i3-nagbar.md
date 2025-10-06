@@ -1,7 +1,7 @@
 ---
 title: "Display Error Bars - Control i3-nagbar Messages | Online Free DevTools by Hexmos"
 name: i3-nagbar
-path: /freedevtools/tldr/i3/i3-nagbar
+path: "/freedevtools/tldr/i3/i3-nagbar/"
 canonical: "https://hexmos.com/freedevtools/tldr/i3/i3-nagbar/"
 description: "Control error and warning messages with i3-nagbar, the bar display tool for i3 window manager. Customize message types and actions. Free online tool, no registration required."
 category: common

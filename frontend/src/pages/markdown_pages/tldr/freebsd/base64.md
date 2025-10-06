@@ -1,7 +1,7 @@
 ---
 title: "Base64 Encode & Decode - Convert Data Online | Online Free DevTools by Hexmos"
 name: base64
-path: /freedevtools/tldr/freebsd/base64
+path: "/freedevtools/tldr/freebsd/base64/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/base64/"
 description: "Encode and decode data with Base64. Securely transform information for transmission or storage, online and free. Free online tool, no registration required."
 category: freebsd

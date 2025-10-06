@@ -1,7 +1,7 @@
 ---
 title: "Launch PlatformIO Home - Manage Embedded Development | Online Free DevTools by Hexmos"
 name: pio-home
-path: /freedevtools/tldr/pio/pio-home
+path: "/freedevtools/tldr/pio/pio-home/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-home/"
 description: "Launch PlatformIO Home to manage embedded development environments with ease. Configure ports, bind IP addresses, and customize sessions. Free online tool, no registration required."
 category: common

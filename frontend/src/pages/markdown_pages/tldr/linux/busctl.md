@@ -1,7 +1,7 @@
 ---
 title: "Busctl - Introspect D-Bus Bus | Online Free DevTools by Hexmos"
 name: busctl
-path: /freedevtools/tldr/linux/busctl
+path: "/freedevtools/tldr/linux/busctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/busctl/"
 description: "Introspect D-Bus bus with Busctl. Monitor messages, inspect object trees, and retrieve properties of services. Free online tool, no registration required."
 category: linux

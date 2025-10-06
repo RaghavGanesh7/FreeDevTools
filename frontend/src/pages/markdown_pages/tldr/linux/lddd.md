@@ -1,7 +1,7 @@
 ---
 title: "Lddd - Find Broken Library Links | Online Free DevTools by Hexmos"
 name: lddd
-path: /freedevtools/tldr/linux/lddd
+path: "/freedevtools/tldr/linux/lddd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lddd/"
 description: "Find broken library links with Lddd, a Linux command-line tool for identifying packages needing rebuilds. Detect dependency issues quickly and efficiently. Free online tool, no registration required."
 category: linux

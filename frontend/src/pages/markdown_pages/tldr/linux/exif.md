@@ -1,7 +1,7 @@
 ---
 title: "Exif Editor - Change Image Metadata | Online Free DevTools by Hexmos"
 name: exif
-path: "/freedevtools/tldr/linux/exif"
+path: "/freedevtools/tldr/linux/exif/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/exif/"
 description: "Edit image metadata with Exif Editor. Change EXIF information in JPEG files quickly and easily. Free online tool, no registration required."
 category: linux

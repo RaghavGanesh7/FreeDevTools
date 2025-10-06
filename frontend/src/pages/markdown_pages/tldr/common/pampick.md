@@ -1,7 +1,7 @@
 ---
 title: "Pick Images - Extract PAM Images | Online Free DevTools by Hexmos"
 name: pampick
-path: /freedevtools/tldr/common/pampick
+path: "/freedevtools/tldr/common/pampick/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pampick/"
 description: "Extract PAM images with pampick. Select specific images from a multi-image Netpbm stream. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Browse SSH/VNC Servers - Control with bshell | Online Free DevTools by Hexmos"
 name: bshell
-path: /freedevtools/tldr/common/bshell
+path: "/freedevtools/tldr/common/bshell/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bshell/"
 description: "Browse SSH/VNC servers with bshell. Find and connect to local network servers easily. Discover SSH and VNC connections. Free online tool, no registration required."
 category: common

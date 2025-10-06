@@ -1,7 +1,7 @@
 ---
 title: "Generate Terraform Plan - Infrastructure as Code | Online Free DevTools by Hexmos"
 name: terraform-plan
-path: /freedevtools/tldr/terraform/terraform-plan
+path: "/freedevtools/tldr/terraform/terraform-plan/"
 canonical: "https://hexmos.com/freedevtools/tldr/terraform/terraform-plan/"
 description: "Generate Terraform execution plans instantly with Terraform Plan. Visualize changes before applying them, ensuring safe and predictable infrastructure updates. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "AWS Route53 - Control DNS Records | Online Free DevTools by Hexmos"
 name: aws-route53
-path: /freedevtools/tldr/aws/aws-route53
+path: "/freedevtools/tldr/aws/aws-route53/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-route53/"
 description: "Control DNS records with AWS Route53. Manage hosted zones and update record sets using the command line. Free online tool, no registration required."
 category: common

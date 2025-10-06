@@ -1,7 +1,7 @@
 ---
 title: "Netlify CLI - Control Netlify Deployments | Online Free DevTools by Hexmos"
 name: ntl
-path: /freedevtools/tldr/common/ntl
+path: "/freedevtools/tldr/common/ntl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ntl/"
 description: "Control Netlify deployments effortlessly with Netlify CLI. Manage sites, deploy previews, and automate workflows using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "UFW Firewall - Control Network Traffic with UFW | Online Free DevTools by Hexmos"
 name: ufw
-path: /freedevtools/tldr/linux/ufw
+path: "/freedevtools/tldr/linux/ufw/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ufw/"
 description: "Control network traffic easily with UFW Firewall. Manage rules, allow/deny connections and secure your system with this command-line tool. Free online tool, no registration required."
 category: linux

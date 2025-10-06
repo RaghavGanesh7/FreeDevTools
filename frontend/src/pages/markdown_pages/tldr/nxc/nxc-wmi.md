@@ -1,7 +1,7 @@
 ---
 title: "WMI Pentesting - Exploit WMI with NXC | Online Free DevTools by Hexmos"
 name: nxc-wmi
-path: /freedevtools/tldr/nxc/nxc-wmi
+path: "/freedevtools/tldr/nxc/nxc-wmi/"
 canonical: "https://hexmos.com/freedevtools/tldr/nxc/nxc-wmi/"
 description: "Exploit WMI with NXC using powerful penetration testing techniques. Access and control Windows systems remotely. Free online tool, no registration required."
 category: common

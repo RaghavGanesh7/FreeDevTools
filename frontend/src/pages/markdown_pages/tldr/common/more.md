@@ -1,7 +1,7 @@
 ---
 title: "File Pager - Display Files Interactively with More | Online Free DevTools by Hexmos"
 name: more
-path: /freedevtools/tldr/common/more
+path: "/freedevtools/tldr/common/more/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/more/"
 description: "Display files interactively with More, a command-line file pager for browsing and searching text files on Unix-like systems. Free online tool, no registration required."
 category: common

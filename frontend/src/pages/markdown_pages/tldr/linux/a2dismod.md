@@ -1,7 +1,7 @@
 ---
 title: "Disable Apache Module - Control Modules on Linux | Online Free DevTools by Hexmos"
 name: a2dismod
-path: /freedevtools/tldr/linux/a2dismod
+path: "/freedevtools/tldr/linux/a2dismod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/a2dismod/"
 description: "Disable Apache modules with a2dismod, a Linux command line tool. Easily manage web server configurations by enabling and disabling modules. Free online tool, no registration required."
 category: linux

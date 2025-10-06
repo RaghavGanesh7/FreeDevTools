@@ -1,7 +1,7 @@
 ---
 title: "Uptime - Monitor System Uptime and Load | Online Free DevTools by Hexmos"
 name: uptime
-path: /freedevtools/tldr/osx/uptime
+path: "/freedevtools/tldr/osx/uptime/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/uptime/"
 description: "Monitor system uptime with Uptime. Track server load, user sessions, and system health. Get real-time insights into your system's performance. Free online tool, no registration required."
 category: osx

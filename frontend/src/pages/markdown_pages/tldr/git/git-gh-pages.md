@@ -1,7 +1,7 @@
 ---
 title: "Create GitHub Pages - Manage Website Branch | Online Free DevTools by Hexmos"
 name: git-gh-pages
-path: /freedevtools/tldr/git/git-gh-pages
+path: "/freedevtools/tldr/git/git-gh-pages/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-gh-pages/"
 description: "Create a GitHub Pages branch with git-gh-pages. Easily deploy a website to GitHub using this command-line tool. Free online tool, no registration required."
 category: common

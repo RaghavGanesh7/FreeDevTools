@@ -1,7 +1,7 @@
 ---
 title: "Hexdump - Format Data in Hexadecimal | Online Free DevTools by Hexmos"
 name: hexdump
-path: /freedevtools/tldr/linux/hexdump
+path: "/freedevtools/tldr/linux/hexdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hexdump/"
 description: "Format data with hexdump, displaying hexadecimal and ASCII representations of files.  View and analyze file contents in detail with various options. Free online tool, no registration required."
 category: linux

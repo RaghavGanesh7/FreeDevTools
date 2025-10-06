@@ -1,7 +1,7 @@
 ---
 title: "NMTUI Edit - Control Network Connections | Online Free DevTools by Hexmos"
 name: nmtui-edit
-path: /freedevtools/tldr/linux/nmtui-edit
+path: "/freedevtools/tldr/linux/nmtui-edit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmtui-edit/"
 description: "Control network connections easily with NMTUI Edit. Configure network interfaces, manage profiles, and establish secure connections. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Brctl - Control Ethernet Bridges | Online Free DevTools by Hexmos"
 name: brctl
-path: /freedevtools/tldr/linux/brctl
+path: "/freedevtools/tldr/linux/brctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/brctl/"
 description: "Control network interfaces with Brctl, the Ethernet bridge administration tool. Easily manage bridge connections, add/remove interfaces. Free online tool, no registration required."
 category: linux

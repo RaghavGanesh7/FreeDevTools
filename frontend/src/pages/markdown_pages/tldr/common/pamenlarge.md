@@ -1,7 +1,7 @@
 ---
 title: "Enlarge PAM Image - Scale Pixel Art | Online Free DevTools by Hexmos"
 name: pamenlarge
-path: /freedevtools/tldr/common/pamenlarge
+path: "/freedevtools/tldr/common/pamenlarge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamenlarge/"
 description: "Enlarge PAM images with Pamenlarge, a pixel art scaler for Netpbm. Scale images proportionally or independently. Free online tool, no registration required."
 category: common

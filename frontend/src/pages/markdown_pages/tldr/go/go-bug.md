@@ -1,7 +1,7 @@
 ---
 title: "Create Go Bug Report - Submit Issues Easily | Online Free DevTools by Hexmos"
 name: go-bug
-path: /freedevtools/tldr/go/go-bug
+path: "/freedevtools/tldr/go/go-bug/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-bug/"
 description: "Create Go bug reports effortlessly with go-bug. Report compiler issues, runtime problems, and language feature requests. Free online tool, no registration required."
 category: common

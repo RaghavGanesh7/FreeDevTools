@@ -1,7 +1,7 @@
 ---
 title: "Paste Tool - Merge File Lines | Online Free DevTools by Hexmos"
 name: paste
-path: /freedevtools/tldr/common/paste
+path: "/freedevtools/tldr/common/paste/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/paste/"
 description: "Merge file lines with Paste. Combine text files, specify delimiters, and create formatted output with this versatile command-line tool. Free online tool, no registration required."
 category: common

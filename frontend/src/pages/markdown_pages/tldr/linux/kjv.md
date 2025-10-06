@@ -1,7 +1,7 @@
 ---
 title: "Access KJV Bible - Read Scriptures on Your Desktop | Online Free DevTools by Hexmos"
 name: kjv
-path: /freedevtools/tldr/linux/kjv
+path: "/freedevtools/tldr/linux/kjv/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kjv/"
 description: "Access KJV Bible verses directly from your desktop with KJV. A command-line tool for scripture lookup and study. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "SPCtl - Control Security Policy | Online Free DevTools by Hexmos"
 name: spctl
-path: /freedevtools/tldr/osx/spctl
+path: "/freedevtools/tldr/osx/spctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/spctl/"
 description: "Control macOS security policy with SPCtl. Manage Gatekeeper settings, add rules for application execution and enhance system security. Free online tool, no registration required."
 category: osx

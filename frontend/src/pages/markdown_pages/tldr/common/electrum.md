@@ -1,7 +1,7 @@
 ---
 title: "Create Electrum Wallet - Manage Keys | Online Free DevTools by Hexmos"
 name: electrum
-path: /freedevtools/tldr/common/electrum
+path: "/freedevtools/tldr/common/electrum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/electrum/"
 description: "Create Bitcoin wallets securely with Electrum. Manage private keys, sign transactions offline, and verify messages. Free online tool, no registration required."
 category: common

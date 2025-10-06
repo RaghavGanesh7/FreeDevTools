@@ -1,7 +1,7 @@
 ---
 title: "Generate Karabiner Config - Goku | Online Free DevTools by Hexmos"
 name: goku
-path: /freedevtools/tldr/osx/goku
+path: "/freedevtools/tldr/osx/goku/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/goku/"
 description: "Generate Karabiner configurations with Goku. Customize keyboard mappings and streamline input behavior using a simple command-line interface. Free online tool, no registration required."
 category: osx

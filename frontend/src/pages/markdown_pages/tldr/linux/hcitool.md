@@ -1,7 +1,7 @@
 ---
 title: "Control Bluetooth Devices - hcitool Command | Online Free DevTools by Hexmos"
 name: hcitool
-path: /freedevtools/tldr/linux/hcitool
+path: "/freedevtools/tldr/linux/hcitool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hcitool/"
 description: "Control Bluetooth devices with hcitool. Monitor connections, configure settings, and send commands to Bluetooth devices. Free online tool, no registration required."
 category: linux

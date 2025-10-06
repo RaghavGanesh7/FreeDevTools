@@ -1,7 +1,7 @@
 ---
 title: "Generate xxHash Checksums - Verify File Integrity | Online Free DevTools by Hexmos"
 name: xxhsum
-path: /freedevtools/tldr/linux/xxhsum
+path: "/freedevtools/tldr/linux/xxhsum/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xxhsum/"
 description: "Generate file checksums with xxhsum, a fast non-cryptographic hashing algorithm. Ensure data integrity and detect file corruption quickly. Free online tool, no registration required."
 category: linux

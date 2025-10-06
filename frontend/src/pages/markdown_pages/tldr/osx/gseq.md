@@ -1,7 +1,7 @@
 ---
 title: "Generate Number Sequences - gseq | Online Free DevTools by Hexmos"
 name: gseq
-path: /freedevtools/tldr/osx/gseq
+path: "/freedevtools/tldr/osx/gseq/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gseq/"
 description: "Generate number sequences with gseq, an alias of the GNU seq command. Manipulate numerical data and automate repetitive tasks. Free online tool, no registration required."
 category: osx

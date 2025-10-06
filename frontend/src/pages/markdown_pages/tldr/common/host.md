@@ -1,7 +1,7 @@
 ---
 title: "Host Lookup - Query DNS Records | Online Free DevTools by Hexmos"
 name: host
-path: /freedevtools/tldr/common/host
+path: "/freedevtools/tldr/common/host/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/host/"
 description: "Lookup DNS records with Host Lookup. Resolve domain names to IP addresses and retrieve different DNS record types. Free online tool, no registration required."
 category: common

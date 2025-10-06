@@ -1,7 +1,7 @@
 ---
 title: "Control Commands - Betty Natural Language Interface | Online Free DevTools by Hexmos"
 name: betty
-path: /freedevtools/tldr/common/betty
+path: "/freedevtools/tldr/common/betty/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/betty/"
 description: "Control commands using natural language with Betty. Execute commands and download files easily with a user-friendly interface. Free online tool, no registration required."
 category: common

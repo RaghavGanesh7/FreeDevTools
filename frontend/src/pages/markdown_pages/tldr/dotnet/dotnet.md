@@ -1,7 +1,7 @@
 ---
 title: "Dotnet - Create .NET Projects | Online Free DevTools by Hexmos"
 name: dotnet
-path: /freedevtools/tldr/dotnet/dotnet
+path: "/freedevtools/tldr/dotnet/dotnet/"
 canonical: "https://hexmos.com/freedevtools/tldr/dotnet/dotnet/"
 description: "Create and manage .NET projects with Dotnet. Build, run, and restore NuGet packages easily using this cross-platform tool. Free online tool, no registration required."
 category: common

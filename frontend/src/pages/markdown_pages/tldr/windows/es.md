@@ -1,7 +1,7 @@
 ---
 title: "Everything Search - Find Files Quickly | Online Free DevTools by Hexmos"
 name: es
-path: "/freedevtools/tldr/windows/es"
+path: "/freedevtools/tldr/windows/es/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/es/"
 description: "Search Everything files and folders with the Everything command-line interface. Quickly locate files and refine searches using regex. Free online tool, no registration required."
 category: windows

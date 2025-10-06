@@ -1,7 +1,7 @@
 ---
 title: "Konsole - Control Linux Terminal Sessions | Online Free DevTools by Hexmos"
 name: konsole
-path: /freedevtools/tldr/linux/konsole
+path: "/freedevtools/tldr/linux/konsole/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/konsole/"
 description: "Control Linux terminal sessions with Konsole. Manage multiple tabs, execute commands remotely, and customize your terminal environment. Free online tool, no registration required."
 category: linux

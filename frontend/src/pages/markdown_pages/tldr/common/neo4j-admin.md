@@ -1,7 +1,7 @@
 ---
 title: "Neo4j Admin - Manage Database Instances | Online Free DevTools by Hexmos"
 name: neo4j-admin
-path: /freedevtools/tldr/common/neo4j-admin
+path: "/freedevtools/tldr/common/neo4j-admin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/neo4j-admin/"
 description: "Manage Neo4j database instances with neo4j-admin. Control startup, shutdown, and password settings using command line. Free online tool, no registration required."
 category: common

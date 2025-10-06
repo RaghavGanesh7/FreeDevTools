@@ -1,7 +1,7 @@
 ---
 title: "View Slurm Info - Control Cluster Status | Online Free DevTools by Hexmos"
 name: sinfo
-path: /freedevtools/tldr/linux/sinfo
+path: "/freedevtools/tldr/linux/sinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sinfo/"
 description: "View Slurm cluster information with Sinfo. Monitor partition status, node availability, and resource allocation effectively with this Slurm command. Free online tool, no registration required."
 category: linux

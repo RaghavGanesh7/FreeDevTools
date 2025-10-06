@@ -1,7 +1,7 @@
 ---
 title: "List Files - Find Files with mdfind on macOS | Online Free DevTools by Hexmos"
 name: mdfind
-path: /freedevtools/tldr/osx/mdfind
+path: "/freedevtools/tldr/osx/mdfind/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mdfind/"
 description: "Find files instantly with mdfind. Search files by name, content, or location on macOS. Free online tool, no registration required."
 category: osx

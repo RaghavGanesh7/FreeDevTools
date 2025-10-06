@@ -1,7 +1,7 @@
 ---
 title: "Enlarge PBM Image - Scale Images with Edge Smoothing | Online Free DevTools by Hexmos"
 name: pbmpscale
-path: "/freedevtools/tldr/common/pbmpscale"
+path: "/freedevtools/tldr/common/pbmpscale/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmpscale/"
 description: "Enlarge PBM images with pbmpscale, a Netpbm tool for scaling images with edge smoothing. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Web Extension Manager - Control Firefox Extensions | Online Free DevTools by Hexmos"
 name: web-ext
-path: /freedevtools/tldr/common/web-ext
+path: "/freedevtools/tldr/common/web-ext/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/web-ext/"
 description: "Control web extension development with Web Ext Manager. Build, run, lint, and sign your Firefox extensions easily. Free online tool, no registration required."
 category: common

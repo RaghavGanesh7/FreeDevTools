@@ -1,7 +1,7 @@
 ---
 title: "RTCWake - Control System Sleep States | Online Free DevTools by Hexmos"
 name: rtcwake
-path: /freedevtools/tldr/linux/rtcwake
+path: "/freedevtools/tldr/linux/rtcwake/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rtcwake/"
 description: "Control system sleep states with RTCWake. Schedule wake-up times, manage power saving modes, and disable alarms on Linux. Free online tool, no registration required."
 category: linux

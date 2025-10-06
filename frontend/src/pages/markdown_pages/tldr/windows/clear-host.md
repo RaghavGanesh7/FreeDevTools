@@ -1,7 +1,7 @@
 ---
 title: "Clear-Host - Clear Screen in PowerShell | Online Free DevTools by Hexmos"
 name: clear-host
-path: /freedevtools/tldr/windows/clear-host
+path: "/freedevtools/tldr/windows/clear-host/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/clear-host/"
 description: "Clear screen instantly with Clear-Host in PowerShell. Streamline your command-line workflow and improve readability. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Search and Replace - Control Text with Ned | Online Free DevTools by Hexmos"
 name: ned
-path: /freedevtools/tldr/common/ned
+path: "/freedevtools/tldr/common/ned/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ned/"
 description: "Control text with Ned, a powerful search and replace command line tool. Edit text recursively and non-linearly. Free online tool, no registration required."
 category: common

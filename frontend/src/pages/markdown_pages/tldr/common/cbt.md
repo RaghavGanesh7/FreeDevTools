@@ -1,7 +1,7 @@
 ---
 title: "CBT - Read Bigtable Data | Online Free DevTools by Hexmos"
 name: cbt
-path: /freedevtools/tldr/common/cbt
+path: "/freedevtools/tldr/common/cbt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cbt/"
 description: "Read Bigtable data efficiently with CBT. Retrieve rows, count records, and filter columns from Google Cloud Bigtable. Free online tool, no registration required."
 category: common

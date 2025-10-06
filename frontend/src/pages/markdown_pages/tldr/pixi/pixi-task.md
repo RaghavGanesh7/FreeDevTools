@@ -1,7 +1,7 @@
 ---
 title: "Pixi Task - Manage Project Tasks | Online Free DevTools by Hexmos"
 name: pixi-task
-path: /freedevtools/tldr/pixi/pixi-task
+path: "/freedevtools/tldr/pixi/pixi-task/"
 canonical: "https://hexmos.com/freedevtools/tldr/pixi/pixi-task/"
 description: "Manage project tasks easily with Pixi Task. Automate workflows and streamline development using simple commands. Free online tool, no registration required."
 category: common

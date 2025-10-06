@@ -1,7 +1,7 @@
 ---
 title: "Systemd-notify - Control Service Status | Online Free DevTools by Hexmos"
 name: systemd-notify
-path: /freedevtools/tldr/linux/systemd-notify
+path: "/freedevtools/tldr/linux/systemd-notify/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-notify/"
 description: "Control systemd service status with systemd-notify. Notify service manager, signal readiness and provide custom messages. Free online tool, no registration required."
 category: linux

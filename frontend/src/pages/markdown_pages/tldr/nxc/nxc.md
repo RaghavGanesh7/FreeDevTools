@@ -1,7 +1,7 @@
 ---
 title: "NetExec NXC - Enumerate Network Services | Online Free DevTools by Hexmos"
 name: nxc
-path: /freedevtools/tldr/nxc/nxc
+path: "/freedevtools/tldr/nxc/nxc/"
 canonical: "https://hexmos.com/freedevtools/tldr/nxc/nxc/"
 description: "Enumerate network services with NetExec NXC. Discover vulnerabilities and exploit target systems through various protocols. Free online tool, no registration required."
 category: common

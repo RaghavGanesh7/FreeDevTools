@@ -1,7 +1,7 @@
 ---
 title: "ESP8266 Flash Tool - Control ESP Chip Programming | Online Free DevTools by Hexmos"
 name: esptool.py
-path: /freedevtools/tldr/common/esptool-py
+path: "/freedevtools/tldr/common/esptool-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/esptool-py/"
 description: "Control ESP chip programming with ESP8266 Flash Tool. Program firmware, erase flash and configure ESP devices using command line. Free online tool, no registration required."
 category: common

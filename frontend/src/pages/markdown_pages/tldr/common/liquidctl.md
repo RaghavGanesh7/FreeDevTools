@@ -1,7 +1,7 @@
 ---
 title: "Liquid Cooler Control - Manage Cooling Systems | Online Free DevTools by Hexmos"
 name: liquidctl
-path: /freedevtools/tldr/common/liquidctl
+path: "/freedevtools/tldr/common/liquidctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/liquidctl/"
 description: "Control liquid coolers with liquidctl. Monitor temperatures, adjust fan speeds, and optimize cooling performance. Free online tool, no registration required."
 category: common

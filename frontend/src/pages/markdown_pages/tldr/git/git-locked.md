@@ -1,7 +1,7 @@
 ---
 title: "List Git Locked Files - Manage Repository Locks | Online Free DevTools by Hexmos"
 name: git-locked
-path: /freedevtools/tldr/git/git-locked
+path: "/freedevtools/tldr/git/git-locked/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-locked/"
 description: "List Git locked files with Git Locked. Manage repository access and identify locked files quickly and easily. Free online tool, no registration required."
 category: common

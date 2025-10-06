@@ -1,7 +1,7 @@
 ---
 title: "QM Unlink - Unlink Virtual Machine Disks | Online Free DevTools by Hexmos"
 name: qm-unlink
-path: /freedevtools/tldr/linux/qm-unlink
+path: "/freedevtools/tldr/linux/qm-unlink/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-unlink/"
 description: "Unlink virtual machine disks with QM Unlink. Manage and detach unused virtual machine storage on Linux systems. Free online tool, no registration required."
 category: linux

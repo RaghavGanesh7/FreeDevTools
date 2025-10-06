@@ -1,7 +1,7 @@
 ---
 title: "Brotli Compress - Create Brotli Archives | Online Free DevTools by Hexmos"
 name: brotli
-path: /freedevtools/tldr/common/brotli
+path: "/freedevtools/tldr/common/brotli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/brotli/"
 description: "Compress files with Brotli using Brotli command-line tool. Create and decompress Brotli archives efficiently. Free online tool, no registration required."
 category: common

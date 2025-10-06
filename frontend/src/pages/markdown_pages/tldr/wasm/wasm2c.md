@@ -1,7 +1,7 @@
 ---
 title: "Generate C Code - wasm2c WebAssembly to C | Online Free DevTools by Hexmos"
 name: wasm2c
-path: /freedevtools/tldr/wasm/wasm2c
+path: "/freedevtools/tldr/wasm/wasm2c/"
 canonical: "https://hexmos.com/freedevtools/tldr/wasm/wasm2c/"
 description: "Generate C code with wasm2c. Easily convert WebAssembly binaries to readable C source and header files for cross-platform development. Free online tool, no registration required."
 category: common

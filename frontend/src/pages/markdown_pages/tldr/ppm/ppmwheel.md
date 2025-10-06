@@ -1,7 +1,7 @@
 ---
 title: "Generate PPM Color Wheel - Image Creation | Online Free DevTools by Hexmos"
 name: ppmwheel
-path: /freedevtools/tldr/ppm/ppmwheel
+path: "/freedevtools/tldr/ppm/ppmwheel/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmwheel/"
 description: "Generate color wheel images with ppmwheel. Create various PPM image formats, including Ppmcirc, Hue-value, and Hue-saturation. Free online tool, no registration required."
 category: common

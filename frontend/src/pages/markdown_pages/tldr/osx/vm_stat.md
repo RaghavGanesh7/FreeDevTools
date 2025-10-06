@@ -1,7 +1,7 @@
 ---
 title: "VMStat - Monitor Virtual Memory Statistics | Online Free DevTools by Hexmos"
 name: vm_stat
-path: /freedevtools/tldr/osx/vm_stat
+path: "/freedevtools/tldr/osx/vm_stat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/vm_stat/"
 description: "Monitor virtual memory with VMStat. Analyze memory usage, identify bottlenecks, and optimize performance using command-line. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Transform CSS Styles - Control with PostCSS | Online Free DevTools by Hexmos"
 name: postcss
-path: /freedevtools/tldr/common/postcss
+path: "/freedevtools/tldr/common/postcss/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/postcss/"
 description: "Transform CSS styles with PostCSS. Automate CSS processing and enhance your workflow using JavaScript plugins. Free online tool, no registration required."
 category: common

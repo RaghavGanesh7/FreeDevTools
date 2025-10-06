@@ -1,7 +1,7 @@
 ---
 title: "List Sockets - Monitor Network Sockets with sockstat | Online Free DevTools by Hexmos"
 name: sockstat
-path: /freedevtools/tldr/netbsd/sockstat
+path: "/freedevtools/tldr/netbsd/sockstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/netbsd/sockstat/"
 description: "Monitor network sockets on NetBSD with sockstat. Analyze network connections and troubleshoot network issues using socket information. Free online tool, no registration required."
 category: netbsd

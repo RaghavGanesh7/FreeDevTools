@@ -1,7 +1,7 @@
 ---
 title: "Manage Markdown Notes - QOwnNotes Editor | Online Free DevTools by Hexmos"
 name: qownnotes
-path: /freedevtools/tldr/common/qownnotes
+path: "/freedevtools/tldr/common/qownnotes/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qownnotes/"
 description: "Manage markdown notes efficiently with QOwnNotes. Organize, edit, and integrate with cloud services for seamless note-taking. Free online tool, no registration required."
 category: common

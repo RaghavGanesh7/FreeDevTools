@@ -1,7 +1,7 @@
 ---
 title: "Convert ThinkJet - Create PBM from HP ThinkJet | Online Free DevTools by Hexmos"
 name: thinkjettopbm
-path: /freedevtools/tldr/common/thinkjettopbm
+path: "/freedevtools/tldr/common/thinkjettopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/thinkjettopbm/"
 description: "Convert ThinkJet printer command files to PBM images with Thinkjettopbm. Ideal for legacy printer support. Free online tool, no registration required."
 category: common

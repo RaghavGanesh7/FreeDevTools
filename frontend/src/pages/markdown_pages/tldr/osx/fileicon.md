@@ -1,7 +1,7 @@
 ---
 title: "Manage File Icons - Customize Icons on macOS | Online Free DevTools by Hexmos"
 name: fileicon
-path: /freedevtools/tldr/osx/fileicon
+path: "/freedevtools/tldr/osx/fileicon/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/fileicon/"
 description: "Manage file icons with fileicon. Customize macOS file and folder icons using the command line. Free online tool, no registration required."
 category: osx

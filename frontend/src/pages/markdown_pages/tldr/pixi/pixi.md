@@ -1,7 +1,7 @@
 ---
 title: "Pixi - Manage Project Environments | Online Free DevTools by Hexmos"
 name: pixi
-path: /freedevtools/tldr/pixi/pixi
+path: "/freedevtools/tldr/pixi/pixi/"
 canonical: "https://hexmos.com/freedevtools/tldr/pixi/pixi/"
 description: "Manage project environments easily with Pixi. Streamline development workflows, add dependencies, and run tasks effortlessly. Free online tool, no registration required."
 category: common

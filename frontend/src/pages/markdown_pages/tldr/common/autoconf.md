@@ -1,7 +1,7 @@
 ---
 title: "Generate Configuration Scripts with Autoconf | Online Free DevTools by Hexmos"
 name: autoconf
-path: /freedevtools/tldr/common/autoconf
+path: "/freedevtools/tldr/common/autoconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/autoconf/"
 description: "Generate configuration scripts with Autoconf for automated software builds. Streamline software compilation across diverse systems. Free online tool, no registration required."
 category: common

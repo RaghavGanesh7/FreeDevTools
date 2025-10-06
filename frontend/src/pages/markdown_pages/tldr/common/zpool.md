@@ -1,7 +1,7 @@
 ---
 title: "Zpool - Manage ZFS Pools | Online Free DevTools by Hexmos"
 name: zpool
-path: /freedevtools/tldr/common/zpool
+path: "/freedevtools/tldr/common/zpool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zpool/"
 description: "Manage ZFS pools easily with Zpool. Control storage configuration and status of ZFS. Free online tool, no registration required."
 category: common

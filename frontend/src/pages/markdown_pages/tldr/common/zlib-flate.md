@@ -1,7 +1,7 @@
 ---
 title: "Compress Zlib - Flate Files | Online Free DevTools by Hexmos"
 name: zlib-flate
-path: /freedevtools/tldr/common/zlib-flate
+path: "/freedevtools/tldr/common/zlib-flate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zlib-flate/"
 description: "Compress files with Zlib-Flate, a versatile compression and decompression tool. Efficiently manage file sizes and reduce storage space. Free online tool, no registration required."
 category: common

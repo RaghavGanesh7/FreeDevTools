@@ -1,7 +1,7 @@
 ---
 title: "Control SQL Databases - Universal CLI with usql | Online Free DevTools by Hexmos"
 name: usql
-path: /freedevtools/tldr/common/usql
+path: "/freedevtools/tldr/common/usql/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/usql/"
 description: "Control SQL databases with usql. Connect to various databases, execute SQL commands, and manage database schema. Free online tool, no registration required."
 category: common

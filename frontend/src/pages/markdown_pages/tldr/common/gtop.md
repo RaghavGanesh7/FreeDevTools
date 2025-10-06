@@ -1,7 +1,7 @@
 ---
 title: "System Monitor - Control System Processes with gtop | Online Free DevTools by Hexmos"
 name: gtop
-path: /freedevtools/tldr/common/gtop
+path: "/freedevtools/tldr/common/gtop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gtop/"
 description: "Control system processes in your terminal with gtop System Monitor. Monitor CPU, memory, and processes in a user-friendly dashboard. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Poweroff System - Halt Linux Instantly | Online Free DevTools by Hexmos"
 name: poweroff
-path: /freedevtools/tldr/linux/poweroff
+path: "/freedevtools/tldr/linux/poweroff/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/poweroff/"
 description: "Poweroff system with Poweroff. Halt, reboot, or force shutdown of Linux machines using command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Compare Diffs - Show Differences Between Files | Online Free DevTools by Hexmos"
 name: interdiff
-path: /freedevtools/tldr/in/interdiff
+path: "/freedevtools/tldr/in/interdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/in/interdiff/"
 description: "Compare diffs with Interdiff. Reveal the differences between two patch files, aiding code review and debugging. Free online tool, no registration required."
 category: common

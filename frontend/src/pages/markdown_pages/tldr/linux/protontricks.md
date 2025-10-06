@@ -1,7 +1,7 @@
 ---
 title: "Protontricks - Run Winetricks for Proton Games | Online Free DevTools by Hexmos"
 name: protontricks
-path: /freedevtools/tldr/linux/protontricks
+path: "/freedevtools/tldr/linux/protontricks/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/protontricks/"
 description: "Manage Wine configurations for Proton games with Protontricks.  Easily run Winetricks commands and control game settings. Free online tool, no registration required."
 category: linux

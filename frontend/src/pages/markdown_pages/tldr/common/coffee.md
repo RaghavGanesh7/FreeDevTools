@@ -1,7 +1,7 @@
 ---
 title: "Compile CoffeeScript - Convert to JavaScript | Online Free DevTools by Hexmos"
 name: coffee
-path: "/freedevtools/tldr/common/coffee"
+path: "/freedevtools/tldr/common/coffee/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/coffee/"
 description: "Convert CoffeeScript to JavaScript with Coffee. Compile CoffeeScript files directly to JavaScript for seamless integration. Free online tool, no registration required."
 category: common

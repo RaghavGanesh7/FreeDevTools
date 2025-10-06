@@ -1,7 +1,7 @@
 ---
 title: "CPU Frequency Info - Check CPU Speed | Online Free DevTools by Hexmos"
 name: cpufreq-info
-path: /freedevtools/tldr/linux/cpufreq-info
+path: "/freedevtools/tldr/linux/cpufreq-info/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cpufreq-info/"
 description: "Check CPU frequency information with cpufreq-info.  Get details on CPU speed, governors, and limits. Free online tool, no registration required."
 category: linux

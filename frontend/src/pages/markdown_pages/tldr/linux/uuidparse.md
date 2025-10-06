@@ -1,7 +1,7 @@
 ---
 title: "UUID Parser - Parse UUIDs with uuidparse | Online Free DevTools by Hexmos"
 name: uuidparse
-path: /freedevtools/tldr/linux/uuidparse
+path: "/freedevtools/tldr/linux/uuidparse/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uuidparse/"
 description: "Parse UUIDs efficiently with the uuidparse command-line tool.  Format, validate, and output UUID data in various formats. Free online tool, no registration required."
 category: linux

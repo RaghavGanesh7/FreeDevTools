@@ -1,7 +1,7 @@
 ---
 title: "View Files - Interactive File Viewer with Most | Online Free DevTools by Hexmos"
 name: most
-path: /freedevtools/tldr/common/most
+path: "/freedevtools/tldr/common/most/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/most/"
 description: "View files interactively with Most. A powerful file viewer for scrolling, searching, and navigating multiple files with ease. Free online tool, no registration required."
 category: common

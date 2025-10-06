@@ -1,7 +1,7 @@
 ---
 title: "WireGuard Control - Manage VPN Interfaces | Online Free DevTools by Hexmos"
 name: wg
-path: /freedevtools/tldr/linux/wg
+path: "/freedevtools/tldr/linux/wg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wg/"
 description: "Manage WireGuard VPN interfaces with wg. Generate keys and view configurations securely. Free online tool, no registration required."
 category: linux

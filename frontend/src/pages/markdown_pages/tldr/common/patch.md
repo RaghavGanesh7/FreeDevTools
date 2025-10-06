@@ -1,7 +1,7 @@
 ---
 title: "Patch File - Apply Diff Patches | Online Free DevTools by Hexmos"
 name: patch
-path: /freedevtools/tldr/common/patch
+path: "/freedevtools/tldr/common/patch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/patch/"
 description: "Apply file patches with patch command. Revert changes, create new files, and update code bases quickly. Free online tool, no registration required."
 category: common

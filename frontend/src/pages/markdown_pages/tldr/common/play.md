@@ -1,7 +1,7 @@
 ---
 title: "Play Audio Files - Control Sound with SoX | Online Free DevTools by Hexmos"
 name: play
-path: /freedevtools/tldr/common/play
+path: "/freedevtools/tldr/common/play/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/play/"
 description: "Control audio files with SoX Play. Play, reverse, and adjust the speed of audio files effortlessly using command line. Free online tool, no registration required."
 category: common

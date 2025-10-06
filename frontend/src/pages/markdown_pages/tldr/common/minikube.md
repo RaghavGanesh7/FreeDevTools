@@ -1,7 +1,7 @@
 ---
 title: "Minikube - Run Kubernetes Locally | Online Free DevTools by Hexmos"
 name: minikube
-path: /freedevtools/tldr/common/minikube
+path: "/freedevtools/tldr/common/minikube/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minikube/"
 description: "Run Kubernetes clusters locally with Minikube. Simplify Kubernetes development and testing on your machine. Free online tool, no registration required."
 category: common

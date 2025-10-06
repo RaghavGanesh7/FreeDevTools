@@ -1,7 +1,7 @@
 ---
 title: "Track Termination - Control Notifications with ntfyme | Online Free DevTools by Hexmos"
 name: ntfyme
-path: /freedevtools/tldr/common/ntfyme
+path: "/freedevtools/tldr/common/ntfyme/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ntfyme/"
 description: "Control command execution with Ntfyme. Get success/error notifications via Gmail or Telegram for long-running processes. Free online tool, no registration required."
 category: common

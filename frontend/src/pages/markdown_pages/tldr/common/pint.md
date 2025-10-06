@@ -1,7 +1,7 @@
 ---
 title: "Format PHP Code - Pint Code Style Fixer | Online Free DevTools by Hexmos"
 name: pint
-path: /freedevtools/tldr/common/pint
+path: "/freedevtools/tldr/common/pint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pint/"
 description: "Format PHP code with Pint, an opinionated PHP code style fixer. Enhance code readability and consistency using Laravel Pint. Free online tool, no registration required."
 category: common

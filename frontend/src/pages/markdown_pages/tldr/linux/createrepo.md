@@ -1,7 +1,7 @@
 ---
 title: "Create RPM Repository - Initialize Packages on Linux | Online Free DevTools by Hexmos"
 name: createrepo
-path: /freedevtools/tldr/linux/createrepo
+path: "/freedevtools/tldr/linux/createrepo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/createrepo/"
 description: "Create RPM repository with createrepo. Quickly initialize package metadata for your Linux distributions. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Import - Import Resources | Online Free DevTools by Hexmos"
 name: pulumi-import
-path: /freedevtools/tldr/pulumi/pulumi-import
+path: "/freedevtools/tldr/pulumi/pulumi-import/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-import/"
 description: "Import resources with Pulumi Import. Manage cloud infrastructure by importing existing resources into your Pulumi stack with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Sleep Command - Control Process Timing | Online Free DevTools by Hexmos"
 name: sleep
-path: /freedevtools/tldr/linux/sleep
+path: "/freedevtools/tldr/linux/sleep/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sleep/"
 description: "Control process timing with the Sleep command.  Pause execution for specified durations using seconds, minutes, hours, or days. Free online tool, no registration required."
 category: linux

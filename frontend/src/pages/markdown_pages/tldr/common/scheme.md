@@ -1,7 +1,7 @@
 ---
 title: "Scheme Interpreter - Execute Code | Online Free DevTools by Hexmos"
 name: scheme
-path: /freedevtools/tldr/common/scheme
+path: "/freedevtools/tldr/common/scheme/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scheme/"
 description: "Execute Scheme code instantly with Scheme Interpreter. Run scripts, load programs, and evaluate expressions using the command line. Free online tool, no registration required."
 category: common

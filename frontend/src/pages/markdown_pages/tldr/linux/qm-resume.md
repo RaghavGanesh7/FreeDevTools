@@ -1,7 +1,7 @@
 ---
 title: "VM Resume - Control Virtual Machines on Linux | Online Free DevTools by Hexmos"
 name: qm-resume
-path: /freedevtools/tldr/linux/qm-resume
+path: "/freedevtools/tldr/linux/qm-resume/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-resume/"
 description: "Control virtual machines with VM Resume. Manage virtual machines, ignoring locks on Proxmox via command line. Free online tool, no registration required."
 category: linux

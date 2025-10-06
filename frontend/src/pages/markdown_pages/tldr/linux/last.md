@@ -1,7 +1,7 @@
 ---
 title: "Last Command - View User Logins | Online Free DevTools by Hexmos"
 name: last
-path: "/freedevtools/tldr/linux/last"
+path: "/freedevtools/tldr/linux/last/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/last/"
 description: "View user login details with the Last Command. Analyze login history, track user activity and audit system access effectively. Free online tool, no registration required."
 category: linux

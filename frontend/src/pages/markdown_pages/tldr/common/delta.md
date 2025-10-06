@@ -1,7 +1,7 @@
 ---
 title: "Compare Diffs - View Git & Diff Output | Online Free DevTools by Hexmos"
 name: delta
-path: /freedevtools/tldr/common/delta
+path: "/freedevtools/tldr/common/delta/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/delta/"
 description: "Compare code diffs with Delta, a Git and diff output viewer. Analyze changes and identify issues. Free online tool, no registration required."
 category: common

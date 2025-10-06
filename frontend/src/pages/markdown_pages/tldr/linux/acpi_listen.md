@@ -1,7 +1,7 @@
 ---
 title: "Listen to ACPI Events - Monitor System Events | Online Free DevTools by Hexmos"
 name: acpi_listen
-path: /freedevtools/tldr/linux/acpi_listen
+path: "/freedevtools/tldr/linux/acpi_listen/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/acpi_listen/"
 description: "Monitor system events with acpi_listen.  This command-line tool provides real-time feedback on ACPI activity. Free online tool, no registration required."
 category: linux

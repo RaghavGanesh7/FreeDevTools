@@ -1,7 +1,7 @@
 ---
 title: "Control Hard Drive Parameters - hdparm | Online Free DevTools by Hexmos"
 name: hdparm
-path: /freedevtools/tldr/linux/hdparm
+path: "/freedevtools/tldr/linux/hdparm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hdparm/"
 description: "Control hard drive parameters with hdparm, set SATA and IDE drive settings for power management and performance tuning. Free online tool, no registration required."
 category: linux

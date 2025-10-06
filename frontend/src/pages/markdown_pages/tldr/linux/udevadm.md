@@ -1,7 +1,7 @@
 ---
 title: "udevadm - Manage Linux Devices | Online Free DevTools by Hexmos"
 name: udevadm
-path: /freedevtools/tldr/linux/udevadm
+path: "/freedevtools/tldr/linux/udevadm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/udevadm/"
 description: "Manage Linux devices with udevadm, the udev device manager. Monitor events, list attributes, and trigger rules. Free online tool, no registration required."
 category: linux

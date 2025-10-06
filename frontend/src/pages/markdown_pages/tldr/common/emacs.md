@@ -1,7 +1,7 @@
 ---
 title: "Emacs Editor - Control Text Editing | Online Free DevTools by Hexmos"
 name: emacs
-path: /freedevtools/tldr/common/emacs
+path: "/freedevtools/tldr/common/emacs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/emacs/"
 description: "Control text editing with Emacs Editor, the extensible text editor. Edit files, run scripts, and manage Emacs server instances quickly. Free online tool, no registration required."
 category: common

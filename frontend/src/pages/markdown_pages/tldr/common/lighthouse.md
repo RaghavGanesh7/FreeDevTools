@@ -1,7 +1,7 @@
 ---
 title: "Lighthouse - Generate Website Performance Reports | Online Free DevTools by Hexmos"
 name: lighthouse
-path: /freedevtools/tldr/common/lighthouse
+path: "/freedevtools/tldr/common/lighthouse/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lighthouse/"
 description: "Generate website performance reports with Lighthouse. Analyze performance metrics and gain insights on developer best practices with this free online tool, no registration required."
 category: common

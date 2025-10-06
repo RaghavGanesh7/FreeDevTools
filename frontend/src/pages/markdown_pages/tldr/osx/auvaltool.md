@@ -1,7 +1,7 @@
 ---
 title: "AudioUnit Validate - Validate Audio Units on macOS | Online Free DevTools by Hexmos"
 name: auvaltool
-path: /freedevtools/tldr/osx/auvaltool
+path: "/freedevtools/tldr/osx/auvaltool/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/auvaltool/"
 description: "Validate Audio Units with auvaltool on macOS. Inspect audio components and ensure proper functionality with this essential developer tool. Free online tool, no registration required."
 category: osx

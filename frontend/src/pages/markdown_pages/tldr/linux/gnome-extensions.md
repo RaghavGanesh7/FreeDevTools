@@ -1,7 +1,7 @@
 ---
 title: "Manage GNOME Extensions - Control Shell Extensions | Online Free DevTools by Hexmos"
 name: gnome-extensions
-path: /freedevtools/tldr/linux/gnome-extensions
+path: "/freedevtools/tldr/linux/gnome-extensions/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gnome-extensions/"
 description: "Manage GNOME shell extensions efficiently with gnome-extensions. List, enable, disable, and uninstall extensions via the command line. Free online tool, no registration required."
 category: linux

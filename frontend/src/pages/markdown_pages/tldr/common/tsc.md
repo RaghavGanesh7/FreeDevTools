@@ -1,7 +1,7 @@
 ---
 title: "TypeScript Compiler - Generate JavaScript from TypeScript | Online Free DevTools by Hexmos"
 name: tsc
-path: /freedevtools/tldr/common/tsc
+path: "/freedevtools/tldr/common/tsc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tsc/"
 description: "Generate JavaScript from TypeScript with the tsc compiler. Convert TypeScript code and transpile with different ES versions. Free online tool, no registration required."
 category: common

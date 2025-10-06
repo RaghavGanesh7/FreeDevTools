@@ -1,7 +1,7 @@
 ---
 title: "YOLO Model - Train & Infer Vision Models | Online Free DevTools by Hexmos"
 name: yolo
-path: /freedevtools/tldr/common/yolo
+path: "/freedevtools/tldr/common/yolo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yolo/"
 description: "Train and infer vision models with YOLO. Quickly train object detection, segmentation, and classification models. Free online tool, no registration required."
 category: common

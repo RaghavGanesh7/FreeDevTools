@@ -1,7 +1,7 @@
 ---
 title: "HTTPie Manager - Control HTTP Requests | Online Free DevTools by Hexmos"
 name: httpie
-path: /freedevtools/tldr/http/httpie
+path: "/freedevtools/tldr/http/httpie/"
 canonical: "https://hexmos.com/freedevtools/tldr/http/httpie/"
 description: "Control HTTP requests with HTTPie Manager. Install plugins, check for updates, and enhance your HTTPie experience. Free online tool, no registration required."
 category: common

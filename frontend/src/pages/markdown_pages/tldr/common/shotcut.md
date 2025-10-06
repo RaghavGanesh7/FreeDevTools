@@ -1,7 +1,7 @@
 ---
 title: "Shotcut - Edit Videos with Shotcut | Online Free DevTools by Hexmos"
 name: shotcut
-path: /freedevtools/tldr/common/shotcut
+path: "/freedevtools/tldr/common/shotcut/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shotcut/"
 description: "Edit videos easily with Shotcut. Process audio and video files, apply effects, and create professional-quality videos using this free tool. Free online tool, no registration required."
 category: common

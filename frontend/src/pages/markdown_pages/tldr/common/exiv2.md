@@ -1,7 +1,7 @@
 ---
 title: "Exiv2 Metadata Editor - Control Image Metadata | Online Free DevTools by Hexmos"
 name: exiv2
-path: /freedevtools/tldr/common/exiv2
+path: "/freedevtools/tldr/common/exiv2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exiv2/"
 description: "Control image metadata with Exiv2 Metadata Editor. Extract, modify, and delete Exif, IPTC, and XMP data effortlessly. Free online tool, no registration required."
 category: common

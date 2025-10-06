@@ -1,7 +1,7 @@
 ---
 title: "Manage Home Configuration - Home-Manager User Environment | Online Free DevTools by Hexmos"
 name: home-manager
-path: /freedevtools/tldr/common/home-manager
+path: "/freedevtools/tldr/common/home-manager/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/home-manager/"
 description: "Manage user home configuration with Home-Manager for declarative environment control. Build, switch, and rollback configurations effortlessly. Free online tool, no registration required."
 category: common

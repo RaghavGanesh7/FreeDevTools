@@ -1,7 +1,7 @@
 ---
 title: "pkg-config - Control Library Details | Online Free DevTools by Hexmos"
 name: pkg-config
-path: /freedevtools/tldr/common/pkg-config
+path: "/freedevtools/tldr/common/pkg-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pkg-config/"
 description: "Control library details with pkg-config. Retrieve library dependencies and compiler flags for building software. Free online tool, no registration required."
 category: common

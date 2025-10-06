@@ -1,7 +1,7 @@
 ---
 title: "Describe PAM Files - Analyze Netpbm Images | Online Free DevTools by Hexmos"
 name: pamfile
-path: /freedevtools/tldr/common/pamfile
+path: "/freedevtools/tldr/common/pamfile/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamfile/"
 description: "Analyze Netpbm files with pamfile. Identify PAM and PNM image properties and formats. Free online tool, no registration required."
 category: common

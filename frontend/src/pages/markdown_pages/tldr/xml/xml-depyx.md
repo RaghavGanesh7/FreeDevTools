@@ -1,7 +1,7 @@
 ---
 title: "Convert PYX to XML - Format PYX Documents | Online Free DevTools by Hexmos"
 name: xml-depyx
-path: /freedevtools/tldr/xml/xml-depyx
+path: "/freedevtools/tldr/xml/xml-depyx/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-depyx/"
 description: "Format PYX documents with xml-depyx. Convert ESIS (ISO 8879) PYX data to XML easily. Free online tool, no registration required."
 category: common

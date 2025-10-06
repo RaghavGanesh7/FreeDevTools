@@ -1,7 +1,7 @@
 ---
 title: "QM Cleanup - Manage QEMU/KVM Resources | Online Free DevTools by Hexmos"
 name: qm-cleanup
-path: /freedevtools/tldr/linux/qm-cleanup
+path: "/freedevtools/tldr/linux/qm-cleanup/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-cleanup/"
 description: "Manage QEMU/KVM resources with QM Cleanup. Deallocate tap devices and clean up lingering VGPUs after VM shutdown or crashes. Free online tool, no registration required."
 category: linux

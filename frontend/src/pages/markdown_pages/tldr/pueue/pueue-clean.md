@@ -1,7 +1,7 @@
 ---
 title: "Pueue Clean - Remove Tasks and Logs | Online Free DevTools by Hexmos"
 name: pueue-clean
-path: /freedevtools/tldr/pueue/pueue-clean
+path: "/freedevtools/tldr/pueue/pueue-clean/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-clean/"
 description: "Clean Pueue tasks and logs quickly with Pueue Clean. Manage task history and free up space. Free online tool, no registration required."
 category: common

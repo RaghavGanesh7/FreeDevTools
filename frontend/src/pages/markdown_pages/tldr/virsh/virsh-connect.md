@@ -1,7 +1,7 @@
 ---
 title: "Virsh Connect - Manage Virtual Machines | Online Free DevTools by Hexmos"
 name: virsh-connect
-path: /freedevtools/tldr/virsh/virsh-connect
+path: "/freedevtools/tldr/virsh/virsh-connect/"
 canonical: "https://hexmos.com/freedevtools/tldr/virsh/virsh-connect/"
 description: "Manage virtual machines easily with Virsh Connect. Connect to hypervisors and control virtualized environments. Free online tool, no registration required."
 category: common

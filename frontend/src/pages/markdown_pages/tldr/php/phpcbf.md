@@ -1,7 +1,7 @@
 ---
 title: "Fix PHP Code - Correct Coding Standards with phpcbf | Online Free DevTools by Hexmos"
 name: phpcbf
-path: /freedevtools/tldr/php/phpcbf
+path: "/freedevtools/tldr/php/phpcbf/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phpcbf/"
 description: "Fix PHP code style and standards with phpcbf. Automatically correct coding violations and enforce consistency using various coding standards. Free online tool, no registration required."
 category: common

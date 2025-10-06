@@ -1,7 +1,7 @@
 ---
 title: "Gifsicle - Create and Edit GIFs | Online Free DevTools by Hexmos"
 name: gifsicle
-path: /freedevtools/tldr/common/gifsicle
+path: "/freedevtools/tldr/common/gifsicle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gifsicle/"
 description: "Create and edit GIFs effortlessly with Gifsicle, a versatile GIF manipulation tool. Optimize animations, extract frames, and more. Free online tool, no registration required."
 category: common

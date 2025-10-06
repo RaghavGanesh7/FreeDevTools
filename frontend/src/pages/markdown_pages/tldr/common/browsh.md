@@ -1,7 +1,7 @@
 ---
 title: "Browsh Terminal Viewer - Browse Web Pages in Terminal | Online Free DevTools by Hexmos"
 name: browsh
-path: /freedevtools/tldr/common/browsh
+path: "/freedevtools/tldr/common/browsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/browsh/"
 description: "Browse web pages on the terminal with Browsh, a lightweight terminal viewer using a Firefox backend. Access web content from the command line. Free online tool, no registration required."
 category: common

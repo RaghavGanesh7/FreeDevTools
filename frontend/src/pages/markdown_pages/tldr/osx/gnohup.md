@@ -1,7 +1,7 @@
 ---
 title: "Control Nohup Process - Run Commands in Background | Online Free DevTools by Hexmos"
 name: gnohup
-path: /freedevtools/tldr/osx/gnohup
+path: "/freedevtools/tldr/osx/gnohup/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gnohup/"
 description: "Control Nohup process execution with Gnohup on macOS. Run commands in the background, even after terminal closure. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "List Linux Containers - Manage LXC with lxc-ls | Online Free DevTools by Hexmos"
 name: lxc-ls
-path: /freedevtools/tldr/linux/lxc-ls
+path: "/freedevtools/tldr/linux/lxc-ls/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-ls/"
 description: "Manage Linux containers efficiently with the lxc-ls command. List, filter, and view container status with various options. Free online tool, no registration required."
 category: linux

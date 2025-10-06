@@ -1,7 +1,7 @@
 ---
 title: "CUPS Enable - Start Printers and Classes | Online Free DevTools by Hexmos"
 name: cupsenable
-path: /freedevtools/tldr/common/cupsenable
+path: "/freedevtools/tldr/common/cupsenable/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cupsenable/"
 description: "Start printers and classes with CUPS Enable. Quickly enable printing destinations on Linux and manage print queues. Free online tool, no registration required."
 category: common

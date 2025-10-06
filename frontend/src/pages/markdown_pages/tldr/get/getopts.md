@@ -1,7 +1,7 @@
 ---
 title: "Parse Shell Options - Control Arguments | Online Free DevTools by Hexmos"
 name: getopts
-path: /freedevtools/tldr/get/getopts
+path: "/freedevtools/tldr/get/getopts/"
 canonical: "https://hexmos.com/freedevtools/tldr/get/getopts/"
 description: "Parse shell options efficiently with Getopts. Control arguments and manage options in your shell scripts. Free online tool, no registration required."
 category: common

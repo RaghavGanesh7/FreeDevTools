@@ -1,7 +1,7 @@
 ---
 title: "Check Disk - Control File System Errors | Online Free DevTools by Hexmos"
 name: chkdsk
-path: /freedevtools/tldr/windows/chkdsk
+path: "/freedevtools/tldr/windows/chkdsk/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/chkdsk/"
 description: "Check disk errors and repair file system corruption with CHKDSK. Analyze volume metadata and fix disk issues on Windows. Free online tool, no registration required."
 category: windows

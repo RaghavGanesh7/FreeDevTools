@@ -1,7 +1,7 @@
 ---
 title: "Generate PO File - po4a-gettextize | Online Free DevTools by Hexmos"
 name: po4a-gettextize
-path: /freedevtools/tldr/linux/po4a-gettextize
+path: "/freedevtools/tldr/linux/po4a-gettextize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/po4a-gettextize/"
 description: "Generate PO files with po4a-gettextize. Translate text files to PO format for localization. Free online tool, no registration required."
 category: linux

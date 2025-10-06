@@ -1,7 +1,7 @@
 ---
 title: "Aria2 Download Manager - Control Downloads | Online Free DevTools by Hexmos"
 name: aria2
-path: /freedevtools/tldr/common/aria2
+path: "/freedevtools/tldr/common/aria2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/aria2/"
 description: "Control downloads with Aria2 Download Manager. Use the command line to manage download processes and optimize speed. Free online tool, no registration required."
 category: common

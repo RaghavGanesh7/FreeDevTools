@@ -1,7 +1,7 @@
 ---
 title: "Display X Properties - Inspect Windows & Fonts | Online Free DevTools by Hexmos"
 name: xprop
-path: /freedevtools/tldr/common/xprop
+path: "/freedevtools/tldr/common/xprop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xprop/"
 description: "Display X properties with xprop. Inspect window and font attributes, debug X server applications, and troubleshoot display issues. Free online tool, no registration required."
 category: common

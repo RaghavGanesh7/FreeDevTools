@@ -1,7 +1,7 @@
 ---
 title: "Control Chroot - Manage Root Directories | Online Free DevTools by Hexmos"
 name: gchroot
-path: /freedevtools/tldr/osx/gchroot
+path: "/freedevtools/tldr/osx/gchroot/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gchroot/"
 description: "Control root directory operations with gchroot. Manage secure environments, isolate processes, and enhance system security on macOS. Free online tool, no registration required."
 category: osx

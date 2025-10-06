@@ -1,7 +1,7 @@
 ---
 title: "PIO Debug GDB - Control Debugging with PlatformIO | Online Free DevTools by Hexmos"
 name: piodebuggdb
-path: /freedevtools/tldr/pio/piodebuggdb
+path: "/freedevtools/tldr/pio/piodebuggdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/piodebuggdb/"
 description: "Control debugging sessions effortlessly with PIO Debug GDB.  Utilize GDB interface for advanced debugging and troubleshooting of embedded projects. Free online tool, no registration required."
 category: common

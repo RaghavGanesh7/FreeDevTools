@@ -1,7 +1,7 @@
 ---
 title: "Control SELinux Context - View Security Context | Online Free DevTools by Hexmos"
 name: secon
-path: /freedevtools/tldr/linux/secon
+path: "/freedevtools/tldr/linux/secon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/secon/"
 description: "Control SELinux context instantly with secon. View security attributes of processes and files, and parse SELinux context strings with this free online tool, no registration required."
 category: linux

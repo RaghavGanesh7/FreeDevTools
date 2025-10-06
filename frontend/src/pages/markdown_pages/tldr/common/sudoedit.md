@@ -1,7 +1,7 @@
 ---
 title: "Sudoedit - Edit Files with Elevated Privileges | Online Free DevTools by Hexmos"
 name: sudoedit
-path: /freedevtools/tldr/common/sudoedit
+path: "/freedevtools/tldr/common/sudoedit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sudoedit/"
 description: "Edit files with sudoedit, a secure way to modify system files with elevated privileges. Protect your system from accidental damage. Free online tool, no registration required."
 category: common

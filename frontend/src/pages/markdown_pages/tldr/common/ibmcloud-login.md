@@ -1,7 +1,7 @@
 ---
 title: "IBM Cloud Login - Access Cloud Resources | Online Free DevTools by Hexmos"
 name: ibmcloud-login
-path: /freedevtools/tldr/common/ibmcloud-login
+path: "/freedevtools/tldr/common/ibmcloud-login/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ibmcloud-login/"
 description: "Access IBM Cloud resources easily with IBM Cloud Login. Securely authenticate and manage your cloud environment. Free online tool, no registration required."
 category: common

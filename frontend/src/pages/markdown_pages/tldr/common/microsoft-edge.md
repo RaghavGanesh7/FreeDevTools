@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Edge - Control Web Browser with CLI | Online Free DevTools by Hexmos"
 name: microsoft-edge
-path: /freedevtools/tldr/common/microsoft-edge
+path: "/freedevtools/tldr/common/microsoft-edge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/microsoft-edge/"
 description: "Control Microsoft Edge web browser with command-line interface. Automate browsing tasks, launch in private mode, and configure proxy settings. Free online tool, no registration required."
 category: common

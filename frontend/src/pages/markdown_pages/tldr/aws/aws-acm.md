@@ -1,7 +1,7 @@
 ---
 title: "Manage AWS Certificates - Control ACM | Online Free DevTools by Hexmos"
 name: aws-acm
-path: /freedevtools/tldr/aws/aws-acm
+path: "/freedevtools/tldr/aws/aws-acm/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-acm/"
 description: "Manage AWS certificates with ACM. Automate certificate lifecycle management, and improve security using command line. Free online tool, no registration required."
 category: common

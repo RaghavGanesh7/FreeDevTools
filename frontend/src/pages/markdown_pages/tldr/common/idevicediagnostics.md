@@ -1,7 +1,7 @@
 ---
 title: "iOS Diagnostics - Control Device Info | Online Free DevTools by Hexmos"
 name: idevicediagnostics
-path: /freedevtools/tldr/common/idevicediagnostics
+path: "/freedevtools/tldr/common/idevicediagnostics/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicediagnostics/"
 description: "Control iOS device diagnostics with idevicediagnostics. Retrieve device information, manage mobilegestalt keys, and perform power operations easily. Free online tool, no registration required."
 category: common

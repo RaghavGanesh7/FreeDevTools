@@ -1,7 +1,7 @@
 ---
 title: "Pmset - Control macOS Power Management | Online Free DevTools by Hexmos"
 name: pmset
-path: /freedevtools/tldr/osx/pmset
+path: "/freedevtools/tldr/osx/pmset/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/pmset/"
 description: "Control macOS power management settings with pmset. Optimize battery life, schedule wake-ups, and manage display sleep options. Free online tool, no registration required."
 category: osx

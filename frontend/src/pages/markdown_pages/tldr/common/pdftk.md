@@ -1,7 +1,7 @@
 ---
 title: "PDF Toolkit - Control PDF Files | Online Free DevTools by Hexmos"
 name: pdftk
-path: "/freedevtools/tldr/common/pdftk"
+path: "/freedevtools/tldr/common/pdftk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdftk/"
 description: "Control PDF files with PDFtk. Merge, split, rotate and extract pages from your PDF documents. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Disposable Email - Mailsy Email Generator | Online Free DevTools by Hexmos"
 name: mailsy
-path: /freedevtools/tldr/common/mailsy
+path: "/freedevtools/tldr/common/mailsy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mailsy/"
 description: "Generate disposable email addresses instantly with Mailsy. Secure your privacy and avoid spam. Free online tool, no registration required. Quick temporary email."
 category: common

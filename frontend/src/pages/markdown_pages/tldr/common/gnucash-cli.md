@@ -1,7 +1,7 @@
 ---
 title: "Generate Financial Reports - GnuCash-cli | Online Free DevTools by Hexmos"
 name: gnucash-cli
-path: /freedevtools/tldr/common/gnucash-cli
+path: "/freedevtools/tldr/common/gnucash-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gnucash-cli/"
 description: "Generate financial reports with GnuCash-cli. Analyze finances and get stock quotes using command line interface. Free online tool, no registration required."
 category: common

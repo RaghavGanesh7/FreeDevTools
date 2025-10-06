@@ -1,7 +1,7 @@
 ---
 title: "Lint PHP Syntax - Parallel PHP Syntax Checker | Online Free DevTools by Hexmos"
 name: parallel-lint
-path: /freedevtools/tldr/common/parallel-lint
+path: "/freedevtools/tldr/common/parallel-lint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/parallel-lint/"
 description: "Check PHP syntax with parallel-lint. Detect errors efficiently in your PHP projects using parallel processing. Free online tool, no registration required."
 category: common

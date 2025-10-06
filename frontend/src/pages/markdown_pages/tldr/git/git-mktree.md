@@ -1,7 +1,7 @@
 ---
 title: "Create Git Trees - Build Tree Objects | Online Free DevTools by Hexmos"
 name: git-mktree
-path: /freedevtools/tldr/git/git-mktree
+path: "/freedevtools/tldr/git/git-mktree/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-mktree/"
 description: "Create Git trees with git mktree. Generate tree objects from ls-tree formatted output and manage repository structures. Free online tool, no registration required."
 category: common

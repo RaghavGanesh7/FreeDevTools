@@ -1,7 +1,7 @@
 ---
 title: "Toolbox Init - Initialize Containers on Linux | Online Free DevTools by Hexmos"
 name: toolbox-init-container
-path: /freedevtools/tldr/linux/toolbox-init-container
+path: "/freedevtools/tldr/linux/toolbox-init-container/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox-init-container/"
 description: "Initialize Linux containers quickly with Toolbox Init. Streamline container setup and enhance development environments with ease. Free online tool, no registration required."
 category: linux

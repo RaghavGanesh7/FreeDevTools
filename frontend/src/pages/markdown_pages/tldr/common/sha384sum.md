@@ -1,7 +1,7 @@
 ---
 title: "Generate SHA384 Checksum - Verify File Integrity | Online Free DevTools by Hexmos"
 name: sha384sum
-path: /freedevtools/tldr/common/sha384sum
+path: "/freedevtools/tldr/common/sha384sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sha384sum/"
 description: "Generate SHA384 checksums with sha384sum for file integrity verification. Securely check file hashes and validate data authenticity. Free online tool, no registration required."
 category: common

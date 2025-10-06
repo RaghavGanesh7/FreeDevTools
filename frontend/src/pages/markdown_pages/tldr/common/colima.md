@@ -1,7 +1,7 @@
 ---
 title: "Colima - Run Container Runtimes on macOS/Linux | Online Free DevTools by Hexmos"
 name: colima
-path: /freedevtools/tldr/common/colima
+path: "/freedevtools/tldr/common/colima/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/colima/"
 description: "Run container runtimes easily with Colima on macOS and Linux. Manage Docker and Kubernetes containers with minimal setup. Free online tool, no registration required."
 category: common

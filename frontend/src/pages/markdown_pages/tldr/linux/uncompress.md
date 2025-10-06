@@ -1,7 +1,7 @@
 ---
 title: "Uncompress - Extract Compressed Files | Online Free DevTools by Hexmos"
 name: uncompress
-path: /freedevtools/tldr/linux/uncompress
+path: "/freedevtools/tldr/linux/uncompress/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uncompress/"
 description: "Extract compressed files with Uncompress. Quickly decompress .Z archives on Linux, restoring original files with ease. Free online tool, no registration required."
 category: linux

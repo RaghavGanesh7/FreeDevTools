@@ -1,7 +1,7 @@
 ---
 title: "Format Text - Fold Long Lines | Online Free DevTools by Hexmos"
 name: fold
-path: /freedevtools/tldr/linux/fold
+path: "/freedevtools/tldr/linux/fold/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fold/"
 description: "Format text with the fold command to wrap long lines for fixed-width output.  Control line breaks and adjust width easily. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Unity Manager - Control Unity Versions | Online Free DevTools by Hexmos"
 name: u3d
-path: /freedevtools/tldr/common/u3d
+path: "/freedevtools/tldr/common/u3d/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/u3d/"
 description: "Control Unity versions easily with Unity Manager (u3d). Download, install, and manage Unity versions and packages with a simple command line interface. Free online tool, no registration required."
 category: common

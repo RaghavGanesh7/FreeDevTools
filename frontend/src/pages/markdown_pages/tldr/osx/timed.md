@@ -1,7 +1,7 @@
 ---
 title: "Time Synchronization - Control System Time on macOS | Online Free DevTools by Hexmos"
 name: timed
-path: /freedevtools/tldr/osx/timed
+path: "/freedevtools/tldr/osx/timed/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/timed/"
 description: "Control system time synchronization with timed on macOS. Synchronize, adjust, and manage system clock using NTP. Free online tool, no registration required."
 category: osx

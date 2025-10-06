@@ -1,7 +1,7 @@
 ---
 title: "Audit NPM - Scan Vulnerabilities in Dependencies | Online Free DevTools by Hexmos"
 name: npm-audit
-path: /freedevtools/tldr/npm/npm-audit
+path: "/freedevtools/tldr/npm/npm-audit/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-audit/"
 description: "Scan NPM package dependencies for vulnerabilities with NPM Audit. Detect security flaws and suggest remediation strategies. Free online tool, no registration required."
 category: common

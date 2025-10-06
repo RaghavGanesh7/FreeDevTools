@@ -1,7 +1,7 @@
 ---
 title: "Compare Images - Visualize Differences | Online Free DevTools by Hexmos"
 name: compare
-path: /freedevtools/tldr/common/compare
+path: "/freedevtools/tldr/common/compare/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/compare/"
 description: "Visualize image differences effectively with Compare. Analyze changes, highlight variations, and ensure image quality. Free online tool, no registration required."
 category: common

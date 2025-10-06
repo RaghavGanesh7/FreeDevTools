@@ -1,7 +1,7 @@
 ---
 title: "Size - Display Binary File Sections | Online Free DevTools by Hexmos"
 name: size
-path: /freedevtools/tldr/linux/size
+path: "/freedevtools/tldr/linux/size/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/size/"
 description: "Display binary file section sizes with Size. Analyze object and executable files to determine memory layout. Free online tool, no registration required."
 category: linux

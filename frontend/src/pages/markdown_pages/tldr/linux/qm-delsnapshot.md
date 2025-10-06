@@ -1,7 +1,7 @@
 ---
 title: "Delete VM Snapshot - Control Virtual Machine Snapshots | Online Free DevTools by Hexmos"
 name: qm-delsnapshot
-path: /freedevtools/tldr/linux/qm-delsnapshot
+path: "/freedevtools/tldr/linux/qm-delsnapshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-delsnapshot/"
 description: "Delete VM snapshots with qm-delsnapshot. Manage virtual machine backups and revert to previous states easily using Proxmox. Free online tool, no registration required."
 category: linux

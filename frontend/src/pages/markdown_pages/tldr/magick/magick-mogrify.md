@@ -1,7 +1,7 @@
 ---
 title: "Magick Mogrify - Transform Images | Online Free DevTools by Hexmos"
 name: magick-mogrify
-path: /freedevtools/tldr/magick/magick-mogrify
+path: "/freedevtools/tldr/magick/magick-mogrify/"
 canonical: "https://hexmos.com/freedevtools/tldr/magick/magick-mogrify/"
 description: "Transform images with Magick Mogrify. Resize, convert, and apply effects to multiple images simultaneously using the command line. Free online tool, no registration required."
 category: common

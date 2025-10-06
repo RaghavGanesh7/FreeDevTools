@@ -1,7 +1,7 @@
 ---
 title: "Format Code with Clang-Format - Auto Code Formatter | Online Free DevTools by Hexmos"
 name: clang-format
-path: /freedevtools/tldr/clang/clang-format
+path: "/freedevtools/tldr/clang/clang-format/"
 canonical: "https://hexmos.com/freedevtools/tldr/clang/clang-format/"
 description: "Format code automatically with Clang-Format, ensuring consistent code style. Auto-format C/C++/Java/JavaScript code. Free online tool, no registration required."
 category: common

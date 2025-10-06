@@ -1,7 +1,7 @@
 ---
 title: "Immich Upload - Manage Media Files | Online Free DevTools by Hexmos"
 name: immich
-path: /freedevtools/tldr/common/immich
+path: "/freedevtools/tldr/common/immich/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/immich/"
 description: "Upload media files with Immich CLI. Manage photos and videos, organize albums, and skip unwanted assets using glob patterns. Free online tool, no registration required."
 category: common

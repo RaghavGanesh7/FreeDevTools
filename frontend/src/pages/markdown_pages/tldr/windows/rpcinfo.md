@@ -1,7 +1,7 @@
 ---
 title: "RPCInfo - List Remote Programs | Online Free DevTools by Hexmos"
 name: rpcinfo
-path: /freedevtools/tldr/windows/rpcinfo
+path: "/freedevtools/tldr/windows/rpcinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/rpcinfo/"
 description: "List programs remotely with RPCInfo. Discover available services on remote Windows machines for network troubleshooting. Free online tool, no registration required."
 category: windows

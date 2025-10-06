@@ -1,7 +1,7 @@
 ---
 title: "Notify Partitions - Control Linux Partition Tables | Online Free DevTools by Hexmos"
 name: partprobe
-path: /freedevtools/tldr/linux/partprobe
+path: "/freedevtools/tldr/linux/partprobe/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/partprobe/"
 description: "Notify partitions instantly with Partprobe, control Linux partition tables. Update kernel with disk changes and manage devices. Free online tool, no registration required."
 category: linux

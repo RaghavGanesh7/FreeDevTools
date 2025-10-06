@@ -1,7 +1,7 @@
 ---
 title: "Factor Numbers - Calculate Prime Factors on macOS | Online Free DevTools by Hexmos"
 name: gfactor
-path: /freedevtools/tldr/osx/gfactor
+path: "/freedevtools/tldr/osx/gfactor/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gfactor/"
 description: "Calculate prime factors efficiently with Gfactor on macOS. Quickly determine prime divisors for any number. Free online tool, no registration required."
 category: osx

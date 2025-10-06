@@ -1,7 +1,7 @@
 ---
 title: "Init - Control Linux Run Levels | Online Free DevTools by Hexmos"
 name: init
-path: /freedevtools/tldr/linux/init
+path: "/freedevtools/tldr/linux/init/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/init/"
 description: "Control Linux run levels easily with init. Manage system states, shutdown, reboot, and single-user mode effortlessly. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Modem Control - Manage Modems with mmcli | Online Free DevTools by Hexmos"
 name: mmcli
-path: /freedevtools/tldr/linux/mmcli
+path: "/freedevtools/tldr/linux/mmcli/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mmcli/"
 description: "Control modems effectively with mmcli. Manage connections, send SMS, and monitor network status using this command line interface. Free online tool, no registration required."
 category: linux

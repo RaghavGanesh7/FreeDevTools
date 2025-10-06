@@ -1,7 +1,7 @@
 ---
 title: "Syncthing - Synchronize Folders Bidirectionally | Online Free DevTools by Hexmos"
 name: syncthing
-path: /freedevtools/tldr/common/syncthing
+path: "/freedevtools/tldr/common/syncthing/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/syncthing/"
 description: "Synchronize folders with Syncthing, a continuous, bidirectional, decentralised file synchronization tool. Securely share files across devices. Free online tool, no registration required."
 category: common

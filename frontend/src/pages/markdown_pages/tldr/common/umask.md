@@ -1,7 +1,7 @@
 ---
 title: "Umask - Control File Permissions | Online Free DevTools by Hexmos"
 name: umask
-path: "/freedevtools/tldr/common/umask"
+path: "/freedevtools/tldr/common/umask/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/umask/"
 description: "Control file permissions with Umask. Restrict read, write, and execute access for newly created files. Free online tool, no registration required."
 category: common

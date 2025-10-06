@@ -1,7 +1,7 @@
 ---
 title: "Go Env - Manage Go Environment Variables | Online Free DevTools by Hexmos"
 name: go-env
-path: /freedevtools/tldr/go/go-env
+path: "/freedevtools/tldr/go/go-env/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-env/"
 description: "Manage Go environment variables easily with Go Env. Configure GOPATH, GOBIN, and other settings for Go development. Free online tool, no registration required."
 category: common

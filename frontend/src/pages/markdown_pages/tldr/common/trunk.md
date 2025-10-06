@@ -1,7 +1,7 @@
 ---
 title: "Trunk - Bundle Rust Web Apps | Online Free DevTools by Hexmos"
 name: trunk
-path: /freedevtools/tldr/common/trunk
+path: "/freedevtools/tldr/common/trunk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trunk/"
 description: "Bundle Rust web apps with Trunk. Streamline development, build for production, and manage tools with ease. Free online tool, no registration required."
 category: common

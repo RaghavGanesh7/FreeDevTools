@@ -1,7 +1,7 @@
 ---
 title: "Warts Filter - Select Warts Records | Online Free DevTools by Hexmos"
 name: sc_wartsfilter
-path: /freedevtools/tldr/common/sc_wartsfilter
+path: "/freedevtools/tldr/common/sc_wartsfilter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_wartsfilter/"
 description: "Select warts records with sc_wartsfilter. Filter specific data by destination or action and output to various formats. Free online tool, no registration required."
 category: common

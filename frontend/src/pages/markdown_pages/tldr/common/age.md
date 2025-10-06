@@ -1,7 +1,7 @@
 ---
 title: "Age Encryption - Encrypt and Decrypt Files | Online Free DevTools by Hexmos"
 name: age
-path: /freedevtools/tldr/common/age
+path: "/freedevtools/tldr/common/age/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/age/"
 description: "Encrypt files securely with Age, a modern encryption tool. Protect sensitive data using public keys, passphrases and file encryption. Free online tool, no registration required."
 category: common

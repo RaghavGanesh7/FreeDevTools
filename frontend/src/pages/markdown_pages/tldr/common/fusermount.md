@@ -1,7 +1,7 @@
 ---
 title: "Mount Filesystems - Control FUSE Mounts | Online Free DevTools by Hexmos"
 name: fusermount
-path: /freedevtools/tldr/common/fusermount
+path: "/freedevtools/tldr/common/fusermount/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fusermount/"
 description: "Control FUSE filesystem mounts with fusermount. Unmount filesystems, manage mount points, and display version information. Free online tool, no registration required."
 category: common

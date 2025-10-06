@@ -1,7 +1,7 @@
 ---
 title: "PVDisplay - Display LVM Physical Volumes | Online Free DevTools by Hexmos"
 name: pvdisplay
-path: /freedevtools/tldr/linux/pvdisplay
+path: "/freedevtools/tldr/linux/pvdisplay/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pvdisplay/"
 description: "Display LVM physical volumes with pvdisplay. Manage and inspect physical volumes in Linux environments. Free online tool, no registration required."
 category: linux

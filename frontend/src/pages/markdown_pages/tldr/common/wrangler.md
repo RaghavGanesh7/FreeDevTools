@@ -1,7 +1,7 @@
 ---
 title: "Wrangler - Cloudflare Workers Control | Online Free DevTools by Hexmos"
 name: wrangler
-path: /freedevtools/tldr/common/wrangler
+path: "/freedevtools/tldr/common/wrangler/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wrangler/"
 description: "Control Cloudflare Workers with Wrangler. Deploy, manage, and develop serverless applications effortlessly. Free online tool, no registration required."
 category: common

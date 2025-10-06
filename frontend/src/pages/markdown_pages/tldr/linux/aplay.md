@@ -1,7 +1,7 @@
 ---
 title: "aplay Sound Player - Play Audio Files | Online Free DevTools by Hexmos"
 name: aplay
-path: /freedevtools/tldr/linux/aplay
+path: "/freedevtools/tldr/linux/aplay/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aplay/"
 description: "Play audio files with aplay, a versatile command-line sound player.  Control audio playback, specifying duration, sample rate, and format. Free online tool, no registration required."
 category: linux

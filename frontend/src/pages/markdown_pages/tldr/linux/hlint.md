@@ -1,7 +1,7 @@
 ---
 title: "HLint - Improve Haskell Code | Online Free DevTools by Hexmos"
 name: hlint
-path: /freedevtools/tldr/linux/hlint
+path: "/freedevtools/tldr/linux/hlint/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hlint/"
 description: "Improve Haskell code instantly with HLint. Suggest code improvements, refactor code, and generate settings. Free online tool, no registration required."
 category: linux

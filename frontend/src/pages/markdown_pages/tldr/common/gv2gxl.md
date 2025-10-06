@@ -1,7 +1,7 @@
 ---
 title: "Convert GV to GXL - Generate GXL Files | Online Free DevTools by Hexmos"
 name: gv2gxl
-path: /freedevtools/tldr/common/gv2gxl
+path: "/freedevtools/tldr/common/gv2gxl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gv2gxl/"
 description: "Generate GXL files with gv2gxl. Convert GV graph files to GXL format using this command-line tool. Free online tool, no registration required."
 category: common

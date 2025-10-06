@@ -1,7 +1,7 @@
 ---
 title: "PIO Package Manager - Manage Packages | Online Free DevTools by Hexmos"
 name: pio-pkg
-path: /freedevtools/tldr/pio/pio-pkg
+path: "/freedevtools/tldr/pio/pio-pkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-pkg/"
 description: "Manage packages with PIO Package Manager. Publish, unpublish, and version PlatformIO packages using the command line. Free online tool, no registration required."
 category: common

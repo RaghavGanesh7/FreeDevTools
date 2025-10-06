@@ -1,7 +1,7 @@
 ---
 title: "Reg Restore - Restore Registry from .hiv File | Online Free DevTools by Hexmos"
 name: reg-restore
-path: /freedevtools/tldr/windows/reg-restore
+path: "/freedevtools/tldr/windows/reg-restore/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-restore/"
 description: "Restore Windows registry keys with Reg Restore. Recover system settings and data from .hiv files using this command-line utility. Free online tool, no registration required."
 category: windows

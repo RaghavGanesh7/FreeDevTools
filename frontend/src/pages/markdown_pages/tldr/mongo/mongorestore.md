@@ -1,7 +1,7 @@
 ---
 title: "MongoDB Restore - Import Data | Online Free DevTools by Hexmos"
 name: mongorestore
-path: /freedevtools/tldr/mongo/mongorestore
+path: "/freedevtools/tldr/mongo/mongorestore/"
 canonical: "https://hexmos.com/freedevtools/tldr/mongo/mongorestore/"
 description: "Import MongoDB data with mongorestore. Restore databases and collections from binary dumps into MongoDB instances. Free online tool, no registration required."
 category: common

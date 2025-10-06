@@ -1,7 +1,7 @@
 ---
 title: "Imerge Git - Merge Branches Incrementally | Online Free DevTools by Hexmos"
 name: git-imerge
-path: /freedevtools/tldr/git/git-imerge
+path: "/freedevtools/tldr/git/git-imerge/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-imerge/"
 description: "Merge Git branches incrementally with Imerge Git, tracking conflicts down to individual commits for simplified conflict resolution. Free online tool, no registration required."
 category: common

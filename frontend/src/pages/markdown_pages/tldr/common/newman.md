@@ -1,7 +1,7 @@
 ---
 title: "Run Postman Collections - Newman Runner | Online Free DevTools by Hexmos"
 name: newman
-path: /freedevtools/tldr/common/newman
+path: "/freedevtools/tldr/common/newman/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/newman/"
 description: "Run Postman collections easily with Newman. Execute and automate API tests from the command line. Free online tool, no registration required."
 category: common

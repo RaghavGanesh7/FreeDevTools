@@ -1,7 +1,7 @@
 ---
 title: "Display Images - Print Images in Terminal | Online Free DevTools by Hexmos"
 name: catimg
-path: /freedevtools/tldr/common/catimg
+path: "/freedevtools/tldr/common/catimg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/catimg/"
 description: "Print images instantly with catimg, a command-line image viewer. Display JPEGs, PNGs, and GIFs directly in your terminal. Free online tool, no registration required."
 category: common

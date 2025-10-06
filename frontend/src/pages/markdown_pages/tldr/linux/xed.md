@@ -1,7 +1,7 @@
 ---
 title: "Xed Editor - Edit Files on Linux | Online Free DevTools by Hexmos"
 name: xed
-path: /freedevtools/tldr/linux/xed
+path: "/freedevtools/tldr/linux/xed/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xed/"
 description: "Edit files quickly with the Xed text editor.  Open, edit, and save files with various encodings on your Linux system. Free online tool, no registration required."
 category: linux

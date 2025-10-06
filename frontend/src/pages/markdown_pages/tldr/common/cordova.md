@@ -1,7 +1,7 @@
 ---
 title: "Create Cordova Apps - Build Mobile Apps | Online Free DevTools by Hexmos"
 name: cordova
-path: /freedevtools/tldr/common/cordova
+path: "/freedevtools/tldr/common/cordova/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cordova/"
 description: "Create mobile applications with Cordova. Build cross-platform apps using HTML, CSS, and JavaScript. Free online tool, no registration required."
 category: common

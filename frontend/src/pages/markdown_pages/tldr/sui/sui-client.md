@@ -1,7 +1,7 @@
 ---
 title: "Sui Client - Control Smart Contracts | Online Free DevTools by Hexmos"
 name: sui-client
-path: /freedevtools/tldr/sui/sui-client
+path: "/freedevtools/tldr/sui/sui-client/"
 canonical: "https://hexmos.com/freedevtools/tldr/sui/sui-client/"
 description: "Control smart contracts with Sui Client, a command-line interface for the Sui blockchain. Publish contracts, execute transactions, and manage addresses. Free online tool, no registration required."
 category: common

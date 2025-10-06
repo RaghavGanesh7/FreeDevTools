@@ -1,7 +1,7 @@
 ---
 title: "PNM File Format - Validate PNM Images | Online Free DevTools by Hexmos"
 name: pnmfile
-path: /freedevtools/tldr/pnm/pnmfile
+path: "/freedevtools/tldr/pnm/pnmfile/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmfile/"
 description: "Validate PNM file format with pnmfile. Quickly analyze image files, confirm encoding, and identify header information. Free online tool, no registration required."
 category: common

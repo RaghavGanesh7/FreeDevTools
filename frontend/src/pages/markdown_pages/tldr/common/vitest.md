@@ -1,7 +1,7 @@
 ---
 title: "Vitest - Run Fast JavaScript Tests | Online Free DevTools by Hexmos"
 name: vitest
-path: /freedevtools/tldr/common/vitest
+path: "/freedevtools/tldr/common/vitest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vitest/"
 description: "Run fast JavaScript tests with Vitest. Execute unit, integration, and snapshot tests with a Jest-compatible API. Free online tool, no registration required."
 category: common

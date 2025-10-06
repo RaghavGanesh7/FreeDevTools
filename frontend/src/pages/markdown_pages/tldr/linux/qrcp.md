@@ -1,7 +1,7 @@
 ---
 title: "Transfer Files via QR - qrcp | Online Free DevTools by Hexmos"
 name: qrcp
-path: /freedevtools/tldr/linux/qrcp
+path: "/freedevtools/tldr/linux/qrcp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qrcp/"
 description: "Transfer files easily with qrcp using QR codes. Secure file transfer across devices using command-line. Free online tool, no registration required."
 category: linux

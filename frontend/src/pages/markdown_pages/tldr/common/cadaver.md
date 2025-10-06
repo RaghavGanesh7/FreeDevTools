@@ -1,7 +1,7 @@
 ---
 title: "Control WebDAV - Manage Web Files with Cadaver | Online Free DevTools by Hexmos"
 name: cadaver
-path: /freedevtools/tldr/common/cadaver
+path: "/freedevtools/tldr/common/cadaver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cadaver/"
 description: "Control WebDAV file management with Cadaver, a command-line client. Access, upload, and manage web resources using this versatile tool. Free online tool, no registration required."
 category: common

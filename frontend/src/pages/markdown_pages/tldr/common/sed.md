@@ -1,7 +1,7 @@
 ---
 title: "Sed Stream Editor - Edit Text with Scripting | Online Free DevTools by Hexmos"
 name: sed
-path: /freedevtools/tldr/common/sed
+path: "/freedevtools/tldr/common/sed/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sed/"
 description: "Edit text streams powerfully with the Sed stream editor.  Perform complex text manipulations using regular expressions. Free online tool, no registration required."
 category: common

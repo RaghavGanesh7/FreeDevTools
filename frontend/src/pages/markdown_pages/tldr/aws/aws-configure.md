@@ -1,7 +1,7 @@
 ---
 title: "AWS Configure - Manage AWS CLI Configuration | Online Free DevTools by Hexmos"
 name: aws-configure
-path: /freedevtools/tldr/aws/aws-configure
+path: "/freedevtools/tldr/aws/aws-configure/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-configure/"
 description: "Manage AWS CLI configurations with AWS Configure. Configure profiles, get configuration values, and list entries quickly. Free online tool, no registration required."
 category: common

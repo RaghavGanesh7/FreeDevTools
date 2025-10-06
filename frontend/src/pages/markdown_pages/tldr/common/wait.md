@@ -1,7 +1,7 @@
 ---
 title: "Wait Command - Control Process Completion | Online Free DevTools by Hexmos"
 name: wait
-path: /freedevtools/tldr/common/wait
+path: "/freedevtools/tldr/common/wait/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wait/"
 description: "Control process completion with the Wait Command. Monitor process states and manage job execution using shell commands. Free online tool, no registration required."
 category: common

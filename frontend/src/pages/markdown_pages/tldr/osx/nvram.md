@@ -1,7 +1,7 @@
 ---
 title: "NVRAM Manager - Control Firmware Variables on macOS | Online Free DevTools by Hexmos"
 name: nvram
-path: /freedevtools/tldr/osx/nvram
+path: "/freedevtools/tldr/osx/nvram/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/nvram/"
 description: "Control firmware variables effectively with NVRAM Manager. Manage, print, and delete NVRAM settings directly from the command line. Free online tool, no registration required."
 category: osx

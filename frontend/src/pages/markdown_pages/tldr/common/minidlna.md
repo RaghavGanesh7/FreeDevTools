@@ -1,7 +1,7 @@
 ---
 title: "Control minidlna - Stream Media with DLNA | Online Free DevTools by Hexmos"
 name: minidlna
-path: /freedevtools/tldr/common/minidlna
+path: "/freedevtools/tldr/common/minidlna/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minidlna/"
 description: "Control media streaming with minidlna. Configure and manage your DLNA server to stream media to smart TVs. Free online tool, no registration required."
 category: common

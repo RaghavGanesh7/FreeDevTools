@@ -1,7 +1,7 @@
 ---
 title: "Pueue Remove - Control Task Removal | Online Free DevTools by Hexmos"
 name: pueue-remove
-path: /freedevtools/tldr/pueue/pueue-remove
+path: "/freedevtools/tldr/pueue/pueue-remove/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-remove/"
 description: "Control task removal with Pueue Remove. Manage your background tasks by removing completed or killed jobs. Free online tool, no registration required."
 category: common

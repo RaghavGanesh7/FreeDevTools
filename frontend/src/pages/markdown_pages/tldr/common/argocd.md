@@ -1,7 +1,7 @@
 ---
 title: "Control Argo CD - Manage Applications | Online Free DevTools by Hexmos"
 name: argocd
-path: /freedevtools/tldr/common/argocd
+path: "/freedevtools/tldr/common/argocd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/argocd/"
 description: "Control Argo CD applications with this command line interface. Manage deployments, monitor application health, and automate software delivery pipelines. Free online tool, no registration required."
 category: common

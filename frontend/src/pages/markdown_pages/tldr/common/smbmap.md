@@ -1,7 +1,7 @@
 ---
 title: "Enumerate Samba Shares - Scan SMB Drives | Online Free DevTools by Hexmos"
 name: smbmap
-path: /freedevtools/tldr/common/smbmap
+path: "/freedevtools/tldr/common/smbmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/smbmap/"
 description: "Scan Samba shares with smbmap. Enumerate SMB drives, identify open shares, and check file permissions across networks. Free online tool, no registration required."
 category: common

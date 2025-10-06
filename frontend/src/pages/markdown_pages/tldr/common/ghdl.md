@@ -1,7 +1,7 @@
 ---
 title: "VHDL Simulator - Simulate VHDL Designs | Online Free DevTools by Hexmos"
 name: ghdl
-path: /freedevtools/tldr/common/ghdl
+path: "/freedevtools/tldr/common/ghdl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ghdl/"
 description: "Simulate VHDL designs with GHDL. Analyze, elaborate, and run VHDL code easily using the command line. Free online tool, no registration required."
 category: common

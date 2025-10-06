@@ -1,7 +1,7 @@
 ---
 title: "Ifdata - Display Interface Data | Online Free DevTools by Hexmos"
 name: ifdata
-path: /freedevtools/tldr/common/ifdata
+path: "/freedevtools/tldr/common/ifdata/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ifdata/"
 description: "Display interface data with Ifdata. Retrieve network configuration details and check interface existence quickly. Free online tool, no registration required."
 category: common

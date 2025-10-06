@@ -1,7 +1,7 @@
 ---
 title: "Execute Lua Scripts - Lightweight Programming Language | Online Free DevTools by Hexmos"
 name: lua
-path: /freedevtools/tldr/common/lua
+path: "/freedevtools/tldr/common/lua/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lua/"
 description: "Execute Lua scripts effortlessly with Lua. A lightweight embeddable programming language for powerful scripting and automation. Free online tool, no registration required."
 category: common

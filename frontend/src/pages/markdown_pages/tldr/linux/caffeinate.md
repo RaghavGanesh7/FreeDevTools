@@ -1,7 +1,7 @@
 ---
 title: "Control Sleeping - Caffeinate Desktop | Online Free DevTools by Hexmos"
 name: caffeinate
-path: /freedevtools/tldr/linux/caffeinate
+path: "/freedevtools/tldr/linux/caffeinate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/caffeinate/"
 description: "Prevent desktop sleeping with Caffeinate, a powerful Linux command-line utility. Keep your system awake during long processes and presentations. Free online tool, no registration required."
 category: linux

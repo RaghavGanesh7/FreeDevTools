@@ -1,7 +1,7 @@
 ---
 title: "XBPS Package Manager - Update Linux Packages | Online Free DevTools by Hexmos"
 name: xbps
-path: /freedevtools/tldr/linux/xbps
+path: "/freedevtools/tldr/linux/xbps/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xbps/"
 description: "Update Linux packages easily with XBPS Package Manager, the powerful tool used by Void Linux. Streamline software installation and removal on your Linux system. Free online tool, no registration required."
 category: linux

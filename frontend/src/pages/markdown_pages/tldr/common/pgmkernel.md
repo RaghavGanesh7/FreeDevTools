@@ -1,7 +1,7 @@
 ---
 title: "Generate PGM Kernel - Create Image Kernels | Online Free DevTools by Hexmos"
 name: pgmkernel
-path: /freedevtools/tldr/common/pgmkernel
+path: "/freedevtools/tldr/common/pgmkernel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmkernel/"
 description: "Generate PGM kernels with PGMKernel. Create custom image convolution kernels for image processing and manipulation. Free online tool, no registration required."
 category: common

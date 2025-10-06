@@ -1,7 +1,7 @@
 ---
 title: "Create Users - adduser Command | Online Free DevTools by Hexmos"
 name: adduser
-path: /freedevtools/tldr/linux/adduser
+path: "/freedevtools/tldr/linux/adduser/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/adduser/"
 description: "Create new users with the adduser command. Manage user accounts, home directories, and group memberships efficiently. Free online tool, no registration required."
 category: linux

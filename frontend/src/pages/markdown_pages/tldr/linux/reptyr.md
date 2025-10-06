@@ -1,7 +1,7 @@
 ---
 title: "Control Process Terminal - Move Processes with reptyr | Online Free DevTools by Hexmos"
 name: reptyr
-path: /freedevtools/tldr/linux/reptyr
+path: "/freedevtools/tldr/linux/reptyr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/reptyr/"
 description: "Control running processes with reptyr. Move existing processes to a new terminal easily, even after you've forgotten to use screen. Free online tool, no registration required."
 category: linux

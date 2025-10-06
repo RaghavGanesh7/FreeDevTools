@@ -1,7 +1,7 @@
 ---
 title: "List Directory - View Files with lsd | Online Free DevTools by Hexmos"
 name: lsd
-path: /freedevtools/tldr/common/lsd
+path: "/freedevtools/tldr/common/lsd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lsd/"
 description: "List directory contents with lsd, a next-generation `ls` command. Quickly view files, including hidden ones, sorted by various criteria. Free online tool, no registration required."
 category: common

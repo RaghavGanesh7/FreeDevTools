@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to ASCII - Image Conversion | Online Free DevTools by Hexmos"
 name: pbmtoascii
-path: /freedevtools/tldr/common/pbmtoascii
+path: "/freedevtools/tldr/common/pbmtoascii/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoascii/"
 description: "Convert PBM to ASCII with pbmtoascii. Transform binary images to readable ASCII art. Free online tool, no registration required."
 category: common

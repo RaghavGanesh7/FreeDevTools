@@ -1,7 +1,7 @@
 ---
 title: "Manage Files - MinIO and Midnight Commander | Online Free DevTools by Hexmos"
 name: mc
-path: /freedevtools/tldr/common/mc
+path: "/freedevtools/tldr/common/mc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mc/"
 description: "Manage files with `mc`, supporting MinIO client and Midnight Commander. Easily browse, copy, and synchronize files. Free online tool, no registration required."
 category: common

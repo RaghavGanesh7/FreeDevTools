@@ -1,7 +1,7 @@
 ---
 title: "Spotify Control - Manage Music Playback | Online Free DevTools by Hexmos"
 name: spotify
-path: /freedevtools/tldr/osx/spotify
+path: "/freedevtools/tldr/osx/spotify/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/spotify/"
 description: "Control Spotify music playback with this command-line tool. Manage playlists, skip tracks, and adjust volume easily. Free online tool, no registration required."
 category: osx

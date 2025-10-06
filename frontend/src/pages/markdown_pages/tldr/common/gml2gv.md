@@ -1,7 +1,7 @@
 ---
 title: "Convert GML to GV - Format Graph Files | Online Free DevTools by Hexmos"
 name: gml2gv
-path: /freedevtools/tldr/common/gml2gv
+path: "/freedevtools/tldr/common/gml2gv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gml2gv/"
 description: "Convert GML to GV with gml2gv, a free online graph file converter. Easily format graph data, no registration required."
 category: common

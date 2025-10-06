@@ -1,7 +1,7 @@
 ---
 title: "Join Files - Merge Data with Gjoin Command | Online Free DevTools by Hexmos"
 name: gjoin
-path: /freedevtools/tldr/osx/gjoin
+path: "/freedevtools/tldr/osx/gjoin/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gjoin/"
 description: "Merge data with Gjoin on OSX. Quickly join related lines from two files based on a common field. Free online tool, no registration required."
 category: osx

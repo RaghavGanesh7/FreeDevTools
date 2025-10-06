@@ -1,7 +1,7 @@
 ---
 title: "JPS - Show JVM Processes | Online Free DevTools by Hexmos"
 name: jps
-path: "/freedevtools/tldr/common/jps"
+path: "/freedevtools/tldr/common/jps/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jps/"
 description: "Show JVM processes with JPS. Display arguments, package names and JVM options. Free online tool, no registration required."
 category: common

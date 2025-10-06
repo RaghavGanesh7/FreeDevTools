@@ -1,7 +1,7 @@
 ---
 title: "Manage Plasma Packages - KPackageTool6 | Online Free DevTools by Hexmos"
 name: kpackagetool6
-path: /freedevtools/tldr/linux/kpackagetool6
+path: "/freedevtools/tldr/linux/kpackagetool6/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kpackagetool6/"
 description: "Manage Plasma packages efficiently with KPackageTool6. Install, update, list, and remove Plasma applets and other package types easily. Free online tool, no registration required."
 category: linux

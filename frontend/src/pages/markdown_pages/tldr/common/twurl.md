@@ -1,7 +1,7 @@
 ---
 title: "Twurl - Control Twitter API from Command Line | Online Free DevTools by Hexmos"
 name: twurl
-path: /freedevtools/tldr/common/twurl
+path: "/freedevtools/tldr/common/twurl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/twurl/"
 description: "Control Twitter API interactions with Twurl, a command-line tool for interacting with Twitter. Authenticate, post, and fetch data easily. Free online tool, no registration required."
 category: common

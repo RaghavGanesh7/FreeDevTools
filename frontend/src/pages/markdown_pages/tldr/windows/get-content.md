@@ -1,7 +1,7 @@
 ---
 title: "Get-Content - Display File Content | Online Free DevTools by Hexmos"
 name: get-content
-path: /freedevtools/tldr/windows/get-content
+path: "/freedevtools/tldr/windows/get-content/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-content/"
 description: "Display file content with Get-Content command in PowerShell. Read entire files, specific lines, or monitor changes in real-time. Free online tool, no registration required."
 category: windows
