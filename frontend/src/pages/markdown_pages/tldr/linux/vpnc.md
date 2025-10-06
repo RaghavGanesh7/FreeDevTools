@@ -1,7 +1,7 @@
 ---
 title: "Connect VPN - Control Cisco VPNs with VPNC | Online Free DevTools by Hexmos"
 name: vpnc
-path: /freedevtools/tldr/linux/vpnc
+path: "/freedevtools/tldr/linux/vpnc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vpnc/"
 description: "Connect to Cisco VPNs securely with VPNC. Establish, manage, and terminate VPN connections using the command line on Linux. Free online tool, no registration required."
 category: linux

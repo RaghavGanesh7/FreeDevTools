@@ -1,7 +1,7 @@
 ---
 title: "Doppler Run - Inject Secrets | Online Free DevTools by Hexmos"
 name: doppler-run
-path: /freedevtools/tldr/doppler/doppler-run
+path: "/freedevtools/tldr/doppler/doppler-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/doppler/doppler-run/"
 description: "Inject secrets instantly with Doppler Run. Securely run commands with secrets populated in the environment. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Git Verify Tag - Check GPG Signatures | Online Free DevTools by Hexmos"
 name: git-verify-tag
-path: /freedevtools/tldr/git/git-verify-tag
+path: "/freedevtools/tldr/git/git-verify-tag/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-verify-tag/"
 description: "Check Git tags for GPG signatures with Git Verify Tag. Ensure code integrity and verify authorship of tags. Free online tool, no registration required."
 category: common

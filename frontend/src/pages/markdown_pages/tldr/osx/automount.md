@@ -1,7 +1,7 @@
 ---
 title: "Automount - Manage Mount Points on macOS | Online Free DevTools by Hexmos"
 name: automount
-path: /freedevtools/tldr/osx/automount
+path: "/freedevtools/tldr/osx/automount/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/automount/"
 description: "Manage mount points with Automount on macOS. Trigger on-demand directory mounting and control auto-unmount timeouts. Free online tool, no registration required."
 category: osx

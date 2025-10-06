@@ -1,7 +1,7 @@
 ---
 title: "Print Files - Print Documents via Command Line | Online Free DevTools by Hexmos"
 name: lpr
-path: /freedevtools/tldr/common/lpr
+path: "/freedevtools/tldr/common/lpr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lpr/"
 description: "Print files efficiently with lpr. Control printer output, specify page ranges, and manage printing options via command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Format Code with Prettier - JavaScript, CSS, YAML | Online Free DevTools by Hexmos"
 name: prettier
-path: /freedevtools/tldr/common/prettier
+path: "/freedevtools/tldr/common/prettier/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/prettier/"
 description: "Format code instantly with Prettier. Enhance code quality and maintain consistency across JavaScript, CSS, and YAML files. Free online tool, no registration required."
 category: common

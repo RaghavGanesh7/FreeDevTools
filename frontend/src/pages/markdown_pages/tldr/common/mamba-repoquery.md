@@ -1,7 +1,7 @@
 ---
 title: "Mamba Repoquery - Query Conda Packages | Online Free DevTools by Hexmos"
 name: mamba-repoquery
-path: /freedevtools/tldr/common/mamba-repoquery
+path: "/freedevtools/tldr/common/mamba-repoquery/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mamba-repoquery/"
 description: "Query conda packages efficiently with Mamba Repoquery. Discover package versions, dependencies, and required packages using command line. Free online tool, no registration required."
 category: common

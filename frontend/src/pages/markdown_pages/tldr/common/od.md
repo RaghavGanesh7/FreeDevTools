@@ -1,7 +1,7 @@
 ---
 title: "Octal Dump - Format File Content | Online Free DevTools by Hexmos"
 name: od
-path: /freedevtools/tldr/common/od
+path: "/freedevtools/tldr/common/od/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/od/"
 description: "Format file content with Octal Dump. Display files in octal, decimal, or hexadecimal format, and customize the output. Free online tool, no registration required."
 category: common

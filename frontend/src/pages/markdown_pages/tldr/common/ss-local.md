@@ -1,7 +1,7 @@
 ---
 title: "Run Shadowsocks Client - SOCKS5 Proxy | Online Free DevTools by Hexmos"
 name: ss-local
-path: /freedevtools/tldr/common/ss-local
+path: "/freedevtools/tldr/common/ss-local/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ss-local/"
 description: "Run Shadowsocks client as a SOCKS5 proxy with ss-local. Secure your internet traffic and bypass censorship with ease. Free online tool, no registration required."
 category: common

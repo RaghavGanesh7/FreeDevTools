@@ -1,7 +1,7 @@
 ---
 title: "Dirbuster - Brute Force Directories | Online Free DevTools by Hexmos"
 name: dirbuster
-path: /freedevtools/tldr/linux/dirbuster
+path: "/freedevtools/tldr/linux/dirbuster/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dirbuster/"
 description: "Brute force directories and filenames with Dirbuster.  Discover hidden files and directories quickly and easily. Free online tool, no registration required."
 category: linux

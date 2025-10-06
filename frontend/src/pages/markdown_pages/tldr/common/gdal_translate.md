@@ -1,7 +1,7 @@
 ---
 title: "GDAL Translate - Convert Raster Data | Online Free DevTools by Hexmos"
 name: gdal_translate
-path: /freedevtools/tldr/common/gdal_translate
+path: "/freedevtools/tldr/common/gdal_translate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdal_translate/"
 description: "Convert raster data with GDAL Translate. Change formats, reproject, and resize geospatial images. Free online tool, no registration required."
 category: common

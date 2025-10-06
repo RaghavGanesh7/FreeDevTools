@@ -1,7 +1,7 @@
 ---
 title: "Convert SIR to PNM - Image Conversion | Online Free DevTools by Hexmos"
 name: sirtopnm
-path: /freedevtools/tldr/common/sirtopnm
+path: "/freedevtools/tldr/common/sirtopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sirtopnm/"
 description: "Convert SIR images to PNM format with sirtopnm. Easily transform Solitaire Image Recorder files to a more accessible format. Free online tool, no registration required."
 category: common

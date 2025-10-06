@@ -1,7 +1,7 @@
 ---
 title: "Vifm File Manager - Manage Files in Terminal | Online Free DevTools by Hexmos"
 name: vifm
-path: /freedevtools/tldr/common/vifm
+path: "/freedevtools/tldr/common/vifm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vifm/"
 description: "Manage files efficiently with Vifm File Manager. Navigate directories, copy, move and rename files directly from your terminal. Free online tool, no registration required."
 category: common

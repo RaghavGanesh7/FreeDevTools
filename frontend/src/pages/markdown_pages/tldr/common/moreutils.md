@@ -1,7 +1,7 @@
 ---
 title: "Control UNIX Tools - Manage Standard Streams | Online Free DevTools by Hexmos"
 name: moreutils
-path: /freedevtools/tldr/common/moreutils
+path: "/freedevtools/tldr/common/moreutils/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/moreutils/"
 description: "Control standard streams instantly with moreutils UNIX Tools. Manipulate input/output, combine files, and manage pipes efficiently. Free online tool, no registration required."
 category: common

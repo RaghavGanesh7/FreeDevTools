@@ -1,7 +1,7 @@
 ---
 title: "Pirut - Manage Yum Packages on Linux | Online Free DevTools by Hexmos"
 name: pirut
-path: /freedevtools/tldr/linux/pirut
+path: "/freedevtools/tldr/linux/pirut/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pirut/"
 description: "Manage Yum packages effectively with Pirut on Linux. Install, update, and remove software with this graphical frontend. Free online tool, no registration required."
 category: linux

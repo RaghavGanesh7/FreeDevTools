@@ -1,7 +1,7 @@
 ---
 title: "Create F-Droid Build Server - Virtual Machine | Online Free DevTools by Hexmos"
 name: makebuildserver
-path: /freedevtools/tldr/common/makebuildserver
+path: "/freedevtools/tldr/common/makebuildserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/makebuildserver/"
 description: "Create an F-Droid build server with makebuildserver. Automate VM setup and updates for F-Droid app builds. Free online tool, no registration required."
 category: common

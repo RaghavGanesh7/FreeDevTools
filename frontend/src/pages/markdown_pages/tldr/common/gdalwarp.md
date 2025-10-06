@@ -1,7 +1,7 @@
 ---
 title: "Reproject Image - GDAL Warp Reprojection | Online Free DevTools by Hexmos"
 name: gdalwarp
-path: /freedevtools/tldr/common/gdalwarp
+path: "/freedevtools/tldr/common/gdalwarp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdalwarp/"
 description: "Reproject images with GDAL Warp using various coordinate systems. Achieve accurate georeferencing and image transformation. Free online tool, no registration required."
 category: common

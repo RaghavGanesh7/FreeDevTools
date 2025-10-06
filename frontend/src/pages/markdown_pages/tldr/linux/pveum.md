@@ -1,7 +1,7 @@
 ---
 title: "Manage Proxmox Users - pveum Command | Online Free DevTools by Hexmos"
 name: pveum
-path: /freedevtools/tldr/linux/pveum
+path: "/freedevtools/tldr/linux/pveum/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pveum/"
 description: "Manage Proxmox users with the pveum command.  Easily add, delete, and list users. Free online tool, no registration required."
 category: linux

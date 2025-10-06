@@ -1,7 +1,7 @@
 ---
 title: "Nix Shell - Create Isolated Environments | Online Free DevTools by Hexmos"
 name: nix-shell.3
-path: /freedevtools/tldr/nix/nix-shell-3
+path: "/freedevtools/tldr/nix/nix-shell-3/"
 canonical: "https://hexmos-com/freedevtools/tldr/nix/nix-shell-3/"
 description: "Create isolated development environments with Nix Shell, instantly managing dependencies and package versions. Simplify project setup with this powerful command-line tool. Free online tool, no registration required."
 category: common

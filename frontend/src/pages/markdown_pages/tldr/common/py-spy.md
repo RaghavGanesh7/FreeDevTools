@@ -1,7 +1,7 @@
 ---
 title: "Py-Spy Profiler - Profile Python Code | Online Free DevTools by Hexmos"
 name: py-spy
-path: /freedevtools/tldr/common/py-spy
+path: "/freedevtools/tldr/common/py-spy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/py-spy/"
 description: "Profile Python code with Py-Spy, a powerful sampling profiler. Analyze execution time, generate flame graphs, and identify performance bottlenecks. Free online tool, no registration required."
 category: common

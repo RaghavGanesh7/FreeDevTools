@@ -1,7 +1,7 @@
 ---
 title: "AVRdude Programmer - Program Atmel AVR Microcontrollers | Online Free DevTools by Hexmos"
 name: avrdude
-path: /freedevtools/tldr/common/avrdude
+path: "/freedevtools/tldr/common/avrdude/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/avrdude/"
 description: "Program Atmel AVR microcontrollers with AVRdude, a powerful command-line tool for flashing and reading memory. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert RLE to PNM - Image Conversion | Online Free DevTools by Hexmos"
 name: rletopnm
-path: /freedevtools/tldr/common/rletopnm
+path: "/freedevtools/tldr/common/rletopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rletopnm/"
 description: "Convert RLE files to PNM format with rletopnm. Easily transform image files between these formats using this command-line tool. Free online tool, no registration required."
 category: common

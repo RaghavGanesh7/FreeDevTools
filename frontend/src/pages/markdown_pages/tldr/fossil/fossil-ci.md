@@ -1,7 +1,7 @@
 ---
 title: "Fossil CI - Commit Changes | Online Free DevTools by Hexmos"
 name: fossil-ci
-path: /freedevtools/tldr/fossil/fossil-ci
+path: "/freedevtools/tldr/fossil/fossil-ci/"
 canonical: "https://hexmos.com/freedevtools/tldr/fossil/fossil-ci/"
 description: "Commit changes with Fossil CI, a streamlined interface for Fossil version control. Easily save your work and track modifications with this command alias. Free online tool, no registration required."
 category: common

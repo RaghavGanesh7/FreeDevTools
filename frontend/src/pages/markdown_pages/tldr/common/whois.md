@@ -1,7 +1,7 @@
 ---
 title: "Lookup WHOIS - Query Domain Information | Online Free DevTools by Hexmos"
 name: whois
-path: /freedevtools/tldr/common/whois
+path: "/freedevtools/tldr/common/whois/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/whois/"
 description: "Query WHOIS records and domain information with WHOIS lookup.  Find ownership details and contact information. Free online tool, no registration required."
 category: common

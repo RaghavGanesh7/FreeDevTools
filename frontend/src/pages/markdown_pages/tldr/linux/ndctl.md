@@ -1,7 +1,7 @@
 ---
 title: "NDCTL Control - Manage NVDIMMs | Online Free DevTools by Hexmos"
 name: ndctl
-path: /freedevtools/tldr/linux/ndctl
+path: "/freedevtools/tldr/linux/ndctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ndctl/"
 description: "Control NVDIMMs with NDCTL. Manage namespaces, regions, and buses for non-volatile memory on Linux systems. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Gamma Correction - Adjust PNM Images | Online Free DevTools by Hexmos"
 name: pnmgamma
-path: /freedevtools/tldr/pnm/pnmgamma
+path: "/freedevtools/tldr/pnm/pnmgamma/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmgamma/"
 description: "Adjust gamma on PNM images with pnmgamma. Perform gamma correction, convert color spaces, and enhance image luminance easily. Free online tool, no registration required."
 category: common

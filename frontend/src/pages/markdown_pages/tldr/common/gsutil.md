@@ -1,7 +1,7 @@
 ---
 title: "Manage Cloud Storage - Control GCP Buckets | Online Free DevTools by Hexmos"
 name: gsutil
-path: /freedevtools/tldr/common/gsutil
+path: "/freedevtools/tldr/common/gsutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gsutil/"
 description: "Manage Google Cloud Storage with gsutil command. Upload, download, and manipulate buckets and objects. Free online tool, no registration required."
 category: common

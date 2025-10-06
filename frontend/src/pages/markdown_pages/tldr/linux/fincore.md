@@ -1,7 +1,7 @@
 ---
 title: "Fincore - Display Cache Memory | Online Free DevTools by Hexmos"
 name: fincore
-path: /freedevtools/tldr/linux/fincore
+path: "/freedevtools/tldr/linux/fincore/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fincore/"
 description: "Display cache memory usage with fincore. Analyze file cache utilization and optimize memory performance on Linux systems. Free online tool, no registration required."
 category: linux

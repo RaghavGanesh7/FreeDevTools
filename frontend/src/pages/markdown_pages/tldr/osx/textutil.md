@@ -1,7 +1,7 @@
 ---
 title: "Textutil - Format Text Files on macOS | Online Free DevTools by Hexmos"
 name: textutil
-path: /freedevtools/tldr/osx/textutil
+path: "/freedevtools/tldr/osx/textutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/textutil/"
 description: "Format text files with Textutil on macOS. Convert between RTF, TXT, and HTML formats, and control font settings. Free online tool, no registration required."
 category: osx

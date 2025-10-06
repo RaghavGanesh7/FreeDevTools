@@ -1,7 +1,7 @@
 ---
 title: "Tart - Manage macOS VMs on Apple Silicon | Online Free DevTools by Hexmos"
 name: tart
-path: /freedevtools/tldr/osx/tart
+path: "/freedevtools/tldr/osx/tart/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/tart/"
 description: "Manage macOS and Linux virtual machines with Tart on Apple Silicon. Streamline VM creation, cloning, and execution with ease. Free online tool, no registration required."
 category: osx

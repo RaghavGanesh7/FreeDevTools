@@ -1,7 +1,7 @@
 ---
 title: "G++ Compiler - Compile C++ Code | Online Free DevTools by Hexmos"
 name: g++
-path: /freedevtools/tldr/common/g++
+path: "/freedevtools/tldr/common/g++/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/g++/"
 description: "Compile C++ code efficiently with G++ Compiler. Optimize, debug, and manage dependencies for cross-platform development. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Showkey - Display Keycodes | Online Free DevTools by Hexmos"
 name: showkey
-path: /freedevtools/tldr/linux/showkey
+path: "/freedevtools/tldr/linux/showkey/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/showkey/"
 description: "Display keycodes with Showkey, a command-line tool for Linux keyboard debugging and remapping. Inspect keypresses and diagnose keyboard issues with ease. Free online tool, no registration required."
 category: linux

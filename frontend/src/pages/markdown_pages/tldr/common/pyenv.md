@@ -1,7 +1,7 @@
 ---
 title: "Python Version Control - Manage Python Versions | Online Free DevTools by Hexmos"
 name: pyenv
-path: /freedevtools/tldr/common/pyenv
+path: "/freedevtools/tldr/common/pyenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pyenv/"
 description: "Manage Python versions effectively with Pyenv. Seamlessly switch between multiple Python environments and control your project dependencies. Free online tool, no registration required."
 category: common

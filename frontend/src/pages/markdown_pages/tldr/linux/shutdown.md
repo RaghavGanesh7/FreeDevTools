@@ -1,7 +1,7 @@
 ---
 title: "Shutdown System - Control System Power States | Online Free DevTools by Hexmos"
 name: shutdown
-path: /freedevtools/tldr/linux/shutdown
+path: "/freedevtools/tldr/linux/shutdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/shutdown/"
 description: "Control system power states with Shutdown. Reboot, halt, or schedule shutdowns easily using command-line. Free online tool, no registration required. Command-line utilities"
 category: linux

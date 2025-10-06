@@ -1,7 +1,7 @@
 ---
 title: "Synthesize Speech - Flite Text-to-Speech | Online Free DevTools by Hexmos"
 name: flite
-path: /freedevtools/tldr/common/flite
+path: "/freedevtools/tldr/common/flite/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flite/"
 description: "Synthesize speech with Flite Text-to-Speech engine for various platforms. Convert text and files to audio output using command line. Free online tool, no registration required."
 category: common

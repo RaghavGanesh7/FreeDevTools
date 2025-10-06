@@ -1,7 +1,7 @@
 ---
 title: "Create NTFS Filesystem - mkfs.ntfs Command | Online Free DevTools by Hexmos"
 name: mkfs.ntfs
-path: /freedevtools/tldr/linux/mkfs-ntfs
+path: "/freedevtools/tldr/linux/mkfs-ntfs/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mkfs-ntfs/"
 description: "Create NTFS filesystems with mkfs.ntfs. Format partitions, assign volume labels, and specify UUIDs using this command-line tool. Free online tool, no registration required."
 category: linux

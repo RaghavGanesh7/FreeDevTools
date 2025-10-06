@@ -1,7 +1,7 @@
 ---
 title: "Validate Git Repository - Check Integrity with git fsck | Online Free DevTools by Hexmos"
 name: git-fsck
-path: /freedevtools/tldr/git/git-fsck
+path: "/freedevtools/tldr/git/git-fsck/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-fsck/"
 description: "Validate Git repository integrity with git fsck. Verify the validity and connectivity of nodes. Free online tool, no registration required."
 category: common

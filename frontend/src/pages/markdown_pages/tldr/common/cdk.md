@@ -1,7 +1,7 @@
 ---
 title: "CDK - Create CloudFormation Stacks | Online Free DevTools by Hexmos"
 name: cdk
-path: /freedevtools/tldr/common/cdk
+path: "/freedevtools/tldr/common/cdk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cdk/"
 description: "Create and manage AWS infrastructure as code with CDK. Synthesize CloudFormation templates, deploy stacks, and compare differences. Free online tool, no registration required."
 category: common

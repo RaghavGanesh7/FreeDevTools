@@ -1,7 +1,7 @@
 ---
 title: "Grep Command - Search Text Patterns | Online Free DevTools by Hexmos"
 name: ggrep
-path: /freedevtools/tldr/osx/ggrep
+path: "/freedevtools/tldr/osx/ggrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ggrep/"
 description: "Search text patterns effectively with Grep Command. Find, filter, and extract specific strings within files using regular expressions. Free online tool, no registration required."
 category: osx

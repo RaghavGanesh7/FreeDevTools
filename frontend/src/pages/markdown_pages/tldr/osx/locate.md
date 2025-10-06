@@ -1,7 +1,7 @@
 ---
 title: "Locate Files - Find Files Quickly | Online Free DevTools by Hexmos"
 name: locate
-path: /freedevtools/tldr/osx/locate
+path: "/freedevtools/tldr/osx/locate/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/locate/"
 description: "Find files quickly with Locate. Easily search file names and recompute the file database on macOS. Free online tool, no registration required."
 category: osx

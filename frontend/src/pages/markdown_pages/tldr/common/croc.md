@@ -1,7 +1,7 @@
 ---
 title: "Croc Transfer - Securely Send Files | Online Free DevTools by Hexmos"
 name: croc
-path: /freedevtools/tldr/common/croc
+path: "/freedevtools/tldr/common/croc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/croc/"
 description: "Transfer files securely with Croc! Quickly send and receive files of any size across networks using a passphrase. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "LOLCODE Interpreter - Run LOLCODE Files | Online Free DevTools by Hexmos"
 name: lci
-path: /freedevtools/tldr/linux/lci
+path: "/freedevtools/tldr/linux/lci/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lci/"
 description: "Interpret LOLCODE with LCI. Execute LOLCODE files using the command line, ideal for development & debugging. Free online tool, no registration required."
 category: linux

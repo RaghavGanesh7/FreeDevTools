@@ -1,7 +1,7 @@
 ---
 title: "Read CD Data - Extract Disc Images | Online Free DevTools by Hexmos"
 name: readcd
-path: /freedevtools/tldr/linux/readcd
+path: "/freedevtools/tldr/linux/readcd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/readcd/"
 description: "Extract CD data with readcd, create ISO images directly from physical discs. Efficient disc reading for backups and archiving. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Format JSON Data - Jello Processor using Python | Online Free DevTools by Hexmos"
 name: jello
-path: /freedevtools/tldr/common/jello
+path: "/freedevtools/tldr/common/jello/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jello/"
 description: "Format JSON data with Jello, a Python-powered JSON processor. Transform and manipulate JSON with ease using Python syntax. Free online tool, no registration required."
 category: common

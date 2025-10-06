@@ -1,7 +1,7 @@
 ---
 title: "SteamOS Finalize - Complete System Setup | Online Free DevTools by Hexmos"
 name: steamos-finalize-install
-path: /freedevtools/tldr/linux/steamos-finalize-install
+path: "/freedevtools/tldr/linux/steamos-finalize-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-finalize-install/"
 description: "Complete system setup with SteamOS Finalize. Set up bootloaders and apply updates to finalize SteamOS installations. Free online tool, no registration required."
 category: linux

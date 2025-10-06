@@ -1,7 +1,7 @@
 ---
 title: "Cabal Package Manager - Manage Haskell Packages | Online Free DevTools by Hexmos"
 name: cabal
-path: /freedevtools/tldr/common/cabal
+path: "/freedevtools/tldr/common/cabal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cabal/"
 description: "Manage Haskell packages with Cabal Package Manager. Install, build, and test Haskell projects from the command line. Free online tool, no registration required."
 category: common

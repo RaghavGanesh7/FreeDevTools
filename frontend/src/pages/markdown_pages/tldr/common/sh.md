@@ -1,7 +1,7 @@
 ---
 title: "Bourne Shell - Execute Commands | Online Free DevTools by Hexmos"
 name: sh
-path: "/freedevtools/tldr/common/sh"
+path: "/freedevtools/tldr/common/sh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sh/"
 description: "Execute commands using Bourne Shell, the standard command language interpreter. Run scripts and manage shell sessions easily. Free online tool, no registration required."
 category: common

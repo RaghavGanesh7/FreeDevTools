@@ -1,7 +1,7 @@
 ---
 title: "Flask Utility - Manage Flask Applications | Online Free DevTools by Hexmos"
 name: flask
-path: /freedevtools/tldr/common/flask
+path: "/freedevtools/tldr/common/flask/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flask/"
 description: "Manage Flask applications with Flask Utility. Run servers, show routes, and interact with the application context. Free online tool, no registration required."
 category: common

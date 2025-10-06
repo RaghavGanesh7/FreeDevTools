@@ -1,7 +1,7 @@
 ---
 title: "Get-Help - Display PowerShell Help Information | Online Free DevTools by Hexmos"
 name: get-help
-path: /freedevtools/tldr/windows/get-help
+path: "/freedevtools/tldr/windows/get-help/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-help/"
 description: "Display PowerShell help information with Get-Help command in Windows. Access detailed cmdlet documentation and examples. Free online tool, no registration required."
 category: windows

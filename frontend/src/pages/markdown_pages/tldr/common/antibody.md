@@ -1,7 +1,7 @@
 ---
 title: "Shell Plugin Manager - Control Plugins with Antibody | Online Free DevTools by Hexmos"
 name: antibody
-path: /freedevtools/tldr/common/antibody
+path: "/freedevtools/tldr/common/antibody/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/antibody/"
 description: "Manage shell plugins with Antibody, the fastest plugin manager. Bundle plugins, update bundles, and list installed plugins. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "SVN Control - Manage Code Versions with Subversion | Online Free DevTools by Hexmos"
 name: svn
-path: /freedevtools/tldr/common/svn
+path: "/freedevtools/tldr/common/svn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/svn/"
 description: "Control code versions effectively with Subversion (SVN). Manage repositories, commit changes, and track history using this free online tool, no registration required."
 category: common

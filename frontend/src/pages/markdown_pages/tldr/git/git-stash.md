@@ -1,7 +1,7 @@
 ---
 title: "Git Stash - Manage Local Changes | Online Free DevTools by Hexmos"
 name: git-stash
-path: /freedevtools/tldr/git/git-stash
+path: "/freedevtools/tldr/git/git-stash/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-stash/"
 description: "Manage Git stashes with Git Stash command. Stash changes, list stashes, and apply stashes. Free online tool, no registration required."
 category: common

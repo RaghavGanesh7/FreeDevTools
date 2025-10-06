@@ -1,7 +1,7 @@
 ---
 title: "Generate Searchable PDF - ocrmypdf | Online Free DevTools by Hexmos"
 name: ocrmypdf
-path: /freedevtools/tldr/common/ocrmypdf
+path: "/freedevtools/tldr/common/ocrmypdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ocrmypdf/"
 description: "Generate searchable PDF documents with ocrmypdf. Optimize scanned PDFs, convert images to text, and add metadata easily. Free online tool, no registration required."
 category: common

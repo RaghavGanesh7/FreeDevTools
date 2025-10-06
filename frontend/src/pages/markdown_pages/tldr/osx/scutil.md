@@ -1,7 +1,7 @@
 ---
 title: "SCUTIL - Control System Configuration | Online Free DevTools by Hexmos"
 name: scutil
-path: /freedevtools/tldr/osx/scutil
+path: "/freedevtools/tldr/osx/scutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/scutil/"
 description: "Control system configuration parameters with SCUTIL. Manage network settings, computer names, and hostnames on macOS. Free online tool, no registration required."
 category: osx

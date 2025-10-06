@@ -1,7 +1,7 @@
 ---
 title: "HandBrakeCLI - Convert Videos | Online Free DevTools by Hexmos"
 name: handbrakecli
-path: /freedevtools/tldr/common/handbrakecli
+path: "/freedevtools/tldr/common/handbrakecli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/handbrakecli/"
 description: "Convert videos with HandBrakeCLI. Compress video files and rip DVDs using this powerful command-line interface. Free online tool, no registration required."
 category: common

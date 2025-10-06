@@ -1,7 +1,7 @@
 ---
 title: "Create Pulumi Project - Generate New Infrastructure | Online Free DevTools by Hexmos"
 name: pulumi-new
-path: /freedevtools/tldr/pulumi/pulumi-new
+path: "/freedevtools/tldr/pulumi/pulumi-new/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-new/"
 description: "Create Pulumi projects instantly with Pulumi New. Generate infrastructure as code, choose templates, and manage secrets securely. Free online tool, no registration required."
 category: common

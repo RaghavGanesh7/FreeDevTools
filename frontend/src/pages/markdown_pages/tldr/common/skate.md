@@ -1,7 +1,7 @@
 ---
 title: "Manage Key-Value Store - Skate | Online Free DevTools by Hexmos"
 name: skate
-path: /freedevtools/tldr/common/skate
+path: "/freedevtools/tldr/common/skate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/skate/"
 description: "Manage key-value store data with Skate, a simple and powerful command-line tool. Quickly store, list, and delete data using a free online tool, no registration required."
 category: common

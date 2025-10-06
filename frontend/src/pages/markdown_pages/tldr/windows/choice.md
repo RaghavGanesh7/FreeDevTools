@@ -1,7 +1,7 @@
 ---
 title: "Control Choice Prompts - Windows Command | Online Free DevTools by Hexmos"
 name: choice
-path: /freedevtools/tldr/windows/choice
+path: "/freedevtools/tldr/windows/choice/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choice/"
 description: "Control user choice prompts with the Windows Choice command. Customize prompts, set default options, and automate interactions. Free online tool, no registration required."
 category: windows

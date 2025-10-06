@@ -1,7 +1,7 @@
 ---
 title: "Gnuplot - Generate Graphs in Multiple Formats | Online Free DevTools by Hexmos"
 name: gnuplot
-path: /freedevtools/tldr/common/gnuplot
+path: "/freedevtools/tldr/common/gnuplot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gnuplot/"
 description: "Generate plots with Gnuplot, a versatile graphing tool capable of outputting various formats. Create visualizations with this command-line utility. Free online tool, no registration required."
 category: common

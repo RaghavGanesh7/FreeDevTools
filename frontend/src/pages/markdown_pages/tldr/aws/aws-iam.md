@@ -1,7 +1,7 @@
 ---
 title: "AWS IAM - Control Access to AWS Resources | Online Free DevTools by Hexmos"
 name: aws-iam
-path: /freedevtools/tldr/aws/aws-iam
+path: "/freedevtools/tldr/aws/aws-iam/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-iam/"
 description: "Control AWS resource access with AWS IAM. Manage users, policies, and groups securely using command line. Free online tool, no registration required."
 category: common

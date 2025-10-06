@@ -1,7 +1,7 @@
 ---
 title: "Download Media - Download Videos and Audios with you-get | Online Free DevTools by Hexmos"
 name: you-get
-path: /freedevtools/tldr/common/you-get
+path: "/freedevtools/tldr/common/you-get/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/you-get/"
 description: "Download media content instantly with you-get. Download videos, audios, and images from various websites. Free online tool, no registration required."
 category: common

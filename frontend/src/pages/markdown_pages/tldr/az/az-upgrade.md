@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Azure CLI - Update and Manage Azure Resources | Online Free DevTools by Hexmos"
 name: az-upgrade
-path: /freedevtools/tldr/az/az-upgrade
+path: "/freedevtools/tldr/az/az-upgrade/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-upgrade/"
 description: "Upgrade Azure CLI versions to the latest release. Easily manage Azure resources and extensions with command-line interface. Free online tool, no registration required."
 category: common

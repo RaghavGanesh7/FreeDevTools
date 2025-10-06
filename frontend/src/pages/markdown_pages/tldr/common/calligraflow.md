@@ -1,7 +1,7 @@
 ---
 title: "Create Flowcharts - with Calligraflow | Online Free DevTools by Hexmos"
 name: calligraflow
-path: /freedevtools/tldr/common/calligraflow
+path: "/freedevtools/tldr/common/calligraflow/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calligraflow/"
 description: "Create flowcharts with Calligraflow. Design diagrams and visualize processes using this versatile application. Free online tool, no registration required."
 category: common

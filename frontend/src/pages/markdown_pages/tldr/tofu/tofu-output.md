@@ -1,7 +1,7 @@
 ---
 title: "Tofu Output - Export Tofu Resources | Online Free DevTools by Hexmos"
 name: tofu-output
-path: /freedevtools/tldr/tofu/tofu-output
+path: "/freedevtools/tldr/tofu/tofu-output/"
 canonical: "https://hexmos.com/freedevtools/tldr/tofu/tofu-output/"
 description: "Export data with Tofu Output. Extract structured information about your infrastructure resources for automation and reporting. Free online tool, no registration required."
 category: common

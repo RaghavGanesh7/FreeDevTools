@@ -1,7 +1,7 @@
 ---
 title: "Choco List - Manage Chocolatey Packages | Online Free DevTools by Hexmos"
 name: choco-list
-path: /freedevtools/tldr/windows/choco-list
+path: "/freedevtools/tldr/windows/choco-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-list/"
 description: "Manage Chocolatey packages easily with Choco List. Display, filter, and authenticate package listings from custom sources. Free online tool, no registration required."
 category: windows

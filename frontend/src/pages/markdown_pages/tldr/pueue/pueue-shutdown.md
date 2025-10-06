@@ -1,7 +1,7 @@
 ---
 title: "Pueue Shutdown - Control Daemon | Online Free DevTools by Hexmos"
 name: pueue-shutdown
-path: /freedevtools/tldr/pueue/pueue-shutdown
+path: "/freedevtools/tldr/pueue/pueue-shutdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-shutdown/"
 description: "Control Pueue daemon processes with Pueue Shutdown. Remotely shut down the daemon and manage background tasks efficiently. Free online tool, no registration required."
 category: common

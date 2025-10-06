@@ -1,7 +1,7 @@
 ---
 title: "Rename Utility - Rename Files | Online Free DevTools by Hexmos"
 name: prename
-path: /freedevtools/tldr/common/prename
+path: "/freedevtools/tldr/common/prename/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/prename/"
 description: "Rename files quickly with Prename. Batch rename multiple files using regular expressions with this powerful command line utility. Free online tool, no registration required."
 category: common

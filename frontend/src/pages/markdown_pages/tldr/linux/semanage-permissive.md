@@ -1,7 +1,7 @@
 ---
 title: "Semanage Permissive - Control SELinux Domains | Online Free DevTools by Hexmos"
 name: semanage-permissive
-path: /freedevtools/tldr/linux/semanage-permissive
+path: "/freedevtools/tldr/linux/semanage-permissive/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/semanage-permissive/"
 description: "Control SELinux permissive domains with Semanage Permissive. Manage security contexts and configure SELinux policy on Linux. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Generate MD5 Checksums - Verify File Integrity | Online Free DevTools by Hexmos"
 name: md5sum
-path: /freedevtools/tldr/common/md5sum
+path: "/freedevtools/tldr/common/md5sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/md5sum/"
 description: "Generate MD5 checksums with md5sum for file integrity verification. Securely validate file contents and ensure data authenticity. Free online tool, no registration required."
 category: common

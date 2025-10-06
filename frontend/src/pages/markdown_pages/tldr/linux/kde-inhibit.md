@@ -1,7 +1,7 @@
 ---
 title: "KDE Inhibit - Control Desktop Functions | Online Free DevTools by Hexmos"
 name: kde-inhibit
-path: /freedevtools/tldr/linux/kde-inhibit
+path: "/freedevtools/tldr/linux/kde-inhibit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kde-inhibit/"
 description: "Control desktop functions with KDE Inhibit. Inhibit power management and screen saver functions easily using the command line. Free online tool, no registration required."
 category: linux

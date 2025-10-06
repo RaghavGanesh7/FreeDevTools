@@ -1,7 +1,7 @@
 ---
 title: "Convert SLD to PPM - Generate Images | Online Free DevTools by Hexmos"
 name: sldtoppm
-path: /freedevtools/tldr/common/sldtoppm
+path: "/freedevtools/tldr/common/sldtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sldtoppm/"
 description: "Convert SLD files to PPM images with sldtoppm. Adjust pixel scaling for optimal image conversion and visualization. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "DBX - Interact with Databricks | Online Free DevTools by Hexmos"
 name: dbx
-path: /freedevtools/tldr/common/dbx
+path: "/freedevtools/tldr/common/dbx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dbx/"
 description: "Interact with Databricks platform using DBX. Deploy workflows, sync files, and configure projects. Free online tool, no registration required."
 category: common

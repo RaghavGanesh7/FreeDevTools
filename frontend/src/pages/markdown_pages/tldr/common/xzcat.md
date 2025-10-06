@@ -1,7 +1,7 @@
 ---
 title: "Decompress XZ - Decompress Files with xzcat | Online Free DevTools by Hexmos"
 name: xzcat
-path: /freedevtools/tldr/common/xzcat
+path: "/freedevtools/tldr/common/xzcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xzcat/"
 description: "Decompress XZ files with xzcat. Extract archives and view decompressed content directly to standard output. Free online tool, no registration required."
 category: common

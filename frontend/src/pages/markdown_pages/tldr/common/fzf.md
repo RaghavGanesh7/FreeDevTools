@@ -1,7 +1,7 @@
 ---
 title: "Fuzzy Find Files - Search Files Quickly | Online Free DevTools by Hexmos"
 name: fzf
-path: "/freedevtools/tldr/common/fzf"
+path: "/freedevtools/tldr/common/fzf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fzf/"
 description: "Search files quickly with Fzf, a powerful fuzzy finder. Instantly locate files, processes, and commands. Free online tool, no registration required."
 category: common

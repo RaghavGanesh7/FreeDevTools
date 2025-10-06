@@ -1,7 +1,7 @@
 ---
 title: "Generate Warts Text - Format Warts Data | Online Free DevTools by Hexmos"
 name: sc_warts2text
-path: /freedevtools/tldr/common/sc_warts2text
+path: "/freedevtools/tldr/common/sc_warts2text/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_warts2text/"
 description: "Format warts data easily with sc_warts2text. Convert warts files to readable text for analysis and reporting using this powerful command. Free online tool, no registration required."
 category: common

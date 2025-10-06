@@ -1,7 +1,7 @@
 ---
 title: "Mutate Images - Modify Container Images | Online Free DevTools by Hexmos"
 name: crane-mutate
-path: /freedevtools/tldr/crane/crane-mutate
+path: "/freedevtools/tldr/crane/crane-mutate/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-mutate/"
 description: "Modify container images instantly with Crane Mutate. Update labels, annotations, and metadata of your container images. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Docker Images - Analyze and Build | Online Free DevTools by Hexmos"
 name: docker-slim
-path: /freedevtools/tldr/docker/docker-slim
+path: "/freedevtools/tldr/docker/docker-slim/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-slim/"
 description: "Optimize Docker images with DockerSlim. Analyze image layers and build optimized Dockerfiles. Free online tool, no registration required."
 category: common

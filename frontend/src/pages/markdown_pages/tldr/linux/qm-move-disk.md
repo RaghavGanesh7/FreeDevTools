@@ -1,7 +1,7 @@
 ---
 title: "QM Move Disk - Control Virtual Machine Storage | Online Free DevTools by Hexmos"
 name: qm-move-disk
-path: /freedevtools/tldr/linux/qm-move-disk
+path: "/freedevtools/tldr/linux/qm-move-disk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-move-disk/"
 description: "Control virtual machine disk movement with QM Move Disk. Migrate storage, optimize VM performance, and manage disk images efficiently. Free online tool, no registration required."
 category: linux

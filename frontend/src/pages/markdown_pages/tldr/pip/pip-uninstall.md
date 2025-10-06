@@ -1,7 +1,7 @@
 ---
 title: "Pip Uninstall - Remove Python Packages | Online Free DevTools by Hexmos"
 name: pip-uninstall
-path: /freedevtools/tldr/pip/pip-uninstall
+path: "/freedevtools/tldr/pip/pip-uninstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/pip/pip-uninstall/"
 description: "Uninstall Python packages easily with Pip Uninstall. Quickly remove unwanted packages and manage your Python environment effectively. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Fake Data - Fakedata Tool | Online Free DevTools by Hexmos"
 name: fakedata
-path: /freedevtools/tldr/common/fakedata
+path: "/freedevtools/tldr/common/fakedata/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fakedata/"
 description: "Generate fake data effortlessly with Fakedata. Create realistic datasets for testing and development using a variety of generators. Free online tool, no registration required."
 category: common

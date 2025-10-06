@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Where - Filter Objects | Online Free DevTools by Hexmos"
 name: pwsh-where
-path: /freedevtools/tldr/windows/pwsh-where
+path: "/freedevtools/tldr/windows/pwsh-where/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pwsh-where/"
 description: "Filter objects with PowerShell Where, enabling precise data selection. Streamline your Windows PowerShell scripting. Free online tool, no registration required."
 category: windows

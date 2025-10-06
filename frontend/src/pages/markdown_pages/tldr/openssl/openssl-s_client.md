@@ -1,7 +1,7 @@
 ---
 title: "OpenSSL Client - Create TLS Connections | Online Free DevTools by Hexmos"
 name: openssl-s_client
-path: /freedevtools/tldr/openssl/openssl-s_client
+path: "/freedevtools/tldr/openssl/openssl-s_client/"
 canonical: "https://hexmos.com/freedevtools/tldr/openssl/openssl-s_client/"
 description: "Create TLS client connections with OpenSSL s_client. Verify certificates and establish secure communication channels using command-line options. Free online tool, no registration required."
 category: common

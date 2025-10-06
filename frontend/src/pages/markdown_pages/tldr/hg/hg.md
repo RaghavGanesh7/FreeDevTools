@@ -1,7 +1,7 @@
 ---
 title: "Mercurial Control - Manage Source Code | Online Free DevTools by Hexmos"
 name: hg
-path: "/freedevtools/tldr/hg/hg"
+path: "/freedevtools/tldr/hg/hg/"
 canonical: "https://hexmos.com/freedevtools/tldr/hg/hg/"
 description: "Control source code management with Mercurial (hg). Manage repositories, commit changes, and track revisions efficiently. Free online tool, no registration required."
 category: common

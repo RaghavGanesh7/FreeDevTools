@@ -1,7 +1,7 @@
 ---
 title: "Create Temporary Files - mktemp Command | Online Free DevTools by Hexmos"
 name: mktemp
-path: /freedevtools/tldr/common/mktemp
+path: "/freedevtools/tldr/common/mktemp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mktemp/"
 description: "Create temporary files instantly with mktemp. Manage temporary file paths and directories with this command-line tool. Free online tool, no registration required."
 category: common

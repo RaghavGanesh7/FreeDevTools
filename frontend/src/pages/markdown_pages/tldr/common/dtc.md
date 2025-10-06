@@ -1,7 +1,7 @@
 ---
 title: "Device Tree Compiler - Recompile DTB Files | Online Free DevTools by Hexmos"
 name: dtc
-path: /freedevtools/tldr/common/dtc
+path: "/freedevtools/tldr/common/dtc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dtc/"
 description: "Recompile device trees with Device Tree Compiler (dtc). Convert between `.dts` and `.dtb` formats, create overlays and decompile system trees. Free online tool, no registration required."
 category: common

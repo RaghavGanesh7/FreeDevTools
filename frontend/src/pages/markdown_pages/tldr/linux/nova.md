@@ -1,7 +1,7 @@
 ---
 title: "Control OpenStack Instances - Nova Command | Online Free DevTools by Hexmos"
 name: nova
-path: /freedevtools/tldr/linux/nova
+path: "/freedevtools/tldr/linux/nova/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nova/"
 description: "Control OpenStack compute instances with the Nova command line tool. Provision VMs, manage networking, and automate cloud infrastructure. Free online tool, no registration required."
 category: linux

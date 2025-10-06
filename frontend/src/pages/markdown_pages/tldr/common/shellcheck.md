@@ -1,7 +1,7 @@
 ---
 title: "Shellcheck - Validate Shell Scripts | Online Free DevTools by Hexmos"
 name: shellcheck
-path: /freedevtools/tldr/common/shellcheck
+path: "/freedevtools/tldr/common/shellcheck/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shellcheck/"
 description: "Validate shell scripts instantly with Shellcheck. Detect errors and improve code quality with static analysis. Free online tool, no registration required."
 category: common

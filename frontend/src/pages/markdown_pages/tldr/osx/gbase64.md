@@ -1,7 +1,7 @@
 ---
 title: "Generate Base64 - Encode Data with gbase64 | Online Free DevTools by Hexmos"
 name: gbase64
-path: /freedevtools/tldr/osx/gbase64
+path: "/freedevtools/tldr/osx/gbase64/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gbase64/"
 description: "Generate Base64 encoded strings with gbase64 on MacOS. Easily convert data to Base64 format for data transfer and encoding. Free online tool, no registration required."
 category: osx

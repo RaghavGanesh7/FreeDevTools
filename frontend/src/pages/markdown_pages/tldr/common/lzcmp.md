@@ -1,7 +1,7 @@
 ---
 title: "LZCMP - Compare Files | Online Free DevTools by Hexmos"
 name: lzcmp
-path: /freedevtools/tldr/common/lzcmp
+path: "/freedevtools/tldr/common/lzcmp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzcmp/"
 description: "Compare files with LZCMP, an alias of XZCMP. Quickly determine differences between compressed files. Free online tool, no registration required."
 category: common

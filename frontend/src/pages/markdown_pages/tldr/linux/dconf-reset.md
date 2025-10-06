@@ -1,7 +1,7 @@
 ---
 title: "dconf Reset - Reset dconf Values | Online Free DevTools by Hexmos"
 name: dconf-reset
-path: /freedevtools/tldr/linux/dconf-reset
+path: "/freedevtools/tldr/linux/dconf-reset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dconf-reset/"
 description: "Reset dconf key values instantly with dconf Reset. Manage configuration settings and restore default values using command line. Free online tool, no registration required."
 category: linux

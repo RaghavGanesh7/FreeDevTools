@@ -1,7 +1,7 @@
 ---
 title: "Timestamp Lines - Add Timestamps to Text | Online Free DevTools by Hexmos"
 name: ts
-path: /freedevtools/tldr/common/ts
+path: "/freedevtools/tldr/common/ts/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ts/"
 description: "Add timestamps to lines with ts, a powerful command-line utility.  Enhance log readability and track event timing with precision. Free online tool, no registration required."
 category: common

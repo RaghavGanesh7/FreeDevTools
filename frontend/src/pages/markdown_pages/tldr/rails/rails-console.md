@@ -1,7 +1,7 @@
 ---
 title: "Rails Console - Interact with Rails Applications | Online Free DevTools by Hexmos"
 name: rails-console
-path: /freedevtools/tldr/rails/rails-console
+path: "/freedevtools/tldr/rails/rails-console/"
 canonical: "https://hexmos.com/freedevtools/tldr/rails/rails-console/"
 description: "Interact with Rails applications using Rails Console. Debug, test, and manage your application's data directly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "IPCS Tool - Control System V IPC Facilities | Online Free DevTools by Hexmos"
 name: ipcs
-path: /freedevtools/tldr/linux/ipcs
+path: "/freedevtools/tldr/linux/ipcs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ipcs/"
 description: "Control System V IPC facilities with IPCS tool. Inspect shared memory segments, message queues, and semaphore arrays. Free online tool, no registration required."
 category: linux

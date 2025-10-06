@@ -1,7 +1,7 @@
 ---
 title: "Control Snake Game - Play nsnake in Linux | Online Free DevTools by Hexmos"
 name: nsnake
-path: /freedevtools/tldr/linux/nsnake
+path: "/freedevtools/tldr/linux/nsnake/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nsnake/"
 description: "Control a classic snake game with nsnake in the Linux terminal. Enjoy retro gaming and hone your reflexes with this simple command. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Bundle JavaScript - Create Web Bundles with Webpack | Online Free DevTools by Hexmos"
 name: webpack
-path: /freedevtools/tldr/common/webpack
+path: "/freedevtools/tldr/common/webpack/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/webpack/"
 description: "Bundle JavaScript with Webpack for optimized web applications. Minify, transpile, and manage dependencies using command line. Free online tool, no registration required."
 category: common

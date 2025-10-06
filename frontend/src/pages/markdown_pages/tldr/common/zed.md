@@ -1,7 +1,7 @@
 ---
 title: "Zed Editor - Open Files and Directories | Online Free DevTools by Hexmos"
 name: zed
-path: /freedevtools/tldr/common/zed
+path: "/freedevtools/tldr/common/zed/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zed/"
 description: "Open and edit files with Zed Editor, a fast and efficient text editor. Quickly navigate directories and manage code. Free online tool, no registration required."
 category: common

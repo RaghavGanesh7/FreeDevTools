@@ -1,7 +1,7 @@
 ---
 title: "Brightness - Control Display Brightness | Online Free DevTools by Hexmos"
 name: brightness
-path: /freedevtools/tldr/osx/brightness
+path: "/freedevtools/tldr/osx/brightness/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/brightness/"
 description: "Control display brightness with Brightness. Adjust screen illumination levels instantly and optimize your visual experience. Free online tool, no registration required."
 category: osx

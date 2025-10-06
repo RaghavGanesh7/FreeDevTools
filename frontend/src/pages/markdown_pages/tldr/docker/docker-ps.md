@@ -1,7 +1,7 @@
 ---
 title: "Docker PS - List Docker Containers | Online Free DevTools by Hexmos"
 name: docker-ps
-path: /freedevtools/tldr/docker/docker-ps
+path: "/freedevtools/tldr/docker/docker-ps/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-ps/"
 description: "List Docker containers quickly with Docker PS. Inspect container status, filter by name or image, and manage container lifecycles easily. Free online tool, no registration required."
 category: common

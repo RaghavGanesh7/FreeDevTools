@@ -1,7 +1,7 @@
 ---
 title: "Manage GitHub Secrets - Secure Repositories | Online Free DevTools by Hexmos"
 name: gh-secret
-path: /freedevtools/tldr/gh/gh-secret
+path: "/freedevtools/tldr/gh/gh-secret/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-secret/"
 description: "Manage GitHub secrets securely with gh-secret. Protect sensitive data, control repository access, and automate deployments. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate ARPA Name - Translate IP Addresses | Online Free DevTools by Hexmos"
 name: arpaname
-path: /freedevtools/tldr/linux/arpaname
+path: "/freedevtools/tldr/linux/arpaname/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/arpaname/"
 description: "Generate ARPA name with arpaname for IP address translation. Easily convert IPv4 and IPv6 addresses to their corresponding ARPA names. Free online tool, no registration required."
 category: linux

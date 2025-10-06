@@ -1,7 +1,7 @@
 ---
 title: "Renice Command - Control Process Priority | Online Free DevTools by Hexmos"
 name: renice
-path: /freedevtools/tldr/linux/renice
+path: "/freedevtools/tldr/linux/renice/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/renice/"
 description: "Control process priority with the renice command.  Adjust niceness values to manage system resource allocation. Free online tool, no registration required."
 category: linux

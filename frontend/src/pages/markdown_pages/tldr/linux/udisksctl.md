@@ -1,7 +1,7 @@
 ---
 title: "udisksctl - Control Storage Devices | Online Free DevTools by Hexmos"
 name: udisksctl
-path: /freedevtools/tldr/linux/udisksctl
+path: "/freedevtools/tldr/linux/udisksctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/udisksctl/"
 description: "Control storage devices with udisksctl. Manage disks, partitions, and mounts with ease using this command-line tool. Free online tool, no registration required."
 category: linux

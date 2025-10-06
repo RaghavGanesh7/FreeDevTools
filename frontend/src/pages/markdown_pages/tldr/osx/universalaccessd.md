@@ -1,7 +1,7 @@
 ---
 title: "Access Services - Get Universal Access with Daemon | Online Free DevTools by Hexmos"
 name: universalaccessd
-path: /freedevtools/tldr/osx/universalaccessd
+path: "/freedevtools/tldr/osx/universalaccessd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/universalaccessd/"
 description: "Get universal access services with universalaccessd. Manage accessibility features and system interactions on macOS. Free online tool, no registration required."
 category: osx

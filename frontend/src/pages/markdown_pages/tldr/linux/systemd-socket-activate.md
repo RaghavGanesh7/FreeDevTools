@@ -1,7 +1,7 @@
 ---
 title: "Socket Activate - Control Systemd Services | Online Free DevTools by Hexmos"
 name: systemd-socket-activate
-path: /freedevtools/tldr/linux/systemd-socket-activate
+path: "/freedevtools/tldr/linux/systemd-socket-activate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-socket-activate/"
 description: "Control systemd services instantly with systemd-socket-activate. Manage socket activation and pass environment variables with this command line tool. Free online tool, no registration required."
 category: linux

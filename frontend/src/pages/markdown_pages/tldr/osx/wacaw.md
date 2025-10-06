@@ -1,7 +1,7 @@
 ---
 title: "Capture Webcam Images - Control Camera | Online Free DevTools by Hexmos"
 name: wacaw
-path: /freedevtools/tldr/osx/wacaw
+path: "/freedevtools/tldr/osx/wacaw/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/wacaw/"
 description: "Capture webcam images with Wacaw. Take photos and record videos from your attached camera using command line. Free online tool, no registration required."
 category: osx

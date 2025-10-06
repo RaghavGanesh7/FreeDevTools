@@ -1,7 +1,7 @@
 ---
 title: "Display System Info - Screenfetch | Online Free DevTools by Hexmos"
 name: screenfetch
-path: /freedevtools/tldr/common/screenfetch
+path: "/freedevtools/tldr/common/screenfetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/screenfetch/"
 description: "Display system information instantly with Screenfetch. Get detailed hardware and software details, including distribution version. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Arptables - Control ARP Filtering Rules | Online Free DevTools by Hexmos"
 name: arptables
-path: /freedevtools/tldr/linux/arptables
+path: "/freedevtools/tldr/linux/arptables/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/arptables/"
 description: "Control ARP packet filtering with Arptables. Manage network traffic and enhance security using Linux command line rules. Free online tool, no registration required."
 category: linux

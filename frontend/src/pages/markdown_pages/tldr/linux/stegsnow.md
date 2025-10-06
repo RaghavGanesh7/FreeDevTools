@@ -1,7 +1,7 @@
 ---
 title: "Stegsnow - Conceal & Extract Text Messages | Online Free DevTools by Hexmos"
 name: stegsnow
-path: /freedevtools/tldr/linux/stegsnow
+path: "/freedevtools/tldr/linux/stegsnow/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/stegsnow/"
 description: "Conceal and extract messages in text files using stegsnow.  This steganography tool utilizes tabs and spaces for encoding. Free online tool, no registration required."
 category: linux

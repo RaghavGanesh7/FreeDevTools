@@ -1,7 +1,7 @@
 ---
 title: "Create Laravel Zero App - Installer | Online Free DevTools by Hexmos"
 name: laravel-zero
-path: /freedevtools/tldr/common/laravel-zero
+path: "/freedevtools/tldr/common/laravel-zero/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/laravel-zero/"
 description: "Create new Laravel Zero applications with the Laravel Zero installer. Streamline your development workflow and manage your projects efficiently. Free online tool, no registration required."
 category: common

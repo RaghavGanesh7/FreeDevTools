@@ -1,7 +1,7 @@
 ---
 title: "Deno Runtime - Execute JavaScript & TypeScript | Online Free DevTools by Hexmos"
 name: deno
-path: /freedevtools/tldr/common/deno
+path: "/freedevtools/tldr/common/deno/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/deno/"
 description: "Execute JavaScript and TypeScript code with Deno Runtime. Build secure and self-contained executables. Free online tool, no registration required."
 category: common

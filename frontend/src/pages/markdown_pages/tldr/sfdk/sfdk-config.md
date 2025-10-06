@@ -1,7 +1,7 @@
 ---
 title: "SFDK Config - Configure SFDK | Online Free DevTools by Hexmos"
 name: sfdk-config
-path: /freedevtools/tldr/sfdk/sfdk-config
+path: "/freedevtools/tldr/sfdk/sfdk-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-config/"
 description: "Configure SFDK settings and manage different scopes with SFDK Config. Set, mask, and clear configuration options. Free online tool, no registration required."
 category: common

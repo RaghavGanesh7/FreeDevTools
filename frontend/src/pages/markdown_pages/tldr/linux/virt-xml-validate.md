@@ -1,7 +1,7 @@
 ---
 title: "Validate Libvirt XML - Schema Validation Tool | Online Free DevTools by Hexmos"
 name: virt-xml-validate
-path: /freedevtools/tldr/linux/virt-xml-validate
+path: "/freedevtools/tldr/linux/virt-xml-validate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/virt-xml-validate/"
 description: "Validate Libvirt XML files against schemas with virt-xml-validate.  This command-line tool ensures schema compliance for your XML configurations. Free online tool, no registration required."
 category: linux

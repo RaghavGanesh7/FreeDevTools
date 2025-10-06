@@ -1,7 +1,7 @@
 ---
 title: "Network Scanner - Discover Live Hosts with Netdiscover | Online Free DevTools by Hexmos"
 name: netdiscover
-path: /freedevtools/tldr/common/netdiscover
+path: "/freedevtools/tldr/common/netdiscover/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/netdiscover/"
 description: "Discover live hosts on your network with Netdiscover, a powerful network scanner. Identify active devices and troubleshoot network issues. Free online tool, no registration required."
 category: common

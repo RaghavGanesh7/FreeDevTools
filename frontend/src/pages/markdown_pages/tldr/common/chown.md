@@ -1,7 +1,7 @@
 ---
 title: "Chown - Change File Ownership | Online Free DevTools by Hexmos"
 name: chown
-path: /freedevtools/tldr/common/chown
+path: "/freedevtools/tldr/common/chown/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chown/"
 description: "Change file ownership with Chown. Quickly modify user and group ownership of files and directories on Linux and MacOS. Free online tool, no registration required."
 category: common

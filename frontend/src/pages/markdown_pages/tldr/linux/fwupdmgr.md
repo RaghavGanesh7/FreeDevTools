@@ -1,7 +1,7 @@
 ---
 title: "Firmware Update Manager - Manage Firmware Updates | Online Free DevTools by Hexmos"
 name: fwupdmgr
-path: /freedevtools/tldr/linux/fwupdmgr
+path: "/freedevtools/tldr/linux/fwupdmgr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fwupdmgr/"
 description: "Manage firmware updates efficiently with fwupdmgr. Update UEFI, download firmware metadata, and install updates via command line. Free online tool, no registration required."
 category: linux

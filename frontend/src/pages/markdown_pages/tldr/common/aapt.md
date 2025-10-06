@@ -1,7 +1,7 @@
 ---
 title: "Android AAPT - Package and Compile Resources | Online Free DevTools by Hexmos"
 name: aapt
-path: /freedevtools/tldr/common/aapt
+path: "/freedevtools/tldr/common/aapt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/aapt/"
 description: "Package Android resources instantly with Android AAPT. Compile, list, and dump app metadata using command-line tools. Free online tool, no registration required."
 category: common

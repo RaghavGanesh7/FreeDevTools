@@ -1,7 +1,7 @@
 ---
 title: "Control Plasma Colorscheme - Apply Themes | Online Free DevTools by Hexmos"
 name: plasma-apply-colorscheme
-path: /freedevtools/tldr/linux/plasma-apply-colorscheme
+path: "/freedevtools/tldr/linux/plasma-apply-colorscheme/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/plasma-apply-colorscheme/"
 description: "Apply Plasma Colorschemes with plasma-apply-colorscheme. Customize your desktop appearance and switch themes quickly. Free online tool, no registration required."
 category: linux

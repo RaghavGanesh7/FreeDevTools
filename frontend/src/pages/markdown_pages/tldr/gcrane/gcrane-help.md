@@ -1,7 +1,7 @@
 ---
 title: "Gcrane - Display Help | Online Free DevTools by Hexmos"
 name: gcrane-help
-path: /freedevtools/tldr/gcrane/gcrane-help
+path: "/freedevtools/tldr/gcrane/gcrane-help/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcrane/gcrane-help/"
 description: "Display help information with Gcrane. Get command usage details and available options for container image management. Free online tool, no registration required."
 category: common

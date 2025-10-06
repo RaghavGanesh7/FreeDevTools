@@ -1,7 +1,7 @@
 ---
 title: "MPIEXEC Command - Execute Parallel Programs | Online Free DevTools by Hexmos"
 name: mpiexec
-path: /freedevtools/tldr/common/mpiexec
+path: "/freedevtools/tldr/common/mpiexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpiexec/"
 description: "Execute parallel programs efficiently with MPIEXEC command, an alias for MPIRUN. Manage and control distributed processes seamlessly with this command. Free online tool, no registration required."
 category: common

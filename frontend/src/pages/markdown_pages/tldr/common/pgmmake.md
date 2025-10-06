@@ -1,7 +1,7 @@
 ---
 title: "Create PGM Image - Generate Gray Level Images | Online Free DevTools by Hexmos"
 name: pgmmake
-path: /freedevtools/tldr/common/pgmmake
+path: "/freedevtools/tldr/common/pgmmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmmake/"
 description: "Generate PGM images with pgmmake. Create uniform gray level image files with specified dimensions. Free online tool, no registration required."
 category: common

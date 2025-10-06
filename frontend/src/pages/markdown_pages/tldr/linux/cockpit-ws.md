@@ -1,7 +1,7 @@
 ---
 title: "Cockpit WS - Control Websocket Communication | Online Free DevTools by Hexmos"
 name: cockpit-ws
-path: /freedevtools/tldr/linux/cockpit-ws
+path: "/freedevtools/tldr/linux/cockpit-ws/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cockpit-ws/"
 description: "Control websocket communication with Cockpit WS.  Manage connections, configure settings, and integrate with Cockpit Bridge. Free online tool, no registration required."
 category: linux

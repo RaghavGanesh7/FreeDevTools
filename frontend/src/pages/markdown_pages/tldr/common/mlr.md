@@ -1,7 +1,7 @@
 ---
 title: "Format Data with Miller (mlr) | Online Free DevTools by Hexmos"
 name: mlr
-path: /freedevtools/tldr/common/mlr
+path: "/freedevtools/tldr/common/mlr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mlr/"
 description: "Format data easily with Miller (mlr). Convert between CSV, JSON, TSV, and tabular formats. Free online tool, no registration required."
 category: common

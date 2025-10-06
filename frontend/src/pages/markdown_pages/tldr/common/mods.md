@@ -1,7 +1,7 @@
 ---
 title: "Generate AI Responses - Command-line AI with Mods | Online Free DevTools by Hexmos"
 name: mods
-path: /freedevtools/tldr/common/mods
+path: "/freedevtools/tldr/common/mods/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mods/"
 description: "Generate AI responses with Mods, a command-line AI tool designed for pipelines. Process data and automate tasks using natural language. Free online tool, no registration required."
 category: common

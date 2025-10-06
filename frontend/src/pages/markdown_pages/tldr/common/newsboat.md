@@ -1,7 +1,7 @@
 ---
 title: "Read RSS Feeds - Control Newsboat from Terminal | Online Free DevTools by Hexmos"
 name: newsboat
-path: "/freedevtools/tldr/common/newsboat"
+path: "/freedevtools/tldr/common/newsboat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/newsboat/"
 description: "Read RSS feeds efficiently with Newsboat, a text-based terminal feed reader. Subscribe, refresh, and manage feeds directly from your command line. Free online tool, no registration required."
 category: common

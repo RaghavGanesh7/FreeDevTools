@@ -1,7 +1,7 @@
 ---
 title: "Extrepo - Manage Debian Repositories | Online Free DevTools by Hexmos"
 name: extrepo
-path: /freedevtools/tldr/linux/extrepo
+path: "/freedevtools/tldr/linux/extrepo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/extrepo/"
 description: "Manage Debian repositories with Extrepo. Enable, disable, and update external repositories easily on your Linux system. Free online tool, no registration required."
 category: linux

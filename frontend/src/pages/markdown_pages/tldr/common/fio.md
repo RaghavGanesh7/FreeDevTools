@@ -1,7 +1,7 @@
 ---
 title: "FIO - Control Disk I/O Performance | Online Free DevTools by Hexmos"
 name: fio
-path: /freedevtools/tldr/common/fio
+path: "/freedevtools/tldr/common/fio/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fio/"
 description: "Control disk I/O performance with FIO. Analyze throughput and latency using customizable workloads for storage benchmarking. Free online tool, no registration required."
 category: common

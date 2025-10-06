@@ -1,7 +1,7 @@
 ---
 title: "Clone VM - Create Virtual Machine Copies | Online Free DevTools by Hexmos"
 name: qm-clone
-path: "/freedevtools/tldr/linux/qm-clone"
+path: "/freedevtools/tldr/linux/qm-clone/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-clone/"
 description: "Create virtual machine copies with Qm Clone. Easily clone VMs, manage disk formats, and integrate with Proxmox pools. Free online tool, no registration required."
 category: linux

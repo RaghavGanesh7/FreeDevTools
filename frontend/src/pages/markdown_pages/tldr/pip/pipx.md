@@ -1,7 +1,7 @@
 ---
 title: "Install Python Applications - Control Environments with pipx | Online Free DevTools by Hexmos"
 name: pipx
-path: /freedevtools/tldr/pip/pipx
+path: "/freedevtools/tldr/pip/pipx/"
 canonical: "https://hexmos.com/freedevtools/tldr/pip/pipx/"
 description: "Install Python applications in isolated environments with pipx. Manage dependencies and execute Python tools. Free online tool, no registration required."
 category: common

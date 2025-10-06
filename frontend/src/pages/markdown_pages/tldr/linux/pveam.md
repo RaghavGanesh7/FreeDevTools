@@ -1,7 +1,7 @@
 ---
 title: "pveam - Manage LXC Templates | Online Free DevTools by Hexmos"
 name: pveam
-path: /freedevtools/tldr/linux/pveam
+path: "/freedevtools/tldr/linux/pveam/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pveam/"
 description: "Manage LXC container templates with pveam.  Update, download, list, and remove templates easily. Free online tool, no registration required."
 category: linux

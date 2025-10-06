@@ -1,7 +1,7 @@
 ---
 title: "Create iOS Backups - Manage iDevice Data | Online Free DevTools by Hexmos"
 name: idevicebackup2
-path: /freedevtools/tldr/common/idevicebackup2
+path: "/freedevtools/tldr/common/idevicebackup2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicebackup2/"
 description: "Create iOS backups with idevicebackup2. Secure your iPhone or iPad data, restore devices, and manage backup encryption efficiently. Free online tool, no registration required."
 category: common

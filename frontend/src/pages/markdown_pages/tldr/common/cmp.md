@@ -1,7 +1,7 @@
 ---
 title: "Compare Files - Verify Data Integrity with Cmp | Online Free DevTools by Hexmos"
 name: cmp
-path: /freedevtools/tldr/common/cmp
+path: "/freedevtools/tldr/common/cmp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cmp/"
 description: "Compare files effortlessly with Cmp, ensuring data integrity and identifying differences byte by byte. Free online tool, no registration required. Great for checksum verification."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Deploy PHP Apps - Automate Deployment | Online Free DevTools by Hexmos"
 name: dep
-path: /freedevtools/tldr/common/dep
+path: "/freedevtools/tldr/common/dep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dep/"
 description: "Automate PHP deployment with Dep, a deployment automation tool. Quickly deploy your PHP applications with ease. Free online tool, no registration required."
 category: common

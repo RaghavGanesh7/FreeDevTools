@@ -1,7 +1,7 @@
 ---
 title: "Manage AWS WorkMail - Control Organizations and Users | Online Free DevTools by Hexmos"
 name: aws-workmail
-path: /freedevtools/tldr/aws/aws-workmail
+path: "/freedevtools/tldr/aws/aws-workmail/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-workmail/"
 description: "Manage AWS WorkMail organizations and users with this command-line tool. Control users, groups, and email configurations. Free online tool, no registration required."
 category: common

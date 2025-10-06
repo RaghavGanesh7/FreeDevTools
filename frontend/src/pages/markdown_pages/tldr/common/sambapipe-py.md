@@ -1,7 +1,7 @@
 ---
 title: "Samba Exploit - RCE with SambaCry | Online Free DevTools by Hexmos"
 name: sambapipe.py
-path: /freedevtools/tldr/common/sambapipe-py
+path: "/freedevtools/tldr/common/sambapipe-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/sambapipe-py/"
 description: "Exploit SambaCry vulnerabilities with sambaPipe.py. Achieve Remote Code Execution (RCE) on vulnerable Samba servers using shared object (SO) files. Free online tool, no registration required."
 category: common

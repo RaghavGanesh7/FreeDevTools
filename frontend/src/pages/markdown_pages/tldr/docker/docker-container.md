@@ -1,7 +1,7 @@
 ---
 title: "Docker Container - Manage Containers Easily | Online Free DevTools by Hexmos"
 name: docker-container
-path: /freedevtools/tldr/docker/docker-container
+path: "/freedevtools/tldr/docker/docker-container/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-container/"
 description: "Manage Docker containers effectively with Docker Container command. List, start, stop, pause, and inspect containers. Free online tool, no registration required."
 category: common

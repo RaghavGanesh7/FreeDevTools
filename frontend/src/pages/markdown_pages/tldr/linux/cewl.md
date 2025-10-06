@@ -1,7 +1,7 @@
 ---
 title: "Create Wordlist - Spider URLs with cewl | Online Free DevTools by Hexmos"
 name: cewl
-path: /freedevtools/tldr/linux/cewl
+path: "/freedevtools/tldr/linux/cewl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cewl/"
 description: "Create wordlists from website content with cewl, a powerful URL spidering tool. Extract targeted words and boost penetration testing efforts. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Run Rust Code Checker - Bacon | Online Free DevTools by Hexmos"
 name: bacon
-path: /freedevtools/tldr/common/bacon
+path: "/freedevtools/tldr/common/bacon/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bacon/"
 description: "Run background code checks with Bacon, a Rust code checker. Detect errors and improve code quality automatically. Free online tool, no registration required."
 category: common

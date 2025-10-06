@@ -1,7 +1,7 @@
 ---
 title: "Systemd-cat - Capture System Output | Online Free DevTools by Hexmos"
 name: systemd-cat
-path: /freedevtools/tldr/linux/systemd-cat
+path: "/freedevtools/tldr/linux/systemd-cat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-cat/"
 description: "Capture system output with systemd-cat to the systemd journal. Log program output and pipeline streams efficiently for centralized logging. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Sort Topological Order - Control File Dependencies | Online Free DevTools by Hexmos"
 name: gtsort
-path: /freedevtools/tldr/osx/gtsort
+path: "/freedevtools/tldr/osx/gtsort/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtsort/"
 description: "Control topological order with GTSort, an alias for GNU tsort. Resolve file dependencies and maintain build order in your projects. Free online tool, no registration required."
 category: osx

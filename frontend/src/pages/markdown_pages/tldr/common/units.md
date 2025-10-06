@@ -1,7 +1,7 @@
 ---
 title: "Convert Units - Measure Conversion Online | Online Free DevTools by Hexmos"
 name: units
-path: /freedevtools/tldr/common/units
+path: "/freedevtools/tldr/common/units/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/units/"
 description: "Convert units easily with Units, the powerful command-line tool. Perform accurate measurements and conversions online. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Daemon - Control Bitcoin Node | Online Free DevTools by Hexmos"
 name: bitcoind
-path: /freedevtools/tldr/common/bitcoind
+path: "/freedevtools/tldr/common/bitcoind/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bitcoind/"
 description: "Control Bitcoin node operations with Bitcoin Daemon. Configure networks, manage data directories, and run background processes. Free online tool, no registration required."
 category: common

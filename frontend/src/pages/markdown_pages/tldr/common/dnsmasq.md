@@ -1,7 +1,7 @@
 ---
 title: "Control DNS Server - Manage DNS with dnsmasq | Online Free DevTools by Hexmos"
 name: dnsmasq
-path: /freedevtools/tldr/common/dnsmasq
+path: "/freedevtools/tldr/common/dnsmasq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dnsmasq/"
 description: "Control DNS server configurations with dnsmasq. Easily manage DHCP leases, DNS forwarding and TFTP services on your network. Free online tool, no registration required."
 category: common

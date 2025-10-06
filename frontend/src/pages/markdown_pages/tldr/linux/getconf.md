@@ -1,7 +1,7 @@
 ---
 title: "Getconf - Control System Configuration | Online Free DevTools by Hexmos"
 name: getconf
-path: /freedevtools/tldr/linux/getconf
+path: "/freedevtools/tldr/linux/getconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/getconf/"
 description: "Control system configurations with Getconf. Retrieve configuration variables and system limits. Free online tool, no registration required."
 category: linux

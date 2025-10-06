@@ -1,7 +1,7 @@
 ---
 title: "GRUB Reboot - Control Boot Entry | Online Free DevTools by Hexmos"
 name: grub-reboot
-path: /freedevtools/tldr/linux/grub-reboot
+path: "/freedevtools/tldr/linux/grub-reboot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/grub-reboot/"
 description: "Control the GRUB boot entry with GRUB Reboot. Set a specific entry for the next system boot. Free online tool, no registration required."
 category: linux

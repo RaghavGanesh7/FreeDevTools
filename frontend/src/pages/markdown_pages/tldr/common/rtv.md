@@ -1,7 +1,7 @@
 ---
 title: "Control Reddit from Terminal - RTV Viewer | Online Free DevTools by Hexmos"
 name: rtv
-path: "/freedevtools/tldr/common/rtv"
+path: "/freedevtools/tldr/common/rtv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rtv/"
 description: "Control Reddit from your terminal with RTV, the Reddit Terminal Viewer. Browse subreddits, view submissions, and manage comments directly from the command line. Free online tool, no registration required."
 category: common

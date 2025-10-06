@@ -1,7 +1,7 @@
 ---
 title: "CPU Power Control - Manage CPU Frequency | Online Free DevTools by Hexmos"
 name: cpupower
-path: /freedevtools/tldr/linux/cpupower
+path: "/freedevtools/tldr/linux/cpupower/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cpupower/"
 description: "Control CPU frequency and power settings with cpupower. Manage governors, view core information, and optimize performance. Free online tool, no registration required."
 category: linux

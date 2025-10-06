@@ -1,7 +1,7 @@
 ---
 title: "Shortcuts - Manage MacOS Shortcuts | Online Free DevTools by Hexmos"
 name: shortcuts
-path: /freedevtools/tldr/osx/shortcuts
+path: "/freedevtools/tldr/osx/shortcuts/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/shortcuts/"
 description: "Manage MacOS shortcuts quickly with Shortcuts command. List, run, and view shortcuts directly from the command line. Free online tool, no registration required."
 category: osx

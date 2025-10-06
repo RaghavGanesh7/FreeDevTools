@@ -1,7 +1,7 @@
 ---
 title: "Hash Object - Generate Git Object ID | Online Free DevTools by Hexmos"
 name: git-hash-object
-path: /freedevtools/tldr/git/git-hash-object
+path: "/freedevtools/tldr/git/git-hash-object/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-hash-object/"
 description: "Generate Git object ID instantly with git-hash-object. Securely compute unique content hashes and store them in Git database. Free online tool, no registration required."
 category: common

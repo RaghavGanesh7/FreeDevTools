@@ -1,7 +1,7 @@
 ---
 title: "LZ4 Compressor - Compress and Decompress LZ4 Files | Online Free DevTools by Hexmos"
 name: lz4
-path: /freedevtools/tldr/common/lz4
+path: "/freedevtools/tldr/common/lz4/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lz4/"
 description: "Compress and decompress files with LZ4 Compressor. Efficiently manage LZ4 archives with this command-line utility. Free online tool, no registration required."
 category: common

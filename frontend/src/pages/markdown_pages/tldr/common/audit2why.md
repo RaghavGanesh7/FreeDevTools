@@ -1,7 +1,7 @@
 ---
 title: "Audit2Why - Understand SELinux Audit Messages | Online Free DevTools by Hexmos"
 name: audit2why
-path: /freedevtools/tldr/common/audit2why
+path: "/freedevtools/tldr/common/audit2why/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/audit2why/"
 description: "Understand SELinux audit messages with Audit2Why. Translate cryptic audit logs into human-readable explanations and troubleshoot security policies. Free online tool, no registration required."
 category: common

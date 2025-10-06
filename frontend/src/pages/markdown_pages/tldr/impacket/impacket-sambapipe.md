@@ -1,7 +1,7 @@
 ---
 title: "Control SambaPipe - Execute Commands | Online Free DevTools by Hexmos"
 name: impacket-sambapipe
-path: /freedevtools/tldr/impacket/impacket-sambapipe
+path: "/freedevtools/tldr/impacket/impacket-sambapipe/"
 canonical: "https://hexmos.com/freedevtools/tldr/impacket/impacket-sambapipe/"
 description: "Control remote systems with SambaPipe using impacket. Execute commands and manage file shares. Free online tool, no registration required."
 category: common

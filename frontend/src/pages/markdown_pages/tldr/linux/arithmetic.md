@@ -1,7 +1,7 @@
 ---
 title: "Arithmetic Quiz - Generate Math Problems | Online Free DevTools by Hexmos"
 name: arithmetic
-path: /freedevtools/tldr/linux/arithmetic
+path: "/freedevtools/tldr/linux/arithmetic/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/arithmetic/"
 description: "Generate arithmetic quiz problems with Arithmetic. Practice addition, subtraction, multiplication and division on the Linux command line. Free online tool, no registration required."
 category: linux

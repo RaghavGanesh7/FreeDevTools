@@ -1,7 +1,7 @@
 ---
 title: "Trash List - View Deleted Files with Trash | Online Free DevTools by Hexmos"
 name: trash-list
-path: /freedevtools/tldr/linux/trash-list
+path: "/freedevtools/tldr/linux/trash-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trash-list/"
 description: "View deleted files instantly with Trash List.  Manage your trash efficiently using this command-line interface. Free online tool, no registration required."
 category: linux

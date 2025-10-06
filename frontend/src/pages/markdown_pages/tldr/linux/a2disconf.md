@@ -1,7 +1,7 @@
 ---
 title: "A2disconf - Disable Apache Configs | Online Free DevTools by Hexmos"
 name: a2disconf
-path: /freedevtools/tldr/linux/a2disconf
+path: "/freedevtools/tldr/linux/a2disconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/a2disconf/"
 description: "Disable Apache configurations easily with A2disconf. Deactivate specified Apache configuration files on Debian systems. Free online tool, no registration required."
 category: linux

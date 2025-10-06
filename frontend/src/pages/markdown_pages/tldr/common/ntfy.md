@@ -1,7 +1,7 @@
 ---
 title: "Control Ntfy Notifications - HTTP Post | Online Free DevTools by Hexmos"
 name: ntfy
-path: /freedevtools/tldr/common/ntfy
+path: "/freedevtools/tldr/common/ntfy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ntfy/"
 description: "Control HTTP Post notifications with Ntfy. Send, receive, and trigger notifications via command line. Manage alerts effortlessly. Free online tool, no registration required."
 category: common

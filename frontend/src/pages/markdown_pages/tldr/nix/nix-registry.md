@@ -1,7 +1,7 @@
 ---
 title: "Nix Registry - Manage Flake Registries | Online Free DevTools by Hexmos"
 name: nix-registry
-path: /freedevtools/tldr/nix/nix-registry
+path: "/freedevtools/tldr/nix/nix-registry/"
 canonical: "https://hexmos.com/freedevtools/tldr/nix/nix-registry/"
 description: "Manage Nix flake registries with Nix Registry. Pin revisions, add entries, and remove outdated configurations. Free online tool, no registration required."
 category: common

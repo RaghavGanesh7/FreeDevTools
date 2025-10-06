@@ -1,7 +1,7 @@
 ---
 title: "Reverse Shell - Control Remote Access with rc | Online Free DevTools by Hexmos"
 name: rc
-path: /freedevtools/tldr/common/rc
+path: "/freedevtools/tldr/common/rc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rc/"
 description: "Control remote access instantly with rc Reverse Shell. Establish secure connections, execute commands, and manage systems remotely with this versatile networking tool. Free online tool, no registration required."
 category: common

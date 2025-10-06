@@ -1,7 +1,7 @@
 ---
 title: "Systemd Dissect - Inspect Disk Images | Online Free DevTools by Hexmos"
 name: systemd-dissect
-path: /freedevtools/tldr/linux/systemd-dissect
+path: "/freedevtools/tldr/linux/systemd-dissect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-dissect/"
 description: "Inspect and interact with OS disk images using Systemd Dissect. Mount, unmount, list files, and manage loopback devices. Free online tool, no registration required."
 category: linux

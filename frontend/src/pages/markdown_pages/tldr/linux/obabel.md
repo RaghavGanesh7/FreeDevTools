@@ -1,7 +1,7 @@
 ---
 title: "obabel Converter - Translate Chemistry Data | Online Free DevTools by Hexmos"
 name: obabel
-path: /freedevtools/tldr/linux/obabel
+path: "/freedevtools/tldr/linux/obabel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/obabel/"
 description: "Translate chemistry data with obabel, converting between various formats like .mol, SMILES, and XYZ coordinates. Generate images and 3D models. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "WMIC - Control Windows Processes | Online Free DevTools by Hexmos"
 name: wmic
-path: /freedevtools/tldr/windows/wmic
+path: "/freedevtools/tldr/windows/wmic/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/wmic/"
 description: "Control Windows processes with WMIC. Retrieve detailed information, manage running applications, and terminate processes. Free online tool, no registration required."
 category: windows

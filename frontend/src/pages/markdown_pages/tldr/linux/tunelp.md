@@ -1,7 +1,7 @@
 ---
 title: "Control Parallel Ports - tunelp Configuration | Online Free DevTools by Hexmos"
 name: tunelp
-path: /freedevtools/tldr/linux/tunelp
+path: "/freedevtools/tldr/linux/tunelp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tunelp/"
 description: "Control parallel port devices with tunelp. Optimize device performance, troubleshoot issues, and manage IRQ settings. Free online tool, no registration required."
 category: linux

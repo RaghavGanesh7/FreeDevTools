@@ -1,7 +1,7 @@
 ---
 title: "Pamscale - Scale Images Easily | Online Free DevTools by Hexmos"
 name: pamscale
-path: /freedevtools/tldr/common/pamscale
+path: "/freedevtools/tldr/common/pamscale/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamscale/"
 description: "Scale Netpbm images easily with Pamscale. Adjust width, height, and aspect ratio. Free online tool, no registration required. Ideal for image manipulation."
 category: common

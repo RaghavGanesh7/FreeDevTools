@@ -1,7 +1,7 @@
 ---
 title: "RHash - Generate Message Digests | Online Free DevTools by Hexmos"
 name: rhash
-path: "/freedevtools/tldr/common/rhash"
+path: "/freedevtools/tldr/common/rhash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rhash/"
 description: "Generate message digests with RHash. Calculate CRC32, SHA1, SHA3 checksums for files and messages. Free online tool, no registration required."
 category: common

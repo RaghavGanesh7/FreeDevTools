@@ -1,7 +1,7 @@
 ---
 title: "Cisco IP Command - Manage Network Configurations | Online Free DevTools by Hexmos"
 name: ip
-path: /freedevtools/tldr/cisco-ios/ip
+path: "/freedevtools/tldr/cisco-ios/ip/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/ip/"
 description: "Manage network configurations with Cisco IP Command. Configure IP addresses, DHCP, and domain names on Cisco devices. Free online tool, no registration required."
 category: cisco-ios

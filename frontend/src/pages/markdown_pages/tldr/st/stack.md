@@ -1,7 +1,7 @@
 ---
 title: "Stack Manager - Create Haskell Projects | Online Free DevTools by Hexmos"
 name: stack
-path: /freedevtools/tldr/st/stack
+path: "/freedevtools/tldr/st/stack/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/stack/"
 description: "Create Haskell projects easily with Stack Manager. Streamline development, build processes, and manage dependencies efficiently. Free online tool, no registration required."
 category: common

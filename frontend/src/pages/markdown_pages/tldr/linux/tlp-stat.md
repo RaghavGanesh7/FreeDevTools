@@ -1,7 +1,7 @@
 ---
 title: "Generate TLP Status Reports - System Power Management | Online Free DevTools by Hexmos"
 name: tlp-stat
-path: /freedevtools/tldr/linux/tlp-stat
+path: "/freedevtools/tldr/linux/tlp-stat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tlp-stat/"
 description: "Generate detailed system power management reports with tlp-stat.  Monitor power usage, temperatures, and device status. Free online tool, no registration required."
 category: linux

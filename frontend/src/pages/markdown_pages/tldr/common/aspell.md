@@ -1,7 +1,7 @@
 ---
 title: "Spell Check Text - Correct Spelling with Aspell | Online Free DevTools by Hexmos"
 name: aspell
-path: /freedevtools/tldr/common/aspell
+path: "/freedevtools/tldr/common/aspell/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/aspell/"
 description: "Spell check text with Aspell, an interactive spell checker. Identify and correct misspelled words instantly from command line. Free online tool, no registration required."
 category: common

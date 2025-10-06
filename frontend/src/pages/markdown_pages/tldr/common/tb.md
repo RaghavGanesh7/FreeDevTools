@@ -1,7 +1,7 @@
 ---
 title: "Task Manager - Manage Tasks and Notes | Online Free DevTools by Hexmos"
 name: tb
-path: /freedevtools/tldr/common/tb
+path: "/freedevtools/tldr/common/tb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tb/"
 description: "Manage tasks efficiently with Task Manager. Organize notes, prioritize items, and track progress across boards using command line. Free online tool, no registration required."
 category: common

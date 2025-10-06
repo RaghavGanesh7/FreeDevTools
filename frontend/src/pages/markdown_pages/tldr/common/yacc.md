@@ -1,7 +1,7 @@
 ---
 title: "Generate Parser - Yacc LALR Parser Generator | Online Free DevTools by Hexmos"
 name: yacc
-path: /freedevtools/tldr/common/yacc
+path: "/freedevtools/tldr/common/yacc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yacc/"
 description: "Generate a LALR parser with Yacc, transforming formal grammar specifications into C code. Efficient parsing and grammar conflict detection. Free online tool, no registration required."
 category: common

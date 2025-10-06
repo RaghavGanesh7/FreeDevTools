@@ -1,7 +1,7 @@
 ---
 title: "Compare Images - Calculate Image Differences | Online Free DevTools by Hexmos"
 name: diffimg
-path: /freedevtools/tldr/linux/diffimg
+path: "/freedevtools/tldr/linux/diffimg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/diffimg/"
 description: "Compare images with diffimg and calculate the pixel differences between two images. Output a visual representation of these differences. Free online tool, no registration required."
 category: linux

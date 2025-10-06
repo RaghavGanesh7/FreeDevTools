@@ -1,7 +1,7 @@
 ---
 title: "Capture Wireless Networks - Airodump-ng Packet Capture | Online Free DevTools by Hexmos"
 name: airodump-ng
-path: /freedevtools/tldr/common/airodump-ng
+path: "/freedevtools/tldr/common/airodump-ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/airodump-ng/"
 description: "Capture wireless network data with Airodump-ng. Analyze packets and display network information. Enhance your network security analysis. Free online tool, no registration required."
 category: common

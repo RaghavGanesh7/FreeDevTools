@@ -1,7 +1,7 @@
 ---
 title: "Gtimeout - Control Process Execution Time on macOS | Online Free DevTools by Hexmos"
 name: gtimeout
-path: /freedevtools/tldr/osx/gtimeout
+path: "/freedevtools/tldr/osx/gtimeout/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtimeout/"
 description: "Control process execution time with Gtimeout, an alias of GNU timeout on macOS. Manage process timeouts and resource consumption effortlessly. Free online tool, no registration required."
 category: osx

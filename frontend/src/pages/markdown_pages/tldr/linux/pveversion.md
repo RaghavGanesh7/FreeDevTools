@@ -1,7 +1,7 @@
 ---
 title: "Control Proxmox Version - Get System Info | Online Free DevTools by Hexmos"
 name: pveversion
-path: /freedevtools/tldr/linux/pveversion
+path: "/freedevtools/tldr/linux/pveversion/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pveversion/"
 description: "Control Proxmox system versions with Pveversion. View the Proxmox VE version and subpackage details for easy system management. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Create Dev Containers - Docker Development with devcontainer | Online Free DevTools by Hexmos"
 name: devcontainer
-path: /freedevtools/tldr/common/devcontainer
+path: "/freedevtools/tldr/common/devcontainer/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/devcontainer/"
 description: "Create and manage Docker development environments with devcontainer. Build images, apply templates, and execute commands easily. Free online tool, no registration required."
 category: common

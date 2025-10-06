@@ -1,7 +1,7 @@
 ---
 title: "Manage K3s Clusters - Control Kubernetes | Online Free DevTools by Hexmos"
 name: k3s
-path: /freedevtools/tldr/common/k3s
+path: "/freedevtools/tldr/common/k3s/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/k3s/"
 description: "Manage Kubernetes clusters with K3s. Deploy lightweight Kubernetes, take snapshots, and rotate certificates using simple commands. Free online tool, no registration required."
 category: common

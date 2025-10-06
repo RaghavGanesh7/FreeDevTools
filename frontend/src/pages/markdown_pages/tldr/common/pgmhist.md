@@ -1,7 +1,7 @@
 ---
 title: "Generate PGM Histogram - Analyze Image Values | Online Free DevTools by Hexmos"
 name: pgmhist
-path: /freedevtools/tldr/common/pgmhist
+path: "/freedevtools/tldr/common/pgmhist/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmhist/"
 description: "Generate PGM histogram with pgmhist, analyze image grey values. Discover value distribution and forensic data. Free online tool, no registration required."
 category: common

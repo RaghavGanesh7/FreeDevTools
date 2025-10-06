@@ -1,7 +1,7 @@
 ---
 title: "Control Packages - APK Package Manager | Online Free DevTools by Hexmos"
 name: apk
-path: /freedevtools/tldr/linux/apk
+path: "/freedevtools/tldr/linux/apk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apk/"
 description: "Control packages on Alpine Linux with APK Package Manager. Easily update, install, remove and search packages on your system. Free online tool, no registration required."
 category: linux

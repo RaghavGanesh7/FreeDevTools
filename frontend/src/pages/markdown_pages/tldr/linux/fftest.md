@@ -1,7 +1,7 @@
 ---
 title: "FFTest - Control Force-Feedback Devices | Online Free DevTools by Hexmos"
 name: fftest
-path: /freedevtools/tldr/linux/fftest
+path: "/freedevtools/tldr/linux/fftest/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fftest/"
 description: "Control force-feedback devices with FFTest, ensuring accurate rumble functionality. Verify gamepad interactions and diagnose controller issues with this tool. Free online tool, no registration required."
 category: linux

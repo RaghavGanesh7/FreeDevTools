@@ -1,7 +1,7 @@
 ---
 title: "File Coordination - Manage File Access | Online Free DevTools by Hexmos"
 name: filecoordinationd
-path: /freedevtools/tldr/osx/filecoordinationd
+path: "/freedevtools/tldr/osx/filecoordinationd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/filecoordinationd/"
 description: "Manage file access with File Coordination. Coordinate file operations between processes and prevent data corruption. Free online tool, no registration required."
 category: osx

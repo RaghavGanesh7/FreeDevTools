@@ -1,7 +1,7 @@
 ---
 title: "Resolvectl - Control DNS Resolution | Online Free DevTools by Hexmos"
 name: resolvectl
-path: /freedevtools/tldr/linux/resolvectl
+path: "/freedevtools/tldr/linux/resolvectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/resolvectl/"
 description: "Control DNS resolution with resolvectl. Resolve domains, query IP addresses, and manage DNS settings on Linux systems. Free online tool, no registration required."
 category: linux

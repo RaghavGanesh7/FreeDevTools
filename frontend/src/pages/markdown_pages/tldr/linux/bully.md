@@ -1,7 +1,7 @@
 ---
 title: "Bully WPS Pin Cracker - Brute-force Wireless Networks | Online Free DevTools by Hexmos"
 name: bully
-path: /freedevtools/tldr/linux/bully
+path: "/freedevtools/tldr/linux/bully/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bully/"
 description: "Brute-force WPS pins with Bully WPS Pin Cracker.  Crack wireless network passwords quickly and efficiently. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Generate Diagrams - Mermaid CLI Tool | Online Free DevTools by Hexmos"
 name: mmdc
-path: /freedevtools/tldr/common/mmdc
+path: "/freedevtools/tldr/common/mmdc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mmdc/"
 description: "Generate diagrams with Mermaid CLI tool. Create SVG, PNG, or PDF diagrams from Mermaid definition files. Free online tool, no registration required."
 category: common

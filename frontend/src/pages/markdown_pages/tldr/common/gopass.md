@@ -1,7 +1,7 @@
 ---
 title: "Gopass Password Manager - Securely Manage Passwords | Online Free DevTools by Hexmos"
 name: gopass
-path: /freedevtools/tldr/common/gopass
+path: "/freedevtools/tldr/common/gopass/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gopass/"
 description: "Securely manage passwords with Gopass Password Manager. Create, store, and sync passwords with this Unix password manager. Free online tool, no registration required."
 category: common

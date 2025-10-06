@@ -1,7 +1,7 @@
 ---
 title: "Control IPC - Manage System Resources | Online Free DevTools by Hexmos"
 name: ipcs
-path: /freedevtools/tldr/common/ipcs
+path: "/freedevtools/tldr/common/ipcs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipcs/"
 description: "Control IPC (Inter-Process Communication) resources with ipcs. Inspect shared memory, message queues, and semaphores. Free online tool, no registration required."
 category: common

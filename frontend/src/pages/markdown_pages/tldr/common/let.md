@@ -1,7 +1,7 @@
 ---
 title: "Evaluate Expressions - Calculate with Let Command | Online Free DevTools by Hexmos"
 name: let
-path: /freedevtools/tldr/common/let
+path: "/freedevtools/tldr/common/let/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/let/"
 description: "Evaluate expressions with the let command. Perform arithmetic calculations and conditional operations using shell scripting. Free online tool, no registration required."
 category: common

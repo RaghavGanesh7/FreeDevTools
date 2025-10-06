@@ -1,7 +1,7 @@
 ---
 title: "Groupmod - Modify User Groups | Online Free DevTools by Hexmos"
 name: groupmod
-path: "/freedevtools/tldr/linux/groupmod"
+path: "/freedevtools/tldr/linux/groupmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/groupmod/"
 description: "Modify user groups with Groupmod. Easily change group names and IDs on Linux systems. Free online tool, no registration required."
 category: linux

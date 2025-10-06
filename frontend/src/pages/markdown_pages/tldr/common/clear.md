@@ -1,7 +1,7 @@
 ---
 title: "Clear Terminal - Erase Screen | Online Free DevTools by Hexmos"
 name: clear
-path: /freedevtools/tldr/common/clear
+path: "/freedevtools/tldr/common/clear/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clear/"
 description: "Erase the terminal screen with Clear Terminal. Quickly clear your command line interface, preserve scrollback buffer, and specify terminal types. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Load Kernel Module - Dynamically Insmod | Online Free DevTools by Hexmos"
 name: insmod
-path: /freedevtools/tldr/linux/insmod
+path: "/freedevtools/tldr/linux/insmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/insmod/"
 description: "Dynamically load kernel modules with Insmod. Easily extend kernel functionality with custom drivers and features using command line. Free online tool, no registration required."
 category: linux

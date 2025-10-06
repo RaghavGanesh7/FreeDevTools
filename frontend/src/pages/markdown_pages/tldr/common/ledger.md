@@ -1,7 +1,7 @@
 ---
 title: "Ledger Accounting - Track Finances | Online Free DevTools by Hexmos"
 name: ledger
-path: /freedevtools/tldr/common/ledger
+path: "/freedevtools/tldr/common/ledger/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ledger/"
 description: "Track finances efficiently with Ledger Accounting, a powerful double-entry accounting system. Analyze transactions and generate comprehensive reports. Free online tool, no registration required."
 category: common

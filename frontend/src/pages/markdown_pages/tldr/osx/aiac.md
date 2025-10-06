@@ -1,7 +1,7 @@
 ---
 title: "Generate IaC Configurations - aiac | Online Free DevTools by Hexmos"
 name: aiac
-path: /freedevtools/tldr/osx/aiac
+path: "/freedevtools/tldr/osx/aiac/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/aiac/"
 description: "Generate IaC configurations with aiac. Automate infrastructure provisioning and management across multiple clouds. Free online tool, no registration required."
 category: osx

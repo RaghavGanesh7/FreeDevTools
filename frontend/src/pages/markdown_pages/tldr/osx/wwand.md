@@ -1,7 +1,7 @@
 ---
 title: "WWAN Daemon - Control USB WWAN Devices | Online Free DevTools by Hexmos"
 name: wwand
-path: /freedevtools/tldr/osx/wwand
+path: "/freedevtools/tldr/osx/wwand/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/wwand/"
 description: "Control USB WWAN (Wireless Wide Area Network) devices with WWAND daemon on macOS. Configure network interfaces and manage connections seamlessly. Free online tool, no registration required."
 category: osx

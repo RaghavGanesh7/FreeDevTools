@@ -1,7 +1,7 @@
 ---
 title: "Autojump - Navigate Directories Quickly | Online Free DevTools by Hexmos"
 name: jco
-path: /freedevtools/tldr/common/jco
+path: "/freedevtools/tldr/common/jco/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jco/"
 description: "Navigate directories rapidly with Autojump. Access frequently used folders with ease and improve your command-line workflow. Free online tool, no registration required."
 category: common

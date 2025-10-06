@@ -1,7 +1,7 @@
 ---
 title: "Nano Editor - Edit Text Files with Nano | Online Free DevTools by Hexmos"
 name: nano
-path: /freedevtools/tldr/common/nano
+path: "/freedevtools/tldr/common/nano/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nano/"
 description: "Edit text files efficiently with Nano Editor, an enhanced pico clone. Customize configurations and manage files effortlessly using the command line. Free online tool, no registration required."
 category: common

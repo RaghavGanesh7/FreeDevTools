@@ -1,7 +1,7 @@
 ---
 title: "Decompile Android Dex - Generate Java Code with Jadx | Online Free DevTools by Hexmos"
 name: jadx
-path: /freedevtools/tldr/common/jadx
+path: "/freedevtools/tldr/common/jadx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jadx/"
 description: "Decompile Android Dex files into readable Java code with Jadx. Analyze and reverse engineer Android applications quickly. Free online tool, no registration required."
 category: common

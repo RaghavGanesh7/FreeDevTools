@@ -1,7 +1,7 @@
 ---
 title: "LaTeX Compiler - Generate Documents with latexmk | Online Free DevTools by Hexmos"
 name: latexmk
-path: /freedevtools/tldr/common/latexmk
+path: "/freedevtools/tldr/common/latexmk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/latexmk/"
 description: "Generate LaTeX documents automatically with latexmk. Compile, update, and clean LaTeX projects effortlessly. Free online tool, no registration required."
 category: common

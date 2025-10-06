@@ -1,7 +1,7 @@
 ---
 title: "atoum Test Runner - Execute PHP Unit Tests | Online Free DevTools by Hexmos"
 name: atoum
-path: /freedevtools/tldr/common/atoum
+path: "/freedevtools/tldr/common/atoum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/atoum/"
 description: "Execute PHP unit tests effectively with atoum Test Runner. Streamline testing workflows and ensure code reliability. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Deborphan - Find Orphan Packages | Online Free DevTools by Hexmos"
 name: deborphan
-path: /freedevtools/tldr/linux/deborphan
+path: "/freedevtools/tldr/linux/deborphan/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/deborphan/"
 description: "Find orphan packages with Deborphan, your Linux package manager cleanup tool. Identify and remove unused dependencies easily. Free online tool, no registration required."
 category: linux

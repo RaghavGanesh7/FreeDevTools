@@ -1,7 +1,7 @@
 ---
 title: "Change Group Ownership - Control File Permissions | Online Free DevTools by Hexmos"
 name: chgrp
-path: /freedevtools/tldr/common/chgrp
+path: "/freedevtools/tldr/common/chgrp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chgrp/"
 description: "Change group ownership of files and directories with chgrp. Easily manage file permissions on Linux and Unix systems. Free online tool, no registration required."
 category: common

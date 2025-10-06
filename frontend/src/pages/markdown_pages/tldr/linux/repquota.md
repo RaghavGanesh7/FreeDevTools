@@ -1,7 +1,7 @@
 ---
 title: "Repquota - Display Linux Filesystem Quotas | Online Free DevTools by Hexmos"
 name: repquota
-path: /freedevtools/tldr/linux/repquota
+path: "/freedevtools/tldr/linux/repquota/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/repquota/"
 description: "Display Linux filesystem quotas instantly with Repquota. Analyze disk usage, manage user limits, and optimize storage allocation on Linux systems. Free online tool, no registration required."
 category: linux

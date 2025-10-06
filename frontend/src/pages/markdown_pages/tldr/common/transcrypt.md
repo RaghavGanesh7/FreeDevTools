@@ -1,7 +1,7 @@
 ---
 title: "Encrypt Files - Secure Git Repositories with Transcrypt | Online Free DevTools by Hexmos"
 name: transcrypt
-path: /freedevtools/tldr/common/transcrypt
+path: "/freedevtools/tldr/common/transcrypt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/transcrypt/"
 description: "Secure files using encryption with Transcrypt. Encrypt files transparently within Git repositories for enhanced data protection. Free online tool, no registration required."
 category: common

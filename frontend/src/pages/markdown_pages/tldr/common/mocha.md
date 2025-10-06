@@ -1,7 +1,7 @@
 ---
 title: "Run JavaScript Tests - Mocha Test Framework | Online Free DevTools by Hexmos"
 name: mocha
-path: /freedevtools/tldr/common/mocha
+path: "/freedevtools/tldr/common/mocha/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mocha/"
 description: "Run JavaScript tests quickly with Mocha, a versatile testing framework. Execute test suites, debug code, and ensure code quality. Free online tool, no registration required."
 category: common

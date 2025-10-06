@@ -1,7 +1,7 @@
 ---
 title: "Optimize SVG - Clean SVG Files | Online Free DevTools by Hexmos"
 name: svgcleaner
-path: /freedevtools/tldr/common/svgcleaner
+path: "/freedevtools/tldr/common/svgcleaner/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/svgcleaner/"
 description: "Optimize SVG files quickly with SVGcleaner, removing unnecessary data and reducing file size. Enhance your website's performance with smaller SVG images. Free online tool, no registration required."
 category: common

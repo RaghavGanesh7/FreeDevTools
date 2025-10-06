@@ -1,7 +1,7 @@
 ---
 title: "Execute LLVM Tests - lit Test Runner | Online Free DevTools by Hexmos"
 name: lit
-path: /freedevtools/tldr/common/lit
+path: "/freedevtools/tldr/common/lit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lit/"
 description: "Execute LLVM tests with lit, an LLVM integrated tester for efficient code testing. Automate test suites and analyze results. Free online tool, no registration required."
 category: common

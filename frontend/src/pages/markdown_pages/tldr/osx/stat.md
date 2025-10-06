@@ -1,7 +1,7 @@
 ---
 title: "Stat - Display File Status | Online Free DevTools by Hexmos"
 name: stat
-path: /freedevtools/tldr/osx/stat
+path: "/freedevtools/tldr/osx/stat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/stat/"
 description: "Display file status with Stat. Analyze file properties and permissions effortlessly using this command line tool. Free online tool, no registration required."
 category: osx

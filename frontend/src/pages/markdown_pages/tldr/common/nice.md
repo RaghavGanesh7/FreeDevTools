@@ -1,7 +1,7 @@
 ---
 title: "Nice Command - Control Process Priority | Online Free DevTools by Hexmos"
 name: nice
-path: /freedevtools/tldr/common/nice
+path: "/freedevtools/tldr/common/nice/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nice/"
 description: "Control process priority with the Nice command. Adjust niceness values to manage CPU resources effectively. Free online tool, no registration required."
 category: common

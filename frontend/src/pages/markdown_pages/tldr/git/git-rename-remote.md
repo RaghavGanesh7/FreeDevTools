@@ -1,7 +1,7 @@
 ---
 title: "Rename Git Remote - Change Repository Origin | Online Free DevTools by Hexmos"
 name: git-rename-remote
-path: /freedevtools/tldr/git/git-rename-remote
+path: "/freedevtools/tldr/git/git-rename-remote/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-rename-remote/"
 description: "Rename Git remote repositories easily with Git Rename Remote. Change your upstream or origin to a new remote URL. Free online tool, no registration required."
 category: common

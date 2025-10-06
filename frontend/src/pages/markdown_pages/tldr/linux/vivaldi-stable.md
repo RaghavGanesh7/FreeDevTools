@@ -1,7 +1,7 @@
 ---
 title: "Control Vivaldi Browser - Launch Commands | Online Free DevTools by Hexmos"
 name: vivaldi-stable
-path: /freedevtools/tldr/linux/vivaldi-stable
+path: "/freedevtools/tldr/linux/vivaldi-stable/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vivaldi-stable/"
 description: "Control Vivaldi browser quickly with command-line tools. Launch Vivaldi with specific profiles and settings. Free online tool, no registration required."
 category: linux

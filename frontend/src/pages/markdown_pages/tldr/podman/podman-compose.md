@@ -1,7 +1,7 @@
 ---
 title: "Compose Control - Manage Containers with Podman-Compose | Online Free DevTools by Hexmos"
 name: podman-compose
-path: /freedevtools/tldr/podman/podman-compose
+path: "/freedevtools/tldr/podman/podman-compose/"
 canonical: "https://hexmos.com/freedevtools/tldr/podman/podman-compose/"
 description: "Control container definitions easily with Podman-Compose. Manage and orchestrate multi-container applications using Compose specification. Free online tool, no registration required."
 category: common

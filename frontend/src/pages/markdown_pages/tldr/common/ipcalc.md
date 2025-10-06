@@ -1,7 +1,7 @@
 ---
 title: "Calculate IP Information - ipcalc Network Tool | Online Free DevTools by Hexmos"
 name: ipcalc
-path: /freedevtools/tldr/common/ipcalc
+path: "/freedevtools/tldr/common/ipcalc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipcalc/"
 description: "Calculate IP information with ipcalc. Determine subnet, broadcast address, and host range from an IP address and netmask. Free online tool, no registration required."
 category: common

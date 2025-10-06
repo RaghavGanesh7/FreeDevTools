@@ -1,7 +1,7 @@
 ---
 title: "Make - Control Compilation with Makefile | Online Free DevTools by Hexmos"
 name: make
-path: /freedevtools/tldr/common/make
+path: "/freedevtools/tldr/common/make/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/make/"
 description: "Control compilation processes effectively with Make. Define build targets, execute tasks, and manage dependencies with Makefiles. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Find Files - Breadth-First Search with BFS | Online Free DevTools by Hexmos"
 name: bfs
-path: /freedevtools/tldr/common/bfs
+path: "/freedevtools/tldr/common/bfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bfs/"
 description: "Find files quickly with BFS Breadth-First Search command. Efficiently locate files by name, extension, or size across directories. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Execute Command - Manage Host Processes with Distrobox | Online Free DevTools by Hexmos"
 name: distrobox-host-exec
-path: /freedevtools/tldr/linux/distrobox-host-exec
+path: "/freedevtools/tldr/linux/distrobox-host-exec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox-host-exec/"
 description: "Execute commands on the host with Distrobox-host-exec for seamless container interaction. Manage host processes directly from your Distrobox. Free online tool, no registration required."
 category: linux

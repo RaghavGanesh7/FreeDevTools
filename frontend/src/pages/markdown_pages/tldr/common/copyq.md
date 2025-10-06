@@ -1,7 +1,7 @@
 ---
 title: "CopyQ Clipboard Manager - Control Clipboard History | Online Free DevTools by Hexmos"
 name: copyq
-path: /freedevtools/tldr/common/copyq
+path: "/freedevtools/tldr/common/copyq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/copyq/"
 description: "Control clipboard history with CopyQ Clipboard Manager. Efficiently manage text snippets, images, and other data. Free online tool, no registration required."
 category: common

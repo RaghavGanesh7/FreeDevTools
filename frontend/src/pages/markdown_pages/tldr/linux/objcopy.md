@@ -1,7 +1,7 @@
 ---
 title: "Objcopy - Copy Object Files | Online Free DevTools by Hexmos"
 name: objcopy
-path: /freedevtools/tldr/linux/objcopy
+path: "/freedevtools/tldr/linux/objcopy/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/objcopy/"
 description: "Copy and transform object files with objcopy.  Manage sections, strip debugging info, and convert between formats. Free online tool, no registration required."
 category: linux

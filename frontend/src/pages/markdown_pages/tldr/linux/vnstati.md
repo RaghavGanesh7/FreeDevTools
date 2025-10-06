@@ -1,7 +1,7 @@
 ---
 title: "Generate Network Stats PNGs - vnstati Command | Online Free DevTools by Hexmos"
 name: vnstati
-path: /freedevtools/tldr/linux/vnstati
+path: "/freedevtools/tldr/linux/vnstati/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vnstati/"
 description: "Generate PNG network statistics images with vnstati.  Visualize your network traffic data easily with this command-line tool. Free online tool, no registration required."
 category: linux

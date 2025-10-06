@@ -1,7 +1,7 @@
 ---
 title: "Todo Manager - Create Todo Lists with Todoman | Online Free DevTools by Hexmos"
 name: todoman
-path: /freedevtools/tldr/common/todoman
+path: "/freedevtools/tldr/common/todoman/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/todoman/"
 description: "Create and manage your todo lists with Todoman. Effortlessly organize tasks, set deadlines, and track progress using command line. Free online tool, no registration required."
 category: common

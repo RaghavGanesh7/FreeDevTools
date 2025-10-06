@@ -1,7 +1,7 @@
 ---
 title: "Diff - Compare Files and Directories | Online Free DevTools by Hexmos"
 name: diff
-path: /freedevtools/tldr/common/diff
+path: "/freedevtools/tldr/common/diff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/diff/"
 description: "Compare files and directories with Diff. Identify changes, create patches, and analyze differences between files. Free online tool, no registration required."
 category: common

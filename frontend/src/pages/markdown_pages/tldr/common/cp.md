@@ -1,7 +1,7 @@
 ---
 title: "Copy File - Copy Files and Directories | Online Free DevTools by Hexmos"
 name: cp
-path: /freedevtools/tldr/common/cp
+path: "/freedevtools/tldr/common/cp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cp/"
 description: "Copy files easily with the cp command. Transfer directories recursively and manage file permissions efficiently with this free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Eva Calculator - Calculate Expressions with Eva | Online Free DevTools by Hexmos"
 name: eva
-path: /freedevtools/tldr/common/eva
+path: "/freedevtools/tldr/common/eva/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eva/"
 description: "Calculate expressions with Eva Calculator, a simple and powerful REPL. Perform arithmetic operations and use math functions. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Format Manual Pages - Display Documentation | Online Free DevTools by Hexmos"
 name: man
-path: /freedevtools/tldr/common/man
+path: "/freedevtools/tldr/common/man/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/man/"
 description: "Format documentation with Man command. Display manual pages and access command information. Free online tool, no registration required."
 category: common

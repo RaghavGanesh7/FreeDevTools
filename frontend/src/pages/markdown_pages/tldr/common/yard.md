@@ -1,7 +1,7 @@
 ---
 title: "Generate Ruby Documentation - YARD | Online Free DevTools by Hexmos"
 name: yard
-path: /freedevtools/tldr/common/yard
+path: "/freedevtools/tldr/common/yard/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yard/"
 description: "Generate Ruby documentation with YARD. Quickly create and manage API documentation for your Ruby projects. Free online tool, no registration required."
 category: common

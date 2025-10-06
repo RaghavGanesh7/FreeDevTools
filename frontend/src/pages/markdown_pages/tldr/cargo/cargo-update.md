@@ -1,7 +1,7 @@
 ---
 title: "Cargo Update - Manage Rust Dependencies | Online Free DevTools by Hexmos"
 name: cargo-update
-path: /freedevtools/tldr/cargo/cargo-update
+path: "/freedevtools/tldr/cargo/cargo-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-update/"
 description: "Manage Rust dependencies efficiently with Cargo Update. Get the latest versions or specify precise versions for your Rust projects. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Process - Manage Tokens & Privileges | Online Free DevTools by Hexmos"
 name: mimikatz-process
-path: /freedevtools/tldr/windows/mimikatz-process
+path: "/freedevtools/tldr/windows/mimikatz-process/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-process/"
 description: "Manage process tokens with Mimikatz Process tool. Elevate privileges, and list processes with associated tokens for Windows security. Free online tool, no registration required."
 category: windows

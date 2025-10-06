@@ -1,7 +1,7 @@
 ---
 title: "Appsleepd - Control App Sleep Services | Online Free DevTools by Hexmos"
 name: appsleepd
-path: /freedevtools/tldr/osx/appsleepd
+path: "/freedevtools/tldr/osx/appsleepd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/appsleepd/"
 description: "Control app sleep services with appsleepd. Optimize power consumption and manage application activity using this daemon command on macOS. Free online tool, no registration required."
 category: osx

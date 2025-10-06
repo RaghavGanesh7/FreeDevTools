@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Control File Names with Command Line | Online Free DevTools by Hexmos"
 name: rename
-path: /freedevtools/tldr/common/rename
+path: "/freedevtools/tldr/common/rename/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rename/"
 description: "Control file names with Rename Files command. Easily batch rename files using regex patterns on Linux and macOS systems. Free online tool, no registration required."
 category: common

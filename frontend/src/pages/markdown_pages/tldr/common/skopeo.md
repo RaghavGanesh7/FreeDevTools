@@ -1,7 +1,7 @@
 ---
 title: "Manage Container Images - Skopeo Toolbox | Online Free DevTools by Hexmos"
 name: skopeo
-path: /freedevtools/tldr/common/skopeo
+path: "/freedevtools/tldr/common/skopeo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/skopeo/"
 description: "Manage container images easily with Skopeo. Inspect, copy, and delete images across various registries. Free online tool, no registration required."
 category: common

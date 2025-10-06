@@ -1,7 +1,7 @@
 ---
 title: "GDAL Info - Analyze Raster Data | Online Free DevTools by Hexmos"
 name: gdalinfo
-path: /freedevtools/tldr/common/gdalinfo
+path: "/freedevtools/tldr/common/gdalinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdalinfo/"
 description: "Analyze raster data with GDAL Info, revealing metadata and properties. Extract histograms, format details, and WMS information effortlessly. Free online tool, no registration required."
 category: common

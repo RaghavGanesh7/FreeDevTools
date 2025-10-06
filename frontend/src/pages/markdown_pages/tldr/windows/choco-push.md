@@ -1,7 +1,7 @@
 ---
 title: "Choco Push - Deploy NuGet Packages | Online Free DevTools by Hexmos"
 name: choco-push
-path: /freedevtools/tldr/windows/choco-push
+path: "/freedevtools/tldr/windows/choco-push/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-push/"
 description: "Deploy NuGet packages swiftly with Choco Push. Streamline your software distribution workflow by pushing packages to your feeds. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "V Formatter - Format V Source Code | Online Free DevTools by Hexmos"
 name: v
-path: /freedevtools/tldr/common/v
+path: "/freedevtools/tldr/common/v/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/v/"
 description: "Format V source code with V Formatter. Instantly format and manage V projects with ease using the command line. Free online tool, no registration required."
 category: common

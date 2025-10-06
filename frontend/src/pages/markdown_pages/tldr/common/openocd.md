@@ -1,7 +1,7 @@
 ---
 title: "OpenOCD Debug - Program Embedded Systems | Online Free DevTools by Hexmos"
 name: openocd
-path: "/freedevtools/tldr/common/openocd"
+path: "/freedevtools/tldr/common/openocd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/openocd/"
 description: "Debug embedded systems with OpenOCD. Program microcontrollers, flash memory, and control JTAG interfaces via command line. Free online tool, no registration required."
 category: common

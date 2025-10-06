@@ -1,7 +1,7 @@
 ---
 title: "Create WireGuard Tunnels - Quickly Setup VPN | Online Free DevTools by Hexmos"
 name: wg-quick
-path: /freedevtools/tldr/linux/wg-quick
+path: "/freedevtools/tldr/linux/wg-quick/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wg-quick/"
 description: "Create VPN tunnels quickly with wg-quick. Easily configure WireGuard interfaces for secure network connections using command line. Free online tool, no registration required."
 category: linux

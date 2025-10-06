@@ -1,7 +1,7 @@
 ---
 title: "Remove Directory - Delete Folders with grmdir | Online Free DevTools by Hexmos"
 name: grmdir
-path: /freedevtools/tldr/osx/grmdir
+path: "/freedevtools/tldr/osx/grmdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/grmdir/"
 description: "Delete directories with grmdir, an alias for rmdir on macOS. Easily remove empty folders from the command line with this streamlined tool. Free online tool, no registration required."
 category: osx

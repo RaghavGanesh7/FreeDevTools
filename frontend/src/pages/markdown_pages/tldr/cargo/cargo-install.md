@@ -1,7 +1,7 @@
 ---
 title: "Cargo Install - Build Rust Binaries | Online Free DevTools by Hexmos"
 name: cargo-install
-path: /freedevtools/tldr/cargo/cargo-install
+path: "/freedevtools/tldr/cargo/cargo-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-install/"
 description: "Build Rust binaries effortlessly with Cargo Install. Install crates from crates.io, Git repositories, or local paths. Free online tool, no registration required."
 category: common

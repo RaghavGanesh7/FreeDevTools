@@ -1,7 +1,7 @@
 ---
 title: "Choco Search - Find Chocolatey Packages | Online Free DevTools by Hexmos"
 name: choco-search
-path: /freedevtools/tldr/windows/choco-search
+path: "/freedevtools/tldr/windows/choco-search/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-search/"
 description: "Find Chocolatey packages easily with Choco Search. Discover, manage, and install software packages on Windows. Free online tool, no registration required."
 category: windows

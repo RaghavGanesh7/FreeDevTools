@@ -1,7 +1,7 @@
 ---
 title: "Userdel - Remove Linux User Accounts | Online Free DevTools by Hexmos"
 name: userdel
-path: /freedevtools/tldr/linux/userdel
+path: "/freedevtools/tldr/linux/userdel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/userdel/"
 description: "Remove Linux user accounts efficiently with Userdel. Manage user permissions and system security with this command-line tool. Free online tool, no registration required."
 category: linux

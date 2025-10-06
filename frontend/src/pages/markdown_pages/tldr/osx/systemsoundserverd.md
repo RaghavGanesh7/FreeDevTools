@@ -1,7 +1,7 @@
 ---
 title: "Control systemsoundserverd - Core Audio Daemon | Online Free DevTools by Hexmos"
 name: systemsoundserverd
-path: /freedevtools/tldr/osx/systemsoundserverd
+path: "/freedevtools/tldr/osx/systemsoundserverd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/systemsoundserverd/"
 description: "Control core audio processes with systemsoundserverd. Manage system sound server functionality and ensure proper audio device operation. Free online tool, no registration required."
 category: osx

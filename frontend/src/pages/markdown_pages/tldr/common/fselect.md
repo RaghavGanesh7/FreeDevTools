@@ -1,7 +1,7 @@
 ---
 title: "Find Files - Query Files with SQL-like Syntax | Online Free DevTools by Hexmos"
 name: fselect
-path: /freedevtools/tldr/common/fselect
+path: "/freedevtools/tldr/common/fselect/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fselect/"
 description: "Find files easily with fselect using SQL-like queries. Search files based on various attributes such as name, size, and metadata. Free online tool, no registration required."
 category: common

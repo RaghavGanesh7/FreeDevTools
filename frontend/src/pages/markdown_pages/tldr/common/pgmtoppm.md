@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM to PPM - Colorize Images | Online Free DevTools by Hexmos"
 name: pgmtoppm
-path: "/freedevtools/tldr/common/pgmtoppm"
+path: "/freedevtools/tldr/common/pgmtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmtoppm/"
 description: "Convert PGM images to PPM format with PGMtoPPM. Colorize greyscale images and apply color maps easily. Free online tool, no registration required."
 category: common

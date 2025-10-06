@@ -1,7 +1,7 @@
 ---
 title: "Apktool - Reverse Engineer APK Files | Online Free DevTools by Hexmos"
 name: apktool
-path: /freedevtools/tldr/common/apktool
+path: "/freedevtools/tldr/common/apktool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/apktool/"
 description: "Reverse engineer APK files with Apktool, inspect manifest data, and debug mobile apps. Free online tool, no registration required."
 category: common

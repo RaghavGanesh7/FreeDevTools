@@ -1,7 +1,7 @@
 ---
 title: "Generate age Key Pairs - Encryption Keys | Online Free DevTools by Hexmos"
 name: age-keygen
-path: /freedevtools/tldr/common/age-keygen
+path: "/freedevtools/tldr/common/age-keygen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/age-keygen/"
 description: "Generate encryption key pairs with age-keygen. Secure file encryption and decryption. Free online tool, no registration required."
 category: common

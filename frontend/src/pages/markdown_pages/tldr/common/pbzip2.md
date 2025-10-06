@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - Control pbzip2 Compression | Online Free DevTools by Hexmos"
 name: pbzip2
-path: /freedevtools/tldr/common/pbzip2
+path: "/freedevtools/tldr/common/pbzip2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbzip2/"
 description: "Compress files efficiently with pbzip2, a parallel bzip2 implementation. Achieve faster compression rates with multi-core support. Free online tool, no registration required."
 category: common

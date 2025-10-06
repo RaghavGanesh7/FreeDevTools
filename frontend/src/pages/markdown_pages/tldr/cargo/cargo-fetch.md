@@ -1,7 +1,7 @@
 ---
 title: "Fetch Rust Dependencies - Manage Packages | Online Free DevTools by Hexmos"
 name: cargo-fetch
-path: /freedevtools/tldr/cargo/cargo-fetch
+path: "/freedevtools/tldr/cargo/cargo-fetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-fetch/"
 description: "Fetch Rust dependencies instantly with Cargo Fetch. Download packages and manage your Rust projects efficiently. Free online tool, no registration required."
 category: common

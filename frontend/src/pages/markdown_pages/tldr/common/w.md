@@ -1,7 +1,7 @@
 ---
 title: "Display Users - Monitor Logged-in Users with w | Online Free DevTools by Hexmos"
 name: w
-path: /freedevtools/tldr/common/w
+path: "/freedevtools/tldr/common/w/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/w/"
 description: "Monitor logged-in users efficiently with w command. Track user activity and identify idle sessions on Linux systems with ease. Free online tool, no registration required."
 category: common

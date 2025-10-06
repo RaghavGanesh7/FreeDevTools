@@ -1,7 +1,7 @@
 ---
 title: "Execute JSONPath - Query JSON with AJSON | Online Free DevTools by Hexmos"
 name: ajson
-path: /freedevtools/tldr/common/ajson
+path: "/freedevtools/tldr/common/ajson/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ajson/"
 description: "Execute JSONPath queries with AJSON, a command-line JSON processor. Extract, transform, and filter JSON data effortlessly. Free online tool, no registration required."
 category: common

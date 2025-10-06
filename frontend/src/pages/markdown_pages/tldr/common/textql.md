@@ -1,7 +1,7 @@
 ---
 title: "Execute SQL on Text - Query CSV/TSV with TextQL | Online Free DevTools by Hexmos"
 name: textql
-path: "/freedevtools/tldr/common/textql"
+path: "/freedevtools/tldr/common/textql/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/textql/"
 description: "Execute SQL queries directly on text files with TextQL. Analyze CSV and TSV data with SQL, ideal for data analysis and reporting. Free online tool, no registration required."
 category: common

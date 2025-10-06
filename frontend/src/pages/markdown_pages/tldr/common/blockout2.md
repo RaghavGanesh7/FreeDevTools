@@ -1,7 +1,7 @@
 ---
 title: "Control Blockout2 - Play 3D Tetris | Online Free DevTools by Hexmos"
 name: blockout2
-path: /freedevtools/tldr/common/blockout2
+path: "/freedevtools/tldr/common/blockout2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/blockout2/"
 description: "Control Blockout2, a 3D Tetris-like game. Play Blockout2 using command-line for a retro gaming experience. Free online tool, no registration required."
 category: common

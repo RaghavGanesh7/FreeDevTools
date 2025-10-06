@@ -1,7 +1,7 @@
 ---
 title: "AWS Lightsail - Manage Cloud Resources | Online Free DevTools by Hexmos"
 name: aws-lightsail
-path: /freedevtools/tldr/aws/aws-lightsail
+path: "/freedevtools/tldr/aws/aws-lightsail/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-lightsail/"
 description: "Manage AWS Lightsail cloud resources with this online tool. Quickly deploy and control virtual servers and applications. Free online tool, no registration required."
 category: common

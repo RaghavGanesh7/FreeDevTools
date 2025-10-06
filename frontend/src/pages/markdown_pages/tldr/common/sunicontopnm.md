@@ -1,7 +1,7 @@
 ---
 title: "Convert Sun Icon - Create Netpbm Images | Online Free DevTools by Hexmos"
 name: sunicontopnm
-path: /freedevtools/tldr/common/sunicontopnm
+path: "/freedevtools/tldr/common/sunicontopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sunicontopnm/"
 description: "Convert Sun icon files to Netpbm image format with sunicontopnm. Create portable bitmaps from older icon formats easily. Free online tool, no registration required."
 category: common

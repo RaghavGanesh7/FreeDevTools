@@ -1,7 +1,7 @@
 ---
 title: "zramctl - Control zRAM Devices | Online Free DevTools by Hexmos"
 name: zramctl
-path: /freedevtools/tldr/linux/zramctl
+path: "/freedevtools/tldr/linux/zramctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/zramctl/"
 description: "Control and manage zRAM devices with zramctl.  Initialize, configure, and monitor zRAM devices for improved system performance. Free online tool, no registration required."
 category: linux

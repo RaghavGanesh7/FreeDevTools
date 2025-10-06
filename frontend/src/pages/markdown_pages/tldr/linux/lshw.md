@@ -1,7 +1,7 @@
 ---
 title: "List Hardware - System Information with lshw | Online Free DevTools by Hexmos"
 name: lshw
-path: /freedevtools/tldr/linux/lshw
+path: "/freedevtools/tldr/linux/lshw/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lshw/"
 description: "List and view detailed hardware information with lshw.  Generate reports in various formats, including HTML, XML and JSON. Free online tool, no registration required."
 category: linux

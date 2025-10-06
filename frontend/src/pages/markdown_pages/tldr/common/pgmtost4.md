@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM to ST-4 - Format Images | Online Free DevTools by Hexmos"
 name: pgmtost4
-path: /freedevtools/tldr/common/pgmtost4
+path: "/freedevtools/tldr/common/pgmtost4/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmtost4/"
 description: "Convert PGM images to ST-4 format with pgmtost4. Easily transform your PGM files for specialized image processing. Free online tool, no registration required."
 category: common

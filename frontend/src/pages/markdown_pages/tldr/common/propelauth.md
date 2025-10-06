@@ -1,7 +1,7 @@
 ---
 title: "PropelAuth Setup - Manage Authentication | Online Free DevTools by Hexmos"
 name: propelauth
-path: /freedevtools/tldr/common/propelauth
+path: "/freedevtools/tldr/common/propelauth/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/propelauth/"
 description: "Setup authentication with PropelAuth to secure your applications. Quickly login, configure projects, and install authentication easily. Free online tool, no registration required."
 category: common

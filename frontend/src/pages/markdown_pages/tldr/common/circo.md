@@ -1,7 +1,7 @@
 ---
 title: "Render Graphviz Graphs - Circo Network Layout | Online Free DevTools by Hexmos"
 name: circo
-path: /freedevtools/tldr/common/circo
+path: "/freedevtools/tldr/common/circo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/circo/"
 description: "Render network graphs with Circo, a Graphviz layout tool. Generate circular visualizations from DOT files for network analysis. Free online tool, no registration required."
 category: common

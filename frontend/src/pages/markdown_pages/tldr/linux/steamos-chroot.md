@@ -1,7 +1,7 @@
 ---
 title: "SteamOS Chroot - Switch Root Directories | Online Free DevTools by Hexmos"
 name: steamos-chroot
-path: /freedevtools/tldr/linux/steamos-chroot
+path: "/freedevtools/tldr/linux/steamos-chroot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-chroot/"
 description: "Switch root directories with SteamOS Chroot, allowing you to easily transition between A/B partitions and different drives in a SteamOS environment. Free online tool, no registration required."
 category: linux

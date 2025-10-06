@@ -1,7 +1,7 @@
 ---
 title: "Serve Files - Start Static HTTP Server | Online Free DevTools by Hexmos"
 name: serve
-path: "/freedevtools/tldr/common/serve"
+path: "/freedevtools/tldr/common/serve/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/serve/"
 description: "Start static files serving with Serve. Quickly create a local HTTP server for development and testing. Free online tool, no registration required."
 category: common

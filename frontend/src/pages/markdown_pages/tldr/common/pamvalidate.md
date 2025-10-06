@@ -1,7 +1,7 @@
 ---
 title: "PAM Validate - Validate Netpbm Images | Online Free DevTools by Hexmos"
 name: pamvalidate
-path: /freedevtools/tldr/common/pamvalidate
+path: "/freedevtools/tldr/common/pamvalidate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamvalidate/"
 description: "Validate PAM images with pamvalidate. Verify the format and integrity of Netpbm image files quickly. Free online tool, no registration required."
 category: common

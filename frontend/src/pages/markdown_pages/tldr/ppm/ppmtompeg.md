@@ -1,7 +1,7 @@
 ---
 title: "Encode MPEG-1 Streams - Generate MPEG | Online Free DevTools by Hexmos"
 name: ppmtompeg
-path: /freedevtools/tldr/ppm/ppmtompeg
+path: "/freedevtools/tldr/ppm/ppmtompeg/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtompeg/"
 description: "Generate MPEG-1 streams with ppmtompeg. Easily encode images into MPEG videos using specified parameters. Free online tool, no registration required."
 category: common

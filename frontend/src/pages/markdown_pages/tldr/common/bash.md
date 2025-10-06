@@ -1,7 +1,7 @@
 ---
 title: "Bash Shell - Control Command-Line Processes | Online Free DevTools by Hexmos"
 name: bash
-path: /freedevtools/tldr/common/bash
+path: "/freedevtools/tldr/common/bash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bash/"
 description: "Control command-line processes with Bash Shell. Execute commands, scripts, and manage shell sessions efficiently. Free online tool, no registration required."
 category: common

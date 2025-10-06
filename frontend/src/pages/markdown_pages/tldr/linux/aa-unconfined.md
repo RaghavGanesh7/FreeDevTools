@@ -1,7 +1,7 @@
 ---
 title: "AA-Unconfined - List Unconfined Linux Processes | Online Free DevTools by Hexmos"
 name: aa-unconfined
-path: /freedevtools/tldr/linux/aa-unconfined
+path: "/freedevtools/tldr/linux/aa-unconfined/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-unconfined/"
 description: "List unconfined Linux processes instantly with AA-Unconfined. Identify processes lacking AppArmor profiles and enhance system security. Free online tool, no registration required."
 category: linux

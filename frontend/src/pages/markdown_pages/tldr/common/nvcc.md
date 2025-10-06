@@ -1,7 +1,7 @@
 ---
 title: "NVCC Compiler - Compile CUDA Programs | Online Free DevTools by Hexmos"
 name: nvcc
-path: /freedevtools/tldr/common/nvcc
+path: "/freedevtools/tldr/common/nvcc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nvcc/"
 description: "Compile CUDA programs effortlessly with NVCC Compiler. Generate executables, debug information, and link libraries for GPU development. Free online tool, no registration required."
 category: common

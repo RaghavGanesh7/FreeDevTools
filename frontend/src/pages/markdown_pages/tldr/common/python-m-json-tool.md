@@ -1,7 +1,7 @@
 ---
 title: "Validate JSON - Format JSON Data | Online Free DevTools by Hexmos"
 name: python-m-json.tool
-path: /freedevtools/tldr/common/python-m-json-tool
+path: "/freedevtools/tldr/common/python-m-json-tool/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/python-m-json-tool/"
 description: "Validate JSON with python -m json.tool. Format and pretty-print JSON data for readability and debugging. Free online tool, no registration required."
 category: common

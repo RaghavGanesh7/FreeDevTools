@@ -1,7 +1,7 @@
 ---
 title: "Compare Gzip Files - Diff Gzip Archives | Online Free DevTools by Hexmos"
 name: zdiff
-path: /freedevtools/tldr/common/zdiff
+path: "/freedevtools/tldr/common/zdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zdiff/"
 description: "Compare Gzip files with zdiff. Uncompress and diff gzip archives instantly. A simple command-line tool for file comparison. Free online tool, no registration required."
 category: common

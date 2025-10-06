@@ -1,7 +1,7 @@
 ---
 title: "Brute Force APIs - Kiterunner Brute | Online Free DevTools by Hexmos"
 name: kiterunner-brute
-path: "/freedevtools/tldr/kiterunner/kiterunner-brute"
+path: "/freedevtools/tldr/kiterunner/kiterunner-brute/"
 canonical: "https://hexmos.com/freedevtools/tldr/kiterunner/kiterunner-brute/"
 description: "Brute force API endpoints with Kiterunner Brute, a contextual web scanner. Discover hidden paths and vulnerabilities. Free online tool, no registration required."
 category: common

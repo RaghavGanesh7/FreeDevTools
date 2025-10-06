@@ -1,7 +1,7 @@
 ---
 title: "DNSmap - Scan Subdomains | Online Free DevTools by Hexmos"
 name: dnsmap
-path: /freedevtools/tldr/linux/dnsmap
+path: "/freedevtools/tldr/linux/dnsmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnsmap/"
 description: "Scan subdomains with DNSmap, a powerful network reconnaissance tool. Discover hidden subdomains and identify potential security vulnerabilities. Free online tool, no registration required."
 category: linux

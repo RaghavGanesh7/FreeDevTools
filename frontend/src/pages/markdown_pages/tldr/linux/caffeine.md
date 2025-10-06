@@ -1,7 +1,7 @@
 ---
 title: "Prevent Idleness - Control Desktop Activity with Caffeine | Online Free DevTools by Hexmos"
 name: caffeine
-path: /freedevtools/tldr/linux/caffeine
+path: "/freedevtools/tldr/linux/caffeine/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/caffeine/"
 description: "Prevent desktop idleness with Caffeine, a simple command-line utility.  Maintain active screen and prevent screen locking. Free online tool, no registration required."
 category: linux

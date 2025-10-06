@@ -1,7 +1,7 @@
 ---
 title: "Faillock - Manage Login Failures | Online Free DevTools by Hexmos"
 name: faillock
-path: /freedevtools/tldr/linux/faillock
+path: "/freedevtools/tldr/linux/faillock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/faillock/"
 description: "Manage login failures with Faillock.  View and reset authentication failure records for individual users or all users. Free online tool, no registration required."
 category: linux

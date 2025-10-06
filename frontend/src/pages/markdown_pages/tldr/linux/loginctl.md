@@ -1,7 +1,7 @@
 ---
 title: "Loginctl - Manage Systemd Login Sessions | Online Free DevTools by Hexmos"
 name: loginctl
-path: /freedevtools/tldr/linux/loginctl
+path: "/freedevtools/tldr/linux/loginctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/loginctl/"
 description: "Manage systemd login sessions easily with Loginctl. Control user sessions, display properties, and execute operations on remote hosts. Free online tool, no registration required."
 category: linux

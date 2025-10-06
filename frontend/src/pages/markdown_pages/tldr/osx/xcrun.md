@@ -1,7 +1,7 @@
 ---
 title: "XCrun - Locate and Run Dev Tools | Online Free DevTools by Hexmos"
 name: xcrun
-path: /freedevtools/tldr/osx/xcrun
+path: "/freedevtools/tldr/osx/xcrun/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xcrun/"
 description: "Locate and run development tools with XCrun. Manage Xcode development tools and properties. Free online tool, no registration required."
 category: osx

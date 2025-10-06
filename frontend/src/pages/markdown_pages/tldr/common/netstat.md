@@ -1,7 +1,7 @@
 ---
 title: "Netstat - Display Network Information | Online Free DevTools by Hexmos"
 name: netstat
-path: /freedevtools/tldr/common/netstat
+path: "/freedevtools/tldr/common/netstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/netstat/"
 description: "Display network information with Netstat, including open connections and listening ports. Troubleshoot network issues effectively. Free online tool, no registration required."
 category: common

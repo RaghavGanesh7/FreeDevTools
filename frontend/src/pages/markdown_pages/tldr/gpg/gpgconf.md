@@ -1,7 +1,7 @@
 ---
 title: "GPG Configuration - Control GPG Settings | Online Free DevTools by Hexmos"
 name: gpgconf
-path: /freedevtools/tldr/gpg/gpgconf
+path: "/freedevtools/tldr/gpg/gpgconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/gpg/gpgconf/"
 description: "Control GPG settings effortlessly with GPG Configuration. List components, check programs, and manage configurations with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Title - Set Command Prompt Title | Online Free DevTools by Hexmos"
 name: title
-path: /freedevtools/tldr/windows/title
+path: "/freedevtools/tldr/windows/title/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/title/"
 description: "Set the command prompt title with Title. Customize your console window title effortlessly using this command. Free online tool, no registration required."
 category: windows

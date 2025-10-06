@@ -1,7 +1,7 @@
 ---
 title: "Docsify - Generate Documentation | Online Free DevTools by Hexmos"
 name: docsify
-path: "/freedevtools/tldr/common/docsify"
+path: "/freedevtools/tldr/common/docsify/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/docsify/"
 description: "Generate documentation quickly with Docsify. Initialize, serve, and create sidebars for your markdown documentation with this command-line tool. Free online tool, no registration required."
 category: common

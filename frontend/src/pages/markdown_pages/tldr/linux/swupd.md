@@ -1,7 +1,7 @@
 ---
 title: "Swupd Package Manager - Manage Clear Linux Packages | Online Free DevTools by Hexmos"
 name: swupd
-path: /freedevtools/tldr/linux/swupd
+path: "/freedevtools/tldr/linux/swupd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/swupd/"
 description: "Manage Clear Linux packages efficiently with swupd. Update, install, remove, and verify bundles effortlessly. Free online tool, no registration required."
 category: linux

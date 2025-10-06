@@ -1,7 +1,7 @@
 ---
 title: "Control ddev - PHP Development Environments | Online Free DevTools by Hexmos"
 name: ddev
-path: /freedevtools/tldr/common/ddev
+path: "/freedevtools/tldr/common/ddev/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ddev/"
 description: "Control PHP development environments with ddev. Simplify local development, manage containers, and streamline workflows. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "LDAP Search - Query Directories | Online Free DevTools by Hexmos"
 name: ldapsearch
-path: /freedevtools/tldr/common/ldapsearch
+path: "/freedevtools/tldr/common/ldapsearch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ldapsearch/"
 description: "Query LDAP directories effectively with LDAP Search. Retrieve user data and manage directory services through command-line tools. Free online tool, no registration required."
 category: common

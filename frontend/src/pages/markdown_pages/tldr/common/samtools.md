@@ -1,7 +1,7 @@
 ---
 title: "Samtools - Manage Genomics Data | Online Free DevTools by Hexmos"
 name: samtools
-path: /freedevtools/tldr/common/samtools
+path: "/freedevtools/tldr/common/samtools/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/samtools/"
 description: "Manage Genomics data with Samtools, the command-line tool for processing SAM/BAM/CRAM files. Analyze sequencing data effortlessly. Free online tool, no registration required."
 category: common

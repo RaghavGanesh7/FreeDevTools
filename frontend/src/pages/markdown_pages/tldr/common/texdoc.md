@@ -1,7 +1,7 @@
 ---
 title: "Texdoc Search - Find LaTeX Documentation | Online Free DevTools by Hexmos"
 name: texdoc
-path: /freedevtools/tldr/common/texdoc
+path: "/freedevtools/tldr/common/texdoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/texdoc/"
 description: "Search LaTeX documentation with Texdoc. Quickly find relevant guides and package information for TeX and LaTeX commands. Free online tool, no registration required."
 category: common

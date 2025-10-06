@@ -1,7 +1,7 @@
 ---
 title: "List Tar Archives - Inspect Compressed Files | Online Free DevTools by Hexmos"
 name: lz
-path: /freedevtools/tldr/linux/lz
+path: "/freedevtools/tldr/linux/lz/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lz/"
 description: "List compressed files with lz. Inspect contents of tar.gz archives easily. Lightweight and efficient. Free online tool, no registration required."
 category: linux

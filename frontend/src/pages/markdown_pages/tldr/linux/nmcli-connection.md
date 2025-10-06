@@ -1,7 +1,7 @@
 ---
 title: "nmcli Connection - Manage Network Connections | Online Free DevTools by Hexmos"
 name: nmcli-connection
-path: /freedevtools/tldr/linux/nmcli-connection
+path: "/freedevtools/tldr/linux/nmcli-connection/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmcli-connection/"
 description: "Manage network connections with nmcli Connection, a powerful command-line tool. Easily activate, deactivate, and create network profiles. Free online tool, no registration required."
 category: linux

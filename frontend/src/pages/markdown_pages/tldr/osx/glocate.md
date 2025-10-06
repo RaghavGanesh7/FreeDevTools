@@ -1,7 +1,7 @@
 ---
 title: "Find Files - Locate Files Quickly on macOS | Online Free DevTools by Hexmos"
 name: glocate
-path: /freedevtools/tldr/osx/glocate
+path: "/freedevtools/tldr/osx/glocate/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/glocate/"
 description: "Locate files efficiently with glocate on macOS. Quickly find files and directories by name. Alias for GNU locate. Free online tool, no registration required."
 category: osx

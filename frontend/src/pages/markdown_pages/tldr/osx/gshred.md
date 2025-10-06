@@ -1,7 +1,7 @@
 ---
 title: "Shred File - Securely Erase Data | Online Free DevTools by Hexmos"
 name: gshred
-path: /freedevtools/tldr/osx/gshred
+path: "/freedevtools/tldr/osx/gshred/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gshred/"
 description: "Securely erase data with Shred File tool, preventing recovery. Overwrite files multiple times for maximum security on macOS. Free online tool, no registration required."
 category: osx

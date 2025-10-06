@@ -1,7 +1,7 @@
 ---
 title: "Lookup Errno - Find Error Codes and Descriptions | Online Free DevTools by Hexmos"
 name: errno
-path: /freedevtools/tldr/common/errno
+path: "/freedevtools/tldr/common/errno/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/errno/"
 description: "Lookup errno names and descriptions with Errno. Quickly identify error codes and their meanings on Linux/macOS systems. Free online tool, no registration required."
 category: common

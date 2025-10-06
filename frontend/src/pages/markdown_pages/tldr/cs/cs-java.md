@@ -1,7 +1,7 @@
 ---
 title: "Control Java JVM - Install and Run JVMs | Online Free DevTools by Hexmos"
 name: cs-java
-path: /freedevtools/tldr/cs/cs-java
+path: "/freedevtools/tldr/cs/cs-java/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/cs-java/"
 description: "Control Java JVMs with cs-java. Install, manage, and run specific JVM versions with custom properties. Free online tool, no registration required."
 category: common

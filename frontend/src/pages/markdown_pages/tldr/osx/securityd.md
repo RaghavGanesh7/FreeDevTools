@@ -1,7 +1,7 @@
 ---
 title: "Manage Security Contexts - securityd | Online Free DevTools by Hexmos"
 name: securityd
-path: /freedevtools/tldr/osx/securityd
+path: "/freedevtools/tldr/osx/securityd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/securityd/"
 description: "Manage security contexts with securityd, the command-line tool for cryptographic operations on macOS. Handle keychain access efficiently and securely. Free online tool, no registration required."
 category: osx

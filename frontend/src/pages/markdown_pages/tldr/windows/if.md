@@ -1,7 +1,7 @@
 ---
 title: "If Command - Control Conditional Processing | Online Free DevTools by Hexmos"
 name: if
-path: /freedevtools/tldr/windows/if
+path: "/freedevtools/tldr/windows/if/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/if/"
 description: "Control conditional processing with the If command. Manage execution flow based on conditions, error levels, and string comparisons. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Waitpid - Control Process Termination | Online Free DevTools by Hexmos"
 name: waitpid
-path: /freedevtools/tldr/linux/waitpid
+path: "/freedevtools/tldr/linux/waitpid/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/waitpid/"
 description: "Control process termination with Waitpid. Monitor, manage, and debug processes by waiting for their completion. Free online tool, no registration required."
 category: linux

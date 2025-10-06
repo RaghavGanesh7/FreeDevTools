@@ -1,7 +1,7 @@
 ---
 title: "Distrobox Enter - Access Containers | Online Free DevTools by Hexmos"
 name: distrobox-enter
-path: /freedevtools/tldr/linux/distrobox-enter
+path: "/freedevtools/tldr/linux/distrobox-enter/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox-enter/"
 description: "Access Distrobox containers easily with the distrobox-enter command.  Manage Linux containers and execute commands within them. Free online tool, no registration required."
 category: linux

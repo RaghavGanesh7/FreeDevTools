@@ -1,7 +1,7 @@
 ---
 title: "Logout - Exit Shell Sessions | Online Free DevTools by Hexmos"
 name: logout
-path: /freedevtools/tldr/common/logout
+path: "/freedevtools/tldr/common/logout/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/logout/"
 description: "Exit shell sessions with Logout, a command-line tool to terminate active logins. Securely end terminal sessions and manage exit codes. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Format JSON Table - Print JSON Data in Terminal | Online Free DevTools by Hexmos"
 name: jtbl
-path: /freedevtools/tldr/common/jtbl
+path: "/freedevtools/tldr/common/jtbl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jtbl/"
 description: "Format JSON table data instantly with jtbl. Display JSON or JSON Lines data as a formatted table in the terminal. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Git Notes - Add & Inspect Object Notes | Online Free DevTools by Hexmos"
 name: git-notes
-path: /freedevtools/tldr/git/git-notes
+path: "/freedevtools/tldr/git/git-notes/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-notes/"
 description: "Control git notes with this online tool. Add, inspect, and manage object notes in your Git repository. Free online tool, no registration required."
 category: common

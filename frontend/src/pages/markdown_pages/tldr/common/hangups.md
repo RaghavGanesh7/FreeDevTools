@@ -1,7 +1,7 @@
 ---
 title: "Control Hangouts - Manage Google Hangouts Client | Online Free DevTools by Hexmos"
 name: hangups
-path: /freedevtools/tldr/common/hangups
+path: "/freedevtools/tldr/common/hangups/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hangups/"
 description: "Control Google Hangouts with Hangups client. Manage conversations, send messages, and troubleshoot connection issues. Free online tool, no registration required."
 category: common

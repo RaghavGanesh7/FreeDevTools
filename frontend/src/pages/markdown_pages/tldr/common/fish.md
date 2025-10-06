@@ -1,7 +1,7 @@
 ---
 title: "Control Fish Shell - Execute Commands Interactively | Online Free DevTools by Hexmos"
 name: fish
-path: /freedevtools/tldr/common/fish
+path: "/freedevtools/tldr/common/fish/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fish/"
 description: "Control interactive shells with Fish Shell. Customize startup configs and execute scripts efficiently using command line. Free online tool, no registration required."
 category: common

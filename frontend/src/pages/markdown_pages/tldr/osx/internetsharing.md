@@ -1,7 +1,7 @@
 ---
 title: "Control Internet Sharing - Configure Network Settings | Online Free DevTools by Hexmos"
 name: internetsharing
-path: /freedevtools/tldr/osx/internetsharing
+path: "/freedevtools/tldr/osx/internetsharing/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/internetsharing/"
 description: "Control Internet Sharing with InternetSharing for macOS. Enable network access, configure settings, and manage shared connections instantly. Free online tool, no registration required."
 category: osx

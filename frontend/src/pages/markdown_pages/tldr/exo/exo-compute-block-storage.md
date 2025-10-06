@@ -1,7 +1,7 @@
 ---
 title: "Create Block Storage - Manage Exoscale Volumes | Online Free DevTools by Hexmos"
 name: exo-compute-block-storage
-path: /freedevtools/tldr/exo/exo-compute-block-storage
+path: "/freedevtools/tldr/exo/exo-compute-block-storage/"
 canonical: "https://hexmos.com/freedevtools/tldr/exo/exo-compute-block-storage/"
 description: "Create Block Storage volumes with Exoscale. Easily manage, attach, detach, and snapshot block storage. Free online tool, no registration required."
 category: common

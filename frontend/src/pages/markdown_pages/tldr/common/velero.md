@@ -1,7 +1,7 @@
 ---
 title: "Velero - Backup Kubernetes Apps | Online Free DevTools by Hexmos"
 name: velero
-path: /freedevtools/tldr/common/velero
+path: "/freedevtools/tldr/common/velero/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/velero/"
 description: "Backup Kubernetes applications with Velero. Secure your data, migrate clusters, and restore applications with ease. Free online tool, no registration required."
 category: common

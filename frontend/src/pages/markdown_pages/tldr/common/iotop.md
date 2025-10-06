@@ -1,7 +1,7 @@
 ---
 title: "Iotop - Monitor I/O Usage by Processes | Online Free DevTools by Hexmos"
 name: iotop
-path: /freedevtools/tldr/common/iotop
+path: "/freedevtools/tldr/common/iotop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/iotop/"
 description: "Monitor process I/O usage with Iotop. Identify performance bottlenecks and optimize system resource allocation using this command-line tool. Free online tool, no registration required."
 category: common

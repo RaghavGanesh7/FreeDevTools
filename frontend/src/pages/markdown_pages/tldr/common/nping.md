@@ -1,7 +1,7 @@
 ---
 title: "Nping - Generate Network Packets | Online Free DevTools by Hexmos"
 name: nping
-path: /freedevtools/tldr/common/nping
+path: "/freedevtools/tldr/common/nping/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nping/"
 description: "Generate network packets with Nping. Analyze network performance and troubleshoot connectivity issues. Free online tool, no registration required."
 category: common

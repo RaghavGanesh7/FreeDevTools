@@ -1,7 +1,7 @@
 ---
 title: "Fstopgm - Convert FaceSaver Files to PGM | Online Free DevTools by Hexmos"
 name: fstopgm
-path: /freedevtools/tldr/common/fstopgm
+path: "/freedevtools/tldr/common/fstopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fstopgm/"
 description: "Convert Usenix FaceSaver files to PGM image format with Fstopgm. Manage image conversions with command-line ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compile Vala Code - Generate Vala Executables | Online Free DevTools by Hexmos"
 name: valac
-path: /freedevtools/tldr/common/valac
+path: "/freedevtools/tldr/common/valac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/valac/"
 description: "Compile Vala code efficiently with Valac compiler. Generate optimized executables for various platforms. Free online tool, no registration required."
 category: common

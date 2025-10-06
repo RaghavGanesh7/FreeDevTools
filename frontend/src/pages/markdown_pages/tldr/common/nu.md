@@ -1,7 +1,7 @@
 ---
 title: "Nushell - Execute Shell Commands | Online Free DevTools by Hexmos"
 name: nu
-path: /freedevtools/tldr/common/nu
+path: "/freedevtools/tldr/common/nu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nu/"
 description: "Execute shell commands with Nushell, a modern structured shell. Automate tasks and manage your system with this powerful command-line tool. Free online tool, no registration required."
 category: common

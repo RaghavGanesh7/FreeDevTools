@@ -1,7 +1,7 @@
 ---
 title: "PipeWire Dump - Generate JSON State | Online Free DevTools by Hexmos"
 name: pw-dump
-path: /freedevtools/tldr/linux/pw-dump
+path: "/freedevtools/tldr/linux/pw-dump/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-dump/"
 description: "Generate PipeWire state dumps with pw-dump. Analyze audio graph configurations and debug multimedia setups using command line. Free online tool, no registration required."
 category: linux

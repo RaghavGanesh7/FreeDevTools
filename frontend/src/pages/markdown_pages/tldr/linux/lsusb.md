@@ -1,7 +1,7 @@
 ---
 title: "List USB Devices - Display USB Info | Online Free DevTools by Hexmos"
 name: lsusb
-path: /freedevtools/tldr/linux/lsusb
+path: "/freedevtools/tldr/linux/lsusb/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsusb/"
 description: "List USB devices with lsusb. Discover connected USB devices and their details using this command line tool. Free online tool, no registration required."
 category: linux

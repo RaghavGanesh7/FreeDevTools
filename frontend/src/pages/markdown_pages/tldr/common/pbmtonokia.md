@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - Format Nokia Graphics | Online Free DevTools by Hexmos"
 name: pbmtonokia
-path: /freedevtools/tldr/common/pbmtonokia
+path: "/freedevtools/tldr/common/pbmtonokia/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtonokia/"
 description: "Format PBM images for Nokia devices with pbmtonokia. Convert to Operator Logos, Group Graphics, and Picture Messages. Free online tool, no registration required."
 category: common

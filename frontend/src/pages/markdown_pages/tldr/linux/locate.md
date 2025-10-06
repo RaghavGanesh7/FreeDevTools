@@ -1,7 +1,7 @@
 ---
 title: "Locate Files - Find Files Quickly | Online Free DevTools by Hexmos"
 name: locate
-path: /freedevtools/tldr/linux/locate
+path: "/freedevtools/tldr/linux/locate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/locate/"
 description: "Find files quickly with Locate. Efficiently search for filenames using the Locate command-line tool. Free online tool, no registration required."
 category: linux

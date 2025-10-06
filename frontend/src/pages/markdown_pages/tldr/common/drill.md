@@ -1,7 +1,7 @@
 ---
 title: "DNS Drill - Perform DNS Queries | Online Free DevTools by Hexmos"
 name: drill
-path: /freedevtools/tldr/common/drill
+path: "/freedevtools/tldr/common/drill/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/drill/"
 description: "Perform DNS queries with DNS Drill. Lookup IP addresses, MX records, and more for any domain. Free online tool, no registration required."
 category: common

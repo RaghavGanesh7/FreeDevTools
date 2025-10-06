@@ -1,7 +1,7 @@
 ---
 title: "Tee Command - Duplicate Standard Input Output | Online Free DevTools by Hexmos"
 name: tee
-path: /freedevtools/tldr/common/tee
+path: "/freedevtools/tldr/common/tee/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tee/"
 description: "Duplicate standard input and output with Tee command. Stream data to multiple files or commands. Free online tool, no registration required"
 category: common

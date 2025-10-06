@@ -1,7 +1,7 @@
 ---
 title: "ABRT-CLI - Report Linux Crashes | Online Free DevTools by Hexmos"
 name: abrt-cli
-path: /freedevtools/tldr/linux/abrt-cli
+path: "/freedevtools/tldr/linux/abrt-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/abrt-cli/"
 description: "Report Linux crashes effortlessly with ABRT-CLI. Analyze crash reports and submit them to bug trackers. Free online tool, no registration required."
 category: linux

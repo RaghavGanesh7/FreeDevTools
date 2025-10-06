@@ -1,7 +1,7 @@
 ---
 title: "RTL-SDR Recorder - Capture Raw I/Q Data | Online Free DevTools by Hexmos"
 name: rtl_sdr
-path: /freedevtools/tldr/common/rtl_sdr
+path: "/freedevtools/tldr/common/rtl_sdr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rtl_sdr/"
 description: "Record raw I/Q data with RTL-SDR Recorder, a powerful SDR sampling tool. Capture radio frequencies, analyze signals and demodulate with ease. Free online tool, no registration required."
 category: common

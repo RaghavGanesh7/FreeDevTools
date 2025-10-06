@@ -1,7 +1,7 @@
 ---
 title: "USBIP - Control USB Devices Remotely | Online Free DevTools by Hexmos"
 name: usbip
-path: /freedevtools/tldr/linux/usbip
+path: "/freedevtools/tldr/linux/usbip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/usbip/"
 description: "Control USB devices remotely with usbip. Manage and share USB devices across networks using command-line instructions. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Cryptcat - Encrypt Network Connections | Online Free DevTools by Hexmos"
 name: cryptcat
-path: /freedevtools/tldr/linux/cryptcat
+path: "/freedevtools/tldr/linux/cryptcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cryptcat/"
 description: "Encrypt network connections with Cryptcat. Securely transmit data over networks using encryption. Free online tool, no registration required."
 category: linux

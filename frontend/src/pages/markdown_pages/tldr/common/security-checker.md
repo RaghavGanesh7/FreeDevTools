@@ -1,7 +1,7 @@
 ---
 title: "Security Checker - Validate PHP Dependencies | Online Free DevTools by Hexmos"
 name: security-checker
-path: /freedevtools/tldr/common/security-checker
+path: "/freedevtools/tldr/common/security-checker/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/security-checker/"
 description: "Validate PHP dependencies with Security Checker to find vulnerabilities. Analyze composer.lock files and identify security risks. Free online tool, no registration required."
 category: common

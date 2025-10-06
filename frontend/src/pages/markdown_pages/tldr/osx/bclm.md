@@ -1,7 +1,7 @@
 ---
 title: "Battery Charge Limit - Control MacBook Charging | Online Free DevTools by Hexmos"
 name: bclm
-path: /freedevtools/tldr/osx/bclm
+path: "/freedevtools/tldr/osx/bclm/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/bclm/"
 description: "Control MacBook battery charging with Battery Charge Limit (bclm). Set custom charge limits, persist settings, and optimize battery health on macOS. Free online tool, no registration required."
 category: osx

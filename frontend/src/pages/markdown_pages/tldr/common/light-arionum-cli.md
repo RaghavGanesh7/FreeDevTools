@@ -1,7 +1,7 @@
 ---
 title: "Arionum CLI - Manage Crypto Wallet | Online Free DevTools by Hexmos"
 name: light-arionum-cli
-path: /freedevtools/tldr/common/light-arionum-cli
+path: "/freedevtools/tldr/common/light-arionum-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/light-arionum-cli/"
 description: "Manage Arionum crypto wallet with light-arionum-cli. Send transactions, check balances, and export wallet data with this simple command-line interface. Free online tool, no registration required."
 category: common

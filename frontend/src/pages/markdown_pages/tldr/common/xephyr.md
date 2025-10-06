@@ -1,7 +1,7 @@
 ---
 title: "Create Xephyr Window - Nested X Server | Online Free DevTools by Hexmos"
 name: xephyr
-path: /freedevtools/tldr/common/xephyr
+path: "/freedevtools/tldr/common/xephyr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xephyr/"
 description: "Create nested X servers with Xephyr, a tool for running X applications within X windows. Easily test environments and manage multiple displays. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Filesystem Parameters with tune2fs | Online Free DevTools by Hexmos"
 name: tune2fs
-path: /freedevtools/tldr/linux/tune2fs
+path: "/freedevtools/tldr/linux/tune2fs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tune2fs/"
 description: "Control filesystem parameters with tune2fs. Optimize disk performance and manage ext2/ext3/ext4 filesystems effortlessly. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Localectl - Control System Locale | Online Free DevTools by Hexmos"
 name: localectl
-path: /freedevtools/tldr/linux/localectl
+path: "/freedevtools/tldr/linux/localectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/localectl/"
 description: "Control system locale settings with Localectl. Manage keyboard layouts and system languages on Linux. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "NPM View - Inspect Package Information | Online Free DevTools by Hexmos"
 name: npm-view
-path: /freedevtools/tldr/npm/npm-view
+path: "/freedevtools/tldr/npm/npm-view/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-view/"
 description: "Inspect NPM package details instantly with NPM View. View versions, dependencies, maintainers, and repository URLs. Free online tool, no registration required."
 category: common

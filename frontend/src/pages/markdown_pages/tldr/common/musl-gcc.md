@@ -1,7 +1,7 @@
 ---
 title: "Musl-GCC Compiler - Compile Musl Libc Programs | Online Free DevTools by Hexmos"
 name: musl-gcc
-path: /freedevtools/tldr/common/musl-gcc
+path: "/freedevtools/tldr/common/musl-gcc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/musl-gcc/"
 description: "Compile C programs easily with musl-gcc, a GCC wrapper for creating musl libc binaries. Build lightweight applications and embedded systems. Free online tool, no registration required."
 category: common

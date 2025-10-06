@@ -1,7 +1,7 @@
 ---
 title: "Gsync - Synchronize Files on macOS | Online Free DevTools by Hexmos"
 name: gsync
-path: /freedevtools/tldr/osx/gsync
+path: "/freedevtools/tldr/osx/gsync/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsync/"
 description: "Synchronize files with Gsync on macOS. Ensure data integrity and prevent data loss with this command-line utility. Free online tool, no registration required."
 category: osx

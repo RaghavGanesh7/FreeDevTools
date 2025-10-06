@@ -1,7 +1,7 @@
 ---
 title: "Format VFAT - Create FAT Filesystems | Online Free DevTools by Hexmos"
 name: mkfs.vfat
-path: /freedevtools/tldr/linux/mkfs-vfat
+path: "/freedevtools/tldr/linux/mkfs-vfat/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mkfs-vfat/"
 description: "Format FAT filesystems with mkfs.vfat on Linux. Create VFAT partitions and prepare storage devices quickly. Free online tool, no registration required."
 category: linux

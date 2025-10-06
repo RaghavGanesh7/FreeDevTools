@@ -1,7 +1,7 @@
 ---
 title: "Rubocop - Lint Ruby Code | Online Free DevTools by Hexmos"
 name: rubocop
-path: /freedevtools/tldr/common/rubocop
+path: "/freedevtools/tldr/common/rubocop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rubocop/"
 description: "Lint Ruby code effortlessly with Rubocop. Analyze code quality, enforce coding standards, and automatically correct style issues. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Rustup Help - Display Rust Toolchain Info | Online Free DevTools by Hexmos"
 name: rustup-help
-path: /freedevtools/tldr/rustup/rustup-help
+path: "/freedevtools/tldr/rustup/rustup-help/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-help/"
 description: "Display Rust toolchain information with Rustup Help. Get details on Rust versions, components, and targets. Free online tool, no registration required."
 category: common

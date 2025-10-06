@@ -1,7 +1,7 @@
 ---
 title: "Reset Terminal - Reinitialize Terminal Screen | Online Free DevTools by Hexmos"
 name: reset
-path: /freedevtools/tldr/linux/reset
+path: "/freedevtools/tldr/linux/reset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/reset/"
 description: "Reinitialize terminal screen with Reset Terminal. Quickly clear your terminal, restoring it to its original state. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Disk Resize - Manage Proxmox Virtual Disks | Online Free DevTools by Hexmos"
 name: qm-disk-resize
-path: /freedevtools/tldr/linux/qm-disk-resize
+path: "/freedevtools/tldr/linux/qm-disk-resize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-disk-resize/"
 description: "Resize virtual machine disks easily with Disk Resize. Increase disk space in Proxmox VE using command line for efficient server management. Free online tool, no registration required."
 category: linux

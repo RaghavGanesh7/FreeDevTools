@@ -1,7 +1,7 @@
 ---
 title: "Watch Command - Monitor Program Output | Online Free DevTools by Hexmos"
 name: watch
-path: /freedevtools/tldr/common/watch
+path: "/freedevtools/tldr/common/watch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/watch/"
 description: "Monitor program output with Watch Command. Execute commands periodically and observe changes with highlighting. Free online tool, no registration required."
 category: common

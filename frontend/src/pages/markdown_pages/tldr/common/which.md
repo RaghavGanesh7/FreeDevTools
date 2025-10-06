@@ -1,7 +1,7 @@
 ---
 title: "Locate Program - Find Executables with Which | Online Free DevTools by Hexmos"
 name: which
-path: /freedevtools/tldr/common/which
+path: "/freedevtools/tldr/common/which/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/which/"
 description: "Find executables easily with Which, a command-line tool for locating programs in your system's PATH. Quickly identify program paths. Free online tool, no registration required."
 category: common

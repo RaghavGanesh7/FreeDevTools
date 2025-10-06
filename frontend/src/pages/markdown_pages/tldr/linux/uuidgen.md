@@ -1,7 +1,7 @@
 ---
 title: "UUID Generator - Generate Unique Identifiers | Online Free DevTools by Hexmos"
 name: uuidgen
-path: /freedevtools/tldr/linux/uuidgen
+path: "/freedevtools/tldr/linux/uuidgen/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uuidgen/"
 description: "Generate UUIDs with UUID Generator. Create random, time-based, or namespace-based unique identifiers quickly. Free online tool, no registration required."
 category: linux

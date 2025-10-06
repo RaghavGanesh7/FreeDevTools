@@ -1,7 +1,7 @@
 ---
 title: "Control Java Versions - Archlinux-Java | Online Free DevTools by Hexmos"
 name: archlinux-java
-path: "/freedevtools/tldr/linux/archlinux-java"
+path: "/freedevtools/tldr/linux/archlinux-java/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/archlinux-java/"
 description: "Control Java versions with Archlinux-Java. Manage default JVM environments and fix broken configurations instantly. Free online tool, no registration required."
 category: linux

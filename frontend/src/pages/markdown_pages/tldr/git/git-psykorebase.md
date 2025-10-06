@@ -1,7 +1,7 @@
 ---
 title: "Git Psykorebase - Rebase Branches with Merge Commit | Online Free DevTools by Hexmos"
 name: git-psykorebase
-path: /freedevtools/tldr/git/git-psykorebase
+path: "/freedevtools/tldr/git/git-psykorebase/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-psykorebase/"
 description: "Rebase branches with Git Psykorebase using merge commits, simplifying conflict resolution. Streamline your git workflow with this free online tool, no registration required."
 category: common

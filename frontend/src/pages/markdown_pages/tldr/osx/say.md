@@ -1,7 +1,7 @@
 ---
 title: "Text to Speech - Create Audio from Text with Say | Online Free DevTools by Hexmos"
 name: say
-path: /freedevtools/tldr/osx/say
+path: "/freedevtools/tldr/osx/say/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/say/"
 description: "Create text to speech audio with Say. Convert text into spoken audio files on macOS using the command line. Free online tool, no registration required."
 category: osx

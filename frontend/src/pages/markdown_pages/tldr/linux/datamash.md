@@ -1,7 +1,7 @@
 ---
 title: "Datamash - Process Data with Command Line | Online Free DevTools by Hexmos"
 name: datamash
-path: /freedevtools/tldr/linux/datamash
+path: "/freedevtools/tldr/linux/datamash/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/datamash/"
 description: "Process textual data with Datamash, a powerful command-line tool for performing statistical operations. Analyze and manipulate data efficiently. Free online tool, no registration required."
 category: linux

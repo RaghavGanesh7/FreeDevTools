@@ -1,7 +1,7 @@
 ---
 title: "Disk Space Usage - Analyze Filesystem with df | Online Free DevTools by Hexmos"
 name: df
-path: /freedevtools/tldr/freebsd/df
+path: "/freedevtools/tldr/freebsd/df/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/df/"
 description: "Analyze filesystem disk space usage with the df command.  View detailed information on free and used space, including filesystem types and inodes. Free online tool, no registration required."
 category: freebsd

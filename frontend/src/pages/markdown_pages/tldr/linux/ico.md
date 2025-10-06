@@ -1,7 +1,7 @@
 ---
 title: "ICO - Display Polyhedron Animation | Online Free DevTools by Hexmos"
 name: ico
-path: "/freedevtools/tldr/linux/ico"
+path: "/freedevtools/tldr/linux/ico/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ico/"
 description: "Display polyhedron animation with ICO. Visualize complex shapes and control animation parameters with this command-line tool. Free online tool, no registration required."
 category: linux

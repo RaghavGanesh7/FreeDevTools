@@ -1,7 +1,7 @@
 ---
 title: "PPM Spread - Displace Image Pixels Randomly | Online Free DevTools by Hexmos"
 name: ppmspread
-path: /freedevtools/tldr/ppm/ppmspread
+path: "/freedevtools/tldr/ppm/ppmspread/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmspread/"
 description: "Displace image pixels randomly with PPM Spread. Control the randomization of pixels in PPM images using the command line. Free online tool, no registration required."
 category: common

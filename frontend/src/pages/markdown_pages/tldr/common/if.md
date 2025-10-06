@@ -1,7 +1,7 @@
 ---
 title: "Control Shell Script Flow - if Command | Online Free DevTools by Hexmos"
 name: if
-path: /freedevtools/tldr/common/if
+path: "/freedevtools/tldr/common/if/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/if/"
 description: "Control shell script execution with the `if` command. Implement conditional logic and automate tasks based on conditions. Free online tool, no registration required."
 category: common

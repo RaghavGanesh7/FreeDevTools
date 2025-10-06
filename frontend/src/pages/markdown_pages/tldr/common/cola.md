@@ -1,7 +1,7 @@
 ---
 title: "Cola - Manage Git Repositories Visually | Online Free DevTools by Hexmos"
 name: cola
-path: /freedevtools/tldr/common/cola
+path: "/freedevtools/tldr/common/cola/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cola/"
 description: "Manage Git repositories visually with Cola, a powerful GUI tool. Simplify branching, merging, and commit history exploration. Free online tool, no registration required."
 category: common

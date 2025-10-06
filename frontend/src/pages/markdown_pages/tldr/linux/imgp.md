@@ -1,7 +1,7 @@
 ---
 title: "Resize Images - Rotate and Scale with imgp | Online Free DevTools by Hexmos"
 name: imgp
-path: /freedevtools/tldr/linux/imgp
+path: "/freedevtools/tldr/linux/imgp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/imgp/"
 description: "Resize images with imgp, a command-line tool for scaling and rotating JPEG and PNG files on Linux. Free online tool, no registration required."
 category: linux

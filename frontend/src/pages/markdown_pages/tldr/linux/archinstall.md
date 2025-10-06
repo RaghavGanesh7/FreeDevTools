@@ -1,7 +1,7 @@
 ---
 title: "Archinstall - Install Arch Linux | Online Free DevTools by Hexmos"
 name: archinstall
-path: /freedevtools/tldr/linux/archinstall
+path: "/freedevtools/tldr/linux/archinstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/archinstall/"
 description: "Install Arch Linux effortlessly with Archinstall.  Customize your installation with presets or interactive options. Free online tool, no registration required."
 category: linux

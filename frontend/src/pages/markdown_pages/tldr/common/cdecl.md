@@ -1,7 +1,7 @@
 ---
 title: "C Declaration Tool - Compose C Declarations | Online Free DevTools by Hexmos"
 name: cdecl
-path: /freedevtools/tldr/common/cdecl
+path: "/freedevtools/tldr/common/cdecl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cdecl/"
 description: "Compose C and C++ declarations with cdecl.  Translate English to C declarations and explain C syntax easily.  Free online tool, no registration required."
 category: common

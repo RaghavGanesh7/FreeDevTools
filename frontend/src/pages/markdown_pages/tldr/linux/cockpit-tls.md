@@ -1,7 +1,7 @@
 ---
 title: "Control Cockpit TLS - Encrypt Traffic | Online Free DevTools by Hexmos"
 name: cockpit-tls
-path: "/freedevtools/tldr/linux/cockpit-tls"
+path: "/freedevtools/tldr/linux/cockpit-tls/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cockpit-tls/"
 description: "Control Cockpit TLS connections to encrypt traffic between client and cockpit-ws. Secure your cockpit server with this free tool, no registration required."
 category: linux

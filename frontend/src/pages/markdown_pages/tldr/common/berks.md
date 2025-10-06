@@ -1,7 +1,7 @@
 ---
 title: "Manage Cookbooks - Control Chef Cookbooks with Berks | Online Free DevTools by Hexmos"
 name: berks
-path: /freedevtools/tldr/common/berks
+path: "/freedevtools/tldr/common/berks/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/berks/"
 description: "Control Chef cookbooks efficiently with Berks, a powerful dependency manager. Install, update, and upload cookbooks easily. Free online tool, no registration required."
 category: common

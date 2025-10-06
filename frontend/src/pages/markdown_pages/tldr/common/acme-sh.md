@@ -1,7 +1,7 @@
 ---
 title: "Generate Certificates - Control ACME DNS with acme.sh | Online Free DevTools by Hexmos"
 name: acme.sh
-path: /freedevtools/tldr/common/acme-sh
+path: "/freedevtools/tldr/common/acme-sh/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/acme-sh/"
 description: "Generate SSL certificates with acme.sh, a Let's Encrypt client. Automate DNS challenges and secure domains easily. Free online tool, no registration required."
 category: common

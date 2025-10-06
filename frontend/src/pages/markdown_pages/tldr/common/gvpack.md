@@ -1,7 +1,7 @@
 ---
 title: "Graphviz Pack - Combine Graph Layouts | Online Free DevTools by Hexmos"
 name: gvpack
-path: /freedevtools/tldr/common/gvpack
+path: "/freedevtools/tldr/common/gvpack/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gvpack/"
 description: "Combine graph layouts with Graphviz Pack. Integrate multiple Graphviz layouts into a single, cohesive graph visualization. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Varnishlog - Display Varnish Logs | Online Free DevTools by Hexmos"
 name: varnishlog
-path: /freedevtools/tldr/common/varnishlog
+path: "/freedevtools/tldr/common/varnishlog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/varnishlog/"
 description: "Display Varnish logs in real-time with Varnishlog. Analyze website traffic and debug caching issues using advanced filtering. Free online tool, no registration required."
 category: common

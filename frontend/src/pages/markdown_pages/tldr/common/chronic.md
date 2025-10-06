@@ -1,7 +1,7 @@
 ---
 title: "Chronic - Suppress Command Output | Online Free DevTools by Hexmos"
 name: chronic
-path: /freedevtools/tldr/common/chronic
+path: "/freedevtools/tldr/common/chronic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chronic/"
 description: "Suppress command output with Chronic. Only display stdout and stderr if the command fails. Troubleshoot script errors effectively. Free online tool, no registration required."
 category: common

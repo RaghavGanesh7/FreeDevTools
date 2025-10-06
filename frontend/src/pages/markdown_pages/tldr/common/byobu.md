@@ -1,7 +1,7 @@
 ---
 title: "Control Byobu Sessions - Terminal Multiplexer | Online Free DevTools by Hexmos"
 name: byobu
-path: /freedevtools/tldr/common/byobu
+path: "/freedevtools/tldr/common/byobu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/byobu/"
 description: "Control Byobu terminal sessions with Byobu, a powerful terminal multiplexer for managing multiple terminals. Free online tool, no registration required."
 category: common

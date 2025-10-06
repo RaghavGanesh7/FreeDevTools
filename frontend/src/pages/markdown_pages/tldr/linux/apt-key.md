@@ -1,7 +1,7 @@
 ---
 title: "APT Key Manager - Secure Package Updates | Online Free DevTools by Hexmos"
 name: apt-key
-path: /freedevtools/tldr/linux/apt-key
+path: "/freedevtools/tldr/linux/apt-key/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apt-key/"
 description: "Secure APT packages with APT Key Manager. Manage keys, add trusted sources, and maintain package integrity using the command line. Free online tool, no registration required."
 category: linux

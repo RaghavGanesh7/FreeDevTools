@@ -1,7 +1,7 @@
 ---
 title: "Change Virtual Terminal - Control TTY on Linux | Online Free DevTools by Hexmos"
 name: chvt
-path: /freedevtools/tldr/linux/chvt
+path: "/freedevtools/tldr/linux/chvt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chvt/"
 description: "Control your Linux TTY easily with Change Virtual Terminal (chvt). Switch between virtual consoles for efficient system administration. Free online tool, no registration required."
 category: linux

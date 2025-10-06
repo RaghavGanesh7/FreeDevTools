@@ -1,7 +1,7 @@
 ---
 title: "Evaluate Expressions - Control Math with gexpr | Online Free DevTools by Hexmos"
 name: gexpr
-path: /freedevtools/tldr/osx/gexpr
+path: "/freedevtools/tldr/osx/gexpr/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gexpr/"
 description: "Evaluate expressions with gexpr, a command-line expression evaluator for macOS. Perform arithmetic and string operations easily. Free online tool, no registration required."
 category: osx

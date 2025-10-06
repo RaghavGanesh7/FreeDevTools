@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to SIXEL - Format Images | Online Free DevTools by Hexmos"
 name: ppmtosixel
-path: /freedevtools/tldr/ppm/ppmtosixel
+path: "/freedevtools/tldr/ppm/ppmtosixel/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtosixel/"
 description: "Format images to SIXEL with ppmtosixel. Convert PPM image files to DEC sixel format for compatibility with various terminals. Free online tool, no registration required."
 category: common

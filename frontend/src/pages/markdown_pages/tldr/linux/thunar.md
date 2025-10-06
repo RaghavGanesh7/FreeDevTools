@@ -1,7 +1,7 @@
 ---
 title: "Thunar File Manager - Manage Files in XFCE | Online Free DevTools by Hexmos"
 name: thunar
-path: /freedevtools/tldr/linux/thunar
+path: "/freedevtools/tldr/linux/thunar/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/thunar/"
 description: "Manage files efficiently with Thunar File Manager.  Open files, utilize bulk renaming, and manage multiple windows from the command line. Free online tool, no registration required."
 category: linux

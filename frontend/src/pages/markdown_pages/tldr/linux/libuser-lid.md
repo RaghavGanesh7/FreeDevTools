@@ -1,7 +1,7 @@
 ---
 title: "Libuser-lid - Access User Information on Linux | Online Free DevTools by Hexmos"
 name: libuser-lid
-path: /freedevtools/tldr/linux/libuser-lid
+path: "/freedevtools/tldr/linux/libuser-lid/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/libuser-lid/"
 description: "Access user information with libuser-lid, a Linux command alias. Quickly retrieve user details and manage system accounts easily. Free online tool, no registration required."
 category: linux

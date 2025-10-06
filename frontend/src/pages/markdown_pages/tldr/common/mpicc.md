@@ -1,7 +1,7 @@
 ---
 title: "MPI Compile - Create MPI Executables | Online Free DevTools by Hexmos"
 name: mpicc
-path: /freedevtools/tldr/common/mpicc
+path: "/freedevtools/tldr/common/mpicc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpicc/"
 description: "Create MPI executables effortlessly with mpicc, the Open MPI C wrapper compiler. Compile C code and link object files for parallel computing. Free online tool, no registration required."
 category: common

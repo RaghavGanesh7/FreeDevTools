@@ -1,7 +1,7 @@
 ---
 title: "QPDF - Control PDF Files | Online Free DevTools by Hexmos"
 name: qpdf
-path: /freedevtools/tldr/common/qpdf
+path: "/freedevtools/tldr/common/qpdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qpdf/"
 description: "Control PDF files with QPDF, a versatile PDF transformation software. Merge, split, rotate, and decrypt PDFs effortlessly. Free online tool, no registration required."
 category: common

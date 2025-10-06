@@ -1,7 +1,7 @@
 ---
 title: "Create FIFO - Manage Pipes with gmkfifo | Online Free DevTools by Hexmos"
 name: gmkfifo
-path: /freedevtools/tldr/osx/gmkfifo
+path: "/freedevtools/tldr/osx/gmkfifo/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gmkfifo/"
 description: "Create FIFO pipes efficiently with gmkfifo. Easily manage inter-process communication on macOS systems. Free online tool, no registration required."
 category: osx

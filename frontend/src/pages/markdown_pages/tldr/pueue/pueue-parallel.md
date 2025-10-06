@@ -1,7 +1,7 @@
 ---
 title: "Pueue Parallel - Control Task Parallelism | Online Free DevTools by Hexmos"
 name: pueue-parallel
-path: /freedevtools/tldr/pueue/pueue-parallel
+path: "/freedevtools/tldr/pueue/pueue-parallel/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-parallel/"
 description: "Control task parallelism with Pueue Parallel. Configure the maximum number of tasks running concurrently. Free online tool, no registration required."
 category: common

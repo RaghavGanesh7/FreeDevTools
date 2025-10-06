@@ -1,7 +1,7 @@
 ---
 title: "AUR Package Manager - Control AUR Packages | Online Free DevTools by Hexmos"
 name: auracle
-path: /freedevtools/tldr/linux/auracle
+path: "/freedevtools/tldr/linux/auracle/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/auracle/"
 description: "Control AUR packages easily with AUR Package Manager. Search packages, display info, show PKGBUILD and check for updates. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Clear Recycle Bin - Delete Files on Windows | Online Free DevTools by Hexmos"
 name: clear-recyclebin
-path: /freedevtools/tldr/windows/clear-recyclebin
+path: "/freedevtools/tldr/windows/clear-recyclebin/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/clear-recyclebin/"
 description: "Clear Recycle Bin files easily with Clear-RecycleBin. Delete all items or target specific drives. Free online tool, no registration required."
 category: windows

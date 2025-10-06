@@ -1,7 +1,7 @@
 ---
 title: "XFS Filesystem Repair - Repair XFS Partitions | Online Free DevTools by Hexmos"
 name: xfs_repair
-path: /freedevtools/tldr/linux/xfs_repair
+path: "/freedevtools/tldr/linux/xfs_repair/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xfs_repair/"
 description: "Repair damaged XFS filesystems with xfs_repair.  Quickly fix partition errors and recover data using this command-line utility. Free online tool, no registration required."
 category: linux

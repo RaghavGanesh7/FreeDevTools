@@ -1,7 +1,7 @@
 ---
 title: "Change Directory - Navigate File Systems | Online Free DevTools by Hexmos"
 name: cd
-path: /freedevtools/tldr/common/cd
+path: "/freedevtools/tldr/common/cd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cd/"
 description: "Change directory instantly with cd command. Navigate file systems and access different directories easily. Free online tool, no registration required."
 category: common

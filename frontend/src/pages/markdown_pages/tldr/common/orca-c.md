@@ -1,7 +1,7 @@
 ---
 title: "Control ORCA Sequencer - C-Port Tool | Online Free DevTools by Hexmos"
 name: orca-c
-path: /freedevtools/tldr/common/orca-c
+path: "/freedevtools/tldr/common/orca-c/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/orca-c/"
 description: "Control ORCA sequencer parameters with orca-c, a C-port of the ORCA live programming environment. Create procedural sequencers easily. Free online tool, no registration required."
 category: common

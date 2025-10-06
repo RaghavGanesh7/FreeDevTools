@@ -1,7 +1,7 @@
 ---
 title: "Convert PNM to TIFF CMYK - Image Conversion | Online Free DevTools by Hexmos"
 name: pnmtotiffcmyk
-path: /freedevtools/tldr/pnm/pnmtotiffcmyk
+path: "/freedevtools/tldr/pnm/pnmtotiffcmyk/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmtotiffcmyk/"
 description: "Convert PNM images to CMYK encoded TIFF with pnmtotiffcmyk.  Control compression and fill order for optimized image conversion. Free online tool, no registration required."
 category: common

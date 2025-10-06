@@ -1,7 +1,7 @@
 ---
 title: "Hexdump - Create Hexadecimal Dumps with xxd | Online Free DevTools by Hexmos"
 name: xxd
-path: /freedevtools/tldr/common/xxd
+path: "/freedevtools/tldr/common/xxd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xxd/"
 description: "Generate hexdumps with xxd. Convert binary files to hexadecimal representation or vice versa. Explore xxd functionalities with this free online tool, no registration required."
 category: common

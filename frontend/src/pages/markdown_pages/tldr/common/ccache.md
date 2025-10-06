@@ -1,7 +1,7 @@
 ---
 title: "Ccache - Control C/C++ Compilation Cache | Online Free DevTools by Hexmos"
 name: ccache
-path: /freedevtools/tldr/common/ccache
+path: "/freedevtools/tldr/common/ccache/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ccache/"
 description: "Control C/C++ compilation with Ccache. Improve build times by caching compiler outputs and reusing them. Free online tool, no registration required."
 category: common

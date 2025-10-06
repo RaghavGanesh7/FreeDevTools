@@ -1,7 +1,7 @@
 ---
 title: "Generate SVG Makefiles - Inkmake | Online Free DevTools by Hexmos"
 name: inkmake
-path: /freedevtools/tldr/in/inkmake
+path: "/freedevtools/tldr/in/inkmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/in/inkmake/"
 description: "Generate SVG makefiles with Inkmake. Automate SVG exporting and transformations using Inkscape's backend. Free online tool, no registration required."
 category: common

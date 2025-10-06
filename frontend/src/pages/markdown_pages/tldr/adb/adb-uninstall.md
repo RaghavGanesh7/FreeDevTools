@@ -1,7 +1,7 @@
 ---
 title: "ADB Uninstall - Remove Android Packages | Online Free DevTools by Hexmos"
 name: adb-uninstall
-path: /freedevtools/tldr/adb/adb-uninstall
+path: "/freedevtools/tldr/adb/adb-uninstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/adb/adb-uninstall/"
 description: "Uninstall Android packages efficiently with ADB Uninstall. Remove applications and their data, or keep user data intact. Free online tool, no registration required."
 category: common

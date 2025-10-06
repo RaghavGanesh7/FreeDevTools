@@ -1,7 +1,7 @@
 ---
 title: "DMI Decode - Display System Hardware Info | Online Free DevTools by Hexmos"
 name: dmidecode
-path: /freedevtools/tldr/linux/dmidecode
+path: "/freedevtools/tldr/linux/dmidecode/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dmidecode/"
 description: "Display system hardware information with DMI Decode. Retrieve BIOS version, serial number, and memory details. Free online tool, no registration required."
 category: linux

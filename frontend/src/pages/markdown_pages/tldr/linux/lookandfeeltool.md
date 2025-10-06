@@ -1,7 +1,7 @@
 ---
 title: "Lookandfeeltool - Apply Linux Themes | Online Free DevTools by Hexmos"
 name: lookandfeeltool
-path: /freedevtools/tldr/linux/lookandfeeltool
+path: "/freedevtools/tldr/linux/lookandfeeltool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lookandfeeltool/"
 description: "Apply Linux themes easily with Lookandfeeltool. Customize your desktop environment, manage KDE Plasma styles, and personalize your Linux experience. Free online tool, no registration required."
 category: linux

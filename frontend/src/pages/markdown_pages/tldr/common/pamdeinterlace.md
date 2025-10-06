@@ -1,7 +1,7 @@
 ---
 title: "Deinterlace Image - Remove Rows | Online Free DevTools by Hexmos"
 name: pamdeinterlace
-path: /freedevtools/tldr/common/pamdeinterlace
+path: "/freedevtools/tldr/common/pamdeinterlace/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamdeinterlace/"
 description: "Deinterlace images with pamdeinterlace. Easily remove even or odd rows from your Netpbm image for efficient interlacing control. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PDF Merge - Create PDF Documents with Pdfjam | Online Free DevTools by Hexmos"
 name: pdfjam
-path: /freedevtools/tldr/common/pdfjam
+path: "/freedevtools/tldr/common/pdfjam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfjam/"
 description: "Create PDF documents with Pdfjam. Easily merge, arrange, and manipulate PDF files from the command line. Free online tool, no registration required."
 category: common

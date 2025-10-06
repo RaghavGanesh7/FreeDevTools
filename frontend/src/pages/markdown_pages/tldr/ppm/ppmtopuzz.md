@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to Puzz - Create X11 Puzzle Files | Online Free DevTools by Hexmos"
 name: ppmtopuzz
-path: /freedevtools/tldr/ppm/ppmtopuzz
+path: "/freedevtools/tldr/ppm/ppmtopuzz/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtopuzz/"
 description: "Convert PPM images to X11 puzzle files with ppmtopuzz. Create interactive puzzles directly from your image formats. Free online tool, no registration required."
 category: common

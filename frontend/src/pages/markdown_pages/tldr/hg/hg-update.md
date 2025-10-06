@@ -1,7 +1,7 @@
 ---
 title: "Hg Update - Control Mercurial Changesets | Online Free DevTools by Hexmos"
 name: hg-update
-path: /freedevtools/tldr/hg/hg-update
+path: "/freedevtools/tldr/hg/hg-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/hg/hg-update/"
 description: "Control Mercurial changesets with Hg Update. Revert to specific revisions, discard uncommitted changes and update to specific dates using Mercurial SCM. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Korn Shell - Execute Commands | Online Free DevTools by Hexmos"
 name: ksh
-path: /freedevtools/tldr/common/ksh
+path: "/freedevtools/tldr/common/ksh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ksh/"
 description: "Execute commands with Korn Shell.  Run scripts, check syntax, and debug code using this versatile shell interpreter. Free online tool, no registration required."
 category: common

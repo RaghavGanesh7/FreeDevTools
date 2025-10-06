@@ -1,7 +1,7 @@
 ---
 title: "Process Satellite Data - Control SNAP ESA on Linux | Online Free DevTools by Hexmos"
 name: snap.esa
-path: /freedevtools/tldr/linux/snap-esa
+path: "/freedevtools/tldr/linux/snap-esa/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/snap-esa/"
 description: "Process satellite data with SNAP ESA on Linux. Analyze, visualize, and process remote sensing data using command line interface. Free online tool, no registration required."
 category: linux

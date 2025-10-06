@@ -1,7 +1,7 @@
 ---
 title: "F-Droid Builder - Build Android Apps | Online Free DevTools by Hexmos"
 name: fdroid
-path: /freedevtools/tldr/common/fdroid
+path: "/freedevtools/tldr/common/fdroid/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fdroid/"
 description: "Build Android apps easily with F-Droid Builder. Create, publish, and install FOSS applications for the Android platform directly from the command line. Free online tool, no registration required."
 category: common

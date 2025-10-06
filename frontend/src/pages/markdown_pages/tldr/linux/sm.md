@@ -1,7 +1,7 @@
 ---
 title: "Display Messages - Fullscreen Control with sm | Online Free DevTools by Hexmos"
 name: sm
-path: /freedevtools/tldr/linux/sm
+path: "/freedevtools/tldr/linux/sm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sm/"
 description: "Control fullscreen messages instantly with sm. Customize colors, rotation, and input sources. Free online tool, no registration required."
 category: linux

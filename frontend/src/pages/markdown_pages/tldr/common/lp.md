@@ -1,7 +1,7 @@
 ---
 title: "Print Files - Print Files on Linux, macOS | Online Free DevTools by Hexmos"
 name: lp
-path: /freedevtools/tldr/common/lp
+path: "/freedevtools/tldr/common/lp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lp/"
 description: "Print files with lp on Linux and macOS. Easily send files to printers, specify printers, and manage print jobs from the command line. Free online tool, no registration required."
 category: common

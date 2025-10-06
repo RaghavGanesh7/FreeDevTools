@@ -1,7 +1,7 @@
 ---
 title: "Sc_warts2pcap - Create PCAP from Warts | Online Free DevTools by Hexmos"
 name: sc_warts2pcap
-path: /freedevtools/tldr/common/sc_warts2pcap
+path: "/freedevtools/tldr/common/sc_warts2pcap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_warts2pcap/"
 description: "Create PCAP files from Warts data using sc_warts2pcap. Convert warts data to PCAP format easily. Free online tool, no registration required."
 category: common

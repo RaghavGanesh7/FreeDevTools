@@ -1,7 +1,7 @@
 ---
 title: "opkg Package Manager - Manage OpenWrt Packages | Online Free DevTools by Hexmos"
 name: opkg
-path: /freedevtools/tldr/linux/opkg
+path: "/freedevtools/tldr/linux/opkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/opkg/"
 description: "Manage OpenWrt packages efficiently with opkg. Install, remove, update, and upgrade packages easily. Free online tool, no registration required."
 category: linux

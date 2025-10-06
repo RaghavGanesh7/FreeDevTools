@@ -1,7 +1,7 @@
 ---
 title: "Execute AppleScript - Automate macOS Tasks | Online Free DevTools by Hexmos"
 name: osascript
-path: /freedevtools/tldr/osx/osascript
+path: "/freedevtools/tldr/osx/osascript/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/osascript/"
 description: "Execute AppleScript commands with osascript. Automate macOS tasks, interact with applications, and streamline workflows effortlessly. Free online tool, no registration required."
 category: osx

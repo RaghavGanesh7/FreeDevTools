@@ -1,7 +1,7 @@
 ---
 title: "Bundler - Manage Ruby Dependencies | Online Free DevTools by Hexmos"
 name: bundler
-path: /freedevtools/tldr/common/bundler
+path: "/freedevtools/tldr/common/bundler/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bundler/"
 description: "Manage Ruby project dependencies efficiently with Bundler. Install, update, and resolve gems with ease. Free online tool, no registration required."
 category: common

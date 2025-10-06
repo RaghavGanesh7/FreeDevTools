@@ -1,7 +1,7 @@
 ---
 title: "Display Dialog Boxes - Control Terminal Interactions | Online Free DevTools by Hexmos"
 name: dialog
-path: /freedevtools/tldr/linux/dialog
+path: "/freedevtools/tldr/linux/dialog/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dialog/"
 description: "Control terminal interactions easily with dialog. Display message boxes, prompt for user input, and create yes/no questions. Free online tool, no registration required."
 category: linux

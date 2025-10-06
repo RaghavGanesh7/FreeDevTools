@@ -1,7 +1,7 @@
 ---
 title: "Convert PNM Image - Format Netpbm Images | Online Free DevTools by Hexmos"
 name: pnmarith
-path: /freedevtools/tldr/pnm/pnmarith
+path: "/freedevtools/tldr/pnm/pnmarith/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmarith/"
 description: "Convert PNM image formats effortlessly with pnmarith. Manipulate Netpbm image files using simple arithmetic operations. Free online tool, no registration required."
 category: common

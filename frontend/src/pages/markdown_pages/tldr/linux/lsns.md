@@ -1,7 +1,7 @@
 ---
 title: "Lsns - List Linux Namespaces | Online Free DevTools by Hexmos"
 name: lsns
-path: /freedevtools/tldr/linux/lsns
+path: "/freedevtools/tldr/linux/lsns/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsns/"
 description: "List Linux namespaces with Lsns. Quickly identify process IDs and namespace types. Free online tool, no registration required. Improve system monitoring."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "setsid Command - Control Process Sessions | Online Free DevTools by Hexmos"
 name: setsid
-path: /freedevtools/tldr/linux/setsid
+path: "/freedevtools/tldr/linux/setsid/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setsid/"
 description: "Control process sessions with the setsid command.  Run programs in new sessions, manage process groups, and control terminal behavior. Free online tool, no registration required."
 category: linux

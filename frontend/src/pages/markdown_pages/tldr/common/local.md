@@ -1,7 +1,7 @@
 ---
 title: "Local Variables - Declare Variables | Online Free DevTools by Hexmos"
 name: local
-path: /freedevtools/tldr/common/local
+path: "/freedevtools/tldr/common/local/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/local/"
 description: "Declare local variables instantly with Local Variables. Assign values, set attributes, and manage variable scope in shell scripts. Free online tool, no registration required."
 category: common

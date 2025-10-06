@@ -1,7 +1,7 @@
 ---
 title: "Clipboard Manager - Control Terminal Clipboard | Online Free DevTools by Hexmos"
 name: cb
-path: /freedevtools/tldr/common/cb
+path: "/freedevtools/tldr/common/cb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cb/"
 description: "Control clipboard actions easily with Clipboard Manager. Copy, paste, and manage clipboard history directly from your terminal. Free online tool, no registration required."
 category: common

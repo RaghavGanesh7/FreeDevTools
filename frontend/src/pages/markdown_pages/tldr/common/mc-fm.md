@@ -1,7 +1,7 @@
 ---
 title: "Control Files - Midnight Commander File Manager | Online Free DevTools by Hexmos"
 name: mc.fm
-path: /freedevtools/tldr/common/mc-fm
+path: "/freedevtools/tldr/common/mc-fm/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/mc-fm/"
 description: "Control files with Midnight Commander, a powerful TUI file manager. Navigate directories, manage files, and execute commands directly from the terminal. Free online tool, no registration required."
 category: common

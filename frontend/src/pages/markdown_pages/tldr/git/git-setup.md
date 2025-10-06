@@ -1,7 +1,7 @@
 ---
 title: "Create Git Repository - Initialize and Commit Files | Online Free DevTools by Hexmos"
 name: git-setup
-path: /freedevtools/tldr/git/git-setup
+path: "/freedevtools/tldr/git/git-setup/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-setup/"
 description: "Create Git repository and commit all files with Git Setup. Quickly initialize repositories and track changes. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Watchlistd - Manage Apple TV Watch List | Online Free DevTools by Hexmos"
 name: watchlistd
-path: /freedevtools/tldr/osx/watchlistd
+path: "/freedevtools/tldr/osx/watchlistd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/watchlistd/"
 description: "Manage Apple TV watch lists with Watchlistd. Control video playback, manage queued items, and monitor changes with this command-line tool. Free online tool, no registration required."
 category: osx

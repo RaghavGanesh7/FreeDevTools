@@ -1,7 +1,7 @@
 ---
 title: "Babashka Interpreter - Execute Clojure Scripts | Online Free DevTools by Hexmos"
 name: bb
-path: /freedevtools/tldr/common/bb
+path: "/freedevtools/tldr/common/bb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bb/"
 description: "Execute Clojure scripts swiftly with Babashka Interpreter. Effortlessly run Clojure code for scripting tasks and interactive evaluations. Free online tool, no registration required."
 category: common

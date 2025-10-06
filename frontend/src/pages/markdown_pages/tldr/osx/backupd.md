@@ -1,7 +1,7 @@
 ---
 title: "Backupd - Create Time Machine Backups | Online Free DevTools by Hexmos"
 name: backupd
-path: /freedevtools/tldr/osx/backupd
+path: "/freedevtools/tldr/osx/backupd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/backupd/"
 description: "Create Time Machine backups with Backupd on macOS. Manage backup history and ensure data protection. Free online tool, no registration required."
 category: osx

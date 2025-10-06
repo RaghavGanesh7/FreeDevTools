@@ -1,7 +1,7 @@
 ---
 title: "Bind Key - Add Zsh Keybindings | Online Free DevTools by Hexmos"
 name: bindkey
-path: /freedevtools/tldr/common/bindkey
+path: "/freedevtools/tldr/common/bindkey/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bindkey/"
 description: "Add keybindings with Bind Key for Zsh shells. Customize shell interactions and boost command-line efficiency. Free online tool, no registration required."
 category: common

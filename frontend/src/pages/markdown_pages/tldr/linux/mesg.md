@@ -1,7 +1,7 @@
 ---
 title: "Mesg Command - Control Terminal Messages | Online Free DevTools by Hexmos"
 name: mesg
-path: /freedevtools/tldr/linux/mesg
+path: "/freedevtools/tldr/linux/mesg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mesg/"
 description: "Control terminal message reception with the mesg command.  Manage incoming messages from other users using simple options. Free online tool, no registration required."
 category: linux

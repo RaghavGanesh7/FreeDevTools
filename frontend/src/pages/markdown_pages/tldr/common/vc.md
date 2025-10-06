@@ -1,7 +1,7 @@
 ---
 title: "Vercel Control - Manage Deployments | Online Free DevTools by Hexmos"
 name: vc
-path: /freedevtools/tldr/common/vc
+path: "/freedevtools/tldr/common/vc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vc/"
 description: "Control Vercel deployments with this command-line tool. Quickly manage serverless functions and website hosting on Vercel's platform. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PlatformIO Check - Validate Project Code | Online Free DevTools by Hexmos"
 name: pio-check
-path: /freedevtools/tldr/pio/pio-check
+path: "/freedevtools/tldr/pio/pio-check/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-check/"
 description: "Validate PlatformIO project code with PlatformIO Check. Perform static analysis and identify potential defects in your code. Free online tool, no registration required."
 category: common

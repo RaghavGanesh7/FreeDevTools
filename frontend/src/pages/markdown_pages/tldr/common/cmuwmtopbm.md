@@ -1,7 +1,7 @@
 ---
 title: "Convert CMUWM to PBM - Image Conversion | Online Free DevTools by Hexmos"
 name: cmuwmtopbm
-path: /freedevtools/tldr/common/cmuwmtopbm
+path: "/freedevtools/tldr/common/cmuwmtopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cmuwmtopbm/"
 description: "Convert CMU window manager bitmaps with cmuwmtopbm. Create portable bitmap images from older formats. Free online tool, no registration required."
 category: common

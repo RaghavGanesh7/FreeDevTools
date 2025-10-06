@@ -1,7 +1,7 @@
 ---
 title: "Pgbench - Benchmark PostgreSQL Databases | Online Free DevTools by Hexmos"
 name: pgbench
-path: /freedevtools/tldr/common/pgbench
+path: "/freedevtools/tldr/common/pgbench/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgbench/"
 description: "Benchmark PostgreSQL databases with pgbench. Analyze database performance, simulate client connections, and tune configurations. Free online tool, no registration required."
 category: common

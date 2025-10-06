@@ -1,7 +1,7 @@
 ---
 title: "Create VRT Datasets - Build Geospatial Mosaics | Online Free DevTools by Hexmos"
 name: gdalbuildvrt
-path: /freedevtools/tldr/common/gdalbuildvrt
+path: "/freedevtools/tldr/common/gdalbuildvrt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdalbuildvrt/"
 description: "Build geospatial mosaics with gdalbuildvrt. Create Virtual Raster Datasets effortlessly. Transform image collections into seamless, accessible layers. Free online tool, no registration required."
 category: common

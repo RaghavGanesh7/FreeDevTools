@@ -1,7 +1,7 @@
 ---
 title: "Mplayer - Play Multimedia Files | Online Free DevTools by Hexmos"
 name: mplayer
-path: /freedevtools/tldr/common/mplayer
+path: "/freedevtools/tldr/common/mplayer/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mplayer/"
 description: "Play multimedia files easily with Mplayer. Control video and audio playback with this versatile command-line tool. Free online tool, no registration required."
 category: common

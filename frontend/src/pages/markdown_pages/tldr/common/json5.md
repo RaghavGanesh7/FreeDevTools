@@ -1,7 +1,7 @@
 ---
 title: "JSON5 Converter - Format JSON5 Files to JSON | Online Free DevTools by Hexmos"
 name: json5
-path: /freedevtools/tldr/common/json5
+path: "/freedevtools/tldr/common/json5/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/json5/"
 description: "Format JSON5 files quickly with JSON5 Converter. Convert JSON5 to JSON, validate syntax, and specify indentations. Free online tool, no registration required."
 category: common

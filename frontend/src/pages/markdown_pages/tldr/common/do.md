@@ -1,7 +1,7 @@
 ---
 title: "Shell Do - Control Loop Execution | Online Free DevTools by Hexmos"
 name: do
-path: /freedevtools/tldr/common/do
+path: "/freedevtools/tldr/common/do/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/do/"
 description: "Control loop execution with Shell Do. Execute commands within for, while, select, and until loops in your scripts. Free online tool, no registration required."
 category: common

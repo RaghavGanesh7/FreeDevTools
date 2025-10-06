@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages - Control Apt with apt-mark | Online Free DevTools by Hexmos"
 name: apt-mark
-path: /freedevtools/tldr/linux/apt-mark
+path: "/freedevtools/tldr/linux/apt-mark/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apt-mark/"
 description: "Control package installations with apt-mark.  Manage updates, hold packages, and view installation status efficiently. Free online tool, no registration required."
 category: linux

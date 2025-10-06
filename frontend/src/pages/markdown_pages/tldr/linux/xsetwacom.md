@@ -1,7 +1,7 @@
 ---
 title: "Control Wacom Tablet - Configure Pen Tablets | Online Free DevTools by Hexmos"
 name: xsetwacom
-path: /freedevtools/tldr/linux/xsetwacom
+path: "/freedevtools/tldr/linux/xsetwacom/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xsetwacom/"
 description: "Control Wacom tablets with xsetwacom. Configure settings at runtime and customize your pen tablet experience. Free online tool, no registration required."
 category: linux

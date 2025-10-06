@@ -1,7 +1,7 @@
 ---
 title: "Portage Query - Manage Gentoo Packages | Online Free DevTools by Hexmos"
 name: portageq
-path: /freedevtools/tldr/linux/portageq
+path: "/freedevtools/tldr/linux/portageq/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/portageq/"
 description: "Manage Gentoo packages easily with Portage Query. Inspect package metadata, repositories, and environment variables. Free online tool, no registration required."
 category: linux

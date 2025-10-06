@@ -1,7 +1,7 @@
 ---
 title: "Get Alias - Control PowerShell Aliases | Online Free DevTools by Hexmos"
 name: gal
-path: /freedevtools/tldr/windows/gal
+path: "/freedevtools/tldr/windows/gal/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/gal/"
 description: "Get aliases instantly with Get-Alias command. List aliases, manage shortcuts, and improve scripting efficiency. Free online tool, no registration required."
 category: windows

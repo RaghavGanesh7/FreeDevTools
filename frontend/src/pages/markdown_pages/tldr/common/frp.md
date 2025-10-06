@@ -1,7 +1,7 @@
 ---
 title: "Forward Proxy - Create Network Tunnels with FRP | Online Free DevTools by Hexmos"
 name: frp
-path: /freedevtools/tldr/common/frp
+path: "/freedevtools/tldr/common/frp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/frp/"
 description: "Create network tunnels with FRP for secure port forwarding and reverse proxy. Expose services to the internet with this fast reverse proxy. Free online tool, no registration required."
 category: common

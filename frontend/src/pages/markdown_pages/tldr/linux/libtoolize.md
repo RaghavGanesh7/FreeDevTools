@@ -1,7 +1,7 @@
 ---
 title: "Libtoolize - Generate Libtool Files | Online Free DevTools by Hexmos"
 name: libtoolize
-path: /freedevtools/tldr/linux/libtoolize
+path: "/freedevtools/tldr/linux/libtoolize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/libtoolize/"
 description: "Generate libtool files with Libtoolize for seamless project integration.  Prepare your autotools project for libtool using this command-line tool. Free online tool, no registration required."
 category: linux

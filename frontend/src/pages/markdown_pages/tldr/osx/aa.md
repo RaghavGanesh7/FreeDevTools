@@ -1,7 +1,7 @@
 ---
 title: "Alias Command - Redirect Commands with AA | Online Free DevTools by Hexmos"
 name: aa
-path: /freedevtools/tldr/osx/aa
+path: "/freedevtools/tldr/osx/aa/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/aa/"
 description: "Redirect commands with AA, a command alias tool for MacOS. Easily create shortcuts and streamline your terminal workflow with this free online tool, no registration required."
 category: osx

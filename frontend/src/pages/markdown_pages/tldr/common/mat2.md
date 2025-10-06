@@ -1,7 +1,7 @@
 ---
 title: "Metadata Removal - Anonymize Files with mat2 | Online Free DevTools by Hexmos"
 name: mat2
-path: /freedevtools/tldr/common/mat2
+path: "/freedevtools/tldr/common/mat2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mat2/"
 description: "Anonymize files with mat2. Remove metadata from various file formats to protect privacy. Free online tool, no registration required."
 category: common

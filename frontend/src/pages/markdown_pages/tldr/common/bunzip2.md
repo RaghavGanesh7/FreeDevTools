@@ -1,7 +1,7 @@
 ---
 title: "Bunzip2 - Decompress BZIP2 Archives | Online Free DevTools by Hexmos"
 name: bunzip2
-path: /freedevtools/tldr/common/bunzip2
+path: "/freedevtools/tldr/common/bunzip2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bunzip2/"
 description: "Decompress BZIP2 archives with Bunzip2, a command-line tool for extracting compressed files. Quickly and easily decompress bzip2 files. Free online tool, no registration required."
 category: common

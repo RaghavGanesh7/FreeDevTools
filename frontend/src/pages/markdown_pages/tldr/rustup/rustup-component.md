@@ -1,7 +1,7 @@
 ---
 title: "Rust Component Manager - Control Toolchain Components | Online Free DevTools by Hexmos"
 name: rustup-component
-path: /freedevtools/tldr/rustup/rustup-component
+path: "/freedevtools/tldr/rustup/rustup-component/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-component/"
 description: "Control Rust toolchain components with Rustup Component Manager. Add, remove, and list components for specific toolchains. Free online tool, no registration required."
 category: common

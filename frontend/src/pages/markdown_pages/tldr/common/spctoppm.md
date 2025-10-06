@@ -1,7 +1,7 @@
 ---
 title: "Convert Spectrum Image - spctoppm to PPM | Online Free DevTools by Hexmos"
 name: spctoppm
-path: /freedevtools/tldr/common/spctoppm
+path: "/freedevtools/tldr/common/spctoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spctoppm/"
 description: "Convert Spectrum images to PPM format with spctoppm. Transform Atari compressed images for modern display. Free online tool, no registration required."
 category: common

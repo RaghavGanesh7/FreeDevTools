@@ -1,7 +1,7 @@
 ---
 title: "Stop Service - Control Windows Services | Online Free DevTools by Hexmos"
 name: stop-service
-path: /freedevtools/tldr/windows/stop-service
+path: "/freedevtools/tldr/windows/stop-service/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/stop-service/"
 description: "Control Windows services with Stop-Service. Manage service states, including stopping dependent services. Free online tool, no registration required."
 category: windows

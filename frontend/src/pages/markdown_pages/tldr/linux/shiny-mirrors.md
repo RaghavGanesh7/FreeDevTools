@@ -1,7 +1,7 @@
 ---
 title: "Generate Pacman Mirrors - Manjaro Linux Mirror List | Online Free DevTools by Hexmos"
 name: shiny-mirrors
-path: /freedevtools/tldr/linux/shiny-mirrors
+path: "/freedevtools/tldr/linux/shiny-mirrors/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/shiny-mirrors/"
 description: "Generate Manjaro Linux pacman mirror lists with shiny-mirrors.  Easily manage and refresh your mirror sources for optimal download speeds. Free online tool, no registration required."
 category: linux

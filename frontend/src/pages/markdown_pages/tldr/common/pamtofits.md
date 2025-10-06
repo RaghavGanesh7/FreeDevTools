@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM to FITS - Image Format Conversion | Online Free DevTools by Hexmos"
 name: pamtofits
-path: "/freedevtools/tldr/common/pamtofits"
+path: "/freedevtools/tldr/common/pamtofits/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtofits/"
 description: "Convert PAM images to FITS format with pamtofits. Effortlessly transform Netpbm images into FITS files for astronomical data analysis. Free online tool, no registration required."
 category: common

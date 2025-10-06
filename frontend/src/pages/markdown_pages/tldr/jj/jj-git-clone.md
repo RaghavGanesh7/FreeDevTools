@@ -1,7 +1,7 @@
 ---
 title: "Create JJ Git Clone - New Repo from Git | Online Free DevTools by Hexmos"
 name: jj-git-clone
-path: /freedevtools/tldr/jj/jj-git-clone
+path: "/freedevtools/tldr/jj/jj-git-clone/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-git-clone/"
 description: "Create a new Jujutsu repository with JJ Git Clone.  Quickly establish a JJ repo backed by a Git repo for enhanced version control. Free online tool, no registration required."
 category: common

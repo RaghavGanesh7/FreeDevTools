@@ -1,7 +1,7 @@
 ---
 title: "Control Dircolors - Manage File Colors | Online Free DevTools by Hexmos"
 name: gdircolors
-path: /freedevtools/tldr/osx/gdircolors
+path: "/freedevtools/tldr/osx/gdircolors/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gdircolors/"
 description: "Control file colors with Dircolors for improved terminal readability. Customize color schemes and enhance command-line experience. Free online tool, no registration required."
 category: osx

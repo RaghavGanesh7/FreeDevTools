@@ -1,7 +1,7 @@
 ---
 title: "List Files - Control Directory Contents | Online Free DevTools by Hexmos"
 name: ls
-path: /freedevtools/tldr/common/ls
+path: "/freedevtools/tldr/common/ls/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ls/"
 description: "Control directory contents with List Files command. Display, sort, and filter files on Linux and macOS systems. Free online tool, no registration required."
 category: common

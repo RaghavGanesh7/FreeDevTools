@@ -1,7 +1,7 @@
 ---
 title: "Fake Time Control - Manage System Time for Commands | Online Free DevTools by Hexmos"
 name: faketime
-path: /freedevtools/tldr/linux/faketime
+path: "/freedevtools/tldr/linux/faketime/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/faketime/"
 description: "Control system time for commands with faketime. Easily simulate past, present, and future dates for testing and debugging. Free online tool, no registration required."
 category: linux

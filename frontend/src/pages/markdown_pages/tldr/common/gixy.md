@@ -1,7 +1,7 @@
 ---
 title: "Analyze Nginx Configs - Gixy Nginx Analyzer | Online Free DevTools by Hexmos"
 name: gixy
-path: /freedevtools/tldr/common/gixy
+path: "/freedevtools/tldr/common/gixy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gixy/"
 description: "Analyze Nginx configurations with Gixy Nginx Analyzer. Detect common errors, security vulnerabilities, and performance issues in your Nginx setup. Free online tool, no registration required."
 category: common

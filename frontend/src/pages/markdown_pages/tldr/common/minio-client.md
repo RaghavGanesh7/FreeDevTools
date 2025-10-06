@@ -1,7 +1,7 @@
 ---
 title: "MinIO Client - Manage Cloud Storage | Online Free DevTools by Hexmos"
 name: minio-client
-path: /freedevtools/tldr/common/minio-client
+path: "/freedevtools/tldr/common/minio-client/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minio-client/"
 description: "Manage cloud storage with MinIO Client. Control object storage, manage buckets, and sync data using command line. Free online tool, no registration required."
 category: common

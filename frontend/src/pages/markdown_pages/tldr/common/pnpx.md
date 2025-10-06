@@ -1,7 +1,7 @@
 ---
 title: "PNPX Executor - Execute npm Binaries with pnpm | Online Free DevTools by Hexmos"
 name: pnpx
-path: /freedevtools/tldr/common/pnpx
+path: "/freedevtools/tldr/common/pnpx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pnpx/"
 description: "Execute npm package binaries swiftly with PNpx Executor, leveraging pnpm for faster and more efficient execution. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "i3exit Command - Control i3 Window Manager | Online Free DevTools by Hexmos"
 name: i3exit
-path: /freedevtools/tldr/linux/i3exit
+path: "/freedevtools/tldr/linux/i3exit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/i3exit/"
 description: "Control i3 window manager actions with the i3exit command.  Log out, lock, shutdown, reboot, suspend, hibernate, or switch users. Free online tool, no registration required."
 category: linux

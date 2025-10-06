@@ -1,7 +1,7 @@
 ---
 title: "Run R Scripts - Execute R Language Programs | Online Free DevTools by Hexmos"
 name: r
-path: "/freedevtools/tldr/common/r"
+path: "/freedevtools/tldr/common/r/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/r/"
 description: "Run R scripts effortlessly with this R interpreter tool. Execute R code, debug programs, and manage R packages directly from the command line. Free online tool, no registration required."
 category: common

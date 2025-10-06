@@ -1,7 +1,7 @@
 ---
 title: "Flask-Unsign - Control Flask Sessions | Online Free DevTools by Hexmos"
 name: flask-unsign
-path: /freedevtools/tldr/common/flask-unsign
+path: "/freedevtools/tldr/common/flask-unsign/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flask-unsign/"
 description: "Control Flask sessions with Flask-Unsign. Decode, brute-force, and craft Flask session cookies. Free online tool, no registration required."
 category: common

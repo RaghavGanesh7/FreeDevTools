@@ -1,7 +1,7 @@
 ---
 title: "PAMRGBAToPNG Converter - Convert PAM to PNG | Online Free DevTools by Hexmos"
 name: pamrgbatopng
-path: /freedevtools/tldr/common/pamrgbatopng
+path: "/freedevtools/tldr/common/pamrgbatopng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamrgbatopng/"
 description: "Convert PAM files to PNG images with PAMRGBAToPNG. Quickly transform Netpbm image formats. Free online tool, no registration required."
 category: common

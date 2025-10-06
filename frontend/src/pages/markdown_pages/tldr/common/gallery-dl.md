@@ -1,7 +1,7 @@
 ---
 title: "Download Image Galleries - with gallery-dl | Online Free DevTools by Hexmos"
 name: gallery-dl
-path: /freedevtools/tldr/common/gallery-dl
+path: "/freedevtools/tldr/common/gallery-dl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gallery-dl/"
 description: "Download image galleries effortlessly with gallery-dl. Extract images from various image hosting sites and online collections. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Terminal Talk - Communicate Visually | Online Free DevTools by Hexmos"
 name: talk
-path: /freedevtools/tldr/linux/talk
+path: "/freedevtools/tldr/linux/talk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/talk/"
 description: "Control terminal communication with Talk, a visual communication program on Linux. Real-time interaction and remote messaging made simple. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "PPM Normalize - Format PPM Images | Online Free DevTools by Hexmos"
 name: ppmnorm
-path: /freedevtools/tldr/ppm/ppmnorm
+path: "/freedevtools/tldr/ppm/ppmnorm/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmnorm/"
 description: "Format PPM images with PPMNorm for enhanced image processing. Adjust brightness and contrast of PPM images with this free online tool, no registration required."
 category: common

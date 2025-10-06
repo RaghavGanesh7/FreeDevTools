@@ -1,7 +1,7 @@
 ---
 title: "Control kdialog - Display KDE Dialogs | Online Free DevTools by Hexmos"
 name: kdialog
-path: "/freedevtools/tldr/linux/kdialog"
+path: "/freedevtools/tldr/linux/kdialog/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kdialog/"
 description: "Control KDE dialog boxes with kdialog. Display message boxes, input prompts, and file choosers from shell scripts. Free online tool, no registration required."
 category: linux

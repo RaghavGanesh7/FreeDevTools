@@ -1,7 +1,7 @@
 ---
 title: "Behat Tests - Run BDD Tests with Behat | Online Free DevTools by Hexmos"
 name: behat
-path: /freedevtools/tldr/common/behat
+path: "/freedevtools/tldr/common/behat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/behat/"
 description: "Run Behat BDD tests efficiently with Behat. Define and execute behavior-driven specifications for PHP applications. Free online tool, no registration required."
 category: common

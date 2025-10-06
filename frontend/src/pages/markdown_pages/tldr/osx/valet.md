@@ -1,7 +1,7 @@
 ---
 title: "Control Valet - Manage Local Development Sites | Online Free DevTools by Hexmos"
 name: valet
-path: /freedevtools/tldr/osx/valet
+path: "/freedevtools/tldr/osx/valet/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/valet/"
 description: "Control local development sites with Valet. Quickly serve projects and create local tunnels on macOS. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Xwininfo - Display Window Information | Online Free DevTools by Hexmos"
 name: xwininfo
-path: /freedevtools/tldr/common/xwininfo
+path: "/freedevtools/tldr/common/xwininfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xwininfo/"
 description: "Display window information with Xwininfo. Quickly inspect window attributes, geometry, and hierarchy on Linux systems. Free online tool, no registration required."
 category: common

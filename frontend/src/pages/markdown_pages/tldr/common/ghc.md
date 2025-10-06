@@ -1,7 +1,7 @@
 ---
 title: "Haskell Compiler - Compile Haskell Code | Online Free DevTools by Hexmos"
 name: ghc
-path: /freedevtools/tldr/common/ghc
+path: "/freedevtools/tldr/common/ghc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ghc/"
 description: "Compile Haskell code efficiently with ghc, the Glasgow Haskell Compiler. Supports optimization, object file generation, and REPL interaction. Free online tool, no registration required."
 category: common

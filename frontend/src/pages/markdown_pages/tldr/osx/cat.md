@@ -1,7 +1,7 @@
 ---
 title: "Cat - Print and Concatenate Files | Online Free DevTools by Hexmos"
 name: cat
-path: /freedevtools/tldr/osx/cat
+path: "/freedevtools/tldr/osx/cat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/cat/"
 description: "Print and concatenate files with Cat. Process text and data efficiently using command line. Free online tool, no registration required."
 category: osx

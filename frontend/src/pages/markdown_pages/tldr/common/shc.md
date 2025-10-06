@@ -1,7 +1,7 @@
 ---
 title: "SHC Compiler - Compile Shell Scripts | Online Free DevTools by Hexmos"
 name: shc
-path: /freedevtools/tldr/common/shc
+path: "/freedevtools/tldr/common/shc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shc/"
 description: "Compile shell scripts with SHC Compiler. Secure shell scripts by converting them into executables with expiration options. Free online tool, no registration required."
 category: common

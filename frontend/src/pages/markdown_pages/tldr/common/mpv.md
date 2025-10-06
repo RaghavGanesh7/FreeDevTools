@@ -1,7 +1,7 @@
 ---
 title: "Play Video - Control Audio/Video Playback with MPV | Online Free DevTools by Hexmos"
 name: mpv
-path: /freedevtools/tldr/common/mpv
+path: "/freedevtools/tldr/common/mpv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpv/"
 description: "Control audio/video playback with MPV. Enhance your media viewing experience by controlling speed and subtitles. Free online tool, no registration required."
 category: common

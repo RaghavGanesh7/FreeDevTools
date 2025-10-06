@@ -1,7 +1,7 @@
 ---
 title: "View Manual Pages - xman Command | Online Free DevTools by Hexmos"
 name: xman
-path: /freedevtools/tldr/linux/xman
+path: "/freedevtools/tldr/linux/xman/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xman/"
 description: "View manual pages effortlessly with the xman command.  Access and navigate manual page content efficiently in the X Window System. Free online tool, no registration required."
 category: linux

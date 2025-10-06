@@ -1,7 +1,7 @@
 ---
 title: "Change User Information - Manage Account Details with chfn | Online Free DevTools by Hexmos"
 name: chfn
-path: /freedevtools/tldr/freebsd/chfn
+path: "/freedevtools/tldr/freebsd/chfn/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/chfn/"
 description: "Manage account details with chfn, a command-line utility for modifying user information.  Quickly update your username, GECOS field, and other account settings. Free online tool, no registration required."
 category: freebsd

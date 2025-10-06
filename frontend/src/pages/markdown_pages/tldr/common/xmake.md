@@ -1,7 +1,7 @@
 ---
 title: "Xmake Build Tool - Create C/C++ Projects | Online Free DevTools by Hexmos"
 name: xmake
-path: /freedevtools/tldr/common/xmake
+path: "/freedevtools/tldr/common/xmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xmake/"
 description: "Create C/C++ projects easily with Xmake Build Tool. Manage dependencies, configure build targets and compile across platforms. Free online tool, no registration required."
 category: common

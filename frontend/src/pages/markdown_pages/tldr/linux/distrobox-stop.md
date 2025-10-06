@@ -1,7 +1,7 @@
 ---
 title: "Distrobox Stop - Control Containers | Online Free DevTools by Hexmos"
 name: distrobox-stop
-path: /freedevtools/tldr/linux/distrobox-stop
+path: "/freedevtools/tldr/linux/distrobox-stop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox-stop/"
 description: "Control Distrobox containers with Distrobox Stop. Quickly stop containers, manage container lifecycles, and automate environment management. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Generate Doxygen Documentation - Free Source Documentation | Online Free DevTools by Hexmos"
 name: doxygen
-path: /freedevtools/tldr/common/doxygen
+path: "/freedevtools/tldr/common/doxygen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/doxygen/"
 description: "Generate source code documentation with Doxygen. Create comprehensive and structured API documentation for various programming languages. Free online tool, no registration required."
 category: common

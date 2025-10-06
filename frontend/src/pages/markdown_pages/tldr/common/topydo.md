@@ -1,7 +1,7 @@
 ---
 title: "Manage To-Do Lists - Control Tasks with topydo | Online Free DevTools by Hexmos"
 name: topydo
-path: /freedevtools/tldr/common/topydo
+path: "/freedevtools/tldr/common/topydo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/topydo/"
 description: "Manage your to-do lists efficiently with topydo. Control tasks, set due dates, and organize projects using todo.txt format. Free online tool, no registration required."
 category: common

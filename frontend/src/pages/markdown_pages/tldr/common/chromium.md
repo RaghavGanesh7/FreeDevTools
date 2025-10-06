@@ -1,7 +1,7 @@
 ---
 title: "Control Chromium - Open Web Pages | Online Free DevTools by Hexmos"
 name: chromium
-path: /freedevtools/tldr/common/chromium
+path: "/freedevtools/tldr/common/chromium/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chromium/"
 description: "Control Chromium with this command line tool to open web pages and manage browser settings. Debug websites and manage profiles easily. Free online tool, no registration required."
 category: common

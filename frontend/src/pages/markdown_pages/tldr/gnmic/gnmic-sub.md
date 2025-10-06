@@ -1,7 +1,7 @@
 ---
 title: "GNMIC Subscribe - Stream Network Telemetry | Online Free DevTools by Hexmos"
 name: gnmic-sub
-path: /freedevtools/tldr/gnmic/gnmic-sub
+path: "/freedevtools/tldr/gnmic/gnmic-sub/"
 canonical: "https://hexmos.com/freedevtools/tldr/gnmic/gnmic-sub/"
 description: "Subscribe to network telemetry streams with GNMIC. Access real-time data, monitor network performance, and troubleshoot issues efficiently. Free online tool, no registration required."
 category: common

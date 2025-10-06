@@ -1,7 +1,7 @@
 ---
 title: "Format Go Imports - Organize Code | Online Free DevTools by Hexmos"
 name: goimports
-path: /freedevtools/tldr/common/goimports
+path: "/freedevtools/tldr/common/goimports/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/goimports/"
 description: "Format Go import statements automatically with goimports. Add missing imports, remove unused ones, and organize your Go code. Free online tool, no registration required."
 category: common

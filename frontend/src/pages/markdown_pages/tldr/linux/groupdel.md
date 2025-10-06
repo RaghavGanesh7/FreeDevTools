@@ -1,7 +1,7 @@
 ---
 title: "Delete Groups - Manage System Groups | Online Free DevTools by Hexmos"
 name: groupdel
-path: /freedevtools/tldr/linux/groupdel
+path: "/freedevtools/tldr/linux/groupdel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/groupdel/"
 description: "Delete existing system groups with groupdel. Manage user groups efficiently using this command-line tool. Free online tool, no registration required."
 category: linux

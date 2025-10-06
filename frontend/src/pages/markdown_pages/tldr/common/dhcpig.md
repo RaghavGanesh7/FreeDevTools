@@ -1,7 +1,7 @@
 ---
 title: "DHCP Exhaustion - Initiate DHCP Attacks | Online Free DevTools by Hexmos"
 name: dhcpig
-path: /freedevtools/tldr/common/dhcpig
+path: "/freedevtools/tldr/common/dhcpig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dhcpig/"
 description: "Initiate DHCP exhaustion attacks with DHCPig. Stress test networks and identify vulnerabilities using advanced DHCP techniques. Free online tool, no registration required."
 category: common

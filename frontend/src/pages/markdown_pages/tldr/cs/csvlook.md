@@ -1,7 +1,7 @@
 ---
 title: "CSV Look - Format CSV Data in Terminal | Online Free DevTools by Hexmos"
 name: csvlook
-path: /freedevtools/tldr/cs/csvlook
+path: "/freedevtools/tldr/cs/csvlook/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/csvlook/"
 description: "Format CSV data in the terminal with CSVLook. View CSV files as fixed-width tables. Free online tool, no registration required."
 category: common

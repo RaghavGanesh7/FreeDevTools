@@ -1,7 +1,7 @@
 ---
 title: "GNU Tail - View File Endings with gtail | Online Free DevTools by Hexmos"
 name: gtail
-path: /freedevtools/tldr/osx/gtail
+path: "/freedevtools/tldr/osx/gtail/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtail/"
 description: "View file endings quickly with gtail, an alias of GNU tail, on macOS. Monitor log files and extract relevant information with this simple command. Free online tool, no registration required."
 category: osx

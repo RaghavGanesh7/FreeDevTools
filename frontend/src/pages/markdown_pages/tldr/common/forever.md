@@ -1,7 +1,7 @@
 ---
 title: "Forever Process Manager - Control Node.js Apps | Online Free DevTools by Hexmos"
 name: forever
-path: /freedevtools/tldr/common/forever
+path: "/freedevtools/tldr/common/forever/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/forever/"
 description: "Control Node.js processes with Forever Process Manager. Ensure continuous uptime and automatic restarts for your Node.js applications. Free online tool, no registration required."
 category: common

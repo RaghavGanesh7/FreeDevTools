@@ -1,7 +1,7 @@
 ---
 title: "Git Secret - Securely Store Data in Git | Online Free DevTools by Hexmos"
 name: git-secret
-path: /freedevtools/tldr/git/git-secret
+path: "/freedevtools/tldr/git/git-secret/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-secret/"
 description: "Secure data storage with Git Secret. Encrypt and manage sensitive information directly within your Git repositories. Free online tool, no registration required."
 category: common

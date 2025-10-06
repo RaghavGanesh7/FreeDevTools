@@ -1,7 +1,7 @@
 ---
 title: "LZcat - Decompress LZMA Files | Online Free DevTools by Hexmos"
 name: lzcat
-path: /freedevtools/tldr/common/lzcat
+path: "/freedevtools/tldr/common/lzcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzcat/"
 description: "Decompress LZMA files easily with LZcat. Quickly extract compressed data, view content directly. Free online tool, no registration required."
 category: common

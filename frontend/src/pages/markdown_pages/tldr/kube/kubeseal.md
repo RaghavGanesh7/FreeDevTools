@@ -1,7 +1,7 @@
 ---
 title: "Kubeseal - Encrypt Kubernetes Secrets | Online Free DevTools by Hexmos"
 name: kubeseal
-path: /freedevtools/tldr/kube/kubeseal
+path: "/freedevtools/tldr/kube/kubeseal/"
 canonical: "https://hexmos.com/freedevtools/tldr/kube/kubeseal/"
 description: "Encrypt Kubernetes secrets with Kubeseal. Securely manage secrets in YAML files and SealedSecret resources. Free online tool, no registration required."
 category: common

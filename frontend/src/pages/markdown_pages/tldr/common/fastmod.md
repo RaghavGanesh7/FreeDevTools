@@ -1,7 +1,7 @@
 ---
 title: "Regex Replacement - Replace Text Fast with fastmod | Online Free DevTools by Hexmos"
 name: fastmod
-path: /freedevtools/tldr/common/fastmod
+path: "/freedevtools/tldr/common/fastmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fastmod/"
 description: "Replace text fast with fastmod, a powerful command-line text replacement tool. Perform quick find and replace operations across your codebase. Free online tool, no registration required."
 category: common

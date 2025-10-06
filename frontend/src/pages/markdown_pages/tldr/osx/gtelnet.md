@@ -1,7 +1,7 @@
 ---
 title: "Telnet Command - Control Remote Hosts on macOS | Online Free DevTools by Hexmos"
 name: gtelnet
-path: /freedevtools/tldr/osx/gtelnet
+path: "/freedevtools/tldr/osx/gtelnet/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtelnet/"
 description: "Control remote hosts with the Telnet Command on macOS. Establish network connections, troubleshoot connectivity, and access command-line interfaces remotely. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "XBPS Install - Update Packages | Online Free DevTools by Hexmos"
 name: xbps-install
-path: /freedevtools/tldr/linux/xbps-install
+path: "/freedevtools/tldr/linux/xbps-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xbps-install/"
 description: "Update packages with XBPS Install. Synchronize, upgrade, and manage software installations easily. Free online tool, no registration required."
 category: linux

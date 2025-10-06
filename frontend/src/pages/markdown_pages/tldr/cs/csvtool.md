@@ -1,7 +1,7 @@
 ---
 title: "CSV Extract - Filter CSV Data | Online Free DevTools by Hexmos"
 name: csvtool
-path: /freedevtools/tldr/cs/csvtool
+path: "/freedevtools/tldr/cs/csvtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/csvtool/"
 description: "Extract data with csvtool. Filter and search CSV data using command line arguments, enhancing your data processing workflow. Free online tool, no registration required."
 category: common

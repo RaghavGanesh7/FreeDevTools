@@ -1,7 +1,7 @@
 ---
 title: "NetBIOS Scan - Discover Network Names with nbtscan | Online Free DevTools by Hexmos"
 name: nbtscan
-path: /freedevtools/tldr/common/nbtscan
+path: "/freedevtools/tldr/common/nbtscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nbtscan/"
 description: "Discover NetBIOS names with nbtscan. Easily scan your network for NetBIOS information and troubleshoot connectivity issues. Free online tool, no registration required."
 category: common

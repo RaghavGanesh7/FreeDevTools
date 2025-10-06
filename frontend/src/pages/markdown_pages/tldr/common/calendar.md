@@ -1,7 +1,7 @@
 ---
 title: "Calendar - Display Events | Online Free DevTools by Hexmos"
 name: calendar
-path: /freedevtools/tldr/common/calendar
+path: "/freedevtools/tldr/common/calendar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calendar/"
 description: "Display events with calendar. Schedule, plan, and organize your time efficiently with this command-line tool. Free online tool, no registration required."
 category: common

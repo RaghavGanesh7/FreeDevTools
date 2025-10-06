@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Bulk Rename Tool | Online Free DevTools by Hexmos"
 name: rnm
-path: /freedevtools/tldr/linux/rnm
+path: "/freedevtools/tldr/linux/rnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rnm/"
 description: "Rename files in bulk with RNM, a powerful command-line utility. Automate file renaming tasks, search/replace strings, and add indexes. Free online tool, no registration required."
 category: linux

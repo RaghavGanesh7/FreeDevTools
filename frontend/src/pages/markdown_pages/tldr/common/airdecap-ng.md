@@ -1,7 +1,7 @@
 ---
 title: "Decrypt Wireless Capture - Aircrack-ng Decryption | Online Free DevTools by Hexmos"
 name: airdecap-ng
-path: /freedevtools/tldr/common/airdecap-ng
+path: "/freedevtools/tldr/common/airdecap-ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/airdecap-ng/"
 description: "Decrypt wireless packets with Aircrack-ng airdecap-ng. Decrypt WEP, WPA, and WPA2 encrypted files, recover passwords. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control REPL Commands - rlwrap Line Editing | Online Free DevTools by Hexmos"
 name: rlwrap
-path: /freedevtools/tldr/common/rlwrap
+path: "/freedevtools/tldr/common/rlwrap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rlwrap/"
 description: "Control REPL command line editing with rlwrap, enhancing functionality. Add persistent history and prompt completion to any REPL. Free online tool, no registration required."
 category: common

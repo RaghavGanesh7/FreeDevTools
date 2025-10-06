@@ -1,7 +1,7 @@
 ---
 title: "PCT Exec - Launch Commands in Linux Containers | Online Free DevTools by Hexmos"
 name: pct-exec
-path: /freedevtools/tldr/linux/pct-exec
+path: "/freedevtools/tldr/linux/pct-exec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-exec/"
 description: "Launch commands inside Linux containers with PCT Exec. Easily manage and control processes within your Proxmox VE environments. Free online tool, no registration required."
 category: linux

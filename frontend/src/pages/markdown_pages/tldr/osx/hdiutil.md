@@ -1,7 +1,7 @@
 ---
 title: "Disk Image Utility - Create & Manage Images | Online Free DevTools by Hexmos"
 name: hdiutil
-path: /freedevtools/tldr/osx/hdiutil
+path: "/freedevtools/tldr/osx/hdiutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/hdiutil/"
 description: "Create and manage disk images with hdiutil. Mount, unmount, and convert images easily with this command-line utility. Free online tool, no registration required."
 category: osx

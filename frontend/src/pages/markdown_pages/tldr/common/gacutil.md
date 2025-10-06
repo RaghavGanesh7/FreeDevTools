@@ -1,7 +1,7 @@
 ---
 title: "Gacutil - Manage Assemblies | Online Free DevTools by Hexmos"
 name: gacutil
-path: /freedevtools/tldr/common/gacutil
+path: "/freedevtools/tldr/common/gacutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gacutil/"
 description: "Manage assemblies with Gacutil, the Global Assembly Cache utility. Install, uninstall and list assemblies in the GAC effortlessly. Free online tool, no registration required."
 category: common

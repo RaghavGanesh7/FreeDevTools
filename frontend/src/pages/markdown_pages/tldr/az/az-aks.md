@@ -1,7 +1,7 @@
 ---
 title: "Create AKS Clusters - Manage Kubernetes with Azure CLI | Online Free DevTools by Hexmos"
 name: az-aks
-path: /freedevtools/tldr/az/az-aks
+path: "/freedevtools/tldr/az/az-aks/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-aks/"
 description: "Create AKS clusters with Azure CLI (az-aks). Manage Kubernetes resources and configurations. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "lsipc - Inspect System V IPC | Online Free DevTools by Hexmos"
 name: lsipc
-path: /freedevtools/tldr/linux/lsipc
+path: "/freedevtools/tldr/linux/lsipc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsipc/"
 description: "Inspect System V Inter-Process Communication (IPC) with lsipc.  View shared memory, message queues, and semaphores. Free online tool, no registration required."
 category: linux

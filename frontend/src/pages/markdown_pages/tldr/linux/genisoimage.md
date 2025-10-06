@@ -1,7 +1,7 @@
 ---
 title: "Generate ISO Image - Create Filesystems | Online Free DevTools by Hexmos"
 name: genisoimage
-path: /freedevtools/tldr/linux/genisoimage
+path: "/freedevtools/tldr/linux/genisoimage/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/genisoimage/"
 description: "Generate ISO image files with genisoimage. Create ISO9660, Joliet, and HFS hybrid filesystems quickly. Free online tool, no registration required."
 category: linux

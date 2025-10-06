@@ -1,7 +1,7 @@
 ---
 title: "Destroy Container - PCT Command | Online Free DevTools by Hexmos"
 name: pct-destroy
-path: /freedevtools/tldr/linux/pct-destroy
+path: "/freedevtools/tldr/linux/pct-destroy/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-destroy/"
 description: "Destroy Proxmox containers quickly with the PCT command.  Manage and delete containers efficiently using this powerful command-line tool. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "AppConfig - Manage Azure App Configuration | Online Free DevTools by Hexmos"
 name: az-appconfig
-path: /freedevtools/tldr/az/az-appconfig
+path: "/freedevtools/tldr/az/az-appconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-appconfig/"
 description: "Manage Azure App Configuration with az-appconfig. Configure settings, secrets and feature flags for your applications on Azure. Free online tool, no registration required."
 category: common

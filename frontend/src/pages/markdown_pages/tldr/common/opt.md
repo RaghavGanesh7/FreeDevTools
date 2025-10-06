@@ -1,7 +1,7 @@
 ---
 title: "LLVM Optimizer - Run Optimizations | Online Free DevTools by Hexmos"
 name: opt
-path: "/freedevtools/tldr/common/opt"
+path: "/freedevtools/tldr/common/opt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/opt/"
 description: "Run LLVM optimizations with LLVM Optimizer. Analyze, transform, and optimize LLVM bitcode files using command line. Free online tool, no registration required."
 category: common

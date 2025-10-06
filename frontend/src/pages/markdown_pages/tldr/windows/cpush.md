@@ -1,7 +1,7 @@
 ---
 title: "Push Chocolatey Package - Deploy Software | Online Free DevTools by Hexmos"
 name: cpush
-path: /freedevtools/tldr/windows/cpush
+path: "/freedevtools/tldr/windows/cpush/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/cpush/"
 description: "Deploy Chocolatey packages with cpush on Windows. Automate software distribution and manage dependencies efficiently using command line. Free online tool, no registration required."
 category: windows

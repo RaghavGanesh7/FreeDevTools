@@ -1,7 +1,7 @@
 ---
 title: "Control FreePBX - Manage Phone Systems | Online Free DevTools by Hexmos"
 name: fwconsole
-path: /freedevtools/tldr/linux/fwconsole
+path: "/freedevtools/tldr/linux/fwconsole/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fwconsole/"
 description: "Control FreePBX phone systems with fwconsole on Linux. Configure settings, manage backups, and troubleshoot issues using the command line. Free online tool, no registration required."
 category: linux

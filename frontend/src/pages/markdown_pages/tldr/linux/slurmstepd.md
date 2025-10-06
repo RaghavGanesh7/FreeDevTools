@@ -1,7 +1,7 @@
 ---
 title: "Slurm Slurmstepd - Manage Job Steps | Online Free DevTools by Hexmos"
 name: slurmstepd
-path: /freedevtools/tldr/linux/slurmstepd
+path: "/freedevtools/tldr/linux/slurmstepd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slurmstepd/"
 description: "Manage Slurm job steps efficiently with Slurm Slurmstepd. Monitor and control individual job steps within a multi-step job. Free online resource, no registration required."
 category: linux

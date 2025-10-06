@@ -1,7 +1,7 @@
 ---
 title: "GetNPUsers - Enumerate Kerberos Users | Online Free DevTools by Hexmos"
 name: impacket-getnpusers
-path: /freedevtools/tldr/impacket/impacket-getnpusers
+path: "/freedevtools/tldr/impacket/impacket-getnpusers/"
 canonical: "https://hexmos.com/freedevtools/tldr/impacket/impacket-getnpusers/"
 description: "Enumerate Kerberos users with GetNPUsers. Identify users vulnerable to AS-REP roasting attacks and improve network security. Free online tool, no registration required."
 category: common

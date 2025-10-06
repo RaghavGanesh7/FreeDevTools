@@ -1,7 +1,7 @@
 ---
 title: "XML Escape - Convert Special Characters | Online Free DevTools by Hexmos"
 name: xml-escape
-path: /freedevtools/tldr/xml/xml-escape
+path: "/freedevtools/tldr/xml/xml-escape/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-escape/"
 description: "Convert special XML characters with XML Escape. Encode strings, stdin input, and sanitize data for safe XML parsing. Free online tool, no registration required."
 category: common

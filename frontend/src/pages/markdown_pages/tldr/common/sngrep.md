@@ -1,7 +1,7 @@
 ---
 title: "Sngrep Capture - Display SIP Flows | Online Free DevTools by Hexmos"
 name: sngrep
-path: /freedevtools/tldr/common/sngrep
+path: "/freedevtools/tldr/common/sngrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sngrep/"
 description: "Capture SIP message flows with Sngrep. Analyze VoIP traffic and debug SIP communications with this command-line tool. Free online tool, no registration required."
 category: common

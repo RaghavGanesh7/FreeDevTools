@@ -1,7 +1,7 @@
 ---
 title: "LibreOffice - Open Document Files | Online Free DevTools by Hexmos"
 name: libreoffice
-path: /freedevtools/tldr/common/libreoffice
+path: "/freedevtools/tldr/common/libreoffice/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/libreoffice/"
 description: "Open and edit document files with LibreOffice. View various file formats like .odt, .doc, and .docx. Free online tool, no registration required."
 category: common

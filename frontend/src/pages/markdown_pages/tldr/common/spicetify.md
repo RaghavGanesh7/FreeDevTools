@@ -1,7 +1,7 @@
 ---
 title: "Customize Spotify - Spicetify Client UI | Online Free DevTools by Hexmos"
 name: spicetify
-path: /freedevtools/tldr/common/spicetify
+path: "/freedevtools/tldr/common/spicetify/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spicetify/"
 description: "Customize Spotify client UI with Spicetify. Apply themes, extensions and custom apps to enhance your Spotify experience. Free online tool, no registration required."
 category: common

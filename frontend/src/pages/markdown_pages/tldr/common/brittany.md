@@ -1,7 +1,7 @@
 ---
 title: "Format Haskell Code - Pretty-Print with Brittany | Online Free DevTools by Hexmos"
 name: brittany
-path: /freedevtools/tldr/common/brittany
+path: "/freedevtools/tldr/common/brittany/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/brittany/"
 description: "Format Haskell code easily with Brittany. Enhance code readability and maintainability using command-line options. Free online tool, no registration required."
 category: common

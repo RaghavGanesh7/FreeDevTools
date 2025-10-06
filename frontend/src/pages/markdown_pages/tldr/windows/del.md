@@ -1,7 +1,7 @@
 ---
 title: "Delete Files - Manage Files on Windows with DEL | Online Free DevTools by Hexmos"
 name: del
-path: /freedevtools/tldr/windows/del
+path: "/freedevtools/tldr/windows/del/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/del/"
 description: "Manage files efficiently with DEL, the Windows command-line tool. Delete, force removal, and recursively remove files with attribute control. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Manage GNOME Display - Control GDM Settings | Online Free DevTools by Hexmos"
 name: gdm
-path: /freedevtools/tldr/gdm/gdm
+path: "/freedevtools/tldr/gdm/gdm/"
 canonical: "https://hexmos.com/freedevtools/tldr/gdm/gdm/"
 description: "Manage GNOME display settings with GDM. Control display manager behavior and configure X server sessions. Free online tool, no registration required."
 category: common

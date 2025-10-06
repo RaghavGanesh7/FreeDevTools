@@ -1,7 +1,7 @@
 ---
 title: "Format Text - Columnar Formatting | Online Free DevTools by Hexmos"
 name: column
-path: /freedevtools/tldr/linux/column
+path: "/freedevtools/tldr/linux/column/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/column/"
 description: "Format text into columns with Column command-line tool. Easily create tabular output and control text alignment for enhanced readability. Free online tool, no registration required."
 category: linux

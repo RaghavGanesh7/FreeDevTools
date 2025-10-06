@@ -1,7 +1,7 @@
 ---
 title: "Unstar NPM Package - Remove Package Stars | Online Free DevTools by Hexmos"
 name: npm-unstar
-path: /freedevtools/tldr/npm/npm-unstar
+path: "/freedevtools/tldr/npm/npm-unstar/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-unstar/"
 description: "Unstar NPM packages effortlessly with NPM Unstar. Remove starred packages from your NPM registry and manage your favorite packages easily. Free online tool, no registration required."
 category: common

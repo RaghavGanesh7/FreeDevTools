@@ -1,7 +1,7 @@
 ---
 title: "Create PHP Extension - Prepare for Compiling | Online Free DevTools by Hexmos"
 name: phpize
-path: /freedevtools/tldr/php/phpize
+path: "/freedevtools/tldr/php/phpize/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phpize/"
 description: "Create PHP extension compilation-ready code with phpize. Prepare your PHP extension for building and installation effortlessly. Free online tool, no registration required."
 category: common

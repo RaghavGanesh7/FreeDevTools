@@ -1,7 +1,7 @@
 ---
 title: "Sdelete64 - Securely Delete Files | Online Free DevTools by Hexmos"
 name: sdelete64
-path: /freedevtools/tldr/windows/sdelete64
+path: "/freedevtools/tldr/windows/sdelete64/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sdelete64/"
 description: "Securely delete files with Sdelete64 and overwrite data to protect sensitive information. Secure data erasure with command line interface. Free online tool, no registration required."
 category: windows

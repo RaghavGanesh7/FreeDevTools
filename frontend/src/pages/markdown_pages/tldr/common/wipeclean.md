@@ -1,7 +1,7 @@
 ---
 title: "WipeClean - Clear Terminal Screen | Online Free DevTools by Hexmos"
 name: wipeclean
-path: /freedevtools/tldr/common/wipeclean
+path: "/freedevtools/tldr/common/wipeclean/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wipeclean/"
 description: "Clear terminal screen instantly with WipeClean. Enhance your command-line interface with animated screen clearing for improved workflow. Free online tool, no registration required."
 category: common

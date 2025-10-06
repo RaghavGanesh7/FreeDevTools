@@ -1,7 +1,7 @@
 ---
 title: "PCT Create - Generate LXC Containers in Proxmox | Online Free DevTools by Hexmos"
 name: pct-create
-path: /freedevtools/tldr/linux/pct-create
+path: "/freedevtools/tldr/linux/pct-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-create/"
 description: "Generate LXC containers with PCT Create. Manage and configure Proxmox containers with ease. Free online tool, no registration required."
 category: linux

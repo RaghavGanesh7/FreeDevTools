@@ -1,7 +1,7 @@
 ---
 title: "Accelerate - Run PyTorch Models Easily | Online Free DevTools by Hexmos"
 name: accelerate
-path: /freedevtools/tldr/common/accelerate
+path: "/freedevtools/tldr/common/accelerate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/accelerate/"
 description: "Accelerate PyTorch model training with Accelerate. Distribute your models across CPUs and GPUs effortlessly. Free online tool, no registration required."
 category: common

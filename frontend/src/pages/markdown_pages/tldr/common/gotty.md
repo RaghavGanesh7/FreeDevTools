@@ -1,7 +1,7 @@
 ---
 title: "Share Terminal - Control Terminal Sessions with GoTTY | Online Free DevTools by Hexmos"
 name: gotty
-path: /freedevtools/tldr/common/gotty
+path: "/freedevtools/tldr/common/gotty/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gotty/"
 description: "Share terminal sessions securely with GoTTY. Control remote access and collaborate with others via web browser. Free online tool, no registration required."
 category: common

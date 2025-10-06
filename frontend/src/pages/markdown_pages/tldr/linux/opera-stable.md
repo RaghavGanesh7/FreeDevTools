@@ -1,7 +1,7 @@
 ---
 title: "Opera Browser - Control Web Browsing with Chromium | Online Free DevTools by Hexmos"
 name: opera-stable
-path: /freedevtools/tldr/linux/opera-stable
+path: "/freedevtools/tldr/linux/opera-stable/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/opera-stable/"
 description: "Control web browsing effortlessly with Opera Browser, leveraging the power of Chromium. Manage browser settings, extensions, and profiles using command-line interface. Free online tool, no registration required."
 category: linux

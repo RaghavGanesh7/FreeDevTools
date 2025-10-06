@@ -1,7 +1,7 @@
 ---
 title: "Generate Java Documentation - Javadoc | Online Free DevTools by Hexmos"
 name: javadoc
-path: /freedevtools/tldr/common/javadoc
+path: "/freedevtools/tldr/common/javadoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/javadoc/"
 description: "Generate Java API documentation with Javadoc. Create HTML documentation from source code, customize encoding, and exclude packages. Free online tool, no registration required."
 category: common

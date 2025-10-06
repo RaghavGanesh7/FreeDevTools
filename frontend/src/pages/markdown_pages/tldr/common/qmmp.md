@@ -1,7 +1,7 @@
 ---
 title: "Control QMMP Audio - Play Music | Online Free DevTools by Hexmos"
 name: qmmp
-path: /freedevtools/tldr/common/qmmp
+path: "/freedevtools/tldr/common/qmmp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qmmp/"
 description: "Control QMMP audio playback with command-line tools. Manage music, adjust volume, and seek through tracks quickly. Free online tool, no registration required."
 category: common

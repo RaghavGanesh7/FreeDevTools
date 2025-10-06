@@ -1,7 +1,7 @@
 ---
 title: "System Fetch - Display System Info with Nitch | Online Free DevTools by Hexmos"
 name: nitch
-path: /freedevtools/tldr/linux/nitch
+path: "/freedevtools/tldr/linux/nitch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nitch/"
 description: "Display system information with Nitch, a fast system fetch written in Nim. Get hostname, kernel, and uptime details instantly. Free online tool, no registration required."
 category: linux

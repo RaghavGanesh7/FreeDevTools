@@ -1,7 +1,7 @@
 ---
 title: "Virus Scan - Analyze Files and URLs with VirusTotal | Online Free DevTools by Hexmos"
 name: vt
-path: /freedevtools/tldr/common/vt
+path: "/freedevtools/tldr/common/vt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vt/"
 description: "Scan for viruses with VirusTotal. Analyze files and URLs for threats with comprehensive reports and malware detection. Free online tool, no registration required."
 category: common

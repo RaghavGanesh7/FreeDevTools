@@ -1,7 +1,7 @@
 ---
 title: "macOS Version - Print System Information | Online Free DevTools by Hexmos"
 name: sw_vers
-path: /freedevtools/tldr/osx/sw_vers
+path: "/freedevtools/tldr/osx/sw_vers/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/sw_vers/"
 description: "Print macOS system information with sw_vers. Easily retrieve OS name, version number, and build identifier with this free online tool, no registration required."
 category: osx

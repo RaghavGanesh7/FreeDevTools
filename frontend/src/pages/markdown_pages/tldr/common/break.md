@@ -1,7 +1,7 @@
 ---
 title: "Control Loop Break - Exit Loops in Bash | Online Free DevTools by Hexmos"
 name: break
-path: /freedevtools/tldr/common/break
+path: "/freedevtools/tldr/common/break/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/break/"
 description: "Control loop execution with Loop Break in Bash. Exit 'for', 'while', 'until', and 'select' loops effortlessly. Free online tool, no registration required."
 category: common

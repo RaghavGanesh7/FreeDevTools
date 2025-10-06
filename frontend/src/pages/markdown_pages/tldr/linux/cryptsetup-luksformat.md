@@ -1,7 +1,7 @@
 ---
 title: "LUKS Formatter - Format Disk Partitions with cryptsetup | Online Free DevTools by Hexmos"
 name: cryptsetup-luksformat
-path: /freedevtools/tldr/linux/cryptsetup-luksformat
+path: "/freedevtools/tldr/linux/cryptsetup-luksformat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cryptsetup-luksformat/"
 description: "Format disk partitions securely with cryptsetup LUKS Formatter.  Encrypt your data using passphrase or keyfile. Free online tool, no registration required."
 category: linux

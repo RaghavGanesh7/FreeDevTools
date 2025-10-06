@@ -1,7 +1,7 @@
 ---
 title: "Git Grep - Find Strings in Files | Online Free DevTools by Hexmos"
 name: git-grep
-path: /freedevtools/tldr/git/git-grep
+path: "/freedevtools/tldr/git/git-grep/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-grep/"
 description: "Find strings within files with Git Grep, searching across a repository's history. Quickly locate specific text patterns and code elements. Free online tool, no registration required."
 category: common

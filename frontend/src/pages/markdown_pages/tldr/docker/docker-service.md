@@ -1,7 +1,7 @@
 ---
 title: "Docker Service - Manage Container Services | Online Free DevTools by Hexmos"
 name: docker-service
-path: /freedevtools/tldr/docker/docker-service
+path: "/freedevtools/tldr/docker/docker-service/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-service/"
 description: "Manage container services with Docker Service. Easily create, inspect, scale, and remove Docker services. Free online tool, no registration required."
 category: common

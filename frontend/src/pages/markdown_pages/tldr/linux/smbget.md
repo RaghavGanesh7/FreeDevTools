@@ -1,7 +1,7 @@
 ---
 title: "SMB File Downloader - Download Files from SMB Servers | Online Free DevTools by Hexmos"
 name: smbget
-path: /freedevtools/tldr/linux/smbget
+path: "/freedevtools/tldr/linux/smbget/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/smbget/"
 description: "Download files from SMB servers easily with smbget.  This command-line utility provides secure and efficient file transfers. Free online tool, no registration required."
 category: linux

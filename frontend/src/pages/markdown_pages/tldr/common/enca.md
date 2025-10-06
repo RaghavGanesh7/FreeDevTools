@@ -1,7 +1,7 @@
 ---
 title: "Detect File Encoding - Convert Text Encodings | Online Free DevTools by Hexmos"
 name: enca
-path: "/freedevtools/tldr/common/enca"
+path: "/freedevtools/tldr/common/enca/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/enca/"
 description: "Detect file encoding with enca and convert text files to different encodings easily. Identify encoding and convert for cross-platform compatibility. Free online tool, no registration required."
 category: common

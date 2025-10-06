@@ -1,7 +1,7 @@
 ---
 title: "Exiftool - Edit Image Metadata | Online Free DevTools by Hexmos"
 name: exiftool
-path: /freedevtools/tldr/common/exiftool
+path: "/freedevtools/tldr/common/exiftool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exiftool/"
 description: "Edit image metadata with Exiftool. Remove, add, or modify EXIF data from various file types. Free online tool, no registration required."
 category: common

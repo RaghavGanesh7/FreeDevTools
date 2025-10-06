@@ -1,7 +1,7 @@
 ---
 title: "Manage Slurm Accounts - Control with sacctmgr | Online Free DevTools by Hexmos"
 name: sacctmgr
-path: /freedevtools/tldr/linux/sacctmgr
+path: "/freedevtools/tldr/linux/sacctmgr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sacctmgr/"
 description: "Manage Slurm accounts efficiently with sacctmgr.  View, add, and modify cluster and account configurations using command-line interface. Free online tool, no registration required."
 category: linux

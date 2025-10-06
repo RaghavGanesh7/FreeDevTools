@@ -1,7 +1,7 @@
 ---
 title: "Avahi Resolve Hostname - Discover Network Services | Online Free DevTools by Hexmos"
 name: avahi-resolve-host-name
-path: /freedevtools/tldr/linux/avahi-resolve-host-name
+path: "/freedevtools/tldr/linux/avahi-resolve-host-name/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/avahi-resolve-host-name/"
 description: "Resolve Avahi hostnames to IP addresses with Avahi Resolve Hostname. Discover network services and troubleshoot connectivity issues on your local network. Free online tool, no registration required."
 category: linux

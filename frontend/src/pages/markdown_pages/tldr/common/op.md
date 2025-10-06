@@ -1,7 +1,7 @@
 ---
 title: "1Password CLI - Manage Secrets & Vaults | Online Free DevTools by Hexmos"
 name: op
-path: /freedevtools/tldr/common/op
+path: "/freedevtools/tldr/common/op/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/op/"
 description: "Manage secrets effortlessly with 1Password CLI. Securely access vaults, create items, and inject secrets using command line. Free online tool, no registration required."
 category: common

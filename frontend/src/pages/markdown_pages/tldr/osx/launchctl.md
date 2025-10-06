@@ -1,7 +1,7 @@
 ---
 title: "Launchctl - Control Launch Daemons & Agents | Online Free DevTools by Hexmos"
 name: launchctl
-path: /freedevtools/tldr/osx/launchctl
+path: "/freedevtools/tldr/osx/launchctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/launchctl/"
 description: "Control launch daemons and agents with Launchctl. Manage system-wide services and per-user programs on macOS using command line. Free online tool, no registration required."
 category: osx

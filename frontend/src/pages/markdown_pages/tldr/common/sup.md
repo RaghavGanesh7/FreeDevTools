@@ -1,7 +1,7 @@
 ---
 title: "Manage RSS Feed - Create Articles with sup | Online Free DevTools by Hexmos"
 name: sup
-path: /freedevtools/tldr/common/sup
+path: "/freedevtools/tldr/common/sup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sup/"
 description: "Manage RSS feeds with sup, a command-line tool. Create articles and update your feed directly from the terminal. Free online tool, no registration required."
 category: common

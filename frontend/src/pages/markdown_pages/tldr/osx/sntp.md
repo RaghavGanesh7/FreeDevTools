@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Time - SNTP Client | Online Free DevTools by Hexmos"
 name: sntp
-path: /freedevtools/tldr/osx/sntp
+path: "/freedevtools/tldr/osx/sntp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/sntp/"
 description: "Synchronize system time accurately with SNTP. Use Simple Network Time Protocol to query time servers and adjust the system clock. Free online tool, no registration required."
 category: osx

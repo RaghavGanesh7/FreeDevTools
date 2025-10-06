@@ -1,7 +1,7 @@
 ---
 title: "Elixir Mix - Build Elixir Projects | Online Free DevTools by Hexmos"
 name: mix
-path: /freedevtools/tldr/common/mix
+path: "/freedevtools/tldr/common/mix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mix/"
 description: "Build Elixir projects effortlessly with Mix, a powerful build tool for Elixir. Manage dependencies, compile code, and run tests with ease. Free online tool, no registration required."
 category: common

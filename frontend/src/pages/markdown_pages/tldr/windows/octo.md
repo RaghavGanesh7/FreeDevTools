@@ -1,7 +1,7 @@
 ---
 title: "Octo - Deploy Releases | Online Free DevTools by Hexmos"
 name: octo
-path: /freedevtools/tldr/windows/octo
+path: "/freedevtools/tldr/windows/octo/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/octo/"
 description: "Deploy releases with Octo. Automate software deployments to Octopus Deploy server from the command line. Free online tool, no registration required."
 category: windows

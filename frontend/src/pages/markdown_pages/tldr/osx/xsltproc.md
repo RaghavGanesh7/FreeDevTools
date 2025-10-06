@@ -1,7 +1,7 @@
 ---
 title: "Transform XML - Control with xsltproc | Online Free DevTools by Hexmos"
 name: xsltproc
-path: /freedevtools/tldr/osx/xsltproc
+path: "/freedevtools/tldr/osx/xsltproc/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xsltproc/"
 description: "Transform XML files effortlessly with xsltproc. Apply XSLT stylesheets to create HTML or XML output. Free online tool, no registration required."
 category: osx

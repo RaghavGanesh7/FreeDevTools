@@ -1,7 +1,7 @@
 ---
 title: "xmodmap - Control Keymaps & Pointer | Online Free DevTools by Hexmos"
 name: xmodmap
-path: /freedevtools/tldr/linux/xmodmap
+path: "/freedevtools/tldr/linux/xmodmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xmodmap/"
 description: "Control keymaps and pointer settings with xmodmap.  Modify keyboard layouts and button mappings easily. Free online tool, no registration required."
 category: linux

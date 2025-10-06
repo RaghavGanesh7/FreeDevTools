@@ -1,7 +1,7 @@
 ---
 title: "Logoff - Terminate Login Sessions | Online Free DevTools by Hexmos"
 name: logoff
-path: /freedevtools/tldr/windows/logoff
+path: "/freedevtools/tldr/windows/logoff/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/logoff/"
 description: "Terminate login sessions with Logoff, a Windows command-line tool. Quickly end user sessions and manage remote desktop connections. Free online tool, no registration required."
 category: windows

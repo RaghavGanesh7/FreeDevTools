@@ -1,7 +1,7 @@
 ---
 title: "Set-Acl - Control Permissions in Windows | Online Free DevTools by Hexmos"
 name: set-acl
-path: /freedevtools/tldr/windows/set-acl
+path: "/freedevtools/tldr/windows/set-acl/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/set-acl/"
 description: "Control file and registry permissions with Set-Acl in Windows. Quickly modify security descriptors for enhanced system security. Free online tool, no registration required."
 category: windows

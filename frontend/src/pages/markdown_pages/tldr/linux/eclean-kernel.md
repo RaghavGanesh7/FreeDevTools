@@ -1,7 +1,7 @@
 ---
 title: "Eclean-kernel - Remove Old Kernels | Online Free DevTools by Hexmos"
 name: eclean-kernel
-path: /freedevtools/tldr/linux/eclean-kernel
+path: "/freedevtools/tldr/linux/eclean-kernel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eclean-kernel/"
 description: "Remove old kernels easily with eclean-kernel. Clean up your Gentoo system and reclaim disk space by removing obsolete kernel versions. Free online tool, no registration required."
 category: linux

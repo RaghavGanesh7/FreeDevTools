@@ -1,7 +1,7 @@
 ---
 title: "Gnome Terminal - Control Linux Shell Sessions | Online Free DevTools by Hexmos"
 name: gnome-terminal
-path: /freedevtools/tldr/linux/gnome-terminal
+path: "/freedevtools/tldr/linux/gnome-terminal/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gnome-terminal/"
 description: "Control Linux shell sessions with Gnome Terminal. Open new windows, run commands, and manage tabs directly from the command line. Free online tool, no registration required."
 category: linux

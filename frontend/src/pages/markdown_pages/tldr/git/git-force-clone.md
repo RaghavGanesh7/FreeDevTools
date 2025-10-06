@@ -1,7 +1,7 @@
 ---
 title: "Force Clone Git - Reset Git Repositories | Online Free DevTools by Hexmos"
 name: git-force-clone
-path: /freedevtools/tldr/git/git-force-clone
+path: "/freedevtools/tldr/git/git-force-clone/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-force-clone/"
 description: "Force clone with Git, effortlessly resetting existing Git repositories. Simplify repository management with this Git command-line tool. Free online tool, no registration required."
 category: common

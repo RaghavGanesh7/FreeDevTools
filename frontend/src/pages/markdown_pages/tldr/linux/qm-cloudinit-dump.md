@@ -1,7 +1,7 @@
 ---
 title: "Cloudinit Dump - Generate Config Files | Online Free DevTools by Hexmos"
 name: qm-cloudinit-dump
-path: /freedevtools/tldr/linux/qm-cloudinit-dump
+path: "/freedevtools/tldr/linux/qm-cloudinit-dump/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-cloudinit-dump/"
 description: "Generate cloudinit configuration files with qm cloudinit dump. Create metadata, network, and user configurations for Proxmox VMs. Free online tool, no registration required."
 category: linux

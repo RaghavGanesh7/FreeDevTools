@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Sites - Gatsby Site Generator | Online Free DevTools by Hexmos"
 name: gatsby
-path: /freedevtools/tldr/common/gatsby
+path: "/freedevtools/tldr/common/gatsby/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gatsby/"
 description: "Generate static websites with Gatsby. Quickly build performant and modern web applications using React and GraphQL. Free online tool, no registration required."
 category: common

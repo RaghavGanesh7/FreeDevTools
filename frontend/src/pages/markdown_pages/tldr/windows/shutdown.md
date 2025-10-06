@@ -1,7 +1,7 @@
 ---
 title: "Control Shutdown - Manage System Power States | Online Free DevTools by Hexmos"
 name: shutdown
-path: /freedevtools/tldr/windows/shutdown
+path: "/freedevtools/tldr/windows/shutdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/shutdown/"
 description: "Manage system power states with Control Shutdown. Schedule shutdowns, restarts, hibernation, and logoffs easily. Free online tool, no registration required."
 category: windows

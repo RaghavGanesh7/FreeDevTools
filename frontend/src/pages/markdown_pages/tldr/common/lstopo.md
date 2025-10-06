@@ -1,7 +1,7 @@
 ---
 title: "Lstopo - Show Hardware Topology | Online Free DevTools by Hexmos"
 name: lstopo
-path: /freedevtools/tldr/common/lstopo
+path: "/freedevtools/tldr/common/lstopo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lstopo/"
 description: "Show hardware topology with Lstopo. Visualize system hardware components and their relationships. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "vcgencmd - Monitor Raspberry Pi System | Online Free DevTools by Hexmos"
 name: vcgencmd
-path: /freedevtools/tldr/linux/vcgencmd
+path: "/freedevtools/tldr/linux/vcgencmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vcgencmd/"
 description: "Monitor Raspberry Pi system information with vcgencmd.  Retrieve CPU temperature, voltage, and throttling status easily. Free online tool, no registration required."
 category: linux

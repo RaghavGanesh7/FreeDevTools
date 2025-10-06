@@ -1,7 +1,7 @@
 ---
 title: "Check Choco Outdated - List Packages | Online Free DevTools by Hexmos"
 name: choco-outdated
-path: /freedevtools/tldr/windows/choco-outdated
+path: "/freedevtools/tldr/windows/choco-outdated/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-outdated/"
 description: "Check Choco outdated packages on Windows with Choco Outdated. Identify outdated software, manage package sources, and streamline updates. Free online tool, no registration required."
 category: windows

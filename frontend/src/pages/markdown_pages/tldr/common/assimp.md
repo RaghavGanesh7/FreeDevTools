@@ -1,7 +1,7 @@
 ---
 title: "Convert 3D Models - Assimp File Converter | Online Free DevTools by Hexmos"
 name: assimp
-path: /freedevtools/tldr/common/assimp
+path: "/freedevtools/tldr/common/assimp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/assimp/"
 description: "Convert 3D models effortlessly with Assimp File Converter. Easily transform between 40+ formats for Linux, macOS, and Windows. Free online tool, no registration required."
 category: common

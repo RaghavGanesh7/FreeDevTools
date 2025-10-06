@@ -1,7 +1,7 @@
 ---
 title: "lvdisplay - Display LVM Logical Volumes Information | Online Free DevTools by Hexmos"
 name: lvdisplay
-path: /freedevtools/tldr/linux/lvdisplay
+path: "/freedevtools/tldr/linux/lvdisplay/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lvdisplay/"
 description: "Display LVM logical volume information instantly with lvdisplay. View details of logical volumes and volume groups using command line tools. Free online tool, no registration required."
 category: linux

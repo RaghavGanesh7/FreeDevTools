@@ -1,7 +1,7 @@
 ---
 title: "Windows Version - Display OS Version | Online Free DevTools by Hexmos"
 name: ver
-path: /freedevtools/tldr/windows/ver
+path: "/freedevtools/tldr/windows/ver/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/ver/"
 description: "Display Windows OS version with the 'ver' command. Quickly check your Windows or MS-DOS version number using command line. Free online tool, no registration required."
 category: windows

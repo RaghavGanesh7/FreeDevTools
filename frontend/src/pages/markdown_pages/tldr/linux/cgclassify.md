@@ -1,7 +1,7 @@
 ---
 title: "CGClassify - Control Linux Cgroups | Online Free DevTools by Hexmos"
 name: cgclassify
-path: /freedevtools/tldr/linux/cgclassify
+path: "/freedevtools/tldr/linux/cgclassify/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cgclassify/"
 description: "Control Linux cgroups effectively with CGClassify. Isolate resources and manage processes with ease. Free online tool, no registration required."
 category: linux

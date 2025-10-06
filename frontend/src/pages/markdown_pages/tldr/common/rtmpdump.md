@@ -1,7 +1,7 @@
 ---
 title: "Download RTMP Streams - Dump Media Content | Online Free DevTools by Hexmos"
 name: rtmpdump
-path: /freedevtools/tldr/common/rtmpdump
+path: "/freedevtools/tldr/common/rtmpdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rtmpdump/"
 description: "Download RTMP streams with RTMPdump. Capture media content streamed over the Real Time Messaging Protocol (RTMP). Free online tool, no registration required."
 category: common

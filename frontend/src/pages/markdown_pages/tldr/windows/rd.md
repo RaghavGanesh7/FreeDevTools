@@ -1,7 +1,7 @@
 ---
 title: "Remove Directory - Delete Folders with RD | Online Free DevTools by Hexmos"
 name: rd
-path: /freedevtools/tldr/windows/rd
+path: "/freedevtools/tldr/windows/rd/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/rd/"
 description: "Remove directory quickly with RD command line tool. Delete folders and manage file system on Windows easily using RD alias. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "WSL Open - Open Files in Windows from WSL | Online Free DevTools by Hexmos"
 name: wsl-open
-path: /freedevtools/tldr/windows/wsl-open
+path: "/freedevtools/tldr/windows/wsl-open/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/wsl-open/"
 description: "Open files and URLs from WSL with WSL Open. Access Windows GUI applications from Linux environment seamlessly. Free online tool, no registration required."
 category: windows

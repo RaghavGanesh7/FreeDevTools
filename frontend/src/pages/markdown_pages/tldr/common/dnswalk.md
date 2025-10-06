@@ -1,7 +1,7 @@
 ---
 title: "Validate DNS Zones - dnswalk Debugger | Online Free DevTools by Hexmos"
 name: dnswalk
-path: /freedevtools/tldr/common/dnswalk
+path: "/freedevtools/tldr/common/dnswalk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dnswalk/"
 description: "Validate DNS zone configurations with dnswalk. Identify inconsistencies, best practice violations, and debug DNS pathways efficiently. Free online tool, no registration required."
 category: common

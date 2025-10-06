@@ -1,7 +1,7 @@
 ---
 title: "SQL Export - Create Database Backups with gcloud | Online Free DevTools by Hexmos"
 name: gcloud-sql-export-sql
-path: /freedevtools/tldr/gcloud/gcloud-sql-export-sql
+path: "/freedevtools/tldr/gcloud/gcloud-sql-export-sql/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcloud/gcloud-sql-export-sql/"
 description: "Export SQL databases with gcloud SQL Export. Create backups, migrate data, and manage database instances easily. Free online tool, no registration required."
 category: common

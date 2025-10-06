@@ -1,7 +1,7 @@
 ---
 title: "Convert Documents - Pandoc File Converter | Online Free DevTools by Hexmos"
 name: pandoc
-path: /freedevtools/tldr/common/pandoc
+path: "/freedevtools/tldr/common/pandoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pandoc/"
 description: "Convert documents easily with Pandoc file converter. Effortlessly transform Markdown, HTML, LaTeX and more. Free online tool, no registration required."
 category: common

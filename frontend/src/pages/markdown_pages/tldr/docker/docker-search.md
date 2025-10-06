@@ -1,7 +1,7 @@
 ---
 title: "Docker Search - Find Docker Images on Docker Hub | Online Free DevTools by Hexmos"
 name: docker-search
-path: /freedevtools/tldr/docker/docker-search
+path: "/freedevtools/tldr/docker/docker-search/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-search/"
 description: "Find Docker images easily with Docker Search. Discover official images, automated builds, and filter by stars on Docker Hub. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage APX Package Managers - Create & Control Packages | Online Free DevTools by Hexmos"
 name: apx-pkgmanagers
-path: /freedevtools/tldr/linux/apx-pkgmanagers
+path: "/freedevtools/tldr/linux/apx-pkgmanagers/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apx-pkgmanagers/"
 description: "Manage and control APX package managers with ease. Create, list, remove, and show package manager configurations. Free online tool, no registration required."
 category: linux

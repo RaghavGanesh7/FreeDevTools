@@ -1,7 +1,7 @@
 ---
 title: "Command Corrector - Correct Console Commands | Online Free DevTools by Hexmos"
 name: fuck
-path: /freedevtools/tldr/common/fuck
+path: "/freedevtools/tldr/common/fuck/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fuck/"
 description: "Correct previous console commands with Command Corrector.  Fix typos, correct arguments, and streamline your workflow instantly. Free online tool, no registration required."
 category: common

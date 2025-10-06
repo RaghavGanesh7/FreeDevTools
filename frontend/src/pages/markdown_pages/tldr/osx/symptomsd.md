@@ -1,7 +1,7 @@
 ---
 title: "Symptomsd - Manage System Symptoms | Online Free DevTools by Hexmos"
 name: symptomsd
-path: /freedevtools/tldr/osx/symptomsd
+path: "/freedevtools/tldr/osx/symptomsd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/symptomsd/"
 description: "Manage system symptoms with Symptomsd. Monitor, diagnose, and troubleshoot system issues on macOS using this command-line tool. Free online tool, no registration required."
 category: osx

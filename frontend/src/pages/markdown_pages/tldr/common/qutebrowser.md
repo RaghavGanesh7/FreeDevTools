@@ -1,7 +1,7 @@
 ---
 title: "Control Qutebrowser - Keyboard-Driven Browser | Online Free DevTools by Hexmos"
 name: qutebrowser
-path: /freedevtools/tldr/common/qutebrowser
+path: "/freedevtools/tldr/common/qutebrowser/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qutebrowser/"
 description: "Control browsing sessions with Qutebrowser, a keyboard-driven browser based on PyQt5. Manage profiles and restore sessions easily. Free online tool, no registration required."
 category: common

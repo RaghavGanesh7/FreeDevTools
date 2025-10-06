@@ -1,7 +1,7 @@
 ---
 title: "MPSTAT - Report CPU Statistics | Online Free DevTools by Hexmos"
 name: mpstat
-path: /freedevtools/tldr/linux/mpstat
+path: "/freedevtools/tldr/linux/mpstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mpstat/"
 description: "Report CPU statistics with MPSTAT, a powerful system monitoring tool for Linux. Analyze CPU performance and identify bottlenecks quickly. Free online tool, no registration required."
 category: linux

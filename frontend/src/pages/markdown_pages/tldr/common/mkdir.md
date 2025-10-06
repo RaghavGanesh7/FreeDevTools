@@ -1,7 +1,7 @@
 ---
 title: "Create Directories - Control File Systems | Online Free DevTools by Hexmos"
 name: mkdir
-path: /freedevtools/tldr/common/mkdir
+path: "/freedevtools/tldr/common/mkdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mkdir/"
 description: "Create directories with mkdir. Manage file system structures and set permissions instantly. Free online tool, no registration required."
 category: common

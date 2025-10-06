@@ -1,7 +1,7 @@
 ---
 title: "Generate QR Codes - Convert Text & Files | Online Free DevTools by Hexmos"
 name: qrencode
-path: /freedevtools/tldr/common/qrencode
+path: "/freedevtools/tldr/common/qrencode/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qrencode/"
 description: "Generate QR codes with qrencode. Convert text strings and files into QR codes for various purposes. Free online tool, no registration required."
 category: common

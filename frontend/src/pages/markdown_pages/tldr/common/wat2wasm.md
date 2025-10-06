@@ -1,7 +1,7 @@
 ---
 title: "Wat2wasm - Convert WebAssembly Text to Binary | Online Free DevTools by Hexmos"
 name: wat2wasm
-path: /freedevtools/tldr/common/wat2wasm
+path: "/freedevtools/tldr/common/wat2wasm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wat2wasm/"
 description: "Convert WebAssembly text format to binary with Wat2wasm. Compile .wat files into optimized .wasm binaries instantly. Free online tool, no registration required."
 category: common

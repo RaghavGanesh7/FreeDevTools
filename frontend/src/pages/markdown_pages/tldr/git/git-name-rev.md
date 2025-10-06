@@ -1,7 +1,7 @@
 ---
 title: "Git Name-Rev - Describe Commits | Online Free DevTools by Hexmos"
 name: git-name-rev
-path: /freedevtools/tldr/git/git-name-rev
+path: "/freedevtools/tldr/git/git-name-rev/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-name-rev/"
 description: "Describe Git commits with Git Name-Rev. Identify commits using ref names, tags, and branches in your repository. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "View Snake4 High Scores - Display Game Scores | Online Free DevTools by Hexmos"
 name: snake4scores
-path: /freedevtools/tldr/linux/snake4scores
+path: "/freedevtools/tldr/linux/snake4scores/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/snake4scores/"
 description: "Display Snake4 game high scores effortlessly with snake4scores. Quickly access and review top scores. Free online tool, no registration required."
 category: linux

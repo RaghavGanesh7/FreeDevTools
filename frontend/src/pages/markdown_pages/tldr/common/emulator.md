@@ -1,7 +1,7 @@
 ---
 title: "Android Emulator - Manage Virtual Devices | Online Free DevTools by Hexmos"
 name: emulator
-path: /freedevtools/tldr/common/emulator
+path: "/freedevtools/tldr/common/emulator/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/emulator/"
 description: "Manage Android virtual devices easily with Android Emulator. Control device settings, network speed, and cameras for app testing. Free online tool, no registration required."
 category: common

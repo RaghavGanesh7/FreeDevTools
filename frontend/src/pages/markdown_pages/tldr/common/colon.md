@@ -1,7 +1,7 @@
 ---
 title: "Execute No-Op Command - Control Shell Script Flow | Online Free DevTools by Hexmos"
 name: colon
-path: /freedevtools/tldr/common/colon
+path: "/freedevtools/tldr/common/colon/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/colon/"
 description: "Control shell script execution with Colon command. Create no-operation commands, and ensure scripts exit cleanly. Free online tool, no registration required."
 category: common

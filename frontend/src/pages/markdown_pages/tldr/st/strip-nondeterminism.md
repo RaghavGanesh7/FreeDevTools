@@ -1,7 +1,7 @@
 ---
 title: "Strip Nondeterminism - Remove Timestamps | Online Free DevTools by Hexmos"
 name: strip-nondeterminism
-path: /freedevtools/tldr/st/strip-nondeterminism
+path: "/freedevtools/tldr/st/strip-nondeterminism/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/strip-nondeterminism/"
 description: "Remove nondeterministic data with Strip Nondeterminism. Eliminate timestamps from files, ensuring reproducible builds. Free online tool, no registration required."
 category: common

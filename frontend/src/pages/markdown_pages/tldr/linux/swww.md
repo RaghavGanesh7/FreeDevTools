@@ -1,7 +1,7 @@
 ---
 title: "Control Wallpapers - SWWW Wayland Daemon | Online Free DevTools by Hexmos"
 name: swww
-path: /freedevtools/tldr/linux/swww
+path: "/freedevtools/tldr/linux/swww/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/swww/"
 description: "Control Wayland wallpapers efficiently with SWWW, an animated wallpaper daemon. Manage wallpaper settings, outputs and restore previous states easily. Free online tool, no registration required."
 category: linux

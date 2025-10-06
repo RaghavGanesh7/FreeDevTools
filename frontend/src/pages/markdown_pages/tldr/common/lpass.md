@@ -1,7 +1,7 @@
 ---
 title: "LastPass - Manage Passwords via Command Line | Online Free DevTools by Hexmos"
 name: lpass
-path: /freedevtools/tldr/common/lpass
+path: "/freedevtools/tldr/common/lpass/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lpass/"
 description: "Manage passwords securely with LastPass command-line interface (lpass). Generate strong passwords, store credentials, and automate password management. Free online tool, no registration required."
 category: common

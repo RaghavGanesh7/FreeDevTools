@@ -1,7 +1,7 @@
 ---
 title: "PO4A Translate - Convert PO to Doc | Online Free DevTools by Hexmos"
 name: po4a-translate
-path: /freedevtools/tldr/linux/po4a-translate
+path: "/freedevtools/tldr/linux/po4a-translate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/po4a-translate/"
 description: "Convert PO files with PO4A Translate. Translate PO files back to documentation format on Linux. Free online tool, no registration required."
 category: linux

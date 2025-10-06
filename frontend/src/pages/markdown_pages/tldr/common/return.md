@@ -1,7 +1,7 @@
 ---
 title: "Control Function Return - Exit Early | Online Free DevTools by Hexmos"
 name: return
-path: /freedevtools/tldr/common/return
+path: "/freedevtools/tldr/common/return/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/return/"
 description: "Control function return with this simple command. Exit functions early and specify return values in shell scripts. Free online tool, no registration required."
 category: common

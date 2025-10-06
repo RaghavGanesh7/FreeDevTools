@@ -1,7 +1,7 @@
 ---
 title: "Format Python Code - autopep8 | Online Free DevTools by Hexmos"
 name: autopep8
-path: /freedevtools/tldr/common/autopep8
+path: "/freedevtools/tldr/common/autopep8/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/autopep8/"
 description: "Format Python code automatically with autopep8. Ensure PEP 8 compliance and improve code readability using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "RSSTail - Monitor RSS Feeds | Online Free DevTools by Hexmos"
 name: rsstail
-path: /freedevtools/tldr/common/rsstail
+path: "/freedevtools/tldr/common/rsstail/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rsstail/"
 description: "Monitor RSS feeds with RSSTail. Track website updates, new content, and blog posts in real-time directly from your terminal. Free online tool, no registration required."
 category: common

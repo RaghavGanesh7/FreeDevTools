@@ -1,7 +1,7 @@
 ---
 title: "PHP Backup - Create Database Backups with phpbu | Online Free DevTools by Hexmos"
 name: phpbu
-path: /freedevtools/tldr/php/phpbu
+path: "/freedevtools/tldr/php/phpbu/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phpbu/"
 description: "Create PHP backups effortlessly with phpbu. Automate database backups and application backups with configuration files. Free online tool, no registration required."
 category: common

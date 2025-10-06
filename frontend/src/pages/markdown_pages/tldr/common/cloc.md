@@ -1,7 +1,7 @@
 ---
 title: "Count Lines of Code - Analyze Source Code with cloc | Online Free DevTools by Hexmos"
 name: cloc
-path: /freedevtools/tldr/common/cloc
+path: "/freedevtools/tldr/common/cloc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cloc/"
 description: "Analyze source code with cloc, a tool for counting lines of code and comments. Get detailed reports and compare different versions. Free online tool, no registration required."
 category: common

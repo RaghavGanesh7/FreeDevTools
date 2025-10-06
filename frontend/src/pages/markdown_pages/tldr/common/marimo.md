@@ -1,7 +1,7 @@
 ---
 title: "Create marimo Notebooks - Reactive Python IDE | Online Free DevTools by Hexmos"
 name: marimo
-path: /freedevtools/tldr/common/marimo
+path: "/freedevtools/tldr/common/marimo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/marimo/"
 description: "Create reactive Python notebooks with marimo, a cutting-edge IDE for interactive data science. Develop and share dynamic apps effortlessly. Free online tool, no registration required."
 category: common

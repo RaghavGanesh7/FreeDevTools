@@ -1,7 +1,7 @@
 ---
 title: "Trizen - Build AUR Packages | Online Free DevTools by Hexmos"
 name: trizen
-path: /freedevtools/tldr/linux/trizen
+path: "/freedevtools/tldr/linux/trizen/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trizen/"
 description: "Build AUR packages easily with Trizen. Install, update, and remove packages from the Arch User Repository. Free online tool, no registration required."
 category: linux

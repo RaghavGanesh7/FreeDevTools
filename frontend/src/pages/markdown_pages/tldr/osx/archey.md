@@ -1,7 +1,7 @@
 ---
 title: "Display System Info - Generate Archey Reports | Online Free DevTools by Hexmos"
 name: archey
-path: /freedevtools/tldr/osx/archey
+path: "/freedevtools/tldr/osx/archey/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/archey/"
 description: "Generate system information reports with Archey. Quickly display system specs and identify hardware details. Free online tool, no registration required."
 category: osx

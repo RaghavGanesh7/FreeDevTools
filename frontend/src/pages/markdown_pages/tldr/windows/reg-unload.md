@@ -1,7 +1,7 @@
 ---
 title: "Reg Unload - Remove Registry Data | Online Free DevTools by Hexmos"
 name: reg-unload
-path: /freedevtools/tldr/windows/reg-unload
+path: "/freedevtools/tldr/windows/reg-unload/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-unload/"
 description: "Unload registry data with Reg Unload. Remove registry keys loaded by reg load to manage system configuration. Free online tool, no registration required."
 category: windows

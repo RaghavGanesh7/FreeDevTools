@@ -1,7 +1,7 @@
 ---
 title: "PCT Set - Control Linux Containers | Online Free DevTools by Hexmos"
 name: pct-set
-path: /freedevtools/tldr/linux/pct-set
+path: "/freedevtools/tldr/linux/pct-set/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-set/"
 description: "Control Linux containers easily with PCT Set. Configure networking, manage resources, and automate container startup. Free online tool, no registration required."
 category: linux

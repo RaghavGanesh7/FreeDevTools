@@ -1,7 +1,7 @@
 ---
 title: "Git SCP - Copy Files to Remote Repository | Online Free DevTools by Hexmos"
 name: git-scp
-path: /freedevtools/tldr/git/git-scp
+path: "/freedevtools/tldr/git/git-scp/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-scp/"
 description: "Copy files to a remote Git repository with Git SCP. Transfer files securely using rsync. Free online tool, no registration required."
 category: common

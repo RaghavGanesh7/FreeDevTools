@@ -1,7 +1,7 @@
 ---
 title: "RCP - Copy Files Between Systems | Online Free DevTools by Hexmos"
 name: rcp
-path: /freedevtools/tldr/linux/rcp
+path: "/freedevtools/tldr/linux/rcp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rcp/"
 description: "Copy files seamlessly with RCP, the remote file copy command. Securely transfer files between local and remote Linux systems. Free online tool, no registration required."
 category: linux

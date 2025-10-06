@@ -1,7 +1,7 @@
 ---
 title: "VBoxManage - Start Virtual Machines | Online Free DevTools by Hexmos"
 name: vboxmanage-startvm
-path: /freedevtools/tldr/vboxmanager/vboxmanage-startvm
+path: "/freedevtools/tldr/vboxmanager/vboxmanage-startvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/vboxmanager/vboxmanage-startvm/"
 description: "Start virtual machines with VBoxManage. Manage virtual machine instances, including headless and GUI modes, efficiently using the command line. Free online tool, no registration required."
 category: common

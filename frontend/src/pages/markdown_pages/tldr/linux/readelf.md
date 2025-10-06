@@ -1,7 +1,7 @@
 ---
 title: "Readelf - Display ELF Information | Online Free DevTools by Hexmos"
 name: readelf
-path: /freedevtools/tldr/linux/readelf
+path: "/freedevtools/tldr/linux/readelf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/readelf/"
 description: "Display ELF information with Readelf, inspect ELF file structure, and analyze binary details. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Pueue Status - Check Task Status | Online Free DevTools by Hexmos"
 name: pueue-status
-path: /freedevtools/tldr/pueue/pueue-status
+path: "/freedevtools/tldr/pueue/pueue-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-status/"
 description: "Check task status with Pueue, your command-line task manager. Monitor running, queued, and completed tasks effortlessly using the status command. Free online tool, no registration required."
 category: common

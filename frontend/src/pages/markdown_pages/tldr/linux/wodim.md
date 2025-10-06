@@ -1,7 +1,7 @@
 ---
 title: "Wodim - Burn CDs and DVDs | Online Free DevTools by Hexmos"
 name: wodim
-path: /freedevtools/tldr/linux/wodim
+path: "/freedevtools/tldr/linux/wodim/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wodim/"
 description: "Burn data to CDs and DVDs with Wodim, a command-line tool for optical disc recording.  Create audio CDs, burn ISO images, and manage disc recording processes. Free online tool, no registration required."
 category: linux

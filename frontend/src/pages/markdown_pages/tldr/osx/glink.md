@@ -1,7 +1,7 @@
 ---
 title: "Glink Command - Create Links on macOS | Online Free DevTools by Hexmos"
 name: glink
-path: /freedevtools/tldr/osx/glink
+path: "/freedevtools/tldr/osx/glink/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/glink/"
 description: "Create file links with Glink command on macOS. A handy alias for GNU link. Manage symbolic links and hard links effortlessly. Free online tool, no registration required."
 category: osx

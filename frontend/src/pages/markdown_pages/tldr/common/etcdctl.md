@@ -1,7 +1,7 @@
 ---
 title: "etcdctl - Control Key-Value Data | Online Free DevTools by Hexmos"
 name: etcdctl
-path: /freedevtools/tldr/common/etcdctl
+path: "/freedevtools/tldr/common/etcdctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/etcdctl/"
 description: "Control key-value data instantly with etcdctl. Store, retrieve, and manage distributed data using command line. Free online tool, no registration required."
 category: common

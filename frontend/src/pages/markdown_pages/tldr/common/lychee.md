@@ -1,7 +1,7 @@
 ---
 title: "Validate URLs - Find Broken Links with Lychee | Online Free DevTools by Hexmos"
 name: lychee
-path: /freedevtools/tldr/common/lychee
+path: "/freedevtools/tldr/common/lychee/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lychee/"
 description: "Validate URLs with Lychee, an efficient broken link checker. Quickly identify and fix broken links on websites and in files. Free online tool, no registration required."
 category: common

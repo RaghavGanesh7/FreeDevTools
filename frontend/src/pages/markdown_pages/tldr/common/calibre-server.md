@@ -1,7 +1,7 @@
 ---
 title: "Control Calibre Server - Distribute E-books | Online Free DevTools by Hexmos"
 name: calibre-server
-path: /freedevtools/tldr/common/calibre-server
+path: "/freedevtools/tldr/common/calibre-server/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calibre-server/"
 description: "Control your Calibre server and share ebooks with calibre-server. Manage ebook distribution over a network with ease. Free online tool, no registration required."
 category: common

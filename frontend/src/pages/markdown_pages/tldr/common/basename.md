@@ -1,7 +1,7 @@
 ---
 title: "Basename - Extract File Name | Online Free DevTools by Hexmos"
 name: basename
-path: /freedevtools/tldr/common/basename
+path: "/freedevtools/tldr/common/basename/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/basename/"
 description: "Extract file name with Basename. Easily remove directory path and optional suffix from file names. Free online tool, no registration required."
 category: common

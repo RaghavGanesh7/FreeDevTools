@@ -1,7 +1,7 @@
 ---
 title: "Drutil - Interact with DVD Burners | Online Free DevTools by Hexmos"
 name: drutil
-path: /freedevtools/tldr/osx/drutil
+path: "/freedevtools/tldr/osx/drutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/drutil/"
 description: "Interact with DVD burners using Drutil. Eject disks, burn ISO images, and control optical drives directly from the command line. Free online tool, no registration required."
 category: osx

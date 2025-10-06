@@ -1,7 +1,7 @@
 ---
 title: "Scan Websites - Identify Technologies with WhatWeb | Online Free DevTools by Hexmos"
 name: whatweb
-path: /freedevtools/tldr/common/whatweb
+path: "/freedevtools/tldr/common/whatweb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/whatweb/"
 description: "Scan websites and identify technologies with WhatWeb. Discover web server software, programming languages, and CMS versions. Free online tool, no registration required."
 category: common

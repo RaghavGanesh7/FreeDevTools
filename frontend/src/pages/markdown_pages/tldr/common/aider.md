@@ -1,7 +1,7 @@
 ---
 title: "Generate Code with Aider - AI Pair Programming | Online Free DevTools by Hexmos"
 name: aider
-path: /freedevtools/tldr/common/aider
+path: "/freedevtools/tldr/common/aider/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/aider/"
 description: "Generate code with Aider, the AI pair programmer. Get real-time code generation and debugging assistance using natural language. Free online tool, no registration required."
 category: common

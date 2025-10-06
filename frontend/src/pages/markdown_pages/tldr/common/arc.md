@@ -1,7 +1,7 @@
 ---
 title: "Control Arcanist - Manage Code Reviews with Arc CLI | Online Free DevTools by Hexmos"
 name: arc
-path: /freedevtools/tldr/common/arc
+path: "/freedevtools/tldr/common/arc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/arc/"
 description: "Control code reviews with Arcanist CLI, streamlining Phabricator workflows. Improve collaboration and code quality with arc. Free online tool, no registration required."
 category: common

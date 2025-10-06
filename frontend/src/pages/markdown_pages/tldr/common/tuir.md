@@ -1,7 +1,7 @@
 ---
 title: "Control Reddit with tuir - TUI Reddit Viewer | Online Free DevTools by Hexmos"
 name: tuir
-path: /freedevtools/tldr/common/tuir
+path: "/freedevtools/tldr/common/tuir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tuir/"
 description: "Control Reddit from your terminal with tuir, a powerful TUI Reddit viewer. Browse subreddits, open links, and manage your Reddit experience. Free online tool, no registration required."
 category: common

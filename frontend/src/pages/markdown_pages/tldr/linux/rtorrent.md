@@ -1,7 +1,7 @@
 ---
 title: "Control rtorrent - Download Torrents Easily | Online Free DevTools by Hexmos"
 name: rtorrent
-path: /freedevtools/tldr/linux/rtorrent
+path: "/freedevtools/tldr/linux/rtorrent/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rtorrent/"
 description: "Control torrent downloads easily with rtorrent. Manage torrent files and magnet links through the command line. Free online tool, no registration required."
 category: linux

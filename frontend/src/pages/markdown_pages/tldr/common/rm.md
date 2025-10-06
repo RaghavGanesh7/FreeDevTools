@@ -1,7 +1,7 @@
 ---
 title: "Remove Files - Delete Files & Directories | Online Free DevTools by Hexmos"
 name: rm
-path: /freedevtools/tldr/common/rm
+path: "/freedevtools/tldr/common/rm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rm/"
 description: "Remove files with rm. Safely delete files and directories using the command line. Free online tool, no registration required. Also supports recursive directory removal."
 category: common

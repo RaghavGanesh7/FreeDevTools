@@ -1,7 +1,7 @@
 ---
 title: "PGM Image Converter - Convert PGM Images | Online Free DevTools by Hexmos"
 name: pgmoil
-path: /freedevtools/tldr/common/pgmoil
+path: "/freedevtools/tldr/common/pgmoil/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmoil/"
 description: "Convert PGM images with PGM Image Converter. Transform PGM files to other image formats and manipulate image data effortlessly. Free online tool, no registration required."
 category: common

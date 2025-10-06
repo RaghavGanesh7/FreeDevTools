@@ -1,7 +1,7 @@
 ---
 title: "List VM Snapshot - Manage Virtual Machine Snapshots | Online Free DevTools by Hexmos"
 name: qm-listsnapshot
-path: /freedevtools/tldr/linux/qm-listsnapshot
+path: "/freedevtools/tldr/linux/qm-listsnapshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-listsnapshot/"
 description: "List virtual machine snapshots with qm-listsnapshot. Easily manage, restore, and delete snapshots of your VMs. Free online tool, no registration required."
 category: linux

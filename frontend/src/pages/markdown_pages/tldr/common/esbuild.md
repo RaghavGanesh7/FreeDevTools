@@ -1,7 +1,7 @@
 ---
 title: "Bundle JavaScript - Build and Minify with esbuild | Online Free DevTools by Hexmos"
 name: esbuild
-path: /freedevtools/tldr/common/esbuild
+path: "/freedevtools/tldr/common/esbuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/esbuild/"
 description: "Bundle JavaScript with esbuild, a blazing-fast bundler and minifier. Optimize your web apps with advanced features like JSX support and source maps. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Gammastep - Control Screen Color Temperature | Online Free DevTools by Hexmos"
 name: gammastep
-path: /freedevtools/tldr/common/gammastep
+path: "/freedevtools/tldr/common/gammastep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gammastep/"
 description: "Control screen color temperature with Gammastep. Adjust screen brightness for day and night. Free online tool, no registration required."
 category: common

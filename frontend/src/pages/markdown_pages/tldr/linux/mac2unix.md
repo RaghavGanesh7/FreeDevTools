@@ -1,7 +1,7 @@
 ---
 title: "Mac2unix - Format Line Endings | Online Free DevTools by Hexmos"
 name: mac2unix
-path: /freedevtools/tldr/linux/mac2unix
+path: "/freedevtools/tldr/linux/mac2unix/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mac2unix/"
 description: "Format line endings with mac2unix. Convert macOS-style line endings to Unix format quickly. Free online tool, no registration required, supports file conversions."
 category: linux

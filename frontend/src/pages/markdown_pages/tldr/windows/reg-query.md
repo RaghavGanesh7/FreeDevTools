@@ -1,7 +1,7 @@
 ---
 title: "Reg Query - Display Registry Values | Online Free DevTools by Hexmos"
 name: reg-query
-path: /freedevtools/tldr/windows/reg-query
+path: "/freedevtools/tldr/windows/reg-query/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-query/"
 description: "Display registry values with Reg Query, a powerful Windows command-line tool. Retrieve specific values, search keys, and manage registry settings easily. Free online tool, no registration required."
 category: windows

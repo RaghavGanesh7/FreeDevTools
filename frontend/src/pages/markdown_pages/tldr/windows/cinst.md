@@ -1,7 +1,7 @@
 ---
 title: "Cinst Install - Package Installation | Online Free DevTools by Hexmos"
 name: cinst
-path: /freedevtools/tldr/windows/cinst
+path: "/freedevtools/tldr/windows/cinst/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/cinst/"
 description: "Automate Package installation with Cinst, a Choco alias for simplified package management. Quickly install software on Windows using command line. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Codecrafters - Practice Software Development | Online Free DevTools by Hexmos"
 name: codecrafters
-path: /freedevtools/tldr/common/codecrafters
+path: "/freedevtools/tldr/common/codecrafters/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/codecrafters/"
 description: "Practice software development with Codecrafters, a CLI tool for hands-on coding challenges. Learn new languages and frameworks interactively. Free online tool, no registration required."
 category: common

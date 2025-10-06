@@ -1,7 +1,7 @@
 ---
 title: "Create Qemu-img Images - Manage Virtual Disks | Online Free DevTools by Hexmos"
 name: qemu-img
-path: /freedevtools/tldr/qemu/qemu-img
+path: "/freedevtools/tldr/qemu/qemu-img/"
 canonical: "https://hexmos.com/freedevtools/tldr/qemu/qemu-img/"
 description: "Create and manage virtual disk images with Qemu-img, the quick emulator image utility. Convert formats and handle snapshots with ease. Free online tool, no registration required."
 category: common

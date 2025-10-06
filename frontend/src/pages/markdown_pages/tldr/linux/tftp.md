@@ -1,7 +1,7 @@
 ---
 title: "TFTP Client - Transfer Files with TFTP | Online Free DevTools by Hexmos"
 name: tftp
-path: /freedevtools/tldr/linux/tftp
+path: "/freedevtools/tldr/linux/tftp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tftp/"
 description: "Transfer files efficiently with the TFTP client. Upload and download files to/from servers using simple commands. Free online tool, no registration required."
 category: linux

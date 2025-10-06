@@ -1,7 +1,7 @@
 ---
 title: "Delete Virsh Pool - Remove Storage Pools | Online Free DevTools by Hexmos"
 name: virsh-pool-delete
-path: /freedevtools/tldr/virsh/virsh-pool-delete
+path: "/freedevtools/tldr/virsh/virsh-pool-delete/"
 canonical: "https://hexmos.com/freedevtools/tldr/virsh/virsh-pool-delete/"
 description: "Delete Virsh pool storage with Virsh Pool Delete. Remove inactive storage systems easily using the command line. Free online tool, no registration required."
 category: common

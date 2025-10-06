@@ -1,7 +1,7 @@
 ---
 title: "Pueue Stash - Control Task Execution | Online Free DevTools by Hexmos"
 name: pueue-stash
-path: /freedevtools/tldr/pueue/pueue-stash
+path: "/freedevtools/tldr/pueue/pueue-stash/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-stash/"
 description: "Control task execution with Pueue Stash. Delay task starts, manage task queues, and streamline workflow. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Calculate Expressions - Use mate-calc | Online Free DevTools by Hexmos"
 name: mate-calc
-path: /freedevtools/tldr/linux/mate-calc
+path: "/freedevtools/tldr/linux/mate-calc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mate-calc/"
 description: "Calculate mathematic expressions easily with mate-calc.  This command-line calculator provides quick solutions for various mathematical problems. Free online tool, no registration required."
 category: linux

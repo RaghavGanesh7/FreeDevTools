@@ -1,7 +1,7 @@
 ---
 title: "w3m Browser - Browse Web via Terminal | Online Free DevTools by Hexmos"
 name: w3m
-path: /freedevtools/tldr/common/w3m
+path: "/freedevtools/tldr/common/w3m/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/w3m/"
 description: "Browse the web with w3m, a text-based browser for your terminal. Navigate websites, view source code, and manage browser history easily. Free online tool, no registration required."
 category: common

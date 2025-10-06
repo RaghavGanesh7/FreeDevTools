@@ -1,7 +1,7 @@
 ---
 title: "Generate Systemd IDs - Create Unique Identifiers | Online Free DevTools by Hexmos"
 name: systemd-id128
-path: /freedevtools/tldr/linux/systemd-id128
+path: "/freedevtools/tldr/linux/systemd-id128/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-id128/"
 description: "Generate unique systemd identifiers with systemd-id128.  Create random IDs, machine IDs, boot IDs, and invocation IDs easily. Free online tool, no registration required."
 category: linux

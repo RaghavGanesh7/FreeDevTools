@@ -1,7 +1,7 @@
 ---
 title: "BPF Program Manager - Control eBPF Programs | Online Free DevTools by Hexmos"
 name: bpftool
-path: /freedevtools/tldr/linux/bpftool
+path: "/freedevtools/tldr/linux/bpftool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bpftool/"
 description: "Control and inspect eBPF programs with bpftool. Manage maps, attachments, and features easily. Free online tool, no registration required."
 category: linux

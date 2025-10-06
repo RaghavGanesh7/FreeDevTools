@@ -1,7 +1,7 @@
 ---
 title: "Execute NGS Script - Ops Scripting Language | Online Free DevTools by Hexmos"
 name: ngs
-path: /freedevtools/tldr/common/ngs
+path: "/freedevtools/tldr/common/ngs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ngs/"
 description: "Execute NGS scripts effortlessly with this free online tool. Create and run ops scripts for automation and system administration tasks. Free online tool, no registration required."
 category: common

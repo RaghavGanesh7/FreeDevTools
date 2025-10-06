@@ -1,7 +1,7 @@
 ---
 title: "Software Update - Update macOS Apps | Online Free DevTools by Hexmos"
 name: softwareupdate
-path: /freedevtools/tldr/osx/softwareupdate
+path: "/freedevtools/tldr/osx/softwareupdate/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/softwareupdate/"
 description: "Update macOS software with Software Update.  Download, install, and manage updates via the command line interface. Free online tool, no registration required."
 category: osx

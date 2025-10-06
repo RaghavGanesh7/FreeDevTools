@@ -1,7 +1,7 @@
 ---
 title: "Terraform Format - Format Infrastructure Code | Online Free DevTools by Hexmos"
 name: terraform-fmt
-path: /freedevtools/tldr/terraform/terraform-fmt
+path: "/freedevtools/tldr/terraform/terraform-fmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/terraform/terraform-fmt/"
 description: "Format Terraform configurations with Terraform Fmt. Standardize infrastructure code and improve readability with this command-line tool. Free online tool, no registration required."
 category: common

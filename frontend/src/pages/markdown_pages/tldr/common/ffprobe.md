@@ -1,7 +1,7 @@
 ---
 title: "Analyze Multimedia Streams - ffprobe | Online Free DevTools by Hexmos"
 name: ffprobe
-path: /freedevtools/tldr/common/ffprobe
+path: "/freedevtools/tldr/common/ffprobe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ffprobe/"
 description: "Analyze multimedia streams with ffprobe. Extract video metadata, check frame rates, and determine bitrates effortlessly. Free online tool, no registration required."
 category: common

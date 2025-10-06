@@ -1,7 +1,7 @@
 ---
 title: "Control Default Apps - Duti macOS | Online Free DevTools by Hexmos"
 name: duti
-path: "/freedevtools/tldr/osx/duti"
+path: "/freedevtools/tldr/osx/duti/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/duti/"
 description: "Control default application associations with duti. Set handlers for document types and URL schemes on macOS using the command line. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Recover Deleted Files - extundelete | Online Free DevTools by Hexmos"
 name: extundelete
-path: /freedevtools/tldr/linux/extundelete
+path: "/freedevtools/tldr/linux/extundelete/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/extundelete/"
 description: "Recover deleted files with extundelete, a powerful data recovery tool for ext3/ext4 partitions. Restore files and directories with ease. Free online tool, no registration required."
 category: linux

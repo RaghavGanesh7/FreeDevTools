@@ -1,7 +1,7 @@
 ---
 title: "AC Command - Monitor User Connection Time | Online Free DevTools by Hexmos"
 name: ac
-path: /freedevtools/tldr/common/ac
+path: "/freedevtools/tldr/common/ac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ac/"
 description: "Monitor user connection time with the AC command. Analyze user activity and system usage with this powerful Linux tool. Free online tool, no registration required."
 category: common

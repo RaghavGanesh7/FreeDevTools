@@ -1,7 +1,7 @@
 ---
 title: "SDK Maintain - Manage SailfishOS SDK with Ease | Online Free DevTools by Hexmos"
 name: sfdk-maintain
-path: /freedevtools/tldr/sfdk/sfdk-maintain
+path: "/freedevtools/tldr/sfdk/sfdk-maintain/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-maintain/"
 description: "Manage SailfishOS SDK with SDK Maintain. Update toolchains, manage emulator images, and configure SDK components for efficient SailfishOS development. Free online tool, no registration required."
 category: common

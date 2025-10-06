@@ -1,7 +1,7 @@
 ---
 title: "VNC Viewer - Control Remote Desktops | Online Free DevTools by Hexmos"
 name: vncviewer
-path: /freedevtools/tldr/linux/vncviewer
+path: "/freedevtools/tldr/linux/vncviewer/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vncviewer/"
 description: "Control remote Linux desktops with VNC Viewer. Access graphical interfaces remotely and manage servers easily. Free online tool, no registration required."
 category: linux

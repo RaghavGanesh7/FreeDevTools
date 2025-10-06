@@ -1,7 +1,7 @@
 ---
 title: "Docker Run - Run Containers | Online Free DevTools by Hexmos"
 name: docker-run
-path: /freedevtools/tldr/docker/docker-run
+path: "/freedevtools/tldr/docker/docker-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-run/"
 description: "Run Docker containers with Docker Run. Easily manage and execute commands within isolated environments. Free online tool, no registration required."
 category: common

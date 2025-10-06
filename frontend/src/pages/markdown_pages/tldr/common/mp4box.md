@@ -1,7 +1,7 @@
 ---
 title: "MP4 Container - Muxe Streams into MP4 with mp4box | Online Free DevTools by Hexmos"
 name: mp4box
-path: /freedevtools/tldr/common/mp4box
+path: "/freedevtools/tldr/common/mp4box/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mp4box/"
 description: "Muxe streams into MP4 container with mp4box. Combine audio and video, add subtitles, and display file information. Free online tool, no registration required."
 category: common

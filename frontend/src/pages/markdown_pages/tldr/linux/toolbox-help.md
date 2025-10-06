@@ -1,7 +1,7 @@
 ---
 title: "Toolbox Help - Access Command Information | Online Free DevTools by Hexmos"
 name: toolbox-help
-path: /freedevtools/tldr/linux/toolbox-help
+path: "/freedevtools/tldr/linux/toolbox-help/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox-help/"
 description: "Access command information instantly with Toolbox Help.  View detailed instructions and usage examples for various subcommands. Free online tool, no registration required."
 category: linux

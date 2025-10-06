@@ -1,7 +1,7 @@
 ---
 title: "Wondershaper - Control Bandwidth | Online Free DevTools by Hexmos"
 name: wondershaper
-path: /freedevtools/tldr/common/wondershaper
+path: "/freedevtools/tldr/common/wondershaper/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wondershaper/"
 description: "Control network bandwidth with Wondershaper. Limit upload and download speeds on network adapters. Free online tool, no registration required."
 category: common

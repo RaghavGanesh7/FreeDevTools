@@ -1,7 +1,7 @@
 ---
 title: "Dictionary Lookup - Define Words with mate-dictionary | Online Free DevTools by Hexmos"
 name: mate-dictionary
-path: /freedevtools/tldr/common/mate-dictionary
+path: "/freedevtools/tldr/common/mate-dictionary/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mate-dictionary/"
 description: "Lookup word definitions instantly with mate-dictionary. Access dictionaries from the command line and explore similar words. Free online tool, no registration required."
 category: common

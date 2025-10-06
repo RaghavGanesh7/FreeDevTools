@@ -1,7 +1,7 @@
 ---
 title: "Gfalse - Execute False Command on MacOS | Online Free DevTools by Hexmos"
 name: gfalse
-path: /freedevtools/tldr/osx/gfalse
+path: "/freedevtools/tldr/osx/gfalse/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gfalse/"
 description: "Execute false command on MacOS with Gfalse. Simulate boolean false returns and control shell script behavior. Free online tool, no registration required."
 category: osx

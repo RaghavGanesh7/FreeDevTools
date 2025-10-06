@@ -1,7 +1,7 @@
 ---
 title: "Ego - Manage System Personalities | Online Free DevTools by Hexmos"
 name: ego
-path: /freedevtools/tldr/linux/ego
+path: "/freedevtools/tldr/linux/ego/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ego/"
 description: "Manage system personalities with Ego. Configure bootloaders, synchronize Portage trees, and query bugs. Free online tool, no registration required."
 category: linux

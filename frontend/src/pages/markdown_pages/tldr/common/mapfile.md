@@ -1,7 +1,7 @@
 ---
 title: "Mapfile - Read Arrays from Standard Input | Online Free DevTools by Hexmos"
 name: mapfile
-path: /freedevtools/tldr/common/mapfile
+path: "/freedevtools/tldr/common/mapfile/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mapfile/"
 description: "Read arrays from standard input with Mapfile, an alias for readarray. Quickly populate arrays from files or command outputs. Free online tool, no registration required."
 category: common

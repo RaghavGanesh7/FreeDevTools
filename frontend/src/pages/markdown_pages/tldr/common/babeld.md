@@ -1,7 +1,7 @@
 ---
 title: "Babeld Router - Control Network Routing | Online Free DevTools by Hexmos"
 name: babeld
-path: /freedevtools/tldr/common/babeld
+path: "/freedevtools/tldr/common/babeld/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/babeld/"
 description: "Control network routing with Babeld, a flexible routing daemon. Configure network interfaces, apply firewall-style filters, and optimize network traffic. Free online tool, no registration required."
 category: common

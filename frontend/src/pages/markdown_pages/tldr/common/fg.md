@@ -1,7 +1,7 @@
 ---
 title: "FG Command - Run Jobs in Foreground | Online Free DevTools by Hexmos"
 name: fg
-path: /freedevtools/tldr/common/fg
+path: "/freedevtools/tldr/common/fg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fg/"
 description: "Run jobs in foreground with FG command. Control background processes and manage shell jobs efficiently. Free online tool, no registration required."
 category: common

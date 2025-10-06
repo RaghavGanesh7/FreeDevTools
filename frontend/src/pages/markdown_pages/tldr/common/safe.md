@@ -1,7 +1,7 @@
 ---
 title: "Control Vault Secrets - Interact with Vault Using Safe | Online Free DevTools by Hexmos"
 name: safe
-path: /freedevtools/tldr/common/safe
+path: "/freedevtools/tldr/common/safe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/safe/"
 description: "Control Vault secrets with Safe. Manage authentication, display key hierarchies, and securely generate SSH keys. Free online tool, no registration required."
 category: common

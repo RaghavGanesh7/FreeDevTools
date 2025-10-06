@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Bug Reporting - Create Bug Reports with apport-bug | Online Free DevTools by Hexmos"
 name: ubuntu-bug
-path: /freedevtools/tldr/linux/ubuntu-bug
+path: "/freedevtools/tldr/linux/ubuntu-bug/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ubuntu-bug/"
 description: "Create detailed bug reports efficiently with ubuntu-bug.  This command simplifies reporting issues in Ubuntu using apport-bug. Free online tool, no registration required."
 category: linux

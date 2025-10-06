@@ -1,7 +1,7 @@
 ---
 title: "NVMe Control - Manage Storage Devices | Online Free DevTools by Hexmos"
 name: nvme
-path: /freedevtools/tldr/common/nvme
+path: "/freedevtools/tldr/common/nvme/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nvme/"
 description: "Control NVMe storage devices with NVMe tool. Monitor drive health, retrieve SMART logs, and list connected devices. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pueue Switch - Control Task Order | Online Free DevTools by Hexmos"
 name: pueue-switch
-path: /freedevtools/tldr/pueue/pueue-switch
+path: "/freedevtools/tldr/pueue/pueue-switch/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-switch/"
 description: "Control task execution order with Pueue Switch. Easily reorder enqueued and stashed commands for prioritized workflows. Free online tool, no registration required."
 category: common

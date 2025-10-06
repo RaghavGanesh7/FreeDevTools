@@ -1,7 +1,7 @@
 ---
 title: "QM Resize - Control Disk Size | Online Free DevTools by Hexmos"
 name: qm-resize
-path: /freedevtools/tldr/linux/qm-resize
+path: "/freedevtools/tldr/linux/qm-resize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-resize/"
 description: "Control virtual machine disk size with QM Resize. Efficiently manage and allocate disk space for optimal VM performance. Free online tool, no registration required."
 category: linux

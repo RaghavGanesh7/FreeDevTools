@@ -1,7 +1,7 @@
 ---
 title: "Hash Command - View Executable Locations | Online Free DevTools by Hexmos"
 name: hash
-path: /freedevtools/tldr/common/hash
+path: "/freedevtools/tldr/common/hash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hash/"
 description: "View executable locations with Hash Command. Manage cached command paths and optimize shell performance. Free online tool, no registration required."
 category: common

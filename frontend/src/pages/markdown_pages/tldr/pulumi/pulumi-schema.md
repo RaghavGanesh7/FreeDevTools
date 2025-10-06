@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Schema Check - Validate Pulumi Package Schemas | Online Free DevTools by Hexmos"
 name: pulumi-schema
-path: /freedevtools/tldr/pulumi/pulumi-schema
+path: "/freedevtools/tldr/pulumi/pulumi-schema/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-schema/"
 description: "Validate Pulumi package schemas with Pulumi Schema Check. Identify errors and enforce schema integrity for robust infrastructure as code. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Grab Screenshots - Control Linux Screenshots with grim | Online Free DevTools by Hexmos"
 name: grim
-path: /freedevtools/tldr/linux/grim
+path: "/freedevtools/tldr/linux/grim/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/grim/"
 description: "Grab screenshots instantly with grim on Linux. Capture specific outputs and regions for quick image creation and documentation. Free online tool, no registration required."
 category: linux

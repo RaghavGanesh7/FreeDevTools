@@ -1,7 +1,7 @@
 ---
 title: "Yank - Extract Text from Input | Online Free DevTools by Hexmos"
 name: yank
-path: /freedevtools/tldr/common/yank
+path: "/freedevtools/tldr/common/yank/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yank/"
 description: "Extract text with Yank, a command-line text selection tool. Quickly copy specific fields from standard input to clipboard using delimiters. Free online tool, no registration required."
 category: common

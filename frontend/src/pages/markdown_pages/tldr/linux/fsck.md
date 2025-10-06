@@ -1,7 +1,7 @@
 ---
 title: "fsck - Check Filesystem Integrity | Online Free DevTools by Hexmos"
 name: fsck
-path: /freedevtools/tldr/linux/fsck
+path: "/freedevtools/tldr/linux/fsck/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fsck/"
 description: "Validate filesystem integrity with fsck.  Repair damaged blocks and ensure data consistency using command-line options. Free online tool, no registration required."
 category: linux

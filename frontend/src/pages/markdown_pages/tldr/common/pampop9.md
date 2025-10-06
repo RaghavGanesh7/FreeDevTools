@@ -1,7 +1,7 @@
 ---
 title: "Generate Multi-Lens Images - pampop9 | Online Free DevTools by Hexmos"
 name: pampop9
-path: /freedevtools/tldr/common/pampop9
+path: "/freedevtools/tldr/common/pampop9/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pampop9/"
 description: "Generate multi-lens images with pampop9. Simulate Pop9 camera effects by tiling and offsetting images. Free online tool, no registration required."
 category: common

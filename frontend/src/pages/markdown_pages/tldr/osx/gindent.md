@@ -1,7 +1,7 @@
 ---
 title: "Format Code - Format Code with gindent | Online Free DevTools by Hexmos"
 name: gindent
-path: /freedevtools/tldr/osx/gindent
+path: "/freedevtools/tldr/osx/gindent/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gindent/"
 description: "Format code with gindent, an alias of GNU indent. Enhance code readability and enforce coding style consistency. Free online tool, no registration required."
 category: osx

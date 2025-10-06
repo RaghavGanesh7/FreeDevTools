@@ -1,7 +1,7 @@
 ---
 title: "PAM Mix Interlace - Merge Image Rows | Online Free DevTools by Hexmos"
 name: pammixinterlace
-path: /freedevtools/tldr/common/pammixinterlace
+path: "/freedevtools/tldr/common/pammixinterlace/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pammixinterlace/"
 description: "Merge image rows with PAM Mix Interlace, a Netpbm image processing tool. Enhance image quality and reduce artifacts using various filters. Free online tool, no registration required."
 category: common

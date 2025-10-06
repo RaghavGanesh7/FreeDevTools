@@ -1,7 +1,7 @@
 ---
 title: "Display Disk Space - Manage Filesystems with df | Online Free DevTools by Hexmos"
 name: df
-path: /freedevtools/tldr/openbsd/df
+path: "/freedevtools/tldr/openbsd/df/"
 canonical: "https://hexmos.com/freedevtools/tldr/openbsd/df/"
 description: "Manage filesystem disk space with df command. Get a detailed overview of disk usage, inodes, and more on your system. Free online tool, no registration required."
 category: openbsd

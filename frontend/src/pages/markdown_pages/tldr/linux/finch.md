@@ -1,7 +1,7 @@
 ---
 title: "Finch Messaging Client - Control Linux Messages | Online Free DevTools by Hexmos"
 name: finch
-path: /freedevtools/tldr/linux/finch
+path: "/freedevtools/tldr/linux/finch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/finch/"
 description: "Control Linux messages instantly with Finch messaging client. Manage conversations, navigate windows, and perform actions from the command line. Free online tool, no registration required."
 category: linux

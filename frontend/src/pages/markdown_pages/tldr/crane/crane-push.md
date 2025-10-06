@@ -1,7 +1,7 @@
 ---
 title: "Crane Push - Upload Container Images | Online Free DevTools by Hexmos"
 name: crane-push
-path: /freedevtools/tldr/crane/crane-push
+path: "/freedevtools/tldr/crane/crane-push/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-push/"
 description: "Push container images with Crane Push, a simple command-line tool. Transfer images to remote registries, create image indexes, and manage image references. Free online tool, no registration required."
 category: common

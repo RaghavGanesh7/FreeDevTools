@@ -1,7 +1,7 @@
 ---
 title: "Cmdkey - Create User Credentials | Online Free DevTools by Hexmos"
 name: cmdkey
-path: /freedevtools/tldr/windows/cmdkey
+path: "/freedevtools/tldr/windows/cmdkey/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/cmdkey/"
 description: "Create user credentials with Cmdkey on Windows using the command line. Securely store usernames and passwords for network resources. Free online tool, no registration required."
 category: windows

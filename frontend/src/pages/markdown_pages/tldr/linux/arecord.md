@@ -1,7 +1,7 @@
 ---
 title: "Record Audio - Control Audio Recording with arecord | Online Free DevTools by Hexmos"
 name: arecord
-path: /freedevtools/tldr/linux/arecord
+path: "/freedevtools/tldr/linux/arecord/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/arecord/"
 description: "Control audio recording with arecord. Record WAV and MP3 formats using command line. Free online tool, no registration required."
 category: linux

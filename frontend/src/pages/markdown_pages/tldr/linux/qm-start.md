@@ -1,7 +1,7 @@
 ---
 title: "QM Start - Control Virtual Machines on Linux | Online Free DevTools by Hexmos"
 name: qm-start
-path: /freedevtools/tldr/linux/qm-start
+path: "/freedevtools/tldr/linux/qm-start/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-start/"
 description: "Control virtual machines on Linux with QM Start. Manage machine types and set timeouts for optimized performance. Free online tool, no registration required."
 category: linux

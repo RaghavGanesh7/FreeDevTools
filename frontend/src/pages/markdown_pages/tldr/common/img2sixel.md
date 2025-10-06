@@ -1,7 +1,7 @@
 ---
 title: "Format Image to Sixel - Convert Images | Online Free DevTools by Hexmos"
 name: img2sixel
-path: /freedevtools/tldr/common/img2sixel
+path: "/freedevtools/tldr/common/img2sixel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/img2sixel/"
 description: "Format images to Sixel with img2sixel. Convert image files for terminal display, offering size control and efficient visual rendering. Free online tool, no registration required."
 category: common

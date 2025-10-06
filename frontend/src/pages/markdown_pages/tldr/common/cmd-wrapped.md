@@ -1,7 +1,7 @@
 ---
 title: "Shell History Statistics - Analyze Command History | Online Free DevTools by Hexmos"
 name: cmd-wrapped
-path: /freedevtools/tldr/common/cmd-wrapped
+path: "/freedevtools/tldr/common/cmd-wrapped/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cmd-wrapped/"
 description: "Analyze command shell history statistics with cmd-wrapped. Gain insights into command usage and identify frequent commands. Free online tool, no registration required."
 category: common

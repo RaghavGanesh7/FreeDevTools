@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to EPSI - Generate EPSI Preview Bitmaps | Online Free DevTools by Hexmos"
 name: pbmtoepsi
-path: /freedevtools/tldr/common/pbmtoepsi
+path: "/freedevtools/tldr/common/pbmtoepsi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoepsi/"
 description: "Convert PBM images to EPSI format with PBMtoEPSI. Generate encapsulated PostScript preview bitmaps. Free online tool, no registration required."
 category: common

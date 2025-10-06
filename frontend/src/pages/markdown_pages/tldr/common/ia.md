@@ -1,7 +1,7 @@
 ---
 title: "Internet Archive - Manage Files | Online Free DevTools by Hexmos"
 name: ia
-path: /freedevtools/tldr/common/ia
+path: "/freedevtools/tldr/common/ia/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ia/"
 description: "Manage files on the Internet Archive with the 'ia' command-line tool. Upload, download, delete items and search for content. Free online tool, no registration required."
 category: common

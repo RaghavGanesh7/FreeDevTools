@@ -1,7 +1,7 @@
 ---
 title: "Display Figlet Fonts - Show Available Fonts | Online Free DevTools by Hexmos"
 name: showfigfonts
-path: /freedevtools/tldr/common/showfigfonts
+path: "/freedevtools/tldr/common/showfigfonts/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/showfigfonts/"
 description: "Display available figlet fonts with Showfigfonts. View font list and preview text using specific fonts quickly. Free online tool, no registration required."
 category: common

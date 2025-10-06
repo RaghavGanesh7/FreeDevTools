@@ -1,7 +1,7 @@
 ---
 title: "Control Redis Server - Persistent Key-Value Database | Online Free DevTools by Hexmos"
 name: redis-server
-path: /freedevtools/tldr/redis/redis-server
+path: "/freedevtools/tldr/redis/redis-server/"
 canonical: "https://hexmos.com/freedevtools/tldr/redis/redis-server/"
 description: "Control Redis server settings and instances with this free online tool. Manage your key-value database and logging options. Free online tool, no registration required."
 category: common

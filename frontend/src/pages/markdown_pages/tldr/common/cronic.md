@@ -1,7 +1,7 @@
 ---
 title: "Control Cron Jobs - Prevent Email Overload | Online Free DevTools by Hexmos"
 name: cronic
-path: /freedevtools/tldr/common/cronic
+path: "/freedevtools/tldr/common/cronic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cronic/"
 description: "Control cron jobs and prevent excessive email alerts with Cronic. Manage cron output intelligently and suppress irrelevant notifications. Free online tool, no registration required."
 category: common

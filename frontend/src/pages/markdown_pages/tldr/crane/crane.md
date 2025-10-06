@@ -1,7 +1,7 @@
 ---
 title: "Container Image Control - Manage Images with Crane | Online Free DevTools by Hexmos"
 name: crane
-path: /freedevtools/tldr/crane/crane
+path: "/freedevtools/tldr/crane/crane/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane/"
 description: "Control container images easily with Crane. Copy, push, and pull container images. Free online tool, no registration required. Manage images securely."
 category: common

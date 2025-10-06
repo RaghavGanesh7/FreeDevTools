@@ -1,7 +1,7 @@
 ---
 title: "Generate Qwen Code - Interactive Chatbot | Online Free DevTools by Hexmos"
 name: qwen
-path: /freedevtools/tldr/common/qwen
+path: "/freedevtools/tldr/common/qwen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qwen/"
 description: "Generate Qwen code with an interactive chatbot. Use Qwen3-Coder to create and refine code solutions easily. Free online tool, no registration required."
 category: common

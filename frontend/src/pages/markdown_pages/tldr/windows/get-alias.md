@@ -1,7 +1,7 @@
 ---
 title: "Get-Alias - List PowerShell Aliases | Online Free DevTools by Hexmos"
 name: get-alias
-path: /freedevtools/tldr/windows/get-alias
+path: "/freedevtools/tldr/windows/get-alias/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-alias/"
 description: "List PowerShell aliases with Get-Alias. Find command aliases, display definitions, and filter results in PowerShell. Free online tool, no registration required."
 category: windows

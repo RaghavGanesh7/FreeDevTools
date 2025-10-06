@@ -1,7 +1,7 @@
 ---
 title: "JWT Tool - Create and Decode JSON Web Tokens | Online Free DevTools by Hexmos"
 name: jwt
-path: /freedevtools/tldr/common/jwt
+path: "/freedevtools/tldr/common/jwt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jwt/"
 description: "Create and decode JSON Web Tokens (JWT) with JWT Tool. Verify authenticity and integrity of your data. Free online tool, no registration required."
 category: common

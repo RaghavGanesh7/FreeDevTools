@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to Sun Icon - Create ICO Image | Online Free DevTools by Hexmos"
 name: pbmtosunicon
-path: /freedevtools/tldr/common/pbmtosunicon
+path: "/freedevtools/tldr/common/pbmtosunicon/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtosunicon/"
 description: "Convert PBM images to Sun icon files with pbmtosunicon. Create ICO images for various platforms using this command-line tool. Free online tool, no registration required."
 category: common

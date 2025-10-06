@@ -1,7 +1,7 @@
 ---
 title: "PlatformIO Build - Create Projects with pio-ci | Online Free DevTools by Hexmos"
 name: pio-ci
-path: /freedevtools/tldr/pio/pio-ci
+path: "/freedevtools/tldr/pio/pio-ci/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-ci/"
 description: "Build PlatformIO projects quickly with pio-ci. Automate project creation and library integration for embedded development. Free online tool, no registration required."
 category: common

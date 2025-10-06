@@ -1,7 +1,7 @@
 ---
 title: "CPAN - Manage Perl Modules | Online Free DevTools by Hexmos"
 name: cpan
-path: /freedevtools/tldr/common/cpan
+path: "/freedevtools/tldr/common/cpan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cpan/"
 description: "Manage Perl modules with CPAN. Install, upgrade, recompile, and force install Perl modules effortlessly. Free online tool, no registration required."
 category: common

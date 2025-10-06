@@ -1,7 +1,7 @@
 ---
 title: "GSettings - Control dconf Settings | Online Free DevTools by Hexmos"
 name: gsettings
-path: /freedevtools/tldr/linux/gsettings
+path: "/freedevtools/tldr/linux/gsettings/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gsettings/"
 description: "Control dconf settings with GSettings. Modify and query settings using schema validation. Free online tool, no registration required."
 category: linux

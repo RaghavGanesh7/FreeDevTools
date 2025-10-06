@@ -1,7 +1,7 @@
 ---
 title: "Create PDF N-up Layouts - pdfxup | Online Free DevTools by Hexmos"
 name: pdfxup
-path: /freedevtools/tldr/linux/pdfxup
+path: "/freedevtools/tldr/linux/pdfxup/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdfxup/"
 description: "Create PDF n-up layouts with pdfxup. Arrange multiple PDF pages onto a single page for printing or presentation. Free online tool, no registration required."
 category: linux

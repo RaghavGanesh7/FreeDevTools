@@ -1,7 +1,7 @@
 ---
 title: "Generate GIF - Create Animated GIFs from asciinema | Online Free DevTools by Hexmos"
 name: agg
-path: /freedevtools/tldr/common/agg
+path: "/freedevtools/tldr/common/agg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/agg/"
 description: "Generate GIF animations with asciinema agg. Easily create GIFs from terminal recordings, ideal for tutorials and documentation. Free online tool, no registration required."
 category: common

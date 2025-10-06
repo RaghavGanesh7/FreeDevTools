@@ -1,7 +1,7 @@
 ---
 title: "Create Squashfs Filesystems - mksquashfs | Online Free DevTools by Hexmos"
 name: mksquashfs
-path: /freedevtools/tldr/linux/mksquashfs
+path: "/freedevtools/tldr/linux/mksquashfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mksquashfs/"
 description: "Create squashfs filesystems with mksquashfs. Compress, exclude files, and build customized archives quickly. Free online tool, no registration required."
 category: linux

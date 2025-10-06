@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to TGA - Format Images | Online Free DevTools by Hexmos"
 name: ppmtotga
-path: /freedevtools/tldr/ppm/ppmtotga
+path: "/freedevtools/tldr/ppm/ppmtotga/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtotga/"
 description: "Convert PPM to TGA with Ppmtotga. Transform Portable Pixmap images to Truevision TGA format using command line. Free online tool, no registration required."
 category: common

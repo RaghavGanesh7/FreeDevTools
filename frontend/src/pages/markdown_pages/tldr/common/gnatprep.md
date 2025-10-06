@@ -1,7 +1,7 @@
 ---
 title: "Generate Ada Code - gnatprep Preprocessor | Online Free DevTools by Hexmos"
 name: gnatprep
-path: /freedevtools/tldr/common/gnatprep
+path: "/freedevtools/tldr/common/gnatprep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gnatprep/"
 description: "Generate Ada code with gnatprep, the GNAT preprocessor. Define symbols and values for conditional compilation of Ada source. Free online tool, no registration required."
 category: common

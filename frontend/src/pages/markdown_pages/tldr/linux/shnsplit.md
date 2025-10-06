@@ -1,7 +1,7 @@
 ---
 title: "Audio Split - Split Audio Files with shnsplit | Online Free DevTools by Hexmos"
 name: shnsplit
-path: /freedevtools/tldr/linux/shnsplit
+path: "/freedevtools/tldr/linux/shnsplit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/shnsplit/"
 description: "Split audio files with shnsplit, a powerful command-line utility for Linux. Divide audio based on CUE sheets for efficient management. Free online tool, no registration required."
 category: linux

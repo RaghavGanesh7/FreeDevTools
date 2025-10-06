@@ -1,7 +1,7 @@
 ---
 title: "Rust Update Check - Manage Rust Toolchains | Online Free DevTools by Hexmos"
 name: rustup-check
-path: /freedevtools/tldr/rustup/rustup-check
+path: "/freedevtools/tldr/rustup/rustup-check/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-check/"
 description: "Manage Rust toolchains with Rust Update Check. Discover new Rust versions, update toolchains, and ensure compatibility easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage S3 Buckets - Control S3 Storage with S3cmd | Online Free DevTools by Hexmos"
 name: s3cmd
-path: /freedevtools/tldr/common/s3cmd
+path: "/freedevtools/tldr/common/s3cmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/s3cmd/"
 description: "Manage S3 buckets and objects effectively with S3cmd. Upload, download, and control your S3 compatible object storage from the command line. Free online tool, no registration required."
 category: common

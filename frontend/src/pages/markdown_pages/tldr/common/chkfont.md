@@ -1,7 +1,7 @@
 ---
 title: "Validate FIGlet Font - Format .FLF Files | Online Free DevTools by Hexmos"
 name: chkfont
-path: /freedevtools/tldr/common/chkfont
+path: "/freedevtools/tldr/common/chkfont/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chkfont/"
 description: "Validate FIGlet font files with chkfont. Detect formatting errors in .FLF files and ensure proper font rendering. Free online tool, no registration required."
 category: common

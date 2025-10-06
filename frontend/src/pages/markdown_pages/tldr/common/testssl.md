@@ -1,7 +1,7 @@
 ---
 title: "Test SSL/TLS - Check Server Security | Online Free DevTools by Hexmos"
 name: testssl
-path: /freedevtools/tldr/common/testssl
+path: "/freedevtools/tldr/common/testssl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/testssl/"
 description: "Check SSL/TLS protocols with Testssl, ensuring robust server security. Identify vulnerabilities and analyze HTTP headers. Free online tool, no registration required."
 category: common

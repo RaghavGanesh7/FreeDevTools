@@ -1,7 +1,7 @@
 ---
 title: "Vimdiff - Compare Files | Online Free DevTools by Hexmos"
 name: vimdiff
-path: /freedevtools/tldr/common/vimdiff
+path: "/freedevtools/tldr/common/vimdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vimdiff/"
 description: "Compare files with Vimdiff. This free online tool quickly finds and highlights differences between text files directly in your browser. Free online tool, no registration required."
 category: common

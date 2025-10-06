@@ -1,7 +1,7 @@
 ---
 title: "PHP Static Analysis - Discover Bugs with PHPStan | Online Free DevTools by Hexmos"
 name: phpstan
-path: /freedevtools/tldr/php/phpstan
+path: "/freedevtools/tldr/php/phpstan/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phpstan/"
 description: "Discover PHP bugs with PHPStan static analysis tool. Analyze code, find errors and improve code quality. Free online tool, no registration required."
 category: common

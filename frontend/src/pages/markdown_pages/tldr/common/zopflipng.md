@@ -1,7 +1,7 @@
 ---
 title: "Optimize PNG - Compress PNG Images with Zopflipng | Online Free DevTools by Hexmos"
 name: zopflipng
-path: /freedevtools/tldr/common/zopflipng
+path: "/freedevtools/tldr/common/zopflipng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zopflipng/"
 description: "Compress PNG images efficiently with Zopflipng. Reduce PNG file size and optimize for web use. Free online tool, no registration required."
 category: common

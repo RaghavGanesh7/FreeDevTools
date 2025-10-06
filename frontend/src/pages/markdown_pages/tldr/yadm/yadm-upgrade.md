@@ -1,7 +1,7 @@
 ---
 title: "Yadm Upgrade - Update Yadm to Latest Version | Online Free DevTools by Hexmos"
 name: yadm-upgrade
-path: /freedevtools/tldr/yadm/yadm-upgrade
+path: "/freedevtools/tldr/yadm/yadm-upgrade/"
 canonical: "https://hexmos.com/freedevtools/tldr/yadm/yadm-upgrade/"
 description: "Upgrade Yadm to the latest version with Yadm Upgrade. De-initialize and re-initialize submodules for seamless updates. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate ctags - Index Code Objects | Online Free DevTools by Hexmos"
 name: ctags
-path: /freedevtools/tldr/common/ctags
+path: "/freedevtools/tldr/common/ctags/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ctags/"
 description: "Generate indexes with ctags, a powerful tool for navigating code. Quickly find functions and classes across projects. Free online tool, no registration required."
 category: common

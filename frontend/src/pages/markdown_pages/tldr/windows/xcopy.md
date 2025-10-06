@@ -1,7 +1,7 @@
 ---
 title: "Xcopy - Copy Files and Directories | Online Free DevTools by Hexmos"
 name: xcopy
-path: /freedevtools/tldr/windows/xcopy
+path: "/freedevtools/tldr/windows/xcopy/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/xcopy/"
 description: "Copy files instantly with Xcopy, the Windows command-line tool for file and directory replication. Secure your data and simplify backups. Free online tool, no registration required."
 category: windows

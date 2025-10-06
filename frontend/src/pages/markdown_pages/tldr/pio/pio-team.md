@@ -1,7 +1,7 @@
 ---
 title: "Manage PlatformIO Teams - Create & Control | Online Free DevTools by Hexmos"
 name: pio-team
-path: /freedevtools/tldr/pio/pio-team
+path: "/freedevtools/tldr/pio/pio-team/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-team/"
 description: "Manage PlatformIO teams efficiently with pio-team. Create, delete, add users, and update team details effortlessly. Free online tool, no registration required."
 category: common

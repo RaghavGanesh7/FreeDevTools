@@ -1,7 +1,7 @@
 ---
 title: "Control Puppet Configurations - Automate Server Management | Online Free DevTools by Hexmos"
 name: puppet
-path: /freedevtools/tldr/puppet/puppet
+path: "/freedevtools/tldr/puppet/puppet/"
 canonical: "https://hexmos.com/freedevtools/tldr/puppet/puppet/"
 description: "Control Puppet configurations efficiently with Puppet. Automate server management, deploy applications, and enforce consistent configurations. Free online tool, no registration required."
 category: common

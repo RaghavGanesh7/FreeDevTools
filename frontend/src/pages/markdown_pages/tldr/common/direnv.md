@@ -1,7 +1,7 @@
 ---
 title: "Control Environment Variables - With direnv | Online Free DevTools by Hexmos"
 name: direnv
-path: /freedevtools/tldr/common/direnv
+path: "/freedevtools/tldr/common/direnv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/direnv/"
 description: "Control environment variables easily with direnv. Manage directory-specific environment settings and automate environment loading/unloading. Free online tool, no registration required."
 category: common

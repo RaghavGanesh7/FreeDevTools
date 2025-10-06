@@ -1,7 +1,7 @@
 ---
 title: "Create EROFS Filesystem - Format Image | Online Free DevTools by Hexmos"
 name: mkfs.erofs
-path: /freedevtools/tldr/linux/mkfs-erofs
+path: "/freedevtools/tldr/linux/mkfs-erofs/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mkfs-erofs/"
 description: "Create EROFS filesystem with mkfs.erofs. Generate compressed images and control file ownership. Free online tool, no registration required."
 category: linux

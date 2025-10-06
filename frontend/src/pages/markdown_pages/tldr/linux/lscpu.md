@@ -1,7 +1,7 @@
 ---
 title: "Lscpu - Display CPU Information | Online Free DevTools by Hexmos"
 name: lscpu
-path: /freedevtools/tldr/linux/lscpu
+path: "/freedevtools/tldr/linux/lscpu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lscpu/"
 description: "Display CPU information with lscpu. Examine processor architecture, cache details, and online/offline CPU status. Free online tool, no registration required."
 category: linux

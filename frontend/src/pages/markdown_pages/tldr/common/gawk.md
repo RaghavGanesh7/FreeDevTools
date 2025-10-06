@@ -1,7 +1,7 @@
 ---
 title: "GAWK - Process Files with GNU AWK | Online Free DevTools by Hexmos"
 name: gawk
-path: /freedevtools/tldr/common/gawk
+path: "/freedevtools/tldr/common/gawk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gawk/"
 description: "Process files easily with GAWK, the GNU version of AWK. Filter, format, and manipulate text data with this powerful command-line tool. Free online tool, no registration required."
 category: common

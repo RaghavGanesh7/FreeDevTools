@@ -1,7 +1,7 @@
 ---
 title: "Move Files - Rename and Relocate Files on Windows | Online Free DevTools by Hexmos"
 name: move
-path: /freedevtools/tldr/windows/move
+path: "/freedevtools/tldr/windows/move/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/move/"
 description: "Move files easily with this Windows command-line tool. Rename and relocate files and directories within and across drives. Free online tool, no registration required."
 category: windows

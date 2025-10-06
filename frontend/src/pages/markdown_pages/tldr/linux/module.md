@@ -1,7 +1,7 @@
 ---
 title: "Module - Control Linux Environment Modules | Online Free DevTools by Hexmos"
 name: module
-path: /freedevtools/tldr/linux/module
+path: "/freedevtools/tldr/linux/module/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/module/"
 description: "Control Linux environment modules quickly with Module command. Load, unload, list, and purge modules. Free online tool, no registration required."
 category: linux

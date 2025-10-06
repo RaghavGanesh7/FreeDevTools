@@ -1,7 +1,7 @@
 ---
 title: "Ansible Playbook - Execute Playbooks over SSH | Online Free DevTools by Hexmos"
 name: ansible-playbook
-path: /freedevtools/tldr/ansible/ansible-playbook
+path: "/freedevtools/tldr/ansible/ansible-playbook/"
 canonical: "https://hexmos.com/freedevtools/tldr/ansible/ansible-playbook/"
 description: "Execute automation playbooks with Ansible Playbook. Orchestrate configurations, deployments, and tasks across remote systems. Free online tool, no registration required."
 category: common

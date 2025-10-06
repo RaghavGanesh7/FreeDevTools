@@ -1,7 +1,7 @@
 ---
 title: "Rename Git Tag - Control Tag Names | Online Free DevTools by Hexmos"
 name: git-rename-tag
-path: /freedevtools/tldr/git/git-rename-tag
+path: "/freedevtools/tldr/git/git-rename-tag/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-rename-tag/"
 description: "Rename Git tags instantly with Git Rename-Tag. Control tag names locally and remotely in your Git repositories. Free online tool, no registration required."
 category: common

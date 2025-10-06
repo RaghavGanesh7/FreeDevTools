@@ -1,7 +1,7 @@
 ---
 title: "Android Reverse Engineering - Analyze APKs with Androguard | Online Free DevTools by Hexmos"
 name: androguard
-path: /freedevtools/tldr/common/androguard
+path: "/freedevtools/tldr/common/androguard/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/androguard/"
 description: "Reverse engineer Android applications with Androguard. Analyze APK files, decompile code, and extract metadata effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Signal Trapping - Execute Commands on Events | Online Free DevTools by Hexmos"
 name: trap
-path: /freedevtools/tldr/linux/trap
+path: "/freedevtools/tldr/linux/trap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trap/"
 description: "Control Signal Trapping with the Trap command. Manage process signals and execute specific commands on different events. Free online tool, no registration required."
 category: linux

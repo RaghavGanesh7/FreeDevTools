@@ -1,7 +1,7 @@
 ---
 title: "Cargo Bench - Execute Rust Benchmarks | Online Free DevTools by Hexmos"
 name: cargo-bench
-path: /freedevtools/tldr/cargo/cargo-bench
+path: "/freedevtools/tldr/cargo/cargo-bench/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-bench/"
 description: "Execute Rust benchmarks effortlessly with Cargo Bench. Analyze performance, identify bottlenecks and optimize code. Free online tool, no registration required."
 category: common

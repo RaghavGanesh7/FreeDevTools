@@ -1,7 +1,7 @@
 ---
 title: "Manage TeX Live Paths - Control Symlinks | Online Free DevTools by Hexmos"
 name: tlmgr-path
-path: /freedevtools/tldr/tlmgr/tlmgr-path
+path: "/freedevtools/tldr/tlmgr/tlmgr-path/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-path/"
 description: "Manage TeX Live installation paths with tlmgr-path. Add or remove symlinks for TeX Live executables and documentation. Free online tool, no registration required."
 category: common

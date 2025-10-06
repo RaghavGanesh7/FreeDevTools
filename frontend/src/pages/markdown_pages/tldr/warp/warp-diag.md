@@ -1,7 +1,7 @@
 ---
 title: "WARP Diagnostic - Generate System Information | Online Free DevTools by Hexmos"
 name: warp-diag
-path: /freedevtools/tldr/warp/warp-diag
+path: "/freedevtools/tldr/warp/warp-diag/"
 canonical: "https://hexmos.com/freedevtools/tldr/warp/warp-diag/"
 description: "Generate system diagnostic reports with WARP Diagnostic. Capture WARP connection details and system configuration information for troubleshooting. Free online tool, no registration required."
 category: common

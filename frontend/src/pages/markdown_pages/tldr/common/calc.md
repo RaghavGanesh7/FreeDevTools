@@ -1,7 +1,7 @@
 ---
 title: "Calculator - Perform Arbitrary Precision Calculations | Online Free DevTools by Hexmos"
 name: calc
-path: /freedevtools/tldr/common/calc
+path: "/freedevtools/tldr/common/calc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calc/"
 description: "Perform arbitrary precision calculations with calc. Use calc for interactive terminal calculations and scripting. Free online tool, no registration required."
 category: common

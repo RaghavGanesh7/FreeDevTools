@@ -1,7 +1,7 @@
 ---
 title: "Control Cockpit Bridge - Manage Server Communication | Online Free DevTools by Hexmos"
 name: cockpit-bridge
-path: /freedevtools/tldr/linux/cockpit-bridge
+path: "/freedevtools/tldr/linux/cockpit-bridge/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cockpit-bridge/"
 description: "Control server communication with Cockpit Bridge. Relay messages and execute commands between the frontend and server seamlessly. Free online tool, no registration required."
 category: linux

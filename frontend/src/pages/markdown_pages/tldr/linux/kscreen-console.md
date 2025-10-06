@@ -1,7 +1,7 @@
 ---
 title: "KScreen Console - Query KScreen Status | Online Free DevTools by Hexmos"
 name: kscreen-console
-path: /freedevtools/tldr/linux/kscreen-console
+path: "/freedevtools/tldr/linux/kscreen-console/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kscreen-console/"
 description: "Query KScreen's status with KScreen Console. Monitor display configurations and troubleshoot display issues. Free online tool, no registration required."
 category: linux

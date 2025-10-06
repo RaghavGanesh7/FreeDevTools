@@ -1,7 +1,7 @@
 ---
 title: "AWS History - Control AWS CLI Commands | Online Free DevTools by Hexmos"
 name: aws-history
-path: /freedevtools/tldr/aws/aws-history
+path: "/freedevtools/tldr/aws/aws-history/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-history/"
 description: "Control AWS CLI command history with AWS History. Display event details and list commands effortlessly. Free online tool, no registration required."
 category: common

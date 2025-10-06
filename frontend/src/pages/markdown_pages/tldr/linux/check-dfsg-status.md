@@ -1,7 +1,7 @@
 ---
 title: "Check Debian Packages - Identify Non-Free Software | Online Free DevTools by Hexmos"
 name: check-dfsg-status
-path: /freedevtools/tldr/linux/check-dfsg-status
+path: "/freedevtools/tldr/linux/check-dfsg-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/check-dfsg-status/"
 description: "Identify non-free Debian packages with check-dfsg-status.  This command quickly lists non-free and contrib packages installed on your system. Free online tool, no registration required."
 category: linux

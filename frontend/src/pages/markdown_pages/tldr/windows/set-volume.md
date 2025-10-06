@@ -1,7 +1,7 @@
 ---
 title: "Set-Volume - Change Volume Labels | Online Free DevTools by Hexmos"
 name: set-volume
-path: /freedevtools/tldr/windows/set-volume
+path: "/freedevtools/tldr/windows/set-volume/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/set-volume/"
 description: "Change volume labels with Set-Volume. Modify file system properties and data deduplication modes on Windows volumes. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Trace-cmd - Control Linux Kernel Tracing | Online Free DevTools by Hexmos"
 name: trace-cmd
-path: /freedevtools/tldr/linux/trace-cmd
+path: "/freedevtools/tldr/linux/trace-cmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trace-cmd/"
 description: "Control Linux kernel tracing with trace-cmd. Analyze system performance and debug kernel issues with ease. Free online tool, no registration required."
 category: linux

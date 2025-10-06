@@ -1,7 +1,7 @@
 ---
 title: "Where Command - Find Command Instances | Online Free DevTools by Hexmos"
 name: where
-path: /freedevtools/tldr/common/where
+path: "/freedevtools/tldr/common/where/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/where/"
 description: "Find command instances with Where command. Locate executables, aliases, and builtins within your system. Free online tool, no registration required."
 category: common

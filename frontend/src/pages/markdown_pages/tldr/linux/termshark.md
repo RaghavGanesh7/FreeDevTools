@@ -1,7 +1,7 @@
 ---
 title: "Control Network Traffic - Termshark Packet Analysis | Online Free DevTools by Hexmos"
 name: termshark
-path: /freedevtools/tldr/linux/termshark
+path: "/freedevtools/tldr/linux/termshark/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/termshark/"
 description: "Control network traffic instantly with Termshark, a terminal-based network analyzer. Capture packets, filter protocols, and inspect connections. Free online tool, no registration required."
 category: linux

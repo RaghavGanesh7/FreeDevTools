@@ -1,7 +1,7 @@
 ---
 title: "Generate Translation Files - msginit | Online Free DevTools by Hexmos"
 name: msginit
-path: /freedevtools/tldr/common/msginit
+path: "/freedevtools/tldr/common/msginit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msginit/"
 description: "Generate translation files with msginit. Create language-specific PO files from POT templates easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PNPM Outdated - Check Package Updates | Online Free DevTools by Hexmos"
 name: pnpm-outdated
-path: /freedevtools/tldr/pnpm/pnpm-outdated
+path: "/freedevtools/tldr/pnpm/pnpm-outdated/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnpm/pnpm-outdated/"
 description: "Check PNPM package updates with PNPM Outdated. Identify and manage outdated dependencies in your project. Free online tool, no registration required."
 category: common

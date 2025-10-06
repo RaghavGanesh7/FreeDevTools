@@ -1,7 +1,7 @@
 ---
 title: "LDAP Dump - Extract Domain Info | Online Free DevTools by Hexmos"
 name: ldapdomaindump
-path: /freedevtools/tldr/linux/ldapdomaindump
+path: "/freedevtools/tldr/linux/ldapdomaindump/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ldapdomaindump/"
 description: "Extract LDAP domain information with ldapdomaindump. Gather users, computers, groups, and OS details for security audits and network analysis. Free online tool, no registration required."
 category: linux

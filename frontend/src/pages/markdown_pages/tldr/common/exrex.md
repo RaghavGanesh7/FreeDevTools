@@ -1,7 +1,7 @@
 ---
 title: "Generate Regex Strings - Exrex | Online Free DevTools by Hexmos"
 name: exrex
-path: /freedevtools/tldr/common/exrex
+path: "/freedevtools/tldr/common/exrex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exrex/"
 description: "Generate regular expression strings with Exrex. Create random regex patterns, simplify complex expressions, and count matching string combinations. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Ports - Update Ports Tree on CRUX Systems | Online Free DevTools by Hexmos"
 name: ports
-path: /freedevtools/tldr/linux/ports
+path: "/freedevtools/tldr/linux/ports/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ports/"
 description: "Update ports tree on CRUX systems with Ports. Manage package installations and dependencies with ease. Free online tool, no registration required."
 category: linux

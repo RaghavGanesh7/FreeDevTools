@@ -1,7 +1,7 @@
 ---
 title: "Create Documentation - Build Websites with MkDocs | Online Free DevTools by Hexmos"
 name: mkdocs
-path: /freedevtools/tldr/common/mkdocs
+path: "/freedevtools/tldr/common/mkdocs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mkdocs/"
 description: "Create static websites with MkDocs using Markdown. Build project documentation quickly and easily. Free online tool, no registration required."
 category: common

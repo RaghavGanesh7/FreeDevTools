@@ -1,7 +1,7 @@
 ---
 title: "Tracert - Trace Network Route | Online Free DevTools by Hexmos"
 name: tracert
-path: /freedevtools/tldr/windows/tracert
+path: "/freedevtools/tldr/windows/tracert/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/tracert/"
 description: "Trace a network route with Tracert. Diagnose network connectivity issues and identify bottlenecks with this Windows command line utility. Free online tool, no registration required."
 category: windows

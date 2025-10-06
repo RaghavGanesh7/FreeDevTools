@@ -1,7 +1,7 @@
 ---
 title: "ID3 Tag Editor - Manipulate MP3 Tags | Online Free DevTools by Hexmos"
 name: id3tag
-path: /freedevtools/tldr/common/id3tag
+path: "/freedevtools/tldr/common/id3tag/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/id3tag/"
 description: "Manipulate MP3 tags with ID3 Tag Editor. Edit artist, song title, and album information for MP3 files. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Unopkg - Manage LibreOffice Extensions | Online Free DevTools by Hexmos"
 name: unopkg
-path: /freedevtools/tldr/linux/unopkg
+path: "/freedevtools/tldr/linux/unopkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unopkg/"
 description: "Manage LibreOffice extensions effectively with Unopkg. Add, remove, and list extensions for enhanced functionality. Free online tool, no registration required."
 category: linux

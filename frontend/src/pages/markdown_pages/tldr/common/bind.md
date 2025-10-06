@@ -1,7 +1,7 @@
 ---
 title: "Bash Bind - Control Command Hotkeys | Online Free DevTools by Hexmos"
 name: bind
-path: /freedevtools/tldr/common/bind
+path: "/freedevtools/tldr/common/bind/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bind/"
 description: "Control command hotkeys with Bash Bind. Customize keyboard shortcuts and manage bash variables efficiently. Free online tool, no registration required."
 category: common

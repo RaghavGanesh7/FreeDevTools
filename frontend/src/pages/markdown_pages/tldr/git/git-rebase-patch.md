@@ -1,7 +1,7 @@
 ---
 title: "Rebase Patch - Find and Apply Patches with Git | Online Free DevTools by Hexmos"
 name: git-rebase-patch
-path: /freedevtools/tldr/git/git-rebase-patch
+path: "/freedevtools/tldr/git/git-rebase-patch/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-rebase-patch/"
 description: "Rebase patch files with Git using this command-line utility. Easily find the appropriate commit for your patch and apply it with rebase. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Podman Container Control - Manage Pods and Images | Online Free DevTools by Hexmos"
 name: podman
-path: /freedevtools/tldr/podman/podman
+path: "/freedevtools/tldr/podman/podman/"
 canonical: "https://hexmos.com/freedevtools/tldr/podman/podman/"
 description: "Control Podman containers easily with this tool. Manage pods, images, and containers efficiently on Linux systems with a Docker-compatible CLI. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Highlight Syntax - Format Code with Pygmentize | Online Free DevTools by Hexmos"
 name: pygmentize
-path: /freedevtools/tldr/common/pygmentize
+path: "/freedevtools/tldr/common/pygmentize/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pygmentize/"
 description: "Highlight syntax with Pygmentize. Format and colorize code snippets in various languages, directly from the command line. Free online tool, no registration required."
 category: common

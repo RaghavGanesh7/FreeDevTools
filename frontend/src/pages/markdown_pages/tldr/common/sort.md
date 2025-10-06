@@ -1,7 +1,7 @@
 ---
 title: "Sort File - Order Text Lines | Online Free DevTools by Hexmos"
 name: sort
-path: /freedevtools/tldr/common/sort
+path: "/freedevtools/tldr/common/sort/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sort/"
 description: "Order text lines with Sort File. Enhance data analysis and organization by sorting file content alphabetically or numerically. Free online tool, no registration required."
 category: common

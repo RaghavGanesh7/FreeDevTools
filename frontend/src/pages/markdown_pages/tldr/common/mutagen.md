@@ -1,7 +1,7 @@
 ---
 title: "Mutagen Sync - Create Real-time File Synchronization | Online Free DevTools by Hexmos"
 name: mutagen
-path: /freedevtools/tldr/common/mutagen
+path: "/freedevtools/tldr/common/mutagen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mutagen/"
 description: "Create real-time synchronization with Mutagen, a network forwarding tool. Achieve efficient development workflows by syncing files and forwarding network ports. Free online tool, no registration required."
 category: common

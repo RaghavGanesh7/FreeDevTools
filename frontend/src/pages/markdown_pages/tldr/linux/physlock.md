@@ -1,7 +1,7 @@
 ---
 title: "Physlock - Lock Consoles Securely | Online Free DevTools by Hexmos"
 name: physlock
-path: /freedevtools/tldr/linux/physlock
+path: "/freedevtools/tldr/linux/physlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/physlock/"
 description: "Lock Linux consoles securely with Physlock. Prevent unauthorized access and protect your system with advanced locking features. Free online tool, no registration required."
 category: linux

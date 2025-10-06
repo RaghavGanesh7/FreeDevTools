@@ -1,7 +1,7 @@
 ---
 title: "Isolate Applications - Control Network Traffic with Oniux | Online Free DevTools by Hexmos"
 name: oniux
-path: /freedevtools/tldr/linux/oniux
+path: "/freedevtools/tldr/linux/oniux/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/oniux/"
 description: "Isolate applications with Oniux. Torify any application and route traffic securely over the Tor network for enhanced privacy and security. Free online tool, no registration required."
 category: linux

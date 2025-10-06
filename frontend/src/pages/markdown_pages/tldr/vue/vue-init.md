@@ -1,7 +1,7 @@
 ---
 title: "Generate Vue Project - Initialize App Templates | Online Free DevTools by Hexmos"
 name: vue-init
-path: /freedevtools/tldr/vue/vue-init
+path: "/freedevtools/tldr/vue/vue-init/"
 canonical: "https://hexmos.com/freedevtools/tldr/vue/vue-init/"
 description: "Generate Vue project with vue-init. Quickly scaffold Vue.js applications using official templates. Streamline project setup with ease. Free online tool, no registration required."
 category: common

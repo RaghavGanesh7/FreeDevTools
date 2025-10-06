@@ -1,7 +1,7 @@
 ---
 title: "Control Rustup - Update and Uninstall | Online Free DevTools by Hexmos"
 name: rustup-self
-path: /freedevtools/tldr/rustup/rustup-self
+path: "/freedevtools/tldr/rustup/rustup-self/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-self/"
 description: "Control Rustup installations with Rustup Self. Update Rustup to the latest version or completely uninstall it using the command line. Free online tool, no registration required."
 category: common

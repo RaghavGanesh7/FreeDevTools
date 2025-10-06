@@ -1,7 +1,7 @@
 ---
 title: "Pacstall Package Manager - Control Ubuntu Packages | Online Free DevTools by Hexmos"
 name: pacstall
-path: /freedevtools/tldr/linux/pacstall
+path: "/freedevtools/tldr/linux/pacstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacstall/"
 description: "Control Ubuntu package management with Pacstall Package Manager. Install, remove, and update packages effortlessly on your Linux system. Free online tool, no registration required."
 category: linux

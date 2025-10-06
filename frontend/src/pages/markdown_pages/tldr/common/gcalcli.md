@@ -1,7 +1,7 @@
 ---
 title: "Calendar Control with gcalcli - Interact with Google Calendar | Online Free DevTools by Hexmos"
 name: gcalcli
-path: /freedevtools/tldr/common/gcalcli
+path: "/freedevtools/tldr/common/gcalcli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gcalcli/"
 description: "Control Google Calendar from the command line with gcalcli. Manage events, list schedules, and add quick events seamlessly. Free online tool, no registration required."
 category: common

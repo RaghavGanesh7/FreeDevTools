@@ -1,7 +1,7 @@
 ---
 title: "Search Files with Ag - Fast Code Search | Online Free DevTools by Hexmos"
 name: ag
-path: /freedevtools/tldr/common/ag
+path: "/freedevtools/tldr/common/ag/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ag/"
 description: "Search files quickly with Ag, the Silver Searcher. Find code efficiently across directories with advanced regex and filename pattern matching. Free online tool, no registration required."
 category: common

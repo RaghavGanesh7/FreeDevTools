@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Sites - Control Zola Builds | Online Free DevTools by Hexmos"
 name: zola
-path: /freedevtools/tldr/common/zola
+path: "/freedevtools/tldr/common/zola/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zola/"
 description: "Generate static websites with Zola. Control site builds, manage output directories and preview locally with this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PGM Normalizer - Format PGM Images | Online Free DevTools by Hexmos"
 name: pgmnorm
-path: /freedevtools/tldr/common/pgmnorm
+path: "/freedevtools/tldr/common/pgmnorm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmnorm/"
 description: "Format PGM images with PGM Normalizer. Optimize PGM image contrast and brightness for better visualization and processing. Free online tool, no registration required."
 category: common

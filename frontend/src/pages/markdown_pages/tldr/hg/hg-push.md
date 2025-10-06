@@ -1,7 +1,7 @@
 ---
 title: "HG Push - Send Mercurial Changesets | Online Free DevTools by Hexmos"
 name: hg-push
-path: /freedevtools/tldr/hg/hg-push
+path: "/freedevtools/tldr/hg/hg-push/"
 canonical: "https://hexmos.com/freedevtools/tldr/hg/hg-push/"
 description: "Push Mercurial changesets with HG Push. Transfer local commits to a remote repository, manage branches, and update bookmarks using command-line options. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert Raw to PPM - Create PPM Images | Online Free DevTools by Hexmos"
 name: rawtoppm
-path: "/freedevtools/tldr/common/rawtoppm"
+path: "/freedevtools/tldr/common/rawtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rawtoppm/"
 description: "Convert raw image data to PPM format with rawtoppm.  Create and manipulate images efficiently with this free online tool, no registration required."
 category: common

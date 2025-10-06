@@ -1,7 +1,7 @@
 ---
 title: "GHCup - Manage Haskell Toolchains | Online Free DevTools by Hexmos"
 name: ghcup
-path: /freedevtools/tldr/common/ghcup
+path: "/freedevtools/tldr/common/ghcup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ghcup/"
 description: "Manage Haskell toolchains effortlessly with GHCup. Install, update, and switch between GHC versions. Free online tool, no registration required."
 category: common

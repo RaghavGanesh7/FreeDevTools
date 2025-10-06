@@ -1,7 +1,7 @@
 ---
 title: "Unflatten Graphs - Improve Layout Aspect Ratio | Online Free DevTools by Hexmos"
 name: unflatten
-path: /freedevtools/tldr/common/unflatten
+path: "/freedevtools/tldr/common/unflatten/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unflatten/"
 description: "Improve directed graph layout with Unflatten. Adjust aspect ratio, refine graph visualization and enhance readability. Free online tool, no registration required."
 category: common

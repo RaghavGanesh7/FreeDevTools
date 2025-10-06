@@ -1,7 +1,7 @@
 ---
 title: "Sui Faucet - Get Sui Coins Instantly | Online Free DevTools by Hexmos"
 name: sui-client-faucet
-path: /freedevtools/tldr/sui/sui-client-faucet
+path: "/freedevtools/tldr/sui/sui-client-faucet/"
 canonical: "https://hexmos.com/freedevtools/tldr/sui/sui-client-faucet/"
 description: "Get Sui coins quickly with Sui Faucet. Request Sui coins from the faucet to test and develop applications. Free online tool, no registration required."
 category: common

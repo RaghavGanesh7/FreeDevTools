@@ -1,7 +1,7 @@
 ---
 title: "Convert Jupyter Notebooks - Jupytext | Online Free DevTools by Hexmos"
 name: jupytext
-path: "/freedevtools/tldr/common/jupytext"
+path: "/freedevtools/tldr/common/jupytext/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jupytext/"
 description: "Convert Jupyter notebooks to various formats with Jupytext. Sync notebooks, update cells, and preserve outputs. Free online tool, no registration required."
 category: common

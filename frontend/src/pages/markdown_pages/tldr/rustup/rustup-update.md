@@ -1,7 +1,7 @@
 ---
 title: "Rust Update - Manage Rust Toolchains | Online Free DevTools by Hexmos"
 name: rustup-update
-path: /freedevtools/tldr/rustup/rustup-update
+path: "/freedevtools/tldr/rustup/rustup-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-update/"
 description: "Update Rust toolchains and manage Rust installations with Rust Update. Easily keep your development environment current and stable. Free online tool, no registration required."
 category: common

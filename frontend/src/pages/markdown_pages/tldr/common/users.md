@@ -1,7 +1,7 @@
 ---
 title: "User List - Display Logged-In Users | Online Free DevTools by Hexmos"
 name: users
-path: /freedevtools/tldr/common/users
+path: "/freedevtools/tldr/common/users/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/users/"
 description: "Display users logged into the system with the Users command. Check current user sessions and improve system monitoring. Free online tool, no registration required."
 category: common

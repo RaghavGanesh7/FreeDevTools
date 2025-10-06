@@ -1,7 +1,7 @@
 ---
 title: "Taskkill - Terminate Processes by ID or Name | Online Free DevTools by Hexmos"
 name: taskkill
-path: /freedevtools/tldr/windows/taskkill
+path: "/freedevtools/tldr/windows/taskkill/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/taskkill/"
 description: "Terminate processes easily with Taskkill. Forcefully end unresponsive applications and manage processes by name or ID on Windows. Free online tool, no registration required."
 category: windows

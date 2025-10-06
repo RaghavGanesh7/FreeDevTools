@@ -1,7 +1,7 @@
 ---
 title: "Logger - Generate System Log Messages with Glogger | Online Free DevTools by Hexmos"
 name: glogger
-path: /freedevtools/tldr/osx/glogger
+path: "/freedevtools/tldr/osx/glogger/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/glogger/"
 description: "Generate system log messages with Glogger, a command-line interface for event logging. Efficiently record events and debug applications on macOS. Free online tool, no registration required."
 category: osx

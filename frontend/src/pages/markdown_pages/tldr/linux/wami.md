@@ -1,7 +1,7 @@
 ---
 title: "Tool Recommender - Find Programs for Tasks | Online Free DevTools by Hexmos"
 name: wami
-path: /freedevtools/tldr/linux/wami
+path: "/freedevtools/tldr/linux/wami/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wami/"
 description: "Recommend software solutions with Tool Recommender. Discover optimal programs for any task and improve your workflow. Free online tool, no registration required."
 category: linux

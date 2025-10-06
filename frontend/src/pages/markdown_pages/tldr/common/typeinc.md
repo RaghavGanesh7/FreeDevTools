@@ -1,7 +1,7 @@
 ---
 title: "Type Speed Test - Improve Typing Speed | Online Free DevTools by Hexmos"
 name: typeinc
-path: /freedevtools/tldr/common/typeinc
+path: "/freedevtools/tldr/common/typeinc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/typeinc/"
 description: "Improve your typing speed with Typeinc, an ncurses based terminal typing speed test. Enhance accuracy and speed across difficulty levels. Free online tool, no registration required."
 category: common

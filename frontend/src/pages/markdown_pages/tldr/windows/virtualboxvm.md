@@ -1,7 +1,7 @@
 ---
 title: "VirtualBoxVM - Control Virtual Machines | Online Free DevTools by Hexmos"
 name: virtualboxvm
-path: /freedevtools/tldr/windows/virtualboxvm
+path: "/freedevtools/tldr/windows/virtualboxvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/virtualboxvm/"
 description: "Control VirtualBox virtual machines with VirtualBoxVM. Start, pause, and debug VMs, and mount ISO images using the command line. Free online tool, no registration required."
 category: windows

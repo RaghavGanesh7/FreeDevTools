@@ -1,7 +1,7 @@
 ---
 title: "List Printers - Manage CUPS Printers | Online Free DevTools by Hexmos"
 name: lpinfo
-path: /freedevtools/tldr/common/lpinfo
+path: "/freedevtools/tldr/common/lpinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lpinfo/"
 description: "Manage CUPS printers with lpinfo. Discover connected printers and available drivers. Find printer information quickly. Free online tool, no registration required."
 category: common

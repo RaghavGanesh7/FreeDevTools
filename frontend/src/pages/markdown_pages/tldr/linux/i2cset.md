@@ -1,7 +1,7 @@
 ---
 title: "I2cset - Control I2C Devices | Online Free DevTools by Hexmos"
 name: i2cset
-path: /freedevtools/tldr/linux/i2cset
+path: "/freedevtools/tldr/linux/i2cset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/i2cset/"
 description: "Control I2C devices with i2cset. Easily set register values on I2C devices from the command line. Free online tool, no registration required."
 category: linux

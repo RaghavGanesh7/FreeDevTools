@@ -1,7 +1,7 @@
 ---
 title: "Display CPU Cores - Control Processor Count | Online Free DevTools by Hexmos"
 name: nproc
-path: /freedevtools/tldr/common/nproc
+path: "/freedevtools/tldr/common/nproc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nproc/"
 description: "Display CPU core count with nproc. Determine available processors and control processor usage on Linux/macOS systems. Free online tool, no registration required."
 category: common

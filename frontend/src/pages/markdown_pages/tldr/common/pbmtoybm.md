@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to YBM - Format Image Files | Online Free DevTools by Hexmos"
 name: pbmtoybm
-path: /freedevtools/tldr/common/pbmtoybm
+path: "/freedevtools/tldr/common/pbmtoybm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoybm/"
 description: "Convert PBM image files to YBM format with pbmtoybm. Easily transform portable bitmap images into Bennet Yee face files. Free online tool, no registration required."
 category: common

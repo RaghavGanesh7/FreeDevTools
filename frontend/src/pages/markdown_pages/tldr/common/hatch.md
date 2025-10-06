@@ -1,7 +1,7 @@
 ---
 title: "Create Hatch Projects - Manage Python Projects | Online Free DevTools by Hexmos"
 name: hatch
-path: /freedevtools/tldr/common/hatch
+path: "/freedevtools/tldr/common/hatch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hatch/"
 description: "Create Python projects easily with Hatch. Manage dependencies, build artifacts, and environments for efficient Python development. Free online tool, no registration required."
 category: common

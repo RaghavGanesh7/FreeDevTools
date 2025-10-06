@@ -1,7 +1,7 @@
 ---
 title: "WPA Supplicant - Manage Wireless Networks | Online Free DevTools by Hexmos"
 name: wpa_supplicant
-path: /freedevtools/tldr/common/wpa_supplicant
+path: "/freedevtools/tldr/common/wpa_supplicant/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wpa_supplicant/"
 description: "Manage wireless networks with WPA Supplicant. Securely join protected Wi-Fi networks and configure network settings. Free online tool, no registration required."
 category: common

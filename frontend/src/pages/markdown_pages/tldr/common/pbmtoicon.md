@@ -1,7 +1,7 @@
 ---
 title: "PBM to Icon - Convert PBM Images | Online Free DevTools by Hexmos"
 name: pbmtoicon
-path: /freedevtools/tldr/common/pbmtoicon
+path: "/freedevtools/tldr/common/pbmtoicon/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoicon/"
 description: "Convert PBM images with PBM to Icon converter. Create icons from PBM files, enabling seamless integration with various platforms. Free online tool, no registration required."
 category: common

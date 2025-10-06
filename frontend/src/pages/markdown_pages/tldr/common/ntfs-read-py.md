@@ -1,7 +1,7 @@
 ---
 title: "Read NTFS Files - Explore NTFS Volumes | Online Free DevTools by Hexmos"
 name: ntfs-read.py
-path: /freedevtools/tldr/common/ntfs-read-py
+path: "/freedevtools/tldr/common/ntfs-read-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/ntfs-read-py/"
 description: "Read NTFS files easily with ntfs-read.py. Explore NTFS volumes and extract specific files. Access Windows partitions on other operating systems. Free online tool, no registration required."
 category: common

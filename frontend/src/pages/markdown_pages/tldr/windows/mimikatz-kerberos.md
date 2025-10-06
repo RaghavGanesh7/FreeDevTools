@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Kerberos - Control Tickets | Online Free DevTools by Hexmos"
 name: mimikatz-kerberos
-path: /freedevtools/tldr/windows/mimikatz-kerberos
+path: "/freedevtools/tldr/windows/mimikatz-kerberos/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-kerberos/"
 description: "Control Kerberos tickets instantly with Mimikatz. Purge, list, and inject tickets from files for authentication testing. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "AppArmor Teardown - Disable AppArmor Profiles | Online Free DevTools by Hexmos"
 name: aa-teardown
-path: /freedevtools/tldr/linux/aa-teardown
+path: "/freedevtools/tldr/linux/aa-teardown/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-teardown/"
 description: "Disable AppArmor profiles with aa-teardown. This Linux command provides system-level AppArmor control, instantly stopping enforcement. Free online tool, no registration required."
 category: linux

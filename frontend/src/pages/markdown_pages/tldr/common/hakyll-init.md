@@ -1,7 +1,7 @@
 ---
 title: "Generate Hakyll Blog - Initialize Projects | Online Free DevTools by Hexmos"
 name: hakyll-init
-path: /freedevtools/tldr/common/hakyll-init
+path: "/freedevtools/tldr/common/hakyll-init/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hakyll-init/"
 description: "Generate Hakyll projects quickly with hakyll-init. Scaffold new blog structures and initialize pre-configured Hakyll websites. Free online tool, no registration required."
 category: common

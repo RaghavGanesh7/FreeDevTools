@@ -1,7 +1,7 @@
 ---
 title: "Git Cat-File - Inspect Git Object Content | Online Free DevTools by Hexmos"
 name: git-cat-file
-path: /freedevtools/tldr/git/git-cat-file
+path: "/freedevtools/tldr/git/git-cat-file/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-cat-file/"
 description: "Inspect Git object content with Git Cat-File. Retrieve object size, type, and content. Free online tool, no registration required."
 category: common

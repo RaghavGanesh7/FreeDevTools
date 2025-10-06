@@ -1,7 +1,7 @@
 ---
 title: "Gcrane - Generate Shell Autocompletion | Online Free DevTools by Hexmos"
 name: gcrane-completion
-path: /freedevtools/tldr/windows/gcrane-completion
+path: "/freedevtools/tldr/windows/gcrane-completion/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/gcrane-completion/"
 description: "Generate shell autocompletions with Gcrane. Streamline command-line workflows by enabling tab completion for bash, zsh, powershell & fish. Free online tool, no registration required."
 category: windows

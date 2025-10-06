@@ -1,7 +1,7 @@
 ---
 title: "Convert LaTeX to HTML - GladTeX Image Generator | Online Free DevTools by Hexmos"
 name: gladtex
-path: /freedevtools/tldr/common/gladtex
+path: "/freedevtools/tldr/common/gladtex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gladtex/"
 description: "Convert LaTeX formulas into HTML-compatible images with GladTeX. Easily integrate mathematical expressions into your web projects. Free online tool, no registration required."
 category: common

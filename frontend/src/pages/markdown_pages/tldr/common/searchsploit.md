@@ -1,7 +1,7 @@
 ---
 title: "Searchsploit - Find Exploits & Vulnerabilities | Online Free DevTools by Hexmos"
 name: searchsploit
-path: /freedevtools/tldr/common/searchsploit
+path: "/freedevtools/tldr/common/searchsploit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/searchsploit/"
 description: "Find exploits and vulnerabilities with Searchsploit. Discover shellcodes, papers, and CVE details effortlessly using this powerful command-line tool. Free online tool, no registration required."
 category: common

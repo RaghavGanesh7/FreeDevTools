@@ -1,7 +1,7 @@
 ---
 title: "Run Debian Package Tests with autopkgtest | Online Free DevTools by Hexmos"
 name: autopkgtest
-path: /freedevtools/tldr/linux/autopkgtest
+path: "/freedevtools/tldr/linux/autopkgtest/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/autopkgtest/"
 description: "Run tests on Debian packages with autopkgtest.  Automate testing, manage different test scenarios, and improve software quality. Free online tool, no registration required."
 category: linux

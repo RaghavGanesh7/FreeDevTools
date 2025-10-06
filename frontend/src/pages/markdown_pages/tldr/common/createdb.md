@@ -1,7 +1,7 @@
 ---
 title: "Create PostgreSQL Database - Create DB with createdb | Online Free DevTools by Hexmos"
 name: createdb
-path: /freedevtools/tldr/common/createdb
+path: "/freedevtools/tldr/common/createdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/createdb/"
 description: "Create PostgreSQL database effortlessly with createdb. Manage database ownership, templates, and descriptions with ease. Free online tool, no registration required."
 category: common

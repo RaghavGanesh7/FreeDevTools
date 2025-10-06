@@ -1,7 +1,7 @@
 ---
 title: "Generate Lexical Analyzers with Flex | Online Free DevTools by Hexmos"
 name: flex
-path: /freedevtools/tldr/linux/flex
+path: "/freedevtools/tldr/linux/flex/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flex/"
 description: "Generate C code for lexical analyzers with Flex.  This powerful tool simplifies the creation of scanners from Lex files. Free online tool, no registration required."
 category: linux

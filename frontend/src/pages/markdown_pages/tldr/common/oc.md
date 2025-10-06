@@ -1,7 +1,7 @@
 ---
 title: "OpenShift CLI - Manage Containers | Online Free DevTools by Hexmos"
 name: oc
-path: /freedevtools/tldr/common/oc
+path: "/freedevtools/tldr/common/oc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/oc/"
 description: "Manage containers with OpenShift CLI. Deploy applications, control pods, and manage projects from the command line. Free online tool, no registration required."
 category: common

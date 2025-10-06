@@ -1,7 +1,7 @@
 ---
 title: "Download MEGA Files - Control Downloads with megadl | Online Free DevTools by Hexmos"
 name: megadl
-path: /freedevtools/tldr/linux/megadl
+path: "/freedevtools/tldr/linux/megadl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/megadl/"
 description: "Control MEGA file downloads instantly with megadl. Manage downloads, pause, resume, and limit bandwidth using the command line. Free online tool, no registration required."
 category: linux

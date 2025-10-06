@@ -1,7 +1,7 @@
 ---
 title: "Directory Lister - Control Directories with gdir | Online Free DevTools by Hexmos"
 name: gdir
-path: /freedevtools/tldr/osx/gdir
+path: "/freedevtools/tldr/osx/gdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gdir/"
 description: "Control directory listings with gdir, an alias of the GNU dir command. View directory contents on MacOS with this command line tool. Free online tool, no registration required."
 category: osx

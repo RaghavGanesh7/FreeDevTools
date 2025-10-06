@@ -1,7 +1,7 @@
 ---
 title: "UV Cache - Manage Package Cache | Online Free DevTools by Hexmos"
 name: uv-cache
-path: /freedevtools/tldr/uv/uv-cache
+path: "/freedevtools/tldr/uv/uv-cache/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-cache/"
 description: "Manage package cache with uv-cache. Clean, prune, and control your uv package cache directory. Free online tool, no registration required."
 category: common

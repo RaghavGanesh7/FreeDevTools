@@ -1,7 +1,7 @@
 ---
 title: "Create Mask Bitmap - PBM Mask Generator | Online Free DevTools by Hexmos"
 name: pbmmask
-path: /freedevtools/tldr/common/pbmmask
+path: "/freedevtools/tldr/common/pbmmask/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmmask/"
 description: "Create mask bitmap images with PBM Mask. Easily separate foreground and background from PBM files. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PHP Version Manager - Control PHP Environments | Online Free DevTools by Hexmos"
 name: phpenv
-path: /freedevtools/tldr/php/phpenv
+path: "/freedevtools/tldr/php/phpenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phpenv/"
 description: "Manage PHP versions effectively with phpenv. Install, switch, and isolate PHP environments for diverse projects. Free online tool, no registration required."
 category: common

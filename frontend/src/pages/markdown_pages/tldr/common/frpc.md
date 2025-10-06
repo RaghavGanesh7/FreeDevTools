@@ -1,7 +1,7 @@
 ---
 title: "Frpc - Proxy Connections Securely | Online Free DevTools by Hexmos"
 name: frpc
-path: "/freedevtools/tldr/common/frpc"
+path: "/freedevtools/tldr/common/frpc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/frpc/"
 description: "Proxy connections securely with Frpc, enabling remote access and port forwarding through Frps. Free online tool, no registration required."
 category: common

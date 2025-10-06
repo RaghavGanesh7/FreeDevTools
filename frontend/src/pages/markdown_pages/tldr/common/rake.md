@@ -1,7 +1,7 @@
 ---
 title: "Rake Task Runner - Execute Ruby Tasks | Online Free DevTools by Hexmos"
 name: rake
-path: /freedevtools/tldr/common/rake
+path: "/freedevtools/tldr/common/rake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rake/"
 description: "Execute Ruby tasks effortlessly with Rake Task Runner. Streamline build processes and automate development tasks using Rakefile configurations. Free online tool, no registration required."
 category: common

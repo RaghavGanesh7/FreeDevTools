@@ -1,7 +1,7 @@
 ---
 title: "Merge Branch - Merge Code Branches with Git Merge-Into | Online Free DevTools by Hexmos"
 name: git-merge-into
-path: /freedevtools/tldr/git/git-merge-into
+path: "/freedevtools/tldr/git/git-merge-into/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-merge-into/"
 description: "Merge code branches seamlessly with Git Merge-Into. Integrate changes from one branch into another using command line. Free online tool, no registration required."
 category: common

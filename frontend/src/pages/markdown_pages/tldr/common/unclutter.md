@@ -1,7 +1,7 @@
 ---
 title: "Unclutter - Hide Mouse Cursor | Online Free DevTools by Hexmos"
 name: unclutter
-path: /freedevtools/tldr/common/unclutter
+path: "/freedevtools/tldr/common/unclutter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unclutter/"
 description: "Hide mouse cursor automatically with Unclutter. Eliminate screen clutter and improve focus on Linux and other platforms. Free online tool, no registration required."
 category: common

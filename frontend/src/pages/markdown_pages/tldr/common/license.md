@@ -1,7 +1,7 @@
 ---
 title: "Generate Open-Source Licenses | Online Free DevTools by Hexmos"
 name: license
-path: /freedevtools/tldr/common/license
+path: "/freedevtools/tldr/common/license/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/license/"
 description: "Generate open-source licenses quickly with License. Customize author and year for legal compliance. Free online tool, no registration required."
 category: common

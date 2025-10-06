@@ -1,7 +1,7 @@
 ---
 title: "Reverse Text - Reverse Files on OSX | Online Free DevTools by Hexmos"
 name: gtac
-path: /freedevtools/tldr/osx/gtac
+path: "/freedevtools/tldr/osx/gtac/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtac/"
 description: "Reverse text order with gtac on OSX. Invert lines and manipulate file content effortlessly. Free online tool, no registration required."
 category: osx

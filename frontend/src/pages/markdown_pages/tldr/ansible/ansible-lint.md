@@ -1,7 +1,7 @@
 ---
 title: "Ansible Lint - Validate Playbooks | Online Free DevTools by Hexmos"
 name: ansible-lint
-path: /freedevtools/tldr/ansible/ansible-lint
+path: "/freedevtools/tldr/ansible/ansible-lint/"
 canonical: "https://hexmos.com/freedevtools/tldr/ansible/ansible-lint/"
 description: "Validate Ansible playbooks with Ansible Lint. Find errors, enforce best practices, and improve automation workflows. Free online tool, no registration required."
 category: common

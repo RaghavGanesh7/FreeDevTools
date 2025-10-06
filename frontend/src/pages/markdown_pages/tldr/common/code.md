@@ -1,7 +1,7 @@
 ---
 title: "Code Editor - Edit Code Files Cross-Platform | Online Free DevTools by Hexmos"
 name: code
-path: /freedevtools/tldr/common/code
+path: "/freedevtools/tldr/common/code/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/code/"
 description: "Edit code files with Code Editor, a versatile and extensible cross-platform IDE.  Open, compare, and manage files effortlessly. Free online tool, no registration required."
 category: common

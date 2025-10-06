@@ -1,7 +1,7 @@
 ---
 title: "PlatformIO Account - Manage Accounts | Online Free DevTools by Hexmos"
 name: pio-account
-path: /freedevtools/tldr/pio/pio-account
+path: "/freedevtools/tldr/pio/pio-account/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-account/"
 description: "Manage PlatformIO accounts with pio-account. Securely register, login, update profiles, and reset passwords. Free online tool, no registration required."
 category: common

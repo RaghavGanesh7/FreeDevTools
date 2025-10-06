@@ -1,7 +1,7 @@
 ---
 title: "Qt Version Control - Manage Qt Versions | Online Free DevTools by Hexmos"
 name: qtchooser
-path: /freedevtools/tldr/linux/qtchooser
+path: "/freedevtools/tldr/linux/qtchooser/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qtchooser/"
 description: "Control Qt versions with Qtchooser. Manage multiple Qt installations and select the active version for development. Free online tool, no registration required."
 category: linux

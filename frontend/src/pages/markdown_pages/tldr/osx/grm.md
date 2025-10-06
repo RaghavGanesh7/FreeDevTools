@@ -1,7 +1,7 @@
 ---
 title: "RM Command - Delete Files on macOS | Online Free DevTools by Hexmos"
 name: grm
-path: /freedevtools/tldr/osx/grm
+path: "/freedevtools/tldr/osx/grm/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/grm/"
 description: "Delete files with RM command on macOS using GNU rm alias. Quickly and safely remove files and directories from your terminal. Free online tool, no registration required."
 category: osx

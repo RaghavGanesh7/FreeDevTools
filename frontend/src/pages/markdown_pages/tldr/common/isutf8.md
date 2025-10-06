@@ -1,7 +1,7 @@
 ---
 title: "Validate UTF-8 - Check File Encoding | Online Free DevTools by Hexmos"
 name: isutf8
-path: /freedevtools/tldr/common/isutf8
+path: "/freedevtools/tldr/common/isutf8/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/isutf8/"
 description: "Validate UTF-8 encoding with isutf8. Check file encoding and identify invalid UTF-8 characters. Free online tool, no registration required."
 category: common

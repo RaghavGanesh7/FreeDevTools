@@ -1,7 +1,7 @@
 ---
 title: "Control Tetris Game - Play Yetris in Terminal | Online Free DevTools by Hexmos"
 name: yetris
-path: /freedevtools/tldr/linux/yetris
+path: "/freedevtools/tldr/linux/yetris/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/yetris/"
 description: "Control your Tetris game with Yetris, a terminal-based Tetris clone. Enjoy classic gameplay and keyboard controls. Free online tool, no registration required."
 category: linux

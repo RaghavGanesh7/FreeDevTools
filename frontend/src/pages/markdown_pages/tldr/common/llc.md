@@ -1,7 +1,7 @@
 ---
 title: "Compile LLVM Code - Generate Assembly | Online Free DevTools by Hexmos"
 name: llc
-path: /freedevtools/tldr/common/llc
+path: "/freedevtools/tldr/common/llc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/llc/"
 description: "Compile LLVM Intermediate Representation with llc. Generate optimized assembly code for various target architectures with ease. Free online tool, no registration required."
 category: common

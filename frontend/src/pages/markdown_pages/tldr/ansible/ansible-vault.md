@@ -1,7 +1,7 @@
 ---
 title: "Ansible Vault - Encrypt and Decrypt Files | Online Free DevTools by Hexmos"
 name: ansible-vault
-path: /freedevtools/tldr/ansible/ansible-vault
+path: "/freedevtools/tldr/ansible/ansible-vault/"
 canonical: "https://hexmos.com/freedevtools/tldr/ansible/ansible-vault/"
 description: "Encrypt and decrypt Ansible files easily with Ansible Vault. Secure sensitive data within your automation projects. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create Swift Projects - Build & Run Code | Online Free DevTools by Hexmos"
 name: swift
-path: "/freedevtools/tldr/common/swift"
+path: "/freedevtools/tldr/common/swift/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swift/"
 description: "Create Swift projects instantly with Swift. Build, run and manage your Swift code efficiently. Free online tool, no registration required."
 category: common

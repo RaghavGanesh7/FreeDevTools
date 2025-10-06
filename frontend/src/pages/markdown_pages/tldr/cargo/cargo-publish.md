@@ -1,7 +1,7 @@
 ---
 title: "Cargo Publish - Upload Rust Packages | Online Free DevTools by Hexmos"
 name: cargo-publish
-path: /freedevtools/tldr/cargo/cargo-publish
+path: "/freedevtools/tldr/cargo/cargo-publish/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-publish/"
 description: "Publish Rust packages with Cargo Publish. Upload your crate to a registry and share your code. Free online tool, no registration required."
 category: common

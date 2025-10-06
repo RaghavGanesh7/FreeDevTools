@@ -1,7 +1,7 @@
 ---
 title: "Create k3d Clusters - Manage k3s Docker | Online Free DevTools by Hexmos"
 name: k3d
-path: /freedevtools/tldr/common/k3d
+path: "/freedevtools/tldr/common/k3d/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/k3d/"
 description: "Create k3d clusters easily with k3d. Deploy lightweight Kubernetes distributions inside Docker containers. Free online tool, no registration required."
 category: common

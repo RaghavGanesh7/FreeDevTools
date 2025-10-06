@@ -1,7 +1,7 @@
 ---
 title: "Warmd - Control Startup Caches | Online Free DevTools by Hexmos"
 name: warmd
-path: /freedevtools/tldr/osx/warmd
+path: "/freedevtools/tldr/osx/warmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/warmd/"
 description: "Control startup caches with Warmd. Manage and optimize caches used during system startup and login on macOS. Free online tool, no registration required."
 category: osx

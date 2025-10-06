@@ -1,7 +1,7 @@
 ---
 title: "Manage GitHub Extensions - Enhance CLI Functionality | Online Free DevTools by Hexmos"
 name: gh-extension
-path: /freedevtools/tldr/gh/gh-extension
+path: "/freedevtools/tldr/gh/gh-extension/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-extension/"
 description: "Manage GitHub CLI extensions efficiently with gh-extension. Install, list, upgrade, and remove extensions to customize your GitHub workflow. Free online tool, no registration required."
 category: common

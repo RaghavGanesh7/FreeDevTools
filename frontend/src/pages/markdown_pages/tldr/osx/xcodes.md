@@ -1,7 +1,7 @@
 ---
 title: "Xcode Manager - Control Xcode Versions | Online Free DevTools by Hexmos"
 name: xcodes
-path: /freedevtools/tldr/osx/xcodes
+path: "/freedevtools/tldr/osx/xcodes/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xcodes/"
 description: "Control Xcode versions with Xcode Manager. Download, install, and select specific Xcode versions for macOS development. Free online tool, no registration required."
 category: osx

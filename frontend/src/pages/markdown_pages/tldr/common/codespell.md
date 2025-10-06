@@ -1,7 +1,7 @@
 ---
 title: "Codespell - Spell Check Code | Online Free DevTools by Hexmos"
 name: codespell
-path: /freedevtools/tldr/common/codespell
+path: "/freedevtools/tldr/common/codespell/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/codespell/"
 description: "Spell check code with Codespell. Find and correct typos in source code to improve code quality and readability. Free online tool, no registration required."
 category: common

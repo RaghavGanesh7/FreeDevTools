@@ -1,7 +1,7 @@
 ---
 title: "RabbitMQ Cluster - Control Nodes | Online Free DevTools by Hexmos"
 name: rabbitmqctl-cluster
-path: /freedevtools/tldr/rabbitmqctl/rabbitmqctl-cluster
+path: "/freedevtools/tldr/rabbitmqctl/rabbitmqctl-cluster/"
 canonical: "https://hexmos.com/freedevtools/tldr/rabbitmqctl/rabbitmqctl-cluster/"
 description: "Control RabbitMQ nodes easily with RabbitMQ Cluster command. Manage cluster status and node operations efficiently. Free online tool, no registration required."
 category: common

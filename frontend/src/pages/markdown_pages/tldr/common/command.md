@@ -1,7 +1,7 @@
 ---
 title: "Command Execution - Control Shell Commands | Online Free DevTools by Hexmos"
 name: command
-path: /freedevtools/tldr/common/command
+path: "/freedevtools/tldr/common/command/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/command/"
 description: "Control shell command execution with Command. Bypass functions and aliases, guaranteeing precise program execution. Free online tool, no registration required."
 category: common

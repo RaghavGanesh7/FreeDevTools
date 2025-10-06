@@ -1,7 +1,7 @@
 ---
 title: "LPSTAT Printer Status - Show Printer Info | Online Free DevTools by Hexmos"
 name: lpstat
-path: /freedevtools/tldr/common/lpstat
+path: "/freedevtools/tldr/common/lpstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lpstat/"
 description: "Show printer status with LPSTAT. Check printer availability, default printers, and queued print jobs on Linux. Free online tool, no registration required."
 category: common

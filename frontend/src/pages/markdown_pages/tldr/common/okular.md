@@ -1,7 +1,7 @@
 ---
 title: "View Documents - Control Documents with Okular | Online Free DevTools by Hexmos"
 name: okular
-path: /freedevtools/tldr/common/okular
+path: "/freedevtools/tldr/common/okular/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/okular/"
 description: "View documents instantly with Okular. Open, print, and search documents on the command line. Supports multiple file formats. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Java Versions - jenv | Online Free DevTools by Hexmos"
 name: jenv
-path: /freedevtools/tldr/common/jenv
+path: "/freedevtools/tldr/common/jenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jenv/"
 description: "Manage Java versions with jenv, a command-line tool to control the JAVA_HOME environment variable. Simplify Java development workflow. Free online tool, no registration required."
 category: common

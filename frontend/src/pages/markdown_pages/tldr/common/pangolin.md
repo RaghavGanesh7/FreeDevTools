@@ -1,7 +1,7 @@
 ---
 title: "Analyze SARS-CoV-2 Lineages with Pangolin | Online Free DevTools by Hexmos"
 name: pangolin
-path: /freedevtools/tldr/common/pangolin
+path: "/freedevtools/tldr/common/pangolin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pangolin/"
 description: "Analyze SARS-CoV-2 lineages with Pangolin. Identify and classify viral sequences using dynamic nomenclature and analysis engines. Free online tool, no registration required."
 category: common

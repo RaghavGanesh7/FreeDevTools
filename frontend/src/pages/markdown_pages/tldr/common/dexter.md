@@ -1,7 +1,7 @@
 ---
 title: "Create Kubectl User - Authenticate with Dexter OIDC | Online Free DevTools by Hexmos"
 name: dexter
-path: /freedevtools/tldr/common/dexter
+path: "/freedevtools/tldr/common/dexter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dexter/"
 description: "Create Kubectl user with Dexter, authenticate with OpenID Connect. Manage your Kubernetes cluster easily with OIDC integration. Free online tool, no registration required."
 category: common

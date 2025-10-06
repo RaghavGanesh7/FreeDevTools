@@ -1,7 +1,7 @@
 ---
 title: "Helm - Manage Kubernetes Applications | Online Free DevTools by Hexmos"
 name: helm
-path: /freedevtools/tldr/common/helm
+path: "/freedevtools/tldr/common/helm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/helm/"
 description: "Manage Kubernetes deployments easily with Helm. Streamline application installation, upgrades, and rollbacks with this powerful package manager. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Process Status - Control Running Processes | Online Free DevTools by Hexmos"
 name: ps
-path: /freedevtools/tldr/osx/ps
+path: "/freedevtools/tldr/osx/ps/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ps/"
 description: "Control running processes with Process Status (ps). Monitor system resources, identify resource-intensive processes, and troubleshoot performance issues. Free online tool, no registration required."
 category: osx

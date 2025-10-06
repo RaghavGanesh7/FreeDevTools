@@ -1,7 +1,7 @@
 ---
 title: "Control Network Traffic with tc | Online Free DevTools by Hexmos"
 name: tc
-path: /freedevtools/tldr/linux/tc
+path: "/freedevtools/tldr/linux/tc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tc/"
 description: "Control and manipulate network traffic with the tc command.  Manage network delay, bandwidth, and packet loss. Free online tool, no registration required."
 category: linux

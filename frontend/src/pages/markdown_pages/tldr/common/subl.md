@@ -1,7 +1,7 @@
 ---
 title: "Sublime Text - Edit Files Quickly | Online Free DevTools by Hexmos"
 name: subl
-path: /freedevtools/tldr/common/subl
+path: "/freedevtools/tldr/common/subl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/subl/"
 description: "Edit files quickly with Sublime Text using command line. Open, navigate, and modify files with ease. Free online tool, no registration required."
 category: common

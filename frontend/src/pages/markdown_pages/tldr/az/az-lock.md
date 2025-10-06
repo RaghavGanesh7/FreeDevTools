@@ -1,7 +1,7 @@
 ---
 title: "Azure Lock - Manage Azure Locks | Online Free DevTools by Hexmos"
 name: az-lock
-path: /freedevtools/tldr/az/az-lock
+path: "/freedevtools/tldr/az/az-lock/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-lock/"
 description: "Manage Azure locks with az-lock. Secure your Azure resources with read-only locks and prevent accidental deletion. Free online tool, no registration required."
 category: common

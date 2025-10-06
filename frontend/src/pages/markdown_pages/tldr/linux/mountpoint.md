@@ -1,7 +1,7 @@
 ---
 title: "Mountpoint Checker - Validate Filesystem Mounts | Online Free DevTools by Hexmos"
 name: mountpoint
-path: /freedevtools/tldr/linux/mountpoint
+path: "/freedevtools/tldr/linux/mountpoint/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mountpoint/"
 description: "Validate filesystem mounts with Mountpoint Checker.  Quickly verify mount points and identify filesystem details. Free online tool, no registration required."
 category: linux

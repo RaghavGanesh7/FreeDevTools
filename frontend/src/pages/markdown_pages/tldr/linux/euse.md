@@ -1,7 +1,7 @@
 ---
 title: "euse - Manage Gentoo USE Flags | Online Free DevTools by Hexmos"
 name: euse
-path: /freedevtools/tldr/linux/euse
+path: "/freedevtools/tldr/linux/euse/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/euse/"
 description: "Manage Gentoo USE flags efficiently with euse. Enable, disable, and list global and local flags for customized package configurations. Free online tool, no registration required."
 category: linux

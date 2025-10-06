@@ -1,7 +1,7 @@
 ---
 title: "Mkinitcpio - Generate Linux Initramfs Images | Online Free DevTools by Hexmos"
 name: mkinitcpio
-path: /freedevtools/tldr/linux/mkinitcpio
+path: "/freedevtools/tldr/linux/mkinitcpio/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mkinitcpio/"
 description: "Generate Linux initramfs images with mkinitcpio. Create custom initial ramdisk environments for booting the Linux kernel. Free online tool, no registration required."
 category: linux

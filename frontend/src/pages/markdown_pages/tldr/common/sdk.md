@@ -1,7 +1,7 @@
 ---
 title: "SDK Manager - Manage Multiple SDK Versions | Online Free DevTools by Hexmos"
 name: sdk
-path: /freedevtools/tldr/common/sdk
+path: "/freedevtools/tldr/common/sdk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sdk/"
 description: "Manage SDK versions easily with SDK Manager. Install, use, upgrade, and uninstall multiple SDKs. Free online tool, no registration required."
 category: common

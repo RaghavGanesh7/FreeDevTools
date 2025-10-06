@@ -1,7 +1,7 @@
 ---
 title: "Chmod - Control File Permissions | Online Free DevTools by Hexmos"
 name: chmod
-path: /freedevtools/tldr/common/chmod
+path: "/freedevtools/tldr/common/chmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chmod/"
 description: "Control file permissions with Chmod. Secure your files and directories by managing access rights. Free online tool, no registration required."
 category: common

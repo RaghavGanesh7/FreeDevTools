@@ -1,7 +1,7 @@
 ---
 title: "Manage C/C++ Packages - Control Libraries with vcpkg | Online Free DevTools by Hexmos"
 name: vcpkg
-path: /freedevtools/tldr/common/vcpkg
+path: "/freedevtools/tldr/common/vcpkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vcpkg/"
 description: "Manage C/C++ packages instantly with vcpkg. Install libraries, search for packages, and configure CMake projects. Free online tool, no registration required."
 category: common

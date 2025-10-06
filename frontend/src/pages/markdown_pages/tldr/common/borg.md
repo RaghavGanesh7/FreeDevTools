@@ -1,7 +1,7 @@
 ---
 title: "Create Borg Backups - Deduplicate Data | Online Free DevTools by Hexmos"
 name: borg
-path: /freedevtools/tldr/common/borg
+path: "/freedevtools/tldr/common/borg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/borg/"
 description: "Create backups with Borg, a deduplicating backup tool. Securely store and manage your data with efficient compression and encryption. Free online tool, no registration required."
 category: common

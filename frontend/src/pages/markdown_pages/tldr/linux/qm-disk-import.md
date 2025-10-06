@@ -1,7 +1,7 @@
 ---
 title: "Disk Import - Create Virtual Machine Disks | Online Free DevTools by Hexmos"
 name: qm-disk-import
-path: /freedevtools/tldr/linux/qm-disk-import
+path: "/freedevtools/tldr/linux/qm-disk-import/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-disk-import/"
 description: "Create virtual machine disks with qm-disk-import. Import VMDK, qcow2, and raw images into Proxmox VMs. Free online tool, no registration required."
 category: linux

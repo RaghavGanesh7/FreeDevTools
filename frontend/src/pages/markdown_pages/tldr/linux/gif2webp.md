@@ -1,7 +1,7 @@
 ---
 title: "Convert GIF to WebP - Optimize Images | Online Free DevTools by Hexmos"
 name: gif2webp
-path: /freedevtools/tldr/linux/gif2webp
+path: "/freedevtools/tldr/linux/gif2webp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gif2webp/"
 description: "Convert GIF images to WebP format with gif2webp. Reduce file size and improve website performance through image compression. Free online tool, no registration required."
 category: linux

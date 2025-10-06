@@ -1,7 +1,7 @@
 ---
 title: "v4l2-ctl - Control Video Devices | Online Free DevTools by Hexmos"
 name: v4l2-ctl
-path: /freedevtools/tldr/linux/v4l2-ctl
+path: "/freedevtools/tldr/linux/v4l2-ctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/v4l2-ctl/"
 description: "Control video devices with v4l2-ctl.  List formats, resolutions, capture images and raw video streams. Free online tool, no registration required."
 category: linux

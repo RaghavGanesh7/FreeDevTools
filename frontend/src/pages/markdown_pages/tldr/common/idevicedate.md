@@ -1,7 +1,7 @@
 ---
 title: "Control iOS Date - Set Device Time with idevicedate | Online Free DevTools by Hexmos"
 name: idevicedate
-path: /freedevtools/tldr/common/idevicedate
+path: "/freedevtools/tldr/common/idevicedate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicedate/"
 description: "Control iOS device date and time settings with idevicedate. Synchronize device time or set a specific timestamp using the command line. Free online tool, no registration required."
 category: common

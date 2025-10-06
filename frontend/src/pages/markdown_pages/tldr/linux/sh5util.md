@@ -1,7 +1,7 @@
 ---
 title: "HDF5 Merge Tool - Merge HDF5 Files | Online Free DevTools by Hexmos"
 name: sh5util
-path: /freedevtools/tldr/linux/sh5util
+path: "/freedevtools/tldr/linux/sh5util/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sh5util/"
 description: "Merge HDF5 files efficiently with sh5util. Aggregate data from multiple HDF5 files into a single file. Free online tool, no registration required."
 category: linux

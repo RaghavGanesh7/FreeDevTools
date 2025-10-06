@@ -1,7 +1,7 @@
 ---
 title: "Uinput - Control Input Events | Online Free DevTools by Hexmos"
 name: uinput
-path: /freedevtools/tldr/linux/uinput
+path: "/freedevtools/tldr/linux/uinput/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uinput/"
 description: "Control input events with uinput, a powerful command-line tool for Linux.  Create and manage virtual input devices, merge YAML descriptions, and intercept events. Free online tool, no registration required."
 category: linux

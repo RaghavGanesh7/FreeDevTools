@@ -1,7 +1,7 @@
 ---
 title: "Uudecode - Decode Uuencoded Files | Online Free DevTools by Hexmos"
 name: uudecode
-path: /freedevtools/tldr/common/uudecode
+path: "/freedevtools/tldr/common/uudecode/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/uudecode/"
 description: "Decode uuencoded files with Uudecode. Easily convert uuencoded data back to its original format. Free online tool, no registration required."
 category: common

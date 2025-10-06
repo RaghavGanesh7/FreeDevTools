@@ -1,7 +1,7 @@
 ---
 title: "Pixi Config - Manage Project Configuration | Online Free DevTools by Hexmos"
 name: pixi-config
-path: /freedevtools/tldr/pixi/pixi-config
+path: "/freedevtools/tldr/pixi/pixi-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/pixi/pixi-config/"
 description: "Manage project configuration with Pixi Config. Configure project settings, dependencies, and environments using command-line interface. Free online tool, no registration required."
 category: common

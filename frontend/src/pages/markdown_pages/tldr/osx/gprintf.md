@@ -1,7 +1,7 @@
 ---
 title: "Format Output - Format Strings with gprintf | Online Free DevTools by Hexmos"
 name: gprintf
-path: /freedevtools/tldr/osx/gprintf
+path: "/freedevtools/tldr/osx/gprintf/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gprintf/"
 description: "Format output effectively with gprintf, an alias for GNU printf on macOS. Generate formatted strings and customize output. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Copy Clipboard - Transfer Data from Stdin | Online Free DevTools by Hexmos"
 name: pbcopy
-path: /freedevtools/tldr/osx/pbcopy
+path: "/freedevtools/tldr/osx/pbcopy/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/pbcopy/"
 description: "Copy text to the clipboard with pbcopy. Transfer data from stdin to the clipboard for easy pasting in other applications. Free online tool, no registration required."
 category: osx

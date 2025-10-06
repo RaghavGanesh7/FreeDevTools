@@ -1,7 +1,7 @@
 ---
 title: "Ruby Interpreter - Execute Ruby Code | Online Free DevTools by Hexmos"
 name: ruby
-path: "/freedevtools/tldr/common/ruby"
+path: "/freedevtools/tldr/common/ruby/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ruby/"
 description: "Execute Ruby code effortlessly with Ruby Interpreter. Run scripts, check syntax, and start local servers instantly using command line. Free online tool, no registration required."
 category: common

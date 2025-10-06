@@ -1,7 +1,7 @@
 ---
 title: "Stack PAM Images - Create Image Stacks | Online Free DevTools by Hexmos"
 name: pamstack
-path: /freedevtools/tldr/common/pamstack
+path: "/freedevtools/tldr/common/pamstack/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamstack/"
 description: "Create image stacks with pamstack. Stack multiple PAM images into a single image. Optimize image processing workflow with this free online tool, no registration required."
 category: common

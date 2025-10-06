@@ -1,7 +1,7 @@
 ---
 title: "List Directory - Manage Linux Files | Online Free DevTools by Hexmos"
 name: dir
-path: /freedevtools/tldr/linux/dir
+path: "/freedevtools/tldr/linux/dir/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dir/"
 description: "List directory contents quickly with DIR command. Manage Linux files and directories efficiently, including hidden files and subdirectories. Free online tool, no registration required."
 category: linux

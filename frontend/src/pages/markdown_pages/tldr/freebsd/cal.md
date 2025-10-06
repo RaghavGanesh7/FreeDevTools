@@ -1,7 +1,7 @@
 ---
 title: "Display Calendar - View Dates with cal | Online Free DevTools by Hexmos"
 name: cal
-path: /freedevtools/tldr/freebsd/cal
+path: "/freedevtools/tldr/freebsd/cal/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/cal/"
 description: "View and manage dates easily with the cal command. Display calendars for specific months, years, or ranges. Free online tool, no registration required."
 category: freebsd

@@ -1,7 +1,7 @@
 ---
 title: "LXC Network - Manage LXD Container Networks | Online Free DevTools by Hexmos"
 name: lxc-network
-path: /freedevtools/tldr/linux/lxc-network
+path: "/freedevtools/tldr/linux/lxc-network/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-network/"
 description: "Manage LXD container networks efficiently with LXC Network. Control network configurations, attach containers, and create new networks. Free online tool, no registration required."
 category: linux

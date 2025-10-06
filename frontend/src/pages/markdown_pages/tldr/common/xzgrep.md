@@ -1,7 +1,7 @@
 ---
 title: "XZGrep - Search Compressed Files with Regular Expressions | Online Free DevTools by Hexmos"
 name: xzgrep
-path: /freedevtools/tldr/common/xzgrep
+path: "/freedevtools/tldr/common/xzgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xzgrep/"
 description: "Search compressed files with XZGrep using regular expressions. Analyze xz, gzip, bzip2 and other compressed archives. Free online tool, no registration required."
 category: common

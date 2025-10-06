@@ -1,7 +1,7 @@
 ---
 title: "Nmap Scanner - Explore Network Ports | Online Free DevTools by Hexmos"
 name: nmap
-path: "/freedevtools/tldr/common/nmap"
+path: "/freedevtools/tldr/common/nmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nmap/"
 description: "Explore network ports with Nmap scanner. Discover open ports, identify services, and perform security audits. Free online tool, no registration required."
 category: common

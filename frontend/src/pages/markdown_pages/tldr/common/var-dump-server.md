@@ -1,7 +1,7 @@
 ---
 title: "Var Dump Server - Collect Symfony Data | Online Free DevTools by Hexmos"
 name: var-dump-server
-path: /freedevtools/tldr/common/var-dump-server
+path: "/freedevtools/tldr/common/var-dump-server/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/var-dump-server/"
 description: "Collect data with Var Dump Server, a Symfony debugging tool for capturing var dumps. Analyze Symfony application data with ease. Free online tool, no registration required."
 category: common

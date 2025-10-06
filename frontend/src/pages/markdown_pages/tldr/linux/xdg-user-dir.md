@@ -1,7 +1,7 @@
 ---
 title: "Control XDG User Directories - Linux Command | Online Free DevTools by Hexmos"
 name: xdg-user-dir
-path: /freedevtools/tldr/linux/xdg-user-dir
+path: "/freedevtools/tldr/linux/xdg-user-dir/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xdg-user-dir/"
 description: "Control XDG user directory locations with xdg-user-dir on Linux. Retrieve standard directory paths and customize user settings. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Compare Files - Find Differences with sdiff | Online Free DevTools by Hexmos"
 name: sdiff
-path: /freedevtools/tldr/common/sdiff
+path: "/freedevtools/tldr/common/sdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sdiff/"
 description: "Compare files instantly with sdiff. Identify differences between two files, merge changes, and generate output files. Free online tool, no registration required."
 category: common

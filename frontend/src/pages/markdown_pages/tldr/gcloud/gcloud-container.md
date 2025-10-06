@@ -1,7 +1,7 @@
 ---
 title: "Create GKE Clusters - Manage Containers with gcloud | Online Free DevTools by Hexmos"
 name: gcloud-container
-path: /freedevtools/tldr/gcloud/gcloud-container
+path: "/freedevtools/tldr/gcloud/gcloud-container/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcloud/gcloud-container/"
 description: "Create and manage containerized applications with gcloud container. Deploy Kubernetes clusters and configure kubectl effortlessly. Free online tool, no registration required."
 category: common

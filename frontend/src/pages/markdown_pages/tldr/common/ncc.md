@@ -1,7 +1,7 @@
 ---
 title: "Bundle Node.js - Create Single File with NCC | Online Free DevTools by Hexmos"
 name: ncc
-path: /freedevtools/tldr/common/ncc
+path: "/freedevtools/tldr/common/ncc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ncc/"
 description: "Bundle Node.js applications with NCC to create single files. Supports TypeScript, binary addons, and dynamic requires. Free online tool, no registration required."
 category: common

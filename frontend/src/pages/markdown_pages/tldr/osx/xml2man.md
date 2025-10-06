@@ -1,7 +1,7 @@
 ---
 title: "Generate Man Pages - XML2Man Compiler | Online Free DevTools by Hexmos"
 name: xml2man
-path: /freedevtools/tldr/osx/xml2man
+path: "/freedevtools/tldr/osx/xml2man/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xml2man/"
 description: "Generate man pages with XML2Man. Compile MPGL files to mdoc format for documentation. Free online tool, no registration required."
 category: osx

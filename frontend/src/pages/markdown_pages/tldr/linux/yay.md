@@ -1,7 +1,7 @@
 ---
 title: "Yay - Manage Arch Packages | Online Free DevTools by Hexmos"
 name: yay
-path: /freedevtools/tldr/linux/yay
+path: "/freedevtools/tldr/linux/yay/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/yay/"
 description: "Manage Arch Linux packages efficiently with Yay.  Install, update, and remove packages from the AUR and repositories easily. Free online tool, no registration required."
 category: linux

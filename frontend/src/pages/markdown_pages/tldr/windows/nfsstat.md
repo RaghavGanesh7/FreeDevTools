@@ -1,7 +1,7 @@
 ---
 title: "NFSstat - Control NFS Server Calls | Online Free DevTools by Hexmos"
 name: nfsstat
-path: /freedevtools/tldr/windows/nfsstat
+path: "/freedevtools/tldr/windows/nfsstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/nfsstat/"
 description: "Control NFS server calls with NFSstat. Display NFS statistics, reset counters, and monitor network file system performance. Free online tool, no registration required."
 category: windows

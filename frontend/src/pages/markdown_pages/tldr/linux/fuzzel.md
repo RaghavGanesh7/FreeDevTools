@@ -1,7 +1,7 @@
 ---
 title: "Fuzzel Launcher - Run Applications | Online Free DevTools by Hexmos"
 name: fuzzel
-path: /freedevtools/tldr/linux/fuzzel
+path: "/freedevtools/tldr/linux/fuzzel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fuzzel/"
 description: "Run applications instantly with Fuzzel Launcher, a Wayland-native application launcher.  Quickly find and execute programs with this fuzzy finder. Free online tool, no registration required."
 category: linux

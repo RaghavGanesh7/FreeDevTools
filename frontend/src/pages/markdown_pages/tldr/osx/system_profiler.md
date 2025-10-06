@@ -1,7 +1,7 @@
 ---
 title: "Generate System Report - system_profiler | Online Free DevTools by Hexmos"
 name: system_profiler
-path: /freedevtools/tldr/osx/system_profiler
+path: "/freedevtools/tldr/osx/system_profiler/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/system_profiler/"
 description: "Generate detailed system reports with system_profiler. Retrieve hardware and software configurations, serial numbers, and system overviews on macOS. Free online tool, no registration required."
 category: osx

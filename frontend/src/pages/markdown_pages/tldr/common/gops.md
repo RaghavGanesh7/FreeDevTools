@@ -1,7 +1,7 @@
 ---
 title: "Diagnose Go Processes - Control Go Programs | Online Free DevTools by Hexmos"
 name: gops
-path: /freedevtools/tldr/common/gops
+path: "/freedevtools/tldr/common/gops/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gops/"
 description: "Diagnose running Go processes with gops. Inspect memory statistics, stack traces, and process trees for efficient debugging. Free online tool, no registration required."
 category: common

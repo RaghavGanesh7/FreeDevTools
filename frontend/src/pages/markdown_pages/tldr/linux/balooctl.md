@@ -1,7 +1,7 @@
 ---
 title: "Balooctl - Control KDE File Indexing | Online Free DevTools by Hexmos"
 name: balooctl
-path: /freedevtools/tldr/linux/balooctl
+path: "/freedevtools/tldr/linux/balooctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/balooctl/"
 description: "Control KDE file indexing with Balooctl. Manage index status, purge databases, and suspend/resume indexing. Free online tool, no registration required."
 category: linux

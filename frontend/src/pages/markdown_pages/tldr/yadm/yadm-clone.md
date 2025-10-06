@@ -1,7 +1,7 @@
 ---
 title: "Clone dotfiles - Manage configuration with yadm-clone | Online Free DevTools by Hexmos"
 name: yadm-clone
-path: /freedevtools/tldr/yadm/yadm-clone
+path: "/freedevtools/tldr/yadm/yadm-clone/"
 canonical: "https://hexmos.com/freedevtools/tldr/yadm/yadm-clone/"
 description: "Manage dotfiles with yadm-clone to clone and configure your repository. Automate bootstrap execution. Free online tool, no registration required."
 category: common

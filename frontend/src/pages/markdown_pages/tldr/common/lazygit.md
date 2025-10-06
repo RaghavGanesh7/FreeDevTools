@@ -1,7 +1,7 @@
 ---
 title: "Control Git Repositories - Lazygit Terminal UI | Online Free DevTools by Hexmos"
 name: lazygit
-path: /freedevtools/tldr/common/lazygit
+path: "/freedevtools/tldr/common/lazygit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lazygit/"
 description: "Control Git repositories efficiently with Lazygit. Manage branches, commits, and merges directly from your terminal with this intuitive UI. Free online tool, no registration required."
 category: common

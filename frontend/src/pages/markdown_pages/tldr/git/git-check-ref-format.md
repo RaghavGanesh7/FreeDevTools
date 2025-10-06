@@ -1,7 +1,7 @@
 ---
 title: "Format Git Reference - Validate Ref Names | Online Free DevTools by Hexmos"
 name: git-check-ref-format
-path: /freedevtools/tldr/git/git-check-ref-format
+path: "/freedevtools/tldr/git/git-check-ref-format/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-check-ref-format/"
 description: "Format Git references with git-check-ref-format. Validate ref names and normalize references for repository integrity. Free online tool, no registration required."
 category: common

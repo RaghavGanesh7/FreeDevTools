@@ -1,7 +1,7 @@
 ---
 title: "Acquire AWS Credentials - Google SSO Auth | Online Free DevTools by Hexmos"
 name: aws-google-auth
-path: /freedevtools/tldr/aws/aws-google-auth
+path: "/freedevtools/tldr/aws/aws-google-auth/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-google-auth/"
 description: "Acquire AWS credentials with aws-google-auth. Easily manage temporary STS credentials using Google Apps SSO. Free online tool, no registration required."
 category: common

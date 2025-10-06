@@ -1,7 +1,7 @@
 ---
 title: "Automate Infrastructure - Control Servers with pyinfra | Online Free DevTools by Hexmos"
 name: pyinfra
-path: /freedevtools/tldr/common/pyinfra
+path: "/freedevtools/tldr/common/pyinfra/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pyinfra/"
 description: "Automate infrastructure provisioning with pyinfra. Deploy applications, configure servers, and manage infrastructure using Python. Free online tool, no registration required."
 category: common

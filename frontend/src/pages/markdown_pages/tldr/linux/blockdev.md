@@ -1,7 +1,7 @@
 ---
 title: "Blockdev - Manage Block Devices | Online Free DevTools by Hexmos"
 name: blockdev
-path: /freedevtools/tldr/linux/blockdev
+path: "/freedevtools/tldr/linux/blockdev/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/blockdev/"
 description: "Manage block devices with blockdev, a powerful Linux command-line tool. Query device sizes and modify read/write permissions. Free online tool, no registration required."
 category: linux

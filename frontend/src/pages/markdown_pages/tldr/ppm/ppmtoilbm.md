@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to ILBM - Create ILBM Images | Online Free DevTools by Hexmos"
 name: ppmtoilbm
-path: /freedevtools/tldr/ppm/ppmtoilbm
+path: "/freedevtools/tldr/ppm/ppmtoilbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtoilbm/"
 description: "Convert PPM to ILBM with ppmtoilbm. Create ILBM images from PPM files using this image conversion tool. Free online tool, no registration required."
 category: common

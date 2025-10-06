@@ -1,7 +1,7 @@
 ---
 title: "Deploy Websites - Surge Web Publishing | Online Free DevTools by Hexmos"
 name: surge
-path: /freedevtools/tldr/common/surge
+path: "/freedevtools/tldr/common/surge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/surge/"
 description: "Deploy websites instantly with Surge, a simple web publishing tool. Host your static websites and front-end projects quickly. Free online tool, no registration required."
 category: common

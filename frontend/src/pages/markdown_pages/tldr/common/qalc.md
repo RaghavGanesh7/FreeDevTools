@@ -1,7 +1,7 @@
 ---
 title: "Calculator qalc - Perform Calculations | Online Free DevTools by Hexmos"
 name: qalc
-path: /freedevtools/tldr/common/qalc
+path: "/freedevtools/tldr/common/qalc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qalc/"
 description: "Perform calculations with qalc, a powerful command-line calculator. Convert units, evaluate expressions, and update currency rates quickly. Free online tool, no registration required."
 category: common

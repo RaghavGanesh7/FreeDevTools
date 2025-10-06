@@ -1,7 +1,7 @@
 ---
 title: "Analyze Disk Usage - Control Directory Sizes with GDU | Online Free DevTools by Hexmos"
 name: gdu
-path: /freedevtools/tldr/common/gdu
+path: "/freedevtools/tldr/common/gdu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdu/"
 description: "Analyze disk usage efficiently with GDU. Find large files and directories quickly using this command-line tool. Free online tool, no registration required."
 category: common

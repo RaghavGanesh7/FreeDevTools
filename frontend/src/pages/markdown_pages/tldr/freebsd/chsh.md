@@ -1,7 +1,7 @@
 ---
 title: "chsh Command - Change Shell | Online Free DevTools by Hexmos"
 name: chsh
-path: /freedevtools/tldr/freebsd/chsh
+path: "/freedevtools/tldr/freebsd/chsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/chsh/"
 description: "Change your login shell with the chsh command.  Manage user accounts and shell environments easily. Free online tool, no registration required."
 category: freebsd

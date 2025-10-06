@@ -1,7 +1,7 @@
 ---
 title: "Pest Tests - Run PHP Tests Simply | Online Free DevTools by Hexmos"
 name: pest
-path: /freedevtools/tldr/common/pest
+path: "/freedevtools/tldr/common/pest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pest/"
 description: "Run PHP tests simply with Pest, a delightful PHP Testing Framework. Effortlessly execute tests, manage groups, and generate coverage reports. Free online tool, no registration required."
 category: common

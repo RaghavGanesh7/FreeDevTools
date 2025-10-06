@@ -1,7 +1,7 @@
 ---
 title: "BFG Cleaner - Remove Git Data | Online Free DevTools by Hexmos"
 name: bfg
-path: /freedevtools/tldr/common/bfg
+path: "/freedevtools/tldr/common/bfg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bfg/"
 description: "Remove unwanted data with BFG Cleaner, efficiently cleaning Git repository history. Delete large files and sensitive information. Free online tool, no registration required."
 category: common

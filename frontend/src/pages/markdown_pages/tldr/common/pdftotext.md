@@ -1,7 +1,7 @@
 ---
 title: "Convert PDF to Text - Extract Text | Online Free DevTools by Hexmos"
 name: pdftotext
-path: /freedevtools/tldr/common/pdftotext
+path: "/freedevtools/tldr/common/pdftotext/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdftotext/"
 description: "Convert PDF to text with pdftotext. Extract readable text content and preserve layout. Free online tool, no registration required."
 category: common

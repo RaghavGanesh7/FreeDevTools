@@ -1,7 +1,7 @@
 ---
 title: "Node - Run JavaScript Server-Side | Online Free DevTools by Hexmos"
 name: node
-path: /freedevtools/tldr/common/node
+path: "/freedevtools/tldr/common/node/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/node/"
 description: "Run JavaScript server-side with Node. Execute JavaScript files, start REPL shells, and evaluate code. Free online tool, no registration required."
 category: common

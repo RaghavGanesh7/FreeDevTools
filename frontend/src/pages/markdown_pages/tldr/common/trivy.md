@@ -1,7 +1,7 @@
 ---
 title: "Scan Vulnerabilities - Trivy Security Scanner | Online Free DevTools by Hexmos"
 name: trivy
-path: /freedevtools/tldr/common/trivy
+path: "/freedevtools/tldr/common/trivy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trivy/"
 description: "Scan vulnerabilities with Trivy, a comprehensive security scanner for container images and file systems. Identify and fix security issues quickly. Free online tool, no registration required."
 category: common

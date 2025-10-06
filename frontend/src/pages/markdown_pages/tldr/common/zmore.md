@@ -1,7 +1,7 @@
 ---
 title: "Zmore - View Compressed Files with More | Online Free DevTools by Hexmos"
 name: zmore
-path: /freedevtools/tldr/common/zmore
+path: "/freedevtools/tldr/common/zmore/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zmore/"
 description: "View compressed files efficiently with Zmore, a tool for `gzip` files using `more` functionality.  Inspect archived data quickly. Free online tool, no registration required."
 category: common

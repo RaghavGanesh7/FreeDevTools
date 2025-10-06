@@ -1,7 +1,7 @@
 ---
 title: "SC Query - Control Windows Services | Online Free DevTools by Hexmos"
 name: sc-query
-path: /freedevtools/tldr/windows/sc-query
+path: "/freedevtools/tldr/windows/sc-query/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sc-query/"
 description: "Control Windows services with SC Query. Manage service status, configuration, and dependencies efficiently from the command line. Free online tool, no registration required."
 category: windows

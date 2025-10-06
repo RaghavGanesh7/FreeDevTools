@@ -1,7 +1,7 @@
 ---
 title: "Libtool - Create Libraries Portably | Online Free DevTools by Hexmos"
 name: libtool
-path: "/freedevtools/tldr/linux/libtool"
+path: "/freedevtools/tldr/linux/libtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/libtool/"
 description: "Create portable libraries with Libtool on Linux. Simplify shared library usage behind a consistent interface. Free online tool, no registration required."
 category: linux

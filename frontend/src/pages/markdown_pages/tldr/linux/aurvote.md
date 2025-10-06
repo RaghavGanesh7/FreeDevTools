@@ -1,7 +1,7 @@
 ---
 title: "AUR Vote - Manage Arch User Repository Votes | Online Free DevTools by Hexmos"
 name: aurvote
-path: /freedevtools/tldr/linux/aurvote
+path: "/freedevtools/tldr/linux/aurvote/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aurvote/"
 description: "Manage AUR package votes with AUR Vote. Easily vote, unvote, and check package voting status on the Arch User Repository. Free online tool, no registration required."
 category: linux

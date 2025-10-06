@@ -1,7 +1,7 @@
 ---
 title: "Count Lines of Code - Analyze LOC with CLI | Online Free DevTools by Hexmos"
 name: loc
-path: /freedevtools/tldr/common/loc
+path: "/freedevtools/tldr/common/loc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/loc/"
 description: "Analyze lines of code with LOC, a command-line tool for code counting. Quickly assess code size in various directories and files. Free online tool, no registration required."
 category: common

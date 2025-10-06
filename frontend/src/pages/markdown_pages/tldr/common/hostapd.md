@@ -1,7 +1,7 @@
 ---
 title: "Create Wireless AP - Control WiFi Access Point with hostapd | Online Free DevTools by Hexmos"
 name: hostapd
-path: /freedevtools/tldr/common/hostapd
+path: "/freedevtools/tldr/common/hostapd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hostapd/"
 description: "Create wireless access points with hostapd on Linux. Control WiFi networks, manage security settings and configure interfaces for wireless internet sharing. Free online tool, no registration required."
 category: common

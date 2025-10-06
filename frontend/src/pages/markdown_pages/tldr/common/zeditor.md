@@ -1,7 +1,7 @@
 ---
 title: "Zeditor - Edit Files Quickly | Online Free DevTools by Hexmos"
 name: zeditor
-path: /freedevtools/tldr/common/zeditor
+path: "/freedevtools/tldr/common/zeditor/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zeditor/"
 description: "Edit files quickly with Zeditor, the alias for Zed. Access comprehensive Zed documentation with a simple command. Free online tool, no registration required."
 category: common

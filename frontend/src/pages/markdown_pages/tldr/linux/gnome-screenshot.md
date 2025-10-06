@@ -1,7 +1,7 @@
 ---
 title: "Screenshot Capture - Take Screenshots with Gnome | Online Free DevTools by Hexmos"
 name: gnome-screenshot
-path: /freedevtools/tldr/linux/gnome-screenshot
+path: "/freedevtools/tldr/linux/gnome-screenshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gnome-screenshot/"
 description: "Capture screenshots instantly with Gnome Screenshot, a powerful linux tool. Save to file or clipboard, delay capture, and launch GUI. Free online tool, no registration required."
 category: linux

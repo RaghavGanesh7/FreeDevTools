@@ -1,7 +1,7 @@
 ---
 title: "Move Files - Rename and Move Files in Windows | Online Free DevTools by Hexmos"
 name: move-item
-path: /freedevtools/tldr/windows/move-item
+path: "/freedevtools/tldr/windows/move-item/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/move-item/"
 description: "Move files easily with Move-Item. Rename files and directories on Windows. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Detect WAF - Detect Web Application Firewalls | Online Free DevTools by Hexmos"
 name: whatwaf
-path: /freedevtools/tldr/common/whatwaf
+path: "/freedevtools/tldr/common/whatwaf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/whatwaf/"
 description: "Detect web application firewalls with WhatWaf. Identify security systems protecting web applications. Analyze URLs & bypass common protections. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Start RDP Server - Control Remote Access | Online Free DevTools by Hexmos"
 name: krdpserver
-path: /freedevtools/tldr/linux/krdpserver
+path: "/freedevtools/tldr/linux/krdpserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/krdpserver/"
 description: "Start RDP Server with krdpserver, enabling remote access to desktops. Securely manage connections and share monitors via command line. Free online tool, no registration required."
 category: linux

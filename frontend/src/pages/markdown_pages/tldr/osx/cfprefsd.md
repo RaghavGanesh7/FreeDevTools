@@ -1,7 +1,7 @@
 ---
 title: "Control Preferences - Manage CFPreferences with cfprefsd | Online Free DevTools by Hexmos"
 name: cfprefsd
-path: /freedevtools/tldr/osx/cfprefsd
+path: "/freedevtools/tldr/osx/cfprefsd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/cfprefsd/"
 description: "Manage preferences instantly with cfprefsd. Control Core Foundation preferences on macOS and ensure consistent app behavior. Free online tool, no registration required."
 category: osx

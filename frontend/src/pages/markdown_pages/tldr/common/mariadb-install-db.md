@@ -1,7 +1,7 @@
 ---
 title: "MariaDB Initialize - Create Databases | Online Free DevTools by Hexmos"
 name: mariadb-install-db
-path: /freedevtools/tldr/common/mariadb-install-db
+path: "/freedevtools/tldr/common/mariadb-install-db/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mariadb-install-db/"
 description: "Initialize databases with MariaDB Install DB. Quickly set up new MariaDB instances and configure data directories. Free online tool, no registration required."
 category: common

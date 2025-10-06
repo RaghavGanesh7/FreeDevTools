@@ -1,7 +1,7 @@
 ---
 title: "Lastlog - View User Login History | Online Free DevTools by Hexmos"
 name: lastlog
-path: /freedevtools/tldr/linux/lastlog
+path: "/freedevtools/tldr/linux/lastlog/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lastlog/"
 description: "View user login history with Lastlog. Analyze user activity and identify login patterns. Free online tool, no registration required."
 category: linux

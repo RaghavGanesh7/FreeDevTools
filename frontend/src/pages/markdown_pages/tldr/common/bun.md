@@ -1,7 +1,7 @@
 ---
 title: "Run JavaScript Code - Control Bun Runtime | Online Free DevTools by Hexmos"
 name: bun
-path: /freedevtools/tldr/common/bun
+path: "/freedevtools/tldr/common/bun/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bun/"
 description: "Run JavaScript code instantly with the Bun runtime environment. Manage dependencies and execute scripts quickly. Free online tool, no registration required."
 category: common

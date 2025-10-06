@@ -1,7 +1,7 @@
 ---
 title: "UV - Remove Dependencies | Online Free DevTools by Hexmos"
 name: uv-remove
-path: "/freedevtools/tldr/uv/uv-remove"
+path: "/freedevtools/tldr/uv/uv-remove/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-remove/"
 description: "Remove Python dependencies with UV. Manage project dependencies in pyproject.toml, including development and optional groups. Free online tool, no registration required."
 category: common

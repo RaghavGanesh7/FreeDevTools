@@ -1,7 +1,7 @@
 ---
 title: "Convert Line Endings - Unix2Mac Tool | Online Free DevTools by Hexmos"
 name: unix2mac
-path: /freedevtools/tldr/linux/unix2mac
+path: "/freedevtools/tldr/linux/unix2mac/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unix2mac/"
 description: "Convert line endings with Unix2Mac. Change Unix-style line feeds to macOS carriage returns for file compatibility. Free online tool, no registration required."
 category: linux

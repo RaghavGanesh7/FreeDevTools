@@ -1,7 +1,7 @@
 ---
 title: "Rustup Override - Manage Toolchains | Online Free DevTools by Hexmos"
 name: rustup-override
-path: /freedevtools/tldr/rustup/rustup-override
+path: "/freedevtools/tldr/rustup/rustup-override/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-override/"
 description: "Manage Rust toolchains with Rustup Override. Control toolchain versions for specific directories to ensure consistent builds. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Build Caddy - Custom Caddy Server Builds | Online Free DevTools by Hexmos"
 name: xcaddy
-path: /freedevtools/tldr/common/xcaddy
+path: "/freedevtools/tldr/common/xcaddy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xcaddy/"
 description: "Build custom Caddy server binaries with xcaddy. Easily add modules, specify versions, and customize your Caddy server. Free online tool, no registration required."
 category: common

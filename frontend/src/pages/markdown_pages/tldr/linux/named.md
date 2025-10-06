@@ -1,7 +1,7 @@
 ---
 title: "Execute DNS Server - Resolve Hostnames with Named | Online Free DevTools by Hexmos"
 name: named
-path: /freedevtools/tldr/linux/named
+path: "/freedevtools/tldr/linux/named/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/named/"
 description: "Execute DNS server operations with Named. Convert hostnames to IP addresses and vice versa. Free online tool, no registration required."
 category: linux

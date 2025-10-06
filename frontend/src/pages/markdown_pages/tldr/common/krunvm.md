@@ -1,7 +1,7 @@
 ---
 title: "Create MicroVMs - Control Virtual Machines with krunvm | Online Free DevTools by Hexmos"
 name: krunvm
-path: /freedevtools/tldr/common/krunvm
+path: "/freedevtools/tldr/common/krunvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/krunvm/"
 description: "Create MicroVMs instantly with krunvm. Manage virtual machine images and control their resources efficiently. Free online tool, no registration required."
 category: common

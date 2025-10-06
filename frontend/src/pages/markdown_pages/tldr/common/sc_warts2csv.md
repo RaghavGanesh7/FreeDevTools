@@ -1,7 +1,7 @@
 ---
 title: "Warts to CSV - Format Traceroute Data | Online Free DevTools by Hexmos"
 name: sc_warts2csv
-path: /freedevtools/tldr/common/sc_warts2csv
+path: "/freedevtools/tldr/common/sc_warts2csv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_warts2csv/"
 description: "Format warts traceroute data to CSV with sc_warts2csv. Convert scamper traceroutes for analysis and reporting. Free online tool, no registration required."
 category: common

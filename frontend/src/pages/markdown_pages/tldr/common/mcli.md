@@ -1,7 +1,7 @@
 ---
 title: "MinIO Client - Control Cloud Storage with mcli | Online Free DevTools by Hexmos"
 name: mcli
-path: "/freedevtools/tldr/common/mcli"
+path: "/freedevtools/tldr/common/mcli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mcli/"
 description: "Control cloud storage instantly with MinIO Client (mcli). Manage buckets, upload objects, and configure S3-compatible services. Free online tool, no registration required."
 category: common

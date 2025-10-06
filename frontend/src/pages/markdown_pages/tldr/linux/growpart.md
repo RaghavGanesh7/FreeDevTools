@@ -1,7 +1,7 @@
 ---
 title: "Extend Partition - Resize Disks | Online Free DevTools by Hexmos"
 name: growpart
-path: /freedevtools/tldr/linux/growpart
+path: "/freedevtools/tldr/linux/growpart/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/growpart/"
 description: "Extend partitions with growpart. Resize disk partitions to maximize available space. Free online tool, no registration required."
 category: linux

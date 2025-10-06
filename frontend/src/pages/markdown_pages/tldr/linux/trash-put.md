@@ -1,7 +1,7 @@
 ---
 title: "Trash Put - Move Files to Trash | Online Free DevTools by Hexmos"
 name: trash-put
-path: /freedevtools/tldr/linux/trash-put
+path: "/freedevtools/tldr/linux/trash-put/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trash-put/"
 description: "Move files to trash with Trash Put. Securely delete files and directories using the command line. Free online tool, no registration required."
 category: linux

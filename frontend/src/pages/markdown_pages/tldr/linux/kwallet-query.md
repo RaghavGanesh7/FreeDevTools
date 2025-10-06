@@ -1,7 +1,7 @@
 ---
 title: "KWallet Query - Manage KDE Wallet Entries | Online Free DevTools by Hexmos"
 name: kwallet-query
-path: /freedevtools/tldr/linux/kwallet-query
+path: "/freedevtools/tldr/linux/kwallet-query/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kwallet-query/"
 description: "Manage KDE wallet entries with KWallet Query. List entries, folders, and interact with your KDE wallet data efficiently. Free online tool, no registration required."
 category: linux

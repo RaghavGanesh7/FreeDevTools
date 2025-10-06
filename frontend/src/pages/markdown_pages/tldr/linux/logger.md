@@ -1,7 +1,7 @@
 ---
 title: "Log Messages - Control System Log with Logger | Online Free DevTools by Hexmos"
 name: logger
-path: /freedevtools/tldr/linux/logger
+path: "/freedevtools/tldr/linux/logger/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/logger/"
 description: "Control system logs with Logger. Add messages to syslog, filter by priority, and send to remote servers. Free online tool, no registration required."
 category: linux

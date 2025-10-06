@@ -1,7 +1,7 @@
 ---
 title: "Warts to JSON - Convert Warts Data | Online Free DevTools by Hexmos"
 name: sc_warts2json
-path: /freedevtools/tldr/common/sc_warts2json
+path: "/freedevtools/tldr/common/sc_warts2json/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_warts2json/"
 description: "Convert Warts data to JSON format with sc_warts2json. Easily extract and transform network measurement data. Free online tool, no registration required."
 category: common

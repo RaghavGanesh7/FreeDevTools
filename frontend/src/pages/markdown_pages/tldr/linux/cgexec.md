@@ -1,7 +1,7 @@
 ---
 title: "Cgexec - Control Linux Resources | Online Free DevTools by Hexmos"
 name: cgexec
-path: /freedevtools/tldr/linux/cgexec
+path: "/freedevtools/tldr/linux/cgexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cgexec/"
 description: "Control Linux process resources with Cgexec. Limit CPU, memory, and other resources to improve system stability and performance. Free online tool, no registration required."
 category: linux

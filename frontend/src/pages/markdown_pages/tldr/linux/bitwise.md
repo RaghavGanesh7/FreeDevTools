@@ -1,7 +1,7 @@
 ---
 title: "Calculate Bitwise - Convert Bases | Online Free DevTools by Hexmos"
 name: bitwise
-path: /freedevtools/tldr/linux/bitwise
+path: "/freedevtools/tldr/linux/bitwise/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bitwise/"
 description: "Calculate bitwise operations with Bitwise, an interactive multi-base converter. Perform base conversions and bit manipulations with ease. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Chcon - Control File Context on Linux | Online Free DevTools by Hexmos"
 name: chcon
-path: /freedevtools/tldr/linux/chcon
+path: "/freedevtools/tldr/linux/chcon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chcon/"
 description: "Control file context with Chcon, the Linux command-line tool. Manage SELinux security contexts to enhance system security. Free online tool, no registration required."
 category: linux

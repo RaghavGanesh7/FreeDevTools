@@ -1,7 +1,7 @@
 ---
 title: "ClamAV Scanner - Control System Security | Online Free DevTools by Hexmos"
 name: clamav
-path: /freedevtools/tldr/common/clamav
+path: "/freedevtools/tldr/common/clamav/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clamav/"
 description: "Control system security with ClamAV Scanner. Detect malware, viruses, and trojans on your system. Free online tool, no registration required."
 category: common

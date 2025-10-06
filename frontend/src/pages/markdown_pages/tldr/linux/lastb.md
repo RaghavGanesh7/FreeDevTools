@@ -1,7 +1,7 @@
 ---
 title: "List Logged In Users - Find Login Info | Online Free DevTools by Hexmos"
 name: lastb
-path: /freedevtools/tldr/linux/lastb
+path: "/freedevtools/tldr/linux/lastb/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lastb/"
 description: "Find last logged in users with lastb. Analyze user login history and identify potential security breaches using this command. Free online tool, no registration required."
 category: linux

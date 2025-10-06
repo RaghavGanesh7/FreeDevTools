@@ -1,7 +1,7 @@
 ---
 title: "SQLite Utils - Manipulate SQLite Databases | Online Free DevTools by Hexmos"
 name: sqlite-utils
-path: /freedevtools/tldr/common/sqlite-utils
+path: "/freedevtools/tldr/common/sqlite-utils/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sqlite-utils/"
 description: "Manipulate SQLite databases with SQLite Utils. Create tables, insert data, query records and manage your database efficiently. Free online tool, no registration required."
 category: common

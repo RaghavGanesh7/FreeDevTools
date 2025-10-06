@@ -1,7 +1,7 @@
 ---
 title: "Read Input - Retrieve Data from STDIN | Online Free DevTools by Hexmos"
 name: read
-path: /freedevtools/tldr/common/read
+path: "/freedevtools/tldr/common/read/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/read/"
 description: "Retrieve data easily with Read Input command. Extract shell input, create arrays, and manage stdin streams with this free online tool, no registration required."
 category: common

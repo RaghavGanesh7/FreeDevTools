@@ -1,7 +1,7 @@
 ---
 title: "Hollywood Command - Generate Melodrama Text | Online Free DevTools by Hexmos"
 name: hollywood
-path: /freedevtools/tldr/linux/hollywood
+path: "/freedevtools/tldr/linux/hollywood/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hollywood/"
 description: "Generate entertaining Hollywood-style melodrama text with the hollywood command.  Easily fill your console with dramatic technobabble. Free online tool, no registration required."
 category: linux

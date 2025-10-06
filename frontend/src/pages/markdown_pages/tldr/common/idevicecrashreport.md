@@ -1,7 +1,7 @@
 ---
 title: "Generate iOS Crash Reports - idevicecrashreport | Online Free DevTools by Hexmos"
 name: idevicecrashreport
-path: /freedevtools/tldr/common/idevicecrashreport
+path: "/freedevtools/tldr/common/idevicecrashreport/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicecrashreport/"
 description: "Generate iOS crash reports with idevicecrashreport. Retrieve and extract crash logs from connected iOS devices. Free online tool, no registration required."
 category: common

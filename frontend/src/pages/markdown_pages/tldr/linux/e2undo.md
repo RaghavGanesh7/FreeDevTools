@@ -1,7 +1,7 @@
 ---
 title: "Undo Ext Filesystem Changes - e2undo | Online Free DevTools by Hexmos"
 name: e2undo
-path: "/freedevtools/tldr/linux/e2undo"
+path: "/freedevtools/tldr/linux/e2undo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/e2undo/"
 description: "Undo filesystem changes with e2undo. Replay ext2/ext3/ext4 undo logs to recover from failed operations using command line interface. Free online tool, no registration required."
 category: linux

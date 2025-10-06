@@ -1,7 +1,7 @@
 ---
 title: "F5fpc - Control SSL VPN Connections | Online Free DevTools by Hexmos"
 name: f5fpc
-path: /freedevtools/tldr/linux/f5fpc
+path: "/freedevtools/tldr/linux/f5fpc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/f5fpc/"
 description: "Control SSL VPN connections efficiently with F5fpc. Manage, start, stop, and get status updates for your VPN on Linux. Free online tool, no registration required."
 category: linux

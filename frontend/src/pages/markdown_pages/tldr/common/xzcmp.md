@@ -1,7 +1,7 @@
 ---
 title: "Compare XZ Files - Check Compressed Files | Online Free DevTools by Hexmos"
 name: xzcmp
-path: "/freedevtools/tldr/common/xzcmp"
+path: "/freedevtools/tldr/common/xzcmp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xzcmp/"
 description: "Compare XZ files with xzcmp, verifying content of xz, lzma, gzip, bzip2, lzop, or zstd compressed archives. Lightweight CLI utility. Free online tool, no registration required."
 category: common

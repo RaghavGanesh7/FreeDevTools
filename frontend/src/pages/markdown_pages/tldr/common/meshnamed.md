@@ -1,7 +1,7 @@
 ---
 title: "Resolve Meshnames - Distributed Naming with Meshnamed | Online Free DevTools by Hexmos"
 name: meshnamed
-path: /freedevtools/tldr/common/meshnamed
+path: "/freedevtools/tldr/common/meshnamed/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/meshnamed/"
 description: "Resolve meshnames with Meshnamed for IPv6 mesh networks. Convert addresses to names and vice-versa. Free online tool, no registration required."
 category: common

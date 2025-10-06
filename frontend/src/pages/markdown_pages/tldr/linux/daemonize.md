@@ -1,7 +1,7 @@
 ---
 title: "Daemonize - Run Commands as Daemons | Online Free DevTools by Hexmos"
 name: daemonize
-path: /freedevtools/tldr/linux/daemonize
+path: "/freedevtools/tldr/linux/daemonize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/daemonize/"
 description: "Run commands as daemons with Daemonize. Control background processes on Linux systems. Free online tool, no registration required."
 category: linux

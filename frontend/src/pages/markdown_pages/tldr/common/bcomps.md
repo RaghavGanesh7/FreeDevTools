@@ -1,7 +1,7 @@
 ---
 title: "Decompose Graph - Biconnected Components | Online Free DevTools by Hexmos"
 name: bcomps
-path: /freedevtools/tldr/common/bcomps
+path: "/freedevtools/tldr/common/bcomps/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bcomps/"
 description: "Decompose graphs into biconnected components with bcomps. Analyze graph connectivity and identify articulation points effortlessly. Free online tool, no registration required."
 category: common

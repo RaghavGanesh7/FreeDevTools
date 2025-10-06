@@ -1,7 +1,7 @@
 ---
 title: "Dotnet Run - Execute .NET Projects | Online Free DevTools by Hexmos"
 name: dotnet-run
-path: /freedevtools/tldr/dotnet/dotnet-run
+path: "/freedevtools/tldr/dotnet/dotnet-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/dotnet/dotnet-run/"
 description: "Execute .NET projects effortlessly with Dotnet Run. Run, build, and debug your .NET applications directly from the command line. Free online tool, no registration required."
 category: common

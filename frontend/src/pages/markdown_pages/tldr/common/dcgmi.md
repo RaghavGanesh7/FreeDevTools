@@ -1,7 +1,7 @@
 ---
 title: "DCGMI Control - Manage NVIDIA GPUs | Online Free DevTools by Hexmos"
 name: dcgmi
-path: /freedevtools/tldr/common/dcgmi
+path: "/freedevtools/tldr/common/dcgmi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dcgmi/"
 description: "Control NVIDIA Data Center GPUs with DCGMI command line tool. Monitor GPU performance, manage processes, and configure devices using command line. Free online tool, no registration required."
 category: common

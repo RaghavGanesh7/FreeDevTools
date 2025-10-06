@@ -1,7 +1,7 @@
 ---
 title: "Terraform Output - Generate Data | Online Free DevTools by Hexmos"
 name: terraform-output
-path: /freedevtools/tldr/terraform/terraform-output
+path: "/freedevtools/tldr/terraform/terraform-output/"
 canonical: "https://hexmos.com/freedevtools/tldr/terraform/terraform-output/"
 description: "Generate Terraform output values with ease. Export structured data about your Terraform resources. Access values in JSON format and more. Free online tool, no registration required."
 category: common

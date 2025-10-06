@@ -1,7 +1,7 @@
 ---
 title: "YUY2 to PAM Converter - Format YUY2 Images | Online Free DevTools by Hexmos"
 name: yuy2topam
-path: /freedevtools/tldr/common/yuy2topam
+path: "/freedevtools/tldr/common/yuy2topam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yuy2topam/"
 description: "Format YUY2 images to PAM format with YUY2 to PAM Converter. Convert raw YUY2 pixel data into portable anymap images for image processing. Free online tool, no registration required."
 category: common

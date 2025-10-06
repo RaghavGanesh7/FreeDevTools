@@ -1,7 +1,7 @@
 ---
 title: "Generate Keys - OpenSSL genpkey Command | Online Free DevTools by Hexmos"
 name: openssl-genpkey
-path: /freedevtools/tldr/openssl/openssl-genpkey
+path: "/freedevtools/tldr/openssl/openssl-genpkey/"
 canonical: "https://hexmos.com/freedevtools/tldr/openssl/openssl-genpkey/"
 description: "Generate asymmetric keys with OpenSSL genpkey. Create RSA, EC, and ED25519 keys using the command line. Free online tool, no registration required."
 category: common

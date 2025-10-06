@@ -1,7 +1,7 @@
 ---
 title: "Replace Files - Manage File Replacement | Online Free DevTools by Hexmos"
 name: replace
-path: /freedevtools/tldr/windows/replace
+path: "/freedevtools/tldr/windows/replace/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/replace/"
 description: "Manage file replacement with Replace Files, allowing you to efficiently update or add files in directories. Free online tool, no registration required."
 category: windows

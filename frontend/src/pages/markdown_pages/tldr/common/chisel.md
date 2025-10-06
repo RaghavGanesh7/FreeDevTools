@@ -1,7 +1,7 @@
 ---
 title: "Create Secure Tunnels - Chisel | Online Free DevTools by Hexmos"
 name: chisel
-path: "/freedevtools/tldr/common/chisel"
+path: "/freedevtools/tldr/common/chisel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chisel/"
 description: "Create secure tunnels with Chisel, transporting data over HTTP and securing it with SSH. Free online tool, no registration required. Ideal for port forwarding."
 category: common

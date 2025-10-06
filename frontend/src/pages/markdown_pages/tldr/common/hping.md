@@ -1,7 +1,7 @@
 ---
 title: "HPing - Generate Custom Network Packets | Online Free DevTools by Hexmos"
 name: hping
-path: /freedevtools/tldr/common/hping
+path: "/freedevtools/tldr/common/hping/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hping/"
 description: "Generate custom network packets with HPing. Analyze network responses, craft TCP/UDP packets, and conduct network security audits. Free online tool, no registration required."
 category: common

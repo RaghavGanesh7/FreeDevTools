@@ -1,7 +1,7 @@
 ---
 title: "Plasma Theme Manager - Switch Desktop Themes | Online Free DevTools by Hexmos"
 name: plasma-apply-desktoptheme
-path: /freedevtools/tldr/linux/plasma-apply-desktoptheme
+path: "/freedevtools/tldr/linux/plasma-apply-desktoptheme/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/plasma-apply-desktoptheme/"
 description: "Switch Plasma desktop themes effortlessly with plasma-apply-desktoptheme.  Manage and apply themes using the command line. Free online tool, no registration required."
 category: linux

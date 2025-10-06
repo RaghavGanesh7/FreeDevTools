@@ -1,7 +1,7 @@
 ---
 title: "Format Text - Improve Text Readability with Gfmt | Online Free DevTools by Hexmos"
 name: gfmt
-path: /freedevtools/tldr/osx/gfmt
+path: "/freedevtools/tldr/osx/gfmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gfmt/"
 description: "Format text effectively with Gfmt. Improve text readability and consistency across documents using command-line formatting. Free online tool, no registration required."
 category: osx

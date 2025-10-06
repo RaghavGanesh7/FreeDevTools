@@ -1,7 +1,7 @@
 ---
 title: "QM Importdisk - Import Disk Images | Online Free DevTools by Hexmos"
 name: qm-importdisk
-path: /freedevtools/tldr/linux/qm-importdisk
+path: "/freedevtools/tldr/linux/qm-importdisk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-importdisk/"
 description: "Import disk images with QM Importdisk for Proxmox virtualization. Convert and import virtual disk files for seamless integration. Free online tool, no registration required."
 category: linux

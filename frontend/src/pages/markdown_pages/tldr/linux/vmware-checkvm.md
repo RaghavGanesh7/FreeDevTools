@@ -1,7 +1,7 @@
 ---
 title: "VMware CheckVM - Detect VMware Virtual Machine | Online Free DevTools by Hexmos"
 name: vmware-checkvm
-path: /freedevtools/tldr/linux/vmware-checkvm
+path: "/freedevtools/tldr/linux/vmware-checkvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vmware-checkvm/"
 description: "Detect VMware virtual machines with VMware CheckVM. Determine if a system is virtualized and retrieve VMware version information. Free online tool, no registration required."
 category: linux

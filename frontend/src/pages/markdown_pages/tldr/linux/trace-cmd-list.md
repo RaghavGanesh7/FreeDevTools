@@ -1,7 +1,7 @@
 ---
 title: "Trace-cmd List - Show Tracers and Events | Online Free DevTools by Hexmos"
 name: trace-cmd-list
-path: /freedevtools/tldr/linux/trace-cmd-list
+path: "/freedevtools/tldr/linux/trace-cmd-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trace-cmd-list/"
 description: "Show available tracers with trace-cmd list. Inspect Linux tracing options, events, and functions for kernel debugging. Free online tool, no registration required."
 category: linux

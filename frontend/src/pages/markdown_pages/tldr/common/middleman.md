@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Sites - Middleman Generator | Online Free DevTools by Hexmos"
 name: middleman
-path: /freedevtools/tldr/common/middleman
+path: "/freedevtools/tldr/common/middleman/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/middleman/"
 description: "Generate static websites with Middleman, the Ruby static site generator. Build, deploy, and manage your site effortlessly. Free online tool, no registration required."
 category: common

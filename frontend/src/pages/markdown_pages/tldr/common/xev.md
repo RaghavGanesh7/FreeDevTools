@@ -1,7 +1,7 @@
 ---
 title: "Monitor X Events - Analyze X11 Activity | Online Free DevTools by Hexmos"
 name: xev
-path: /freedevtools/tldr/common/xev
+path: "/freedevtools/tldr/common/xev/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xev/"
 description: "Monitor X events instantly with xev. Analyze X11 activity, track window changes, and debug graphical applications. Free online tool, no registration required."
 category: common

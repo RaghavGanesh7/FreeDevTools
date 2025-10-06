@@ -1,7 +1,7 @@
 ---
 title: "Calendar - Display Calendar Information | Online Free DevTools by Hexmos"
 name: cal
-path: /freedevtools/tldr/netbsd/cal
+path: "/freedevtools/tldr/netbsd/cal/"
 canonical: "https://hexmos.com/freedevtools/tldr/netbsd/cal/"
 description: "Display calendar information instantly with cal. Show current month, specific year or month with year. Free online tool, no registration required."
 category: netbsd

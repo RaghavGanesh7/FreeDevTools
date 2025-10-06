@@ -1,7 +1,7 @@
 ---
 title: "Shell Then - Control Shell Branching | Online Free DevTools by Hexmos"
 name: then
-path: /freedevtools/tldr/common/then
+path: "/freedevtools/tldr/common/then/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/then/"
 description: "Control shell branching with Shell Then command. Manage conditional logic and execute different code blocks in shell scripts. Free online tool, no registration required."
 category: common

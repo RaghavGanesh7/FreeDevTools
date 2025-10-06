@@ -1,7 +1,7 @@
 ---
 title: "Edit Files - View Files with Mailcap | Online Free DevTools by Hexmos"
 name: edit
-path: /freedevtools/tldr/linux/edit
+path: "/freedevtools/tldr/linux/edit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/edit/"
 description: "Edit files effortlessly with Mailcap using this command alias. View files with the default mailcap explorer and streamline file processing. Free online tool, no registration required."
 category: linux

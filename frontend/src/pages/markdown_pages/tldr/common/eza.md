@@ -1,7 +1,7 @@
 ---
 title: "List Files - Control File Listing with eza | Online Free DevTools by Hexmos"
 name: eza
-path: /freedevtools/tldr/common/eza
+path: "/freedevtools/tldr/common/eza/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eza/"
 description: "Control file listing and directory navigation with eza, a modern replacement for ls. Explore files, sort by size, and view git status with this command-line tool. Free online tool, no registration required."
 category: common

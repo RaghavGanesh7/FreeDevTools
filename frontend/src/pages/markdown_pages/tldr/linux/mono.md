@@ -1,7 +1,7 @@
 ---
 title: "Mono Runtime - Run .NET Assemblies | Online Free DevTools by Hexmos"
 name: mono
-path: /freedevtools/tldr/linux/mono
+path: "/freedevtools/tldr/linux/mono/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mono/"
 description: "Run .NET assemblies with the Mono runtime. Execute and debug .NET programs effortlessly using command-line interface. Free online tool, no registration required."
 category: linux

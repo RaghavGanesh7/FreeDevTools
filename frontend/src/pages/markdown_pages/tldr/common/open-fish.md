@@ -1,7 +1,7 @@
 ---
 title: "Open Files - Access Files & URIs | Online Free DevTools by Hexmos"
 name: open.fish
-path: /freedevtools/tldr/common/open-fish
+path: "/freedevtools/tldr/common/open-fish/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/open-fish/"
 description: "Access files with Open command. Quickly open files, directories, and URIs using default applications across platforms. Free online tool, no registration required."
 category: common

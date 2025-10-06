@@ -1,7 +1,7 @@
 ---
 title: "Execute R Scripts - Run R Code | Online Free DevTools by Hexmos"
 name: rscript
-path: /freedevtools/tldr/common/rscript
+path: "/freedevtools/tldr/common/rscript/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rscript/"
 description: "Execute R scripts with Rscript, the command-line interface for the R programming language. Process data analysis tasks efficiently. Free online tool, no registration required."
 category: common

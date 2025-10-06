@@ -1,7 +1,7 @@
 ---
 title: "Create Python Virtual Environments - venv | Online Free DevTools by Hexmos"
 name: venv
-path: /freedevtools/tldr/common/venv
+path: "/freedevtools/tldr/common/venv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/venv/"
 description: "Create virtual environments with venv. Isolate project dependencies and manage Python versions effectively. Free online tool, no registration required."
 category: common

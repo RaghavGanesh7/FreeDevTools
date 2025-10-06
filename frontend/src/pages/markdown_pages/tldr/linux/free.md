@@ -1,7 +1,7 @@
 ---
 title: "Memory Monitor - Display System Memory Usage | Online Free DevTools by Hexmos"
 name: free
-path: /freedevtools/tldr/linux/free
+path: "/freedevtools/tldr/linux/free/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/free/"
 description: "Monitor system memory usage with the free command.  View free and used RAM,  easily check memory statistics in various units. Free online tool, no registration required."
 category: linux

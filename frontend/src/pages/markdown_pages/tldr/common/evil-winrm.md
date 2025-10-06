@@ -1,7 +1,7 @@
 ---
 title: "Evil-WinRM Control - PowerShell Remote Access | Online Free DevTools by Hexmos"
 name: evil-winrm
-path: /freedevtools/tldr/common/evil-winrm
+path: "/freedevtools/tldr/common/evil-winrm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/evil-winrm/"
 description: "Control remote Windows machines with Evil-WinRM, a powerful PowerShell remote access tool. Gain shell access and manage systems effectively. Free online tool, no registration required."
 category: common

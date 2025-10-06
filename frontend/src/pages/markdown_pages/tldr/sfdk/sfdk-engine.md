@@ -1,7 +1,7 @@
 ---
 title: "SFDK Engine - Control Build Processes | Online Free DevTools by Hexmos"
 name: sfdk-engine
-path: /freedevtools/tldr/sfdk/sfdk-engine
+path: "/freedevtools/tldr/sfdk/sfdk-engine/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-engine/"
 description: "Control build processes with SFDK Engine. Manage engine properties, execute commands, and monitor build status for Sailfish OS. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Cipher - Control File Encryption on Windows | Online Free DevTools by Hexmos"
 name: cipher
-path: /freedevtools/tldr/windows/cipher
+path: "/freedevtools/tldr/windows/cipher/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/cipher/"
 description: "Control file encryption with Cipher on Windows. Securely encrypt, decrypt, and wipe files and directories on NTFS volumes. Free online tool, no registration required."
 category: windows

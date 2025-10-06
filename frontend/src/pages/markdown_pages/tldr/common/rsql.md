@@ -1,7 +1,7 @@
 ---
 title: "RSQL - Query Databases Interactively | Online Free DevTools by Hexmos"
 name: rsql
-path: /freedevtools/tldr/common/rsql
+path: "/freedevtools/tldr/common/rsql/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rsql/"
 description: "Query databases interactively with RSQL. Connect to various data sources like PostgreSQL, MySQL, and SQLite. Free online tool, no registration required."
 category: common

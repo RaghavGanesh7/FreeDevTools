@@ -1,7 +1,7 @@
 ---
 title: "Atuin - Search Shell History | Online Free DevTools by Hexmos"
 name: atuin
-path: "/freedevtools/tldr/common/atuin"
+path: "/freedevtools/tldr/common/atuin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/atuin/"
 description: "Search shell history efficiently with Atuin. Store, sync, and search your shell history across machines with encryption. Free online tool, no registration required."
 category: common

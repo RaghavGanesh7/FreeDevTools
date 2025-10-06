@@ -1,7 +1,7 @@
 ---
 title: "SecretHub - Manage Secrets Securely | Online Free DevTools by Hexmos"
 name: secrethub
-path: "/freedevtools/tldr/common/secrethub"
+path: "/freedevtools/tldr/common/secrethub/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/secrethub/"
 description: "Manage secrets securely with SecretHub. Keep sensitive data out of configuration files and automate secret rotation. Free online tool, no registration required."
 category: common

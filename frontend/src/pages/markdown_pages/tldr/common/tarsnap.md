@@ -1,7 +1,7 @@
 ---
 title: "Tarsnap Backup - Control Encrypted Archives | Online Free DevTools by Hexmos"
 name: tarsnap
-path: "/freedevtools/tldr/common/tarsnap"
+path: "/freedevtools/tldr/common/tarsnap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tarsnap/"
 description: "Control Tarsnap encrypted backups with this online tool. Create, list, delete, and restore archives securely. Free online tool, no registration required."
 category: common

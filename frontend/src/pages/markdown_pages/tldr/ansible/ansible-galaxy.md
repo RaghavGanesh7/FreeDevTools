@@ -1,7 +1,7 @@
 ---
 title: "Ansible Galaxy - Manage Roles & Collections | Online Free DevTools by Hexmos"
 name: ansible-galaxy
-path: /freedevtools/tldr/ansible/ansible-galaxy
+path: "/freedevtools/tldr/ansible/ansible-galaxy/"
 canonical: "https://hexmos.com/freedevtools/tldr/ansible/ansible-galaxy/"
 description: "Manage Ansible roles and collections easily with Ansible Galaxy. Install, remove, search, and initialize roles & collections with this command line tool. Free online tool, no registration required."
 category: common

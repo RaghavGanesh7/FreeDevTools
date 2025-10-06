@@ -1,7 +1,7 @@
 ---
 title: "Validate Logstash Configuration - ETL Tool | Online Free DevTools by Hexmos"
 name: logstash
-path: /freedevtools/tldr/common/logstash
+path: "/freedevtools/tldr/common/logstash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/logstash/"
 description: "Validate Logstash configuration files with ease using this online tool. Analyze and test configurations before deployment. Free online tool, no registration required."
 category: common

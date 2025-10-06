@@ -1,7 +1,7 @@
 ---
 title: "Caja - Manage Files and Directories | Online Free DevTools by Hexmos"
 name: caja
-path: /freedevtools/tldr/linux/caja
+path: "/freedevtools/tldr/linux/caja/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/caja/"
 description: "Manage files with Caja, the MATE file manager for Linux. Navigate directories, open in tabs, and customize window sizes. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Thunderbird - Email Client | Online Free DevTools by Hexmos"
 name: thunderbird
-path: /freedevtools/tldr/common/thunderbird
+path: "/freedevtools/tldr/common/thunderbird/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/thunderbird/"
 description: "Control Thunderbird email client with this tool. Manage profiles and launch Thunderbird via command line for efficient email management. Free online tool, no registration required."
 category: common

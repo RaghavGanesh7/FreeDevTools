@@ -1,7 +1,7 @@
 ---
 title: "Web Search - Query Websites from Terminal | Online Free DevTools by Hexmos"
 name: s
-path: /freedevtools/tldr/common/s
+path: "/freedevtools/tldr/common/s/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/s/"
 description: "Web search directly from your terminal with 's'. Quickly search Google and other providers using command line. Free online tool, no registration required."
 category: common

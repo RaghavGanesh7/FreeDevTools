@@ -1,7 +1,7 @@
 ---
 title: "pw-profiler - Profile Instances | Online Free DevTools by Hexmos"
 name: pw-profiler
-path: /freedevtools/tldr/linux/pw-profiler
+path: "/freedevtools/tldr/linux/pw-profiler/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-profiler/"
 description: "Profile instances easily with pw-profiler. Analyze performance, identify bottlenecks and optimize applications. Free online tool, no registration required."
 category: linux

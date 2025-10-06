@@ -1,7 +1,7 @@
 ---
 title: "Convert XBM to PBM - Image Conversion | Online Free DevTools by Hexmos"
 name: xbmtopbm
-path: /freedevtools/tldr/common/xbmtopbm
+path: "/freedevtools/tldr/common/xbmtopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xbmtopbm/"
 description: "Convert XBM images to PBM format with xbmtopbm. Effortlessly transform bitmap files using this command-line tool. Free online tool, no registration required."
 category: common

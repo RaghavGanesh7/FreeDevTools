@@ -1,7 +1,7 @@
 ---
 title: "DNSTracer - Trace DNS Path | Online Free DevTools by Hexmos"
 name: dnstracer
-path: /freedevtools/tldr/linux/dnstracer
+path: "/freedevtools/tldr/linux/dnstracer/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnstracer/"
 description: "Trace DNS path with DNSTracer. Discover the DNS servers a query traverses to resolve a domain. Free online tool, no registration required."
 category: linux

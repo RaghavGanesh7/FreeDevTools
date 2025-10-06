@@ -1,7 +1,7 @@
 ---
 title: "Convert Markdown to PDF - Create PDFs Online | Online Free DevTools by Hexmos"
 name: markdown2pdf
-path: /freedevtools/tldr/common/markdown2pdf
+path: "/freedevtools/tldr/common/markdown2pdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/markdown2pdf/"
 description: "Convert Markdown documents to PDF with markdown2pdf. Generate professional-looking PDFs from your Markdown files effortlessly. Free online tool, no registration required."
 category: common

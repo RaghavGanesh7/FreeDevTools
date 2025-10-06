@@ -1,7 +1,7 @@
 ---
 title: "Netperf Server - Control Network Throughput | Online Free DevTools by Hexmos"
 name: netserver
-path: /freedevtools/tldr/common/netserver
+path: "/freedevtools/tldr/common/netserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/netserver/"
 description: "Control network throughput with Netperf Server. Benchmark network performance and analyze data transfer rates with this powerful command-line tool. Free online tool, no registration required."
 category: common

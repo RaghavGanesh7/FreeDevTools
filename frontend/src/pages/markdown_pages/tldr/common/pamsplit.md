@@ -1,7 +1,7 @@
 ---
 title: "Split Netpbm Images - Divide PAM Files | Online Free DevTools by Hexmos"
 name: pamsplit
-path: /freedevtools/tldr/common/pamsplit
+path: "/freedevtools/tldr/common/pamsplit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamsplit/"
 description: "Split Netpbm images with pamsplit. Divide multi-image PAM files into individual images for easier manipulation and storage. Free online tool, no registration required."
 category: common

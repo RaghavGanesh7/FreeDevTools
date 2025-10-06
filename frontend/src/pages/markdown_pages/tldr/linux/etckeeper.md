@@ -1,7 +1,7 @@
 ---
 title: "Control etckeeper - Track Configs in Git | Online Free DevTools by Hexmos"
 name: etckeeper
-path: /freedevtools/tldr/linux/etckeeper
+path: "/freedevtools/tldr/linux/etckeeper/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/etckeeper/"
 description: "Control system configuration files with etckeeper. Track changes, manage commits, and run Git commands directly within /etc. Free online tool, no registration required."
 category: linux

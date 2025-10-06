@@ -1,7 +1,7 @@
 ---
 title: "ProtonVPN Client - Control VPN Connections | Online Free DevTools by Hexmos"
 name: protonvpn
-path: /freedevtools/tldr/linux/protonvpn
+path: "/freedevtools/tldr/linux/protonvpn/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/protonvpn/"
 description: "Control VPN connections with ProtonVPN Client. Manage connection status, reconnect to servers, and refresh configurations. Free online tool, no registration required."
 category: linux

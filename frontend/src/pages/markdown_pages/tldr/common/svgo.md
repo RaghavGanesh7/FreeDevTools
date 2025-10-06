@@ -1,7 +1,7 @@
 ---
 title: "Optimize SVG - Optimize Vector Graphics with SVGO | Online Free DevTools by Hexmos"
 name: svgo
-path: /freedevtools/tldr/common/svgo
+path: "/freedevtools/tldr/common/svgo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/svgo/"
 description: "Optimize SVG vector graphics with SVGO. Reduce file sizes and improve website performance with this versatile optimizer. Free online tool, no registration required."
 category: common

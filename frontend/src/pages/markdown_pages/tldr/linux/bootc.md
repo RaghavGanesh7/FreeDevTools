@@ -1,7 +1,7 @@
 ---
 title: "Bootc Manager - Control Linux OS Images | Online Free DevTools by Hexmos"
 name: bootc
-path: /freedevtools/tldr/linux/bootc
+path: "/freedevtools/tldr/linux/bootc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bootc/"
 description: "Control Linux OS images with Bootc Manager. Switch deployments, rollback updates, and upgrade your system in place. Free online tool, no registration required."
 category: linux

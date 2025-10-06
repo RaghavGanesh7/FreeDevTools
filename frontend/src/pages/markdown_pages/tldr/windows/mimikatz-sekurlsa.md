@@ -1,7 +1,7 @@
 ---
 title: "Extract Mimikatz Secrets - Dump Credentials | Online Free DevTools by Hexmos"
 name: mimikatz-sekurlsa
-path: /freedevtools/tldr/windows/mimikatz-sekurlsa
+path: "/freedevtools/tldr/windows/mimikatz-sekurlsa/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-sekurlsa/"
 description: "Extract passwords with Mimikatz sekurlsa. Dump credentials, secrets, and Kerberos tickets from Windows memory. Free online tool, no registration required."
 category: windows

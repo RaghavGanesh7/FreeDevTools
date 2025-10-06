@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - Create Atari PI3 Images | Online Free DevTools by Hexmos"
 name: pbmtopi3
-path: /freedevtools/tldr/common/pbmtopi3
+path: "/freedevtools/tldr/common/pbmtopi3/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtopi3/"
 description: "Convert PBM images with pbmtopi3. Generate Atari Degas PI3 images from PBM files quickly and easily. Free online tool, no registration required."
 category: common

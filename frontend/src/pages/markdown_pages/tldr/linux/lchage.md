@@ -1,7 +1,7 @@
 ---
 title: "Manage Linux Passwords - Control User Policies with lchage | Online Free DevTools by Hexmos"
 name: lchage
-path: /freedevtools/tldr/linux/lchage
+path: "/freedevtools/tldr/linux/lchage/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lchage/"
 description: "Control Linux user password policies with lchage.  Manage password expiration, enforce password changes, and set warning periods. Free online tool, no registration required."
 category: linux

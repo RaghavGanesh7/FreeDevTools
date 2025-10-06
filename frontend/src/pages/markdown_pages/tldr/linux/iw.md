@@ -1,7 +1,7 @@
 ---
 title: "Control Wireless Devices - Using Linux 'iw' | Online Free DevTools by Hexmos"
 name: iw
-path: /freedevtools/tldr/linux/iw
+path: "/freedevtools/tldr/linux/iw/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iw/"
 description: "Control wireless devices with 'iw' command on Linux. Manage network connections, scan available networks, and show device information. Free online tool, no registration required."
 category: linux

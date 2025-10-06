@@ -1,7 +1,7 @@
 ---
 title: "Hashcat - Recover Passwords Rapidly | Online Free DevTools by Hexmos"
 name: hashcat
-path: /freedevtools/tldr/common/hashcat
+path: "/freedevtools/tldr/common/hashcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hashcat/"
 description: "Recover passwords rapidly with Hashcat, the advanced password recovery tool. Perform brute-force, dictionary, and rule-based attacks. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Exercism - Download Coding Exercises | Online Free DevTools by Hexmos"
 name: exercism
-path: /freedevtools/tldr/common/exercism
+path: "/freedevtools/tldr/common/exercism/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exercism/"
 description: "Download coding exercises easily with Exercism. Solve coding challenges in various languages, submit solutions, and get feedback. Free online tool, no registration required."
 category: common

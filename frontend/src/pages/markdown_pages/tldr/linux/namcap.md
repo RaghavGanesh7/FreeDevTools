@@ -1,7 +1,7 @@
 ---
 title: "Validate Package - Check PKGBUILD Files with namcap | Online Free DevTools by Hexmos"
 name: namcap
-path: /freedevtools/tldr/linux/namcap
+path: "/freedevtools/tldr/linux/namcap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/namcap/"
 description: "Validate package integrity with namcap on Linux. Check PKGBUILD files for errors and common mistakes to improve software quality. Free online tool, no registration required."
 category: linux

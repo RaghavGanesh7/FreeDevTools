@@ -1,7 +1,7 @@
 ---
 title: "PIA Control - Manage Private Internet Access via Command Line | Online Free DevTools by Hexmos"
 name: piactl
-path: /freedevtools/tldr/common/piactl
+path: "/freedevtools/tldr/common/piactl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/piactl/"
 description: "Control Private Internet Access VPN with PIACTL. Securely manage connections, regions, and background settings via the command line. Free online tool, no registration required."
 category: common

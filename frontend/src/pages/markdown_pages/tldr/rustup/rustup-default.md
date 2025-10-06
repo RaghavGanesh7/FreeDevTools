@@ -1,7 +1,7 @@
 ---
 title: "Rust Toolchain - Control Rust Versions with Rustup | Online Free DevTools by Hexmos"
 name: rustup-default
-path: /freedevtools/tldr/rustup/rustup-default
+path: "/freedevtools/tldr/rustup/rustup-default/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-default/"
 description: "Control Rust versions easily with Rustup Toolchain Manager. Set default Rust version and manage multiple toolchains with ease. Free online tool, no registration required."
 category: common

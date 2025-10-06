@@ -1,7 +1,7 @@
 ---
 title: "Montage Images - Create Image Grids with Magick | Online Free DevTools by Hexmos"
 name: magick-montage
-path: /freedevtools/tldr/magick/magick-montage
+path: "/freedevtools/tldr/magick/magick-montage/"
 canonical: "https://hexmos.com/freedevtools/tldr/magick/magick-montage/"
 description: "Create image grids with Magick Montage. Tile and resize images effortlessly to generate custom montages. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Parted - Control Disk Partitions | Online Free DevTools by Hexmos"
 name: parted
-path: /freedevtools/tldr/linux/parted
+path: "/freedevtools/tldr/linux/parted/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/parted/"
 description: "Control disk partitions with Parted. Create partition tables, resize partitions, and manage flags on Linux devices. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Print Directory - Show Current Path | Online Free DevTools by Hexmos"
 name: pwd
-path: /freedevtools/tldr/common/pwd
+path: "/freedevtools/tldr/common/pwd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pwd/"
 description: "Show current directory with Print Directory. Reveal absolute path, resolve symlinks, and understand directory structure. Free online tool, no registration required."
 category: common

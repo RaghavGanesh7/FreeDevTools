@@ -1,7 +1,7 @@
 ---
 title: "NPM Org - Manage Organization Memberships | Online Free DevTools by Hexmos"
 name: npm-org
-path: /freedevtools/tldr/npm/npm-org
+path: "/freedevtools/tldr/npm/npm-org/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-org/"
 description: "Manage NPM organization memberships efficiently with NPM Org. Add users, change roles, and list organization members. Free online tool, no registration required."
 category: common

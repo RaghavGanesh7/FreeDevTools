@@ -1,7 +1,7 @@
 ---
 title: "Sync AUR Packages - Automate Builds | Online Free DevTools by Hexmos"
 name: aur-sync
-path: /freedevtools/tldr/linux/aur-sync
+path: "/freedevtools/tldr/linux/aur-sync/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aur-sync/"
 description: "Automate AUR package syncing with aur-sync. Build, download, and upgrade packages from the Arch User Repository. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Objdump - View Object File Information | Online Free DevTools by Hexmos"
 name: objdump
-path: /freedevtools/tldr/common/objdump
+path: "/freedevtools/tldr/common/objdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/objdump/"
 description: "View object file information with Objdump. Analyze binaries, examine headers, and disassemble code. Free online tool, no registration required."
 category: common

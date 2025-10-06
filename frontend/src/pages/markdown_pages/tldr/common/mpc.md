@@ -1,7 +1,7 @@
 ---
 title: "Control MPD - Music Player Client Command | Online Free DevTools by Hexmos"
 name: mpc
-path: /freedevtools/tldr/common/mpc
+path: "/freedevtools/tldr/common/mpc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpc/"
 description: "Control music playback with MPC (Music Player Client). Manage MPD server, playlist, and queue. Free online tool, no registration required."
 category: common

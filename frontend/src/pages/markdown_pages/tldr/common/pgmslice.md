@@ -1,7 +1,7 @@
 ---
 title: "PGM Slice - Extract PGM Image Slices | Online Free DevTools by Hexmos"
 name: pgmslice
-path: /freedevtools/tldr/common/pgmslice
+path: "/freedevtools/tldr/common/pgmslice/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmslice/"
 description: "Extract image slices from PGM files with PGM Slice. Convert and manipulate image data with this command-line tool. Free online tool, no registration required."
 category: common

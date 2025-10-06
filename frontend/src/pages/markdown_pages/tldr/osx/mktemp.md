@@ -1,7 +1,7 @@
 ---
 title: "Create Temporary File - Generate Temp Files | Online Free DevTools by Hexmos"
 name: mktemp
-path: /freedevtools/tldr/osx/mktemp
+path: "/freedevtools/tldr/osx/mktemp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mktemp/"
 description: "Create temporary files with mktemp. Generate secure temporary files and directories quickly using the command line. Free online tool, no registration required."
 category: osx

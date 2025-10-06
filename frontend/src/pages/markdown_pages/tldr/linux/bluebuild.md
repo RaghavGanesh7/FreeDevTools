@@ -1,7 +1,7 @@
 ---
 title: "Bluebuild - Generate Container Images | Online Free DevTools by Hexmos"
 name: bluebuild
-path: /freedevtools/tldr/linux/bluebuild
+path: "/freedevtools/tldr/linux/bluebuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bluebuild/"
 description: "Generate container images with Bluebuild. Build Containerfiles, validate recipes, and create custom ISOs from your recipe.yml. Free online tool, no registration required."
 category: linux

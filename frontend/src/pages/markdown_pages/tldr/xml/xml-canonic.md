@@ -1,7 +1,7 @@
 ---
 title: "XML Canonicalize - Format XML Documents | Online Free DevTools by Hexmos"
 name: xml-canonic
-path: /freedevtools/tldr/xml/xml-canonic
+path: "/freedevtools/tldr/xml/xml-canonic/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-canonic/"
 description: "Format XML documents using XML Canonicalize with precise control over comments. Transform XML into canonical form quickly with this free online tool, no registration required."
 category: common

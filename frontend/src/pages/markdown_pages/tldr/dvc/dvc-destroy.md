@@ -1,7 +1,7 @@
 ---
 title: "DVC Destroy - Remove DVC Files Easily | Online Free DevTools by Hexmos"
 name: dvc-destroy
-path: /freedevtools/tldr/dvc/dvc-destroy
+path: "/freedevtools/tldr/dvc/dvc-destroy/"
 canonical: "https://hexmos.com/freedevtools/tldr/dvc/dvc-destroy/"
 description: "Remove DVC files with DVC Destroy. Clean up your DVC project, delete DVC directories, and ensure a fresh start. Free online tool, no registration required."
 category: common

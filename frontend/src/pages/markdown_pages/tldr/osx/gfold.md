@@ -1,7 +1,7 @@
 ---
 title: "Gfold - Format Text to Specified Width | Online Free DevTools by Hexmos"
 name: gfold
-path: /freedevtools/tldr/osx/gfold
+path: "/freedevtools/tldr/osx/gfold/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gfold/"
 description: "Format text with Gfold for consistent output on macOS. Wrap lines to specified widths, perfect for readability and terminal display. Free online tool, no registration required."
 category: osx

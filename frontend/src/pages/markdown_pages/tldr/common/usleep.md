@@ -1,7 +1,7 @@
 ---
 title: "Delay Execution - Control Delay with usleep | Online Free DevTools by Hexmos"
 name: usleep
-path: /freedevtools/tldr/common/usleep
+path: "/freedevtools/tldr/common/usleep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/usleep/"
 description: "Control delay execution with usleep. Microsecond time delay tool for scripts and commands, offering precision timing control. Free online tool, no registration required."
 category: common

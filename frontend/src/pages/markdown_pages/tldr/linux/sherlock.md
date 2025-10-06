@@ -1,7 +1,7 @@
 ---
 title: "Sherlock - Find Usernames | Social Network Search | Online Free DevTools by Hexmos"
 name: sherlock
-path: /freedevtools/tldr/linux/sherlock
+path: "/freedevtools/tldr/linux/sherlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sherlock/"
 description: "Find usernames across social networks with Sherlock. Discover online profiles, track social media presence, and investigate digital footprints. Free online tool, no registration required."
 category: linux

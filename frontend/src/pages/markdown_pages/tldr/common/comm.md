@@ -1,7 +1,7 @@
 ---
 title: "Comm - Compare and Filter Lines | Online Free DevTools by Hexmos"
 name: comm
-path: /freedevtools/tldr/common/comm
+path: "/freedevtools/tldr/common/comm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/comm/"
 description: "Compare lines with Comm, a powerful file comparison utility. Select, reject, or isolate common and unique lines between two sorted files. Free online tool, no registration required."
 category: common

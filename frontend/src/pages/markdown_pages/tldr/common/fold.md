@@ -1,7 +1,7 @@
 ---
 title: "Format Text - Wrap Lines with Fold Command | Online Free DevTools by Hexmos"
 name: fold
-path: /freedevtools/tldr/common/fold
+path: "/freedevtools/tldr/common/fold/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fold/"
 description: "Format text files by wrapping lines with the Fold command. Control text output for improved readability using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "WirePlumber - Manage PipeWire Sessions | Online Free DevTools by Hexmos"
 name: wireplumber
-path: /freedevtools/tldr/linux/wireplumber
+path: "/freedevtools/tldr/linux/wireplumber/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wireplumber/"
 description: "Manage PipeWire audio sessions efficiently with WirePlumber.  Control audio routing and policies using simple commands. Free online tool, no registration required."
 category: linux

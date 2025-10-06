@@ -1,7 +1,7 @@
 ---
 title: "Dstat - Generate System Statistics | Online Free DevTools by Hexmos"
 name: dstat
-path: /freedevtools/tldr/linux/dstat
+path: "/freedevtools/tldr/linux/dstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dstat/"
 description: "Generate system statistics with Dstat. Monitor CPU usage, disk I/O, network traffic, and more using command line. Free online tool, no registration required."
 category: linux

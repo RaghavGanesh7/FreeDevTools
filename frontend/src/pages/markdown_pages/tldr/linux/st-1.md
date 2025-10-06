@@ -1,7 +1,7 @@
 ---
 title: "Control Terminal Sessions with st - Simple Terminal Emulator | Online Free DevTools by Hexmos"
 name: st.1
-path: /freedevtools/tldr/linux/st-1
+path: "/freedevtools/tldr/linux/st-1/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/st-1/"
 description: "Control terminal sessions efficiently with the st terminal emulator.  Open terminals, execute commands, and manage output with ease. Free online tool, no registration required."
 category: linux

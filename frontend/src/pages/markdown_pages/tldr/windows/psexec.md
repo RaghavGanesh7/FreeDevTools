@@ -1,7 +1,7 @@
 ---
 title: "Execute Remote Commands - Control PCs with PsExec | Online Free DevTools by Hexmos"
 name: psexec
-path: "/freedevtools/tldr/windows/psexec"
+path: "/freedevtools/tldr/windows/psexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/psexec/"
 description: "Execute remote commands with PsExec. Control remote Windows PCs, manage processes, and access network resources securely. Free online tool, no registration required."
 category: windows

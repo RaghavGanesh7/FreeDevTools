@@ -1,7 +1,7 @@
 ---
 title: "Merge Hidden Files - Control dot_clean on macOS | Online Free DevTools by Hexmos"
 name: dot_clean
-path: /freedevtools/tldr/osx/dot_clean
+path: "/freedevtools/tldr/osx/dot_clean/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/dot_clean/"
 description: "Merge hidden files with dot_clean on macOS. Clean up and manage metadata files associated with native files effectively. Free online tool, no registration required."
 category: osx

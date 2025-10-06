@@ -1,7 +1,7 @@
 ---
 title: "Control Gtalk - Communicate via Command Line | Online Free DevTools by Hexmos"
 name: gtalk
-path: /freedevtools/tldr/osx/gtalk
+path: "/freedevtools/tldr/osx/gtalk/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtalk/"
 description: "Control Gtalk instantly using the command line. Communicate with other users and manage sessions. A simple and fast way to text from your terminal. Free online tool, no registration required."
 category: osx

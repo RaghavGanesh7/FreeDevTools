@@ -1,7 +1,7 @@
 ---
 title: "SSH Copy ID - Install Public Keys | Online Free DevTools by Hexmos"
 name: ssh-copy-id
-path: /freedevtools/tldr/ssh/ssh-copy-id
+path: "/freedevtools/tldr/ssh/ssh-copy-id/"
 canonical: "https://hexmos.com/freedevtools/tldr/ssh/ssh-copy-id/"
 description: "Install public keys with SSH Copy ID to securely access remote servers. Quickly copy your SSH keys for passwordless authentication. Free online tool, no registration required."
 category: common

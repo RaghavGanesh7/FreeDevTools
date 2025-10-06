@@ -1,7 +1,7 @@
 ---
 title: "Change Directory - Control File Paths on Windows | Online Free DevTools by Hexmos"
 name: chdir
-path: /freedevtools/tldr/windows/chdir
+path: "/freedevtools/tldr/windows/chdir/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/chdir/"
 description: "Control file paths instantly with Change Directory on Windows. Quickly navigate directories and manage file system paths using the command line. Free online tool, no registration required."
 category: windows

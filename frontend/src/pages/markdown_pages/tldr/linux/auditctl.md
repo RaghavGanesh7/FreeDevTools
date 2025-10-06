@@ -1,7 +1,7 @@
 ---
 title: "Auditctl - Control Linux Auditing System | Online Free DevTools by Hexmos"
 name: auditctl
-path: /freedevtools/tldr/linux/auditctl
+path: "/freedevtools/tldr/linux/auditctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/auditctl/"
 description: "Control Linux audit system behavior with auditctl. Manage audit rules, view system status, and monitor file changes. Free online tool, no registration required."
 category: linux

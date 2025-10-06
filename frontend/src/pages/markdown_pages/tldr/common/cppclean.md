@@ -1,7 +1,7 @@
 ---
 title: "CppClean - Find Unused C++ Code | Online Free DevTools by Hexmos"
 name: cppclean
-path: /freedevtools/tldr/common/cppclean
+path: "/freedevtools/tldr/common/cppclean/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cppclean/"
 description: "Find unused code with CppClean, a static analysis tool for C++ projects. Identify dead code, simplify your codebase, and improve maintainability. Free online tool, no registration required."
 category: common

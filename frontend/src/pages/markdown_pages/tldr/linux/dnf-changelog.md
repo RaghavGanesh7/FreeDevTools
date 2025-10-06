@@ -1,7 +1,7 @@
 ---
 title: "View DNF Changelog - Package Change Logs | Online Free DevTools by Hexmos"
 name: dnf-changelog
-path: /freedevtools/tldr/linux/dnf-changelog
+path: "/freedevtools/tldr/linux/dnf-changelog/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf-changelog/"
 description: "View package change logs with DNF changelog.  Easily check updates and track changes in your Linux packages. Free online resource, no registration required."
 category: linux

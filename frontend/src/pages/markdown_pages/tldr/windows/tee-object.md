@@ -1,7 +1,7 @@
 ---
 title: "Tee-Object - Save Command Output | Online Free DevTools by Hexmos"
 name: tee-object
-path: /freedevtools/tldr/windows/tee-object
+path: "/freedevtools/tldr/windows/tee-object/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/tee-object/"
 description: "Save command output with Tee-Object and send it down the pipeline. Enhance PowerShell scripting efficiency. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "File Rename - Rename Files Easily | Online Free DevTools by Hexmos"
 name: file-rename
-path: /freedevtools/tldr/common/file-rename
+path: "/freedevtools/tldr/common/file-rename/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/file-rename/"
 description: "Rename files quickly with File Rename. Batch rename, rename with patterns, and manage file names efficiently. Free online tool, no registration required."
 category: common

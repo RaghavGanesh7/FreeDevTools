@@ -1,7 +1,7 @@
 ---
 title: "Android Package Manager - List Apps | Online Free DevTools by Hexmos"
 name: pm
-path: /freedevtools/tldr/android/pm
+path: "/freedevtools/tldr/android/pm/"
 canonical: "https://hexmos.com/freedevtools/tldr/android/pm/"
 description: "List Android app packages and extract application details with Package Manager. Identify system and third-party apps on Android devices. Free online tool, no registration required."
 category: android

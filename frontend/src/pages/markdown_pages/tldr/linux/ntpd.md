@@ -1,7 +1,7 @@
 ---
 title: "NTP Control - Synchronize Time | Online Free DevTools by Hexmos"
 name: ntpd
-path: /freedevtools/tldr/linux/ntpd
+path: "/freedevtools/tldr/linux/ntpd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ntpd/"
 description: "Synchronize system time with NTP Control using ntpd, the Network Time Protocol daemon. Keep your clock accurate with remote time servers. Free online tool, no registration required."
 category: linux

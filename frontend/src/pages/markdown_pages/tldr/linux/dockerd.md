@@ -1,7 +1,7 @@
 ---
 title: "Docker Daemon - Manage Containers | Online Free DevTools by Hexmos"
 name: dockerd
-path: /freedevtools/tldr/linux/dockerd
+path: "/freedevtools/tldr/linux/dockerd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dockerd/"
 description: "Manage Docker containers efficiently with the dockerd daemon.  Start, stop, and configure Docker using command-line options. Free online tool, no registration required."
 category: linux

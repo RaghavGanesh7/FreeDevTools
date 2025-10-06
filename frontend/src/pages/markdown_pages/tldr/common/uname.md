@@ -1,7 +1,7 @@
 ---
 title: "Uname - Generate System Information | Online Free DevTools by Hexmos"
 name: uname
-path: /freedevtools/tldr/common/uname
+path: "/freedevtools/tldr/common/uname/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/uname/"
 description: "Generate system information with Uname. Quickly retrieve kernel details, hardware architecture, and operating system name. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Auditd - Control Linux Auditing System | Online Free DevTools by Hexmos"
 name: auditd
-path: /freedevtools/tldr/common/auditd
+path: "/freedevtools/tldr/common/auditd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/auditd/"
 description: "Control Linux auditing system with auditd. Monitor system events and track security-relevant information. Free online tool, no registration required."
 category: common

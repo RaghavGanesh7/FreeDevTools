@@ -1,7 +1,7 @@
 ---
 title: "Generate Certificates - mkcert | Online Free DevTools by Hexmos"
 name: mkcert
-path: /freedevtools/tldr/common/mkcert
+path: "/freedevtools/tldr/common/mkcert/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mkcert/"
 description: "Generate trusted development certificates with mkcert. Create localhost certificates and secure your development environment easily. Free online tool, no registration required."
 category: common

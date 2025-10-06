@@ -1,7 +1,7 @@
 ---
 title: "Pants Build Tool - Automate Build Processes | Online Free DevTools by Hexmos"
 name: pants
-path: /freedevtools/tldr/common/pants
+path: "/freedevtools/tldr/common/pants/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pants/"
 description: "Automate builds with Pants, the fast and scalable build system. Streamline development workflows, manage dependencies, and generate distributable packages. Free online tool, no registration required."
 category: common

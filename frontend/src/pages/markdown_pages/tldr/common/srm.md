@@ -1,7 +1,7 @@
 ---
 title: "Secure Remove - Securely Delete Files with srm | Online Free DevTools by Hexmos"
 name: srm
-path: /freedevtools/tldr/common/srm
+path: "/freedevtools/tldr/common/srm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/srm/"
 description: "Securely delete files with srm, overwriting data for enhanced privacy. A secure alternative to 'rm' for Linux and macOS. Free online tool, no registration required."
 category: common

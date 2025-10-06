@@ -1,7 +1,7 @@
 ---
 title: "GrumPHP - Validate PHP Code Quality | Online Free DevTools by Hexmos"
 name: grumphp
-path: /freedevtools/tldr/common/grumphp
+path: "/freedevtools/tldr/common/grumphp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/grumphp/"
 description: "Validate PHP code quality with GrumPHP. Automate code reviews, enforce coding standards, and improve code consistency. Free online tool, no registration required."
 category: common

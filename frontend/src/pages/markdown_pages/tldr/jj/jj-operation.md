@@ -1,7 +1,7 @@
 ---
 title: "JJ Operation - Control Repository History | Online Free DevTools by Hexmos"
 name: jj-operation
-path: /freedevtools/tldr/jj/jj-operation
+path: "/freedevtools/tldr/jj/jj-operation/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-operation/"
 description: "Control repository history with JJ Operation. Revert, restore, and examine changesets effortlessly using command line. Free online tool, no registration required."
 category: common

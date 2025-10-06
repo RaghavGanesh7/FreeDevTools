@@ -1,7 +1,7 @@
 ---
 title: "PNM Scale - Resize Image Files | Online Free DevTools by Hexmos"
 name: pnmscale
-path: /freedevtools/tldr/pnm/pnmscale
+path: "/freedevtools/tldr/pnm/pnmscale/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmscale/"
 description: "Resize image files with PNM Scale. Convert and scale Portable Any Map image formats effortlessly. Free online tool, no registration required."
 category: common

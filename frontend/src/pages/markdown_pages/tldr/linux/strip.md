@@ -1,7 +1,7 @@
 ---
 title: "Strip Tool - Discard Symbols from Executables | Online Free DevTools by Hexmos"
 name: strip
-path: /freedevtools/tldr/linux/strip
+path: "/freedevtools/tldr/linux/strip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/strip/"
 description: "Discard symbols from executables with Strip Tool. Reduce file size and protect your code. Free online tool, no registration required."
 category: linux

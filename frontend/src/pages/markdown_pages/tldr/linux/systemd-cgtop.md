@@ -1,7 +1,7 @@
 ---
 title: "Control Groups - Monitor System Resources with systemd-cgtop | Online Free DevTools by Hexmos"
 name: systemd-cgtop
-path: /freedevtools/tldr/linux/systemd-cgtop
+path: "/freedevtools/tldr/linux/systemd-cgtop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-cgtop/"
 description: "Monitor and control system resource usage with systemd-cgtop.  View CPU, memory, and I/O load for control groups. Free online tool, no registration required."
 category: linux

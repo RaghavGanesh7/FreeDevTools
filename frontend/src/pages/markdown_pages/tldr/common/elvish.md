@@ -1,7 +1,7 @@
 ---
 title: "Elvish Shell - Execute Commands | Online Free DevTools by Hexmos"
 name: elvish
-path: /freedevtools/tldr/common/elvish
+path: "/freedevtools/tldr/common/elvish/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/elvish/"
 description: "Execute commands with Elvish Shell, an expressive programming language and interactive shell for increased productivity. Free online tool, no registration required."
 category: common

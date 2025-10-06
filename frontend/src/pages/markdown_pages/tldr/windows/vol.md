@@ -1,7 +1,7 @@
 ---
 title: "Volume Control - Display Drive Information with VOL | Online Free DevTools by Hexmos"
 name: vol
-path: /freedevtools/tldr/windows/vol
+path: "/freedevtools/tldr/windows/vol/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/vol/"
 description: "Display drive information with Volume (VOL) command. Retrieve volume labels and serial numbers for Windows systems. Free online tool, no registration required."
 category: windows

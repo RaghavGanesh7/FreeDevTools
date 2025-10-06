@@ -1,7 +1,7 @@
 ---
 title: "Convert SGI to PNM - Image Conversion | Online Free DevTools by Hexmos"
 name: sgitopnm
-path: /freedevtools/tldr/common/sgitopnm
+path: "/freedevtools/tldr/common/sgitopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sgitopnm/"
 description: "Convert SGI images to PNM format with Sgitopnm. Quickly transform your SGI files for broader compatibility and image editing. Free online tool, no registration required."
 category: common

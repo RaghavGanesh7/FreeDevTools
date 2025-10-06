@@ -1,7 +1,7 @@
 ---
 title: "Crawl Websites - Manage Scrapy Projects | Online Free DevTools by Hexmos"
 name: scrapy
-path: /freedevtools/tldr/common/scrapy
+path: "/freedevtools/tldr/common/scrapy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scrapy/"
 description: "Crawl websites effectively with Scrapy. Manage web scraping projects, extract data, and automate web crawling tasks. Free online tool, no registration required."
 category: common

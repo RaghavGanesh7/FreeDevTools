@@ -1,7 +1,7 @@
 ---
 title: "Analyze Binaries - Firmware Analysis with Binwalk | Online Free DevTools by Hexmos"
 name: binwalk
-path: /freedevtools/tldr/common/binwalk
+path: "/freedevtools/tldr/common/binwalk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/binwalk/"
 description: "Analyze firmware binaries with Binwalk. Extract embedded files, analyze entropy, and identify file signatures for reverse engineering. Free online tool, no registration required."
 category: common

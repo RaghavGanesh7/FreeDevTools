@@ -1,7 +1,7 @@
 ---
 title: "Convert Raw Image to PGM - Greyscale Converter | Online Free DevTools by Hexmos"
 name: rawtopgm
-path: /freedevtools/tldr/common/rawtopgm
+path: "/freedevtools/tldr/common/rawtopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rawtopgm/"
 description: "Convert raw greyscale images to PGM format with rawtopgm. Efficiently process and manage image file conversions using command line. Free online tool, no registration required."
 category: common

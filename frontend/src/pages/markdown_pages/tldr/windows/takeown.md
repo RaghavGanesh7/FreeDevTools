@@ -1,7 +1,7 @@
 ---
 title: "Takeown - Control File Ownership | Online Free DevTools by Hexmos"
 name: takeown
-path: "/freedevtools/tldr/windows/takeown"
+path: "/freedevtools/tldr/windows/takeown/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/takeown/"
 description: "Control file ownership with Takeown, the Windows command-line tool. Gain access and manage permissions effortlessly. Free online tool, no registration required."
 category: windows

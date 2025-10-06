@@ -1,7 +1,7 @@
 ---
 title: "Control Web Inspector - Remote Target Debugging | Online Free DevTools by Hexmos"
 name: webinspectord
-path: /freedevtools/tldr/osx/webinspectord
+path: "/freedevtools/tldr/osx/webinspectord/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/webinspectord/"
 description: "Control remote target debugging with Web Inspector. Enables communication between Web Inspector and WKWebView for efficient iOS and macOS development. Free online tool, no registration required."
 category: osx

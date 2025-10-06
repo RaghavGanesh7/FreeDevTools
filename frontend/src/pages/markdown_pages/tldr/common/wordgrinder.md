@@ -1,7 +1,7 @@
 ---
 title: "Create Documents with WordGrinder - Text Processor | Online Free DevTools by Hexmos"
 name: wordgrinder
-path: /freedevtools/tldr/common/wordgrinder
+path: "/freedevtools/tldr/common/wordgrinder/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wordgrinder/"
 description: "Create documents instantly with WordGrinder. Format text, open files, and show the menu quickly using command line. Free online tool, no registration required."
 category: common

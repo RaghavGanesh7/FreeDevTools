@@ -1,7 +1,7 @@
 ---
 title: "Prompt - Control Command Window Prompt | Online Free DevTools by Hexmos"
 name: prompt
-path: /freedevtools/tldr/windows/prompt
+path: "/freedevtools/tldr/windows/prompt/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/prompt/"
 description: "Control command window prompt with Prompt. Customize the DOS style prompt in Windows command line. Free online tool, no registration required."
 category: windows

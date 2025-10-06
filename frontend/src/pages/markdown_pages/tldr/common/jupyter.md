@@ -1,7 +1,7 @@
 ---
 title: "Create Jupyter Notebooks - Analyze Data | Online Free DevTools by Hexmos"
 name: jupyter
-path: /freedevtools/tldr/common/jupyter
+path: "/freedevtools/tldr/common/jupyter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jupyter/"
 description: "Create and share interactive data analysis notebooks with Jupyter. Analyze data, perform scientific computing and machine learning tasks. Free online tool, no registration required."
 category: common

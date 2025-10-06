@@ -1,7 +1,7 @@
 ---
 title: "Control Terminal Messages - Mesg Command | Online Free DevTools by Hexmos"
 name: mesg
-path: /freedevtools/tldr/common/mesg
+path: "/freedevtools/tldr/common/mesg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mesg/"
 description: "Control terminal message receiving with Mesg. Allow or disallow messages from the write command, enhancing terminal privacy. Free online tool, no registration required."
 category: common

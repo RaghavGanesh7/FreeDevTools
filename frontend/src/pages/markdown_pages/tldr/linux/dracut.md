@@ -1,7 +1,7 @@
 ---
 title: "Dracut - Generate Initramfs Images | Online Free DevTools by Hexmos"
 name: dracut
-path: /freedevtools/tldr/linux/dracut
+path: "/freedevtools/tldr/linux/dracut/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dracut/"
 description: "Generate initramfs images with Dracut, ensuring proper Linux kernel booting. Create custom initramfs images for specific kernels. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Uname Command - Identify System Information | Online Free DevTools by Hexmos"
 name: guname
-path: /freedevtools/tldr/osx/guname
+path: "/freedevtools/tldr/osx/guname/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/guname/"
 description: "Identify system information with Uname Command, an alias for GNU uname on OSX. Quickly retrieve kernel name, node name, and machine hardware. Free online tool, no registration required."
 category: osx

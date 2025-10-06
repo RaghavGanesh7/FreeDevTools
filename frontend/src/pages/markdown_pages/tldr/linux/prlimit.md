@@ -1,7 +1,7 @@
 ---
 title: "Control Process Limits - prlimit | Online Free DevTools by Hexmos"
 name: prlimit
-path: /freedevtools/tldr/linux/prlimit
+path: "/freedevtools/tldr/linux/prlimit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/prlimit/"
 description: "Control process resource limits with prlimit. Modify soft and hard limits for CPU, memory, and open files. Free online tool, no registration required."
 category: linux

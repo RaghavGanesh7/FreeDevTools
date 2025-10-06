@@ -1,7 +1,7 @@
 ---
 title: "Kafkacat - Produce and Consume Kafka Messages | Online Free DevTools by Hexmos"
 name: kafkacat
-path: /freedevtools/tldr/common/kafkacat
+path: "/freedevtools/tldr/common/kafkacat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kafkacat/"
 description: "Produce and consume Kafka messages with Kafkacat. Streamline Kafka interactions, debug issues, and manage your data pipelines effectively. Free online tool, no registration required."
 category: common

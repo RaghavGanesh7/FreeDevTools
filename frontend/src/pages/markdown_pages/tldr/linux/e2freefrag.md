@@ -1,7 +1,7 @@
 ---
 title: "Check Filesystem Fragmentation - e2freefrag | Online Free DevTools by Hexmos"
 name: e2freefrag
-path: /freedevtools/tldr/linux/e2freefrag
+path: "/freedevtools/tldr/linux/e2freefrag/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/e2freefrag/"
 description: "Check filesystem fragmentation with e2freefrag command. Analyze disk space and optimize filesystem performance. Free online tool, no registration required."
 category: linux

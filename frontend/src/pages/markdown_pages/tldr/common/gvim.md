@@ -1,7 +1,7 @@
 ---
 title: "Edit Text with GVim - Command Line Editor | Online Free DevTools by Hexmos"
 name: gvim
-path: /freedevtools/tldr/common/gvim
+path: "/freedevtools/tldr/common/gvim/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gvim/"
 description: "Edit text files effortlessly with GVim, a powerful command line editor. Enhance your text editing workflow with keyboard shortcuts. Free online tool, no registration required."
 category: common

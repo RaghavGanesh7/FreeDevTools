@@ -1,7 +1,7 @@
 ---
 title: "Generate fstab - Create Linux fstab Entries | Online Free DevTools by Hexmos"
 name: genfstab
-path: /freedevtools/tldr/linux/genfstab
+path: "/freedevtools/tldr/linux/genfstab/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/genfstab/"
 description: "Generate fstab entries with genfstab.  Easily create and manage Linux filesystem entries using UUIDs or labels. Free online tool, no registration required."
 category: linux

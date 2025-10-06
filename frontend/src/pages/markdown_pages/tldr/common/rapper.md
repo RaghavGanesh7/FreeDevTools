@@ -1,7 +1,7 @@
 ---
 title: "Parse RDF - Convert RDF Data with Rapper | Online Free DevTools by Hexmos"
 name: rapper
-path: /freedevtools/tldr/common/rapper
+path: "/freedevtools/tldr/common/rapper/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rapper/"
 description: "Parse RDF data with Rapper. Convert RDF/XML to Turtle, count triples, and validate RDF syntax effortlessly. Free online tool, no registration required."
 category: common

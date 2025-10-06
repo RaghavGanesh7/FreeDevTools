@@ -1,7 +1,7 @@
 ---
 title: "ARP Spoof - Intercept Packets | Online Free DevTools by Hexmos"
 name: arpspoof
-path: /freedevtools/tldr/linux/arpspoof
+path: "/freedevtools/tldr/linux/arpspoof/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/arpspoof/"
 description: "Intercept network packets with ARP Spoof.  This command-line tool allows for advanced network manipulation. Free online tool, no registration required."
 category: linux

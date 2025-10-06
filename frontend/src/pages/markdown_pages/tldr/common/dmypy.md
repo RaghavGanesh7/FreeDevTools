@@ -1,7 +1,7 @@
 ---
 title: "Type Check Python - Run Mypy Daemon | Online Free DevTools by Hexmos"
 name: dmypy
-path: /freedevtools/tldr/common/dmypy
+path: "/freedevtools/tldr/common/dmypy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dmypy/"
 description: "Type check Python code rapidly with dmypy, running mypy as a daemon for enhanced speed. Improve code quality with efficient type analysis. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Quantize PNM Images - Batch Convert PNM Files | Online Free DevTools by Hexmos"
 name: pnmquantall
-path: /freedevtools/tldr/pnm/pnmquantall
+path: "/freedevtools/tldr/pnm/pnmquantall/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmquantall/"
 description: "Quantize PNM image files with Pnmquantall. Batch convert multiple PNM images to a shared colormap. Free online tool, no registration required."
 category: common

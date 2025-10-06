@@ -1,7 +1,7 @@
 ---
 title: "Update AppArmor - Control Browser Profiles | Online Free DevTools by Hexmos"
 name: aa-update-browser
-path: /freedevtools/tldr/linux/aa-update-browser
+path: "/freedevtools/tldr/linux/aa-update-browser/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-update-browser/"
 description: "Control AppArmor browser profiles easily with aa-update-browser. Enhance security by managing browser abstractions on Linux. Free online tool, no registration required."
 category: linux

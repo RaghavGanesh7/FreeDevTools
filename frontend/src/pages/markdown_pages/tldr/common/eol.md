@@ -1,7 +1,7 @@
 ---
 title: "Show End-of-Life Dates - Check Product EOL Status | Online Free DevTools by Hexmos"
 name: eol
-path: /freedevtools/tldr/common/eol
+path: "/freedevtools/tldr/common/eol/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eol/"
 description: "Check product End-of-Life (EOL) dates with eol. Get EOL status and product lifecycle information. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "AWS EKS - Manage Kubernetes Clusters | Online Free DevTools by Hexmos"
 name: aws-eks
-path: /freedevtools/tldr/aws/aws-eks
+path: "/freedevtools/tldr/aws/aws-eks/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-eks/"
 description: "Manage Kubernetes clusters with AWS EKS. Deploy, update, and delete EKS clusters easily through the command line interface. Free online tool, no registration required."
 category: common

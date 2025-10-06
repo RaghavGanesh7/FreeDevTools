@@ -1,7 +1,7 @@
 ---
 title: "Setfattr - Control File Attributes | Online Free DevTools by Hexmos"
 name: setfattr
-path: /freedevtools/tldr/linux/setfattr
+path: "/freedevtools/tldr/linux/setfattr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setfattr/"
 description: "Control file attributes with Setfattr.  Manage extended attributes on files easily and efficiently. Free online tool, no registration required."
 category: linux

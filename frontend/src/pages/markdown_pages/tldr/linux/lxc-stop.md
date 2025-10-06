@@ -1,7 +1,7 @@
 ---
 title: "LXC Container Control - Stop Containers with lxc-stop | Online Free DevTools by Hexmos"
 name: lxc-stop
-path: /freedevtools/tldr/linux/lxc-stop
+path: "/freedevtools/tldr/linux/lxc-stop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-stop/"
 description: "Stop LXC containers quickly and easily with the lxc-stop command. Manage your Linux containers efficiently using this simple command-line tool. Free online tool, no registration required."
 category: linux

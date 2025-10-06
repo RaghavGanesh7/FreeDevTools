@@ -1,7 +1,7 @@
 ---
 title: "Audacious Control - Manage Music Playback | Online Free DevTools by Hexmos"
 name: audtool
-path: /freedevtools/tldr/common/audtool
+path: "/freedevtools/tldr/common/audtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/audtool/"
 description: "Control your Audacious music player with audtool command line utility. Manage playback, adjust volume, and get song information easily. Free online tool, no registration required."
 category: common

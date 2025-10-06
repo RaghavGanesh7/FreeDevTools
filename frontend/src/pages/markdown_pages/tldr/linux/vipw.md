@@ -1,7 +1,7 @@
 ---
 title: "Edit Password File - Control User Passwords with vipw | Online Free DevTools by Hexmos"
 name: vipw
-path: /freedevtools/tldr/linux/vipw
+path: "/freedevtools/tldr/linux/vipw/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vipw/"
 description: "Edit user passwords securely with vipw, a Linux command-line tool. Manage and control user account information directly from your terminal. Free online tool, no registration required."
 category: linux

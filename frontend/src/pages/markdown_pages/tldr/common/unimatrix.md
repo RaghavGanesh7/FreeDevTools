@@ -1,7 +1,7 @@
 ---
 title: "Simulate Matrix Effect - Unimatrix | Online Free DevTools by Hexmos"
 name: unimatrix
-path: /freedevtools/tldr/common/unimatrix
+path: "/freedevtools/tldr/common/unimatrix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unimatrix/"
 description: "Simulate the Matrix digital rain effect with Unimatrix. Customize colors, speed, and character sets. Command-line tool, free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Stressapptest - Memory and IO Test | Online Free DevTools by Hexmos"
 name: stressapptest
-path: /freedevtools/tldr/st/stressapptest
+path: "/freedevtools/tldr/st/stressapptest/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/stressapptest/"
 description: "Run memory and I/O tests with Stressapptest. Stress test your system's memory and identify hardware issues effectively. Free online tool, no registration required."
 category: common

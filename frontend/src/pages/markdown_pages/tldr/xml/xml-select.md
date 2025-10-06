@@ -1,7 +1,7 @@
 ---
 title: "XML Select - Query XML Data with XPATH | Online Free DevTools by Hexmos"
 name: xml-select
-path: /freedevtools/tldr/xml/xml-select
+path: "/freedevtools/tldr/xml/xml-select/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-select/"
 description: "Query XML data efficiently with XML Select. Extract, count, and manipulate XML elements using XPATH expressions. Free online tool, no registration required."
 category: common

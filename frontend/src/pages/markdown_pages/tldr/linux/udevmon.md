@@ -1,7 +1,7 @@
 ---
 title: "Monitor Input Devices - Intercept Events with udevmon | Online Free DevTools by Hexmos"
 name: udevmon
-path: /freedevtools/tldr/linux/udevmon
+path: "/freedevtools/tldr/linux/udevmon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/udevmon/"
 description: "Intercept and monitor input device events with udevmon.  Filter and modify events using YAML configuration files for customized actions. Free online tool, no registration required."
 category: linux

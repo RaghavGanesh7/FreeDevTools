@@ -1,7 +1,7 @@
 ---
 title: "Concatenate PO Files - Combine Translations | Online Free DevTools by Hexmos"
 name: msgcat
-path: "/freedevtools/tldr/common/msgcat"
+path: "/freedevtools/tldr/common/msgcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msgcat/"
 description: "Combine translations with msgcat, a command-line tool for merging .po files. Easily consolidate language catalogs for software localization. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert HIPS to PGM - Generate PGM Images | Online Free DevTools by Hexmos"
 name: hipstopgm
-path: /freedevtools/tldr/common/hipstopgm
+path: "/freedevtools/tldr/common/hipstopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hipstopgm/"
 description: "Convert HIPS to PGM with hipstopgm. Generate PGM image files from HIPS image data. Free online tool, no registration required."
 category: common

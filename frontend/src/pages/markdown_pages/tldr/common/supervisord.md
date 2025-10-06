@@ -1,7 +1,7 @@
 ---
 title: "Control Processes - Supervisord | Online Free DevTools by Hexmos"
 name: supervisord
-path: /freedevtools/tldr/common/supervisord
+path: "/freedevtools/tldr/common/supervisord/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/supervisord/"
 description: "Control processes easily with Supervisord, a client/server system for UNIX-like systems. Manage processes via a configuration file. Free online tool, no registration required."
 category: common

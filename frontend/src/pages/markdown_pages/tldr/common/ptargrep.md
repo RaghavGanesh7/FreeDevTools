@@ -1,7 +1,7 @@
 ---
 title: "Search Tar Archives - Find Regex Patterns | Online Free DevTools by Hexmos"
 name: ptargrep
-path: /freedevtools/tldr/common/ptargrep
+path: "/freedevtools/tldr/common/ptargrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ptargrep/"
 description: "Search Tar archives with ptargrep. Find regex patterns in tar files for efficient code analysis and data extraction. Free online tool, no registration required."
 category: common

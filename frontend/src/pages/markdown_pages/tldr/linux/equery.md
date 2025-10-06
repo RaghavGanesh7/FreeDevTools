@@ -1,7 +1,7 @@
 ---
 title: "Equery - Manage Portage Packages | Online Free DevTools by Hexmos"
 name: equery
-path: /freedevtools/tldr/linux/equery
+path: "/freedevtools/tldr/linux/equery/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/equery/"
 description: "Manage Portage packages efficiently with equery. Search, list, and inspect dependencies for Gentoo Linux packages. Free online tool, no registration required."
 category: linux

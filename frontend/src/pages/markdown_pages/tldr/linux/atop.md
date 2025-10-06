@@ -1,7 +1,7 @@
 ---
 title: "Linux atop - Monitor System Processes | Online Free DevTools by Hexmos"
 name: atop
-path: /freedevtools/tldr/linux/atop
+path: "/freedevtools/tldr/linux/atop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/atop/"
 description: "Monitor system processes with Linux atop, a powerful resource monitoring tool. Analyze CPU, memory, disk, and network activity. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "NTP Control - Display NTP Information | Online Free DevTools by Hexmos"
 name: ntpctl
-path: /freedevtools/tldr/common/ntpctl
+path: "/freedevtools/tldr/common/ntpctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ntpctl/"
 description: "Display NTP information with NTP Control. Monitor NTP peers, sensors, and system clock synchronization. Free online tool, no registration required."
 category: common

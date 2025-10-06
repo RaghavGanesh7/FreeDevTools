@@ -1,7 +1,7 @@
 ---
 title: "Create Python Virtual Environments - pyenv-virtualenv | Online Free DevTools by Hexmos"
 name: pyenv-virtualenv
-path: /freedevtools/tldr/common/pyenv-virtualenv
+path: "/freedevtools/tldr/common/pyenv-virtualenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pyenv-virtualenv/"
 description: "Create Python virtual environments instantly with pyenv-virtualenv. Manage dependencies and isolate projects with ease. Free online tool, no registration required."
 category: common

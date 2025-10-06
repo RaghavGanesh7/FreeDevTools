@@ -1,7 +1,7 @@
 ---
 title: "Verilator - Generate C++ Models | Online Free DevTools by Hexmos"
 name: verilator
-path: /freedevtools/tldr/common/verilator
+path: "/freedevtools/tldr/common/verilator/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/verilator/"
 description: "Generate C++ models with Verilator. Convert Verilog and SystemVerilog HDL designs to executable code. Free online tool, no registration required."
 category: common

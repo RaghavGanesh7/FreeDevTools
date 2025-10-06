@@ -1,7 +1,7 @@
 ---
 title: "Powerstat - Measure Power Consumption | Online Free DevTools by Hexmos"
 name: powerstat
-path: /freedevtools/tldr/linux/powerstat
+path: "/freedevtools/tldr/linux/powerstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/powerstat/"
 description: "Measure power consumption with Powerstat. Analyze battery usage and system power states. Free online tool, no registration required."
 category: linux

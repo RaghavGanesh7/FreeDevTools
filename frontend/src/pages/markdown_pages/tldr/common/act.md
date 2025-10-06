@@ -1,7 +1,7 @@
 ---
 title: "Act - Execute GitHub Actions Locally | Online Free DevTools by Hexmos"
 name: act
-path: /freedevtools/tldr/common/act
+path: "/freedevtools/tldr/common/act/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/act/"
 description: "Execute GitHub Actions locally with Act. Test your workflows and event triggers before committing to GitHub. Free online tool, no registration required."
 category: common

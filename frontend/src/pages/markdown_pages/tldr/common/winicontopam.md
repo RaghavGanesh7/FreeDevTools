@@ -1,7 +1,7 @@
 ---
 title: "ICO to PAM Converter - Convert Images | Online Free DevTools by Hexmos"
 name: winicontopam
-path: /freedevtools/tldr/common/winicontopam
+path: "/freedevtools/tldr/common/winicontopam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/winicontopam/"
 description: "Convert ICO files to PAM images with ICO to PAM Converter. Extract specific images, handle transparency, and streamline image processing. Free online tool, no registration required."
 category: common

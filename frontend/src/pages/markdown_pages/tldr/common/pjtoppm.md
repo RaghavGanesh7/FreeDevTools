@@ -1,7 +1,7 @@
 ---
 title: "Convert PaintJet to PPM - Generate Image Files | Online Free DevTools by Hexmos"
 name: pjtoppm
-path: /freedevtools/tldr/common/pjtoppm
+path: "/freedevtools/tldr/common/pjtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pjtoppm/"
 description: "Convert PaintJet files to PPM image format with pjtoppm. Easily transform old HP PaintJet graphics into modern, usable images. Free online tool, no registration required."
 category: common

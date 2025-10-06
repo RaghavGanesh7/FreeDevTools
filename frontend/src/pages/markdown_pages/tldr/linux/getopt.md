@@ -1,7 +1,7 @@
 ---
 title: "Parse Arguments - getopt Command Line Parser | Online Free DevTools by Hexmos"
 name: getopt
-path: /freedevtools/tldr/linux/getopt
+path: "/freedevtools/tldr/linux/getopt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/getopt/"
 description: "Parse command-line arguments with getopt.  Handle optional and required arguments, short and long options efficiently. Free online tool, no registration required."
 category: linux

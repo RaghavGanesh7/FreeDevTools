@@ -1,7 +1,7 @@
 ---
 title: "Trash Command - Delete Files Securely with Trashy | Online Free DevTools by Hexmos"
 name: trashy
-path: /freedevtools/tldr/linux/trashy
+path: "/freedevtools/tldr/linux/trashy/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trashy/"
 description: "Delete files securely with Trashy, the Rust-based trash utility. Recover deleted files and manage your trash from the command line. Free online tool, no registration required."
 category: linux

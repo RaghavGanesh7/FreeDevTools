@@ -1,7 +1,7 @@
 ---
 title: "Control NUMA Policy - Processes and Memory | Online Free DevTools by Hexmos"
 name: numactl
-path: /freedevtools/tldr/linux/numactl
+path: "/freedevtools/tldr/linux/numactl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/numactl/"
 description: "Control NUMA policy for processes with numactl. Optimize memory allocation and CPU affinity for improved performance on Linux systems. Free online tool, no registration required."
 category: linux

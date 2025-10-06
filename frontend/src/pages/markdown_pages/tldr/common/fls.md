@@ -1,7 +1,7 @@
 ---
 title: "List Files - Analyze Image Files with fls | Online Free DevTools by Hexmos"
 name: fls
-path: /freedevtools/tldr/common/fls
+path: "/freedevtools/tldr/common/fls/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fls/"
 description: "Analyze image files with fls. Easily list files and directories within image files and devices, recover deleted files. Free online tool, no registration required."
 category: common

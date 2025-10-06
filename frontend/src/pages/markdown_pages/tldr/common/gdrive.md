@@ -1,7 +1,7 @@
 ---
 title: "GDrive Manager - Control Google Drive Files | Online Free DevTools by Hexmos"
 name: gdrive
-path: /freedevtools/tldr/common/gdrive
+path: "/freedevtools/tldr/common/gdrive/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdrive/"
 description: "Manage Google Drive files effortlessly with GDrive Manager. Upload, download, and update files directly from the command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Nautilus File Explorer - Manage Files on GNOME | Online Free DevTools by Hexmos"
 name: nautilus
-path: /freedevtools/tldr/linux/nautilus
+path: "/freedevtools/tldr/linux/nautilus/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nautilus/"
 description: "Manage files efficiently with Nautilus File Explorer.  Browse directories, open files, and utilize advanced features like selecting specific files or opening in new windows. Free online tool, no registration required."
 category: linux

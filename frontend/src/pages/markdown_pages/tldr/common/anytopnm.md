@@ -1,7 +1,7 @@
 ---
 title: "Convert Image Files - Format with anytopnm | Online Free DevTools by Hexmos"
 name: anytopnm
-path: /freedevtools/tldr/common/anytopnm
+path: "/freedevtools/tldr/common/anytopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/anytopnm/"
 description: "Format image files with anytopnm, a versatile image converter. Convert images to PBM, PGM, or PPM formats easily. Free online tool, no registration required."
 category: common

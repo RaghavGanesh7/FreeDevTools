@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Vault - Extract Credentials | Online Free DevTools by Hexmos"
 name: mimikatz-vault
-path: /freedevtools/tldr/windows/mimikatz-vault
+path: "/freedevtools/tldr/windows/mimikatz-vault/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-vault/"
 description: "Extract Windows credentials with Mimikatz Vault, a powerful security auditing tool. Retrieve vault passwords and enhance your penetration testing. Free online tool, no registration required."
 category: windows

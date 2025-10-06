@@ -1,7 +1,7 @@
 ---
 title: "Publish Python Packages - Upload with Twine | Online Free DevTools by Hexmos"
 name: twine
-path: /freedevtools/tldr/common/twine
+path: "/freedevtools/tldr/common/twine/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/twine/"
 description: "Upload Python packages with Twine. Distribute your Python code easily using the command line. Free online tool, no registration required."
 category: common

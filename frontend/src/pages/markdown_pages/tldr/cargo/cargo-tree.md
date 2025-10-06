@@ -1,7 +1,7 @@
 ---
 title: "Generate Rust Dependency Tree - Visualize Cargo Dependencies | Online Free DevTools by Hexmos"
 name: cargo-tree
-path: /freedevtools/tldr/cargo/cargo-tree
+path: "/freedevtools/tldr/cargo/cargo-tree/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-tree/"
 description: "Generate a Rust dependency tree with cargo-tree. Analyze and visualize project dependencies for effective Rust development. Free online tool, no registration required."
 category: common

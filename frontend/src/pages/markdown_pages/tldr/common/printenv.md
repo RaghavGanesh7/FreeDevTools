@@ -1,7 +1,7 @@
 ---
 title: "Print Environment - Display Variables | Online Free DevTools by Hexmos"
 name: printenv
-path: /freedevtools/tldr/common/printenv
+path: "/freedevtools/tldr/common/printenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/printenv/"
 description: "Display environment variables with Print Environment. View all or specific variables for shell environments. Free online tool, no registration required."
 category: common

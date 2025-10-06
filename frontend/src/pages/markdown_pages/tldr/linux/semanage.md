@@ -1,7 +1,7 @@
 ---
 title: "Manage SELinux Policy - Control Linux Security with semanage | Online Free DevTools by Hexmos"
 name: semanage
-path: /freedevtools/tldr/linux/semanage
+path: "/freedevtools/tldr/linux/semanage/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/semanage/"
 description: "Control Linux security with semanage, a powerful command-line tool for managing SELinux policies.  Modify booleans, file contexts, and ports. Free online tool, no registration required."
 category: linux

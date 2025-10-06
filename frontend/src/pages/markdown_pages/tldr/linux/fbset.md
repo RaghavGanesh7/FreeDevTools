@@ -1,7 +1,7 @@
 ---
 title: "Framebuffer Control - Modify Display Settings | Online Free DevTools by Hexmos"
 name: fbset
-path: /freedevtools/tldr/linux/fbset
+path: "/freedevtools/tldr/linux/fbset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fbset/"
 description: "Control framebuffer settings with fbset. Modify display resolution, geometry and color depth. Free online tool, no registration required."
 category: linux

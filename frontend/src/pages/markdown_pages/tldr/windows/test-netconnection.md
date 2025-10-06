@@ -1,7 +1,7 @@
 ---
 title: "Test-NetConnection - Network Diagnostic Information | Online Free DevTools by Hexmos"
 name: test-netconnection
-path: /freedevtools/tldr/windows/test-netconnection
+path: "/freedevtools/tldr/windows/test-netconnection/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/test-netconnection/"
 description: "Diagnose network connection issues with Test-NetConnection, a powerful PowerShell command. Troubleshoot network problems and verify connectivity. Free online tool, no registration required."
 category: windows

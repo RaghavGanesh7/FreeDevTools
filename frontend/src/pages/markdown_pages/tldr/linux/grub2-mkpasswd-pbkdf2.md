@@ -1,7 +1,7 @@
 ---
 title: "GRUB2 Password Generate - Create PBKDF2 Hash | Online Free DevTools by Hexmos"
 name: grub2-mkpasswd-pbkdf2
-path: /freedevtools/tldr/linux/grub2-mkpasswd-pbkdf2
+path: "/freedevtools/tldr/linux/grub2-mkpasswd-pbkdf2/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/grub2-mkpasswd-pbkdf2/"
 description: "Generate a GRUB2 password hash with grub2-mkpasswd-pbkdf2. Secure your bootloader with PBKDF2 hashing for robust password protection. This command-line tool simplifies password management. Free online tool, no registration required."
 category: linux

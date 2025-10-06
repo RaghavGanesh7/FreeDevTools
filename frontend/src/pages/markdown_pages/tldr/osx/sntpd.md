@@ -1,7 +1,7 @@
 ---
 title: "Control SNTP Daemon - Manage Time Synchronization | Online Free DevTools by Hexmos"
 name: sntpd
-path: /freedevtools/tldr/osx/sntpd
+path: "/freedevtools/tldr/osx/sntpd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/sntpd/"
 description: "Control time synchronization with SNTP Daemon. Configure the Simple Network Time Protocol daemon, set local clock, and manage SNTP state. Free online tool, no registration required."
 category: osx

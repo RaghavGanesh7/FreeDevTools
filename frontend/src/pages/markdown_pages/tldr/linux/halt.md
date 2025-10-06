@@ -1,7 +1,7 @@
 ---
 title: "Halt System - Control System Shutdown | Online Free DevTools by Hexmos"
 name: halt
-path: "/freedevtools/tldr/linux/halt"
+path: "/freedevtools/tldr/linux/halt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/halt/"
 description: "Control system shutdown with Halt System command. Power off, reboot, or halt immediately using flags. Free online tool, no registration required."
 category: linux

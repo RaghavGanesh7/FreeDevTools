@@ -1,7 +1,7 @@
 ---
 title: "Kubie - Control Kubernetes Contexts and Namespaces | Online Free DevTools by Hexmos"
 name: kubie
-path: /freedevtools/tldr/common/kubie
+path: "/freedevtools/tldr/common/kubie/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kubie/"
 description: "Control Kubernetes contexts with Kubie. Manage multiple clusters and namespaces seamlessly. Switch between contexts and execute commands easily. Free online tool, no registration required."
 category: common

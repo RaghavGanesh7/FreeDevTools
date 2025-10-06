@@ -1,7 +1,7 @@
 ---
 title: "Beanstalkd - Control Work Queues | Online Free DevTools by Hexmos"
 name: beanstalkd
-path: /freedevtools/tldr/common/beanstalkd
+path: "/freedevtools/tldr/common/beanstalkd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/beanstalkd/"
 description: "Control work queues with Beanstalkd. Manage, persist, and prioritize jobs in a simple, fast work queue system. Free online tool, no registration required."
 category: common

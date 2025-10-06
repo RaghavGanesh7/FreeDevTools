@@ -1,7 +1,7 @@
 ---
 title: "VM Reset - Control Virtual Machines with QEMU/KVM | Online Free DevTools by Hexmos"
 name: qm-reset
-path: /freedevtools/tldr/linux/qm-reset
+path: "/freedevtools/tldr/linux/qm-reset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-reset/"
 description: "Control virtual machines instantly with VM Reset. Quickly reboot, power off, or force reset QEMU/KVM instances through the command line. Free online tool, no registration required."
 category: linux

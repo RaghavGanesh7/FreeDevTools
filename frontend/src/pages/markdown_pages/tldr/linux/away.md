@@ -1,7 +1,7 @@
 ---
 title: "Away Command - Lock Terminal with Message | Online Free DevTools by Hexmos"
 name: away
-path: /freedevtools/tldr/linux/away
+path: "/freedevtools/tldr/linux/away/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/away/"
 description: "Lock your terminal and set an away message with the Away command.  Customize mail checking and background task sleeping options. Free online tool, no registration required."
 category: linux

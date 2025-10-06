@@ -1,7 +1,7 @@
 ---
 title: "Partition Table - Parse Partitions with partx | Online Free DevTools by Hexmos"
 name: partx
-path: /freedevtools/tldr/linux/partx
+path: "/freedevtools/tldr/linux/partx/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/partx/"
 description: "Parse partitions with partx on Linux. Easily list, add, and delete partition entries. Manage disk partitions efficiently. Free online tool, no registration required."
 category: linux

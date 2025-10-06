@@ -1,7 +1,7 @@
 ---
 title: "Compile Timezones - Generate TZ Binary Files | Online Free DevTools by Hexmos"
 name: zic
-path: /freedevtools/tldr/linux/zic
+path: "/freedevtools/tldr/linux/zic/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/zic/"
 description: "Generate timezone binary files with Zic. Compile IANA timezone data, manage timezone conversions, and report warnings. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "ProtonVPN Connect - Control VPN Connection | Online Free DevTools by Hexmos"
 name: protonvpn-connect
-path: /freedevtools/tldr/linux/protonvpn-connect
+path: "/freedevtools/tldr/linux/protonvpn-connect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/protonvpn-connect/"
 description: "Control ProtonVPN connections with ProtonVPN Connect. Secure your internet traffic and bypass censorship using command line. Free online tool, no registration required."
 category: linux

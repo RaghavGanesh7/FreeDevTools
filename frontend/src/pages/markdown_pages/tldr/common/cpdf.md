@@ -1,7 +1,7 @@
 ---
 title: "Control PDF Files - Manipulate Documents | Online Free DevTools by Hexmos"
 name: cpdf
-path: "/freedevtools/tldr/common/cpdf"
+path: "/freedevtools/tldr/common/cpdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cpdf/"
 description: "Control PDF files with cpdf, a command-line PDF manipulation tool. Merge, split, encrypt, and decrypt PDF documents easily. Free online tool, no registration required."
 category: common

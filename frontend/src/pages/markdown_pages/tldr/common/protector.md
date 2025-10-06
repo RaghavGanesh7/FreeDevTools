@@ -1,7 +1,7 @@
 ---
 title: "Protect Branches - Control GitHub Branches | Online Free DevTools by Hexmos"
 name: protector
-path: /freedevtools/tldr/common/protector
+path: "/freedevtools/tldr/common/protector/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/protector/"
 description: "Control GitHub branches protection with Protector. Protect or unprotect branches using regular expressions for comprehensive repository management. Free online tool, no registration required."
 category: common

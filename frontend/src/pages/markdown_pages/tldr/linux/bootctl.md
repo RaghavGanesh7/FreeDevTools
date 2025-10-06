@@ -1,7 +1,7 @@
 ---
 title: "Bootctl - Control EFI Boot Settings | Online Free DevTools by Hexmos"
 name: bootctl
-path: /freedevtools/tldr/linux/bootctl
+path: "/freedevtools/tldr/linux/bootctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bootctl/"
 description: "Control EFI boot settings with Bootctl on Linux. Manage bootloader entries and firmware settings efficiently. Free online tool, no registration required."
 category: linux

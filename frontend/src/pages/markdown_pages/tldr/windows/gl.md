@@ -1,7 +1,7 @@
 ---
 title: "Get Location - Control PowerShell Location | Online Free DevTools by Hexmos"
 name: gl
-path: /freedevtools/tldr/windows/gl
+path: "/freedevtools/tldr/windows/gl/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/gl/"
 description: "Control PowerShell location with Get-Location (gl). Easily navigate directories and manage your current working location. Free online tool, no registration required."
 category: windows

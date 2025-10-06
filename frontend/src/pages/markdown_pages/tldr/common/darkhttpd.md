@@ -1,7 +1,7 @@
 ---
 title: "Start darkhttpd Server - Serve Files Simply | Online Free DevTools by Hexmos"
 name: darkhttpd
-path: /freedevtools/tldr/common/darkhttpd
+path: "/freedevtools/tldr/common/darkhttpd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/darkhttpd/"
 description: "Serve files simply with darkhttpd. Quickly start a web server and share your documents and resources. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Find Duplicate Files - Identify & Remove Duplicates | Online Free DevTools by Hexmos"
 name: fdupes
-path: /freedevtools/tldr/common/fdupes
+path: "/freedevtools/tldr/common/fdupes/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fdupes/"
 description: "Identify duplicate files with fdupes. Efficiently manage disk space and remove redundant data across directories. Free online tool, no registration required."
 category: common

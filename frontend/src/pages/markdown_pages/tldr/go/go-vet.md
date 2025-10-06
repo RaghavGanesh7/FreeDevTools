@@ -1,7 +1,7 @@
 ---
 title: "Validate Go Code - Check Source Files with go vet | Online Free DevTools by Hexmos"
 name: go-vet
-path: /freedevtools/tldr/go/go-vet
+path: "/freedevtools/tldr/go/go-vet/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-vet/"
 description: "Validate Go code with go vet. Detect suspicious constructs, enforce coding standards, and improve code quality. Free online tool, no registration required."
 category: common

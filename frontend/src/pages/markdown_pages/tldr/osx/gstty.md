@@ -1,7 +1,7 @@
 ---
 title: "Stty Control - Manage Terminal Settings on MacOS | Online Free DevTools by Hexmos"
 name: gstty
-path: /freedevtools/tldr/osx/gstty
+path: "/freedevtools/tldr/osx/gstty/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gstty/"
 description: "Control terminal settings with Stty, a powerful command-line utility for MacOS. Configure input/output, baud rates, and more. Free online tool, no registration required."
 category: osx

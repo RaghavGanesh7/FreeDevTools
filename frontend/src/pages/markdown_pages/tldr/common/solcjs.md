@@ -1,7 +1,7 @@
 ---
 title: "Solidity Compiler - Generate Contract Bytecode | Online Free DevTools by Hexmos"
 name: solcjs
-path: /freedevtools/tldr/common/solcjs
+path: "/freedevtools/tldr/common/solcjs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/solcjs/"
 description: "Generate Solidity smart contract bytecode with solcjs. Compile Solidity code to ABI and optimized binaries for Ethereum development. Free online tool, no registration required."
 category: common

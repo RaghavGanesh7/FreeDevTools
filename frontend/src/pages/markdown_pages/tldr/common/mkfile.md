@@ -1,7 +1,7 @@
 ---
 title: "Create Empty File - Control File Size | Online Free DevTools by Hexmos"
 name: mkfile
-path: /freedevtools/tldr/common/mkfile
+path: "/freedevtools/tldr/common/mkfile/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mkfile/"
 description: "Create empty file with mkfile to control file size and pre-allocate disk space efficiently. Manage file storage with precision. Free online tool, no registration required."
 category: common

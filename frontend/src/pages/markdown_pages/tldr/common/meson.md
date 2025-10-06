@@ -1,7 +1,7 @@
 ---
 title: "Meson Build - Generate Projects | Online Free DevTools by Hexmos"
 name: meson
-path: /freedevtools/tldr/common/meson
+path: "/freedevtools/tldr/common/meson/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/meson/"
 description: "Generate projects with Meson Build System. Automate software compilation and dependency management efficiently. Free online tool, no registration required."
 category: common

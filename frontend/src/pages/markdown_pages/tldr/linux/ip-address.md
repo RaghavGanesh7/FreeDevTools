@@ -1,7 +1,7 @@
 ---
 title: "IP Address - Control Network Addresses | Online Free DevTools by Hexmos"
 name: ip-address
-path: /freedevtools/tldr/linux/ip-address
+path: "/freedevtools/tldr/linux/ip-address/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ip-address/"
 description: "Control IP Addresses with ip command. Manage network interfaces, assign IP addresses, and troubleshoot network connectivity with this free Linux tool. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Dumpsys - Analyze Android Services | Online Free DevTools by Hexmos"
 name: dumpsys
-path: /freedevtools/tldr/android/dumpsys
+path: "/freedevtools/tldr/android/dumpsys/"
 canonical: "https://hexmos.com/freedevtools/tldr/android/dumpsys/"
 description: "Analyze Android system services instantly with Dumpsys. Inspect service states, diagnose issues, and gather diagnostic data. Free online tool, no registration required."
 category: android

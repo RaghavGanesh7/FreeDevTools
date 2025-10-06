@@ -1,7 +1,7 @@
 ---
 title: "GCSplit - Split Files into Chunks | Online Free DevTools by Hexmos"
 name: gcsplit
-path: /freedevtools/tldr/osx/gcsplit
+path: "/freedevtools/tldr/osx/gcsplit/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gcsplit/"
 description: "Split files into manageable chunks with GCSplit. Efficiently segment large files for easier transfer and processing on macOS. Free online tool, no registration required."
 category: osx

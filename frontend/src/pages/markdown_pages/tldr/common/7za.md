@@ -1,7 +1,7 @@
 ---
 title: "Archive Files - Create Archives with 7za | Online Free DevTools by Hexmos"
 name: 7za
-path: /freedevtools/tldr/common/7za
+path: "/freedevtools/tldr/common/7za/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/7za/"
 description: "Create archives with 7za, a powerful file archiver supporting multiple formats. Compress, extract, and encrypt files easily. Free online tool, no registration required."
 category: common

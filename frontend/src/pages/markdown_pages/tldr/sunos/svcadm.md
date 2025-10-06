@@ -1,7 +1,7 @@
 ---
 title: "Control SunOS Services - svcadm | Online Free DevTools by Hexmos"
 name: svcadm
-path: /freedevtools/tldr/sunos/svcadm
+path: "/freedevtools/tldr/sunos/svcadm/"
 canonical: "https://hexmos.com/freedevtools/tldr/sunos/svcadm/"
 description: "Control service instances in SunOS with svcadm. Manage service dependencies, enable or disable, and refresh configurations via command line. Free online tool, no registration required."
 category: sunos

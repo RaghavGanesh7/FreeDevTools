@@ -1,7 +1,7 @@
 ---
 title: "BIRD Control - Manage Routing with Birdc | Online Free DevTools by Hexmos"
 name: birdc
-path: /freedevtools/tldr/common/birdc
+path: "/freedevtools/tldr/common/birdc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/birdc/"
 description: "Control routing information with Birdc, the BIRD routing daemon remote control. Inspect routes, protocols, and configure BIRD settings easily. Free online tool, no registration required."
 category: common

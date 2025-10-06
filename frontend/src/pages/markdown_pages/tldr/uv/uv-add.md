@@ -1,7 +1,7 @@
 ---
 title: "UV - Add Package Dependencies | Online Free DevTools by Hexmos"
 name: uv-add
-path: /freedevtools/tldr/uv/uv-add
+path: "/freedevtools/tldr/uv/uv-add/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-add/"
 description: "Add Python package dependencies with UV. Manage project dependencies efficiently using the command line. Free online tool, no registration required."
 category: common

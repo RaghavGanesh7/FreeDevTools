@@ -1,7 +1,7 @@
 ---
 title: "Dive - Analyze Docker Images | Online Free DevTools by Hexmos"
 name: dive
-path: /freedevtools/tldr/common/dive
+path: "/freedevtools/tldr/common/dive/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dive/"
 description: "Analyze Docker images with Dive. Explore layer contents and discover ways to shrink image size efficiently. Free online tool, no registration required."
 category: common

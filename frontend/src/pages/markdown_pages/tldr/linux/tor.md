@@ -1,7 +1,7 @@
 ---
 title: "Control Tor Network - Enable Anonymous Communication | Online Free DevTools by Hexmos"
 name: tor
-path: /freedevtools/tldr/linux/tor
+path: "/freedevtools/tldr/linux/tor/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tor/"
 description: "Control Tor network connections with Tor. Enable anonymous communication, configure Tor settings, and check Tor status. Free online tool, no registration required."
 category: linux

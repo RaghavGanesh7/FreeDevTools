@@ -1,7 +1,7 @@
 ---
 title: "View Uptime Records - Display System History | Online Free DevTools by Hexmos"
 name: uprecords
-path: /freedevtools/tldr/linux/uprecords
+path: "/freedevtools/tldr/linux/uprecords/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uprecords/"
 description: "Display system uptime records with uprecords.  View historical reboot information and kernel versions quickly and easily. Free online tool, no registration required."
 category: linux

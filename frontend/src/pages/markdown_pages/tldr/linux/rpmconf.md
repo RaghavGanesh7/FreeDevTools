@@ -1,7 +1,7 @@
 ---
 title: "Manage RPM Configuration - Handle Package Upgrade Files | Online Free DevTools by Hexmos"
 name: rpmconf
-path: /freedevtools/tldr/linux/rpmconf
+path: "/freedevtools/tldr/linux/rpmconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpmconf/"
 description: "Manage RPM configuration with rpmconf to resolve leftover RPMNEW and RPMSAVE files after package upgrades. Resolve conflicts and clean orphaned files. Free online tool, no registration required."
 category: linux

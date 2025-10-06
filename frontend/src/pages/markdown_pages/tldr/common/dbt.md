@@ -1,7 +1,7 @@
 ---
 title: "dbt Model Transformation - Manage Data Warehouses | Online Free DevTools by Hexmos"
 name: dbt
-path: /freedevtools/tldr/common/dbt
+path: "/freedevtools/tldr/common/dbt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dbt/"
 description: "Transform data warehouse models with dbt. Streamline data transformations and automate workflows for efficient data analysis. Free online tool, no registration required."
 category: common

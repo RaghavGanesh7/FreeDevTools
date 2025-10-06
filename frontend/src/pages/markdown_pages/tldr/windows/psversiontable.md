@@ -1,7 +1,7 @@
 ---
 title: "Get PowerShell Version - Check PSVersionTable | Online Free DevTools by Hexmos"
 name: psversiontable
-path: /freedevtools/tldr/windows/psversiontable
+path: "/freedevtools/tldr/windows/psversiontable/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/psversiontable/"
 description: "Get PowerShell version information with PSVersionTable. Inspect PowerShell edition, Git commit ID, and supported script versions easily. Free online tool, no registration required."
 category: windows

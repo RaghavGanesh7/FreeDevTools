@@ -1,7 +1,7 @@
 ---
 title: "Generate Android Bug Reports - Diagnose System Issues | Online Free DevTools by Hexmos"
 name: bugreportz
-path: /freedevtools/tldr/android/bugreportz
+path: "/freedevtools/tldr/android/bugreportz/"
 canonical: "https://hexmos.com/freedevtools/tldr/android/bugreportz/"
 description: "Generate zipped Android bug reports with bugreportz. Collect system logs, identify device problems, and resolve Android errors. Free online tool, no registration required."
 category: android

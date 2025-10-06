@@ -1,7 +1,7 @@
 ---
 title: "Generate Factory Reset - SteamOS Configuration | Online Free DevTools by Hexmos"
 name: steamos-factory-reset-config
-path: /freedevtools/tldr/linux/steamos-factory-reset-config
+path: "/freedevtools/tldr/linux/steamos-factory-reset-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-factory-reset-config/"
 description: "Generate factory reset configuration with steamos-factory-reset-config. Automate configuration file creation for SteamOS resets. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Generate File Database - gupdatedb Command | Online Free DevTools by Hexmos"
 name: gupdatedb
-path: /freedevtools/tldr/osx/gupdatedb
+path: "/freedevtools/tldr/osx/gupdatedb/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gupdatedb/"
 description: "Generate a file database with gupdatedb. Quickly locate files and directories on your macOS system, enhancing command-line productivity. Free online tool, no registration required."
 category: osx

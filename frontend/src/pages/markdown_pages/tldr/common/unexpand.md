@@ -1,7 +1,7 @@
 ---
 title: "Unexpand - Convert Spaces to Tabs | Online Free DevTools by Hexmos"
 name: unexpand
-path: /freedevtools/tldr/common/unexpand
+path: "/freedevtools/tldr/common/unexpand/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unexpand/"
 description: "Convert spaces to tabs with Unexpand, a command-line tool for text formatting. Effortlessly manage whitespace and create consistent file formatting. Free online tool, no registration required."
 category: common

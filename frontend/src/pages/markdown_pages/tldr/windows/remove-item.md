@@ -1,7 +1,7 @@
 ---
 title: "Remove-Item - Delete Files and Folders | Online Free DevTools by Hexmos"
 name: remove-item
-path: "/freedevtools/tldr/windows/remove-item"
+path: "/freedevtools/tldr/windows/remove-item/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/remove-item/"
 description: "Delete files with Remove-Item command. Erase files, folders, registry keys on Windows using PowerShell. Free online tool, no registration required."
 category: windows

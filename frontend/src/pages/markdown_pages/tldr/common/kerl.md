@@ -1,7 +1,7 @@
 ---
 title: "Control Erlang Instances - Build Erlang/OTP with kerl | Online Free DevTools by Hexmos"
 name: kerl
-path: /freedevtools/tldr/common/kerl
+path: "/freedevtools/tldr/common/kerl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kerl/"
 description: "Control Erlang/OTP instances with kerl. Build, install, and manage multiple Erlang environments effortlessly. Free online tool, no registration required."
 category: common

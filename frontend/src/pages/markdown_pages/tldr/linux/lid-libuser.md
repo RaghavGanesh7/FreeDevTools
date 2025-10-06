@@ -1,7 +1,7 @@
 ---
 title: "List User Groups - Manage Linux Users with lid | Online Free DevTools by Hexmos"
 name: lid.libuser
-path: /freedevtools/tldr/linux/lid-libuser
+path: "/freedevtools/tldr/linux/lid-libuser/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/lid-libuser/"
 description: "Manage user groups with lid. Display users and groups in Linux environments. Simplify user management with this free online tool, no registration required."
 category: linux

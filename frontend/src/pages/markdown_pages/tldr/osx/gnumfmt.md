@@ -1,7 +1,7 @@
 ---
 title: "Format Numbers - Format Numbers with gnumfmt | Online Free DevTools by Hexmos"
 name: gnumfmt
-path: /freedevtools/tldr/osx/gnumfmt
+path: "/freedevtools/tldr/osx/gnumfmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gnumfmt/"
 description: "Format numbers with gnumfmt, a command-line tool for human-readable number formatting. Convert numbers to text formats. Free online tool, no registration required."
 category: osx

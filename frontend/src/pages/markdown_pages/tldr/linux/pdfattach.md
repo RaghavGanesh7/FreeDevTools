@@ -1,7 +1,7 @@
 ---
 title: "pdfattach - Add PDF Attachments | Online Free DevTools by Hexmos"
 name: pdfattach
-path: /freedevtools/tldr/linux/pdfattach
+path: "/freedevtools/tldr/linux/pdfattach/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdfattach/"
 description: "Add PDF attachments easily with pdfattach. Embed files, replace existing attachments, and manage PDF content effectively. This free online tool requires no registration."
 category: linux

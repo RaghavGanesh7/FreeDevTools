@@ -1,7 +1,7 @@
 ---
 title: "Vzdump - Backup Virtual Machines & Containers | Online Free DevTools by Hexmos"
 name: vzdump
-path: /freedevtools/tldr/linux/vzdump
+path: "/freedevtools/tldr/linux/vzdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vzdump/"
 description: "Backup virtual machines with Vzdump. Securely backup, restore, and manage Proxmox containers with this command-line utility. Free online tool, no registration required."
 category: linux

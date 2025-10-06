@@ -1,7 +1,7 @@
 ---
 title: "Search Web Engines - Query Websites with Surfraw | Online Free DevTools by Hexmos"
 name: surfraw
-path: /freedevtools/tldr/common/surfraw
+path: "/freedevtools/tldr/common/surfraw/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/surfraw/"
 description: "Query web search engines with Surfraw. Access multiple websites via elvi scripts. Find information quickly and efficiently. Free online tool, no registration required."
 category: common

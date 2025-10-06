@@ -1,7 +1,7 @@
 ---
 title: "Find Duplicate Files - Manage Duplicates with rdfind | Online Free DevTools by Hexmos"
 name: rdfind
-path: /freedevtools/tldr/common/rdfind
+path: "/freedevtools/tldr/common/rdfind/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rdfind/"
 description: "Find duplicate files efficiently with rdfind. Manage and remove redundant files, reclaim disk space with this command line tool. Free online tool, no registration required."
 category: common

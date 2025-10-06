@@ -1,7 +1,7 @@
 ---
 title: "Zrun - Execute Commands with Uncompressed Arguments | Online Free DevTools by Hexmos"
 name: zrun
-path: /freedevtools/tldr/common/zrun
+path: "/freedevtools/tldr/common/zrun/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zrun/"
 description: "Execute commands with Zrun, automatically uncompressing compressed arguments. Streamline your workflow and manage files efficiently. Free online tool, no registration required."
 category: common

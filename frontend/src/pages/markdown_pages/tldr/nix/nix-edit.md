@@ -1,7 +1,7 @@
 ---
 title: "Nix Edit - Modify Nix Expressions | Online Free DevTools by Hexmos"
 name: nix-edit
-path: /freedevtools/tldr/nix/nix-edit
+path: "/freedevtools/tldr/nix/nix-edit/"
 canonical: "https://hexmos.com/freedevtools/tldr/nix/nix-edit/"
 description: "Modify Nix expressions easily with Nix Edit. Directly open and edit Nix packages in your preferred editor. Free online tool, no registration required."
 category: common

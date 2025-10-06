@@ -1,7 +1,7 @@
 ---
 title: "Nft - Configure Linux Firewall Rules | Online Free DevTools by Hexmos"
 name: nft
-path: /freedevtools/tldr/linux/nft
+path: "/freedevtools/tldr/linux/nft/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nft/"
 description: "Configure Linux firewall rules with Nft. Manage tables, chains, and rules, replacing iptables for efficient network traffic control. Free online tool, no registration required."
 category: linux

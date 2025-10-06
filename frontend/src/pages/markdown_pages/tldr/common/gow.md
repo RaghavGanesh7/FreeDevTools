@@ -1,7 +1,7 @@
 ---
 title: "Watch Go Files - Restart App on Change | Online Free DevTools by Hexmos"
 name: gow
-path: /freedevtools/tldr/common/gow
+path: "/freedevtools/tldr/common/gow/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gow/"
 description: "Watch Go files and automatically restart your application with Gow. Detect code changes, rebuild, and relaunch your app. Free online tool, no registration required."
 category: common

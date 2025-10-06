@@ -1,7 +1,7 @@
 ---
 title: "Control Databases - Manage DigitalOcean Clusters | Online Free DevTools by Hexmos"
 name: doctl-databases
-path: /freedevtools/tldr/doctl/doctl-databases
+path: "/freedevtools/tldr/doctl/doctl-databases/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-databases/"
 description: "Control databases with doctl-databases, manage your DigitalOcean MySQL, Redis, PostgreSQL, and MongoDB clusters easily. Free online tool, no registration required."
 category: common

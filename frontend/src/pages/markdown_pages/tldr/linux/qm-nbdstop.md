@@ -1,7 +1,7 @@
 ---
 title: "qm nbdstop - Stop nbd Server | Online Free DevTools by Hexmos"
 name: qm-nbdstop
-path: /freedevtools/tldr/linux/qm-nbdstop
+path: "/freedevtools/tldr/linux/qm-nbdstop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-nbdstop/"
 description: "Stop embedded nbd servers with qm nbdstop.  Manage virtual machine network block devices efficiently. Free online tool, no registration required."
 category: linux

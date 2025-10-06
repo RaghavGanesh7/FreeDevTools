@@ -1,7 +1,7 @@
 ---
 title: "Edge-Enhance PGM - Enhance PGM Images | Online Free DevTools by Hexmos"
 name: pgmenhance
-path: /freedevtools/tldr/common/pgmenhance
+path: "/freedevtools/tldr/common/pgmenhance/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmenhance/"
 description: "Edge-enhance PGM images with pgmenhance. Improve image clarity and sharpness using command line tools. Free online tool, no registration required."
 category: common

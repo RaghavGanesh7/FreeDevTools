@@ -1,7 +1,7 @@
 ---
 title: "Reg Export - Create Registry Backups | Online Free DevTools by Hexmos"
 name: reg-export
-path: /freedevtools/tldr/windows/reg-export
+path: "/freedevtools/tldr/windows/reg-export/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-export/"
 description: "Create registry backups with Reg Export. Save and restore Windows registry keys for system recovery or configuration transfer. Free online tool, no registration required."
 category: windows

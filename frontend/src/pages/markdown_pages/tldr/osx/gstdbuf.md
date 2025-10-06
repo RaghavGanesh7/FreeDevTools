@@ -1,7 +1,7 @@
 ---
 title: "Stdbuf - Control Standard Streams | Online Free DevTools by Hexmos"
 name: gstdbuf
-path: /freedevtools/tldr/osx/gstdbuf
+path: "/freedevtools/tldr/osx/gstdbuf/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gstdbuf/"
 description: "Control standard input, output, and error streams with Stdbuf, an alias of GNU stdbuf. Change buffering behavior for piped commands. Free online tool, no registration required."
 category: osx

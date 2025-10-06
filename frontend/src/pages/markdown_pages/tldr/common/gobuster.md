@@ -1,7 +1,7 @@
 ---
 title: "Gobuster - Discover Hidden Web Paths | Online Free DevTools by Hexmos"
 name: gobuster
-path: /freedevtools/tldr/common/gobuster
+path: "/freedevtools/tldr/common/gobuster/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gobuster/"
 description: "Discover hidden web paths with Gobuster, a powerful directory brute-forcing tool. Uncover files and directories on web servers quickly. Free online tool, no registration required."
 category: common

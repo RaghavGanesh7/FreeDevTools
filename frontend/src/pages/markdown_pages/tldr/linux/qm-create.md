@@ -1,7 +1,7 @@
 ---
 title: "Create Virtual Machine - QEMU/KVM VM Manager | Online Free DevTools by Hexmos"
 name: qm-create
-path: /freedevtools/tldr/linux/qm-create
+path: "/freedevtools/tldr/linux/qm-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-create/"
 description: "Create virtual machines instantly with QEMU/KVM Virtual Machine Manager. Restore VMs, allocate resources, and configure OS types with this free online tool, no registration required."
 category: linux

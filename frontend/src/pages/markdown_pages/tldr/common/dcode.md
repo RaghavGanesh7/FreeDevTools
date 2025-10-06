@@ -1,7 +1,7 @@
 ---
 title: "Decode Strings - Recursively Decode Text Online | Online Free DevTools by Hexmos"
 name: dcode
-path: /freedevtools/tldr/common/dcode
+path: "/freedevtools/tldr/common/dcode/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dcode/"
 description: "Decode strings online with dcode. Recursively detect and decode various encodings and hashes. Free online tool, no registration required."
 category: common

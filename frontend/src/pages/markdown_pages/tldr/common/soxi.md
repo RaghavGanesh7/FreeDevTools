@@ -1,7 +1,7 @@
 ---
 title: "SoXI - Display Sound Metadata | Online Free DevTools by Hexmos"
 name: soxi
-path: /freedevtools/tldr/common/soxi
+path: "/freedevtools/tldr/common/soxi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/soxi/"
 description: "Display sound metadata with SoXI. Analyze audio files and extract detailed information effortlessly. Free online tool, no registration required."
 category: common

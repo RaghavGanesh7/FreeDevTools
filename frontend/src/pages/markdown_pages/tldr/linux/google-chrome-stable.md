@@ -1,7 +1,7 @@
 ---
 title: "Chrome Browser - Browse Web Pages on Linux | Online Free DevTools by Hexmos"
 name: google-chrome-stable
-path: /freedevtools/tldr/linux/google-chrome-stable
+path: "/freedevtools/tldr/linux/google-chrome-stable/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/google-chrome-stable/"
 description: "Browse the web securely with Chrome Browser. Access websites, use extensions, and manage settings on Linux. Free online tool, no registration required."
 category: linux

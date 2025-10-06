@@ -1,7 +1,7 @@
 ---
 title: "Search Command History - Smart Command Lookup | Online Free DevTools by Hexmos"
 name: mcfly
-path: /freedevtools/tldr/common/mcfly
+path: "/freedevtools/tldr/common/mcfly/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mcfly/"
 description: "Intelligently search command history with McFly, replacing Ctrl+R for smarter command lookup and recall across bash, zsh and fish shells. Free online tool, no registration required."
 category: common

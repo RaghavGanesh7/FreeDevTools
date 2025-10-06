@@ -1,7 +1,7 @@
 ---
 title: "Soak Input - Control Output Files with Sponge | Online Free DevTools by Hexmos"
 name: sponge
-path: /freedevtools/tldr/common/sponge
+path: "/freedevtools/tldr/common/sponge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sponge/"
 description: "Control output files by soaking input with Sponge. Buffer data before writing to prevent data loss and corruption. Free online tool, no registration required."
 category: common

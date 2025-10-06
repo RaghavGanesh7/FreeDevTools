@@ -1,7 +1,7 @@
 ---
 title: "Generate TOTP Token - OATHTool | Online Free DevTools by Hexmos"
 name: oathtool
-path: /freedevtools/tldr/common/oathtool
+path: "/freedevtools/tldr/common/oathtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/oathtool/"
 description: "Generate TOTP tokens instantly with OATHTool. Validate tokens and manage two-factor authentication secrets securely. Free online tool, no registration required."
 category: common

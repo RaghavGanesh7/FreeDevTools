@@ -1,7 +1,7 @@
 ---
 title: "pmap Memory Map - Inspect Process Memory | Online Free DevTools by Hexmos"
 name: pmap
-path: /freedevtools/tldr/linux/pmap
+path: "/freedevtools/tldr/linux/pmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pmap/"
 description: "Inspect process memory maps with pmap.  View memory usage details for specific processes or ranges. Free online tool, no registration required."
 category: linux

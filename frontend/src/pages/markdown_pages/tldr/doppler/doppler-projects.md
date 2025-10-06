@@ -1,7 +1,7 @@
 ---
 title: "Doppler Projects - Manage Secure Configuration | Online Free DevTools by Hexmos"
 name: doppler-projects
-path: /freedevtools/tldr/doppler/doppler-projects
+path: "/freedevtools/tldr/doppler/doppler-projects/"
 canonical: "https://hexmos.com/freedevtools/tldr/doppler/doppler-projects/"
 description: "Manage Doppler projects securely with Doppler Projects command. Create, update, and delete projects, ensuring secure configuration management. Free online tool, no registration required."
 category: common

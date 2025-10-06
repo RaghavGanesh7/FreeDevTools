@@ -1,7 +1,7 @@
 ---
 title: "Apply Patch - Apply Changes Without Commit | Online Free DevTools by Hexmos"
 name: git-apply
-path: /freedevtools/tldr/git/git-apply
+path: "/freedevtools/tldr/git/git-apply/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-apply/"
 description: "Apply patch files with git-apply. Incorporate changesets to files and index without commit. Stream remote patches effortlessly. Free online tool, no registration required."
 category: common

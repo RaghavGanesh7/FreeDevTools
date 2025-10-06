@@ -1,7 +1,7 @@
 ---
 title: "Gcloud Topic - Display Google Cloud Topics | Online Free DevTools by Hexmos"
 name: gcloud-topic
-path: /freedevtools/tldr/gcloud/gcloud-topic
+path: "/freedevtools/tldr/gcloud/gcloud-topic/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcloud/gcloud-topic/"
 description: "Display Google Cloud topic help with Gcloud Topic. Explore supplementary help for accessibility, filtering, and formatting options. Free online tool, no registration required."
 category: common

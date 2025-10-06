@@ -1,7 +1,7 @@
 ---
 title: "Manage ID3 Tags - Convert & List ID3v1/v2 | Online Free DevTools by Hexmos"
 name: id3v2
-path: /freedevtools/tldr/linux/id3v2
+path: "/freedevtools/tldr/linux/id3v2/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/id3v2/"
 description: "Manage ID3 tags with id3v2. Convert ID3v1 to ID3v2, list tag information, and delete tags easily. Free online tool, no registration required."
 category: linux

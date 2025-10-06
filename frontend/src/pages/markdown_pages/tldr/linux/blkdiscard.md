@@ -1,7 +1,7 @@
 ---
 title: "blkdiscard - Securely Discard Device Blocks | Online Free DevTools by Hexmos"
 name: blkdiscard
-path: /freedevtools/tldr/linux/blkdiscard
+path: "/freedevtools/tldr/linux/blkdiscard/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/blkdiscard/"
 description: "Securely discard device blocks with blkdiscard.  Manage storage space and enhance SSD performance by removing data. Free online tool, no registration required."
 category: linux

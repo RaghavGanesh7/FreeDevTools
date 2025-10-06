@@ -1,7 +1,7 @@
 ---
 title: "Manage VM Guest Agent - Control Virtual Machines | Online Free DevTools by Hexmos"
 name: qm-guest
-path: /freedevtools/tldr/linux/qm-guest
+path: "/freedevtools/tldr/linux/qm-guest/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-guest/"
 description: "Control virtual machine guest agent with qm-guest. Execute commands, manage passwords, and freeze filesystems. Free online tool, no registration required."
 category: linux

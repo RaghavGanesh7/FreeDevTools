@@ -1,7 +1,7 @@
 ---
 title: "Getcap - Display File Capabilities | Online Free DevTools by Hexmos"
 name: getcap
-path: /freedevtools/tldr/linux/getcap
+path: "/freedevtools/tldr/linux/getcap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/getcap/"
 description: "Display file capabilities with Getcap. Easily check file access rights and security attributes. Free online tool, no registration required."
 category: linux

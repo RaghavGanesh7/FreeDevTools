@@ -1,7 +1,7 @@
 ---
 title: "Tmux Session Manager - Create & Manage Sessions | Online Free DevTools by Hexmos"
 name: tmuxinator
-path: /freedevtools/tldr/common/tmuxinator
+path: "/freedevtools/tldr/common/tmuxinator/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tmuxinator/"
 description: "Manage tmux sessions effortlessly with Tmuxinator. Automate session creation, window configuration and pane layout management via YAML. Free online tool, no registration required."
 category: common

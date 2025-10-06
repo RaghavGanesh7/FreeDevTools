@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Mask - Disable Units on Linux | Online Free DevTools by Hexmos"
 name: systemctl-mask
-path: /freedevtools/tldr/linux/systemctl-mask
+path: "/freedevtools/tldr/linux/systemctl-mask/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-mask/"
 description: "Disable units with systemctl mask on Linux. Prevent services from starting and ensure system stability with this powerful command-line tool. Free online tool, no registration required."
 category: linux

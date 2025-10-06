@@ -1,7 +1,7 @@
 ---
 title: "Control MySQL Performance - mytop Monitor | Online Free DevTools by Hexmos"
 name: mytop
-path: /freedevtools/tldr/common/mytop
+path: "/freedevtools/tldr/common/mytop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mytop/"
 description: "Control MySQL server performance with mytop, a top-like monitor for real-time diagnostics. Analyze database queries and resource usage. Free online tool, no registration required."
 category: common

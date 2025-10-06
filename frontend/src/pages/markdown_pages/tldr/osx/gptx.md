@@ -1,7 +1,7 @@
 ---
 title: "Generate PTX Index - Format Text with GNU ptx | Online Free DevTools by Hexmos"
 name: gptx
-path: /freedevtools/tldr/osx/gptx
+path: "/freedevtools/tldr/osx/gptx/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gptx/"
 description: "Generate PTX index with GNU ptx, a powerful text formatter for creating permuted indexes on macOS. Free online tool, no registration required to format and index text."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Find Files with Skim - Fuzzy Finder in Rust | Online Free DevTools by Hexmos"
 name: sk
-path: /freedevtools/tldr/common/sk
+path: "/freedevtools/tldr/common/sk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sk/"
 description: "Find files quickly with Skim, a command-line fuzzy finder written in Rust. Locate files, filter processes, and select multiple items efficiently. Free online tool, no registration required."
 category: common

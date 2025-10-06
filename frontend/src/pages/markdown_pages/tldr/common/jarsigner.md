@@ -1,7 +1,7 @@
 ---
 title: "Jarsigner - Sign JAR Files | Online Free DevTools by Hexmos"
 name: jarsigner
-path: /freedevtools/tldr/common/jarsigner
+path: "/freedevtools/tldr/common/jarsigner/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jarsigner/"
 description: "Sign Java archive (JAR) files with Jarsigner. Secure your Java applications using digital signatures. Free online tool, no registration required."
 category: common

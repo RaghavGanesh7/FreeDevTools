@@ -1,7 +1,7 @@
 ---
 title: "Format LaTeX - Format LaTeX Source Code | Online Free DevTools by Hexmos"
 name: tex-fmt
-path: /freedevtools/tldr/common/tex-fmt
+path: "/freedevtools/tldr/common/tex-fmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tex-fmt/"
 description: "Format LaTeX documents efficiently with tex-fmt. Improve LaTeX code readability and maintainability. Free online tool, no registration required."
 category: common

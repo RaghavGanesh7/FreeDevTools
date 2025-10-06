@@ -1,7 +1,7 @@
 ---
 title: "Handshake Wallet CLI - Control Handshake Wallet | Online Free DevTools by Hexmos"
 name: hsw-cli
-path: /freedevtools/tldr/common/hsw-cli
+path: "/freedevtools/tldr/common/hsw-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hsw-cli/"
 description: "Control your Handshake Wallet with Handshake Wallet CLI. Manage balances, send transactions, and view history using the command line. Free online tool, no registration required."
 category: common

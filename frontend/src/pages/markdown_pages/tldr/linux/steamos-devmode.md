@@ -1,7 +1,7 @@
 ---
 title: "Control SteamOS Dev Mode - Enable Developer Features | Online Free DevTools by Hexmos"
 name: steamos-devmode
-path: /freedevtools/tldr/linux/steamos-devmode
+path: "/freedevtools/tldr/linux/steamos-devmode/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-devmode/"
 description: "Control SteamOS developer mode with steamos-devmode. Enable or disable developer features and manage package installations. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Genie - Manage systemd under WSL | Online Free DevTools by Hexmos"
 name: genie
-path: /freedevtools/tldr/linux/genie
+path: "/freedevtools/tldr/linux/genie/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/genie/"
 description: "Manage systemd processes with Genie under WSL. Easily initialize, run shells, and execute commands within a bottle namespace. Free online tool, no registration required."
 category: linux

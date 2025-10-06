@@ -1,7 +1,7 @@
 ---
 title: "Virus Scan - Scan Files with Clamdscan | Online Free DevTools by Hexmos"
 name: clamdscan
-path: /freedevtools/tldr/common/clamdscan
+path: "/freedevtools/tldr/common/clamdscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clamdscan/"
 description: "Scan files for viruses instantly with Clamdscan, a command-line antivirus scanner. Protect your system against malware and ensure file integrity. Free online tool, no registration required."
 category: common

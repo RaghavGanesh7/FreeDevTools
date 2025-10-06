@@ -1,7 +1,7 @@
 ---
 title: "Stdbuf Control - Modify Standard Streams | Online Free DevTools by Hexmos"
 name: stdbuf
-path: /freedevtools/tldr/st/stdbuf
+path: "/freedevtools/tldr/st/stdbuf/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/stdbuf/"
 description: "Control standard streams buffering with Stdbuf. Modify stdin, stdout, and stderr buffer sizes using command line. Free online tool, no registration required."
 category: common

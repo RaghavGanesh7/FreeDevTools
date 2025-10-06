@@ -1,7 +1,7 @@
 ---
 title: "Nettop - Monitor Network Activity | Online Free DevTools by Hexmos"
 name: nettop
-path: /freedevtools/tldr/osx/nettop
+path: "/freedevtools/tldr/osx/nettop/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/nettop/"
 description: "Monitor network activity with Nettop, a command-line network monitoring tool for macOS. Analyze network traffic, identify bottlenecks, and optimize performance. Free online tool, no registration required."
 category: osx

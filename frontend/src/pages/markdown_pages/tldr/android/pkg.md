@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages - Control Termux Packages | Online Free DevTools by Hexmos"
 name: pkg
-path: /freedevtools/tldr/android/pkg
+path: "/freedevtools/tldr/android/pkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/android/pkg/"
 description: "Manage Termux packages effortlessly with Pkg. Install, uninstall, and upgrade packages on your Android device using this powerful command-line interface. Free online tool, no registration required."
 category: android

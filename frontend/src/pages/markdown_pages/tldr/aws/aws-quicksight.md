@@ -1,7 +1,7 @@
 ---
 title: "AWS QuickSight - Manage Data Visualizations | Online Free DevTools by Hexmos"
 name: aws-quicksight
-path: /freedevtools/tldr/aws/aws-quicksight
+path: "/freedevtools/tldr/aws/aws-quicksight/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-quicksight/"
 description: "Manage data visualizations with AWS QuickSight. Analyze datasets, configure user permissions, and generate insightful dashboards. Free online tool, no registration required."
 category: common

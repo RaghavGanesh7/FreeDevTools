@@ -1,7 +1,7 @@
 ---
 title: "Generate XML Struct - Zek | Online Free DevTools by Hexmos"
 name: zek
-path: /freedevtools/tldr/common/zek
+path: "/freedevtools/tldr/common/zek/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zek/"
 description: "Generate Go structs from XML with Zek. Convert XML data structures into Go code. Free online tool, no registration required."
 category: common

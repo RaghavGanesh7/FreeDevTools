@@ -1,7 +1,7 @@
 ---
 title: "JMap - Analyze Java Memory | Online Free DevTools by Hexmos"
 name: jmap
-path: /freedevtools/tldr/common/jmap
+path: "/freedevtools/tldr/common/jmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jmap/"
 description: "Analyze Java memory with JMap. Inspect heap usage, generate heap dumps for analysis, and diagnose memory leaks. Free online tool, no registration required."
 category: common

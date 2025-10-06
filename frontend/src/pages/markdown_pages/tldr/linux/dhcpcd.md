@@ -1,7 +1,7 @@
 ---
 title: "dhcpcd - Manage Network Leases with DHCP Client | Online Free DevTools by Hexmos"
 name: dhcpcd
-path: /freedevtools/tldr/linux/dhcpcd
+path: "/freedevtools/tldr/linux/dhcpcd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dhcpcd/"
 description: "Manage network leases using dhcpcd. Release address leases and request new ones with this command line utility. Get new IP addresses quickly. Free online tool, no registration required."
 category: linux

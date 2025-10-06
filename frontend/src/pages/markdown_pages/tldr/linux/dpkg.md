@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages with dpkg - Debian Package Control | Online Free DevTools by Hexmos"
 name: dpkg
-path: /freedevtools/tldr/linux/dpkg
+path: "/freedevtools/tldr/linux/dpkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dpkg/"
 description: "Control Debian packages easily with dpkg. Install, remove, list, and manage packages via command line. Free online tool, no registration required."
 category: linux

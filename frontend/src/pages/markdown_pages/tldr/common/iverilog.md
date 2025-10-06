@@ -1,7 +1,7 @@
 ---
 title: "Iverilog - Compile Verilog Code | Online Free DevTools by Hexmos"
 name: iverilog
-path: /freedevtools/tldr/common/iverilog
+path: "/freedevtools/tldr/common/iverilog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/iverilog/"
 description: "Compile Verilog code with Iverilog. Simulate and test hardware designs effectively with this Verilog compiler. Free online tool, no registration required."
 category: common

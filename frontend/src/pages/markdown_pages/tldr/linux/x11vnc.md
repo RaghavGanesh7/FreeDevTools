@@ -1,7 +1,7 @@
 ---
 title: "X11VNC Control - Remote Linux Desktops | Online Free DevTools by Hexmos"
 name: x11vnc
-path: /freedevtools/tldr/linux/x11vnc
+path: "/freedevtools/tldr/linux/x11vnc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/x11vnc/"
 description: "Control remote Linux desktops with X11VNC. Enable VNC access on existing displays for easy management and collaboration. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Findstr - Search Text in Files | Online Free DevTools by Hexmos"
 name: findstr
-path: /freedevtools/tldr/windows/findstr
+path: "/freedevtools/tldr/windows/findstr/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/findstr/"
 description: "Search text within files with Findstr. Quickly locate specific strings or patterns in multiple files. Free online tool, no registration required."
 category: windows

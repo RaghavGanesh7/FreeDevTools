@@ -1,7 +1,7 @@
 ---
 title: "Create Git Blob File - Unpack Blob Contents | Online Free DevTools by Hexmos"
 name: git-unpack-file
-path: /freedevtools/tldr/git/git-unpack-file
+path: "/freedevtools/tldr/git/git-unpack-file/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-unpack-file/"
 description: "Create Git blob files instantly with git-unpack-file. Extract blob contents and generate temporary files. Free online tool, no registration required."
 category: common

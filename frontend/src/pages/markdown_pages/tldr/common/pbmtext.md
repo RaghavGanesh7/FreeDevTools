@@ -1,7 +1,7 @@
 ---
 title: "Generate PBM Image - Render Text as PBM | Online Free DevTools by Hexmos"
 name: pbmtext
-path: /freedevtools/tldr/common/pbmtext
+path: "/freedevtools/tldr/common/pbmtext/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtext/"
 description: "Generate PBM image with pbmtext. Create bitmap images from text input and customize fonts and spacing. Free online tool, no registration required."
 category: common

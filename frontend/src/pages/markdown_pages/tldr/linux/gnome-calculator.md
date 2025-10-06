@@ -1,7 +1,7 @@
 ---
 title: "GNOME Calculator - Use Command Line Calculator | Online Free DevTools by Hexmos"
 name: gnome-calculator
-path: /freedevtools/tldr/linux/gnome-calculator
+path: "/freedevtools/tldr/linux/gnome-calculator/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gnome-calculator/"
 description: "Calculate equations with GNOME Calculator command-line interface.  Perform basic and advanced calculations quickly and efficiently. Free online tool, no registration required."
 category: linux

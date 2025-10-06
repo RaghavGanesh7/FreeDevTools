@@ -1,7 +1,7 @@
 ---
 title: "Rexec - Execute Commands Remotely | Online Free DevTools by Hexmos"
 name: grexec
-path: /freedevtools/tldr/osx/grexec
+path: "/freedevtools/tldr/osx/grexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/grexec/"
 description: "Execute commands remotely with Rexec on macOS.  Securely run shell commands on remote machines. Free online tool, no registration required."
 category: osx

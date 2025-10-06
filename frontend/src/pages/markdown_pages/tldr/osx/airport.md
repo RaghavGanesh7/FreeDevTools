@@ -1,7 +1,7 @@
 ---
 title: "Airport - Configure Wireless Networks | Online Free DevTools by Hexmos"
 name: airport
-path: /freedevtools/tldr/osx/airport
+path: "/freedevtools/tldr/osx/airport/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/airport/"
 description: "Configure wireless networks with Airport, the macOS command-line tool. Manage Wi-Fi connections, scan for networks, and monitor signal strength. Free online tool, no registration required."
 category: osx

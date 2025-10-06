@@ -1,7 +1,7 @@
 ---
 title: "Fix PAM - Truncate Image Data | Online Free DevTools by Hexmos"
 name: pamfixtrunc
-path: /freedevtools/tldr/common/pamfixtrunc
+path: "/freedevtools/tldr/common/pamfixtrunc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamfixtrunc/"
 description: "Truncate PAM image data with pamfixtrunc. Repair corrupted or oversized Netpbm images. Ensures image files conform to format. Free online tool, no registration required."
 category: common

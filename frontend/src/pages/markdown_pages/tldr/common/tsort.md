@@ -1,7 +1,7 @@
 ---
 title: "Generate Topological Sort - Dependency Order | Online Free DevTools by Hexmos"
 name: tsort
-path: /freedevtools/tldr/common/tsort
+path: "/freedevtools/tldr/common/tsort/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tsort/"
 description: "Generate a topological sort with tsort. Determine the dependency order in a directed acyclic graph using command line tools. Free online tool, no registration required."
 category: common

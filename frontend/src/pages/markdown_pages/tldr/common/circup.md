@@ -1,7 +1,7 @@
 ---
 title: "Circup Updater - Manage CircuitPython Libraries | Online Free DevTools by Hexmos"
 name: circup
-path: /freedevtools/tldr/common/circup
+path: "/freedevtools/tldr/common/circup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/circup/"
 description: "Manage CircuitPython libraries easily with Circup Updater. Install, update and freeze CircuitPython modules on your device. Free online tool, no registration required."
 category: common

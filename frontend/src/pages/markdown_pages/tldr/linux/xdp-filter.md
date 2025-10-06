@@ -1,7 +1,7 @@
 ---
 title: "XDP Filter - Control Network Traffic | Online Free DevTools by Hexmos"
 name: xdp-filter
-path: /freedevtools/tldr/linux/xdp-filter
+path: "/freedevtools/tldr/linux/xdp-filter/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xdp-filter/"
 description: "Control network traffic with XDP Filter, an eBPF-based packet filtering tool. Manage XDP filters to allow, deny, and monitor network packets. Free online tool, no registration required."
 category: linux

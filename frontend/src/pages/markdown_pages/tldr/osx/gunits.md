@@ -1,7 +1,7 @@
 ---
 title: "Convert Units - Calculate with GUNITS | Online Free DevTools by Hexmos"
 name: gunits
-path: /freedevtools/tldr/osx/gunits
+path: "/freedevtools/tldr/osx/gunits/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gunits/"
 description: "Calculate units with GUNITS. Convert measurements between different systems effortlessly using this alias for GNU units. Free online tool, no registration required."
 category: osx

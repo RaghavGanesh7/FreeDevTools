@@ -1,7 +1,7 @@
 ---
 title: "Nikto Scanner - Scan Web Servers | Online Free DevTools by Hexmos"
 name: nikto
-path: /freedevtools/tldr/common/nikto
+path: "/freedevtools/tldr/common/nikto/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nikto/"
 description: "Scan web servers for vulnerabilities with Nikto Scanner. Perform comprehensive security audits and identify potential weaknesses. Free online tool, no registration required."
 category: common

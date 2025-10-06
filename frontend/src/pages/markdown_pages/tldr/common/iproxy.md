@@ -1,7 +1,7 @@
 ---
 title: "Iproxy Forward Ports - Control USB Port Forwarding | Online Free DevTools by Hexmos"
 name: iproxy
-path: /freedevtools/tldr/common/iproxy
+path: "/freedevtools/tldr/common/iproxy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/iproxy/"
 description: "Control USB port forwarding with Iproxy. Easily forward TCP ports over USB for debugging and development on iOS devices. Free online tool, no registration required."
 category: common

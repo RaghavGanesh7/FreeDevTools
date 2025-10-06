@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to PTX - Generate Printronix Graphics | Online Free DevTools by Hexmos"
 name: pbmtoptx
-path: /freedevtools/tldr/common/pbmtoptx
+path: "/freedevtools/tldr/common/pbmtoptx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoptx/"
 description: "Convert PBM images to PTX format with pbmtoptx. Generate Printronix printer graphics effortlessly. Free online tool, no registration required."
 category: common

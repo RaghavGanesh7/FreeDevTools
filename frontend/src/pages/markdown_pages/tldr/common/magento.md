@@ -1,7 +1,7 @@
 ---
 title: "Magento Manager - Control PHP Framework | Online Free DevTools by Hexmos"
 name: magento
-path: /freedevtools/tldr/common/magento
+path: "/freedevtools/tldr/common/magento/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/magento/"
 description: "Manage Magento PHP framework configurations with Magento Manager. Enable/disable modules, upgrade database and deploy static content with ease. Free online tool, no registration required."
 category: common

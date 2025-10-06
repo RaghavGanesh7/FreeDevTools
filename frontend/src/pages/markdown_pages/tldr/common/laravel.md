@@ -1,7 +1,7 @@
 ---
 title: "Create Laravel Projects - Installer | Online Free DevTools by Hexmos"
 name: laravel
-path: /freedevtools/tldr/common/laravel
+path: "/freedevtools/tldr/common/laravel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/laravel/"
 description: "Create Laravel projects easily with Laravel Installer. Quickly set up new applications, manage dependencies, and scaffold your development environment. Free online tool, no registration required."
 category: common

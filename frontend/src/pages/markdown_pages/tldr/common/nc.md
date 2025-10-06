@@ -1,7 +1,7 @@
 ---
 title: "Netcat (nc) - Control Network Connections | Online Free DevTools by Hexmos"
 name: nc
-path: /freedevtools/tldr/common/nc
+path: "/freedevtools/tldr/common/nc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nc/"
 description: "Control network connections easily with Netcat (nc). Send, receive, and scan data across networks. A versatile command-line tool for network debugging. Free online tool, no registration required."
 category: common

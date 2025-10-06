@@ -1,7 +1,7 @@
 ---
 title: "Parse HTML - Format & Filter HTML with pup | Online Free DevTools by Hexmos"
 name: pup
-path: /freedevtools/tldr/common/pup
+path: "/freedevtools/tldr/common/pup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pup/"
 description: "Format HTML with pup, a command-line HTML parser. Filter elements, extract text, and convert to JSON effortlessly. Free online tool, no registration required."
 category: common

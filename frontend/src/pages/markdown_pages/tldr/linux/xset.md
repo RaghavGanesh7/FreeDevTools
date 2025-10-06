@@ -1,7 +1,7 @@
 ---
 title: "Control X Server - Manage X Settings | Online Free DevTools by Hexmos"
 name: xset
-path: /freedevtools/tldr/linux/xset
+path: "/freedevtools/tldr/linux/xset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xset/"
 description: "Control X server user preferences with xset. Disable screensaver, adjust bell sound, and manage DPMS settings easily. Free online tool, no registration required."
 category: linux

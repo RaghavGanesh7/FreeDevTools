@@ -1,7 +1,7 @@
 ---
 title: "JJ Show - Display Commit Details | Online Free DevTools by Hexmos"
 name: jj-show
-path: /freedevtools/tldr/jj/jj-show
+path: "/freedevtools/tldr/jj/jj-show/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-show/"
 description: "Display commit details with JJ Show. Examine commit descriptions and changesets in a revision. Free online tool, no registration required."
 category: common

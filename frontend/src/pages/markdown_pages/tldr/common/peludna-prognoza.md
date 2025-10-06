@@ -1,7 +1,7 @@
 ---
 title: "Fetch Pollen Data - peludna-prognoza CLI | Online Free DevTools by Hexmos"
 name: peludna-prognoza
-path: /freedevtools/tldr/common/peludna-prognoza
+path: "/freedevtools/tldr/common/peludna-prognoza/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/peludna-prognoza/"
 description: "Fetch pollen data with peludna-prognoza for Croatian cities from the terminal. Access real-time allergies information via Pliva's API using CLI commands. Free online tool, no registration required."
 category: common

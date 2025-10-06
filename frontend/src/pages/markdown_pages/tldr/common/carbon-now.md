@@ -1,7 +1,7 @@
 ---
 title: "Create Code Images - Carbon-now CLI | Online Free DevTools by Hexmos"
 name: carbon-now
-path: /freedevtools/tldr/common/carbon-now
+path: "/freedevtools/tldr/common/carbon-now/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/carbon-now/"
 description: "Create beautiful code images instantly with carbon-now CLI. Generate shareable code snippets with syntax highlighting and customizable themes. Free online tool, no registration required."
 category: common

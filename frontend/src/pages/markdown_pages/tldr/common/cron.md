@@ -1,7 +1,7 @@
 ---
 title: "Cron Scheduler - Schedule Tasks with Crontab | Online Free DevTools by Hexmos"
 name: cron
-path: /freedevtools/tldr/common/cron
+path: "/freedevtools/tldr/common/cron/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cron/"
 description: "Schedule tasks easily with Cron Scheduler, a powerful time-based job scheduler. Automate commands and scripts on Linux and macOS systems. Free online tool, no registration required."
 category: common

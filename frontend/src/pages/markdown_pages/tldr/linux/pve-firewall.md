@@ -1,7 +1,7 @@
 ---
 title: "PVE Firewall - Manage Proxmox Firewall Rules | Online Free DevTools by Hexmos"
 name: pve-firewall
-path: /freedevtools/tldr/linux/pve-firewall
+path: "/freedevtools/tldr/linux/pve-firewall/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pve-firewall/"
 description: "Manage Proxmox VE firewall with PVE Firewall. Control firewall rules and simulate configurations on Linux. Free online tool, no registration required."
 category: linux

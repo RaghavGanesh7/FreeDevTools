@@ -1,7 +1,7 @@
 ---
 title: "LID Command - View System Information | Online Free DevTools by Hexmos"
 name: lid
-path: /freedevtools/tldr/linux/lid
+path: "/freedevtools/tldr/linux/lid/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lid/"
 description: "View system information quickly with the LID command.  Access user and group IDs efficiently using this versatile command-line tool. Free online tool, no registration required."
 category: linux

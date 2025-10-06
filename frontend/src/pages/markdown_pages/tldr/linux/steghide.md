@@ -1,7 +1,7 @@
 ---
 title: "Steganography Tool - Embed & Extract Data with steghide | Online Free DevTools by Hexmos"
 name: steghide
-path: /freedevtools/tldr/linux/steghide
+path: "/freedevtools/tldr/linux/steghide/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steghide/"
 description: "Embed and extract data with steghide, a powerful steganography tool for various file formats.  Manage hidden files securely within images and audio. Free online tool, no registration required."
 category: linux

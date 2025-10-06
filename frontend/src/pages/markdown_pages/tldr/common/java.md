@@ -1,7 +1,7 @@
 ---
 title: "Java Launcher - Execute Java Programs | Online Free DevTools by Hexmos"
 name: java
-path: "/freedevtools/tldr/common/java"
+path: "/freedevtools/tldr/common/java/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/java/"
 description: "Execute Java programs effortlessly with Java Launcher. Run .class and .jar files and manage classpath settings. Free online tool, no registration required."
 category: common

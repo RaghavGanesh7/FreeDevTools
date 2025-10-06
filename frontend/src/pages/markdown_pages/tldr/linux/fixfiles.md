@@ -1,7 +1,7 @@
 ---
 title: "Fix Files - Secure File Contexts | Online Free DevTools by Hexmos"
 name: fixfiles
-path: /freedevtools/tldr/linux/fixfiles
+path: "/freedevtools/tldr/linux/fixfiles/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fixfiles/"
 description: "Secure file contexts with Fix Files. Restore correct SELinux contexts to protect your system. Free online tool, no registration required."
 category: linux

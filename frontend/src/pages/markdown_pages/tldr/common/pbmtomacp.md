@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to MacPaint - Create MacPaint Files | Online Free DevTools by Hexmos"
 name: pbmtomacp
-path: /freedevtools/tldr/common/pbmtomacp
+path: "/freedevtools/tldr/common/pbmtomacp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtomacp/"
 description: "Convert PBM image to MacPaint files with pbmtomacp. Create compatible MACP images from PBM format easily. Free online tool, no registration required."
 category: common

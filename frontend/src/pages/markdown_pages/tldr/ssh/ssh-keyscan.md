@@ -1,7 +1,7 @@
 ---
 title: "SSH Keyscan - Get Public Keys | Online Free DevTools by Hexmos"
 name: ssh-keyscan
-path: /freedevtools/tldr/ssh/ssh-keyscan
+path: "/freedevtools/tldr/ssh/ssh-keyscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/ssh/ssh-keyscan/"
 description: "Get public SSH keys instantly with SSH Keyscan. Securely manage remote host authentication with this command-line tool. Free online tool, no registration required."
 category: common

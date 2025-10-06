@@ -1,7 +1,7 @@
 ---
 title: "Opus Encode Audio - Convert Audio to Opus Format | Online Free DevTools by Hexmos"
 name: opusenc
-path: /freedevtools/tldr/common/opusenc
+path: "/freedevtools/tldr/common/opusenc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/opusenc/"
 description: "Encode audio to Opus format with Opusenc. Compress WAV and FLAC files into Opus audio files using command line. Free online tool, no registration required."
 category: common

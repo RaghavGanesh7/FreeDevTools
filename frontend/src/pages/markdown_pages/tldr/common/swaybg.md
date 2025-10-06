@@ -1,7 +1,7 @@
 ---
 title: "Control Wallpaper - Swaybg Tool | Online Free DevTools by Hexmos"
 name: swaybg
-path: /freedevtools/tldr/common/swaybg
+path: "/freedevtools/tldr/common/swaybg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swaybg/"
 description: "Control Wayland wallpaper with Swaybg. Set images, modes, and colors easily. Free online tool, no registration required."
 category: common

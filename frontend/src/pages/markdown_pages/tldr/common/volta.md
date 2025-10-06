@@ -1,7 +1,7 @@
 ---
 title: "Volta - Manage Node.js Versions | Online Free DevTools by Hexmos"
 name: volta
-path: /freedevtools/tldr/common/volta
+path: "/freedevtools/tldr/common/volta/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/volta/"
 description: "Manage Node.js versions with Volta, your JavaScript tool manager. Install specific versions, pin to projects, and control dependencies. Free online tool, no registration required."
 category: common

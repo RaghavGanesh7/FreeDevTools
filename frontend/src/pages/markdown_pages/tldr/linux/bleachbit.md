@@ -1,7 +1,7 @@
 ---
 title: "BleachBit - Clean Junk Files | Online Free DevTools by Hexmos"
 name: bleachbit
-path: /freedevtools/tldr/linux/bleachbit
+path: "/freedevtools/tldr/linux/bleachbit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bleachbit/"
 description: "Clean junk files with BleachBit, a powerful disk cleanup tool.  Shred files securely and preview changes before deleting. Free online tool, no registration required."
 category: linux

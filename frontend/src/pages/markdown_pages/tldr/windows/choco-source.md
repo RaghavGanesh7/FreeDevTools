@@ -1,7 +1,7 @@
 ---
 title: "Choco Source - Manage Package Sources | Online Free DevTools by Hexmos"
 name: choco-source
-path: /freedevtools/tldr/windows/choco-source
+path: "/freedevtools/tldr/windows/choco-source/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-source/"
 description: "Manage Chocolatey package sources with Choco Source. Easily add, remove, enable, and disable package sources for streamlined software management. Free online tool, no registration required."
 category: windows

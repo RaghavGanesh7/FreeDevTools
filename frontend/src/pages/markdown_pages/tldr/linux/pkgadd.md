@@ -1,7 +1,7 @@
 ---
 title: "Install Package - Add Software on Linux | Online Free DevTools by Hexmos"
 name: pkgadd
-path: /freedevtools/tldr/linux/pkgadd
+path: "/freedevtools/tldr/linux/pkgadd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgadd/"
 description: "Install packages with pkgadd on Linux systems. Easily add software and update existing installations from local package files. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Loadkeys Command - Control Linux Keyboard Layouts | Online Free DevTools by Hexmos"
 name: loadkeys
-path: /freedevtools/tldr/linux/loadkeys
+path: "/freedevtools/tldr/linux/loadkeys/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/loadkeys/"
 description: "Control Linux keyboard layouts with the loadkeys command.  Manage keymaps,  set specific layouts for consoles, and create custom keymaps. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Storage Queue - Manage Azure Queues | Online Free DevTools by Hexmos"
 name: az-storage-queue
-path: /freedevtools/tldr/az/az-storage-queue
+path: "/freedevtools/tldr/az/az-storage-queue/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-storage-queue/"
 description: "Manage Azure storage queues with az-storage-queue. Create, list, and delete queues, generate SAS tokens for secure access. Free online tool, no registration required."
 category: common

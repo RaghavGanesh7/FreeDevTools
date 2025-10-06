@@ -1,7 +1,7 @@
 ---
 title: "Kotlin Compiler - Compile Kotlin Code | Online Free DevTools by Hexmos"
 name: kotlinc
-path: /freedevtools/tldr/common/kotlinc
+path: "/freedevtools/tldr/common/kotlinc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kotlinc/"
 description: "Compile Kotlin code with kotlinc. Create executable JAR files and run Kotlin scripts with this powerful compiler. Free online tool, no registration required."
 category: common

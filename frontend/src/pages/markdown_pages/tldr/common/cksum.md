@@ -1,7 +1,7 @@
 ---
 title: "Calculate Checksum - Verify File Integrity | Online Free DevTools by Hexmos"
 name: cksum
-path: /freedevtools/tldr/common/cksum
+path: "/freedevtools/tldr/common/cksum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cksum/"
 description: "Calculate checksum values with cksum to verify file integrity. Ensure data accuracy and identify file corruption. Free online tool, no registration required."
 category: common

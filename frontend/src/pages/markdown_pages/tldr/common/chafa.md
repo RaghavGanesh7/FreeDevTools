@@ -1,7 +1,7 @@
 ---
 title: "Chafa - Render Images in Terminal | Online Free DevTools by Hexmos"
 name: chafa
-path: /freedevtools/tldr/common/chafa
+path: "/freedevtools/tldr/common/chafa/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chafa/"
 description: "Render images easily with Chafa, the terminal image printer. Convert images to ASCII art and display them directly in your terminal. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create AP - Generate Access Point | Online Free DevTools by Hexmos"
 name: create_ap
-path: /freedevtools/tldr/linux/create_ap
+path: "/freedevtools/tldr/linux/create_ap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/create_ap/"
 description: "Generate access points with Create AP, a powerful command-line tool for Linux. Set up Wi-Fi hotspots, manage network sharing, and customize adapter drivers. Free online tool, no registration required."
 category: linux

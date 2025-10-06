@@ -1,7 +1,7 @@
 ---
 title: "Calculate B3SUM Checksums - Verify File Integrity | Online Free DevTools by Hexmos"
 name: b3sum
-path: /freedevtools/tldr/common/b3sum
+path: "/freedevtools/tldr/common/b3sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/b3sum/"
 description: "Calculate file checksums with B3SUM. Verify file integrity and detect corruption easily. Free online tool, no registration required."
 category: common

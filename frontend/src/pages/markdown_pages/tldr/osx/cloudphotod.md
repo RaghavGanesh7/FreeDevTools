@@ -1,7 +1,7 @@
 ---
 title: "Sync iCloud Photos - Control Photo Syncing on macOS | Online Free DevTools by Hexmos"
 name: cloudphotod
-path: /freedevtools/tldr/osx/cloudphotod
+path: "/freedevtools/tldr/osx/cloudphotod/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/cloudphotod/"
 description: "Control iCloud Photos syncing with cloudphotod. Monitor background processes and manage photo synchronization on your macOS system. Free online tool, no registration required."
 category: osx

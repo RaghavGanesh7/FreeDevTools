@@ -1,7 +1,7 @@
 ---
 title: "Control CUPS Daemon - Manage Print Server | Online Free DevTools by Hexmos"
 name: cupsd
-path: /freedevtools/tldr/common/cupsd
+path: "/freedevtools/tldr/common/cupsd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cupsd/"
 description: "Control the CUPS daemon with cupsd. Manage print queues, configure printers, and troubleshoot printing issues with this command. Free online tool, no registration required."
 category: common

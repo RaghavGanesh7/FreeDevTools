@@ -1,7 +1,7 @@
 ---
 title: "SED - Edit Text Scriptably | Online Free DevTools by Hexmos"
 name: sed
-path: /freedevtools/tldr/netbsd/sed
+path: "/freedevtools/tldr/netbsd/sed/"
 canonical: "https://hexmos.com/freedevtools/tldr/netbsd/sed/"
 description: "Edit text scriptably with SED. Use text substitution for batch editing text files. Free online tool, no registration required."
 category: netbsd

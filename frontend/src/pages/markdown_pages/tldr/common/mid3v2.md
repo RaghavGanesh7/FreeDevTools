@@ -1,7 +1,7 @@
 ---
 title: "Mid3v2 - Edit Audio Tags | Online Free DevTools by Hexmos"
 name: mid3v2
-path: /freedevtools/tldr/common/mid3v2
+path: "/freedevtools/tldr/common/mid3v2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mid3v2/"
 description: "Edit audio tags with Mid3v2. Modify artist, album, song information and set picture, year, or date information on MP3 files. Free online tool, no registration required."
 category: common

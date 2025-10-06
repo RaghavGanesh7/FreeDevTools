@@ -1,7 +1,7 @@
 ---
 title: "nmcli Radio - Control Network Radios in Linux | Online Free DevTools by Hexmos"
 name: nmcli-radio
-path: /freedevtools/tldr/linux/nmcli-radio
+path: "/freedevtools/tldr/linux/nmcli-radio/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmcli-radio/"
 description: "Control network radio devices with nmcli radio. Easily manage Wi-Fi and WWAN radio states in Linux using NetworkManager. Free online tool, no registration required."
 category: linux

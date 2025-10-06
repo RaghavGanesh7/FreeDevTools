@@ -1,7 +1,7 @@
 ---
 title: "Strings Extractor - Find Text Strings | Online Free DevTools by Hexmos"
 name: strings
-path: "/freedevtools/tldr/st/strings"
+path: "/freedevtools/tldr/st/strings/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/strings/"
 description: "Extract text strings with Strings. Analyze binary files and identify readable text sequences. Free online tool, no registration required."
 category: common

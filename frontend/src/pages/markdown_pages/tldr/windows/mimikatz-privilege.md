@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Privilege - Control Security Privileges | Online Free DevTools by Hexmos"
 name: mimikatz-privilege
-path: /freedevtools/tldr/windows/mimikatz-privilege
+path: "/freedevtools/tldr/windows/mimikatz-privilege/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-privilege/"
 description: "Control security privileges with Mimikatz privilege module on Windows. Enable debug privileges and check current user permissions easily. Free online tool, no registration required."
 category: windows

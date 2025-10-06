@@ -1,7 +1,7 @@
 ---
 title: "GitLab MR - Manage Merge Requests | Online Free DevTools by Hexmos"
 name: glab-mr
-path: /freedevtools/tldr/glab/glab-mr
+path: "/freedevtools/tldr/glab/glab-mr/"
 canonical: "https://hexmos.com/freedevtools/tldr/glab/glab-mr/"
 description: "Manage GitLab merge requests efficiently with Glab MR. Create, checkout, and approve merge requests directly from your terminal. Free online tool, no registration required."
 category: common

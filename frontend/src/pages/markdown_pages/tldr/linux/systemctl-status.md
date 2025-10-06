@@ -1,7 +1,7 @@
 ---
 title: "Control Systemd Status - Manage System Units | Online Free DevTools by Hexmos"
 name: systemctl-status
-path: /freedevtools/tldr/linux/systemctl-status
+path: "/freedevtools/tldr/linux/systemctl-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-status/"
 description: "Control Systemd status with systemctl. Manage systemd units and services, check status, and diagnose issues easily. Free online tool, no registration required."
 category: linux

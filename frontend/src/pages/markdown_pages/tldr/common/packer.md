@@ -1,7 +1,7 @@
 ---
 title: "Packer - Build Machine Images | Online Free DevTools by Hexmos"
 name: packer
-path: /freedevtools/tldr/common/packer
+path: "/freedevtools/tldr/common/packer/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/packer/"
 description: "Build machine images easily with Packer. Automate image creation, validate configurations, and format Packer files. Free online tool, no registration required."
 category: common

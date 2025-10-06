@@ -1,7 +1,7 @@
 ---
 title: "Text Editor - Create and Edit Files with Joe | Online Free DevTools by Hexmos"
 name: joe
-path: /freedevtools/tldr/common/joe
+path: "/freedevtools/tldr/common/joe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/joe/"
 description: "Create text files easily with Joe text editor. Edit, open, and modify documents with this lightweight command-line utility. Free online tool, no registration required."
 category: common

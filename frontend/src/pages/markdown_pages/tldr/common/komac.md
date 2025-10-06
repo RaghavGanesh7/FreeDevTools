@@ -1,7 +1,7 @@
 ---
 title: "Create WinGet Manifests - komac | Online Free DevTools by Hexmos"
 name: komac
-path: /freedevtools/tldr/common/komac
+path: "/freedevtools/tldr/common/komac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/komac/"
 description: "Create WinGet manifests with komac, a command-line tool for managing winget-pkgs repositories. Automate package creation and updates. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "BDfr Downloader - Download Reddit Content | Online Free DevTools by Hexmos"
 name: bdfr
-path: /freedevtools/tldr/common/bdfr
+path: "/freedevtools/tldr/common/bdfr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bdfr/"
 description: "Download Reddit content easily with Bdfr Downloader. Archive posts, save videos, and clone subreddits using a simple command-line interface. Free online tool, no registration required."
 category: common

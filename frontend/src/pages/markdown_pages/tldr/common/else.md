@@ -1,7 +1,7 @@
 ---
 title: "Control Shell Else - Define Code Branches | Online Free DevTools by Hexmos"
 name: else
-path: /freedevtools/tldr/common/else
+path: "/freedevtools/tldr/common/else/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/else/"
 description: "Control code execution flow with Shell Else, defining alternative branches in shell scripts. Improve script logic and handle different conditions. Free online tool, no registration required."
 category: common

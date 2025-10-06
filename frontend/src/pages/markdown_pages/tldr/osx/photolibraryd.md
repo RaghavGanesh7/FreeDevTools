@@ -1,7 +1,7 @@
 ---
 title: "Photo Library Daemon - Handle Photo Requests | Online Free DevTools by Hexmos"
 name: photolibraryd
-path: /freedevtools/tldr/osx/photolibraryd
+path: "/freedevtools/tldr/osx/photolibraryd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/photolibraryd/"
 description: "Handle photo library requests with Photo Library Daemon (photolibraryd). Manage photo access, and image processing on macOS. Free online tool, no registration required."
 category: osx

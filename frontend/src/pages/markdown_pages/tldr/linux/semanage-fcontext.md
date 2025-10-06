@@ -1,7 +1,7 @@
 ---
 title: "Manage SELinux Contexts - Control File Security | Online Free DevTools by Hexmos"
 name: semanage-fcontext
-path: /freedevtools/tldr/linux/semanage-fcontext
+path: "/freedevtools/tldr/linux/semanage-fcontext/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/semanage-fcontext/"
 description: "Control SELinux file contexts with semanage-fcontext. Manage persistent security rules, define file labels using PCRE regex, and recursively relabel directories. Free online tool, no registration required."
 category: linux

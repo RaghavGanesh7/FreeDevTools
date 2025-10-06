@@ -1,7 +1,7 @@
 ---
 title: "Run QEMU Virtual Machines - Create VMs Easily | Online Free DevTools by Hexmos"
 name: virt-qemu-run
-path: /freedevtools/tldr/virt/virt-qemu-run
+path: "/freedevtools/tldr/virt/virt-qemu-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/virt/virt-qemu-run/"
 description: "Run QEMU virtual machines with virt-qemu-run. Streamline VM creation and management on Linux. Free online tool, no registration required."
 category: common

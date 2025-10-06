@@ -1,7 +1,7 @@
 ---
 title: "Screenshot Spectacle - Capture Screen Images | Online Free DevTools by Hexmos"
 name: spectacle
-path: /freedevtools/tldr/common/spectacle
+path: "/freedevtools/tldr/common/spectacle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spectacle/"
 description: "Capture screen images easily with Spectacle, the KDE screenshot utility. Capture full screen, active window, or specific regions. Free online tool, no registration required."
 category: common

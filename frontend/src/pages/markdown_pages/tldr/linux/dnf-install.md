@@ -1,7 +1,7 @@
 ---
 title: "DNF Install - Install Packages on Linux | Online Free DevTools by Hexmos"
 name: dnf-install
-path: /freedevtools/tldr/linux/dnf-install
+path: "/freedevtools/tldr/linux/dnf-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf-install/"
 description: "Install packages with DNF Install on Linux distributions. Quickly manage RPM packages, resolve dependencies, and keep your system updated. Free online tool, no registration required."
 category: linux

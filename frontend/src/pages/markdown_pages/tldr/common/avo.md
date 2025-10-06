@@ -1,7 +1,7 @@
 ---
 title: "Avo CLI - Control Avo Analytics Workspaces | Online Free DevTools by Hexmos"
 name: avo
-path: /freedevtools/tldr/common/avo
+path: "/freedevtools/tldr/common/avo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/avo/"
 description: "Control your Avo analytics workspaces with the Avo CLI. Manage branches, pull wrappers, and resolve conflicts effortlessly. Free online tool, no registration required."
 category: common

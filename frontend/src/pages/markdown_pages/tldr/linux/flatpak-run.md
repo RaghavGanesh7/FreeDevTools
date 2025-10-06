@@ -1,7 +1,7 @@
 ---
 title: "Flatpak Run - Execute Applications and Runtimes | Online Free DevTools by Hexmos"
 name: flatpak-run
-path: /freedevtools/tldr/linux/flatpak-run
+path: "/freedevtools/tldr/linux/flatpak-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flatpak-run/"
 description: "Execute Flatpak applications with Flatpak Run. Manage application instances, specify runtimes, and debug applications in isolated environments. Free online tool, no registration required."
 category: linux

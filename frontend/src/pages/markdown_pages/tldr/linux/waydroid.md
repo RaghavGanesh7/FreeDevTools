@@ -1,7 +1,7 @@
 ---
 title: "Waydroid - Run Android Apps on Linux | Online Free DevTools by Hexmos"
 name: waydroid
-path: /freedevtools/tldr/linux/waydroid
+path: "/freedevtools/tldr/linux/waydroid/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/waydroid/"
 description: "Run Android apps on Linux with Waydroid, a container-based solution for seamless Android integration. Install APKs, manage sessions, and adjust window dimensions. Free online tool, no registration required."
 category: linux

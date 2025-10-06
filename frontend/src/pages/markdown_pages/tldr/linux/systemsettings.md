@@ -1,7 +1,7 @@
 ---
 title: "Control System Settings - KDE Configuration | Online Free DevTools by Hexmos"
 name: systemsettings
-path: /freedevtools/tldr/linux/systemsettings
+path: "/freedevtools/tldr/linux/systemsettings/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemsettings/"
 description: "Control system settings effortlessly with systemsettings. Configure KDE desktop environment, manage hardware settings, and customize user preferences. Free online tool, no registration required."
 category: linux

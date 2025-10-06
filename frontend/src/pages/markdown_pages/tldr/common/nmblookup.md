@@ -1,7 +1,7 @@
 ---
 title: "Discover SMB Shares - Scan Network SMB with nmblookup | Online Free DevTools by Hexmos"
 name: nmblookup
-path: /freedevtools/tldr/common/nmblookup
+path: "/freedevtools/tldr/common/nmblookup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nmblookup/"
 description: "Discover SMB shares with nmblookup. Find SMB servers, troubleshoot network connections and verify NetBIOS names. Free online tool, no registration required."
 category: common

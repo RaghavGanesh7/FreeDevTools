@@ -1,7 +1,7 @@
 ---
 title: "Control Terminator - Manage GNOME Terminals | Online Free DevTools by Hexmos"
 name: terminator
-path: /freedevtools/tldr/linux/terminator
+path: "/freedevtools/tldr/linux/terminator/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/terminator/"
 description: "Control terminals with Terminator, a powerful GNOME terminal emulator. Split, tab, and manage multiple terminals in one window. Free online tool, no registration required."
 category: linux

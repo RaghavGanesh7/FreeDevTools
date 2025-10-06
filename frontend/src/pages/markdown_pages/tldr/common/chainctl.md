@@ -1,7 +1,7 @@
 ---
 title: "Chainctl - Control Chainguard Platform | Online Free DevTools by Hexmos"
 name: chainctl
-path: /freedevtools/tldr/common/chainctl
+path: "/freedevtools/tldr/common/chainctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chainctl/"
 description: "Control the Chainguard platform with chainctl. Manage images, packages, and authentication. Authenticate and manage access. Free online tool, no registration required."
 category: common

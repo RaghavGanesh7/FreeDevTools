@@ -1,7 +1,7 @@
 ---
 title: "ABRoot - Manage Linux Root Partitions | Online Free DevTools by Hexmos"
 name: abroot
-path: /freedevtools/tldr/linux/abroot
+path: "/freedevtools/tldr/linux/abroot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/abroot/"
 description: "Manage Linux root partitions with ABRoot, ensuring system consistency through OCI image-based updates. Secure rollback and kernel parameter editing. Free online tool, no registration required."
 category: linux

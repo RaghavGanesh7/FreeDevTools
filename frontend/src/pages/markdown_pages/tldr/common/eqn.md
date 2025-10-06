@@ -1,7 +1,7 @@
 ---
 title: "Format Equations - Typeset Groff Documents | Online Free DevTools by Hexmos"
 name: eqn
-path: "/freedevtools/tldr/common/eqn"
+path: "/freedevtools/tldr/common/eqn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eqn/"
 description: "Format equations for Groff documents with Eqn. Convert equation syntax to troff for typesetting and generate formatted output. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Playerctl - Control Media Players via MPRIS | Online Free DevTools by Hexmos"
 name: playerctl
-path: /freedevtools/tldr/linux/playerctl
+path: "/freedevtools/tldr/linux/playerctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/playerctl/"
 description: "Control media players instantly with Playerctl. Manage playback, skip tracks, and display metadata using the command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Git Tag - Create and Manage Tags | Online Free DevTools by Hexmos"
 name: git-tag
-path: /freedevtools/tldr/git/git-tag
+path: "/freedevtools/tldr/git/git-tag/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-tag/"
 description: "Create and manage Git tags with Git Tag. Annotate, delete, and push tags to remote repositories. Free online tool, no registration required."
 category: common

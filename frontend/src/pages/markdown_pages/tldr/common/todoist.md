@@ -1,7 +1,7 @@
 ---
 title: "Todoist - Control Tasks | Online Free DevTools by Hexmos"
 name: todoist
-path: /freedevtools/tldr/common/todoist
+path: "/freedevtools/tldr/common/todoist/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/todoist/"
 description: "Control tasks with Todoist command-line tool. Easily manage projects, labels, and priorities from your terminal. Free online tool, no registration required."
 category: common

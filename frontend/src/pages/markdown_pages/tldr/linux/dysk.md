@@ -1,7 +1,7 @@
 ---
 title: "Display Disk Information - Format Disk Usage | Online Free DevTools by Hexmos"
 name: dysk
-path: /freedevtools/tldr/linux/dysk
+path: "/freedevtools/tldr/linux/dysk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dysk/"
 description: "Format disk usage information with dysk. Analyze disk space and filesystem details, sort, and filter by disk type. Free online tool, no registration required."
 category: linux

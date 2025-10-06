@@ -1,7 +1,7 @@
 ---
 title: "Control Minetest - Manage Worlds and Logs | Online Free DevTools by Hexmos"
 name: minetest
-path: /freedevtools/tldr/common/minetest
+path: "/freedevtools/tldr/common/minetest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minetest/"
 description: "Control Minetest with ease. Manage worlds, logging, and server settings using simple command-line options. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Larasail - Manage Laravel Servers | Online Free DevTools by Hexmos"
 name: larasail
-path: /freedevtools/tldr/linux/larasail
+path: "/freedevtools/tldr/linux/larasail/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/larasail/"
 description: "Manage Laravel servers efficiently with Larasail. Deploy, configure, and host Laravel applications on Digital Ocean. Free online tool, no registration required."
 category: linux

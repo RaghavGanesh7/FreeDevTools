@@ -1,7 +1,7 @@
 ---
 title: "Analyze Network Traffic - Zeek | Online Free DevTools by Hexmos"
 name: zeek
-path: /freedevtools/tldr/common/zeek
+path: "/freedevtools/tldr/common/zeek/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zeek/"
 description: "Analyze network traffic passively with Zeek. Extract network metadata, perform security monitoring and gain insights with this powerful command-line tool. Free online tool, no registration required."
 category: common

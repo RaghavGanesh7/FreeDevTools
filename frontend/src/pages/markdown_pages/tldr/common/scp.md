@@ -1,7 +1,7 @@
 ---
 title: "Secure Copy - Transfer Files Securely with SCP | Online Free DevTools by Hexmos"
 name: scp
-path: /freedevtools/tldr/common/scp
+path: "/freedevtools/tldr/common/scp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scp/"
 description: "Securely copy files with SCP, a powerful command-line tool for transferring data between hosts using SSH. Free online tool, no registration required."
 category: common

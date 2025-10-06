@@ -1,7 +1,7 @@
 ---
 title: "Create Spark Projects - Laravel Spark Tool | Online Free DevTools by Hexmos"
 name: spark
-path: /freedevtools/tldr/common/spark
+path: "/freedevtools/tldr/common/spark/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spark/"
 description: "Create new Laravel Spark projects with Spark, the official Laravel scaffolding tool. Generate projects with Braintree or team billing. Free online tool, no registration required."
 category: common

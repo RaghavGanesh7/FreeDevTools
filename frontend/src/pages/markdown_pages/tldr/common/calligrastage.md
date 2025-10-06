@@ -1,7 +1,7 @@
 ---
 title: "Create Presentations - CalligraStage Presentation Tool | Online Free DevTools by Hexmos"
 name: calligrastage
-path: /freedevtools/tldr/common/calligrastage
+path: "/freedevtools/tldr/common/calligrastage/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calligrastage/"
 description: "Create presentations easily with CalligraStage. Design professional slideshows and deliver compelling presentations using this application. Free online tool, no registration required."
 category: common

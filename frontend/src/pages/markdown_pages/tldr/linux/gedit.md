@@ -1,7 +1,7 @@
 ---
 title: "Gedit Text Editor - Create & Edit Text | Online Free DevTools by Hexmos"
 name: gedit
-path: /freedevtools/tldr/linux/gedit
+path: "/freedevtools/tldr/linux/gedit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gedit/"
 description: "Create and edit text files with Gedit Text Editor, a simple yet powerful Linux text editor for coding and document writing. Free online tool, no registration required."
 category: linux

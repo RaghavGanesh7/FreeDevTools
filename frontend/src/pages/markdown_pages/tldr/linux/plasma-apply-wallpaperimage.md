@@ -1,7 +1,7 @@
 ---
 title: "Wallpaper Changer - Apply Linux Wallpapers | Online Free DevTools by Hexmos"
 name: plasma-apply-wallpaperimage
-path: /freedevtools/tldr/linux/plasma-apply-wallpaperimage
+path: "/freedevtools/tldr/linux/plasma-apply-wallpaperimage/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/plasma-apply-wallpaperimage/"
 description: "Apply Linux wallpapers easily with Plasma Wallpaper Changer. Customize your desktop background using the command line. Free online tool, no registration required."
 category: linux

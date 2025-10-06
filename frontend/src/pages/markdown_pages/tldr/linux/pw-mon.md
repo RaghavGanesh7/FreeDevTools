@@ -1,7 +1,7 @@
 ---
 title: "PipeWire Monitor - Observe PipeWire Objects | Online Free DevTools by Hexmos"
 name: pw-mon
-path: /freedevtools/tldr/linux/pw-mon
+path: "/freedevtools/tldr/linux/pw-mon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-mon/"
 description: "Observe PipeWire objects with pw-mon. Monitor default or remote PipeWire instances and customize color configurations. Free online tool, no registration required."
 category: linux

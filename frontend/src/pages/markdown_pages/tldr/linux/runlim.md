@@ -1,7 +1,7 @@
 ---
 title: "Runlim - Control Resource Usage | Online Free DevTools by Hexmos"
 name: runlim
-path: /freedevtools/tldr/linux/runlim
+path: "/freedevtools/tldr/linux/runlim/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/runlim/"
 description: "Control process resource usage with Runlim on Linux. Sample and limit time and memory of programs and their children processes. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Android Input - Control Device via ADB | Online Free DevTools by Hexmos"
 name: input
-path: /freedevtools/tldr/android/input
+path: "/freedevtools/tldr/android/input/"
 canonical: "https://hexmos.com/freedevtools/tldr/android/input/"
 description: "Control Android device input seamlessly with ADB Input command. Simulate taps, swipes, and send key events using adb shell. Free online tool, no registration required."
 category: android

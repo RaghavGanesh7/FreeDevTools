@@ -1,7 +1,7 @@
 ---
 title: "Write Memory - Control Data Storage | Online Free DevTools by Hexmos"
 name: write
-path: /freedevtools/tldr/cisco-ios/write
+path: "/freedevtools/tldr/cisco-ios/write/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/write/"
 description: "Control data storage with Write Memory. Manage configurations, erase memory, and display help. Free online tool, no registration required for data management."
 category: cisco-ios

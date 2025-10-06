@@ -1,7 +1,7 @@
 ---
 title: "Manage RSS Feeds - Feedreader Client | Online Free DevTools by Hexmos"
 name: feedreader
-path: /freedevtools/tldr/linux/feedreader
+path: "/freedevtools/tldr/linux/feedreader/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/feedreader/"
 description: "Manage RSS feeds easily with Feedreader, a desktop RSS client for Linux. Add feeds, grab articles, and download media directly from the command line. Free online tool, no registration required."
 category: linux

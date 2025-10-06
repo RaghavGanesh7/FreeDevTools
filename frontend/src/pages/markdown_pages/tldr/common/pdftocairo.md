@@ -1,7 +1,7 @@
 ---
 title: "Convert PDF to Image - Using pdftocairo | Online Free DevTools by Hexmos"
 name: pdftocairo
-path: /freedevtools/tldr/common/pdftocairo
+path: "/freedevtools/tldr/common/pdftocairo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdftocairo/"
 description: "Convert PDF files with pdftocairo, a powerful PDF converter tool. Change PDF to JPEG, PNG, SVG and more. Free online tool, no registration required."
 category: common

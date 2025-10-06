@@ -1,7 +1,7 @@
 ---
 title: "Trash CLI - Manage Deleted Files | Online Free DevTools by Hexmos"
 name: trash-cli
-path: /freedevtools/tldr/common/trash-cli
+path: "/freedevtools/tldr/common/trash-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trash-cli/"
 description: "Manage deleted files with Trash CLI. Restore, empty, and list trashed items using this command line interface. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Dolt SQL - Run SQL Queries | Online Free DevTools by Hexmos"
 name: dolt-sql
-path: /freedevtools/tldr/dolt/dolt-sql
+path: "/freedevtools/tldr/dolt/dolt-sql/"
 canonical: "https://hexmos.com/freedevtools/tldr/dolt/dolt-sql/"
 description: "Run SQL queries with Dolt SQL. Execute SQL statements and manage databases effortlessly. Free online tool, no registration required."
 category: common

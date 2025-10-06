@@ -1,7 +1,7 @@
 ---
 title: "Search Google - Command-Line Search | Online Free DevTools by Hexmos"
 name: googler
-path: /freedevtools/tldr/common/googler
+path: "/freedevtools/tldr/common/googler/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/googler/"
 description: "Search Google directly from the command-line with Googler. Quickly find information and open results in your browser. Free online tool, no registration required."
 category: common

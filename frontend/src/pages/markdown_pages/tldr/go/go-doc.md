@@ -1,7 +1,7 @@
 ---
 title: "Go Documentation - View Go Packages | Online Free DevTools by Hexmos"
 name: go-doc
-path: /freedevtools/tldr/go/go-doc
+path: "/freedevtools/tldr/go/go-doc/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-doc/"
 description: "View Go packages and symbols with Go Documentation. Access exported symbols, source code, and package details quickly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Detox Rename - Format Filenames with Detox | Online Free DevTools by Hexmos"
 name: detox
-path: /freedevtools/tldr/common/detox
+path: "/freedevtools/tldr/common/detox/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/detox/"
 description: "Format filenames with Detox, removing spaces and unwanted characters for cleaner file management. Simplify file organization on Linux and macOS with this free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert Biorad to PGM - Image Format Converter | Online Free DevTools by Hexmos"
 name: bioradtopgm
-path: /freedevtools/tldr/common/bioradtopgm
+path: "/freedevtools/tldr/common/bioradtopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bioradtopgm/"
 description: "Convert Biorad files to PGM format with Bioradtopgm. Extract image data and create PGM files from confocal microscopy files. Free online tool, no registration required."
 category: common

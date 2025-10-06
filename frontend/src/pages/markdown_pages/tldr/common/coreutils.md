@@ -1,7 +1,7 @@
 ---
 title: "Coreutils - Manage Files and Processes | Online Free DevTools by Hexmos"
 name: coreutils
-path: /freedevtools/tldr/common/coreutils
+path: "/freedevtools/tldr/common/coreutils/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/coreutils/"
 description: "Manage files and processes efficiently with Coreutils. Execute commands, manipulate data, and automate tasks on Linux, macOS and other Unix-like systems. Free online tool, no registration required."
 category: common

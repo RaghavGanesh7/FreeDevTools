@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Control System Administration | Online Free DevTools by Hexmos"
 name: powershell
-path: /freedevtools/tldr/windows/powershell
+path: "/freedevtools/tldr/windows/powershell/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/powershell/"
 description: "Control system administration with PowerShell. Execute commands, run scripts, and manage system settings effortlessly. Free online tool, no registration required."
 category: windows

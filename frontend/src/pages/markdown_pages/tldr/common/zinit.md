@@ -1,7 +1,7 @@
 ---
 title: "Manage Zsh Plugins - Control Zinit Configuration | Online Free DevTools by Hexmos"
 name: zinit
-path: /freedevtools/tldr/common/zinit
+path: "/freedevtools/tldr/common/zinit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zinit/"
 description: "Manage Zsh plugins easily with Zinit plugin manager. Install, update, and uninstall Zsh plugins to customize your shell environment. Free online tool, no registration required."
 category: common

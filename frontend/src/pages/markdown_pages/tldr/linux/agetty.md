@@ -1,7 +1,7 @@
 ---
 title: "Control agetty TTY - Open Ports and Prompt Login | Online Free DevTools by Hexmos"
 name: agetty
-path: /freedevtools/tldr/linux/agetty
+path: "/freedevtools/tldr/linux/agetty/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/agetty/"
 description: "Control TTY ports with agetty. Open ports, prompt logins, and execute commands via serial console.  Free online tool, no registration required for this TTY manager."
 category: linux

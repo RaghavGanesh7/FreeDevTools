@@ -1,7 +1,7 @@
 ---
 title: "Convert ASCII to PGM - Generate PGM Images | Online Free DevTools by Hexmos"
 name: asciitopgm
-path: /freedevtools/tldr/common/asciitopgm
+path: "/freedevtools/tldr/common/asciitopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/asciitopgm/"
 description: "Generate PGM images with asciitopgm. Convert ASCII art to PGM format, creating grayscale images from text. Free online tool, no registration required."
 category: common

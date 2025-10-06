@@ -1,7 +1,7 @@
 ---
 title: "Open Files - Launch Applications | Online Free DevTools by Hexmos"
 name: open
-path: /freedevtools/tldr/osx/open
+path: "/freedevtools/tldr/osx/open/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/open/"
 description: "Launch applications and files directly with Open command. Easily access directories and reveal files in Finder. Free online tool, no registration required."
 category: osx

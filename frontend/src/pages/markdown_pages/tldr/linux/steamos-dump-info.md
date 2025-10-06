@@ -1,7 +1,7 @@
 ---
 title: "SteamOS System Info - View System Details | Online Free DevTools by Hexmos"
 name: steamos-dump-info
-path: /freedevtools/tldr/linux/steamos-dump-info
+path: "/freedevtools/tldr/linux/steamos-dump-info/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-dump-info/"
 description: "View SteamOS system details instantly with steamos-dump-info.  Access crucial system information using a simple command. Free online tool, no registration required."
 category: linux

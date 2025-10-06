@@ -1,7 +1,7 @@
 ---
 title: "Racket Interpreter - Execute Code | Online Free DevTools by Hexmos"
 name: racket
-path: /freedevtools/tldr/common/racket
+path: "/freedevtools/tldr/common/racket/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/racket/"
 description: "Execute Racket code snippets rapidly with Racket Interpreter. Run scripts, evaluate expressions, and manage modules seamlessly. Free online tool, no registration required."
 category: common

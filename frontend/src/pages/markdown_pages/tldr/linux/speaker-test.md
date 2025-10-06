@@ -1,7 +1,7 @@
 ---
 title: "Speaker-Test - Generate Audio Test Tones | Online Free DevTools by Hexmos"
 name: speaker-test
-path: /freedevtools/tldr/linux/speaker-test
+path: "/freedevtools/tldr/linux/speaker-test/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/speaker-test/"
 description: "Generate audio test tones with Speaker-Test. Verify audio output, troubleshoot sound issues and ensure proper speaker function. Free online tool, no registration required."
 category: linux

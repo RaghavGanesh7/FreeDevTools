@@ -1,7 +1,7 @@
 ---
 title: "Quarkus - Create Java Applications | Online Free DevTools by Hexmos"
 name: quarkus
-path: /freedevtools/tldr/common/quarkus
+path: "/freedevtools/tldr/common/quarkus/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/quarkus/"
 description: "Create Java applications instantly with Quarkus. Manage extensions, build containers, and deploy to Kubernetes. Free online tool, no registration required."
 category: common

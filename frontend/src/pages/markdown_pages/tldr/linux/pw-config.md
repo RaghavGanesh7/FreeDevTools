@@ -1,7 +1,7 @@
 ---
 title: "PipeWire Config - List Configuration Paths | Online Free DevTools by Hexmos"
 name: pw-config
-path: /freedevtools/tldr/linux/pw-config
+path: "/freedevtools/tldr/linux/pw-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-config/"
 description: "List configuration paths with PipeWire Config. Inspect configuration files and sections for PipeWire server and clients. Free online tool, no registration required."
 category: linux

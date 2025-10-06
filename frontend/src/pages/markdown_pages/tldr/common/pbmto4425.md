@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - Display on AT&T Terminal | Online Free DevTools by Hexmos"
 name: pbmto4425
-path: /freedevtools/tldr/common/pbmto4425
+path: "/freedevtools/tldr/common/pbmto4425/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmto4425/"
 description: "Convert PBM images to AT&T 4425 terminal format with PBMto4425. Display images using mosaic graphics characters. Free online tool, no registration required."
 category: common

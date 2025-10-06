@@ -1,7 +1,7 @@
 ---
 title: "Streamlink - Extract Video Streams | Online Free DevTools by Hexmos"
 name: streamlink
-path: /freedevtools/tldr/st/streamlink
+path: "/freedevtools/tldr/st/streamlink/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/streamlink/"
 description: "Extract video streams easily with Streamlink. Watch streams from various platforms in your favorite player, or save them to a file. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "UPX Compressor - Compress Executables | Online Free DevTools by Hexmos"
 name: upx
-path: /freedevtools/tldr/common/upx
+path: "/freedevtools/tldr/common/upx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/upx/"
 description: "Compress executables easily with UPX Compressor. Reduce file sizes and optimize applications for distribution. Free online tool, no registration required."
 category: common

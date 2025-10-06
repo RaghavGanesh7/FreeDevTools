@@ -1,7 +1,7 @@
 ---
 title: "Generate Next.js App - Build Optimized Apps | Online Free DevTools by Hexmos"
 name: next
-path: /freedevtools/tldr/common/next
+path: "/freedevtools/tldr/common/next/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/next/"
 description: "Generate Next.js applications for production with Next.js CLI. Build, start, and export your React apps with ease. Free online tool, no registration required."
 category: common

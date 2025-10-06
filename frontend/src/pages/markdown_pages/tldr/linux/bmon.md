@@ -1,7 +1,7 @@
 ---
 title: "Monitor Bandwidth with bmon | Online Free DevTools by Hexmos"
 name: bmon
-path: /freedevtools/tldr/linux/bmon
+path: "/freedevtools/tldr/linux/bmon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bmon/"
 description: "Monitor network bandwidth usage with bmon, a powerful command-line tool providing detailed network statistics.  Free online tool, no registration required."
 category: linux

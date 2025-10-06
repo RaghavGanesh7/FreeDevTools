@@ -1,7 +1,7 @@
 ---
 title: "Control Groups - Limit Resource Usage with Cgroups | Online Free DevTools by Hexmos"
 name: cgroups
-path: /freedevtools/tldr/linux/cgroups
+path: "/freedevtools/tldr/linux/cgroups/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cgroups/"
 description: "Control Linux resource usage with Cgroups. Limit, measure and control CPU, memory and I/O usage of processes. Free online tool, no registration required."
 category: linux

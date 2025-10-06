@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - bzip3 Statistical Compression | Online Free DevTools by Hexmos"
 name: bzip3
-path: /freedevtools/tldr/common/bzip3
+path: "/freedevtools/tldr/common/bzip3/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bzip3/"
 description: "Compress files statistically with bzip3, a powerful file compression utility. Achieve efficient data archiving and reduce storage space on Linux. Free online tool, no registration required."
 category: common

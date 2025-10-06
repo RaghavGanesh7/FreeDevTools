@@ -1,7 +1,7 @@
 ---
 title: "KeePassXC Password Manager - Control Secrets | Online Free DevTools by Hexmos"
 name: keepassxc-cli
-path: /freedevtools/tldr/common/keepassxc-cli
+path: "/freedevtools/tldr/common/keepassxc-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/keepassxc-cli/"
 description: "Control secrets with KeePassXC Password Manager. Securely store passwords, generate strong keys, and manage credentials with this CLI tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert NEO to PPM - Generate Images | Online Free DevTools by Hexmos"
 name: neotoppm
-path: /freedevtools/tldr/common/neotoppm
+path: "/freedevtools/tldr/common/neotoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/neotoppm/"
 description: "Convert NEO files to PPM images with neotoppm. Generate image files from Atari Neochrome data using this free online tool, no registration required."
 category: common

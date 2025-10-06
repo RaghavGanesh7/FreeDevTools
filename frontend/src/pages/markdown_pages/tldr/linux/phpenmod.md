@@ -1,7 +1,7 @@
 ---
 title: "PHPENMOD - Enable PHP Extensions | Online Free DevTools by Hexmos"
 name: phpenmod
-path: /freedevtools/tldr/linux/phpenmod
+path: "/freedevtools/tldr/linux/phpenmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/phpenmod/"
 description: "Enable PHP extensions easily with phpenmod. Manage PHP modules across different versions and SAPIs on Debian-based systems. Free online tool, no registration required."
 category: linux

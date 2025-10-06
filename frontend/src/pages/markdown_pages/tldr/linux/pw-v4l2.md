@@ -1,7 +1,7 @@
 ---
 title: "Pipewire V4L2 Control - Use V4L2 programs | Online Free DevTools by Hexmos"
 name: pw-v4l2
-path: /freedevtools/tldr/linux/pw-v4l2
+path: "/freedevtools/tldr/linux/pw-v4l2/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-v4l2/"
 description: "Control V4L2 programs with Pipewire's pw-v4l2 command.  Run and manage video capture devices seamlessly using this Linux command-line tool. Free online tool, no registration required."
 category: linux

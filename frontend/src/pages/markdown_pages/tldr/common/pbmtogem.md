@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to GEM - Image Converter | Online Free DevTools by Hexmos"
 name: pbmtogem
-path: /freedevtools/tldr/common/pbmtogem
+path: "/freedevtools/tldr/common/pbmtogem/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtogem/"
 description: "Convert PBM image to GEM format with pbmtogem. Compress image files for efficient storage and transfer. Free online tool, no registration required."
 category: common

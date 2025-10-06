@@ -1,7 +1,7 @@
 ---
 title: "Monitor System Performance with sar | Online Free DevTools by Hexmos"
 name: sar
-path: /freedevtools/tldr/linux/sar
+path: "/freedevtools/tldr/linux/sar/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sar/"
 description: "Monitor Linux system performance efficiently with the sar command.  Track CPU usage, memory, I/O, and network activity. Free online tool, no registration required."
 category: linux

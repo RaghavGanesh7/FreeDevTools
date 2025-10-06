@@ -1,7 +1,7 @@
 ---
 title: "Control Killall - Terminate Processes | Online Free DevTools by Hexmos"
 name: killall
-path: /freedevtools/tldr/common/killall
+path: "/freedevtools/tldr/common/killall/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/killall/"
 description: "Control processes with Killall. Send signals to terminate processes by name on Linux and macOS. Free online tool, no registration required."
 category: common

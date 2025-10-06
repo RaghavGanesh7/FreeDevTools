@@ -1,7 +1,7 @@
 ---
 title: "Control Pinky - Display User Information | Online Free DevTools by Hexmos"
 name: gpinky
-path: /freedevtools/tldr/osx/gpinky
+path: "/freedevtools/tldr/osx/gpinky/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gpinky/"
 description: "Control user information display with gpinky. Quickly find user details, login status, and system activity using this command line tool. Free online tool, no registration required."
 category: osx

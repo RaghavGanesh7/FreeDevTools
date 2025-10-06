@@ -1,7 +1,7 @@
 ---
 title: "Numlockx - Control Number Lock Status | Online Free DevTools by Hexmos"
 name: numlockx
-path: /freedevtools/tldr/linux/numlockx
+path: "/freedevtools/tldr/linux/numlockx/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/numlockx/"
 description: "Control number lock status with Numlockx. Manage number lock on/off state and toggle functionality within X11 sessions. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Format exFAT Label - Manage Filesystem Labels | Online Free DevTools by Hexmos"
 name: exfatlabel
-path: /freedevtools/tldr/common/exfatlabel
+path: "/freedevtools/tldr/common/exfatlabel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exfatlabel/"
 description: "Format exFAT labels with exfatlabel. Change filesystem labels and manage drive information. Free online tool, no registration required."
 category: common

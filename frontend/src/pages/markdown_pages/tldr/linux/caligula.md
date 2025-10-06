@@ -1,7 +1,7 @@
 ---
 title: "Image Flasher - Flash Disk Images with Caligula | Online Free DevTools by Hexmos"
 name: caligula
-path: /freedevtools/tldr/linux/caligula
+path: "/freedevtools/tldr/linux/caligula/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/caligula/"
 description: "Flash disk images quickly with Caligula, a user-friendly TUI disk imager. Burn ISOs and manage hashes effortlessly. Free online tool, no registration required."
 category: linux

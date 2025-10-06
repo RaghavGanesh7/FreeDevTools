@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to BitGraph - Image Conversion | Online Free DevTools by Hexmos"
 name: pbmtobbnbg
-path: /freedevtools/tldr/common/pbmtobbnbg
+path: "/freedevtools/tldr/common/pbmtobbnbg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtobbnbg/"
 description: "Convert PBM images to BitGraph format with pbmtobbnbg. Process image data and prepare it for BitGraph terminal displays. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Metadata Control - Manage Spotlight Indexing | Online Free DevTools by Hexmos"
 name: mdutil
-path: /freedevtools/tldr/osx/mdutil
+path: "/freedevtools/tldr/osx/mdutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mdutil/"
 description: "Manage spotlight indexing with mdutil on macOS. Control indexing status, enable/disable indexing, and erase metadata stores using the command line. Free online tool, no registration required."
 category: osx

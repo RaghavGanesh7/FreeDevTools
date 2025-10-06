@@ -1,7 +1,7 @@
 ---
 title: "Deshadow PGM Image - Remove Shadows | Online Free DevTools by Hexmos"
 name: pgmdeshadow
-path: /freedevtools/tldr/common/pgmdeshadow
+path: "/freedevtools/tldr/common/pgmdeshadow/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmdeshadow/"
 description: "Remove shadows from PGM images with PGMDeshadow. Correct image artifacts using a command-line utility. Free online tool, no registration required."
 category: common

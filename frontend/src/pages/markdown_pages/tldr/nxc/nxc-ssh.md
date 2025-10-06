@@ -1,7 +1,7 @@
 ---
 title: "Control SSH Servers - nxc-ssh Exploitation | Online Free DevTools by Hexmos"
 name: nxc-ssh
-path: /freedevtools/tldr/nxc/nxc-ssh
+path: "/freedevtools/tldr/nxc/nxc-ssh/"
 canonical: "https://hexmos.com/freedevtools/tldr/nxc/nxc-ssh/"
 description: "Control SSH servers with nxc-ssh, a pentesting exploitation tool. Automate password spraying, credential searching, and privilege escalation. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Fossil Init - Create Repository | Online Free DevTools by Hexmos"
 name: fossil-init
-path: /freedevtools/tldr/fossil/fossil-init
+path: "/freedevtools/tldr/fossil/fossil-init/"
 canonical: "https://hexmos.com/freedevtools/tldr/fossil/fossil-init/"
 description: "Create repository with Fossil SCM. Initialize new repositories for your projects.  Simple command line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "MySQL Backup - Create Database Backups | Online Free DevTools by Hexmos"
 name: mysqldump
-path: /freedevtools/tldr/common/mysqldump
+path: "/freedevtools/tldr/common/mysqldump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mysqldump/"
 description: "Create MySQL backups with mysqldump. Easily backup databases, tables, and entire servers. Free online tool, no registration required."
 category: common

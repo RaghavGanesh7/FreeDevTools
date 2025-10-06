@@ -1,7 +1,7 @@
 ---
 title: "Control CEC Devices - Manage CEC Connections | Online Free DevTools by Hexmos"
 name: cec-client
-path: /freedevtools/tldr/linux/cec-client
+path: "/freedevtools/tldr/linux/cec-client/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cec-client/"
 description: "Manage and control Consumer Electronics Control (CEC) devices with cec-client.  List adapters, send commands, and interact with CEC devices directly. Free online tool, no registration required."
 category: linux

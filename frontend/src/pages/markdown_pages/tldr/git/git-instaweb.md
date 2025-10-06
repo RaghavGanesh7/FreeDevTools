@@ -1,7 +1,7 @@
 ---
 title: "Launch GitWeb Server - Control Git Repository Web Interface | Online Free DevTools by Hexmos"
 name: git-instaweb
-path: /freedevtools/tldr/git/git-instaweb
+path: "/freedevtools/tldr/git/git-instaweb/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-instaweb/"
 description: "Control your Git repository web interface with git-instaweb. Launch a local GitWeb server and browse your repository in a web browser. Free online tool, no registration required."
 category: common

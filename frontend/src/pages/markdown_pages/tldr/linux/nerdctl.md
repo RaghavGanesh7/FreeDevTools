@@ -1,7 +1,7 @@
 ---
 title: "Nerdctl - Control Containerd Containers | Online Free DevTools by Hexmos"
 name: nerdctl
-path: /freedevtools/tldr/linux/nerdctl
+path: "/freedevtools/tldr/linux/nerdctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nerdctl/"
 description: "Control containerd containers with Nerdctl. Manage container lifecycle and images directly from the command line. Free online tool, no registration required."
 category: linux

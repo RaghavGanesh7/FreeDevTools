@@ -1,7 +1,7 @@
 ---
 title: "Logname Command - Get Login Name | Online Free DevTools by Hexmos"
 name: glogname
-path: /freedevtools/tldr/osx/glogname
+path: "/freedevtools/tldr/osx/glogname/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/glogname/"
 description: "Retrieve your login name with Glogname. Quickly display the username associated with the current session on macOS. Free online tool, no registration required."
 category: osx

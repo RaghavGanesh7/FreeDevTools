@@ -1,7 +1,7 @@
 ---
 title: "Control Wireless Network - wifi-menu Connection | Online Free DevTools by Hexmos"
 name: wifi-menu
-path: /freedevtools/tldr/linux/wifi-menu
+path: "/freedevtools/tldr/linux/wifi-menu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wifi-menu/"
 description: "Control wireless network connections with wifi-menu. Configure and manage your wifi from the command line with ease. Free online tool, no registration required."
 category: linux

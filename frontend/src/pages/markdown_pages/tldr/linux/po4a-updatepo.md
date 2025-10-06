@@ -1,7 +1,7 @@
 ---
 title: "PO File Updater - Update PO Files | Online Free DevTools by Hexmos"
 name: po4a-updatepo
-path: /freedevtools/tldr/linux/po4a-updatepo
+path: "/freedevtools/tldr/linux/po4a-updatepo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/po4a-updatepo/"
 description: "Update PO files efficiently with po4a-updatepo.  Synchronize your translation files with source changes quickly and easily. Free online tool, no registration required."
 category: linux

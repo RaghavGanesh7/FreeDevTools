@@ -1,7 +1,7 @@
 ---
 title: "TFTP Control - Manage Files with TFTP | Online Free DevTools by Hexmos"
 name: gtftp
-path: /freedevtools/tldr/osx/gtftp
+path: "/freedevtools/tldr/osx/gtftp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtftp/"
 description: "Control files with TFTP using gtftp. Effortlessly transfer files, configure connections, and manage network communications. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Git Remote - Manage Git Remotes | Online Free DevTools by Hexmos"
 name: jj-git-remote
-path: /freedevtools/tldr/jj/jj-git-remote
+path: "/freedevtools/tldr/jj/jj-git-remote/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-git-remote/"
 description: "Manage Git remotes easily with Git Remote. Add, remove, rename, and change the URL of your Git remotes from the command line. Free online tool, no registration required."
 category: common

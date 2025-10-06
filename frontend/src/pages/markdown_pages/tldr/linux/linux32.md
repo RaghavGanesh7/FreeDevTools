@@ -1,7 +1,7 @@
 ---
 title: "Linux32 Command - Execute 32-bit Programs | Online Free DevTools by Hexmos"
 name: linux32
-path: /freedevtools/tldr/linux/linux32
+path: "/freedevtools/tldr/linux/linux32/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/linux32/"
 description: "Execute 32-bit programs on a 64-bit Linux system with the linux32 command.  Easily run legacy applications using this convenient alias. Free online tool, no registration required."
 category: linux

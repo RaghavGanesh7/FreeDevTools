@@ -1,7 +1,7 @@
 ---
 title: "Locate Git Root - Find Repository Root Directory | Online Free DevTools by Hexmos"
 name: git-root
-path: /freedevtools/tldr/git/git-root
+path: "/freedevtools/tldr/git/git-root/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-root/"
 description: "Find Git repository root directories quickly with Git Root command. Determine project's top-level folder for better workflow. Free online tool, no registration required."
 category: common

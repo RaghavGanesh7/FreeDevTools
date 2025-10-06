@@ -1,7 +1,7 @@
 ---
 title: "SWC Compiler - Transpile JavaScript & TypeScript | Online Free DevTools by Hexmos"
 name: swc
-path: /freedevtools/tldr/common/swc
+path: "/freedevtools/tldr/common/swc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swc/"
 description: "Transpile JavaScript and TypeScript code with SWC Compiler. Enjoy lightning-fast compilation and modern syntax support with this Rust-based tool. Free online tool, no registration required."
 category: common

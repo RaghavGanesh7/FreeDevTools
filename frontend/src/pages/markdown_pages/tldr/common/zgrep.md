@@ -1,7 +1,7 @@
 ---
 title: "Zgrep - Search Compressed Files | Online Free DevTools by Hexmos"
 name: zgrep
-path: /freedevtools/tldr/common/zgrep
+path: "/freedevtools/tldr/common/zgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zgrep/"
 description: "Search compressed files effortlessly with Zgrep. Extract text patterns and analyze data within gz files, a powerful command line utility. Free online tool, no registration required."
 category: common

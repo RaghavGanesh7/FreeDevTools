@@ -1,7 +1,7 @@
 ---
 title: "Manage Gentoo News - eselect news Control | Online Free DevTools by Hexmos"
 name: eselect-news
-path: /freedevtools/tldr/linux/eselect-news
+path: "/freedevtools/tldr/linux/eselect-news/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eselect-news/"
 description: "Control Gentoo news items with eselect news.  Read, mark as read/unread, and manage news efficiently using command-line interface. Free online tool, no registration required."
 category: linux

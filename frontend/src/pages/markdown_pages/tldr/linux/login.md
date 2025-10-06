@@ -1,7 +1,7 @@
 ---
 title: "Login - Initiate User Session | Online Free DevTools by Hexmos"
 name: login
-path: /freedevtools/tldr/linux/login
+path: "/freedevtools/tldr/linux/login/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/login/"
 description: "Initiate user sessions with Login. Securely authenticate and manage user access on remote systems. Free online tool, no registration required."
 category: linux

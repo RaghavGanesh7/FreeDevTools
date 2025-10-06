@@ -1,7 +1,7 @@
 ---
 title: "Base64 Encode/Decode - Convert Files Online | Online Free DevTools by Hexmos"
 name: base64
-path: /freedevtools/tldr/osx/base64
+path: "/freedevtools/tldr/osx/base64/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/base64/"
 description: "Base64 encode and decode files with Base64. Easily convert data to and from Base64 format for secure data transfer. Free online tool, no registration required."
 category: osx

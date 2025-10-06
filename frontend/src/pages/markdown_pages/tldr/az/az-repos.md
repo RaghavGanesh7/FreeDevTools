@@ -1,7 +1,7 @@
 ---
 title: "Manage Azure Repos - Control Azure DevOps Repos | Online Free DevTools by Hexmos"
 name: az-repos
-path: /freedevtools/tldr/az/az-repos
+path: "/freedevtools/tldr/az/az-repos/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-repos/"
 description: "Manage Azure DevOps repositories with az repos. Automate policy creation, build validation, and pull request management effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "RPM Package Manager - Manage Packages with rpm | Online Free DevTools by Hexmos"
 name: rpm
-path: /freedevtools/tldr/linux/rpm
+path: "/freedevtools/tldr/linux/rpm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpm/"
 description: "Manage Linux packages efficiently with the rpm Package Manager.  Install, upgrade, query, and verify packages with ease. Free online tool, no registration required."
 category: linux

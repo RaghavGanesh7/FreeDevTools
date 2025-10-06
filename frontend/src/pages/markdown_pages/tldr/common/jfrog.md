@@ -1,7 +1,7 @@
 ---
 title: "JFrog - Manage Artifacts and Pipelines | Online Free DevTools by Hexmos"
 name: jfrog
-path: /freedevtools/tldr/common/jfrog
+path: "/freedevtools/tldr/common/jfrog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jfrog/"
 description: "Manage software artifacts with JFrog, a command-line interface for controlling pipelines and repositories. Simplify deployments with this free online tool, no registration required."
 category: common

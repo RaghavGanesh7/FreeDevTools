@@ -1,7 +1,7 @@
 ---
 title: "Yank Crate - Remove Package Versions with Cargo | Online Free DevTools by Hexmos"
 name: cargo-yank
-path: /freedevtools/tldr/cargo/cargo-yank
+path: "/freedevtools/tldr/cargo/cargo-yank/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-yank/"
 description: "Remove crate package versions easily with Cargo Yank. Prevent new projects from using a specific version. Free online tool, no registration required."
 category: common

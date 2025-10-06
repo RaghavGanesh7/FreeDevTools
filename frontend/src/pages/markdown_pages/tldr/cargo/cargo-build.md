@@ -1,7 +1,7 @@
 ---
 title: "Cargo Build - Compile Rust Packages Easily | Online Free DevTools by Hexmos"
 name: cargo-build
-path: /freedevtools/tldr/cargo/cargo-build
+path: "/freedevtools/tldr/cargo/cargo-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-build/"
 description: "Compile Rust packages effortlessly with Cargo Build. Manage dependencies, optimize for release, and target specific binaries. Free online tool, no registration required."
 category: common

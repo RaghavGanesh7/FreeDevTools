@@ -1,7 +1,7 @@
 ---
 title: "RPMBuild - Create RPM Packages | Online Free DevTools by Hexmos"
 name: rpmbuild
-path: /freedevtools/tldr/linux/rpmbuild
+path: "/freedevtools/tldr/linux/rpmbuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpmbuild/"
 description: "Create RPM packages effortlessly with RPMBuild. Build binary and source packages for Linux distributions. Free online tool, no registration required."
 category: linux

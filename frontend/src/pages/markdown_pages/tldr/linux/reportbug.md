@@ -1,7 +1,7 @@
 ---
 title: "Generate Bug Reports - Reportbug Tool | Online Free DevTools by Hexmos"
 name: reportbug
-path: /freedevtools/tldr/linux/reportbug
+path: "/freedevtools/tldr/linux/reportbug/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/reportbug/"
 description: "Generate bug reports with Reportbug, a powerful Debian bug reporting tool. Simplify issue reporting and contribute to open-source projects with this tool. Free online tool, no registration required."
 category: linux

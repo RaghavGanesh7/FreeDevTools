@@ -1,7 +1,7 @@
 ---
 title: "Automate Bing Rewards - Earn Daily Points | Online Free DevTools by Hexmos"
 name: bing-rewards
-path: /freedevtools/tldr/common/bing-rewards
+path: "/freedevtools/tldr/common/bing-rewards/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bing-rewards/"
 description: "Automate Bing Rewards points easily with bing-rewards. Schedule searches, control user agents, and manage multiple profiles. Free online tool, no registration required."
 category: common

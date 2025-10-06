@@ -1,7 +1,7 @@
 ---
 title: "QDBus Control - Manage IPC and RPC Calls | Online Free DevTools by Hexmos"
 name: qdbus
-path: /freedevtools/tldr/common/qdbus
+path: "/freedevtools/tldr/common/qdbus/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qdbus/"
 description: "Control inter-process communication with QDBus. Execute methods and manage object properties via command line with this free online tool, no registration required."
 category: common

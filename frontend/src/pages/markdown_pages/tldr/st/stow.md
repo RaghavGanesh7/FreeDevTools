@@ -1,7 +1,7 @@
 ---
 title: "Stow Symlink Manager - Manage Dotfiles | Online Free DevTools by Hexmos"
 name: stow
-path: /freedevtools/tldr/st/stow
+path: "/freedevtools/tldr/st/stow/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/stow/"
 description: "Manage dotfiles easily with Stow Symlink Manager. Organize configurations and maintain consistency across systems using symlinks. Free online tool, no registration required."
 category: common

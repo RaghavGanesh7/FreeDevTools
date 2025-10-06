@@ -1,7 +1,7 @@
 ---
 title: "elink Command - Link NCBI Databases | Online Free DevTools by Hexmos"
 name: elink
-path: /freedevtools/tldr/linux/elink
+path: "/freedevtools/tldr/linux/elink/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/elink/"
 description: "Link NCBI databases with the elink command.  Find related sequences and biosamples efficiently using this free online tool; no registration required."
 category: linux

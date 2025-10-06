@@ -1,7 +1,7 @@
 ---
 title: "RabbitMQ Vhosts - Control Virtual Hosts | Online Free DevTools by Hexmos"
 name: rabbitmqctl-vhosts
-path: /freedevtools/tldr/rabbitmqctl/rabbitmqctl-vhosts
+path: "/freedevtools/tldr/rabbitmqctl/rabbitmqctl-vhosts/"
 canonical: "https://hexmos.com/freedevtools/tldr/rabbitmqctl/rabbitmqctl-vhosts/"
 description: "Control RabbitMQ virtual hosts easily with rabbitmqctl-vhosts. Manage vhosts, set permissions, and ensure secure multi-tenancy. Free online tool, no registration required."
 category: common

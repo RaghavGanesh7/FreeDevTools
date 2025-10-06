@@ -1,7 +1,7 @@
 ---
 title: "Paste Command - Combine Text Files | Online Free DevTools by Hexmos"
 name: gpaste
-path: /freedevtools/tldr/osx/gpaste
+path: "/freedevtools/tldr/osx/gpaste/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gpaste/"
 description: "Combine text files with Paste Command (gpaste). Merge lines from multiple files into one output. Free online tool, no registration required."
 category: osx

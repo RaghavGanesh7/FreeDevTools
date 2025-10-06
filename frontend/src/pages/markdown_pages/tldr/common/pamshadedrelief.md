@@ -1,7 +1,7 @@
 ---
 title: "Generate Shaded Relief - PAM Elevation to Relief | Online Free DevTools by Hexmos"
 name: pamshadedrelief
-path: /freedevtools/tldr/common/pamshadedrelief
+path: "/freedevtools/tldr/common/pamshadedrelief/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamshadedrelief/"
 description: "Generate shaded relief images with pamshadedrelief from elevation maps. Adjust gamma, control shadows, and create realistic terrain visualizations. Free online tool, no registration required."
 category: common

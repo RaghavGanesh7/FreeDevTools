@@ -1,7 +1,7 @@
 ---
 title: "Create Temporary Email - Manage Mail from Terminal | Online Free DevTools by Hexmos"
 name: tmpmail
-path: /freedevtools/tldr/common/tmpmail
+path: "/freedevtools/tldr/common/tmpmail/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tmpmail/"
 description: "Create Temporary Email with tmpmail. Manage email inboxes and view messages directly from your terminal using this simple command-line utility. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Vagrant Plugins - Enhance Your Vagrant Workflow | Online Free DevTools by Hexmos"
 name: vagrant-plugin
-path: /freedevtools/tldr/vagrant/vagrant-plugin
+path: "/freedevtools/tldr/vagrant/vagrant-plugin/"
 canonical: "https://hexmos.com/freedevtools/tldr/vagrant/vagrant-plugin/"
 description: "Manage Vagrant plugins efficiently with Vagrant Plugin Manager. Install, update, and uninstall plugins to extend Vagrant's functionality. Free online tool, no registration required."
 category: common

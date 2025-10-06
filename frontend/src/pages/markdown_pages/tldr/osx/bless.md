@@ -1,7 +1,7 @@
 ---
 title: "Bless - Set Startup Disk Options | Online Free DevTools by Hexmos"
 name: bless
-path: /freedevtools/tldr/osx/bless
+path: "/freedevtools/tldr/osx/bless/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/bless/"
 description: "Set startup disk options with Bless, a powerful macOS command line tool. Easily configure boot volumes and network boot settings. Free online tool, no registration required."
 category: osx

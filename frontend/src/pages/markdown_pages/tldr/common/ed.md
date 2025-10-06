@@ -1,7 +1,7 @@
 ---
 title: "Edit Text - Control Text Files with ed | Online Free DevTools by Hexmos"
 name: ed
-path: /freedevtools/tldr/common/ed
+path: "/freedevtools/tldr/common/ed/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ed/"
 description: "Edit text files directly with ed, the original Unix text editor. Replace strings, navigate lines, and modify content efficiently. Free online tool, no registration required."
 category: common

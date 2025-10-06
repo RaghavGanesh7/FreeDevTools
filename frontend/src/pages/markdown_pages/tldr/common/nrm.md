@@ -1,7 +1,7 @@
 ---
 title: "Control npm Registry - Easily Switch Registries | Online Free DevTools by Hexmos"
 name: nrm
-path: /freedevtools/tldr/common/nrm
+path: "/freedevtools/tldr/common/nrm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nrm/"
 description: "Control npm registries with NRM, the npm registry manager. Easily switch between npm package sources and manage custom registries. Free online tool, no registration required."
 category: common

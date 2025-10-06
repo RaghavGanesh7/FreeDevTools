@@ -1,7 +1,7 @@
 ---
 title: "Execute Julia Code - High-Performance Computing | Online Free DevTools by Hexmos"
 name: julia
-path: /freedevtools/tldr/common/julia
+path: "/freedevtools/tldr/common/julia/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/julia/"
 description: "Execute Julia code efficiently with Julia. A high-performance language for scientific computing and data analysis. Free online tool, no registration required."
 category: common

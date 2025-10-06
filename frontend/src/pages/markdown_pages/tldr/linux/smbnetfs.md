@@ -1,7 +1,7 @@
 ---
 title: "Mount SMB Shares - Interact with SMB Shares | Online Free DevTools by Hexmos"
 name: smbnetfs
-path: /freedevtools/tldr/linux/smbnetfs
+path: "/freedevtools/tldr/linux/smbnetfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/smbnetfs/"
 description: "Mount SMB shares interactively with smbnetfs, enabling easy access to network files and resources. Explore shared directories, copy files, and manage permissions. Free online tool, no registration required."
 category: linux

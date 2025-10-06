@@ -1,7 +1,7 @@
 ---
 title: "HTTP Request - Generate HTTP Requests with lwp-request | Online Free DevTools by Hexmos"
 name: lwp-request
-path: /freedevtools/tldr/common/lwp-request
+path: "/freedevtools/tldr/common/lwp-request/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lwp-request/"
 description: "Generate HTTP requests with lwp-request, a versatile HTTP client.  Customize headers, authentication, and methods for web interactions. Free online tool, no registration required."
 category: common

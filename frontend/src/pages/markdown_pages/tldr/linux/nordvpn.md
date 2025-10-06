@@ -1,7 +1,7 @@
 ---
 title: "NordVPN CLI - Manage VPN Connections | Online Free DevTools by Hexmos"
 name: nordvpn
-path: /freedevtools/tldr/linux/nordvpn
+path: "/freedevtools/tldr/linux/nordvpn/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nordvpn/"
 description: "Manage VPN connections easily with the NordVPN command-line interface.  Connect to servers worldwide, check status, and configure autoconnect. Free online tool, no registration required for CLI usage."
 category: linux

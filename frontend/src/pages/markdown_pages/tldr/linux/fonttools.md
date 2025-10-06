@@ -1,7 +1,7 @@
 ---
 title: "Font Tools - Manipulate Fonts | Online Free DevTools by Hexmos"
 name: fonttools
-path: /freedevtools/tldr/linux/fonttools
+path: "/freedevtools/tldr/linux/fonttools/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fonttools/"
 description: "Manipulate font files with Fonttools. Subset, convert, and inspect font formats. Free online tool, no registration required."
 category: linux

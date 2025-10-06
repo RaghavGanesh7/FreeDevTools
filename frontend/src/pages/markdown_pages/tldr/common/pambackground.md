@@ -1,7 +1,7 @@
 ---
 title: "Create PAM Mask - Mask Image Background | Online Free DevTools by Hexmos"
 name: pambackground
-path: /freedevtools/tldr/common/pambackground
+path: "/freedevtools/tldr/common/pambackground/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pambackground/"
 description: "Create a PAM mask with pambackground. Isolate subjects by masking image backgrounds for graphics and image editing tasks. Free online tool, no registration required."
 category: common

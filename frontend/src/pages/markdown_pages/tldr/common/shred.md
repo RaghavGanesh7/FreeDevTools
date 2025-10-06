@@ -1,7 +1,7 @@
 ---
 title: "Shred File - Securely Delete Data | Online Free DevTools by Hexmos"
 name: shred
-path: /freedevtools/tldr/common/shred
+path: "/freedevtools/tldr/common/shred/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shred/"
 description: "Securely delete data with Shred File tool. Overwrite files to prevent recovery and protect sensitive information. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Time Machine - Manage Backups on macOS | Online Free DevTools by Hexmos"
 name: tmutil
-path: /freedevtools/tldr/osx/tmutil
+path: "/freedevtools/tldr/osx/tmutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/tmutil/"
 description: "Manage Time Machine backups with tmutil, the command line interface for macOS. Automate, enable, disable, start and stop backups easily. Free online tool, no registration required."
 category: osx

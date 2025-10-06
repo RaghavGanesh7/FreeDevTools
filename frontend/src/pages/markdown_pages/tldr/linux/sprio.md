@@ -1,7 +1,7 @@
 ---
 title: "SPRIO - View Job Scheduling Priority | Online Free DevTools by Hexmos"
 name: sprio
-path: "/freedevtools/tldr/linux/sprio"
+path: "/freedevtools/tldr/linux/sprio/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sprio/"
 description: "View job scheduling priority with SPRIO. Analyze factors influencing job prioritization in Slurm. Free online tool, no registration required."
 category: linux

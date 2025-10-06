@@ -1,7 +1,7 @@
 ---
 title: "Kind - Create Kubernetes Clusters Locally | Online Free DevTools by Hexmos"
 name: kind
-path: /freedevtools/tldr/common/kind
+path: "/freedevtools/tldr/common/kind/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kind/"
 description: "Create Kubernetes clusters effortlessly with Kind. Deploy local Kubernetes environments using Docker containers for testing and development. Free online tool, no registration required."
 category: common

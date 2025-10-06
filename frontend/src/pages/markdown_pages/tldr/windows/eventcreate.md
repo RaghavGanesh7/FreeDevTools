@@ -1,7 +1,7 @@
 ---
 title: "Eventcreate - Create Event Log Entries | Online Free DevTools by Hexmos"
 name: eventcreate
-path: /freedevtools/tldr/windows/eventcreate
+path: "/freedevtools/tldr/windows/eventcreate/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/eventcreate/"
 description: "Create event log entries with eventcreate. Manage event logs, specify event IDs, and send events to remote machines. Free online tool, no registration required."
 category: windows

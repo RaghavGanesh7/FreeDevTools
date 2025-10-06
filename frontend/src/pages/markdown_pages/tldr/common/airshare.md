@@ -1,7 +1,7 @@
 ---
 title: "AirShare - Transfer Data Locally | Online Free DevTools by Hexmos"
 name: airshare
-path: /freedevtools/tldr/common/airshare
+path: "/freedevtools/tldr/common/airshare/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/airshare/"
 description: "Transfer data with AirShare, the local network file sharing tool. Quickly share files between devices without internet. Free online tool, no registration required."
 category: common

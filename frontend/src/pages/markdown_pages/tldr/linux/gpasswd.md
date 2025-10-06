@@ -1,7 +1,7 @@
 ---
 title: "Gpasswd - Manage Unix Groups | Online Free DevTools by Hexmos"
 name: gpasswd
-path: /freedevtools/tldr/linux/gpasswd
+path: "/freedevtools/tldr/linux/gpasswd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gpasswd/"
 description: "Manage Unix user groups with Gpasswd. Add, remove, and administer group members efficiently. Free online tool, no registration required."
 category: linux

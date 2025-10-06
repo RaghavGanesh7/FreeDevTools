@@ -1,7 +1,7 @@
 ---
 title: "Ceph Storage - Manage Ceph Clusters | Online Free DevTools by Hexmos"
 name: ceph
-path: /freedevtools/tldr/linux/ceph
+path: "/freedevtools/tldr/linux/ceph/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ceph/"
 description: "Manage Ceph storage clusters efficiently with these commands. Monitor health, usage, and perform pool operations. Free online tool, no registration required."
 category: linux

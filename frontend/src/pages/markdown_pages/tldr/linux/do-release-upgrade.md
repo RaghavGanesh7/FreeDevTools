@@ -1,7 +1,7 @@
 ---
 title: "Release Upgrade - Manage Ubuntu Versions | Online Free DevTools by Hexmos"
 name: do-release-upgrade
-path: /freedevtools/tldr/linux/do-release-upgrade
+path: "/freedevtools/tldr/linux/do-release-upgrade/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/do-release-upgrade/"
 description: "Manage Ubuntu release upgrade with do-release-upgrade. Upgrade to the latest stable or development version. Free online tool, no registration required."
 category: linux

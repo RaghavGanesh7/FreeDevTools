@@ -1,7 +1,7 @@
 ---
 title: "Record Terminal - Log Sessions with Script | Online Free DevTools by Hexmos"
 name: script
-path: /freedevtools/tldr/linux/script
+path: "/freedevtools/tldr/linux/script/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/script/"
 description: "Record terminal sessions with Script, capturing all output to a file for later review and analysis. Free online tool, no registration required."
 category: linux

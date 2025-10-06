@@ -1,7 +1,7 @@
 ---
 title: "Convert Geospatial Data with ogr2ogr | Online Free DevTools by Hexmos"
 name: ogr2ogr
-path: /freedevtools/tldr/common/ogr2ogr
+path: "/freedevtools/tldr/common/ogr2ogr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ogr2ogr/"
 description: "Convert geospatial data formats with ogr2ogr. Transform shapefiles, GeoJSON, and CSV to GeoPackage and PostGIS effortlessly. Free online tool, no registration required."
 category: common

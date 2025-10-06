@@ -1,7 +1,7 @@
 ---
 title: "YubiKey Config - Control YubiKey Applications | Online Free DevTools by Hexmos"
 name: ykman-config
-path: /freedevtools/tldr/ykman/ykman-config
+path: "/freedevtools/tldr/ykman/ykman-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/ykman/ykman-config/"
 description: "Control YubiKey applications easily with Ykman Config. Enable/disable OTP, U2F, FIDO2 and more. Manage USB and NFC settings efficiently. Free online tool, no registration required."
 category: common

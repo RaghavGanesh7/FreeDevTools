@@ -1,7 +1,7 @@
 ---
 title: "Choco Pack - Create NuGet Packages | Online Free DevTools by Hexmos"
 name: choco-pack
-path: /freedevtools/tldr/windows/choco-pack
+path: "/freedevtools/tldr/windows/choco-pack/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-pack/"
 description: "Create NuGet packages easily with Choco Pack. Streamline your software distribution by packaging NuGet specifications. Free online tool, no registration required."
 category: windows

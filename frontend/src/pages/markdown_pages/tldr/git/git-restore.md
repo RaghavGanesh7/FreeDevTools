@@ -1,7 +1,7 @@
 ---
 title: "Restore Git Files - Undo Changes | Online Free DevTools by Hexmos"
 name: git-restore
-path: /freedevtools/tldr/git/git-restore
+path: "/freedevtools/tldr/git/git-restore/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-restore/"
 description: "Undo git changes with Git Restore command. Recover files, unstage modifications, and discard changes quickly. Free online tool, no registration required."
 category: common

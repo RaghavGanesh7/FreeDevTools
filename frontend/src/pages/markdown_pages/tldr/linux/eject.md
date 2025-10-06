@@ -1,7 +1,7 @@
 ---
 title: "Eject Command - Control Device Ejection | Online Free DevTools by Hexmos"
 name: eject
-path: /freedevtools/tldr/linux/eject
+path: "/freedevtools/tldr/linux/eject/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eject/"
 description: "Control device ejection with the eject command.  Manage CDs, floppy disks, and more. Free online tool, no registration required."
 category: linux

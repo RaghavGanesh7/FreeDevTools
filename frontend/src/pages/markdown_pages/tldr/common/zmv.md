@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Control File Names with Zmv | Online Free DevTools by Hexmos"
 name: zmv
-path: /freedevtools/tldr/common/zmv
+path: "/freedevtools/tldr/common/zmv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zmv/"
 description: "Control file names efficiently with Zmv, a powerful file renaming tool. Rename files using extended glob patterns, preview changes, and automate file management. Free online tool, no registration required."
 category: common

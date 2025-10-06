@@ -1,7 +1,7 @@
 ---
 title: "Telegram Desktop - Chat Securely with Open Source Clients | Online Free DevTools by Hexmos"
 name: telegram-desktop
-path: /freedevtools/tldr/common/telegram-desktop
+path: "/freedevtools/tldr/common/telegram-desktop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/telegram-desktop/"
 description: "Chat securely with Telegram Desktop using open-source clients. Send messages, share files, and use stickers with this instant messenger. Free online tool, no registration required."
 category: common

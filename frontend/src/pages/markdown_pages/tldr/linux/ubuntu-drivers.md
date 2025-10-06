@@ -1,7 +1,7 @@
 ---
 title: "Install Ubuntu Drivers - Manage Hardware Drivers | Online Free DevTools by Hexmos"
 name: ubuntu-drivers
-path: /freedevtools/tldr/linux/ubuntu-drivers
+path: "/freedevtools/tldr/linux/ubuntu-drivers/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ubuntu-drivers/"
 description: "Manage and install Ubuntu hardware drivers easily with ubuntu-drivers. List available drivers, install detected hardware drivers, and troubleshoot driver issues using simple commands. Free online tool, no registration required."
 category: linux

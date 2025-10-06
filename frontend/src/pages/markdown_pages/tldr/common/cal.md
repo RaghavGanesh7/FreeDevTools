@@ -1,7 +1,7 @@
 ---
 title: "Calendar - Display Calendars | Online Free DevTools by Hexmos"
 name: cal
-path: /freedevtools/tldr/common/cal
+path: "/freedevtools/tldr/common/cal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cal/"
 description: "Display calendars instantly with Cal. View specific months or years with this command line utility. Free online tool, no registration required."
 category: common

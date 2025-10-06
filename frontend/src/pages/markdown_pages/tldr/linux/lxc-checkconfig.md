@@ -1,7 +1,7 @@
 ---
 title: "LXC Checkconfig - Validate LXC Kernel Support | Online Free DevTools by Hexmos"
 name: lxc-checkconfig
-path: /freedevtools/tldr/linux/lxc-checkconfig
+path: "/freedevtools/tldr/linux/lxc-checkconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-checkconfig/"
 description: "Validate LXC kernel configuration with LXC Checkconfig. Ensure your kernel supports LXC containers for efficient virtualization. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Raco Tool - Manage Racket Packages | Online Free DevTools by Hexmos"
 name: raco
-path: /freedevtools/tldr/common/raco
+path: "/freedevtools/tldr/common/raco/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/raco/"
 description: "Manage Racket packages efficiently with Raco tool. Install, build, and test Racket projects using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Toggle SELinux Booleans - Control SELinux Security | Online Free DevTools by Hexmos"
 name: togglesebool
-path: /freedevtools/tldr/linux/togglesebool
+path: "/freedevtools/tldr/linux/togglesebool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/togglesebool/"
 description: "Control SELinux security settings with ToggleSEBool. Quickly toggle booleans for temporary security adjustments using this Linux tool. Free online tool, no registration required."
 category: linux

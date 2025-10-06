@@ -1,7 +1,7 @@
 ---
 title: "NTP Query - Control NTP Daemon | Online Free DevTools by Hexmos"
 name: ntpq
-path: "/freedevtools/tldr/linux/ntpq"
+path: "/freedevtools/tldr/linux/ntpq/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ntpq/"
 description: "Control NTP daemon with NTP Query. Inspect NTP peers, system variables, and debug network time protocol issues. Free online tool, no registration required."
 category: linux

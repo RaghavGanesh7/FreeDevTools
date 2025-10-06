@@ -1,7 +1,7 @@
 ---
 title: "Control OpenRC - Manage Services | Online Free DevTools by Hexmos"
 name: openrc
-path: /freedevtools/tldr/linux/openrc
+path: "/freedevtools/tldr/linux/openrc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/openrc/"
 description: "Control services with OpenRC, the service manager. Manage runlevels and service dependencies on Linux systems with ease. Free online tool, no registration required."
 category: linux

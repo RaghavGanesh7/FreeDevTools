@@ -1,7 +1,7 @@
 ---
 title: "Control PipeWire Links - Manage Audio Ports | Online Free DevTools by Hexmos"
 name: pw-link
-path: /freedevtools/tldr/linux/pw-link
+path: "/freedevtools/tldr/linux/pw-link/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-link/"
 description: "Control PipeWire audio links with pw-link. Manage audio ports, create connections, and disconnect devices using the command line. Free online tool, no registration required."
 category: linux

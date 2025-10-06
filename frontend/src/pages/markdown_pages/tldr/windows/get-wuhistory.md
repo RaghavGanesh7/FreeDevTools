@@ -1,7 +1,7 @@
 ---
 title: "Get WUHistory - Control Windows Updates History | Online Free DevTools by Hexmos"
 name: get-wuhistory
-path: /freedevtools/tldr/windows/get-wuhistory
+path: "/freedevtools/tldr/windows/get-wuhistory/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-wuhistory/"
 description: "Control Windows updates history with Get-WUHistory. View, filter, and report installed updates easily with this command. Free online tool, no registration required."
 category: windows

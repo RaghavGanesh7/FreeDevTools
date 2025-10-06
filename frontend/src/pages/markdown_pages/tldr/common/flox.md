@@ -1,7 +1,7 @@
 ---
 title: "Manage Nix Packages - Control Environments with Flox | Online Free DevTools by Hexmos"
 name: flox
-path: /freedevtools/tldr/common/flox
+path: "/freedevtools/tldr/common/flox/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flox/"
 description: "Control Nix package environments easily with Flox. Manage dependencies, install packages, and share environments with others. Free online tool, no registration required."
 category: common

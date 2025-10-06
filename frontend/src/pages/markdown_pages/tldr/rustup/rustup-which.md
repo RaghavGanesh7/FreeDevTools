@@ -1,7 +1,7 @@
 ---
 title: "Rustup Which - Locate Rust Binaries | Online Free DevTools by Hexmos"
 name: rustup-which
-path: /freedevtools/tldr/rustup/rustup-which
+path: "/freedevtools/tldr/rustup/rustup-which/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-which/"
 description: "Locate Rust binaries quickly with Rustup Which. Find the path of executables managed by Rustup in different toolchains. Free online tool, no registration required."
 category: common

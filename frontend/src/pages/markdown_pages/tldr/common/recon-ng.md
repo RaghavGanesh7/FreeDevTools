@@ -1,7 +1,7 @@
 ---
 title: "Recon-ng - Automate Reconnaissance | Online Free DevTools by Hexmos"
 name: recon-ng
-path: /freedevtools/tldr/common/recon-ng
+path: "/freedevtools/tldr/common/recon-ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/recon-ng/"
 description: "Automate reconnaissance with Recon-ng for information gathering. Enhance your penetration testing workflow with module marketplace integration. Free online tool, no registration required."
 category: common

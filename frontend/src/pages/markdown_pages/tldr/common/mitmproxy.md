@@ -1,7 +1,7 @@
 ---
 title: "Control HTTP Traffic - mitmproxy | Online Free DevTools by Hexmos"
 name: mitmproxy
-path: /freedevtools/tldr/common/mitmproxy
+path: "/freedevtools/tldr/common/mitmproxy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mitmproxy/"
 description: "Control HTTP traffic with mitmproxy, an interactive man-in-the-middle proxy. Intercept, inspect, and modify network requests easily. Free online tool, no registration required."
 category: common

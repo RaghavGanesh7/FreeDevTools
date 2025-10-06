@@ -1,7 +1,7 @@
 ---
 title: "LPAdmin - Configure CUPS Printers | Online Free DevTools by Hexmos"
 name: lpadmin
-path: /freedevtools/tldr/common/lpadmin
+path: "/freedevtools/tldr/common/lpadmin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lpadmin/"
 description: "Configure CUPS printers with LPAdmin. Manage printers, classes, and default configurations efficiently with this command line tool. Free online tool, no registration required."
 category: common

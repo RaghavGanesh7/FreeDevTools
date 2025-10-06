@@ -1,7 +1,7 @@
 ---
 title: "Format Message Catalog - Compile PO Files with msgfmt | Online Free DevTools by Hexmos"
 name: msgfmt
-path: /freedevtools/tldr/common/msgfmt
+path: "/freedevtools/tldr/common/msgfmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msgfmt/"
 description: "Format message catalogs with msgfmt. Compile .po files to .mo files for gettext localization. Streamline translation workflows. Free online tool, no registration required."
 category: common

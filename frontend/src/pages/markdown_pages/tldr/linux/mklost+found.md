@@ -1,7 +1,7 @@
 ---
 title: "Create Lost+Found Directory - Linux | Online Free DevTools by Hexmos"
 name: mklost+found
-path: /freedevtools/tldr/linux/mklost+found
+path: "/freedevtools/tldr/linux/mklost+found/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mklost+found/"
 description: "Create a lost+found directory with mklost+found. Recover lost files and manage file system integrity on Linux. Free online tool, no registration required."
 category: linux

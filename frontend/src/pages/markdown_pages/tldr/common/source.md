@@ -1,7 +1,7 @@
 ---
 title: "Execute Shell Script - Source Files on Linux/macOS | Online Free DevTools by Hexmos"
 name: source
-path: /freedevtools/tldr/common/source
+path: "/freedevtools/tldr/common/source/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/source/"
 description: "Execute shell scripts with Source on Linux/macOS. Run commands from files, modify current shell environment, and streamline workflow. Free online tool, no registration required."
 category: common

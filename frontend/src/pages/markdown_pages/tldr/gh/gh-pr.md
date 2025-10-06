@@ -1,7 +1,7 @@
 ---
 title: "GitHub PR - Manage Pull Requests | Online Free DevTools by Hexmos"
 name: gh-pr
-path: /freedevtools/tldr/gh/gh-pr
+path: "/freedevtools/tldr/gh/gh-pr/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-pr/"
 description: "Manage GitHub pull requests with gh-pr. Create, review, merge and edit pull requests directly from the command line. Free online tool, no registration required."
 category: common

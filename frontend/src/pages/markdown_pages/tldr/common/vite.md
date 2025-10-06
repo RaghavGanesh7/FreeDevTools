@@ -1,7 +1,7 @@
 ---
 title: "Create Vite Project - Build JavaScript Apps | Online Free DevTools by Hexmos"
 name: vite
-path: /freedevtools/tldr/common/vite
+path: "/freedevtools/tldr/common/vite/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vite/"
 description: "Create JavaScript apps with Vite Project Builder. Scaffold projects using templates for React, Vue, Svelte and more. Free online tool, no registration required."
 category: common

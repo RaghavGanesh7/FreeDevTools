@@ -1,7 +1,7 @@
 ---
 title: "VBoxManage - Control Virtual Machines | Online Free DevTools by Hexmos"
 name: vboxmanage
-path: /freedevtools/tldr/vboxmanager/vboxmanage
+path: "/freedevtools/tldr/vboxmanager/vboxmanage/"
 canonical: "https://hexmos.com/freedevtools/tldr/vboxmanager/vboxmanage/"
 description: "Control Virtual Machines with VBoxManage. Manage VirtualBox VMs via command line, including starting, cloning, and exporting. Free online tool, no registration required."
 category: common

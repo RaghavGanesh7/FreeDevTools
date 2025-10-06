@@ -1,7 +1,7 @@
 ---
 title: "Calculate SHA224 Checksums - Verify File Integrity | Online Free DevTools by Hexmos"
 name: sha224sum
-path: /freedevtools/tldr/common/sha224sum
+path: "/freedevtools/tldr/common/sha224sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sha224sum/"
 description: "Calculate SHA224 checksums with sha224sum to verify file integrity. Ensure data authenticity and detect file modifications. Free online tool, no registration required."
 category: common

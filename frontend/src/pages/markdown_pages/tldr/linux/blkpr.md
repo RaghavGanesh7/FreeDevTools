@@ -1,7 +1,7 @@
 ---
 title: "Control Persistent Reservations - blkpr | Online Free DevTools by Hexmos"
 name: blkpr
-path: /freedevtools/tldr/linux/blkpr
+path: "/freedevtools/tldr/linux/blkpr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/blkpr/"
 description: "Control persistent reservations with blkpr. Manage block device reservations, register keys, and clear reservations. Free online tool, no registration required."
 category: linux

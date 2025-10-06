@@ -1,7 +1,7 @@
 ---
 title: "Jujutsu Control - Version Control | Online Free DevTools by Hexmos"
 name: jj
-path: /freedevtools/tldr/common/jj
+path: "/freedevtools/tldr/common/jj/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jj/"
 description: "Control revisions with Jujutsu, a distributed version control system. Manage your project's history and collaborate effectively. Free online tool, no registration required."
 category: common

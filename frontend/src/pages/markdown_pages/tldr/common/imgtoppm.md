@@ -1,7 +1,7 @@
 ---
 title: "Image to PPM - Convert Images to PPM Format | Online Free DevTools by Hexmos"
 name: imgtoppm
-path: /freedevtools/tldr/common/imgtoppm
+path: "/freedevtools/tldr/common/imgtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/imgtoppm/"
 description: "Convert images to PPM with imgtoppm, a versatile image converter for multiple formats. Seamlessly transform image files into the PPM format. Free online tool, no registration required."
 category: common

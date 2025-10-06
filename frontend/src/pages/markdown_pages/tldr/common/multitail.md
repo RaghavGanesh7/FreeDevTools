@@ -1,7 +1,7 @@
 ---
 title: "Multitail - Monitor Multiple Logs | Online Free DevTools by Hexmos"
 name: multitail
-path: /freedevtools/tldr/common/multitail
+path: "/freedevtools/tldr/common/multitail/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/multitail/"
 description: "Monitor multiple log files simultaneously with Multitail. Analyze diverse data streams, track changes, and debug efficiently. Free online tool, no registration required."
 category: common

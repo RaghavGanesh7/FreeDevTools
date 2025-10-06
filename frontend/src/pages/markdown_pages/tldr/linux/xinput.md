@@ -1,7 +1,7 @@
 ---
 title: "xinput Control - Manage Input Devices | Online Free DevTools by Hexmos"
 name: xinput
-path: /freedevtools/tldr/linux/xinput
+path: "/freedevtools/tldr/linux/xinput/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xinput/"
 description: "Control and manage Linux input devices with xinput.  List, enable, disable, and reconfigure input devices using simple commands. Free online tool, no registration required."
 category: linux

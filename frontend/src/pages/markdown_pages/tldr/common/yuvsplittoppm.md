@@ -1,7 +1,7 @@
 ---
 title: "Convert YUV to PPM - Create PPM Images | Online Free DevTools by Hexmos"
 name: yuvsplittoppm
-path: /freedevtools/tldr/common/yuvsplittoppm
+path: "/freedevtools/tldr/common/yuvsplittoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yuvsplittoppm/"
 description: "Convert YUV to PPM with yuvsplittoppm. Create PPM images from Abekas YUV files with this command line tool. Free online tool, no registration required."
 category: common

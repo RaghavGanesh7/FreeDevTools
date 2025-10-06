@@ -1,7 +1,7 @@
 ---
 title: "FPing - Ping Multiple Hosts | Online Free DevTools by Hexmos"
 name: fping
-path: /freedevtools/tldr/common/fping
+path: "/freedevtools/tldr/common/fping/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fping/"
 description: "Ping multiple hosts efficiently with FPing, a powerful network probing tool. Check network connectivity and monitor host status quickly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control QEMU Guest - Execute Agent Commands | Online Free DevTools by Hexmos"
 name: qm-guest-cmd
-path: /freedevtools/tldr/linux/qm-guest-cmd
+path: "/freedevtools/tldr/linux/qm-guest-cmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-guest-cmd/"
 description: "Control QEMU guest agent commands with Qm Guest Cmd. Execute freeze, thaw, and fstrim commands. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Generate Lorem Ipsum - Create Dummy Text | Online Free DevTools by Hexmos"
 name: lorem
-path: /freedevtools/tldr/common/lorem
+path: "/freedevtools/tldr/common/lorem/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lorem/"
 description: "Generate random Latin text with Lorem Ipsum. Create placeholder text for layouts and design mockups with ease. Free online tool, no registration required."
 category: common

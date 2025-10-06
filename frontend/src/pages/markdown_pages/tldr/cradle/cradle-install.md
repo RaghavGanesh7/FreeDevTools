@@ -1,7 +1,7 @@
 ---
 title: "Cradle Install - Install Framework Components | Online Free DevTools by Hexmos"
 name: cradle-install
-path: /freedevtools/tldr/cradle/cradle-install
+path: "/freedevtools/tldr/cradle/cradle-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/cradle/cradle-install/"
 description: "Install Cradle framework components with Cradle Install. Streamline project setup and component management effortlessly. Free online tool, no registration required."
 category: common

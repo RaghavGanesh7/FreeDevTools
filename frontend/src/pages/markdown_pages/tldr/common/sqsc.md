@@ -1,7 +1,7 @@
 ---
 title: "SQS Client - Manage AWS Queues | Online Free DevTools by Hexmos"
 name: sqsc
-path: /freedevtools/tldr/common/sqsc
+path: "/freedevtools/tldr/common/sqsc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sqsc/"
 description: "Manage AWS SQS queues easily with SQSC. Interact, query, and copy messages across queues. Free online tool, no registration required."
 category: common

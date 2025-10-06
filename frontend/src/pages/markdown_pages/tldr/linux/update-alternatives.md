@@ -1,7 +1,7 @@
 ---
 title: "Manage Symbolic Links - Control Default Commands | Online Free DevTools by Hexmos"
 name: update-alternatives
-path: /freedevtools/tldr/linux/update-alternatives
+path: "/freedevtools/tldr/linux/update-alternatives/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/update-alternatives/"
 description: "Control default commands by managing symbolic links with update-alternatives.  Easily add, remove, and configure links for various applications. Free online tool, no registration required."
 category: linux

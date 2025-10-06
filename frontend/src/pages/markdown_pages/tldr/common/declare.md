@@ -1,7 +1,7 @@
 ---
 title: "Declare Variables - Control Bash Shell Variables | Online Free DevTools by Hexmos"
 name: declare
-path: /freedevtools/tldr/common/declare
+path: "/freedevtools/tldr/common/declare/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/declare/"
 description: "Control Bash shell variables with Declare Variables. Define variable types, scopes, and attributes. Improve script efficiency with this command-line tool. Free online tool, no registration required."
 category: common

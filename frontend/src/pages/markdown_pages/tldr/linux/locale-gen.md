@@ -1,7 +1,7 @@
 ---
 title: "Generate Locale - Define System Locales | Online Free DevTools by Hexmos"
 name: locale-gen
-path: /freedevtools/tldr/linux/locale-gen
+path: "/freedevtools/tldr/linux/locale-gen/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/locale-gen/"
 description: "Generate system locales with locale-gen for Linux environments. Configure internationalization settings and language support. Free online tool, no registration required."
 category: linux

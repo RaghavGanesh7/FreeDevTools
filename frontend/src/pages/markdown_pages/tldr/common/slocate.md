@@ -1,7 +1,7 @@
 ---
 title: "Locate Secure Files - Search Files Securely | Online Free DevTools by Hexmos"
 name: slocate
-path: /freedevtools/tldr/common/slocate
+path: "/freedevtools/tldr/common/slocate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/slocate/"
 description: "Search files securely with slocate, a secure alternative to GNU locate. Find files by name efficiently on Linux systems. Free online tool, no registration required."
 category: common

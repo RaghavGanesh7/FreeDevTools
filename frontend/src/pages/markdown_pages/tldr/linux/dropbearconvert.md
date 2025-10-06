@@ -1,7 +1,7 @@
 ---
 title: "Dropbear Convert - Format Keys | Online Free DevTools by Hexmos"
 name: dropbearconvert
-path: /freedevtools/tldr/linux/dropbearconvert
+path: "/freedevtools/tldr/linux/dropbearconvert/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dropbearconvert/"
 description: "Format private keys with Dropbear Convert. Transform keys between Dropbear and OpenSSH formats seamlessly. Free online tool, no registration required."
 category: linux

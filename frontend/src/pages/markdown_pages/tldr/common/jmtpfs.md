@@ -1,7 +1,7 @@
 ---
 title: "Mount MTP - Access MTP Devices | Online Free DevTools by Hexmos"
 name: jmtpfs
-path: "/freedevtools/tldr/common/jmtpfs"
+path: "/freedevtools/tldr/common/jmtpfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jmtpfs/"
 description: "Mount MTP devices with jmtpfs and access files on your Android phone or digital camera. Free online tool, no registration required."
 category: common

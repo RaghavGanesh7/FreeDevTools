@@ -1,7 +1,7 @@
 ---
 title: "Octal Dump - Inspect File Data with God | Online Free DevTools by Hexmos"
 name: god
-path: /freedevtools/tldr/osx/god
+path: "/freedevtools/tldr/osx/god/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/god/"
 description: "Inspect file data with God, an octal dump command for macOS. Analyze binary files, debug data structures, and view raw file contents. Free online tool, no registration required."
 category: osx

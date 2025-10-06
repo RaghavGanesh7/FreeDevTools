@@ -1,7 +1,7 @@
 ---
 title: "Manage System Extensions - Control systemd-sysext | Online Free DevTools by Hexmos"
 name: systemd-sysext
-path: /freedevtools/tldr/linux/systemd-sysext
+path: "/freedevtools/tldr/linux/systemd-sysext/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-sysext/"
 description: "Control system extension images with systemd-sysext.  List, merge, unmerge, and refresh extensions easily. Free online tool, no registration required."
 category: linux

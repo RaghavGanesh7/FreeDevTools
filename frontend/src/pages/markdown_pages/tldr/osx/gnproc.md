@@ -1,7 +1,7 @@
 ---
 title: "Gnproc - Control Processor Count | Online Free DevTools by Hexmos"
 name: gnproc
-path: /freedevtools/tldr/osx/gnproc
+path: "/freedevtools/tldr/osx/gnproc/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gnproc/"
 description: "Control processor count with gnproc, an alias of GNU nproc for determining the number of processing units available. Free online tool, no registration required."
 category: osx

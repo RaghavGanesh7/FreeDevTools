@@ -1,7 +1,7 @@
 ---
 title: "Zipnote - Edit Zip Archive Comments | Online Free DevTools by Hexmos"
 name: zipnote
-path: /freedevtools/tldr/common/zipnote
+path: "/freedevtools/tldr/common/zipnote/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zipnote/"
 description: "Edit Zip archive comments with Zipnote. Add, view, or extract comments from Zip files. Manage and update archive information easily. Free online tool, no registration required."
 category: common

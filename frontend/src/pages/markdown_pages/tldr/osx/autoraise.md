@@ -1,7 +1,7 @@
 ---
 title: "AutoRaise - Focus Windows on Hover | Online Free DevTools by Hexmos"
 name: autoraise
-path: /freedevtools/tldr/osx/autoraise
+path: "/freedevtools/tldr/osx/autoraise/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/autoraise/"
 description: "Automatically raise windows with AutoRaise on macOS. Focus on hovered windows improving workflow using command line. Free online tool, no registration required."
 category: osx

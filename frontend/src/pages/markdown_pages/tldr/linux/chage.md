@@ -1,7 +1,7 @@
 ---
 title: "Chage - Control Password Expiry | Online Free DevTools by Hexmos"
 name: chage
-path: /freedevtools/tldr/linux/chage
+path: "/freedevtools/tldr/linux/chage/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chage/"
 description: "Control user password expiry with Chage. Manage account expiration, force password changes and re-enable accounts on Linux. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "SpeedCrunch - Scientific Calculator | Online Free DevTools by Hexmos"
 name: speedcrunch
-path: /freedevtools/tldr/common/speedcrunch
+path: "/freedevtools/tldr/common/speedcrunch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/speedcrunch/"
 description: "Calculate complex equations with SpeedCrunch, a high-precision scientific calculator. Perform advanced mathematical operations easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Google Drive - Skicka File Transfer | Online Free DevTools by Hexmos"
 name: skicka
-path: /freedevtools/tldr/common/skicka
+path: "/freedevtools/tldr/common/skicka/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/skicka/"
 description: "Manage Google Drive files effortlessly with Skicka, a command-line file transfer tool. Upload, download, list, and manage your Google Drive data. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Flashcards - Learn with Flash Cards in Terminal | Online Free DevTools by Hexmos"
 name: flash
-path: /freedevtools/tldr/linux/flash
+path: "/freedevtools/tldr/linux/flash/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flash/"
 description: "Learn with flashcards easily with Flash, a terminal-based flashcard system. Study decks, review concepts, and enhance knowledge retention. Free online tool, no registration required."
 category: linux

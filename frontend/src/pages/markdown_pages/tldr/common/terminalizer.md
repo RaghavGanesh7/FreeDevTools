@@ -1,7 +1,7 @@
 ---
 title: "Generate Terminal GIFs - Terminalizer | Online Free DevTools by Hexmos"
 name: terminalizer
-path: /freedevtools/tldr/common/terminalizer
+path: "/freedevtools/tldr/common/terminalizer/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/terminalizer/"
 description: "Generate animated GIFs from terminal recordings with Terminalizer. Record terminal sessions, create GIF animations, and share them online. Free online tool, no registration required."
 category: common

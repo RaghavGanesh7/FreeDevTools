@@ -1,7 +1,7 @@
 ---
 title: "Manage Trust Policy - Control Security with trust | Online Free DevTools by Hexmos"
 name: trust
-path: /freedevtools/tldr/linux/trust
+path: "/freedevtools/tldr/linux/trust/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trust/"
 description: "Control and manage trust policy with the trust command.  List, add, remove, and extract trust anchors and certificates. Free online tool, no registration required."
 category: linux

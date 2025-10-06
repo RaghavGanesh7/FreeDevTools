@@ -1,7 +1,7 @@
 ---
 title: "Validate Python Docstrings - Using pydocstyle | Online Free DevTools by Hexmos"
 name: pydocstyle
-path: /freedevtools/tldr/common/pydocstyle
+path: "/freedevtools/tldr/common/pydocstyle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pydocstyle/"
 description: "Validate Python docstring conventions with pydocstyle. Ensure code documentation quality and consistency with this static analysis tool. Free online tool, no registration required."
 category: common

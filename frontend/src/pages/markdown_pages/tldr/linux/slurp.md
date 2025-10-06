@@ -1,7 +1,7 @@
 ---
 title: "Select Region - Capture Screen Regions with Slurp | Online Free DevTools by Hexmos"
 name: slurp
-path: /freedevtools/tldr/linux/slurp
+path: "/freedevtools/tldr/linux/slurp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slurp/"
 description: "Capture screen regions precisely with Slurp, a Wayland compositor tool.  Grab specific areas or single points effortlessly. Free online tool, no registration required."
 category: linux

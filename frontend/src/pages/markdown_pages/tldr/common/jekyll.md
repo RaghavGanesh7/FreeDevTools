@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Sites - Control with Jekyll | Online Free DevTools by Hexmos"
 name: jekyll
-path: /freedevtools/tldr/common/jekyll
+path: "/freedevtools/tldr/common/jekyll/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jekyll/"
 description: "Generate static websites with Jekyll. Build blogs, personal sites, and documentation effortlessly using this powerful static site generator. Free online tool, no registration required."
 category: common

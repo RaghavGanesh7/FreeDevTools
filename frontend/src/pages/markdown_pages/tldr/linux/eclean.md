@@ -1,7 +1,7 @@
 ---
 title: "Eclean - Clean Package Files on Linux | Online Free DevTools by Hexmos"
 name: eclean
-path: /freedevtools/tldr/linux/eclean
+path: "/freedevtools/tldr/linux/eclean/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eclean/"
 description: "Clean package files with Eclean on Linux systems. Remove obsolete source and binary packages to free up disk space. Free online tool, no registration required."
 category: linux

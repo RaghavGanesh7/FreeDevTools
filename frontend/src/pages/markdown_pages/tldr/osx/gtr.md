@@ -1,7 +1,7 @@
 ---
 title: "Text Replace - Transform Text with gtr | Online Free DevTools by Hexmos"
 name: gtr
-path: /freedevtools/tldr/osx/gtr
+path: "/freedevtools/tldr/osx/gtr/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtr/"
 description: "Transform text easily with gtr on macOS. Substitute characters, delete sequences, and squeeze repeats. A free online text manipulation tool, no registration required."
 category: osx

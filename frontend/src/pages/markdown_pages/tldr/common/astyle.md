@@ -1,7 +1,7 @@
 ---
 title: "Format Code with AStyle - Indent Source Code | Online Free DevTools by Hexmos"
 name: astyle
-path: /freedevtools/tldr/common/astyle
+path: "/freedevtools/tldr/common/astyle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/astyle/"
 description: "Format source code with AStyle, ensuring consistent indentation and style. Beautify C, C++, C#, and Java code effortlessly. Free online tool, no registration required."
 category: common

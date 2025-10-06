@@ -1,7 +1,7 @@
 ---
 title: "Control Rofi - Application Launcher | Online Free DevTools by Hexmos"
 name: rofi
-path: /freedevtools/tldr/linux/rofi
+path: "/freedevtools/tldr/linux/rofi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rofi/"
 description: "Control applications with Rofi, a versatile application launcher. Quickly switch windows and execute commands. Free online tool, no registration required."
 category: linux

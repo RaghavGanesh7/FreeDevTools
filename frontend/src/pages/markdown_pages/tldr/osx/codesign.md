@@ -1,7 +1,7 @@
 ---
 title: "Code Sign - Create macOS Code Signatures | Online Free DevTools by Hexmos"
 name: codesign
-path: /freedevtools/tldr/osx/codesign
+path: "/freedevtools/tldr/osx/codesign/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/codesign/"
 description: "Create macOS code signatures with Code Sign. Digitally sign your apps for security and distribution using certificates. Free online tool, no registration required."
 category: osx

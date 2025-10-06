@@ -1,7 +1,7 @@
 ---
 title: "Control Cloud-init - Manage Instance Initialization | Online Free DevTools by Hexmos"
 name: cloud-init
-path: /freedevtools/tldr/linux/cloud-init
+path: "/freedevtools/tldr/linux/cloud-init/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cloud-init/"
 description: "Control cloud instance initialization with Cloud-init. Automate cloud configuration, manage packages, and run scripts. Free online tool, no registration required."
 category: linux

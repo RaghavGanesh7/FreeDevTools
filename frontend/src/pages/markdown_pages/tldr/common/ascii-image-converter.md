@@ -1,7 +1,7 @@
 ---
 title: "Create ASCII Images - Convert Images to ASCII Art | Online Free DevTools by Hexmos"
 name: ascii-image-converter
-path: /freedevtools/tldr/common/ascii-image-converter
+path: "/freedevtools/tldr/common/ascii-image-converter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ascii-image-converter/"
 description: "Create ASCII images with ascii-image-converter. Convert image files or URLs to colorful or braille-based ASCII art. Free online tool, no registration required."
 category: common

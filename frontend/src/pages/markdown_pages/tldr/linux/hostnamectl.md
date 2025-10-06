@@ -1,7 +1,7 @@
 ---
 title: "Hostname Control - Manage Hostnames on Linux | Online Free DevTools by Hexmos"
 name: hostnamectl
-path: /freedevtools/tldr/linux/hostnamectl
+path: "/freedevtools/tldr/linux/hostnamectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hostnamectl/"
 description: "Control hostnames on Linux with hostnamectl. Manage system hostnames and pretty hostnames efficiently using the command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Wireless Network Detector - Analyze Networks with Kismet | Online Free DevTools by Hexmos"
 name: kismet
-path: /freedevtools/tldr/common/kismet
+path: "/freedevtools/tldr/common/kismet/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kismet/"
 description: "Analyze wireless networks with Kismet, the powerful wireless network detector and sniffer. Identify devices, capture packets and detect intrusions. Free online tool, no registration required."
 category: common

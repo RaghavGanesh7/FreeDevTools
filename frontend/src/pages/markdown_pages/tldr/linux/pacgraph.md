@@ -1,7 +1,7 @@
 ---
 title: "Generate Package Graph - Pacgraph | Online Free DevTools by Hexmos"
 name: pacgraph
-path: /freedevtools/tldr/linux/pacgraph
+path: "/freedevtools/tldr/linux/pacgraph/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacgraph/"
 description: "Generate dependency graphs with Pacgraph, a powerful Linux package visualization tool. Analyze software dependencies and system architecture easily. Free online tool, no registration required."
 category: linux

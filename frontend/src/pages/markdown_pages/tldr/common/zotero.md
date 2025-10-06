@@ -1,7 +1,7 @@
 ---
 title: "Zotero - Manage Bibliographies | Online Free DevTools by Hexmos"
 name: zotero
-path: /freedevtools/tldr/common/zotero
+path: "/freedevtools/tldr/common/zotero/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zotero/"
 description: "Manage bibliographies easily with Zotero, the powerful citation management tool. Organize research, cite sources, and generate bibliographies. Free online tool, no registration required."
 category: common

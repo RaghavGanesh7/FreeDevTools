@@ -1,7 +1,7 @@
 ---
 title: "Create Git Ignore - Manage Ignored Files | Online Free DevTools by Hexmos"
 name: git-ignore
-path: "/freedevtools/tldr/git/git-ignore"
+path: "/freedevtools/tldr/git/git-ignore/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-ignore/"
 description: "Create .gitignore files with Git Ignore. Easily manage ignored files and patterns locally or globally. Free online tool, no registration required."
 category: common

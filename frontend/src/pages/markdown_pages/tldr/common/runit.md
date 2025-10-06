@@ -1,7 +1,7 @@
 ---
 title: "Runit - Control Init Process | Online Free DevTools by Hexmos"
 name: runit
-path: /freedevtools/tldr/common/runit
+path: "/freedevtools/tldr/common/runit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/runit/"
 description: "Control Linux init process with Runit. Manage system services and shutdown procedures with ease. Lightweight and reliable init system. Free online tool, no registration required."
 category: common

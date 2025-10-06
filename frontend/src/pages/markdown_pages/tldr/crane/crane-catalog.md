@@ -1,7 +1,7 @@
 ---
 title: "List Repositories - Crane Catalog | Online Free DevTools by Hexmos"
 name: crane-catalog
-path: /freedevtools/tldr/crane/crane-catalog
+path: "/freedevtools/tldr/crane/crane-catalog/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-catalog/"
 description: "List repositories with Crane Catalog. Explore container registry contents and manage image references easily. Free online tool, no registration required."
 category: common

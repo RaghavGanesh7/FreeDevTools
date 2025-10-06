@@ -1,7 +1,7 @@
 ---
 title: "Convert YUV to PPM - Image Conversion | Online Free DevTools by Hexmos"
 name: eyuvtoppm
-path: /freedevtools/tldr/common/eyuvtoppm
+path: "/freedevtools/tldr/common/eyuvtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eyuvtoppm/"
 description: "Convert Berkeley YUV image files to PPM format with eyuvtoppm. Effortless image conversion for developers. Free online tool, no registration required."
 category: common

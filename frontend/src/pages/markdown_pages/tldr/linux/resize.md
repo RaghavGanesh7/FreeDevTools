@@ -1,7 +1,7 @@
 ---
 title: "Resize Terminal - Control Window Size | Online Free DevTools by Hexmos"
 name: resize
-path: /freedevtools/tldr/linux/resize
+path: "/freedevtools/tldr/linux/resize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/resize/"
 description: "Control terminal window size with the resize command.  Adjust terminal dimensions and view output efficiently. Free online tool, no registration required."
 category: linux

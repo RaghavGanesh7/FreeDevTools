@@ -1,7 +1,7 @@
 ---
 title: "Control Jobs - Monitor Process Status | Online Free DevTools by Hexmos"
 name: jobs
-path: /freedevtools/tldr/common/jobs
+path: "/freedevtools/tldr/common/jobs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jobs/"
 description: "Control jobs running in your current session with the 'jobs' command. Monitor background processes and retrieve process IDs easily. Free online tool, no registration required."
 category: common

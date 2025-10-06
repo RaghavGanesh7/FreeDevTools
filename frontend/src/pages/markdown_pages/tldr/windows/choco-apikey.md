@@ -1,7 +1,7 @@
 ---
 title: "Choco Apikey - Manage Chocolatey API Keys | Online Free DevTools by Hexmos"
 name: choco-apikey
-path: /freedevtools/tldr/windows/choco-apikey
+path: "/freedevtools/tldr/windows/choco-apikey/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-apikey/"
 description: "Manage Chocolatey API keys with Choco Apikey. Secure your Chocolatey packages and automate deployments using command-line. Free online tool, no registration required."
 category: windows

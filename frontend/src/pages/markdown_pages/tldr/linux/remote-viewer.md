@@ -1,7 +1,7 @@
 ---
 title: "Remote Viewer - Control Desktops Remotely | Online Free DevTools by Hexmos"
 name: remote-viewer
-path: /freedevtools/tldr/linux/remote-viewer
+path: "/freedevtools/tldr/linux/remote-viewer/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/remote-viewer/"
 description: "Control desktops remotely with Remote Viewer. Access virtual machines and remote sessions easily. Free online tool, no registration required. Use with virt-viewer files for seamless access."
 category: linux

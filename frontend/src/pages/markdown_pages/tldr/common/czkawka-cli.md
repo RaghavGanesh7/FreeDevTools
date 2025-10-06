@@ -1,7 +1,7 @@
 ---
 title: "Find Duplicate Files - Czkawka CLI | Online Free DevTools by Hexmos"
 name: czkawka-cli
-path: /freedevtools/tldr/common/czkawka-cli
+path: "/freedevtools/tldr/common/czkawka-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/czkawka-cli/"
 description: "Find duplicate files with Czkawka CLI, a powerful command-line tool. Locate and delete unnecessary files to free up disk space efficiently. Free online tool, no registration required."
 category: common

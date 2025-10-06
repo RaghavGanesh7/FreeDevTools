@@ -1,7 +1,7 @@
 ---
 title: "Show MATE Version - Display Desktop Info | Online Free DevTools by Hexmos"
 name: mate-about
-path: /freedevtools/tldr/linux/mate-about
+path: "/freedevtools/tldr/linux/mate-about/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mate-about/"
 description: "Show MATE version and other desktop information with Mate About. Get details about your MATE environment quickly and easily. Free online tool, no registration required."
 category: linux

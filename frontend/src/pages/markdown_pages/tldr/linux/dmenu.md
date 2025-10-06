@@ -1,7 +1,7 @@
 ---
 title: "Create Dynamic Menu - Control Input with dmenu | Online Free DevTools by Hexmos"
 name: dmenu
-path: /freedevtools/tldr/linux/dmenu
+path: "/freedevtools/tldr/linux/dmenu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dmenu/"
 description: "Create dynamic menus with dmenu. Quickly filter and select items from text input using the command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Print PostScript - Print Files to Adobe Printers | Online Free DevTools by Hexmos"
 name: ippeveps
-path: /freedevtools/tldr/common/ippeveps
+path: "/freedevtools/tldr/common/ippeveps/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ippeveps/"
 description: "Print files to Adobe PostScript printers with ippeveps. Supports PDF, JPEG, and other formats. Free online tool, no registration required."
 category: common

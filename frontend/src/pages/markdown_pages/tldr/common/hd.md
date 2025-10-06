@@ -1,7 +1,7 @@
 ---
 title: "Hexdump - View Files in Hexadecimal Format | Online Free DevTools by Hexmos"
 name: hd
-path: /freedevtools/tldr/common/hd
+path: "/freedevtools/tldr/common/hd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hd/"
 description: "View files in hexadecimal format with Hexdump. Analyze binary data, debug applications, and inspect file contents. Free online tool, no registration required."
 category: common

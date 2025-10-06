@@ -1,7 +1,7 @@
 ---
 title: "Ping6 - Control IPv6 Network Connectivity | Online Free DevTools by Hexmos"
 name: gping6
-path: /freedevtools/tldr/osx/gping6
+path: "/freedevtools/tldr/osx/gping6/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gping6/"
 description: "Control IPv6 network connectivity with Ping6. Test network reachability, diagnose connection issues, and measure round-trip times. Free online tool, no registration required."
 category: osx

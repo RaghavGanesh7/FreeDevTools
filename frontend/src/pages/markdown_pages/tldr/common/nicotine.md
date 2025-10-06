@@ -1,7 +1,7 @@
 ---
 title: "Control Soulseek P2P with Nicotine+ Client | Online Free DevTools by Hexmos"
 name: nicotine
-path: /freedevtools/tldr/common/nicotine
+path: "/freedevtools/tldr/common/nicotine/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nicotine/"
 description: "Control Soulseek peer-to-peer network with Nicotine+. Download and share files anonymously using this powerful P2P client. Free online tool, no registration required."
 category: common

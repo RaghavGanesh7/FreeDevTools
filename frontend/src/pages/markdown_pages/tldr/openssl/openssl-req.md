@@ -1,7 +1,7 @@
 ---
 title: "Generate CSR - OpenSSL Certificate Requests | Online Free DevTools by Hexmos"
 name: openssl-req
-path: /freedevtools/tldr/openssl/openssl-req
+path: "/freedevtools/tldr/openssl/openssl-req/"
 canonical: "https://hexmos.com/freedevtools/tldr/openssl/openssl-req/"
 description: "Generate CSR with OpenSSL for secure communication. Create certificate signing requests, self-signed certificates, and manage key-pairs easily. Free online tool, no registration required."
 category: common

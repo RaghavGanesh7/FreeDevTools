@@ -1,7 +1,7 @@
 ---
 title: "Format GitHub CLI - GH JSON Formatting | Online Free DevTools by Hexmos"
 name: gh-formatting
-path: /freedevtools/tldr/gh/gh-formatting
+path: "/freedevtools/tldr/gh/gh-formatting/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-formatting/"
 description: "Format JSON data exported from GitHub CLI with GH Formatting. Streamline data transformation and manipulate JSON output using `jq`. Free online tool, no registration required."
 category: common

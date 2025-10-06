@@ -1,7 +1,7 @@
 ---
 title: "Convert MM to GV - Graph Format Converter | Online Free DevTools by Hexmos"
 name: mm2gv
-path: /freedevtools/tldr/common/mm2gv
+path: "/freedevtools/tldr/common/mm2gv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mm2gv/"
 description: "Convert Matrix Market (MM) graph format to Graphviz (GV) format with mm2gv. Easily transform graph data for visualization and analysis. Free online tool, no registration required."
 category: common

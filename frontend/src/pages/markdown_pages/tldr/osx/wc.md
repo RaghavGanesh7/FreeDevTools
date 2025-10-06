@@ -1,7 +1,7 @@
 ---
 title: "Count Words - Analyze Text Files with wc | Online Free DevTools by Hexmos"
 name: wc
-path: /freedevtools/tldr/osx/wc
+path: "/freedevtools/tldr/osx/wc/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/wc/"
 description: "Analyze text files with wc. Count lines, words, characters, and bytes with this command-line tool. Free online tool, no registration required."
 category: osx

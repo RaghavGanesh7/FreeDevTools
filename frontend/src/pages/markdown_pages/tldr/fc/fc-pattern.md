@@ -1,7 +1,7 @@
 ---
 title: "Font Pattern - Display Font Information | Online Free DevTools by Hexmos"
 name: fc-pattern
-path: /freedevtools/tldr/fc/fc-pattern
+path: "/freedevtools/tldr/fc/fc-pattern/"
 canonical: "https://hexmos.com/freedevtools/tldr/fc/fc-pattern/"
 description: "Display font information with Font Pattern. Analyze font properties and configuration. Free online tool, no registration required."
 category: common

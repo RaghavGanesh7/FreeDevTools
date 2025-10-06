@@ -1,7 +1,7 @@
 ---
 title: "Create Journal Entries - Manage Life with jrnl | Online Free DevTools by Hexmos"
 name: jrnl
-path: /freedevtools/tldr/common/jrnl
+path: "/freedevtools/tldr/common/jrnl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jrnl/"
 description: "Create journal entries with jrnl, a simple yet effective command-line journal application for personal knowledge management. Free online tool, no registration required."
 category: common

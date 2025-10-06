@@ -1,7 +1,7 @@
 ---
 title: "Control AWS - Manage Amazon Web Services with CLI | Online Free DevTools by Hexmos"
 name: aws
-path: /freedevtools/tldr/aws/aws
+path: "/freedevtools/tldr/aws/aws/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws/"
 description: "Control AWS resources and infrastructure with the official command-line tool. Manage your cloud services, deploy applications, and troubleshoot issues effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PNM Composer - Compose PNM Images | Online Free DevTools by Hexmos"
 name: pnmcomp
-path: /freedevtools/tldr/pnm/pnmcomp
+path: "/freedevtools/tldr/pnm/pnmcomp/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmcomp/"
 description: "Compose PNM images with PNM Composer. Combine multiple PNM files into one seamlessly for image manipulation. Free online tool, no registration required."
 category: common

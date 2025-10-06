@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Edit - Control Systemd Units | Online Free DevTools by Hexmos"
 name: systemctl-edit
-path: /freedevtools/tldr/linux/systemctl-edit
+path: "/freedevtools/tldr/linux/systemctl-edit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-edit/"
 description: "Control Systemd unit files with Systemctl Edit. Easily overlay, edit, and create systemd configurations on Linux. Free online tool, no registration required."
 category: linux

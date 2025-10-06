@@ -1,7 +1,7 @@
 ---
 title: "Scan Images - Digitize Photos with Scanimage | Online Free DevTools by Hexmos"
 name: scanimage
-path: /freedevtools/tldr/linux/scanimage
+path: "/freedevtools/tldr/linux/scanimage/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/scanimage/"
 description: "Digitize images with Scanimage, a powerful command-line tool for Linux. Convert physical documents and photos into digital formats easily. Free online tool, no registration required."
 category: linux

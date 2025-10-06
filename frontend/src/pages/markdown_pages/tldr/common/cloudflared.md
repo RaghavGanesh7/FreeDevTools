@@ -1,7 +1,7 @@
 ---
 title: "Create Cloudflare Tunnel - Secure Connections | Online Free DevTools by Hexmos"
 name: cloudflared
-path: /freedevtools/tldr/common/cloudflared
+path: "/freedevtools/tldr/common/cloudflared/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cloudflared/"
 description: "Create secure connections with Cloudflare Tunnel. Establish persistent connections to the Cloudflare network using this command-line tool. Free online tool, no registration required."
 category: common

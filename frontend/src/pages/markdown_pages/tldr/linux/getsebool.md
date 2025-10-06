@@ -1,7 +1,7 @@
 ---
 title: "GetSEBool - Control SELinux Booleans | Online Free DevTools by Hexmos"
 name: getsebool
-path: /freedevtools/tldr/linux/getsebool
+path: "/freedevtools/tldr/linux/getsebool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/getsebool/"
 description: "Control SELinux booleans with GetSEBool. Manage SELinux security policies and enforce system security. Free online tool, no registration required."
 category: linux

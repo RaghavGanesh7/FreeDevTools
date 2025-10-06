@@ -1,7 +1,7 @@
 ---
 title: "Control Knockd - Secure Ports with Port Knocking | Online Free DevTools by Hexmos"
 name: knockd
-path: /freedevtools/tldr/linux/knockd
+path: "/freedevtools/tldr/linux/knockd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/knockd/"
 description: "Control knockd security with Port Knocking. Configure knockd to listen for port sequences and execute custom scripts. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Whoami Command - Identify User | Online Free DevTools by Hexmos"
 name: gwhoami
-path: /freedevtools/tldr/osx/gwhoami
+path: "/freedevtools/tldr/osx/gwhoami/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gwhoami/"
 description: "Identify user with Whoami Command, an alias for GNU whoami. Quickly determine the current user on macOS. Free online tool, no registration required."
 category: osx

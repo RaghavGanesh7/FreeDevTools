@@ -1,7 +1,7 @@
 ---
 title: "Minetest Server - Create Minecraft-like Worlds | Online Free DevTools by Hexmos"
 name: minetestserver
-path: /freedevtools/tldr/common/minetestserver
+path: "/freedevtools/tldr/common/minetestserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minetestserver/"
 description: "Create and manage Minetest game servers with Minetest Server. Build infinite block worlds, specify game IDs, and configure ports for your server. Free online tool, no registration required."
 category: common

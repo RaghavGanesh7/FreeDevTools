@@ -1,7 +1,7 @@
 ---
 title: "Search Files - Zfgrep String Matching | Online Free DevTools by Hexmos"
 name: zfgrep
-path: /freedevtools/tldr/common/zfgrep
+path: "/freedevtools/tldr/common/zfgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zfgrep/"
 description: "Search strings with Zfgrep. Find exact matches in compressed or uncompressed files, offering efficient text searching. Free online tool, no registration required."
 category: common

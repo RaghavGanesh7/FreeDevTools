@@ -1,7 +1,7 @@
 ---
 title: "Rip Files - Remove and Recover Files | Online Free DevTools by Hexmos"
 name: rip
-path: /freedevtools/tldr/common/rip
+path: "/freedevtools/tldr/common/rip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rip/"
 description: "Remove files easily with Rip, the file deletion and recovery tool. Securely manage your deleted files and recover them when needed. Free online tool, no registration required."
 category: common

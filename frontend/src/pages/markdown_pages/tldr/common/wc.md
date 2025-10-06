@@ -1,7 +1,7 @@
 ---
 title: "Count Lines Words - Analyze Text with wc | Online Free DevTools by Hexmos"
 name: wc
-path: /freedevtools/tldr/common/wc
+path: "/freedevtools/tldr/common/wc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wc/"
 description: "Analyze text with wc, a command-line utility for counting lines, words, and bytes. Get accurate statistics and analyze text data quickly. Free online tool, no registration required."
 category: common

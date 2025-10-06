@@ -1,7 +1,7 @@
 ---
 title: "Automount Daemon - Control Mount Points on macOS | Online Free DevTools by Hexmos"
 name: automountd
-path: /freedevtools/tldr/osx/automountd
+path: "/freedevtools/tldr/osx/automountd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/automountd/"
 description: "Control mount points automatically with Automount Daemon. Manage autofs configurations and dynamically mount/unmount network shares. Free online tool, no registration required."
 category: osx

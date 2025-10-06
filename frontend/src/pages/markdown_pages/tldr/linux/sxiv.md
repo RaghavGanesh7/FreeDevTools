@@ -1,7 +1,7 @@
 ---
 title: "View Images - sxiv Image Viewer | Online Free DevTools by Hexmos"
 name: sxiv
-path: /freedevtools/tldr/linux/sxiv
+path: "/freedevtools/tldr/linux/sxiv/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sxiv/"
 description: "View images quickly and easily with sxiv Image Viewer.  Open single images, slideshows, or thumbnails from the command line. Free online tool, no registration required."
 category: linux

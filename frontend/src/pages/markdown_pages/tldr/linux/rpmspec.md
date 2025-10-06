@@ -1,7 +1,7 @@
 ---
 title: "RPM Spec - Query Package Specs on Linux | Online Free DevTools by Hexmos"
 name: rpmspec
-path: "/freedevtools/tldr/linux/rpmspec"
+path: "/freedevtools/tldr/linux/rpmspec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpmspec/"
 description: "Query RPM package specs with rpmspec. Inspect package metadata, list dependencies and extract build instructions. Free online tool, no registration required."
 category: linux

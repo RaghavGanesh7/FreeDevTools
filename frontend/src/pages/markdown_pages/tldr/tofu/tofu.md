@@ -1,7 +1,7 @@
 ---
 title: "Create Infrastructure with Tofu - Deploy Code | Online Free DevTools by Hexmos"
 name: tofu
-path: /freedevtools/tldr/tofu/tofu
+path: "/freedevtools/tldr/tofu/tofu/"
 canonical: "https://hexmos.com/freedevtools/tldr/tofu/tofu/"
 description: "Create infrastructure with Tofu, an open-source Terraform fork, for cloud deployment. Automate infrastructure management with ease. Free online tool, no registration required."
 category: common

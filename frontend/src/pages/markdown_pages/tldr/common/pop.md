@@ -1,7 +1,7 @@
 ---
 title: "Pop Emails - Send Emails from Terminal | Online Free DevTools by Hexmos"
 name: pop
-path: /freedevtools/tldr/common/pop
+path: "/freedevtools/tldr/common/pop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pop/"
 description: "Send email instantly with Pop command line tool. Compose, send, and manage emails directly from your terminal. Free online tool, no registration required."
 category: common

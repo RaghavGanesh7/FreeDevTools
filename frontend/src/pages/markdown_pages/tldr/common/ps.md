@@ -1,7 +1,7 @@
 ---
 title: "Process Manager - Control Running Processes with ps | Online Free DevTools by Hexmos"
 name: ps
-path: /freedevtools/tldr/common/ps
+path: "/freedevtools/tldr/common/ps/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ps/"
 description: "Manage and control running processes with the ps command.  View process details, search for specific processes, and sort by memory usage. Free online tool, no registration required."
 category: common

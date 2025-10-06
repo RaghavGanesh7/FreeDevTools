@@ -1,7 +1,7 @@
 ---
 title: "Conky System Monitor - Control System Resources | Online Free DevTools by Hexmos"
 name: conky
-path: /freedevtools/tldr/linux/conky
+path: "/freedevtools/tldr/linux/conky/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/conky/"
 description: "Monitor system resources effectively with Conky.  Customize your system information display with various configuration options. Free online tool, no registration required."
 category: linux

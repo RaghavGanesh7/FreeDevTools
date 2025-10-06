@@ -1,7 +1,7 @@
 ---
 title: "Stress Test - CPU, Memory & IO Load on Linux | Online Free DevTools by Hexmos"
 name: stress
-path: /freedevtools/tldr/linux/stress
+path: "/freedevtools/tldr/linux/stress/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/stress/"
 description: "Stress test Linux systems with Stress. Simulate high CPU load, memory pressure, and I/O bottlenecks. Free online tool, no registration required."
 category: linux

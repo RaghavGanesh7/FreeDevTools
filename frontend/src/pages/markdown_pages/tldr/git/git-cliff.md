@@ -1,7 +1,7 @@
 ---
 title: "Generate Changelog - git-cliff | Online Free DevTools by Hexmos"
 name: git-cliff
-path: /freedevtools/tldr/git/git-cliff
+path: "/freedevtools/tldr/git/git-cliff/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-cliff/"
 description: "Generate changelogs with git-cliff. Automate release note creation and customize your changelog output. Free online tool, no registration required."
 category: common

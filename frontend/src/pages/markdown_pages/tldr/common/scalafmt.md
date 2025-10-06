@@ -1,7 +1,7 @@
 ---
 title: "Scalafmt - Format Scala Code | Online Free DevTools by Hexmos"
 name: scalafmt
-path: /freedevtools/tldr/common/scalafmt
+path: "/freedevtools/tldr/common/scalafmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scalafmt/"
 description: "Format Scala code quickly with Scalafmt. Improve code readability and maintainability using a consistent style. Free online tool, no registration required."
 category: common

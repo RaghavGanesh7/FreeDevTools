@@ -1,7 +1,7 @@
 ---
 title: "Git Undo - Revert Commits Easily | Online Free DevTools by Hexmos"
 name: git-undo
-path: /freedevtools/tldr/git/git-undo
+path: "/freedevtools/tldr/git/git-undo/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-undo/"
 description: "Revert Git commits easily with Git Undo. Quickly undo single or multiple commits in your repository. Free online tool, no registration required."
 category: common

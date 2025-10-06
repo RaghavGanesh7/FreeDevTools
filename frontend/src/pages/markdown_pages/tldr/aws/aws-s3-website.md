@@ -1,7 +1,7 @@
 ---
 title: "S3 Website - Configure AWS S3 Websites | Online Free DevTools by Hexmos"
 name: aws-s3-website
-path: /freedevtools/tldr/aws/aws-s3-website
+path: "/freedevtools/tldr/aws/aws-s3-website/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-s3-website/"
 description: "Configure AWS S3 websites with S3 Website. Set index and error documents for static hosting, ensuring correct website behavior. Free online tool, no registration required."
 category: common

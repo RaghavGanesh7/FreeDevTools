@@ -1,7 +1,7 @@
 ---
 title: "Convert JPEG to PNM - Format Images | Online Free DevTools by Hexmos"
 name: jpegtopnm
-path: /freedevtools/tldr/common/jpegtopnm
+path: "/freedevtools/tldr/common/jpegtopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jpegtopnm/"
 description: "Format JPEG images to PNM format with jpegtopnm. Convert your JFIF files easily. Free online tool, no registration required."
 category: common

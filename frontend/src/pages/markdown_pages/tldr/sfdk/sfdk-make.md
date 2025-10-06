@@ -1,7 +1,7 @@
 ---
 title: "SFDK Make - Execute Build Steps | Online Free DevTools by Hexmos"
 name: sfdk-make
-path: /freedevtools/tldr/sfdk/sfdk-make
+path: "/freedevtools/tldr/sfdk/sfdk-make/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-make/"
 description: "Execute build steps with SFDK Make. Streamline your Sailfish OS application development workflow using command-line tools. Free online tool, no registration required."
 category: common

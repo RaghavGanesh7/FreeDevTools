@@ -1,7 +1,7 @@
 ---
 title: "Download Files - Web Downloader with Wget | Online Free DevTools by Hexmos"
 name: wget
-path: /freedevtools/tldr/common/wget
+path: "/freedevtools/tldr/common/wget/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wget/"
 description: "Download files from the web with Wget, a powerful web downloader supporting HTTP, HTTPS, and FTP. Free online tool, no registration required."
 category: common

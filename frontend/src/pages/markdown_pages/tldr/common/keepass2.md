@@ -1,7 +1,7 @@
 ---
 title: "Manage Passwords - Control KeePass2 Databases | Online Free DevTools by Hexmos"
 name: keepass2
-path: /freedevtools/tldr/common/keepass2
+path: "/freedevtools/tldr/common/keepass2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/keepass2/"
 description: "Manage passwords effectively with KeePass2. Securely access, open, and control your password databases via command line. Free online tool, no registration required."
 category: common

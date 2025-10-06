@@ -1,7 +1,7 @@
 ---
 title: "Fondue - Install Windows Features | Online Free DevTools by Hexmos"
 name: fondue
-path: /freedevtools/tldr/windows/fondue
+path: "/freedevtools/tldr/windows/fondue/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/fondue/"
 description: "Install Windows features quickly with Fondue. Enable specific optional components and customize your system. Free online tool, no registration required."
 category: windows

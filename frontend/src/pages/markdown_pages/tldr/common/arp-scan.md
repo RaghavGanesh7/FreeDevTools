@@ -1,7 +1,7 @@
 ---
 title: "ARP Scan - Scan Local Network | Online Free DevTools by Hexmos"
 name: arp-scan
-path: /freedevtools/tldr/common/arp-scan
+path: "/freedevtools/tldr/common/arp-scan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/arp-scan/"
 description: "Scan the local network with ARP Scan. Discover devices, identify IP addresses, and troubleshoot network issues efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "ADB Devices - List Connected Devices | Online Free DevTools by Hexmos"
 name: adb-devices
-path: /freedevtools/tldr/adb/adb-devices
+path: "/freedevtools/tldr/adb/adb-devices/"
 canonical: "https://hexmos.com/freedevtools/tldr/adb/adb-devices/"
 description: "List connected Android devices with ADB Devices. Identify device IDs, serial numbers, and system information quickly. Free online tool, no registration required."
 category: common

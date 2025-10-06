@@ -1,7 +1,7 @@
 ---
 title: "FLAC Encode/Decode - Create Lossless Audio Files | Online Free DevTools by Hexmos"
 name: flac
-path: /freedevtools/tldr/common/flac
+path: "/freedevtools/tldr/common/flac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flac/"
 description: "Encode FLAC files effortlessly with flac. Convert WAV to FLAC and decode FLAC to WAV, ensuring high-quality audio conversion. Free online tool, no registration required."
 category: common

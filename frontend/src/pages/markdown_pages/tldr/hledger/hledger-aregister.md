@@ -1,7 +1,7 @@
 ---
 title: "Generate hledger Register - Account Balances | Online Free DevTools by Hexmos"
 name: hledger-aregister
-path: /freedevtools/tldr/hledger/hledger-aregister
+path: "/freedevtools/tldr/hledger/hledger-aregister/"
 canonical: "https://hexmos.com/freedevtools/tldr/hledger/hledger-aregister/"
 description: "Generate account registers with hledger-aregister, display transactions and balances per account. Control your ledger entries efficiently. Free online tool, no registration required."
 category: common

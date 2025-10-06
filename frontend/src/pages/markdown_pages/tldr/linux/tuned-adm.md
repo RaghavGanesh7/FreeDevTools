@@ -1,7 +1,7 @@
 ---
 title: "Tuned-Adm - Optimize System Tuning on Linux | Online Free DevTools by Hexmos"
 name: tuned-adm
-path: /freedevtools/tldr/linux/tuned-adm
+path: "/freedevtools/tldr/linux/tuned-adm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tuned-adm/"
 description: "Optimize system performance with Tuned-Adm. Manage tuning profiles and enhance your Linux system with ease. Free online tool, no registration required."
 category: linux

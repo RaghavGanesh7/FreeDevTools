@@ -1,7 +1,7 @@
 ---
 title: "PRQL Compiler - Transform Data to SQL | Online Free DevTools by Hexmos"
 name: prqlc
-path: /freedevtools/tldr/common/prqlc
+path: "/freedevtools/tldr/common/prqlc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/prqlc/"
 description: "Transform data to SQL with PRQL Compiler. Convert PRQL queries, watch directories, and automate data pipelines. Free online tool, no registration required."
 category: common

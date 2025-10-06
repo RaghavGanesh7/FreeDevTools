@@ -1,7 +1,7 @@
 ---
 title: "Gbasename - Extract Filename | Online Free DevTools by Hexmos"
 name: gbasename
-path: /freedevtools/tldr/osx/gbasename
+path: "/freedevtools/tldr/osx/gbasename/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gbasename/"
 description: "Extract filename with Gbasename. Isolate filename from path on macOS using GNU basename alias. Free online tool, no registration required."
 category: osx

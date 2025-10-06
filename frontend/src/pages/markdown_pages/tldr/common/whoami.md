@@ -1,7 +1,7 @@
 ---
 title: "Whoami Command - Display Username | Online Free DevTools by Hexmos"
 name: whoami
-path: /freedevtools/tldr/common/whoami
+path: "/freedevtools/tldr/common/whoami/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/whoami/"
 description: "Display username with Whoami command, manage user identity. Quickly identify logged in user with this simple command. Free online tool, no registration required."
 category: common

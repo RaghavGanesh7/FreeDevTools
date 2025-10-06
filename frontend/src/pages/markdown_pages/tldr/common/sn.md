@@ -1,7 +1,7 @@
 ---
 title: "StrongName Sign - Verify Assemblies with SN | Online Free DevTools by Hexmos"
 name: sn
-path: /freedevtools/tldr/common/sn
+path: "/freedevtools/tldr/common/sn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sn/"
 description: "StrongName sign and verify IL assemblies with SN. Generate strong name keys, re-sign assemblies and extract public keys effortlessly. Free online tool, no registration required."
 category: common

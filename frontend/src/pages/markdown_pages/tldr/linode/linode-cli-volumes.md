@@ -1,7 +1,7 @@
 ---
 title: "Linode Volumes - Manage Block Storage | Online Free DevTools by Hexmos"
 name: linode-cli-volumes
-path: /freedevtools/tldr/linode/linode-cli-volumes
+path: "/freedevtools/tldr/linode/linode-cli-volumes/"
 canonical: "https://hexmos.com/freedevtools/tldr/linode/linode-cli-volumes/"
 description: "Manage Linode volumes easily with linode-cli. Attach, detach, resize, and create block storage volumes directly from the command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Checksec - Analyze Executable Security | Online Free DevTools by Hexmos"
 name: checksec
-path: /freedevtools/tldr/common/checksec
+path: "/freedevtools/tldr/common/checksec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/checksec/"
 description: "Analyze executable security with Checksec. Identify potential vulnerabilities and security properties in binaries, processes, and the kernel. Free online tool, no registration required."
 category: common

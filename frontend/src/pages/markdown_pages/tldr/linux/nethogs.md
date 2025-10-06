@@ -1,7 +1,7 @@
 ---
 title: "Monitor Network Bandwidth - nethogs Usage | Online Free DevTools by Hexmos"
 name: nethogs
-path: /freedevtools/tldr/linux/nethogs
+path: "/freedevtools/tldr/linux/nethogs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nethogs/"
 description: "Monitor network bandwidth usage per process with nethogs.  Track bandwidth consumption in real-time and identify resource-intensive applications. Free online tool, no registration required."
 category: linux

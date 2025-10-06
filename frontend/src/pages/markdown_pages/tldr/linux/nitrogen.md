@@ -1,7 +1,7 @@
 ---
 title: "Control Wallpaper - Set Linux Backgrounds | Online Free DevTools by Hexmos"
 name: nitrogen
-path: /freedevtools/tldr/linux/nitrogen
+path: "/freedevtools/tldr/linux/nitrogen/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nitrogen/"
 description: "Control your desktop wallpaper with Nitrogen. Effortlessly set Linux backgrounds and manage image directories for a personalized experience. Free online tool, no registration required."
 category: linux

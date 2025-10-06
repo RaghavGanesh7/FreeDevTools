@@ -1,7 +1,7 @@
 ---
 title: "Wezterm CLI - Control Wezterm Sessions | Online Free DevTools by Hexmos"
 name: wezterm-cli
-path: /freedevtools/tldr/common/wezterm-cli
+path: "/freedevtools/tldr/common/wezterm-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wezterm-cli/"
 description: "Control Wezterm terminal sessions with Wezterm CLI. Manage windows, panes, and tabs directly from the command line. Free online tool, no registration required."
 category: common

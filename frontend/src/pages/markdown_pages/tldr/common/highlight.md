@@ -1,7 +1,7 @@
 ---
 title: "Highlight Syntax - Format Code with Highlight | Online Free DevTools by Hexmos"
 name: highlight
-path: /freedevtools/tldr/common/highlight
+path: "/freedevtools/tldr/common/highlight/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/highlight/"
 description: "Format code syntax with Highlight. Generate HTML from source code and customize themes using the command line. Free online tool, no registration required."
 category: common

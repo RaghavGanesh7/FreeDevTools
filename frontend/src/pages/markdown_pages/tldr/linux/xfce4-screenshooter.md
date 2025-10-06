@@ -1,7 +1,7 @@
 ---
 title: "Screenshooter - Capture Screenshots with XFCE4 | Online Free DevTools by Hexmos"
 name: xfce4-screenshooter
-path: /freedevtools/tldr/linux/xfce4-screenshooter
+path: "/freedevtools/tldr/linux/xfce4-screenshooter/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xfce4-screenshooter/"
 description: "Capture screenshots instantly with xfce4-screenshooter. Control the capture area and delay, save to file, copy to clipboard and integrate with image editors. Free online tool, no registration required."
 category: linux

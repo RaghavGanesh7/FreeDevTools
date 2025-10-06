@@ -1,7 +1,7 @@
 ---
 title: "SMB Client - Access SMB/CIFS Shares | Online Free DevTools by Hexmos"
 name: smbclient
-path: /freedevtools/tldr/linux/smbclient
+path: "/freedevtools/tldr/linux/smbclient/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/smbclient/"
 description: "Access SMB/CIFS shares easily with smbclient.  Manage files, connect to servers, and control network resources. Free online tool, no registration required."
 category: linux

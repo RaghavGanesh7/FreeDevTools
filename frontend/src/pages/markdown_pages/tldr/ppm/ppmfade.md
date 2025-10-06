@@ -1,7 +1,7 @@
 ---
 title: "Generate PPM Fade - Image Transition | Online Free DevTools by Hexmos"
 name: ppmfade
-path: /freedevtools/tldr/ppm/ppmfade
+path: "/freedevtools/tldr/ppm/ppmfade/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmfade/"
 description: "Generate image transitions with ppmfade. Create smooth fades between PPM images using various effects. Free online tool, no registration required."
 category: common

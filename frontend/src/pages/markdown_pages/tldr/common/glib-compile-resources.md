@@ -1,7 +1,7 @@
 ---
 title: "Compile GLib Resources - Generate Resource Bundles | Online Free DevTools by Hexmos"
 name: glib-compile-resources
-path: /freedevtools/tldr/common/glib-compile-resources
+path: "/freedevtools/tldr/common/glib-compile-resources/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/glib-compile-resources/"
 description: "Compile GLib resources with glib-compile-resources. Create binary resource bundles and C source files for GTK applications. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "utmpdump - Dump & Load Accounting Files | Online Free DevTools by Hexmos"
 name: utmpdump
-path: /freedevtools/tldr/linux/utmpdump
+path: "/freedevtools/tldr/linux/utmpdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/utmpdump/"
 description: "Dump and load system accounting files with utmpdump.  Manage btmp, utmp, and wtmp files easily. Free online tool, no registration required."
 category: linux

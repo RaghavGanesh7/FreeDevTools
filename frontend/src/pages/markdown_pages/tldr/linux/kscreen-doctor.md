@@ -1,7 +1,7 @@
 ---
 title: "Control Screen Setup - Kscreen-doctor | Online Free DevTools by Hexmos"
 name: kscreen-doctor
-path: /freedevtools/tldr/linux/kscreen-doctor
+path: "/freedevtools/tldr/linux/kscreen-doctor/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kscreen-doctor/"
 description: "Control screen setup with Kscreen-doctor, a powerful Linux display configuration tool.  Adjust resolution, rotation, and scaling effortlessly. Free online tool, no registration required."
 category: linux

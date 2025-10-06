@@ -1,7 +1,7 @@
 ---
 title: "Bridge Network Control - Manage Network Bridges | Online Free DevTools by Hexmos"
 name: bridge
-path: /freedevtools/tldr/linux/bridge
+path: "/freedevtools/tldr/linux/bridge/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bridge/"
 description: "Control and manage network bridges with the 'bridge' command. List interfaces, assign VLANs, monitor changes, and more. Free online tool, no registration required."
 category: linux

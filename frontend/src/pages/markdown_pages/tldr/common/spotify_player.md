@@ -1,7 +1,7 @@
 ---
 title: "Spotify Control - Manage Music with Spotify Player | Online Free DevTools by Hexmos"
 name: spotify_player
-path: /freedevtools/tldr/common/spotify_player
+path: "/freedevtools/tldr/common/spotify_player/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spotify_player/"
 description: "Control Spotify music playback with Spotify Player. Manage tracks, themes, and configurations using command-line interface. Free online tool, no registration required."
 category: common

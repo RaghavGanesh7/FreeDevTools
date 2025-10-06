@@ -1,7 +1,7 @@
 ---
 title: "Plist Converter - Format & Validate Property Lists | Online Free DevTools by Hexmos"
 name: plutil
-path: /freedevtools/tldr/osx/plutil
+path: "/freedevtools/tldr/osx/plutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/plutil/"
 description: "Format Property Lists with plutil. Convert plist files between XML, binary, JSON, Swift, and Objective-C formats. Free online tool, no registration required."
 category: osx

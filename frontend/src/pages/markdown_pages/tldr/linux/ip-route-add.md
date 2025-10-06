@@ -1,7 +1,7 @@
 ---
 title: "IP Route Add - Control Network Routing on Linux | Online Free DevTools by Hexmos"
 name: ip-route-add
-path: /freedevtools/tldr/linux/ip-route-add
+path: "/freedevtools/tldr/linux/ip-route-add/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ip-route-add/"
 description: "Control network routing on Linux with IP Route Add. Add, delete, and modify network routes using the command line. Free online tool, no registration required."
 category: linux

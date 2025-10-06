@@ -1,7 +1,7 @@
 ---
 title: "PAM Slice - Extract Image Data | Online Free DevTools by Hexmos"
 name: pamslice
-path: /freedevtools/tldr/common/pamslice
+path: "/freedevtools/tldr/common/pamslice/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamslice/"
 description: "Extract image data with PAM Slice. Precisely select rows or columns from PAM images. Free online tool, no registration required."
 category: common

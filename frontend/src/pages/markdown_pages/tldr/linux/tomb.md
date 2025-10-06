@@ -1,7 +1,7 @@
 ---
 title: "Manage Encrypted Storage - Tomb Command | Online Free DevTools by Hexmos"
 name: tomb
-path: /freedevtools/tldr/linux/tomb
+path: "/freedevtools/tldr/linux/tomb/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tomb/"
 description: "Manage and control encrypted storage directories with the Tomb command.  Create, lock, open, and securely manage encrypted data using simple commands. Free online tool, no registration required."
 category: linux

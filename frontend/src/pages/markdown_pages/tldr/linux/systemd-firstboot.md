@@ -1,7 +1,7 @@
 ---
 title: "Systemd-firstboot - Initialize System Settings | Online Free DevTools by Hexmos"
 name: systemd-firstboot
-path: /freedevtools/tldr/linux/systemd-firstboot
+path: "/freedevtools/tldr/linux/systemd-firstboot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-firstboot/"
 description: "Initialize system settings with systemd-firstboot. Configure hostname, keymap, and root password effortlessly on Linux. Free online tool, no registration required."
 category: linux

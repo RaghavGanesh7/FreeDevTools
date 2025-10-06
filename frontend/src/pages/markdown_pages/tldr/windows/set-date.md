@@ -1,7 +1,7 @@
 ---
 title: "Set-Date - Change System Date | Online Free DevTools by Hexmos"
 name: set-date
-path: /freedevtools/tldr/windows/set-date
+path: "/freedevtools/tldr/windows/set-date/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/set-date/"
 description: "Change the system date with Set-Date, a command-line tool for Windows. Adjust system time and date for testing or configuration. Free online tool, no registration required."
 category: windows

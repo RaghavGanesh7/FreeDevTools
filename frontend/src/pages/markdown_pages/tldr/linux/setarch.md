@@ -1,7 +1,7 @@
 ---
 title: "Change Architecture - Control Program Architecture with Setarch | Online Free DevTools by Hexmos"
 name: setarch
-path: /freedevtools/tldr/linux/setarch
+path: "/freedevtools/tldr/linux/setarch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setarch/"
 description: "Change architecture instantly with Setarch. Modify program execution behavior and enable compatibility testing for legacy applications. Free online tool, no registration required."
 category: linux

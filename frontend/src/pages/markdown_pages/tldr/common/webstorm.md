@@ -1,7 +1,7 @@
 ---
 title: "WebStorm - Open Files & Directories | Online Free DevTools by Hexmos"
 name: webstorm
-path: /freedevtools/tldr/common/webstorm
+path: "/freedevtools/tldr/common/webstorm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/webstorm/"
 description: "Open files and directories with WebStorm. Effortlessly launch projects, compare files, and perform merges using command line. Free online tool, no registration required."
 category: common

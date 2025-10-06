@@ -1,7 +1,7 @@
 ---
 title: "Resolve Path - Display Absolute Paths | Online Free DevTools by Hexmos"
 name: realpath
-path: /freedevtools/tldr/common/realpath
+path: "/freedevtools/tldr/common/realpath/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/realpath/"
 description: "Resolve absolute paths with realpath. Instantly convert relative paths to absolute paths, ensuring clarity and consistency. Free online tool, no registration required."
 category: common

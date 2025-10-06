@@ -1,7 +1,7 @@
 ---
 title: "PiVPN OpenVPN Setup - Manage VPN Connections | Online Free DevTools by Hexmos"
 name: pivpn
-path: /freedevtools/tldr/linux/pivpn
+path: "/freedevtools/tldr/linux/pivpn/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pivpn/"
 description: "Manage OpenVPN connections easily with PiVPN.  Securely add, list, and revoke client devices. Free online tool, no registration required."
 category: linux

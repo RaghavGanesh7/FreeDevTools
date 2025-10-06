@@ -1,7 +1,7 @@
 ---
 title: "Generate Random Numbers - Control Linux RNG with haveged | Online Free DevTools by Hexmos"
 name: haveged
-path: /freedevtools/tldr/linux/haveged
+path: "/freedevtools/tldr/linux/haveged/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/haveged/"
 description: "Generate random numbers on Linux with haveged. Enhance system entropy and control random number generation using command line. Free online tool, no registration required."
 category: linux

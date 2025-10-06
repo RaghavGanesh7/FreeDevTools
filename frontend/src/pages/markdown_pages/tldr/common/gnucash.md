@@ -1,7 +1,7 @@
 ---
 title: "Manage Finances - GnuCash Accounting | Online Free DevTools by Hexmos"
 name: gnucash
-path: /freedevtools/tldr/common/gnucash
+path: "/freedevtools/tldr/common/gnucash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gnucash/"
 description: "Manage finances with GnuCash, your personal and small business accounting software. Track expenses, create budgets, and generate reports. Free online tool, no registration required."
 category: common

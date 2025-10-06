@@ -1,7 +1,7 @@
 ---
 title: "Capture Network Packets - Sniff Network Traffic | Online Free DevTools by Hexmos"
 name: sniff.py
-path: /freedevtools/tldr/common/sniff-py
+path: "/freedevtools/tldr/common/sniff-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/sniff-py/"
 description: "Capture network packets efficiently with sniff.py. Analyze network traffic and troubleshoot network issues with this packet sniffing tool. Free online tool, no registration required."
 category: common

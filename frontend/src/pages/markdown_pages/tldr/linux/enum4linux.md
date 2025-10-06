@@ -1,7 +1,7 @@
 ---
 title: "Enum4linux - Enumerate Windows & Samba | Online Free DevTools by Hexmos"
 name: enum4linux
-path: /freedevtools/tldr/linux/enum4linux
+path: "/freedevtools/tldr/linux/enum4linux/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/enum4linux/"
 description: "Enumerate Windows and Samba information with Enum4linux.  Discover usernames, shares, and OS information remotely. Free online tool, no registration required."
 category: linux

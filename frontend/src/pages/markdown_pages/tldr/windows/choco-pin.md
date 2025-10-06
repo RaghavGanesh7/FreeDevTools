@@ -1,7 +1,7 @@
 ---
 title: "Choco Pin - Control Package Versions | Online Free DevTools by Hexmos"
 name: choco-pin
-path: /freedevtools/tldr/windows/choco-pin
+path: "/freedevtools/tldr/windows/choco-pin/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-pin/"
 description: "Control package versions with Choco Pin on Windows. Prevent unwanted upgrades and maintain stable environments. Free online tool, no registration required."
 category: windows

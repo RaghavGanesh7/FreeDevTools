@@ -1,7 +1,7 @@
 ---
 title: "Control Completion Options - Bash Compopt | Online Free DevTools by Hexmos"
 name: compopt
-path: /freedevtools/tldr/common/compopt
+path: "/freedevtools/tldr/common/compopt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/compopt/"
 description: "Control Bash completion options with Compopt. Configure command completion behavior, enabling or disabling specific flags. Free online tool, no registration required."
 category: common

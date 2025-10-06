@@ -1,7 +1,7 @@
 ---
 title: "Generate ASCII Art - Figlet Text Banners | Online Free DevTools by Hexmos"
 name: figlet
-path: /freedevtools/tldr/common/figlet
+path: "/freedevtools/tldr/common/figlet/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/figlet/"
 description: "Generate ASCII art with Figlet for banners and text graphics. Create impressive terminal displays using custom fonts. Free online tool, no registration required."
 category: common

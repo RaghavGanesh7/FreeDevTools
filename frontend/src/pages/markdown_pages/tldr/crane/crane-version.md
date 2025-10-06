@@ -1,7 +1,7 @@
 ---
 title: "Crane Version - Display Binary Version | Online Free DevTools by Hexmos"
 name: crane-version
-path: /freedevtools/tldr/crane/crane-version
+path: "/freedevtools/tldr/crane/crane-version/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-version/"
 description: "Display binary versions easily with Crane Version. Inspect container image build information and dependencies quickly. Free online tool, no registration required."
 category: common

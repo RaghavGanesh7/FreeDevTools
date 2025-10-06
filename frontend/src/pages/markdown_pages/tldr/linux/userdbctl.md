@@ -1,7 +1,7 @@
 ---
 title: "User Database Control - Inspect Users and Groups | Online Free DevTools by Hexmos"
 name: userdbctl
-path: /freedevtools/tldr/linux/userdbctl
+path: "/freedevtools/tldr/linux/userdbctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/userdbctl/"
 description: "Inspect users and groups with userdbctl. Analyze system user databases and manage memberships. Free online tool, no registration required."
 category: linux

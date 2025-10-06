@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM to GIF - Image Converter | Online Free DevTools by Hexmos"
 name: pamtogif
-path: /freedevtools/tldr/common/pamtogif
+path: "/freedevtools/tldr/common/pamtogif/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtogif/"
 description: "Convert PAM images to GIF with Pamtogif. Efficiently transform Netpbm images to GIFs for web use and archival. Free online tool, no registration required."
 category: common

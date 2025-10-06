@@ -1,7 +1,7 @@
 ---
 title: "Countdown Timer - Control Terminal Timers | Online Free DevTools by Hexmos"
 name: termdown
-path: /freedevtools/tldr/common/termdown
+path: "/freedevtools/tldr/common/termdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/termdown/"
 description: "Control terminal timers with termdown, a versatile countdown timer and stopwatch. Monitor elapsed time and set alarms directly from your command line. Free online tool, no registration required."
 category: common

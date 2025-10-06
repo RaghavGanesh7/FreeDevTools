@@ -1,7 +1,7 @@
 ---
 title: "Create AWS CUR - Query Usage Reports | Online Free DevTools by Hexmos"
 name: aws-cur
-path: /freedevtools/tldr/aws/aws-cur
+path: "/freedevtools/tldr/aws/aws-cur/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-cur/"
 description: "Create AWS Cost Usage Reports (CUR) with aws-cur. Analyze spending, identify trends, and optimize cloud expenses. Free online tool, no registration required."
 category: common

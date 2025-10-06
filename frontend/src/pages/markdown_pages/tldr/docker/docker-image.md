@@ -1,7 +1,7 @@
 ---
 title: "Manage Docker Images - Control Container Images | Online Free DevTools by Hexmos"
 name: docker-image
-path: /freedevtools/tldr/docker/docker-image
+path: "/freedevtools/tldr/docker/docker-image/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-image/"
 description: "Manage Docker images with this command line tool. Delete unused images, view history, and optimize container storage. Free online tool, no registration required."
 category: common

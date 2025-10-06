@@ -1,7 +1,7 @@
 ---
 title: "Control Linux Terminal - Open LXTerminal Windows | Online Free DevTools by Hexmos"
 name: lxterminal
-path: /freedevtools/tldr/linux/lxterminal
+path: "/freedevtools/tldr/linux/lxterminal/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxterminal/"
 description: "Control Linux terminal windows with LXTerminal. Open multiple tabs, set custom titles, and specify working directories. Free online tool, no registration required."
 category: linux

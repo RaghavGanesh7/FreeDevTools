@@ -1,7 +1,7 @@
 ---
 title: "Google Chrome - Launch Browser from Command Line | Online Free DevTools by Hexmos"
 name: google-chrome
-path: /freedevtools/tldr/common/google-chrome
+path: "/freedevtools/tldr/common/google-chrome/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/google-chrome/"
 description: "Launch Google Chrome from your terminal with this command alias. Easily open websites and manage browser instances. Free online tool, no registration required."
 category: common

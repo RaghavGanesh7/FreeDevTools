@@ -1,7 +1,7 @@
 ---
 title: "Control IRC Sessions - Simple IRC Client | Online Free DevTools by Hexmos"
 name: sic
-path: /freedevtools/tldr/linux/sic
+path: "/freedevtools/tldr/linux/sic/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sic/"
 description: "Control IRC sessions with sic, a simple IRC client. Connect to servers, manage channels, and send messages directly from the Linux command line. Free online tool, no registration required."
 category: linux

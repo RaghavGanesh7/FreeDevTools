@@ -1,7 +1,7 @@
 ---
 title: "Create Self-Extracting Zip - unzipsfx | Online Free DevTools by Hexmos"
 name: unzipsfx
-path: /freedevtools/tldr/linux/unzipsfx
+path: "/freedevtools/tldr/linux/unzipsfx/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unzipsfx/"
 description: "Create self-extracting Zip files with unzipsfx for easy file distribution on Linux. Securely compress and distribute your files. Free online tool, no registration required."
 category: linux

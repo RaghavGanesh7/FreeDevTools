@@ -1,7 +1,7 @@
 ---
 title: "Manage Ruby Versions - Control Environments | Online Free DevTools by Hexmos"
 name: rbenv
-path: /freedevtools/tldr/common/rbenv
+path: "/freedevtools/tldr/common/rbenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rbenv/"
 description: "Manage Ruby versions easily with rbenv, a command-line tool for controlling Ruby environments. Install, uninstall, and switch between Ruby versions. Free online tool, no registration required."
 category: common

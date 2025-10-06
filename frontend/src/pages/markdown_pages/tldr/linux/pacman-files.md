@@ -1,7 +1,7 @@
 ---
 title: "Control Pacman Files - Manage Arch Linux Packages | Online Free DevTools by Hexmos"
 name: pacman-files
-path: /freedevtools/tldr/linux/pacman-files
+path: "/freedevtools/tldr/linux/pacman-files/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-files/"
 description: "Control package files with Pacman Files, the Arch Linux package manager utility. Search for files within packages, and update package databases. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "CIDR Management - Control Network Prefixes | Online Free DevTools by Hexmos"
 name: cidr
-path: /freedevtools/tldr/common/cidr
+path: "/freedevtools/tldr/common/cidr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cidr/"
 description: "Control IPv4/IPv6 CIDR network prefixes with CIDR Management. Simplify counting, overlap checking, and subdivision tasks. Free online tool, no registration required."
 category: common

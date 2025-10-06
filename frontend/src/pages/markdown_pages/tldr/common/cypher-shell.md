@@ -1,7 +1,7 @@
 ---
 title: "Cypher Query - Run Queries on Neo4j | Online Free DevTools by Hexmos"
 name: cypher-shell
-path: /freedevtools/tldr/common/cypher-shell
+path: "/freedevtools/tldr/common/cypher-shell/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cypher-shell/"
 description: "Run Cypher queries with cypher-shell. Connect to Neo4j instances, execute Cypher statements and manage your database. Free online tool, no registration required."
 category: common

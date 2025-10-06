@@ -1,7 +1,7 @@
 ---
 title: "Expand Text - Format Text with gexpand | Online Free DevTools by Hexmos"
 name: gexpand
-path: /freedevtools/tldr/osx/gexpand
+path: "/freedevtools/tldr/osx/gexpand/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gexpand/"
 description: "Format text with gexpand on macOS. Compress or expand text, control tab spacing and create formatted output effortlessly. Free online tool, no registration required."
 category: osx

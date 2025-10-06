@@ -1,7 +1,7 @@
 ---
 title: "Ifconfig - Control Network Interfaces | Online Free DevTools by Hexmos"
 name: ifconfig
-path: /freedevtools/tldr/common/ifconfig
+path: "/freedevtools/tldr/common/ifconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ifconfig/"
 description: "Control network interfaces with Ifconfig. Configure IP addresses and manage network settings for different interfaces. Free online tool, no registration required."
 category: common

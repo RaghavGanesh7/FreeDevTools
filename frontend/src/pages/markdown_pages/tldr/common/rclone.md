@@ -1,7 +1,7 @@
 ---
 title: "Control Cloud Files - rclone Copy/Sync | Online Free DevTools by Hexmos"
 name: rclone
-path: /freedevtools/tldr/common/rclone
+path: "/freedevtools/tldr/common/rclone/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rclone/"
 description: "Control cloud files with rclone. Copy, sync, and manage files across various cloud services. Free online tool, no registration required."
 category: common

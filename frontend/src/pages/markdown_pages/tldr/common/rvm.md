@@ -1,7 +1,7 @@
 ---
 title: "Manage Ruby Environments - Control RVM | Online Free DevTools by Hexmos"
 name: rvm
-path: /freedevtools/tldr/common/rvm
+path: "/freedevtools/tldr/common/rvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rvm/"
 description: "Manage multiple Ruby versions with RVM. Effortlessly install, switch, and uninstall Ruby environments. Free online tool, no registration required."
 category: common

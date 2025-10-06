@@ -1,7 +1,7 @@
 ---
 title: "Convert Leaf Image - Generate PPM Images | Online Free DevTools by Hexmos"
 name: leaftoppm
-path: "/freedevtools/tldr/common/leaftoppm"
+path: "/freedevtools/tldr/common/leaftoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/leaftoppm/"
 description: "Generate PPM images with leaftoppm. Convert Interleaf images to PPM format quickly. Free online tool, no registration required."
 category: common

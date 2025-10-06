@@ -1,7 +1,7 @@
 ---
 title: "Btrfs Balance - Manage Block Groups | Online Free DevTools by Hexmos"
 name: btrfs-balance
-path: /freedevtools/tldr/linux/btrfs-balance
+path: "/freedevtools/tldr/linux/btrfs-balance/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrfs-balance/"
 description: "Balance Btrfs filesystem block groups efficiently with btrfs-balance.  Control disk space utilization and optimize performance. Free online tool, no registration required."
 category: linux

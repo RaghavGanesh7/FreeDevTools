@@ -1,7 +1,7 @@
 ---
 title: "Master Vim Editor - Learn Vim Commands | Online Free DevTools by Hexmos"
 name: vimtutor
-path: /freedevtools/tldr/common/vimtutor
+path: "/freedevtools/tldr/common/vimtutor/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vimtutor/"
 description: "Master the Vim editor using Vimtutor. Learn essential Vim commands for efficient text editing and navigation. Free online tool, no registration required."
 category: common

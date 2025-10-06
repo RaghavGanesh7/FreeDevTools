@@ -1,7 +1,7 @@
 ---
 title: "Generate Python Documentation - pydoc | Online Free DevTools by Hexmos"
 name: pydoc
-path: /freedevtools/tldr/common/pydoc
+path: "/freedevtools/tldr/common/pydoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pydoc/"
 description: "Generate Python documentation with pydoc. Explore modules, classes, and functions offline. Easy access to Python docs. Free online tool, no registration required."
 category: common

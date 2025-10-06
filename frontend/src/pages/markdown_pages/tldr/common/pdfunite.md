@@ -1,7 +1,7 @@
 ---
 title: "PDF Merger - Create Combined PDFs | Online Free DevTools by Hexmos"
 name: pdfunite
-path: /freedevtools/tldr/common/pdfunite
+path: "/freedevtools/tldr/common/pdfunite/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfunite/"
 description: "Create combined PDFs with pdfunite. Easily merge multiple PDF documents into a single file with this command line tool. Free online tool, no registration required."
 category: common

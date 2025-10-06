@@ -1,7 +1,7 @@
 ---
 title: "Slurm Trigger - Control Cluster Actions | Online Free DevTools by Hexmos"
 name: strigger
-path: /freedevtools/tldr/linux/strigger
+path: "/freedevtools/tldr/linux/strigger/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/strigger/"
 description: "Control Slurm cluster actions with Slurm Trigger. Automate tasks, monitor events, and manage jobs through command line triggers. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Delete Package - Remove Packages on OpenBSD | Online Free DevTools by Hexmos"
 name: pkg_delete
-path: /freedevtools/tldr/openbsd/pkg_delete
+path: "/freedevtools/tldr/openbsd/pkg_delete/"
 canonical: "https://hexmos.com/freedevtools/tldr/openbsd/pkg_delete/"
 description: "Remove packages quickly with pkg_delete for OpenBSD. Manage software installations and clean up unused dependencies efficiently. Free online tool, no registration required."
 category: openbsd

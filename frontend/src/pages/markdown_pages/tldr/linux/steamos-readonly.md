@@ -1,7 +1,7 @@
 ---
 title: "Control Filesystem Readonly - Enable/Disable | Online Free DevTools by Hexmos"
 name: steamos-readonly
-path: /freedevtools/tldr/linux/steamos-readonly
+path: "/freedevtools/tldr/linux/steamos-readonly/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-readonly/"
 description: "Control filesystem readonly status with steamos-readonly. Secure your Linux system or enable modifications with ease. Free online tool, no registration required."
 category: linux

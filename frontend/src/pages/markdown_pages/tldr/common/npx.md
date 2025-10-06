@@ -1,7 +1,7 @@
 ---
 title: "Execute NPM Packages - Run Commands with NPX | Online Free DevTools by Hexmos"
 name: npx
-path: /freedevtools/tldr/common/npx
+path: "/freedevtools/tldr/common/npx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/npx/"
 description: "Execute NPM packages instantly with NPX. Run commands, specify packages, and suppress output using this command-line tool. Free online tool, no registration required."
 category: common

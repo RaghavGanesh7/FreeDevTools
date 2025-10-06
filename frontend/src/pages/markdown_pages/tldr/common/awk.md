@@ -1,7 +1,7 @@
 ---
 title: "AWK - Process Text Files | Online Free DevTools by Hexmos"
 name: awk
-path: /freedevtools/tldr/common/awk
+path: "/freedevtools/tldr/common/awk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/awk/"
 description: "Process text files with AWK. Extract data, manipulate content, and perform calculations effortlessly using AWK. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Render Markdown - View Terminal Markdown with Glow | Online Free DevTools by Hexmos"
 name: glow
-path: /freedevtools/tldr/common/glow
+path: "/freedevtools/tldr/common/glow/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/glow/"
 description: "Render Markdown files easily with Glow. View formatted Markdown in the terminal, from local files, URLs, or Git repositories. Free online tool, no registration required."
 category: common

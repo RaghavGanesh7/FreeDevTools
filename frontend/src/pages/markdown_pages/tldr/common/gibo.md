@@ -1,7 +1,7 @@
 ---
 title: "Generate Gitignore Boilerplates - Fetch Configurations | Online Free DevTools by Hexmos"
 name: gibo
-path: /freedevtools/tldr/common/gibo
+path: "/freedevtools/tldr/common/gibo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gibo/"
 description: "Generate Gitignore boilerplates instantly with Gibo, streamlining Git repository configuration. Create customized .gitignore files for various projects. Free online tool, no registration required."
 category: common

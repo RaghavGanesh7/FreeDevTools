@@ -1,7 +1,7 @@
 ---
 title: "For Command - Execute Commands Iteratively | Online Free DevTools by Hexmos"
 name: for
-path: /freedevtools/tldr/windows/for
+path: "/freedevtools/tldr/windows/for/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/for/"
 description: "Execute commands iteratively with the 'for' command in your terminal. Simplify repetitive tasks and automate workflows. Free online tool, no registration required."
 category: windows

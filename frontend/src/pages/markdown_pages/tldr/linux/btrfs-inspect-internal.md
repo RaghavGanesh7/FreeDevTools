@@ -1,7 +1,7 @@
 ---
 title: "Btrfs Inspect - Query Filesystem | Online Free DevTools by Hexmos"
 name: btrfs-inspect-internal
-path: /freedevtools/tldr/linux/btrfs-inspect-internal
+path: "/freedevtools/tldr/linux/btrfs-inspect-internal/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrfs-inspect-internal/"
 description: "Query filesystem details with Btrfs Inspect-Internal on Linux. Analyze metadata and troubleshoot your Btrfs file system. Free online tool, no registration required."
 category: linux

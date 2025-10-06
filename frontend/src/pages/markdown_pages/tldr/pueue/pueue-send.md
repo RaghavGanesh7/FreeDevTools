@@ -1,7 +1,7 @@
 ---
 title: "Pueue Send - Input To Task | Online Free DevTools by Hexmos"
 name: pueue-send
-path: /freedevtools/tldr/pueue/pueue-send
+path: "/freedevtools/tldr/pueue/pueue-send/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-send/"
 description: "Send input to a Pueue task with Pueue Send. Manage task interactions and automate processes. Free online tool, no registration required."
 category: common

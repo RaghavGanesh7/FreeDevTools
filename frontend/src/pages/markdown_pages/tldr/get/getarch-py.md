@@ -1,7 +1,7 @@
 ---
 title: "Determine OS Architecture - Check Remote Windows Systems | Online Free DevTools by Hexmos"
 name: getarch.py
-path: /freedevtools/tldr/get/getarch-py
+path: "/freedevtools/tldr/get/getarch-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/get/getarch-py/"
 description: "Determine OS architecture with getArch.py. Check the architecture of remote Windows systems using the Impacket suite. Free online tool, no registration required."
 category: common

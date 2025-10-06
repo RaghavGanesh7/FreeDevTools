@@ -1,7 +1,7 @@
 ---
 title: "Cam - Control Linux Camera Feed | Online Free DevTools by Hexmos"
 name: cam
-path: /freedevtools/tldr/linux/cam
+path: "/freedevtools/tldr/linux/cam/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cam/"
 description: "Control Linux camera feed with Cam. Capture frames, list camera controls, and display real-time feeds in a window. Free online tool, no registration required."
 category: linux

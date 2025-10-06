@@ -1,7 +1,7 @@
 ---
 title: "Sysdig - Capture System Calls | Online Free DevTools by Hexmos"
 name: sysdig
-path: /freedevtools/tldr/linux/sysdig
+path: "/freedevtools/tldr/linux/sysdig/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sysdig/"
 description: "Capture system calls with Sysdig for in-depth system analysis. Troubleshoot, filter, and store system events efficiently. Free online tool, no registration required."
 category: linux

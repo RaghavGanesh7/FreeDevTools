@@ -1,7 +1,7 @@
 ---
 title: "Wezterm Emulator - Create Terminal Windows | Online Free DevTools by Hexmos"
 name: wezterm
-path: /freedevtools/tldr/common/wezterm
+path: "/freedevtools/tldr/common/wezterm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wezterm/"
 description: "Create terminal windows with Wezterm Emulator, a cross-platform terminal multiplexer. Enhance your command-line workflow with session recording and image output. Free online tool, no registration required."
 category: common

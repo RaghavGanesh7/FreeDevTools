@@ -1,7 +1,7 @@
 ---
 title: "GPupdate - Control Group Policy Updates | Online Free DevTools by Hexmos"
 name: gpupdate
-path: /freedevtools/tldr/windows/gpupdate
+path: "/freedevtools/tldr/windows/gpupdate/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/gpupdate/"
 description: "Control Windows Group Policy updates with GPupdate. Force updates, target specific settings, and manage group policies on your Windows system. Free online tool, no registration required."
 category: windows

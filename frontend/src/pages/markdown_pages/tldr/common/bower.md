@@ -1,7 +1,7 @@
 ---
 title: "Bower Package Manager - Manage Web Dependencies | Online Free DevTools by Hexmos"
 name: bower
-path: /freedevtools/tldr/common/bower
+path: "/freedevtools/tldr/common/bower/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bower/"
 description: "Manage front-end web dependencies with Bower Package Manager. Install, uninstall, and list packages. Simplify web development. Free online tool, no registration required."
 category: common

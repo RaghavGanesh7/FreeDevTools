@@ -1,7 +1,7 @@
 ---
 title: "Parquet Tools - Inspect Parquet Files | Online Free DevTools by Hexmos"
 name: parquet-tools
-path: /freedevtools/tldr/common/parquet-tools
+path: "/freedevtools/tldr/common/parquet-tools/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/parquet-tools/"
 description: "Inspect Parquet files with Parquet Tools. View schema and metadata, merge, and get row counts easily. Free online tool, no registration required."
 category: common

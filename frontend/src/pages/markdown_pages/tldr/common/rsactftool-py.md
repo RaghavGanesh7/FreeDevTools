@@ -1,7 +1,7 @@
 ---
 title: "RSA Key Recovery - Crack Keys with RsaCtfTool.py | Online Free DevTools by Hexmos"
 name: rsactftool.py
-path: /freedevtools/tldr/common/rsactftool-py
+path: "/freedevtools/tldr/common/rsactftool-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/rsactftool-py/"
 description: "Recover RSA private keys with RsaCtfTool.py, a CTF RSA cracking tool. Decrypt ciphertexts and analyze weak keys effortlessly. Free online tool, no registration required."
 category: common

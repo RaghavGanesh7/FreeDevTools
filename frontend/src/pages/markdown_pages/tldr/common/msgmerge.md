@@ -1,7 +1,7 @@
 ---
 title: "Update Translation File - msgmerge | Online Free DevTools by Hexmos"
 name: msgmerge
-path: /freedevtools/tldr/common/msgmerge
+path: "/freedevtools/tldr/common/msgmerge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msgmerge/"
 description: "Update translation files with msgmerge. Merge changes from template files into existing translations. Free online tool, no registration required."
 category: common

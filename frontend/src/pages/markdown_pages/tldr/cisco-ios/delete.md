@@ -1,7 +1,7 @@
 ---
 title: "Delete Cisco IOS Files - Erase Flash Memory | Online Free DevTools by Hexmos"
 name: delete
-path: /freedevtools/tldr/cisco-ios/delete
+path: "/freedevtools/tldr/cisco-ios/delete/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/delete/"
 description: "Erase files with Delete Cisco IOS. Remove files from flash memory and manage storage with this tool. Free online tool, no registration required."
 category: cisco-ios

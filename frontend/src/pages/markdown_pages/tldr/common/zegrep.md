@@ -1,7 +1,7 @@
 ---
 title: "Zegrep - Search Compressed Files with Regex | Online Free DevTools by Hexmos"
 name: zegrep
-path: /freedevtools/tldr/common/zegrep
+path: "/freedevtools/tldr/common/zegrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zegrep/"
 description: "Search compressed files with Zegrep, utilizing extended regex patterns to find specific matches. Free online tool, no registration required."
 category: common

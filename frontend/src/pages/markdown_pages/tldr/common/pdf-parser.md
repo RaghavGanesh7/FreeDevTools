@@ -1,7 +1,7 @@
 ---
 title: "PDF Parser - Analyze PDF Files | Online Free DevTools by Hexmos"
 name: pdf-parser
-path: /freedevtools/tldr/common/pdf-parser
+path: "/freedevtools/tldr/common/pdf-parser/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdf-parser/"
 description: "Analyze PDF files quickly with PDF Parser. Identify objects, search content, and extract statistics without rendering. Free online tool, no registration required."
 category: common

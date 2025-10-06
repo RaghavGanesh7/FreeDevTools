@@ -1,7 +1,7 @@
 ---
 title: "Control Path - Manage System Paths | Online Free DevTools by Hexmos"
 name: path
-path: /freedevtools/tldr/windows/path
+path: "/freedevtools/tldr/windows/path/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/path/"
 description: "Control system paths with Path, the command line tool. Set executable search directories and modify system environment variables. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Machine - Print Machine Type on macOS | Online Free DevTools by Hexmos"
 name: machine
-path: /freedevtools/tldr/osx/machine
+path: "/freedevtools/tldr/osx/machine/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/machine/"
 description: "Print machine type quickly with machine command. Determine CPU architecture and system information on macOS via command line. Free online tool, no registration required."
 category: osx

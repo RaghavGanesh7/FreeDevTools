@@ -1,7 +1,7 @@
 ---
 title: "Control Files - Manage Files with nnn | Online Free DevTools by Hexmos"
 name: nnn
-path: /freedevtools/tldr/common/nnn
+path: "/freedevtools/tldr/common/nnn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nnn/"
 description: "Manage files efficiently with nnn, an interactive terminal file manager. Analyze disk usage, sort files and open bookmarks in a terminal. Free online tool, no registration required."
 category: common

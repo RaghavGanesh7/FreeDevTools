@@ -1,7 +1,7 @@
 ---
 title: "Telnet - Connect to Remote Host | Online Free DevTools by Hexmos"
 name: telnet
-path: /freedevtools/tldr/common/telnet
+path: "/freedevtools/tldr/common/telnet/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/telnet/"
 description: "Connect with Telnet to manage remote connections on various hosts. Access systems and transmit data using the Telnet protocol. Free online tool, no registration required."
 category: common

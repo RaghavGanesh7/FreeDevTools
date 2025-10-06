@@ -1,7 +1,7 @@
 ---
 title: "Java Debugger - Analyze Java Processes | Online Free DevTools by Hexmos"
 name: jhsdb
-path: "/freedevtools/tldr/common/jhsdb"
+path: "/freedevtools/tldr/common/jhsdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jhsdb/"
 description: "Analyze Java processes with jhsdb. Debug core dumps, examine JVM state, and troubleshoot issues using this powerful command-line tool. Free online tool, no registration required."
 category: common

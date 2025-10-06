@@ -1,7 +1,7 @@
 ---
 title: "OpenStack Volume - Manage Volumes | Online Free DevTools by Hexmos"
 name: openstack-volume
-path: /freedevtools/tldr/openstack/openstack-volume
+path: "/freedevtools/tldr/openstack/openstack-volume/"
 canonical: "https://hexmos.com/freedevtools/tldr/openstack/openstack-volume/"
 description: "Manage OpenStack volumes with OpenStack Volume. Create, delete, and migrate volumes using this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Email Account Checker - Check Email Availability | Online Free DevTools by Hexmos"
 name: holehe
-path: /freedevtools/tldr/common/holehe
+path: "/freedevtools/tldr/common/holehe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/holehe/"
 description: "Check email account availability with Email Account Checker (holehe). Verify if an email is registered across multiple websites and platforms. Free online tool, no registration required."
 category: common
