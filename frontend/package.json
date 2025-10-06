@@ -10,6 +10,7 @@
     "dev": "NODE_OPTIONS='--max-old-space-size=16384' UV_THREADPOOL_SIZE=16 astro dev",
     "start": "astro dev",
     "build": "NODE_OPTIONS='--max-old-space-size=16384' UV_THREADPOOL_SIZE=16 astro build",
+    "build:mcp": "node scripts/build-mcp.js",
     "preview": "astro preview",
     "astro": "astro",
     "test": "vitest --run",
