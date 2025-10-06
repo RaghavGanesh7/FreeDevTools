@@ -25,7 +25,8 @@
         "code analysis",
         "mcp_codeanalysis code",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "302ai--302_sandbox_mcp": {
       "owner": "302ai",
@@ -48,7 +49,8 @@
         "execution servers",
         "coding agents",
         "sandbox server"
-      ]
+      ],
+      "category": "code-execution"
     },
     "AB498--code-context-provider-mcp": {
       "owner": "AB498",
@@ -71,7 +73,8 @@
         "code context",
         "llms execute",
         "code secure"
-      ]
+      ],
+      "category": "code-execution"
     },
     "Alec2435--python_mcp": {
       "owner": "Alec2435",
@@ -94,7 +97,8 @@
         "llms execute",
         "python_mcp provides",
         "execution python"
-      ]
+      ],
+      "category": "code-execution"
     },
     "AnEntrypoint--mcp-glootie": {
       "owner": "AnEntrypoint",
@@ -117,7 +121,8 @@
         "llms execute",
         "execution servers",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "Automata-Labs-team--code-sandbox-mcp": {
       "owner": "Automata-Labs-team",
@@ -140,7 +145,8 @@
         "execution servers",
         "llms execute",
         "securely execute"
-      ]
+      ],
+      "category": "code-execution"
     },
     "DynamicEndpoints--Autogen_MCP": {
       "owner": "DynamicEndpoints",
@@ -163,7 +169,8 @@
         "llms execute",
         "dynamicendpoints autogen_mcp",
         "autogen_mcp facilitates"
-      ]
+      ],
+      "category": "code-execution"
     },
     "JohanLi233--mcp-sandbox": {
       "owner": "JohanLi233",
@@ -186,7 +193,8 @@
         "llms execute",
         "mcp sandbox",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "KunihiroS--claude-code-mcp": {
       "owner": "KunihiroS",
@@ -209,7 +217,8 @@
         "llms execute",
         "execute code",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "LaurieWired--GhidraMCP": {
       "owner": "LaurieWired",
@@ -232,7 +241,8 @@
         "lauriewired ghidramcp",
         "ghidramcp enables",
         "llms execute"
-      ]
+      ],
+      "category": "code-execution"
     },
     "Leghis--smart-e2b": {
       "owner": "Leghis",
@@ -255,7 +265,8 @@
         "execution servers",
         "llms execute",
         "code securely"
-      ]
+      ],
+      "category": "code-execution"
     },
     "MladenSU--cli-mcp-server": {
       "owner": "MladenSU",
@@ -278,7 +289,8 @@
         "llms execute",
         "execution controls",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "SDGLBL--mcp-claude-code": {
       "owner": "SDGLBL",
@@ -301,7 +313,8 @@
         "llms execute",
         "code execution",
         "coding agents"
-      ]
+      ],
+      "category": "code-execution"
     },
     "Synohara--supercollider-mcp": {
       "owner": "Synohara",
@@ -324,7 +337,8 @@
         "supercollider synths",
         "llm applications",
         "llms execute"
-      ]
+      ],
+      "category": "code-execution"
     },
     "Tsuchijo--matlab-mcp": {
       "owner": "Tsuchijo",
@@ -347,7 +361,8 @@
         "matlab scripts",
         "execute matlab",
         "llms execute"
-      ]
+      ],
+      "category": "code-execution"
     },
     "Tsuchijo--sandbox-mcp": {
       "owner": "Tsuchijo",
@@ -370,7 +385,8 @@
         "llms execute",
         "execution servers",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "WilliamCloudQi--matlab-mcp-server": {
       "owner": "WilliamCloudQi",
@@ -393,7 +409,8 @@
         "execute matlab",
         "matlab ai",
         "matlab documentation"
-      ]
+      ],
+      "category": "code-execution"
     },
     "YuChenSSR--symbolica-mcp": {
       "owner": "YuChenSSR",
@@ -416,7 +433,8 @@
         "symbolic computing",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "ZbigniewTomanek--my-mcp-server": {
       "owner": "ZbigniewTomanek",
@@ -439,7 +457,8 @@
         "llms execute",
         "execution servers",
         "coding agents"
-      ]
+      ],
+      "category": "code-execution"
     },
     "a2888409--CSAPP": {
       "owner": "a2888409",
@@ -462,7 +481,8 @@
         "execution servers",
         "llms execute",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "alfonsograziano--node-code-sandbox-mcp": {
       "owner": "alfonsograziano",
@@ -485,7 +505,8 @@
         "llms execute",
         "code sandbox",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "apvlv--davinci-resolve-mcp": {
       "owner": "apvlv",
@@ -508,7 +529,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "auchenberg--claude-code-mcp": {
       "owner": "auchenberg",
@@ -531,7 +553,8 @@
         "llms execute",
         "code execution",
         "execute code"
-      ]
+      ],
+      "category": "code-execution"
     },
     "axliupore--mcp-code-runner": {
       "owner": "axliupore",
@@ -554,7 +577,8 @@
         "execution servers",
         "llms execute",
         "code securely"
-      ]
+      ],
+      "category": "code-execution"
     },
     "babelcloud--gbox": {
       "owner": "babelcloud",
@@ -577,7 +601,8 @@
         "execution servers",
         "llms execute",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "bazinga012--mcp_code_executor": {
       "owner": "bazinga012",
@@ -600,7 +625,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "biegehydra--BifrostMCP": {
       "owner": "biegehydra",
@@ -623,7 +649,8 @@
         "vscode development",
         "llms execute",
         "coding agents"
-      ]
+      ],
+      "category": "code-execution"
     },
     "block--vscode-mcp": {
       "owner": "block",
@@ -646,7 +673,8 @@
         "vs code",
         "block vscode",
         "vscode mcp"
-      ]
+      ],
+      "category": "code-execution"
     },
     "bmorphism--babashka-mcp-server": {
       "owner": "bmorphism",
@@ -669,7 +697,8 @@
         "llms execute",
         "execution servers",
         "clojure scripts"
-      ]
+      ],
+      "category": "code-execution"
     },
     "cfdude--super-shell-mcp": {
       "owner": "cfdude",
@@ -692,7 +721,8 @@
         "llms execute",
         "commands securely",
         "command management"
-      ]
+      ],
+      "category": "code-execution"
     },
     "charles-adedotun--Lilith-Shell": {
       "owner": "charles-adedotun",
@@ -715,7 +745,8 @@
         "llms execute",
         "execution servers",
         "execute code"
-      ]
+      ],
+      "category": "code-execution"
     },
     "chrishayuk--mcp-code-sandbox": {
       "owner": "chrishayuk",
@@ -738,7 +769,8 @@
         "code sandbox",
         "llms execute",
         "code secure"
-      ]
+      ],
+      "category": "code-execution"
     },
     "ckanthony--openapi-mcp": {
       "owner": "ckanthony",
@@ -761,7 +793,8 @@
         "llms execute",
         "mcp openapi",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "codacy--codacy-mcp-server": {
       "owner": "codacy",
@@ -784,7 +817,8 @@
         "llms execute",
         "execution servers",
         "management code"
-      ]
+      ],
+      "category": "code-execution"
     },
     "colesmcintosh--numpy-mcp": {
       "owner": "colesmcintosh",
@@ -807,7 +841,8 @@
         "llms execute",
         "seamlessly llms",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "crazyrabbitLTC--mcp-code-review-server": {
       "owner": "crazyrabbitLTC",
@@ -830,7 +865,8 @@
         "llms execute",
         "code reviews",
         "code review"
-      ]
+      ],
+      "category": "code-execution"
     },
     "dagger--container-use": {
       "owner": "dagger",
@@ -853,7 +889,8 @@
         "agent environments",
         "execution servers",
         "coding agents"
-      ]
+      ],
+      "category": "code-execution"
     },
     "e2b-dev--mcp-server": {
       "owner": "e2b-dev",
@@ -876,7 +913,8 @@
         "e2b dev",
         "llms execute",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "essenecrucix-netizen--jarvis": {
       "owner": "essenecrucix-netizen",
@@ -899,7 +937,8 @@
         "llms execute",
         "coding agents",
         "coding assistant"
-      ]
+      ],
+      "category": "code-execution"
     },
     "ezyang--codemcp": {
       "owner": "ezyang",
@@ -922,7 +961,8 @@
         "llms execute",
         "codemcp enhance",
         "ezyang codemcp"
-      ]
+      ],
+      "category": "code-execution"
     },
     "formulahendry--mcp-server-code-runner": {
       "owner": "formulahendry",
@@ -945,7 +985,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "g0t4--mcp-server-commands": {
       "owner": "g0t4",
@@ -968,7 +1009,8 @@
         "llms execute",
         "execution servers",
         "server commands"
-      ]
+      ],
+      "category": "code-execution"
     },
     "garc33--js-sandbox-mcp-server": {
       "owner": "garc33",
@@ -991,7 +1033,8 @@
         "garc33 js",
         "llms execute",
         "secure javascript"
-      ]
+      ],
+      "category": "code-execution"
     },
     "gianlucamazza--mcp_python_toolbox": {
       "owner": "gianlucamazza",
@@ -1014,7 +1057,8 @@
         "mcp_python_toolbox facilitates",
         "llms execute",
         "code managing"
-      ]
+      ],
+      "category": "code-execution"
     },
     "gwbischof--outsource-mcp": {
       "owner": "gwbischof",
@@ -1037,7 +1081,8 @@
         "coding agents",
         "ai assistant",
         "ai assistants"
-      ]
+      ],
+      "category": "code-execution"
     },
     "hdresearch--mcp-python": {
       "owner": "hdresearch",
@@ -1060,7 +1105,8 @@
         "llms execute",
         "execution servers",
         "execute code"
-      ]
+      ],
+      "category": "code-execution"
     },
     "hileamlakB--PRIMS": {
       "owner": "hileamlakB",
@@ -1083,7 +1129,8 @@
         "llms execute",
         "execution servers",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "hloiseaufcms--mcp-gopls": {
       "owner": "hloiseaufcms",
@@ -1106,7 +1153,8 @@
         "coding agents",
         "code execution",
         "code analysis"
-      ]
+      ],
+      "category": "code-execution"
     },
     "jacklandis29--codechecker-mcp": {
       "owner": "jacklandis29",
@@ -1129,7 +1177,8 @@
         "codechecker mcp",
         "code analysis",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "jigarbhoye04--MatlabMCP": {
       "owner": "jigarbhoye04",
@@ -1152,7 +1201,8 @@
         "execute matlab",
         "llms execute",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "jjsantos01--jupyter-notebook-mcp": {
       "owner": "jjsantos01",
@@ -1175,7 +1225,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "juehang--vscode-mcp-server": {
       "owner": "juehang",
@@ -1198,7 +1249,8 @@
         "juehang vscode",
         "vs code",
         "vscode mcp"
-      ]
+      ],
+      "category": "code-execution"
     },
     "lawrenciumLr103--code-interpreter": {
       "owner": "lawrenciumLr103",
@@ -1221,7 +1273,8 @@
         "llms execute",
         "code secure",
         "code interpreter"
-      ]
+      ],
+      "category": "code-execution"
     },
     "lekt9--wcgw": {
       "owner": "lekt9",
@@ -1244,7 +1297,8 @@
         "lekt9 wcgw",
         "llms execute",
         "wcgw empowers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "lfpicoloto1--mcp-vm-server": {
       "owner": "lfpicoloto1",
@@ -1267,7 +1321,8 @@
         "llms execute",
         "llms sandboxed",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "mark-oori--mcpserve": {
       "owner": "mark-oori",
@@ -1290,7 +1345,8 @@
         "execution servers",
         "llms execute",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "mattmorgis--nuanced-mcp": {
       "owner": "mattmorgis",
@@ -1313,7 +1369,8 @@
         "code execution",
         "code structures",
         "llms execute"
-      ]
+      ],
+      "category": "code-execution"
     },
     "maxim-saplin--mcp_safe_local_python_executor": {
       "owner": "maxim-saplin",
@@ -1336,7 +1393,8 @@
         "execution environment",
         "saplin mcp_safe_local_python_executor",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "mcpc-tech--mcpc": {
       "owner": "mcpc-tech",
@@ -1359,7 +1417,8 @@
         "mcpc tech",
         "agents mcpc",
         "mcpc run"
-      ]
+      ],
+      "category": "code-execution"
     },
     "mettamatt--code-reasoning": {
       "owner": "mettamatt",
@@ -1382,7 +1441,8 @@
         "code execution",
         "code analysis",
         "mettamatt code"
-      ]
+      ],
+      "category": "code-execution"
     },
     "mouadenna--mcp-code-executor-server": {
       "owner": "mouadenna",
@@ -1405,7 +1465,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "nibzard--daytona-mcp-interpreter": {
       "owner": "nibzard",
@@ -1428,7 +1489,8 @@
         "llms execute",
         "interpreter executes",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "openSVM--zig-mcp-server": {
       "owner": "openSVM",
@@ -1451,7 +1513,8 @@
         "opensvm zig",
         "zig programs",
         "llms execute"
-      ]
+      ],
+      "category": "code-execution"
     },
     "oraios--serena": {
       "owner": "oraios",
@@ -1474,7 +1537,8 @@
         "coding agents",
         "coding agent",
         "code entities"
-      ]
+      ],
+      "category": "code-execution"
     },
     "ouvreboite--openapi-to-mcp": {
       "owner": "ouvreboite",
@@ -1497,7 +1561,8 @@
         "llms execute",
         "execution servers",
         "openapi mcp"
-      ]
+      ],
+      "category": "code-execution"
     },
     "pablof7z--tenex-tools": {
       "owner": "pablof7z",
@@ -1520,7 +1585,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "pansila--mcp_server_gdb": {
       "owner": "pansila",
@@ -1543,7 +1609,8 @@
         "execution servers",
         "llms execute",
         "execution control"
-      ]
+      ],
+      "category": "code-execution"
     },
     "philipp-eisen--modal-mcp-toolbox": {
       "owner": "philipp-eisen",
@@ -1566,7 +1633,8 @@
         "llms execute",
         "environment coding",
         "coding agents"
-      ]
+      ],
+      "category": "code-execution"
     },
     "pottekkat--sandbox-mcp": {
       "owner": "pottekkat",
@@ -1589,7 +1657,8 @@
         "llms execute",
         "environment llms",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "pydantic--pydantic-ai/mcp-run-python": {
       "owner": "pydantic",
@@ -1612,7 +1681,8 @@
         "llms execute",
         "code secure",
         "secure sandbox"
-      ]
+      ],
+      "category": "code-execution"
     },
     "r33drichards--mcp-js": {
       "owner": "r33drichards",
@@ -1635,7 +1705,8 @@
         "llms execute",
         "execution servers",
         "execution sandbox"
-      ]
+      ],
+      "category": "code-execution"
     },
     "riza-io--riza-mcp": {
       "owner": "riza-io",
@@ -1658,7 +1729,8 @@
         "riza api",
         "llms execute",
         "agents riza"
-      ]
+      ],
+      "category": "code-execution"
     },
     "robotmcp--ros-mcp-server": {
       "owner": "robotmcp",
@@ -1681,7 +1753,8 @@
         "robotmcp ros",
         "ros commands",
         "commands ros"
-      ]
+      ],
+      "category": "code-execution"
     },
     "runninghare--typescript-definition-finder-mcp": {
       "owner": "runninghare",
@@ -1704,7 +1777,8 @@
         "llms execute",
         "runninghare typescript",
         "execute code"
-      ]
+      ],
+      "category": "code-execution"
     },
     "rusiaaman--wcgw": {
       "owner": "rusiaaman",
@@ -1727,7 +1801,8 @@
         "llms execute",
         "execution servers",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "sarathsp06--sourcesage": {
       "owner": "sarathsp06",
@@ -1750,7 +1825,8 @@
         "llms execute",
         "code execution",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "seekrays--seekchat": {
       "owner": "seekrays",
@@ -1773,7 +1849,8 @@
         "llms execute",
         "execution servers",
         "coding agents"
-      ]
+      ],
+      "category": "code-execution"
     },
     "signal-slot--mcp-gdb": {
       "owner": "signal-slot",
@@ -1796,7 +1873,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "skydeckai--skydeckai-code": {
       "owner": "skydeckai",
@@ -1819,7 +1897,8 @@
         "skydeckai code",
         "llms execute",
         "coding agents"
-      ]
+      ],
+      "category": "code-execution"
     },
     "stefanskiasan--semgrep-mcp-server": {
       "owner": "stefanskiasan",
@@ -1842,7 +1921,8 @@
         "llms execute",
         "execution semgrep",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "tumf--mcp-shell-server": {
       "owner": "tumf",
@@ -1865,7 +1945,8 @@
         "llms execute",
         "execution servers",
         "commands securely"
-      ]
+      ],
+      "category": "code-execution"
     },
     "twolven--mcp-codesavant": {
       "owner": "twolven",
@@ -1888,7 +1969,8 @@
         "llms execute",
         "mcp codesavant",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "wonderwhy-er--DesktopCommanderMCP": {
       "owner": "wonderwhy-er",
@@ -1911,7 +1993,8 @@
         "llms execute",
         "execution servers",
         "execute code"
-      ]
+      ],
+      "category": "code-execution"
     },
     "xuhuatao--learn-python": {
       "owner": "xuhuatao",
@@ -1934,7 +2017,8 @@
         "llms execute",
         "execution servers",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     },
     "yepcode--mcp-server-js": {
       "owner": "yepcode",
@@ -1957,7 +2041,8 @@
         "llms execute",
         "mcp tools",
         "mcp server"
-      ]
+      ],
+      "category": "code-execution"
     },
     "yonaka15--mcp-pyodide": {
       "owner": "yonaka15",
@@ -1980,7 +2065,8 @@
         "llms execute",
         "execution servers",
         "python capabilities"
-      ]
+      ],
+      "category": "code-execution"
     },
     "yzfly--mcp-python-interpreter": {
       "owner": "yzfly",
@@ -2003,7 +2089,8 @@
         "llms execute",
         "execution servers",
         "code manage"
-      ]
+      ],
+      "category": "code-execution"
     },
     "zaycruz--docker_mcp": {
       "owner": "zaycruz",
@@ -2026,7 +2113,8 @@
         "llms execute",
         "code securely",
         "execution servers"
-      ]
+      ],
+      "category": "code-execution"
     },
     "zhanyiwp--DesktopCommanderMCP": {
       "owner": "zhanyiwp",
@@ -2049,7 +2137,8 @@
         "llms execute",
         "execution servers",
         "allow llms"
-      ]
+      ],
+      "category": "code-execution"
     },
     "zy445566--node-runtime-mcp": {
       "owner": "zy445566",
@@ -2072,7 +2161,8 @@
         "llms execute",
         "execution servers",
         "code securely"
-      ]
+      ],
+      "category": "code-execution"
     },
     "zygi--r-playground-mcp": {
       "owner": "zygi",
@@ -2095,7 +2185,8 @@
         "llms execute",
         "executes code",
         "code execution"
-      ]
+      ],
+      "category": "code-execution"
     }
   }
 }

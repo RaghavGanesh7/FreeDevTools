@@ -25,7 +25,8 @@
         "git workflow",
         "tools github",
         "gitlab google"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "AlexKissiJr--unreal-mcp-server": {
       "owner": "AlexKissiJr",
@@ -48,7 +49,8 @@
         "git workflow",
         "maintains git",
         "git history"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "AndyManastorm--smithery-reference-servers": {
       "owner": "AndyManastorm",
@@ -71,7 +73,8 @@
         "git workflow",
         "git history",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Arclio--github-projects-mcp": {
       "owner": "Arclio",
@@ -94,7 +97,8 @@
         "github projects",
         "git workflow",
         "manage github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "AstroMined--pygithub-mcp-server": {
       "owner": "AstroMined",
@@ -117,7 +121,8 @@
         "git workflow",
         "github operations",
         "handling github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "AsyncFuncAI--github-chat-mcp": {
       "owner": "AsyncFuncAI",
@@ -140,7 +145,8 @@
         "git workflow",
         "github repositories",
         "github chat"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "CodeByWaqas--MRConfluenceLinker-mcp-server": {
       "owner": "CodeByWaqas",
@@ -163,7 +169,8 @@
         "git workflow",
         "documentation workflows",
         "confluence documentation"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "DeDeveloper23--codebase-mcp": {
       "owner": "DeDeveloper23",
@@ -186,7 +193,8 @@
         "git workflow",
         "codebase analyses",
         "dedeveloper23 codebase"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Din-djarin2--custom-gitlab": {
       "owner": "Din-djarin2",
@@ -209,7 +217,8 @@
         "gitlab repositories",
         "custom gitlab",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "DivyanshKushwaha--GitHub-MCP-Server-Claude": {
       "owner": "DivyanshKushwaha",
@@ -232,7 +241,8 @@
         "git workflow",
         "interact github",
         "github mcp"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "DynamicEndpoints--cloudflare-github-backup-mcp": {
       "owner": "DynamicEndpoints",
@@ -255,7 +265,8 @@
         "cloudflare github",
         "github backup",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "F4biox--hello-github-actions": {
       "owner": "F4biox",
@@ -278,7 +289,8 @@
         "github actions",
         "git workflow",
         "github action"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "GrandMasterK414--mcp-servers": {
       "owner": "GrandMasterK414",
@@ -301,7 +313,8 @@
         "git workflow",
         "management github",
         "mcp servers"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "HeskeyBaozi--servers": {
       "owner": "HeskeyBaozi",
@@ -324,7 +337,8 @@
         "git workflow",
         "github api",
         "integrate github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Hint-Services--obsidian-github-mcp": {
       "owner": "Hint-Services",
@@ -347,7 +361,8 @@
         "github mcp",
         "git workflow",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "JJ-H--mcp-gitee": {
       "owner": "JJ-H",
@@ -370,7 +385,8 @@
         "git workflow",
         "gitee repositories",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Jehan26--MCP-Inspector-v0.6.0": {
       "owner": "Jehan26",
@@ -393,7 +409,8 @@
         "git workflow",
         "interact github",
         "development workflows"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Job28703--my-github-project": {
       "owner": "Job28703",
@@ -416,7 +433,8 @@
         "git workflow",
         "job28703 github",
         "github project"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "KalyankumarKonduru--MCP_test": {
       "owner": "KalyankumarKonduru",
@@ -439,7 +457,8 @@
         "git workflow",
         "github notion",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "MatanYemini--bitbucket-mcp": {
       "owner": "MatanYemini",
@@ -462,7 +481,8 @@
         "git workflow",
         "bitbucket repositories",
         "integrate bitbucket"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Maxteabag--GithubWorkflowMCP": {
       "owner": "Maxteabag",
@@ -485,7 +505,8 @@
         "githubworkflowmcp diagnose",
         "maxteabag githubworkflowmcp",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Maxteabag--github-actions-mcp": {
       "owner": "Maxteabag",
@@ -508,7 +529,8 @@
         "git workflow",
         "github actions",
         "actions workflows"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "MissionSquad--mcp-github": {
       "owner": "MissionSquad",
@@ -531,7 +553,8 @@
         "git workflow",
         "github manage",
         "manage github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "MrOrz--mcp-git-commit-aider": {
       "owner": "MrOrz",
@@ -554,7 +577,8 @@
         "committer details",
         "aider commits",
         "commit aider"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "NZenitram--github-mcp": {
       "owner": "NZenitram",
@@ -577,7 +601,8 @@
         "git workflow",
         "nzenitram github",
         "interact github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ParasSolanki--github-mcp-server": {
       "owner": "ParasSolanki",
@@ -600,7 +625,8 @@
         "git workflow",
         "github mcp",
         "github interact"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "PhialsBasement--mcp-github-server-plus": {
       "owner": "PhialsBasement",
@@ -623,7 +649,8 @@
         "git workflow",
         "functionality github",
         "github server"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "PoliTwit1984--github-meta-mcp-server": {
       "owner": "PoliTwit1984",
@@ -646,7 +673,8 @@
         "git workflow",
         "github meta",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ProbonoBonobo--sui-mcp-server": {
       "owner": "ProbonoBonobo",
@@ -669,7 +697,8 @@
         "git workflow",
         "workflow management",
         "github process"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "RusianHu--GitHubDailyTrendingFetcher-mcp": {
       "owner": "RusianHu",
@@ -692,7 +721,8 @@
         "trending github",
         "rusianhu githubdailytrendingfetcher",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Ryan0204--github-repo-mcp": {
       "owner": "Ryan0204",
@@ -715,7 +745,8 @@
         "git workflow",
         "github repositories",
         "github repo"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Sheshiyer--git-mcp-v2": {
       "owner": "Sheshiyer",
@@ -738,7 +769,8 @@
         "git workflow",
         "git operations",
         "enhanced git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Shougakusei--plan_pr_mcp": {
       "owner": "Shougakusei",
@@ -761,7 +793,8 @@
         "git workflow",
         "development workflows",
         "workflows ai"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "SiddheshDongare--GIT-Pilot": {
       "owner": "SiddheshDongare",
@@ -784,7 +817,8 @@
         "git workflow",
         "automate github",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Sunwood-ai-labs--aira-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -807,7 +841,8 @@
         "git workflow",
         "git status",
         "messages git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Sunwood-ai-labs--github-kanban-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -830,7 +865,8 @@
         "github kanban",
         "git workflow",
         "manage github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Sunwood-ai-labs--gitlab-kanban-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -853,7 +889,8 @@
         "manage gitlab",
         "git workflow",
         "gitlab kanban"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Sunwood-ai-labs--release-notes-generator-iris-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -876,7 +913,8 @@
         "release documentation",
         "release notes",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "Yash-Kavaiya--github-mcp-server": {
       "owner": "Yash-Kavaiya",
@@ -899,7 +937,8 @@
         "git workflow",
         "github ecosystem",
         "github apis"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ZephyrDeng--mcp-server-gitlab": {
       "owner": "ZephyrDeng",
@@ -922,7 +961,8 @@
         "gitlab manage",
         "using gitlab",
         "server gitlab"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "a1351995160--gitskills": {
       "owner": "a1351995160",
@@ -945,7 +985,8 @@
         "git workflow",
         "learning git",
         "git commands"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "aashari--mcp-server-atlassian-bitbucket": {
       "owner": "aashari",
@@ -968,7 +1009,8 @@
         "atlassian bitbucket",
         "efficiently bitbucket",
         "manage bitbucket"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "adamrtalbot--mcp-nextflow": {
       "owner": "adamrtalbot",
@@ -991,7 +1033,8 @@
         "git workflow",
         "nextflow projects",
         "managing nextflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "adhikasp--mcp-git-ingest": {
       "owner": "adhikasp",
@@ -1014,7 +1057,8 @@
         "git workflow",
         "github repositories",
         "structure github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "agentience--practices_mcp_server": {
       "owner": "agentience",
@@ -1037,7 +1081,8 @@
         "git workflow",
         "automate git",
         "git operations"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ahchenjie--mcp-github-test": {
       "owner": "ahchenjie",
@@ -1060,7 +1105,8 @@
         "git workflow",
         "github test",
         "github ecosystem"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "anishksk--MCP-Server": {
       "owner": "anishksk",
@@ -1083,7 +1129,8 @@
         "git workflow",
         "deployment management",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ankur-1garg--mcp": {
       "owner": "ankur-1garg",
@@ -1106,7 +1153,8 @@
         "git workflow",
         "git repositories",
         "analyzes git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "antonioevans--github-mcp-server": {
       "owner": "antonioevans",
@@ -1129,7 +1177,8 @@
         "workflows github",
         "git workflow",
         "github ecosystem"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "asbloom-py--mcp-servers": {
       "owner": "asbloom-py",
@@ -1152,7 +1201,8 @@
         "git workflow",
         "utilizing github",
         "github api"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "asifdotpy--github-mcp-server": {
       "owner": "asifdotpy",
@@ -1175,7 +1225,8 @@
         "github apis",
         "git workflow",
         "github mcp"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "athapong--argus": {
       "owner": "athapong",
@@ -1198,7 +1249,8 @@
         "git workflow",
         "git operations",
         "efficient git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "b0ttle-neck--mcp-steampipe": {
       "owner": "b0ttle-neck",
@@ -1221,7 +1273,8 @@
         "insights workflows",
         "workflow management",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "bduke011--openhands-project": {
       "owner": "bduke011",
@@ -1244,7 +1297,8 @@
         "repositories workflows",
         "git workflow",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "brevdev--brev-mcp": {
       "owner": "brevdev",
@@ -1267,7 +1321,8 @@
         "git workflow",
         "management brevdev",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "cakriwut--ado-mcp-server": {
       "owner": "cakriwut",
@@ -1290,7 +1345,8 @@
         "azure devops",
         "devops manage",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "cayirtepeomer--gerrit-code-review-mcp": {
       "owner": "cayirtepeomer",
@@ -1313,7 +1369,8 @@
         "git workflow",
         "code review",
         "gerrit code"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "celyes--github-mcp-server": {
       "owner": "celyes",
@@ -1336,7 +1393,8 @@
         "git workflow",
         "github ecosystem",
         "github apis"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ceshine--git-prompts-mcp-server": {
       "owner": "ceshine",
@@ -1359,7 +1417,8 @@
         "git prompts",
         "prompts git",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "chris-miaskowski--custom-gitlab-mcp-server": {
       "owner": "chris-miaskowski",
@@ -1382,7 +1441,8 @@
         "git workflow",
         "gitlab repositories",
         "gitlab mcp"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "cyanheads--git-mcp-server": {
       "owner": "cyanheads",
@@ -1405,7 +1465,8 @@
         "git workflow",
         "cyanheads git",
         "git mcp"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "damonxue--mcp-ossinsight": {
       "owner": "damonxue",
@@ -1428,7 +1489,8 @@
         "analyze github",
         "git workflow",
         "github data"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "davidorex--git-file-forensics": {
       "owner": "davidorex",
@@ -1451,7 +1513,8 @@
         "git workflow",
         "git file",
         "file forensics"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "davidorex--git-forensics-mcp": {
       "owner": "davidorex",
@@ -1474,7 +1537,8 @@
         "git forensics",
         "analyze git",
         "git repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "dazeb--MCP-Github-Mapper": {
       "owner": "dazeb",
@@ -1497,7 +1561,8 @@
         "git workflow",
         "github mapper",
         "analyzes github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ddukbg--github-enterprise-mcp": {
       "owner": "ddukbg",
@@ -1520,7 +1585,8 @@
         "github enterprise",
         "git workflow",
         "ddukbg github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "dev-assistant-ai--mcp-servers": {
       "owner": "dev-assistant-ai",
@@ -1543,7 +1609,8 @@
         "git workflow",
         "git history",
         "preserving git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "devassistantai--mcp-servers": {
       "owner": "devassistantai",
@@ -1566,7 +1633,8 @@
         "git workflow",
         "github projects",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "dillip285--mcp-dev-server": {
       "owner": "dillip285",
@@ -1589,7 +1657,8 @@
         "git workflow",
         "git operations",
         "integrating git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "duzitao1--aider": {
       "owner": "duzitao1",
@@ -1612,7 +1681,8 @@
         "git workflow",
         "manage git",
         "git repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "dvladimirov--MCP": {
       "owner": "dvladimirov",
@@ -1635,7 +1705,8 @@
         "git workflow",
         "services git",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "dylandaubenspeck--mcp-github-ocr": {
       "owner": "dylandaubenspeck",
@@ -1658,7 +1729,8 @@
         "github tokens",
         "github repositories",
         "scans github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "exczzz--dev": {
       "owner": "exczzz",
@@ -1681,7 +1753,8 @@
         "git workflow",
         "edit github",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "fkesheh--code-context-mcp": {
       "owner": "fkesheh",
@@ -1704,7 +1777,8 @@
         "git workflow",
         "git repositories",
         "development workflows"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "garc33--bitbucket-server-mcp-server": {
       "owner": "garc33",
@@ -1727,7 +1801,8 @@
         "garc33 bitbucket",
         "bitbucket server",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "geropl--git-mcp-go": {
       "owner": "geropl",
@@ -1750,7 +1825,8 @@
         "git workflow",
         "automation git",
         "git mcp"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "goern--forgejo-mcp": {
       "owner": "goern",
@@ -1773,7 +1849,8 @@
         "git workflow",
         "forgejo mcp",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "gourav221b--Github-PR-MCP-server": {
       "owner": "gourav221b",
@@ -1796,7 +1873,8 @@
         "github pull",
         "git workflow",
         "analyze github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "gpaul-mcp--MCP_prompt_localDev": {
       "owner": "gpaul-mcp",
@@ -1819,7 +1897,8 @@
         "git workflow",
         "github workflows",
         "gpaul mcp"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "harshmaur--gitlab-mcp": {
       "owner": "harshmaur",
@@ -1842,7 +1921,8 @@
         "git workflow",
         "gitlab api",
         "integrate gitlab"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "hetaoBackend--mcp-github-trending": {
       "owner": "hetaoBackend",
@@ -1865,7 +1945,8 @@
         "github trending",
         "git workflow",
         "trending repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "highlight-ing--highlight-github-mcp": {
       "owner": "highlight-ing",
@@ -1888,7 +1969,8 @@
         "highlight github",
         "diffs github",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "hypermodel-labs--mcp-server-auto-commit": {
       "owner": "hypermodel-labs",
@@ -1911,7 +1993,8 @@
         "git workflow",
         "commit analyzes",
         "analyzes git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "iamadk--reference-servers": {
       "owner": "iamadk",
@@ -1934,7 +2017,8 @@
         "git workflow",
         "github repositories",
         "git history"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "idosal--git-mcp": {
       "owner": "idosal",
@@ -1957,7 +2041,8 @@
         "git workflow",
         "github projects",
         "transform github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "jinnersun--skills-introduction-to-github": {
       "owner": "jinnersun",
@@ -1980,7 +2065,8 @@
         "git workflow",
         "github facilitates",
         "fundamentals github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "joon1251ai--smithery-mcp-server-test": {
       "owner": "joon1251ai",
@@ -2003,7 +2089,8 @@
         "git workflow",
         "git history",
         "preserving git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kazuph--mcp-github-pera1": {
       "owner": "kazuph",
@@ -2026,7 +2113,8 @@
         "github code",
         "mcp github",
         "github pera1"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kevinmeyvaert--azure-devops-mcp": {
       "owner": "kevinmeyvaert",
@@ -2049,7 +2137,8 @@
         "azure devops",
         "git workflow",
         "devops resources"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kimsehwan90--code-review": {
       "owner": "kimsehwan90",
@@ -2072,7 +2161,8 @@
         "git workflow",
         "code review",
         "review process"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kirayhz007--GitHub-Chinese-Top-Charts": {
       "owner": "kirayhz007",
@@ -2095,7 +2185,8 @@
         "github chinese",
         "git workflow",
         "projects github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kjozsa--git-mcp": {
       "owner": "kjozsa",
@@ -2118,7 +2209,8 @@
         "git workflow",
         "manage git",
         "git operations"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kkshaxqd--kkshaxqd.github.io": {
       "owner": "kkshaxqd",
@@ -2141,7 +2233,8 @@
         "kkshaxqd github",
         "git workflow",
         "github io"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ko1ynnky--github-actions-mcp-server": {
       "owner": "ko1ynnky",
@@ -2164,7 +2257,8 @@
         "github actions",
         "git workflow",
         "operate github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kopfrechner--gitlab-mr-mcp": {
       "owner": "kopfrechner",
@@ -2187,7 +2281,8 @@
         "git workflow",
         "gitlab repositories",
         "seamlessly gitlab"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "koreafox--helloworld": {
       "owner": "koreafox",
@@ -2210,7 +2305,8 @@
         "git workflow",
         "practice git",
         "github effectively"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "kunwarVivek--mcp-github-project-manager": {
       "owner": "kunwarVivek",
@@ -2233,7 +2329,8 @@
         "git workflow",
         "mcp github",
         "github graphql"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "loglmhq--mcp-server-github-repo": {
       "owner": "loglmhq",
@@ -2256,7 +2353,8 @@
         "git workflow",
         "server github",
         "specified github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "lowkeyrd--servers": {
       "owner": "lowkeyrd",
@@ -2279,7 +2377,8 @@
         "git workflow",
         "management lowkeyrd",
         "lowkeyrd servers"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "mcollina--mcp-github-notifications": {
       "owner": "mcollina",
@@ -2302,7 +2401,8 @@
         "github notifications",
         "git workflow",
         "manage github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "mehmetakinn--gitlab-mcp-code-review": {
       "owner": "mehmetakinn",
@@ -2325,7 +2425,8 @@
         "git workflow",
         "reviews gitlab",
         "review workflows"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "mgl-sh21--testgru-example": {
       "owner": "mgl-sh21",
@@ -2348,7 +2449,8 @@
         "tests codebase",
         "git workflow",
         "testgru example"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "mkc909--agent-communication-mcp-server": {
       "owner": "mkc909",
@@ -2371,7 +2473,8 @@
         "git workflow",
         "workflow management",
         "mkc909 agent"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -2394,7 +2497,8 @@
         "git workflow",
         "interacts git",
         "git repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "mokemoke0821--MCP": {
       "owner": "mokemoke0821",
@@ -2417,7 +2521,8 @@
         "cmd gitbash",
         "git workflow",
         "gitbash allowing"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "msnidal--yellhorn-mcp": {
       "owner": "msnidal",
@@ -2440,7 +2545,8 @@
         "git workflow",
         "workflow management",
         "github generate"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "narumiruna--gitingest-mcp": {
       "owner": "narumiruna",
@@ -2463,7 +2569,8 @@
         "git workflow",
         "git repositories",
         "ingest git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "nermalcat69--zerops-mcp": {
       "owner": "nermalcat69",
@@ -2486,7 +2593,8 @@
         "git workflow",
         "github repositories",
         "automatic branch"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "nextDriveIoE--github-action-trigger-mcp": {
       "owner": "nextDriveIoE",
@@ -2509,7 +2617,8 @@
         "github action",
         "git workflow",
         "nextdriveioe github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "nibzard--daytona-mcp-interpreter": {
       "owner": "nibzard",
@@ -2532,7 +2641,8 @@
         "git workflow",
         "mcp interpreter",
         "git repository"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "nickbaumann98--release-notes-server": {
       "owner": "nickbaumann98",
@@ -2555,7 +2665,8 @@
         "notes github",
         "release notes",
         "organizing commits"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "normal-coder--gitee-mcp-server": {
       "owner": "normal-coder",
@@ -2578,7 +2689,8 @@
         "git workflow",
         "automate gitee",
         "gitee repository"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "nulab--backlog-mcp-server": {
       "owner": "nulab",
@@ -2601,7 +2713,8 @@
         "git workflow",
         "management workflows",
         "workflow management"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "oghenetejiriorukpegmail--github-mcp": {
       "owner": "oghenetejiriorukpegmail",
@@ -2624,7 +2737,8 @@
         "git workflow",
         "github mcp",
         "github api"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "oschina--mcp-gitee": {
       "owner": "oschina",
@@ -2647,7 +2761,8 @@
         "git workflow",
         "development workflows",
         "gitee api"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "owayo--gitlab-mcp-server": {
       "owner": "owayo",
@@ -2670,7 +2785,8 @@
         "git workflow",
         "development workflows",
         "gitlab provide"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "owayo--mcp-src-tree": {
       "owner": "owayo",
@@ -2693,7 +2809,8 @@
         "git workflow",
         "gitignore exclude",
         "defined gitignore"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "piyushgIITian--github-enterprice-mcp": {
       "owner": "piyushgIITian",
@@ -2716,7 +2833,8 @@
         "git workflow",
         "piyushgiitian github",
         "github enterprice"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "puravparab--Gitingest-MCP": {
       "owner": "puravparab",
@@ -2739,7 +2857,8 @@
         "information github",
         "git workflow",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "rajbos--ghas-mcp-server": {
       "owner": "rajbos",
@@ -2762,7 +2881,8 @@
         "git workflow",
         "github advanced",
         "integrates github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "razorback16--mcp-git-repo-browser": {
       "owner": "razorback16",
@@ -2785,7 +2905,8 @@
         "git workflow",
         "git repositories",
         "git repo"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "renantrendt--mcp-github": {
       "owner": "renantrendt",
@@ -2808,7 +2929,8 @@
         "git workflow",
         "mcp github",
         "github interact"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "renantrendt--reference-servers": {
       "owner": "renantrendt",
@@ -2831,7 +2953,8 @@
         "git workflow",
         "preserving git",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "rifqi96--mcp-gitlab": {
       "owner": "rifqi96",
@@ -2854,7 +2977,8 @@
         "gitlab manage",
         "manage gitlab",
         "gitlab projects"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "rjadhavJT--docgen-mcp": {
       "owner": "rjadhavJT",
@@ -2877,7 +3001,8 @@
         "git workflow",
         "documentation processes",
         "enhance documentation"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ropon--mcp-gitee": {
       "owner": "ropon",
@@ -2900,7 +3025,8 @@
         "git workflow",
         "workflow management",
         "automate workflows"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "rshivamrapid--github-mcp-server": {
       "owner": "rshivamrapid",
@@ -2923,7 +3049,8 @@
         "rshivamrapid github",
         "git workflow",
         "github apis"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "sach999--git-spice-help-mcp": {
       "owner": "sach999",
@@ -2946,7 +3073,8 @@
         "git spice",
         "git workflow",
         "search git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "sammcj--mcp-github-issue": {
       "owner": "sammcj",
@@ -2969,7 +3097,8 @@
         "git workflow",
         "mcp github",
         "github issue"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "sebastiancastillorock--skills-introduction-to-github": {
       "owner": "sebastiancastillorock",
@@ -2992,7 +3121,8 @@
         "learning github",
         "github facilitates",
         "github effectively"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "sengokudaikon--aider-mcp-server": {
       "owner": "sengokudaikon",
@@ -3015,7 +3145,8 @@
         "git workflow",
         "integrated git",
         "git status"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "shaileshahuja--github-pr-mcp": {
       "owner": "shaileshahuja",
@@ -3038,7 +3169,8 @@
         "comments github",
         "git workflow",
         "github api"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "shanksxz--gh-mcp-server": {
       "owner": "shanksxz",
@@ -3061,7 +3193,8 @@
         "git workflow",
         "github repositories",
         "contents github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "simon-ami--win-cli-mcp-server": {
       "owner": "simon-ami",
@@ -3084,7 +3217,8 @@
         "cmd git",
         "git workflow",
         "git bash"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "skurekjakub--GitStuffServer": {
       "owner": "skurekjakub",
@@ -3107,7 +3241,8 @@
         "git merge",
         "git workflow",
         "merge diffs"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "sourcebot-dev--sourcebot": {
       "owner": "sourcebot-dev",
@@ -3130,7 +3265,8 @@
         "dev sourcebot",
         "sourcebot dev",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "suenot--aicommit-mcp": {
       "owner": "suenot",
@@ -3153,7 +3289,8 @@
         "git workflow",
         "git commit",
         "driven git"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "tay3223--mcp-server-gitlab": {
       "owner": "tay3223",
@@ -3176,7 +3313,8 @@
         "server gitlab",
         "gitlab instances",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "taylor-lindores-reeves--mcp-github-projects": {
       "owner": "taylor-lindores-reeves",
@@ -3199,7 +3337,8 @@
         "git workflow",
         "github graphql",
         "github projects"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "timbuchinger--mcp-github": {
       "owner": "timbuchinger",
@@ -3222,7 +3361,8 @@
         "git workflow",
         "mcp github",
         "github repositories"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "tuanle96--mcp-github": {
       "owner": "tuanle96",
@@ -3245,7 +3385,8 @@
         "git workflow",
         "mcp github",
         "git history"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "twolven--mcp-codesavant": {
       "owner": "twolven",
@@ -3268,7 +3409,8 @@
         "git workflow",
         "mcp codesavant",
         "code files"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "ualUsham--mcp-github": {
       "owner": "ualUsham",
@@ -3291,7 +3433,8 @@
         "git workflow",
         "llms github",
         "github features"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "vinhphamai23--mcp-git-ingest": {
       "owner": "vinhphamai23",
@@ -3314,7 +3457,8 @@
         "git workflow",
         "mcp git",
         "github repository"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "vipink1203--mcp-github-enterprise": {
       "owner": "vipink1203",
@@ -3337,7 +3481,8 @@
         "github enterprise",
         "git workflow",
         "mcp github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "wonnyboi--mcp-server": {
       "owner": "wonnyboi",
@@ -3360,7 +3505,8 @@
         "git workflow",
         "github students",
         "information github"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "x51xxx--github-explorer-mcp": {
       "owner": "x51xxx",
@@ -3383,7 +3529,8 @@
         "git workflow",
         "github explorer",
         "github repository"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "xiaoshishu911--skills-introduction-to-github": {
       "owner": "xiaoshishu911",
@@ -3406,7 +3553,8 @@
         "learning github",
         "github facilitates",
         "github basics"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "yeakub108--mcp-server": {
       "owner": "yeakub108",
@@ -3429,7 +3577,8 @@
         "git workflow",
         "workflow management",
         "mcp server"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "yjiace--alibabacloud-devops-mcp-server": {
       "owner": "yjiace",
@@ -3452,7 +3601,8 @@
         "git workflow",
         "workflow management",
         "alibabacloud devops"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "yoda-digital--mcp-gitlab-server": {
       "owner": "yoda-digital",
@@ -3475,7 +3625,8 @@
         "gitlab manage",
         "gitlab server",
         "git workflow"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "zereight--gitlab-mcp": {
       "owner": "zereight",
@@ -3498,7 +3649,8 @@
         "git workflow",
         "gitlab api",
         "gitlab mcp"
-      ]
+      ],
+      "category": "git-workflow-management"
     },
     "zxfgds--mcp-toolkit": {
       "owner": "zxfgds",
@@ -3521,7 +3673,8 @@
         "git workflow",
         "mcp toolkit",
         "management zxfgds"
-      ]
+      ],
+      "category": "git-workflow-management"
     }
   }
 }

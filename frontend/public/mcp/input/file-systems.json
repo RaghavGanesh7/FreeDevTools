@@ -25,7 +25,8 @@
         "file systems",
         "intelligent file",
         "file categorization"
-      ]
+      ],
+      "category": "file-systems"
     },
     "Xuanwo--mcp-server-opendal": {
       "owner": "Xuanwo",
@@ -48,7 +49,8 @@
         "opendal access",
         "file systems",
         "server opendal"
-      ]
+      ],
+      "category": "file-systems"
     },
     "box--mcp-server-box-remote": {
       "owner": "box",
@@ -71,7 +73,8 @@
         "file systems",
         "mcp server",
         "box mcp"
-      ]
+      ],
+      "category": "file-systems"
     },
     "cyberchitta--llm-context.py": {
       "owner": "cyberchitta",
@@ -94,7 +97,8 @@
         "file systems",
         "directories cyberchitta",
         "manage files"
-      ]
+      ],
+      "category": "file-systems"
     },
     "exoticknight--mcp-file-merger": {
       "owner": "exoticknight",
@@ -117,7 +121,8 @@
         "file systems",
         "file merger",
         "manage files"
-      ]
+      ],
+      "category": "file-systems"
     },
     "filesystem@quarkiverse--quarkus-mcp-servers": {
       "owner": "filesystem@quarkiverse",
@@ -140,7 +145,8 @@
         "file systems",
         "filesystem quarkiverse",
         "files implemented"
-      ]
+      ],
+      "category": "file-systems"
     },
     "hmk--box-mcp-server": {
       "owner": "hmk",
@@ -163,7 +169,8 @@
         "file systems",
         "manage files",
         "directories hmk"
-      ]
+      ],
+      "category": "file-systems"
     },
     "isaacphi--mcp-gdrive": {
       "owner": "isaacphi",
@@ -186,7 +193,8 @@
         "file systems",
         "mcp gdrive",
         "mcp server"
-      ]
+      ],
+      "category": "file-systems"
     },
     "jeannier--homebrew-mcp": {
       "owner": "jeannier",
@@ -209,7 +217,8 @@
         "macos homebrew",
         "homebrew setup",
         "homebrew mcp"
-      ]
+      ],
+      "category": "file-systems"
     },
     "mamertofabian--mcp-everything-search": {
       "owner": "mamertofabian",
@@ -232,7 +241,8 @@
         "file systems",
         "file search",
         "manage files"
-      ]
+      ],
+      "category": "file-systems"
     },
     "mark3labs--mcp-filesystem-server": {
       "owner": "mark3labs",
@@ -255,7 +265,8 @@
         "file systems",
         "file access",
         "filesystem server"
-      ]
+      ],
+      "category": "file-systems"
     },
     "mickaelkerjean--filestash": {
       "owner": "mickaelkerjean",
@@ -278,7 +289,8 @@
         "file systems",
         "storage access",
         "filestash remote"
-      ]
+      ],
+      "category": "file-systems"
     },
     "microsoft--markitdown": {
       "owner": "microsoft",
@@ -301,7 +313,8 @@
         "file systems",
         "microsoft markitdown",
         "access markitdown"
-      ]
+      ],
+      "category": "file-systems"
     },
     "modelcontextprotocol--server-filesystem": {
       "owner": "modelcontextprotocol",
@@ -324,7 +337,8 @@
         "file systems",
         "file access",
         "server filesystem"
-      ]
+      ],
+      "category": "file-systems"
     }
   }
 }

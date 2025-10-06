@@ -25,7 +25,8 @@
         "knowledge memory",
         "summarizer ai",
         "summarization mcp"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "CheMiguel23--MemoryMesh": {
       "owner": "CheMiguel23",
@@ -48,7 +49,8 @@
         "knowledge memory",
         "persistent memory",
         "knowledge graph"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "GistPad-MCP](https:--/github.com/lostintangent/gistpad-mcp) 📇 🏠 - Use GitHub Gists to manage and access your personal knowledge, daily notes, and reusable prompts. This acts as a companion to https://gistpad.dev and the [GistPad VS Code extension": {
       "owner": "GistPad-MCP](https:",
@@ -71,7 +73,8 @@
         "github graphlit",
         "gistpad dev",
         "sessions gistpad"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "JamesANZ--cross-llm-mcp": {
       "owner": "JamesANZ",
@@ -94,7 +97,8 @@
         "persistent memory",
         "knowledge memory",
         "memory sharing"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "JamesANZ--memory-mcp": {
       "owner": "JamesANZ",
@@ -117,7 +121,8 @@
         "persistent memory",
         "memory persistent",
         "mongodb provides"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "MWGMorningwood--Central-Memory-MCP": {
       "owner": "MWGMorningwood",
@@ -140,7 +145,8 @@
         "persistent memory",
         "knowledge memory",
         "memory persistent"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "TechDocsStudio--biel-mcp": {
       "owner": "TechDocsStudio",
@@ -163,7 +169,8 @@
         "ai tools",
         "knowledge memory",
         "ai provides"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "apecloud--ApeRAG": {
       "owner": "apecloud",
@@ -186,7 +193,8 @@
         "knowledge graph",
         "knowledge memory",
         "building knowledge"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "cameronrye--openzim-mcp": {
       "owner": "cameronrye",
@@ -209,7 +217,8 @@
         "knowledge archives",
         "knowledge bases",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "chatmcp--mcp-server-chatsum": {
       "owner": "chatmcp",
@@ -232,7 +241,8 @@
         "messages ai",
         "server chatsum",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "entanglr--zettelkasten-mcp": {
       "owner": "entanglr",
@@ -255,7 +265,8 @@
         "knowledge memory",
         "persistent memory",
         "protocol mcp"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "hannesrudolph--mcp-ragdocs": {
       "owner": "hannesrudolph",
@@ -278,7 +289,8 @@
         "knowledge memory",
         "knowledge graph",
         "persistent memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "jinzcdev--markmap-mcp-server": {
       "owner": "jinzcdev",
@@ -301,7 +313,8 @@
         "built markmap",
         "markmap mcp",
         "jinzcdev markmap"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "kaliaboi--mcp-zotero": {
       "owner": "kaliaboi",
@@ -324,7 +337,8 @@
         "persistent memory",
         "memory persistent",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "mem0ai--mem0-mcp": {
       "owner": "mem0ai",
@@ -347,7 +361,8 @@
         "persistent memory",
         "memory persistent",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "modelcontextprotocol--server-memory": {
       "owner": "modelcontextprotocol",
@@ -370,7 +385,8 @@
         "persistent memory",
         "memory persistent",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "pi22by7--In-Memoria": {
       "owner": "pi22by7",
@@ -393,7 +409,8 @@
         "persistent memory",
         "memory persistent",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "pinecone-io--assistant-mcp": {
       "owner": "pinecone-io",
@@ -416,7 +433,8 @@
         "knowledge memory",
         "knowledge engine",
         "pinecone assistant"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "ragieai--mcp-server": {
       "owner": "ragieai",
@@ -439,7 +457,8 @@
         "knowledge memory",
         "persistent memory",
         "rag knowledge"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "topoteretes--cognee": {
       "owner": "topoteretes",
@@ -462,7 +481,8 @@
         "persistent memory",
         "memory persistent",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "unibaseio--membase-mcp": {
       "owner": "unibaseio",
@@ -485,7 +505,8 @@
         "agent memory",
         "persistent memory",
         "knowledge memory"
-      ]
+      ],
+      "category": "knowledge--memory"
     },
     "upstash--context7": {
       "owner": "upstash",
@@ -508,7 +529,8 @@
         "knowledge memory",
         "persistent memory",
         "memory persistent"
-      ]
+      ],
+      "category": "knowledge--memory"
     }
   }
 }

@@ -25,7 +25,8 @@
         "browser automation",
         "browserbase mcp",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "302ai--302_browser_use_mcp": {
       "owner": "302ai",
@@ -48,7 +49,8 @@
         "302ai browser",
         "browser automation",
         "302_browser_use_mcp 302ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "3rzy--make-mcp-integration-issue": {
       "owner": "3rzy",
@@ -71,7 +73,8 @@
         "automation web",
         "make automation",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "AB498--computer-control-mcp": {
       "owner": "AB498",
@@ -94,7 +97,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "AdamPippert--multi-service-mcp-server": {
       "owner": "AdamPippert",
@@ -117,7 +121,8 @@
         "automation web",
         "browser automation",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "AgentDeskAI--browser-tools-mcp": {
       "owner": "AgentDeskAI",
@@ -140,7 +145,8 @@
         "browser automation",
         "agentdeskai browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Ashish-Bansal--playwright-mcp": {
       "owner": "Ashish-Bansal",
@@ -163,7 +169,8 @@
         "browser automation",
         "automation web",
         "content ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "BrowserMCP--mcp": {
       "owner": "BrowserMCP",
@@ -186,7 +193,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Claw256--mcp-web-search": {
       "owner": "Claw256",
@@ -209,7 +217,8 @@
         "browser automation",
         "automation web",
         "searching scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Cooooper--KKJSBridge": {
       "owner": "Cooooper",
@@ -232,7 +241,8 @@
         "browser automation",
         "automation web",
         "wkwebview experience"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Dbillionaer--browser-tools-mcp": {
       "owner": "Dbillionaer",
@@ -255,7 +265,8 @@
         "browser automation",
         "automation web",
         "browser tools"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "FunPayViper--FunPayViper": {
       "owner": "FunPayViper",
@@ -278,7 +289,8 @@
         "browser automation",
         "funpayviper automate",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "GitDzreal93--uiautomator2-mcp": {
       "owner": "GitDzreal93",
@@ -301,7 +313,8 @@
         "browser automation",
         "automation web",
         "provides automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "GroundNG--VibeShift": {
       "owner": "GroundNG",
@@ -324,7 +337,8 @@
         "automation web",
         "browser automation",
         "automates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "JigsawStack--jigsawstack-mcp-server": {
       "owner": "JigsawStack",
@@ -347,7 +361,8 @@
         "browser automation",
         "automation web",
         "formats jigsawstack"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "JonaFly--RednoteMCP": {
       "owner": "JonaFly",
@@ -370,7 +385,8 @@
         "browser automation",
         "automation web",
         "rednotemcp automates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "JustasMonkev--mcp-accessibility-scanner": {
       "owner": "JustasMonkev",
@@ -393,7 +409,8 @@
         "web accessibility",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Kotelberg--playwright-mcp-server": {
       "owner": "Kotelberg",
@@ -416,7 +433,8 @@
         "browser automation",
         "automation web",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Krieg2065--firecrawl-mcp-server": {
       "owner": "Krieg2065",
@@ -439,7 +457,8 @@
         "browser automation",
         "automation web",
         "web scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Muzzera--web-ui": {
       "owner": "Muzzera",
@@ -462,7 +481,8 @@
         "browser automation",
         "muzzera web",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "NON906--omniparser-autogui-mcp": {
       "owner": "NON906",
@@ -485,7 +505,8 @@
         "browser automation",
         "automation web",
         "omniparser autogui"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "NullBlankError--mcp-server-browserbase": {
       "owner": "NullBlankError",
@@ -508,7 +529,8 @@
         "browser automation",
         "automation web",
         "browserbase automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Operative-Sh--playwright-consolelogs-mcp": {
       "owner": "Operative-Sh",
@@ -531,7 +553,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Operative-Sh--web-eval-agent": {
       "owner": "Operative-Sh",
@@ -554,7 +577,8 @@
         "automation web",
         "browser automation",
         "web eval"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "PhamQuangVinh22022648--playwright-mcp": {
       "owner": "PhamQuangVinh22022648",
@@ -577,7 +601,8 @@
         "browser automation",
         "automation web",
         "facilitates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "PhialsBasement--MCP-Puppeteer-Linux": {
       "owner": "PhialsBasement",
@@ -600,7 +625,8 @@
         "using puppeteer",
         "browser automation",
         "puppeteer linux"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "PhungXuanAnh--selenium-mcp-server": {
       "owner": "PhungXuanAnh",
@@ -623,7 +649,8 @@
         "automation web",
         "browser automation",
         "web automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "PykeW--playwright-mcp-server": {
       "owner": "PykeW",
@@ -646,7 +673,8 @@
         "browser automation",
         "automation web",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Qinjianbo--mcp-rquest": {
       "owner": "Qinjianbo",
@@ -669,7 +697,8 @@
         "browser automation",
         "automation web",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Raghu6798--Browser_scrape_mcp": {
       "owner": "Raghu6798",
@@ -692,7 +721,8 @@
         "browser automation",
         "browser_scrape_mcp automates",
         "browsing scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Rahulec08--appium-mcp": {
       "owner": "Rahulec08",
@@ -715,7 +745,8 @@
         "appium capabilities",
         "appium mcp",
         "rahulec08 appium"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Saik0s--mcp-browser-use": {
       "owner": "Saik0s",
@@ -738,7 +769,8 @@
         "browser automation",
         "automation web",
         "web browsers"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Scrapybara--scrapybara-mcp": {
       "owner": "Scrapybara",
@@ -761,7 +793,8 @@
         "scrapybara scrapybara",
         "browser automation",
         "scrapybara mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Skyvern-AI--skyvern": {
       "owner": "Skyvern-AI",
@@ -784,7 +817,8 @@
         "skyvern ai",
         "ai skyvern",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "SleepyRabbit--playwright-mcp": {
       "owner": "SleepyRabbit",
@@ -807,7 +841,8 @@
         "browser automation",
         "automation web",
         "facilitates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "VikashLoomba--MCP-Server-Playwright": {
       "owner": "VikashLoomba",
@@ -830,7 +865,8 @@
         "browser automation",
         "automation web",
         "provides browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "adalovu--mcp-playwright": {
       "owner": "adalovu",
@@ -853,7 +889,8 @@
         "browser automation",
         "automation web",
         "playwright automates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "afshawnlotfi--mcp-configurable-puppeteer": {
       "owner": "afshawnlotfi",
@@ -876,7 +913,8 @@
         "puppeteer automate",
         "browser automation",
         "automate browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "agent-infra--mcp-server-browser": {
       "owner": "agent-infra",
@@ -899,7 +937,8 @@
         "browser automation",
         "automation web",
         "using puppeteer"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ahai72160--playwright-mcp": {
       "owner": "ahai72160",
@@ -922,7 +961,8 @@
         "browser automation",
         "automation web",
         "facilitates browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "aircodelabs--grasp": {
       "owner": "aircodelabs",
@@ -945,7 +985,8 @@
         "automation web",
         "browser automation",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "alinaqi--mcp-linkedin-server": {
       "owner": "alinaqi",
@@ -968,7 +1009,8 @@
         "automation web",
         "browser automation",
         "adhering linkedin"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "angiejones--mcp-selenium": {
       "owner": "angiejones",
@@ -991,7 +1033,8 @@
         "browser automation",
         "selenium automates",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ashley-ha--mcp-manus": {
       "owner": "ashley-ha",
@@ -1014,7 +1057,8 @@
         "browser automation",
         "automate browser",
         "web automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "automatalabs--mcp-server-playwright": {
       "owner": "automatalabs",
@@ -1037,7 +1081,8 @@
         "automation web",
         "browser automation",
         "automation using"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "awayzo--rpg": {
       "owner": "awayzo",
@@ -1060,7 +1105,8 @@
         "rpg browser",
         "awayzo rpg",
         "browser based"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "babelcloud--gbox": {
       "owner": "babelcloud",
@@ -1083,7 +1129,8 @@
         "browser automation",
         "automation web",
         "babelcloud gbox"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "baryhuang--mcp-remote-macos-use": {
       "owner": "baryhuang",
@@ -1106,7 +1153,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "blackwhite084--playwright-plus-python-mcp": {
       "owner": "blackwhite084",
@@ -1129,7 +1177,8 @@
         "automation web",
         "web automation",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "blazickjp--web-browser-mcp-server": {
       "owner": "blazickjp",
@@ -1152,7 +1201,8 @@
         "browser automation",
         "automation web",
         "advanced web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "browsercat--browsercat-mcp-server": {
       "owner": "browsercat",
@@ -1175,7 +1225,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "browsermcp--mcp": {
       "owner": "browsermcp",
@@ -1198,7 +1249,8 @@
         "browser automation",
         "automation web",
         "browsermcp mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "browserstack--mcp-server": {
       "owner": "browserstack",
@@ -1221,7 +1273,8 @@
         "browserstack mcp",
         "browser automation",
         "browserstack cloud"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "buyitsydney--CodingBaby-Browser-MCP": {
       "owner": "buyitsydney",
@@ -1244,7 +1297,8 @@
         "browser automation",
         "automation web",
         "codingbaby browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "chenlin111--BPB-Worker-Panel": {
       "owner": "chenlin111",
@@ -1267,7 +1321,8 @@
         "browser automation",
         "automation web",
         "bpb worker"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "chenningling--RedBook-Search-Comment-MCP": {
       "owner": "chenningling",
@@ -1290,7 +1345,8 @@
         "browser automation",
         "automation web",
         "content ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "chikingsley--browser-tools-mcp": {
       "owner": "chikingsley",
@@ -1313,7 +1369,8 @@
         "browser automation",
         "automation web",
         "browser tools"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "claude-did-this--MCPControl": {
       "owner": "claude-did-this",
@@ -1336,7 +1393,8 @@
         "browser automation",
         "automation web",
         "mcpcontrol windows"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "cloudflare--playwright-mcp": {
       "owner": "cloudflare",
@@ -1359,7 +1417,8 @@
         "browser automation",
         "automation web",
         "automates browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "cmann50--mcp-chrome-google-search": {
       "owner": "cmann50",
@@ -1382,7 +1441,8 @@
         "browser automation",
         "automation web",
         "mcp chrome"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "co-browser--browser-use-mcp-server": {
       "owner": "co-browser",
@@ -1405,7 +1465,8 @@
         "browser automation",
         "automation web",
         "perform web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "cploujoux--mcp-puppeteer": {
       "owner": "cploujoux",
@@ -1428,7 +1489,8 @@
         "puppeteer automate",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "deploya-labs--mcp-browser-use": {
       "owner": "deploya-labs",
@@ -1451,7 +1513,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "devalexandre--mcp-servers": {
       "owner": "devalexandre",
@@ -1474,7 +1537,8 @@
         "browser automation",
         "automation web",
         "browser automated"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "djyde--browser-mcp": {
       "owner": "djyde",
@@ -1497,7 +1561,8 @@
         "browser automation",
         "automation web",
         "browser mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dlwjdtn535--mcp-chrome-integration": {
       "owner": "dlwjdtn535",
@@ -1520,7 +1585,8 @@
         "browser automation",
         "automation web",
         "web automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dlwjdtn535--mcp-chrome-server": {
       "owner": "dlwjdtn535",
@@ -1543,7 +1609,8 @@
         "browser automation",
         "automation web",
         "automate browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dmaznest--browsercat-mcp-server": {
       "owner": "dmaznest",
@@ -1566,7 +1633,8 @@
         "dmaznest browsercat",
         "using browsercat",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dragons96--mcp-undetected-chromedriver": {
       "owner": "dragons96",
@@ -1589,7 +1657,8 @@
         "browser automation",
         "chromedriver automates",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dylangroos--patchright-mcp-lite": {
       "owner": "dylangroos",
@@ -1612,7 +1681,8 @@
         "browser automation",
         "automation web",
         "stealth browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "eat-pray-ai--yutu": {
       "owner": "eat-pray-ai",
@@ -1635,7 +1705,8 @@
         "automate youtube",
         "browser automation",
         "youtube automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "everford--fetcher-mcp": {
       "owner": "everford",
@@ -1658,7 +1729,8 @@
         "browser automation",
         "web scraping",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "executeautomation--mcp-playwright": {
       "owner": "executeautomation",
@@ -1681,7 +1753,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "executeautomation--playwright-mcp-server": {
       "owner": "executeautomation",
@@ -1704,7 +1777,8 @@
         "browser automation",
         "automation web",
         "automation webscrapping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "eyalzh--browser-control-mcp": {
       "owner": "eyalzh",
@@ -1727,7 +1801,8 @@
         "browser automation",
         "automation web",
         "integrate browsing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "fradser--mcp-server-apple-reminders": {
       "owner": "fradser",
@@ -1750,7 +1825,8 @@
         "browser automation",
         "automation web",
         "reminders macos"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "fstandhartinger--smooth-operator-client-python": {
       "owner": "fstandhartinger",
@@ -1773,7 +1849,8 @@
         "browser automation",
         "automation web",
         "browsers integrates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "getrupt--ashra-mcp": {
       "owner": "getrupt",
@@ -1796,7 +1873,8 @@
         "browser automation",
         "automation web",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "gojue--moling": {
       "owner": "gojue",
@@ -1819,7 +1897,8 @@
         "gojue moling",
         "moling moling",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "heehee365--MediaCrawler": {
       "owner": "heehee365",
@@ -1842,7 +1921,8 @@
         "mediacrawler scrapes",
         "browser automation",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "hetaoBackend--mcp-pyautogui-server": {
       "owner": "hetaoBackend",
@@ -1865,7 +1945,8 @@
         "browser automation",
         "automation web",
         "automated gui"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "htlin222--claude-chatgpt-mcp": {
       "owner": "htlin222",
@@ -1888,7 +1969,8 @@
         "browser automation",
         "automation web",
         "interact chatgpt"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "iiiusky--mcp-playwright": {
       "owner": "iiiusky",
@@ -1911,7 +1993,8 @@
         "browser automation",
         "automates browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "imprvhub--mcp-browser-agent": {
       "owner": "imprvhub",
@@ -1934,7 +2017,8 @@
         "browser automation",
         "browser agent",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jae-jae--fetcher-mcp": {
       "owner": "jae-jae",
@@ -1957,7 +2041,8 @@
         "browser automation",
         "automation web",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jae-jae--g-search-mcp": {
       "owner": "jae-jae",
@@ -1980,7 +2065,8 @@
         "browser automation",
         "automation web",
         "searching scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "janspoerer--mcp_browser_use": {
       "owner": "janspoerer",
@@ -2003,7 +2089,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jkawamoto--mcp-bear": {
       "owner": "jkawamoto",
@@ -2026,7 +2113,8 @@
         "browser automation",
         "automation web",
         "bear api"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jonnyhoff--mcp-browser-use": {
       "owner": "jonnyhoff",
@@ -2049,7 +2137,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kazuph--mcp-browser-tabs": {
       "owner": "kazuph",
@@ -2072,7 +2161,8 @@
         "browser automation",
         "automation web",
         "mcp browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kimtaeyoon83--mcp-server-youtube-transcript": {
       "owner": "kimtaeyoon83",
@@ -2095,7 +2185,8 @@
         "automation web",
         "browser automation",
         "content ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kimtth--mcp-aoai-web-browsing": {
       "owner": "kimtth",
@@ -2118,7 +2209,8 @@
         "automation web",
         "browser automation",
         "browsing automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kitfactory--PyMCPAutoGUI": {
       "owner": "kitfactory",
@@ -2141,7 +2233,8 @@
         "browser automation",
         "automation web",
         "pymcpautogui automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kkk929--browser-use": {
       "owner": "kkk929",
@@ -2164,7 +2257,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "korwabs--playwright-record-mcp": {
       "owner": "korwabs",
@@ -2187,7 +2281,8 @@
         "browser automation",
         "automation web",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lars-hagen--mcp-playwright-cdp": {
       "owner": "lars-hagen",
@@ -2210,7 +2305,8 @@
         "browser automation",
         "automation web",
         "playwright chrome"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lightpanda-io--gomcp": {
       "owner": "lightpanda-io",
@@ -2233,7 +2329,8 @@
         "browser automation",
         "automation web",
         "web automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lingxingchi--mcp-server-browserbase": {
       "owner": "lingxingchi",
@@ -2256,7 +2353,8 @@
         "browser automation",
         "automation web",
         "browserbase automates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lxe--chrome-mcp": {
       "owner": "lxe",
@@ -2279,7 +2377,8 @@
         "browser automation",
         "lxe chrome",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "m2rads--limetest-arch": {
       "owner": "m2rads",
@@ -2302,7 +2401,8 @@
         "browser automation",
         "automation web",
         "automate testing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "madtank--nova-act-mcp": {
       "owner": "madtank",
@@ -2325,7 +2425,8 @@
         "browser automation",
         "automation web",
         "control web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mario-andreschak--mcp-sap-gui": {
       "owner": "mario-andreschak",
@@ -2348,7 +2449,8 @@
         "automation web",
         "sap gui",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "markbustamante77--mcp": {
       "owner": "markbustamante77",
@@ -2371,7 +2473,8 @@
         "browser automation",
         "automation web",
         "web navigation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "meicanhong--translator_extension": {
       "owner": "meicanhong",
@@ -2394,7 +2497,8 @@
         "meicanhong translator_extension",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "merajmehrabi--puppeteer-mcp-server": {
       "owner": "merajmehrabi",
@@ -2417,7 +2521,8 @@
         "automation puppeteer",
         "browser automation",
         "puppeteer enables"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mfengzhishang--mcp": {
       "owner": "mfengzhishang",
@@ -2440,7 +2545,8 @@
         "browser automation",
         "automation web",
         "web scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mhazarabad--browser-use-mcp": {
       "owner": "mhazarabad",
@@ -2463,7 +2569,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "miyuren--mcp-server-browserbase": {
       "owner": "miyuren",
@@ -2486,7 +2593,8 @@
         "browser automation",
         "automation web",
         "automates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mobile-next--mobile-mcp": {
       "owner": "mobile-next",
@@ -2509,7 +2617,8 @@
         "browser automation",
         "automates mobile",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "modelcontextprotocol--server-puppeteer": {
       "owner": "modelcontextprotocol",
@@ -2532,7 +2641,8 @@
         "browser automation",
         "automation web",
         "puppeteer browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -2555,7 +2665,8 @@
         "automation web",
         "browser automation",
         "modelcontextprotocol servers"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "monteslu--vibe-eyes": {
       "owner": "monteslu",
@@ -2578,7 +2689,8 @@
         "browser automation",
         "automation web",
         "browser game"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ndthanhdev--mcp-browser-kit": {
       "owner": "ndthanhdev",
@@ -2601,7 +2713,8 @@
         "mcp browser",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "newbeb--stealth-browser-mcp": {
       "owner": "newbeb",
@@ -2624,7 +2737,8 @@
         "browser automation",
         "stealth browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "nicholmikey--chrome-tools-MCP": {
       "owner": "nicholmikey",
@@ -2647,7 +2761,8 @@
         "browser automation",
         "chrome tools",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "operative_sh--web-eval-agent": {
       "owner": "operative_sh",
@@ -2670,7 +2785,8 @@
         "browser automation",
         "automation web",
         "browser agents"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pietrozullo--browser-use-mcp": {
       "owner": "pietrozullo",
@@ -2693,7 +2809,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pim97--mcp-server-scrappey": {
       "owner": "pim97",
@@ -2716,7 +2833,8 @@
         "scrappey web",
         "automation web",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pskill9--web-search": {
       "owner": "pskill9",
@@ -2739,7 +2857,8 @@
         "automation web",
         "browser automation",
         "web searching"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pvinis--mcp-playwright-stealth": {
       "owner": "pvinis",
@@ -2762,7 +2881,8 @@
         "browser automation",
         "automation web",
         "automates browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "raccoonaihq--raccoonai-mcp-server": {
       "owner": "raccoonaihq",
@@ -2785,7 +2905,8 @@
         "browser automation",
         "automation web",
         "lam api"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "random-robbie--mcp-web-browser": {
       "owner": "random-robbie",
@@ -2808,7 +2929,8 @@
         "browser automation",
         "automation web",
         "advanced web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "rdvo--mcp-server": {
       "owner": "rdvo",
@@ -2831,7 +2953,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "recursechat--mcp-server-apple-shortcuts": {
       "owner": "recursechat",
@@ -2854,7 +2977,8 @@
         "browser automation",
         "automation web",
         "shortcuts mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "robertheadley--chrome-debug-mcp": {
       "owner": "robertheadley",
@@ -2877,7 +3001,8 @@
         "browser automation",
         "automation web",
         "automation tools"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samihalawa--mcp-ai-vision-debug-ui-automation": {
       "owner": "samihalawa",
@@ -2900,7 +3025,8 @@
         "browser automation",
         "automation web",
         "ui automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samihalawa--visual-ui-debug-agent-mcp": {
       "owner": "samihalawa",
@@ -2923,7 +3049,8 @@
         "browser automation",
         "automation web",
         "debugging web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samuelvinay91--autospectra-mcp-server": {
       "owner": "samuelvinay91",
@@ -2946,7 +3073,8 @@
         "browser automation",
         "automation web",
         "automate browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samuelvinay91--uniauto-mcp-server": {
       "owner": "samuelvinay91",
@@ -2969,7 +3097,8 @@
         "browser automation",
         "automation web",
         "automates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "sethbang--mcp-screenshot-server": {
       "owner": "sethbang",
@@ -2992,7 +3121,8 @@
         "browser automation",
         "screenshots web",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "showfive--playwright-mcp-server": {
       "owner": "showfive",
@@ -3015,7 +3145,8 @@
         "browser automation",
         "automation web",
         "browsers web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "steel-dev--steel-mcp-server": {
       "owner": "steel-dev",
@@ -3038,7 +3169,8 @@
         "automation web",
         "browser automation",
         "puppeteer based"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "suthio--brave-deep-research-mcp": {
       "owner": "suthio",
@@ -3061,7 +3193,8 @@
         "browser automation",
         "searching scraping",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "tanob--mcp-desktop-automation": {
       "owner": "tanob",
@@ -3084,7 +3217,8 @@
         "browser automation",
         "automation web",
         "automation features"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "tatn--mcp-server-fetch-python": {
       "owner": "tatn",
@@ -3107,7 +3241,8 @@
         "automation web",
         "browser automation",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "theclarityproject--mcp-server": {
       "owner": "theclarityproject",
@@ -3130,7 +3265,8 @@
         "automation web",
         "browser automation",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "twolven--mcp-server-puppeteer-py": {
       "owner": "twolven",
@@ -3153,7 +3289,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "uui6yee--scrm": {
       "owner": "uui6yee",
@@ -3176,7 +3313,8 @@
         "browser automation",
         "browser fingerprint",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "vinayak-mehta--mcp-browser-use": {
       "owner": "vinayak-mehta",
@@ -3199,7 +3337,8 @@
         "browser automation",
         "automation web",
         "mcp browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "vinhphamai23--mcp-playwright": {
       "owner": "vinhphamai23",
@@ -3222,7 +3361,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "vinhphamai23--playwright-mcp": {
       "owner": "vinhphamai23",
@@ -3245,7 +3385,8 @@
         "browser automation",
         "automation web",
         "playwright accessibility"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "wenpingwu001--mcp-browser-use": {
       "owner": "wenpingwu001",
@@ -3268,7 +3409,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "williamvd4--browser-use-mcp-server": {
       "owner": "williamvd4",
@@ -3291,7 +3433,8 @@
         "browser automation",
         "automation web",
         "williamvd4 browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "willsmith2099--open-webui": {
       "owner": "willsmith2099",
@@ -3314,7 +3457,8 @@
         "webui self",
         "hosted webui",
         "webui enhancing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "wysh3--perplexity-mcp-zerver": {
       "owner": "wysh3",
@@ -3337,7 +3481,8 @@
         "automation web",
         "browser automation",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "xinzhongyouhai--mcp-server-browserbase": {
       "owner": "xinzhongyouhai",
@@ -3360,7 +3505,8 @@
         "browser automation",
         "automation web",
         "browserbase automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "xspadex--bilibili-mcp": {
       "owner": "xspadex",
@@ -3383,7 +3529,8 @@
         "browser automation",
         "automation web",
         "fastmcp based"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "yokingma--one-search-mcp": {
       "owner": "yokingma",
@@ -3406,7 +3553,8 @@
         "browser automation",
         "searching scraping",
         "search scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ziux--playwright-plus-python-mcp": {
       "owner": "ziux",
@@ -3429,7 +3577,8 @@
         "browser automation",
         "automation web",
         "plus python"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "zmx8516104--puppeteer": {
       "owner": "zmx8516104",
@@ -3452,7 +3601,8 @@
         "puppeteer automates",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ztobs--cline-browser-use-mcp": {
       "owner": "ztobs",
@@ -3475,7 +3625,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     }
   }
 }

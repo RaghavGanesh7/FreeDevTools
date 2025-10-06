@@ -25,7 +25,8 @@
         "server nationalparks",
         "park service",
         "national parks"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "Pradumnasaraf--aviationstack-mcp": {
       "owner": "Pradumnasaraf",
@@ -48,7 +49,8 @@
         "aviationstack mcp",
         "using aviationstack",
         "pradumnasaraf aviationstack"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "campertunity--mcp-server": {
       "owner": "campertunity",
@@ -71,7 +73,8 @@
         "campertunity mcp",
         "search campgrounds",
         "campgrounds world"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "cobanov--teslamate-mcp": {
       "owner": "cobanov",
@@ -94,7 +97,8 @@
         "teslamate mcp",
         "protocol mcp",
         "mcp model"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "helpful-AIs--triplyfy-mcp": {
       "owner": "helpful-AIs",
@@ -117,7 +121,8 @@
         "triplyfy mcp",
         "maps triplyfy",
         "travel data"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "lucygoodchild--mcp-national-rail": {
       "owner": "lucygoodchild",
@@ -140,7 +145,8 @@
         "mcp server",
         "trains service",
         "trains api"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "openbnb-org--mcp-server-airbnb": {
       "owner": "openbnb-org",
@@ -163,7 +169,8 @@
         "airbnb provides",
         "server airbnb",
         "search airbnb"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "pab1it0--tripadvisor-mcp": {
       "owner": "pab1it0",
@@ -186,7 +193,8 @@
         "tripadvisor mcp",
         "mcp server",
         "pab1it0 tripadvisor"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "r-huijts--ns-mcp-server": {
       "owner": "r-huijts",
@@ -209,7 +217,8 @@
         "ns travel",
         "railways ns",
         "travel data"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "skedgo--tripgo-mcp-server": {
       "owner": "skedgo",
@@ -232,7 +241,8 @@
         "tripgo api",
         "travel data",
         "skedgo tripgo"
-      ]
+      ],
+      "category": "travel--transportation"
     },
     "srinath1510--alltrails-mcp-server": {
       "owner": "srinath1510",
@@ -255,7 +265,8 @@
         "mcp server",
         "server mcp",
         "alltrails mcp"
-      ]
+      ],
+      "category": "travel--transportation"
     }
   }
 }

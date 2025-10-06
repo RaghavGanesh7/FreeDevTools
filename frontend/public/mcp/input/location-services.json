@@ -25,7 +25,8 @@
         "location services",
         "using openweathermap",
         "weather data"
-      ]
+      ],
+      "category": "location-services"
     },
     "SecretiveShell--MCP-timeserver": {
       "owner": "SecretiveShell",
@@ -48,7 +49,8 @@
         "location services",
         "location based",
         "local time"
-      ]
+      ],
+      "category": "location-services"
     },
     "TimLukaHorstmann--mcp-weather": {
       "owner": "TimLukaHorstmann",
@@ -71,7 +73,8 @@
         "location services",
         "accuweather api",
         "location based"
-      ]
+      ],
+      "category": "location-services"
     },
     "briandconnelly--mcp-server-ipinfo": {
       "owner": "briandconnelly",
@@ -94,7 +97,8 @@
         "location services",
         "geolocation network",
         "location based"
-      ]
+      ],
+      "category": "location-services"
     },
     "cqtrinv--trinvmcp": {
       "owner": "cqtrinv",
@@ -117,7 +121,8 @@
         "location services",
         "location based",
         "services mapping"
-      ]
+      ],
+      "category": "location-services"
     },
     "devilcoder01--weather-mcp-server": {
       "owner": "devilcoder01",
@@ -140,7 +145,8 @@
         "location services",
         "weather data",
         "location based"
-      ]
+      ],
+      "category": "location-services"
     },
     "ip2location--mcp-ip2location-io": {
       "owner": "ip2location",
@@ -163,7 +169,8 @@
         "ip2location io",
         "location services",
         "analytics ip2location"
-      ]
+      ],
+      "category": "location-services"
     },
     "ipfind--ipfind-mcp-server": {
       "owner": "ipfind",
@@ -186,7 +193,8 @@
         "location services",
         "location service",
         "analytics ipfind"
-      ]
+      ],
+      "category": "location-services"
     },
     "ipfred--aiwen-mcp-server-geoip": {
       "owner": "ipfred",
@@ -209,7 +217,8 @@
         "location services",
         "geoip iplocate",
         "server geoip"
-      ]
+      ],
+      "category": "location-services"
     },
     "jagan-shanmugam--open-streetmap-mcp": {
       "owner": "jagan-shanmugam",
@@ -232,7 +241,8 @@
         "location services",
         "mcp openstreetmap",
         "openstreetmap mcp"
-      ]
+      ],
+      "category": "location-services"
     },
     "kukapay--nearby-search-mcp": {
       "owner": "kukapay",
@@ -255,7 +265,8 @@
         "location services",
         "location based",
         "location detection"
-      ]
+      ],
+      "category": "location-services"
     },
     "mahdin75--geoserver-mcp": {
       "owner": "mahdin75",
@@ -278,7 +289,8 @@
         "location services",
         "geoserver mcp",
         "gis mcp"
-      ]
+      ],
+      "category": "location-services"
     },
     "modelcontextprotocol--server-google-maps": {
       "owner": "modelcontextprotocol",
@@ -301,7 +313,8 @@
         "location services",
         "maps google",
         "google maps"
-      ]
+      ],
+      "category": "location-services"
     },
     "rossshannon--weekly-weather-mcp": {
       "owner": "rossshannon",
@@ -324,7 +337,8 @@
         "location services",
         "location based",
         "services mapping"
-      ]
+      ],
+      "category": "location-services"
     },
     "stadiamaps--stadiamaps-mcp-server-ts": {
       "owner": "stadiamaps",
@@ -347,7 +361,8 @@
         "location services",
         "location apis",
         "analytics stadiamaps"
-      ]
+      ],
+      "category": "location-services"
     },
     "trackmage--trackmage-mcp-server": {
       "owner": "trackmage",
@@ -370,7 +385,8 @@
         "location services",
         "tracking api",
         "trackmage api"
-      ]
+      ],
+      "category": "location-services"
     },
     "webcoderz--MCP-Geo": {
       "owner": "webcoderz",
@@ -393,7 +409,8 @@
         "location services",
         "location based",
         "services mapping"
-      ]
+      ],
+      "category": "location-services"
     }
   }
 }

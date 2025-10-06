@@ -25,7 +25,8 @@
         "videocapture mcp",
         "mcp video",
         "13rac1 videocapture"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "396001000--ComfyUI_StoryDiffusion": {
       "owner": "396001000",
@@ -48,7 +49,8 @@
         "comfyui_storydiffusion allows",
         "comfyui_storydiffusion comfyui_storydiffusion",
         "storytelling visuals"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "8bitsats--GROK_MCP": {
       "owner": "8bitsats",
@@ -71,7 +73,8 @@
         "solana blockchain",
         "8bitsats grok_mcp",
         "generation 8bitsats"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "8bitsats--Grok-MCP": {
       "owner": "8bitsats",
@@ -94,7 +97,8 @@
         "grok mcp",
         "using grok",
         "8bitsats grok"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Antipas--4oimage-mcp": {
       "owner": "Antipas",
@@ -117,7 +121,8 @@
         "antipas 4oimage",
         "4oimage mcp",
         "generation antipas"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Bob-lance--grok-mcp": {
       "owner": "Bob-lance",
@@ -140,7 +145,8 @@
         "grok ai",
         "connects grok",
         "grok mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "CLOUDWERX-DEV--DiffuGen": {
       "owner": "CLOUDWERX-DEV",
@@ -163,7 +169,8 @@
         "generate ai",
         "ai images",
         "generation cloudwerx"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "CLOUDWERX-DEV--gpt-image-1-mcp": {
       "owner": "CLOUDWERX-DEV",
@@ -186,7 +193,8 @@
         "image mcp",
         "gpt image",
         "generation cloudwerx"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "CaullenOmdahl--pexels-mcp-server": {
       "owner": "CaullenOmdahl",
@@ -209,7 +217,8 @@
         "pexels mcp",
         "pexels using",
         "caullenomdahl pexels"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Dreamboat-Rachel--MCP-Server-For-Local": {
       "owner": "Dreamboat-Rachel",
@@ -232,7 +241,8 @@
         "connect ai",
         "automation camera",
         "ai models"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Emmanuel97423--video_maker": {
       "owner": "Emmanuel97423",
@@ -255,7 +265,8 @@
         "video generation",
         "video_maker create",
         "video projects"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "GMKR--mcp-imagegen": {
       "owner": "GMKR",
@@ -278,7 +289,8 @@
         "mcp imagegen",
         "generate images",
         "imagegen generate"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Garoth--dalle-mcp": {
       "owner": "Garoth",
@@ -301,7 +313,8 @@
         "generate images",
         "mcp generate",
         "images create"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "GongRzhe--Image-Generation-MCP-Server": {
       "owner": "GongRzhe",
@@ -324,7 +337,8 @@
         "generate images",
         "image generation",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Hajime-Y--deep-research-mcp": {
       "owner": "Hajime-Y",
@@ -347,7 +361,8 @@
         "mcp provides",
         "research mcp",
         "hajime deep"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Hzzy2O--flux-cloudfare-mcp": {
       "owner": "Hzzy2O",
@@ -370,7 +385,8 @@
         "flux cloudfare",
         "cloudfare mcp",
         "model cloudflare"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "IA-Programming--mcp-images": {
       "owner": "IA-Programming",
@@ -393,7 +409,8 @@
         "mcp images",
         "process images",
         "programming mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "IncomeStreamSurfer--chatgpt-native-image-gen-mcp": {
       "owner": "IncomeStreamSurfer",
@@ -416,7 +433,8 @@
         "image generation",
         "image gen",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "InhiblabCore--mcp-image-compression": {
       "owner": "InhiblabCore",
@@ -439,7 +457,8 @@
         "image compression",
         "images compressing",
         "smart compression"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "JeremyNixon--mcp-fetch": {
       "owner": "JeremyNixon",
@@ -462,7 +481,8 @@
         "images integration",
         "processes images",
         "ai models"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "JigsawStack--jigsawstack-mcp-server": {
       "owner": "JigsawStack",
@@ -485,7 +505,8 @@
         "generate images",
         "image generation",
         "jigsawstack mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Kira-Pgr--PromptShopMCP": {
       "owner": "Kira-Pgr",
@@ -508,7 +529,8 @@
         "pgr promptshopmcp",
         "promptshopmcp transforms",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Letz-AI--letzai-mcp": {
       "owner": "Letz-AI",
@@ -531,7 +553,8 @@
         "image generation",
         "upscale images",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "LoganLxb--LoganLxb": {
       "owner": "LoganLxb",
@@ -554,7 +577,8 @@
         "virtual reality",
         "augmented virtual",
         "generation loganlxb"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Lucker631--mcp-templateio": {
       "owner": "Lucker631",
@@ -577,7 +601,8 @@
         "mcp templateio",
         "templateio generates",
         "graphics creation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "MichaelYangjson--mcp-ghibli-video": {
       "owner": "MichaelYangjson",
@@ -600,7 +625,8 @@
         "animated videos",
         "video generation",
         "ghibli video"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "MiniMax-AI--MiniMax-MCP-JS": {
       "owner": "MiniMax-AI",
@@ -623,7 +649,8 @@
         "minimax ai",
         "ai minimax",
         "mcp js"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Momo707577045--tinypng-script-with-cache": {
       "owner": "Momo707577045",
@@ -646,7 +673,8 @@
         "momo707577045 tinypng",
         "compress images",
         "compressed images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "MubarakHAlketbi--game-asset-mcp": {
       "owner": "MubarakHAlketbi",
@@ -669,7 +697,8 @@
         "game assets",
         "game asset",
         "prototyping game"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "NON906--omniparser-autogui-mcp": {
       "owner": "NON906",
@@ -692,7 +721,8 @@
         "omniparser autogui",
         "omniparser automatically",
         "using omniparser"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "NightTrek--moondream-mcp": {
       "owner": "NightTrek",
@@ -715,7 +745,8 @@
         "nighttrek moondream",
         "moondream mcp",
         "advanced image"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "PawNzZi--image-server": {
       "owner": "PawNzZi",
@@ -738,7 +769,8 @@
         "prompts images",
         "pawnzzi image",
         "advanced ai"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Sheshiyer--jina-ai-mcp-multimodal-search": {
       "owner": "Sheshiyer",
@@ -761,7 +793,8 @@
         "multimodal search",
         "mcp multimodal",
         "modal searches"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Siddhant-K-code--memory-journal-mcp-server": {
       "owner": "Siddhant-K-code",
@@ -784,7 +817,8 @@
         "photos library",
         "analyze photos",
         "easily images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Sunwood-ai-labs--ideagram-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -807,7 +841,8 @@
         "generate images",
         "ideagram mcp",
         "ideogram api"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "SureScaleAI--openai-gpt-image-mcp": {
       "owner": "SureScaleAI",
@@ -830,7 +865,8 @@
         "openai gpt",
         "gpt image",
         "image mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "Tencent--cos-mcp": {
       "owner": "Tencent",
@@ -853,7 +889,8 @@
         "tencent cloud",
         "automated cloud",
         "storage cos"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "agan2023416--workers": {
       "owner": "agan2023416",
@@ -876,7 +913,8 @@
         "server image",
         "generating images",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "aigc17--Al-StoryLab": {
       "owner": "aigc17",
@@ -899,7 +937,8 @@
         "ai storylab",
         "storylab ai",
         "storylab generates"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "aiyogg--tinypng-mcp-server": {
       "owner": "aiyogg",
@@ -922,7 +961,8 @@
         "tinypng mcp",
         "compress images",
         "using tinypng"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "apinetwork--piapi-mcp-server": {
       "owner": "apinetwork",
@@ -945,7 +985,8 @@
         "piapi api",
         "apinetwork piapi",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "attarmau--StyleCLIP": {
       "owner": "attarmau",
@@ -968,7 +1009,8 @@
         "clothing images",
         "upload clothing",
         "clothing tag"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "awkoy--replicate-flux-mcp": {
       "owner": "awkoy",
@@ -991,7 +1033,8 @@
         "mcp generate",
         "generate images",
         "awkoy replicate"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "awslabs--mcp": {
       "owner": "awslabs",
@@ -1014,7 +1057,8 @@
         "awslabs mcp",
         "generates images",
         "generation awslabs"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "bendusy--pollinations-mcp": {
       "owner": "bendusy",
@@ -1037,7 +1081,8 @@
         "pollinations ai",
         "generating images",
         "ai api"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "beordle--tinypng-mcp-server": {
       "owner": "beordle",
@@ -1060,7 +1105,8 @@
         "compress images",
         "tinypng mcp",
         "beordle tinypng"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "bitscorp-mcp--mcp-ffmpeg": {
       "owner": "bitscorp-mcp",
@@ -1083,7 +1129,8 @@
         "mcp ffmpeg",
         "video generation",
         "video processing"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "bobtista--luma-ai-mcp-server": {
       "owner": "bobtista",
@@ -1106,7 +1153,8 @@
         "ai dream",
         "dream machine",
         "luma ai"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "breezedeus--CnOCR": {
       "owner": "breezedeus",
@@ -1129,7 +1177,8 @@
         "character recognition",
         "text recognition",
         "recognition chinese"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "burningion--video-editing-mcp": {
       "owner": "burningion",
@@ -1152,7 +1201,8 @@
         "video generation",
         "generate videos",
         "video editing"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "bytefer--mcp-flux-schnell": {
       "owner": "bytefer",
@@ -1175,7 +1225,8 @@
         "flux schnell",
         "mcp flux",
         "image generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "c-rick--jimeng-mcp": {
       "owner": "c-rick",
@@ -1198,7 +1249,8 @@
         "generate images",
         "jimeng mcp",
         "jimeng ai"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "catalystneuro--mcp_read_images": {
       "owner": "catalystneuro",
@@ -1221,7 +1273,8 @@
         "catalystneuro mcp_read_images",
         "mcp_read_images analyze",
         "analyze images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "champierre--image-mcp-server": {
       "owner": "champierre",
@@ -1244,7 +1297,8 @@
         "image mcp",
         "image urls",
         "analyzes images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "chenyeju295--mcp_generate_images": {
       "owner": "chenyeju295",
@@ -1267,7 +1321,8 @@
         "chenyeju295 mcp_generate_images",
         "mcp_generate_images image",
         "image generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "ckz--flux-img-mcp": {
       "owner": "ckz",
@@ -1290,7 +1345,8 @@
         "generate images",
         "image creation",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "ckz--flux-schnell-mcp": {
       "owner": "ckz",
@@ -1313,7 +1369,8 @@
         "generate images",
         "video generation",
         "ckz flux"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "coderjun--shaka-packager-mcp-server": {
       "owner": "coderjun",
@@ -1336,7 +1393,8 @@
         "shaka packager",
         "video transcoding",
         "packager mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "dangtanloc--ComfyUI": {
       "owner": "dangtanloc",
@@ -1359,7 +1417,8 @@
         "diffusion pipelines",
         "visual graph",
         "comfyui visual"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "dasheck0--face-generator": {
       "owner": "dasheck0",
@@ -1382,7 +1441,8 @@
         "face generator",
         "face images",
         "dasheck0 face"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "deepfates--mcp-replicate": {
       "owner": "deepfates",
@@ -1405,7 +1465,8 @@
         "mcp replicate",
         "deepfates mcp",
         "generation deepfates"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "douglarek--unsplash-mcp-server": {
       "owner": "douglarek",
@@ -1428,7 +1489,8 @@
         "stunning images",
         "images unsplash",
         "unsplash mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "drumnation--unsplash-smart-mcp-server": {
       "owner": "drumnation",
@@ -1451,7 +1513,8 @@
         "smart mcp",
         "automatic attribution",
         "photos context"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "dvejsada--mcp_media_generator": {
       "owner": "dvejsada",
@@ -1474,7 +1537,8 @@
         "dvejsada mcp_media_generator",
         "video generation",
         "generation dvejsada"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "el-el-san--vidu-mcp-server": {
       "owner": "el-el-san",
@@ -1497,7 +1561,8 @@
         "generate videos",
         "video generation",
         "image video"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "evalstate--mcp-hfspace": {
       "owner": "evalstate",
@@ -1520,7 +1585,8 @@
         "mcp hfspace",
         "face spaces",
         "image generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "evalstate--mcp-webcam": {
       "owner": "evalstate",
@@ -1543,7 +1609,8 @@
         "mcp webcam",
         "webcam mcp",
         "images webcam"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "falahgs--MCP-Storybook-Image-Generator": {
       "owner": "falahgs",
@@ -1566,7 +1633,8 @@
         "storybook images",
         "storybook image",
         "image generator"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "falahgs--flux-imagegen-mcp-server": {
       "owner": "falahgs",
@@ -1589,7 +1657,8 @@
         "image generation",
         "image creation",
         "imagegen mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "falahgs--imagen-3.0-generate-google-mcp-server": {
       "owner": "falahgs",
@@ -1612,7 +1681,8 @@
         "imagen generate",
         "google imagen",
         "imagen model"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "falahgs--mcp-3d-style-cartoon-gen-server": {
       "owner": "falahgs",
@@ -1635,7 +1705,8 @@
         "mcp 3d",
         "cartoon images",
         "cartoon gen"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "felores--cloudinary-mcp-server": {
       "owner": "felores",
@@ -1658,7 +1729,8 @@
         "cloudinary mcp",
         "videos cloudinary",
         "mcp server"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "felores--placid-mcp-server": {
       "owner": "felores",
@@ -1681,7 +1753,8 @@
         "placid app",
         "placid mcp",
         "mcp server"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "fengin--image-gen-server": {
       "owner": "fengin",
@@ -1704,7 +1777,8 @@
         "generate images",
         "image gen",
         "fengin image"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "hamflx--imagen3-mcp": {
       "owner": "hamflx",
@@ -1727,7 +1801,8 @@
         "imagen3 mcp",
         "hamflx imagen3",
         "google imagen"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "hellokaton--unsplash-mcp-server": {
       "owner": "hellokaton",
@@ -1750,7 +1825,8 @@
         "unsplash image",
         "unsplash mcp",
         "image retrieval"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "htessaro--mcp-test-deploy-2": {
       "owner": "htessaro",
@@ -1773,7 +1849,8 @@
         "htessaro mcp",
         "cat images",
         "breed information"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "huangmiuXyz--jimeng-mcp": {
       "owner": "huangmiuXyz",
@@ -1796,7 +1873,8 @@
         "image generation",
         "image synthesis",
         "ai image"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "husniadil--mcp-image-placeholder": {
       "owner": "husniadil",
@@ -1819,7 +1897,8 @@
         "placeholder images",
         "image placeholder",
         "mcp image"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "ifmelate--mcp-image-extractor": {
       "owner": "ifmelate",
@@ -1842,7 +1921,8 @@
         "image extractor",
         "mcp image",
         "extracts images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "jaokuohsuan--draw-things-mcp-cursor": {
       "owner": "jaokuohsuan",
@@ -1865,7 +1945,8 @@
         "visual creations",
         "generates images",
         "utilizes draw"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "jbrower95--mcp-asset-gen": {
       "owner": "jbrower95",
@@ -1888,7 +1969,8 @@
         "image generation",
         "video generation",
         "image assets"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "jezweb--openai-mcp": {
       "owner": "jezweb",
@@ -1911,7 +1993,8 @@
         "openai mcp",
         "image generation",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "jhacksman--OpenSCAD-MCP-Server": {
       "owner": "jhacksman",
@@ -1934,7 +2017,8 @@
         "openscad mcp",
         "openscad facilitates",
         "jhacksman openscad"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "jmanhype--mcp-flux-studio": {
       "owner": "jmanhype",
@@ -1957,7 +2041,8 @@
         "image generation",
         "flux studio",
         "flux ai"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "joshmouch--mcp-image-generator": {
       "owner": "joshmouch",
@@ -1980,7 +2065,8 @@
         "image generator",
         "mcp image",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "jyjune--mcp_vms": {
       "owner": "jyjune",
@@ -2003,7 +2089,8 @@
         "jyjune mcp_vms",
         "cctv recording",
         "connects cctv"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "kazuph--mcp-fetch": {
       "owner": "kazuph",
@@ -2026,7 +2113,8 @@
         "mcp fetch",
         "kazuph mcp",
         "content management"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "kazuph--mcp-screenshot": {
       "owner": "kazuph",
@@ -2049,7 +2137,8 @@
         "mcp screenshot",
         "recognition macos",
         "kazuph mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "kshern--image-tools-mcp": {
       "owner": "kshern",
@@ -2072,7 +2161,8 @@
         "image tools",
         "convert images",
         "images convert"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "lalanikarim--comfy-mcp-server": {
       "owner": "lalanikarim",
@@ -2095,7 +2185,8 @@
         "utilizes fastmcp",
         "mcp server",
         "fastmcp framework"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "laosu888--tupianyasuo": {
       "owner": "laosu888",
@@ -2118,7 +2209,8 @@
         "image compression",
         "compression tool",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "luojunhui1--ImageOnC": {
       "owner": "luojunhui1",
@@ -2141,7 +2233,8 @@
         "opencv image",
         "plate recognition",
         "license plate"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "luoshui-coder--image-generator-mcp-server": {
       "owner": "luoshui-coder",
@@ -2164,7 +2257,8 @@
         "generates images",
         "image generator",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "m-mcp--flux-schnell-server": {
       "owner": "m-mcp",
@@ -2187,7 +2281,8 @@
         "generating images",
         "provides mcp",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "madhusudan-kulkarni--mcp-fal-ai-image": {
       "owner": "madhusudan-kulkarni",
@@ -2210,7 +2305,8 @@
         "image generate",
         "generate images",
         "generated images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "manascb1344--together-mcp-server": {
       "owner": "manascb1344",
@@ -2233,7 +2329,8 @@
         "video generation",
         "quality images",
         "manascb1344 mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "maoxiaoke--mcp-media-processor": {
       "owner": "maoxiaoke",
@@ -2256,7 +2353,8 @@
         "media processor",
         "media processing",
         "mcp media"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "mario-andreschak--mcp-image-recognition": {
       "owner": "mario-andreschak",
@@ -2279,7 +2377,8 @@
         "extraction images",
         "image recognition",
         "analyze images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "mario-andreschak--mcp-veo2": {
       "owner": "mario-andreschak",
@@ -2302,7 +2401,8 @@
         "mcp veo2",
         "google veo2",
         "generated videos"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "mikeyny--ai-image-gen-mcp": {
       "owner": "mikeyny",
@@ -2325,7 +2425,8 @@
         "generate images",
         "generated images",
         "image gen"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "murataskin--image-mcp-server-gemini": {
       "owner": "murataskin",
@@ -2348,7 +2449,8 @@
         "gemini flash",
         "server gemini",
         "image mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "nansasuke--GarbageSorting": {
       "owner": "nansasuke",
@@ -2371,7 +2473,8 @@
         "classify waste",
         "nansasuke garbagesorting",
         "garbagesorting identify"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "nickbaumann98--everart-forge-mcp": {
       "owner": "nickbaumann98",
@@ -2394,7 +2497,8 @@
         "video generation",
         "raster images",
         "image processing"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "noeltg77--Replicate-Designer": {
       "owner": "noeltg77",
@@ -2417,7 +2521,8 @@
         "image generation",
         "generate images",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "nota--gyazo-mcp-server": {
       "owner": "nota",
@@ -2440,7 +2545,8 @@
         "gyazo images",
         "ocr data",
         "gyazo mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "peng-shawn--mermaid-mcp-server": {
       "owner": "peng-shawn",
@@ -2463,7 +2569,8 @@
         "mermaid diagram",
         "mermaid markdown",
         "mermaid mcp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "philipp-eisen--modal-mcp-toolbox": {
       "owner": "philipp-eisen",
@@ -2486,7 +2593,8 @@
         "modal mcp",
         "generating images",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "pinkpixel-dev--MCPollinations": {
       "owner": "pinkpixel-dev",
@@ -2509,7 +2617,8 @@
         "pinkpixel dev",
         "generation pinkpixel",
         "generates images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "qhdrl12--mcp-server-gemini-image-generator": {
       "owner": "qhdrl12",
@@ -2532,7 +2641,8 @@
         "image generator",
         "gemini image",
         "video generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "qpd-v--mcp-image-downloader": {
       "owner": "qpd-v",
@@ -2555,7 +2665,8 @@
         "image downloader",
         "mcp image",
         "downloading images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "rmcendarfer2017--MCP-image-gen": {
       "owner": "rmcendarfer2017",
@@ -2578,7 +2689,8 @@
         "generating images",
         "mcp image",
         "image gen"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "rsagacom--chatgpt-on-wechat": {
       "owner": "rsagacom",
@@ -2601,7 +2713,8 @@
         "dialogue service",
         "rsagacom chatgpt",
         "chatgpt wechat"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "sammyl720--image-generator-mcp-server": {
       "owner": "sammyl720",
@@ -2624,7 +2737,8 @@
         "generate images",
         "image generator",
         "mcp server"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "sarthakkimtani--mcp-image-gen": {
       "owner": "sarthakkimtani",
@@ -2647,7 +2761,8 @@
         "image generation",
         "mcp image",
         "image gen"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "sshtunnelvision--MCP-LOGO-GEN": {
       "owner": "sshtunnelvision",
@@ -2670,7 +2785,8 @@
         "logo generation",
         "mcp logo",
         "logo gen"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "stabgan--openrouter-mcp-multimodal": {
       "owner": "stabgan",
@@ -2693,7 +2809,8 @@
         "multimodal conversations",
         "mcp multimodal",
         "chat image"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "surferdot--mcp-svg-converter": {
       "owner": "surferdot",
@@ -2716,7 +2833,8 @@
         "svg converter",
         "converts svg",
         "mcp svg"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "techkwon--mcp-gemini": {
       "owner": "techkwon",
@@ -2739,7 +2857,8 @@
         "google gemini",
         "gemini api",
         "mcp gemini"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "tuki0918--eagle-mcp-server": {
       "owner": "tuki0918",
@@ -2762,7 +2881,8 @@
         "eagle mcp",
         "mcp server",
         "eagle app"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "tzafrir--mcp-server-replicate": {
       "owner": "tzafrir",
@@ -2785,7 +2905,8 @@
         "video generation",
         "server replicate",
         "image generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "video-creator--ffmpeg-mcp": {
       "owner": "video-creator",
@@ -2808,7 +2929,8 @@
         "ffmpeg mcp",
         "ffmpeg provides",
         "creator ffmpeg"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "vishwa684--unet": {
       "owner": "vishwa684",
@@ -2831,7 +2953,8 @@
         "biomedical image",
         "models biomedical",
         "decathlon dataset"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "wheattoast11--mcp-video-gen": {
       "owner": "wheattoast11",
@@ -2854,7 +2977,8 @@
         "video generation",
         "generate videos",
         "ai generated"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "whiteking64--macos-ocr-mcp": {
       "owner": "whiteking64",
@@ -2877,7 +3001,8 @@
         "macos ocr",
         "ocr mcp",
         "ocr images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "xenoailimited--mcp-mavae": {
       "owner": "xenoailimited",
@@ -2900,7 +3025,8 @@
         "mcp mavae",
         "xenoailimited mcp",
         "mcp server"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "xixilidao--osgearth": {
       "owner": "xixilidao",
@@ -2923,7 +3049,8 @@
         "3d maps",
         "maps applications",
         "accurate 3d"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "xiyuefox--mcp-hfspace": {
       "owner": "xiyuefox",
@@ -2946,7 +3073,8 @@
         "xiyuefox mcp",
         "mcp hfspace",
         "image generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "xoy8n--webp-converter": {
       "owner": "xoy8n",
@@ -2969,7 +3097,8 @@
         "webp converter",
         "jpeg webp",
         "xoy8n webp"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "yanjunz--mcp_search_images": {
       "owner": "yanjunz",
@@ -2992,7 +3121,8 @@
         "yanjunz mcp_search_images",
         "mcp_search_images search",
         "quality images"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "yunwoong7--aws-nova-canvas-mcp": {
       "owner": "yunwoong7",
@@ -3015,7 +3145,8 @@
         "nova canvas",
         "canvas mcp",
         "generation image"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "zjf2671--hh-mcp-comfyui": {
       "owner": "zjf2671",
@@ -3038,7 +3169,8 @@
         "comfyui instances",
         "comfyui integrates",
         "mcp comfyui"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "zxkane--mcp-server-amazon-bedrock": {
       "owner": "zxkane",
@@ -3061,7 +3193,8 @@
         "amazon bedrock",
         "bedrock nova",
         "image composition"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "zym9863--pixabay-mcp": {
       "owner": "zym9863",
@@ -3084,7 +3217,8 @@
         "pixabay api",
         "pixabay mcp",
         "connect pixabay"
-      ]
+      ],
+      "category": "image-and-video-generation"
     },
     "zym9863--together-ai-image-server": {
       "owner": "zym9863",
@@ -3107,7 +3241,8 @@
         "ai image",
         "generates images",
         "image generation"
-      ]
+      ],
+      "category": "image-and-video-generation"
     }
   }
 }

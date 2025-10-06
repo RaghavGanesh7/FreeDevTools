@@ -25,7 +25,8 @@
         "semantic search",
         "vector databases",
         "data geeksfino"
-      ]
+      ],
+      "category": "open-source-data"
     },
     "OpenDataMCP--OpenDataMCP": {
       "owner": "OpenDataMCP",
@@ -48,7 +49,8 @@
         "opendatamcp python",
         "data opendatamcp",
         "opendatamcp opendatamcp"
-      ]
+      ],
+      "category": "open-source-data"
     },
     "anshumax--world_bank_mcp_server": {
       "owner": "anshumax",
@@ -71,7 +73,8 @@
         "anshumax world_bank_mcp_server",
         "world bank",
         "world_bank_mcp_server enables"
-      ]
+      ],
+      "category": "open-source-data"
     },
     "doanbactam--code": {
       "owner": "doanbactam",
@@ -94,7 +97,8 @@
         "data doanbactam",
         "doanbactam code",
         "open source"
-      ]
+      ],
+      "category": "open-source-data"
     },
     "joaowinderfeldbussolotto--MCP-Websearch-Server": {
       "owner": "joaowinderfeldbussolotto",
@@ -117,7 +121,8 @@
         "mcp websearch",
         "websearch server",
         "index openai"
-      ]
+      ],
+      "category": "open-source-data"
     },
     "melaodoidao--datagov-mcp-server": {
       "owner": "melaodoidao",
@@ -140,7 +145,8 @@
         "government datasets",
         "data gov",
         "public data"
-      ]
+      ],
+      "category": "open-source-data"
     },
     "srobbin--opengov-mcp-server": {
       "owner": "srobbin",
@@ -163,7 +169,8 @@
         "government datasets",
         "datasets socrata",
         "data srobbin"
-      ]
+      ],
+      "category": "open-source-data"
     }
   }
 }

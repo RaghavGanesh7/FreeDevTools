@@ -25,7 +25,8 @@
         "tools ethereum",
         "ethereum tools",
         "analyze ethereum"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "0xKoda--eth-mcp": {
       "owner": "0xKoda",
@@ -48,7 +49,8 @@
         "crypto 0xkoda",
         "0xkoda eth",
         "mcp server"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "0xdwong--sui-mcp": {
       "owner": "0xdwong",
@@ -71,7 +73,8 @@
         "sui blockchain",
         "mcp sui",
         "sui tools"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "5ajaki--mcp-etherscan-server": {
       "owner": "5ajaki",
@@ -94,7 +97,8 @@
         "mcp etherscan",
         "server etherscan",
         "etherscan server"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "5ajaki--veri5ight": {
       "owner": "5ajaki",
@@ -117,7 +121,8 @@
         "veri5ight mcp",
         "5ajaki veri5ight",
         "veri5ight veri5ight"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "8bitsats--GROK_MCP": {
       "owner": "8bitsats",
@@ -140,7 +145,8 @@
         "solana blockchain",
         "crypto 8bitsats",
         "8bitsats grok_mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "8bitsats--SOLANA_TRACKER_MCP_SERVER": {
       "owner": "8bitsats",
@@ -163,7 +169,8 @@
         "solana blockchain",
         "8bitsats solana_tracker_mcp_server",
         "solana_tracker_mcp_server server"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "8bitsats--Solana-MCP-Trading-Server": {
       "owner": "8bitsats",
@@ -186,7 +193,8 @@
         "solana tokens",
         "8bitsats solana",
         "crypto 8bitsats"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "AbdelStark--bitcoin-mcp": {
       "owner": "AbdelStark",
@@ -209,7 +217,8 @@
         "blockchain crypto",
         "abdelstark bitcoin",
         "bitcoin mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "AdamikHQ--adamik-mcp-server": {
       "owner": "AdamikHQ",
@@ -232,7 +241,8 @@
         "blockchain networks",
         "crypto adamikhq",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "Bankless--onchain-mcp": {
       "owner": "Bankless",
@@ -255,7 +265,8 @@
         "bankless onchain",
         "crypto bankless",
         "bankless api"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "Dablclub--polygon-mcp": {
       "owner": "Dablclub",
@@ -278,7 +289,8 @@
         "dablclub polygon",
         "polygon mcp",
         "crypto dablclub"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "DonutLabs-ai--mcp-solana-data": {
       "owner": "DonutLabs-ai",
@@ -301,7 +313,8 @@
         "solana blockchain",
         "integration blockchain",
         "crypto donutlabs"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "EmanuelJr--web3-mcp-server": {
       "owner": "EmanuelJr",
@@ -324,7 +337,8 @@
         "comprehensive blockchain",
         "blockchain crypto",
         "web3 mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "Grandbusta--solana-mcp": {
       "owner": "Grandbusta",
@@ -347,7 +361,8 @@
         "solana blockchain",
         "crypto grandbusta",
         "essential blockchain"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "JustaName-id--ens-mcp-server": {
       "owner": "JustaName-id",
@@ -370,7 +385,8 @@
         "ens mcp",
         "ens names",
         "names ethereum"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "LaplaceMan--web3-assistant-mcp": {
       "owner": "LaplaceMan",
@@ -393,7 +409,8 @@
         "crypto laplaceman",
         "interact blockchain",
         "laplaceman web3"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "Laz1mov--mcp-inscription": {
       "owner": "Laz1mov",
@@ -416,7 +433,8 @@
         "blockchain crypto",
         "content blockchain",
         "inscriptions facilitating"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "NaniDAO--agentek": {
       "owner": "NaniDAO",
@@ -439,7 +457,8 @@
         "crypto nanidao",
         "evm blockchains",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "Outblock--flow-mcp-monorepo": {
       "owner": "Outblock",
@@ -462,7 +481,8 @@
         "flow blockchain",
         "blockchain crypto",
         "querying blockchain"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "Pavel-Burov--Pavel-Burov": {
       "owner": "Pavel-Burov",
@@ -485,7 +505,8 @@
         "blockchain crypto",
         "blockchain functionalities",
         "integrate blockchain"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "RSS3-Network--mcp-server-rss3": {
       "owner": "RSS3-Network",
@@ -508,7 +529,8 @@
         "crypto rss3",
         "server rss3",
         "rss3 api"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "SailFish-Finance--educhain-ai-agent-kit": {
       "owner": "SailFish-Finance",
@@ -531,7 +553,8 @@
         "crypto sailfish",
         "sailfish finance",
         "sailfish dex"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "Sheshiyer--framer-plugin-mcp": {
       "owner": "Sheshiyer",
@@ -554,7 +577,8 @@
         "framer plugins",
         "framer plugin",
         "manage framer"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "TermiX-official--bsc-mcp": {
       "owner": "TermiX-official",
@@ -577,7 +601,8 @@
         "transactions binance",
         "crypto termix",
         "blockchain applications"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "ThirdGuard--mcp-etherscan-server": {
       "owner": "ThirdGuard",
@@ -600,7 +625,8 @@
         "mcp etherscan",
         "etherscan server",
         "crypto thirdguard"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "abdulazeem-tk4vr--shardeum-mcp-server": {
       "owner": "abdulazeem-tk4vr",
@@ -623,7 +649,8 @@
         "shardeum blockchain",
         "shardeum mcp",
         "tk4vr shardeum"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "ahnlabio--bicscan-mcp": {
       "owner": "ahnlabio",
@@ -646,7 +673,8 @@
         "blockchain crypto",
         "bicscan mcp",
         "crypto ahnlabio"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "aiopinions--TON-ACCESS-MCP": {
       "owner": "aiopinions",
@@ -669,7 +697,8 @@
         "ton blockchain",
         "blockchain facilitate",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "akc2267--solana-mcp-server": {
       "owner": "akc2267",
@@ -692,7 +721,8 @@
         "solana blockchain",
         "akc2267 solana",
         "solana mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "akki91--ankr-mcp": {
       "owner": "akki91",
@@ -715,7 +745,8 @@
         "ankr api",
         "crypto akki91",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "alchemyplatform--alchemy-mcp-server": {
       "owner": "alchemyplatform",
@@ -738,7 +769,8 @@
         "alchemy apis",
         "crypto alchemyplatform",
         "alchemy mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "aldrin-labs--solana-mcp-server": {
       "owner": "aldrin-labs",
@@ -761,7 +793,8 @@
         "solana blockchain",
         "blockchain data",
         "access solana"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "allthatjazzleo--mantrachain-mcp": {
       "owner": "allthatjazzleo",
@@ -784,7 +817,8 @@
         "mantrachain blockchain",
         "mantrachain mcp",
         "interact mantrachain"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "antoncoding--mcp-brianknows": {
       "owner": "antoncoding",
@@ -807,7 +841,8 @@
         "brianknows blockchain",
         "blockchain knowledge",
         "connects ai"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "armorwallet--armor-crypto-mcp": {
       "owner": "armorwallet",
@@ -830,7 +865,8 @@
         "crypto armorwallet",
         "agents blockchain",
         "armor crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "b-open-io--bsv-mcp": {
       "owner": "b-open-io",
@@ -853,7 +889,8 @@
         "sv blockchain",
         "bitcoin sv",
         "io bsv"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "bmorphism--penumbra-mcp": {
       "owner": "bmorphism",
@@ -876,7 +913,8 @@
         "penumbra blockchain",
         "blockchain crypto",
         "bmorphism penumbra"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "bnb-chain--bnbchain-mcp": {
       "owner": "bnb-chain",
@@ -899,7 +937,8 @@
         "crypto bnb",
         "bnb chain",
         "chain bnbchain"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "boray--mcp-mina-archive-node": {
       "owner": "boray",
@@ -922,7 +961,8 @@
         "mina blockchain",
         "crypto boray",
         "blockchain data"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "caiovicentino--Solana-MCP": {
       "owner": "caiovicentino",
@@ -945,7 +985,8 @@
         "solana blockchain",
         "blockchain ai",
         "decentralized finance"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "caiovicentino--mcpGOTAS": {
       "owner": "caiovicentino",
@@ -968,7 +1009,8 @@
         "usdt cryptocurrency",
         "cryptocurrency payments",
         "verification usdt"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "chromindscan--chromia-mcp": {
       "owner": "chromindscan",
@@ -991,7 +1033,8 @@
         "crypto chromindscan",
         "chromia wallet",
         "interact chromia"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "chulanpro5--evm-mcp-server": {
       "owner": "chulanpro5",
@@ -1014,7 +1057,8 @@
         "crypto chulanpro5",
         "mcp server",
         "chulanpro5 evm"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "coinpaprika--dexpaprika-mcp": {
       "owner": "coinpaprika",
@@ -1037,7 +1081,8 @@
         "crypto coinpaprika",
         "coinpaprika dexpaprika",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "crazyrabbitLTC--mcp-ethers-server": {
       "owner": "crazyrabbitLTC",
@@ -1060,7 +1105,8 @@
         "mcp ethers",
         "crazyrabbitltc mcp",
         "ethereum wallet"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "crazyrabbitLTC--mcp-etherscan-server": {
       "owner": "crazyrabbitLTC",
@@ -1083,7 +1129,8 @@
         "mcp etherscan",
         "etherscan server",
         "etherscan api"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "cryptoleek-team--awesome-solana-mcp": {
       "owner": "cryptoleek-team",
@@ -1106,7 +1153,8 @@
         "solana blockchain",
         "blockchain crypto",
         "awesome solana"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "dasein108--mcp-cw-graph": {
       "owner": "dasein108",
@@ -1129,7 +1177,8 @@
         "contract cosmos",
         "based blockchains",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "dcSpark--mcp-cryptowallet-evm": {
       "owner": "dcSpark",
@@ -1152,7 +1201,8 @@
         "crypto dcspark",
         "cryptowallet evm",
         "mcp cryptowallet"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "dcSpark--mcp-server-helius": {
       "owner": "dcSpark",
@@ -1175,7 +1225,8 @@
         "solana blockchain",
         "helius api",
         "crypto dcspark"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "dcSpark--mcp-server-jupiter": {
       "owner": "dcSpark",
@@ -1198,7 +1249,8 @@
         "jupiter swap",
         "server jupiter",
         "connects jupiter"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "diegofornalha--flow-mcp": {
       "owner": "diegofornalha",
@@ -1221,7 +1273,8 @@
         "evm blockchain",
         "blockchain crypto",
         "flow evm"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "doronaviguy--mpc-0x": {
       "owner": "doronaviguy",
@@ -1244,7 +1297,8 @@
         "doronaviguy mpc",
         "crypto doronaviguy",
         "ethereum addresses"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "fakepixels--base-mcp-server": {
       "owner": "fakepixels",
@@ -1267,7 +1321,8 @@
         "crypto fakepixels",
         "base blockchain",
         "mcp server"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "firevenus--Keam": {
       "owner": "firevenus",
@@ -1290,7 +1345,8 @@
         "using hardhat",
         "crypto firevenus",
         "hardhat includes"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "gluneau--hive-mcp-server": {
       "owner": "gluneau",
@@ -1313,7 +1369,8 @@
         "hive blockchain",
         "hive mcp",
         "assistants hive"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "goat-sdk--goat": {
       "owner": "goat-sdk",
@@ -1336,7 +1393,8 @@
         "goat sdk",
         "sdk goat",
         "crypto goat"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "heurist-network--heurist-mesh-mcp-server": {
       "owner": "heurist-network",
@@ -1359,7 +1417,8 @@
         "crypto heurist",
         "heurist mesh",
         "heurist network"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "itsanishjain--alchemy-sdk-mcp": {
       "owner": "itsanishjain",
@@ -1382,7 +1441,8 @@
         "nfts wallet",
         "manage nfts",
         "nft metadata"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "jamsturg--crypto-whale-tracker": {
       "owner": "jamsturg",
@@ -1405,7 +1465,8 @@
         "whale tracker",
         "monitor whale",
         "crypto whale"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "jincai--rootdata-mcp-server": {
       "owner": "jincai",
@@ -1428,7 +1489,8 @@
         "crypto jincai",
         "jincai rootdata",
         "blockchain project"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kimchicrypto--kimchicrypto": {
       "owner": "kimchicrypto",
@@ -1451,7 +1513,8 @@
         "crypto kimchicrypto",
         "kimchicrypto toolset",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--blockbeats-mcp": {
       "owner": "kukapay",
@@ -1474,7 +1537,8 @@
         "blockchain news",
         "latest blockchain",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--blocknative-mcp": {
       "owner": "kukapay",
@@ -1497,7 +1561,8 @@
         "crypto kukapay",
         "blockchain crypto",
         "mcp provides"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--crypto-pegmon-mcp": {
       "owner": "kukapay",
@@ -1520,7 +1585,8 @@
         "stablecoin peg",
         "pegged stablecoins",
         "crypto pegmon"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--jupiter-mcp": {
       "owner": "kukapay",
@@ -1543,7 +1609,8 @@
         "solana blockchain",
         "crypto kukapay",
         "kukapay jupiter"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--rug-check-mcp": {
       "owner": "kukapay",
@@ -1566,7 +1633,8 @@
         "crypto kukapay",
         "meme tokens",
         "based token"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--token-minter-mcp": {
       "owner": "kukapay",
@@ -1589,7 +1657,8 @@
         "kukapay token",
         "token minter",
         "crypto kukapay"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--token-revoke-mcp": {
       "owner": "kukapay",
@@ -1612,7 +1681,8 @@
         "kukapay token",
         "crypto kukapay",
         "token revoke"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--uniswap-poolspy-mcp": {
       "owner": "kukapay",
@@ -1635,7 +1705,8 @@
         "liquidity pools",
         "uniswap poolspy",
         "pools uniswap"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "kukapay--uniswap-trader-mcp": {
       "owner": "kukapay",
@@ -1658,7 +1729,8 @@
         "uniswap trader",
         "crypto kukapay",
         "trader mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "lmcmz--flow-mcp-server": {
       "owner": "lmcmz",
@@ -1681,7 +1753,8 @@
         "flow blockchain",
         "crypto lmcmz",
         "lmcmz flow"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "lorrylockie--DARC": {
       "owner": "lorrylockie",
@@ -1704,7 +1777,8 @@
         "crypto lorrylockie",
         "lorrylockie darc",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "magnetai--mcp-free-usdc-transfer": {
       "owner": "magnetai",
@@ -1727,7 +1801,8 @@
         "coinbase mpc",
         "crypto magnetai",
         "mpc wallet"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "manolaz--amoca-solana-mcp-server": {
       "owner": "manolaz",
@@ -1750,7 +1825,8 @@
         "solana blockchain",
         "developing solana",
         "crypto manolaz"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "mcpdotdirect--evm-mcp-server": {
       "owner": "mcpdotdirect",
@@ -1773,7 +1849,8 @@
         "mcpdotdirect evm",
         "crypto mcpdotdirect",
         "evm mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "mcpdotdirect--starknet-mcp-server": {
       "owner": "mcpdotdirect",
@@ -1796,7 +1873,8 @@
         "starknet blockchain",
         "mcpdotdirect starknet",
         "starknet mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "milancermak--starknet-mcp": {
       "owner": "milancermak",
@@ -1819,7 +1897,8 @@
         "starknet rpc",
         "starknet mcp",
         "exposes starknet"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "monostate--Employees-Airdrop-Rewards-MCP": {
       "owner": "monostate",
@@ -1842,7 +1921,8 @@
         "solana tokens",
         "tokens employees",
         "airdrop rewards"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "multiversx--mx-mcp": {
       "owner": "multiversx",
@@ -1865,7 +1945,8 @@
         "wallets multiversx",
         "pem wallets",
         "crypto multiversx"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "nearai--near-mcp": {
       "owner": "nearai",
@@ -1888,7 +1969,8 @@
         "crypto nearai",
         "near accounts",
         "nearai near"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "noahgsolomon--pumpfun-mcp-server": {
       "owner": "noahgsolomon",
@@ -1911,7 +1993,8 @@
         "solana accounts",
         "platform solana",
         "crypto noahgsolomon"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "noditlabs--nodit-mcp-server": {
       "owner": "noditlabs",
@@ -1934,7 +2017,8 @@
         "deep blockchain",
         "crypto noditlabs",
         "blockchain expertise"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "oraichain--orai-mcp": {
       "owner": "oraichain",
@@ -1957,7 +2041,8 @@
         "crypto oraichain",
         "oraichain orai",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "pavel-bc--mcp-blockchain-query": {
       "owner": "pavel-bc",
@@ -1980,7 +2065,8 @@
         "blockchain metrics",
         "blockchain query",
         "various blockchain"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "pblittle--lightning-mcp-server": {
       "owner": "pblittle",
@@ -2003,7 +2089,8 @@
         "crypto pblittle",
         "pblittle lightning",
         "lightning mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "piplabs--story-mcp-hub": {
       "owner": "piplabs",
@@ -2026,7 +2113,8 @@
         "story python",
         "story protocol",
         "piplabs story"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "quanghuynguyen1902--jupiter-mcp-server": {
       "owner": "quanghuynguyen1902",
@@ -2049,7 +2137,8 @@
         "solana blockchain",
         "token swap",
         "jupiter mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "r3e-network--neo-n3-mcp": {
       "owner": "r3e-network",
@@ -2072,7 +2161,8 @@
         "n3 blockchain",
         "blockchain crypto",
         "crypto r3e"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "raw391--coin_daemon_mcp": {
       "owner": "raw391",
@@ -2095,7 +2185,8 @@
         "raw391 coin_daemon_mcp",
         "crypto raw391",
         "coin_daemon_mcp manage"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "rkmonarch--svm-mcp": {
       "owner": "rkmonarch",
@@ -2118,7 +2209,8 @@
         "crypto rkmonarch",
         "soon rpc",
         "svm mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "scriptscrypt--solana-mcp": {
       "owner": "scriptscrypt",
@@ -2141,7 +2233,8 @@
         "scriptscrypt solana",
         "solana blockchain",
         "crypto scriptscrypt"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "sendaifun--solana-mcp": {
       "owner": "sendaifun",
@@ -2164,7 +2257,8 @@
         "solana blockchain",
         "interact solana",
         "crypto sendaifun"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "septemhill--etherscan-mcp": {
       "owner": "septemhill",
@@ -2187,7 +2281,8 @@
         "etherscan mcp",
         "septemhill etherscan",
         "crypto septemhill"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "settlemint--sdk": {
       "owner": "settlemint",
@@ -2210,7 +2305,8 @@
         "settlemint sdk",
         "crypto settlemint",
         "settlemint platform"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "shinzo-labs--coinmarketcap-mcp": {
       "owner": "shinzo-labs",
@@ -2233,7 +2329,8 @@
         "coinmarketcap api",
         "coinmarketcap mcp",
         "access coinmarketcap"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "strangelove-ventures--web3-mcp": {
       "owner": "strangelove-ventures",
@@ -2256,7 +2353,8 @@
         "blockchain crypto",
         "various blockchain",
         "web3 mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "stvagi--mempool-mcp": {
       "owner": "stvagi",
@@ -2279,7 +2377,8 @@
         "mempool mcp",
         "hashrate analytics",
         "analytics mempool"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "thirdweb-dev--ai": {
       "owner": "thirdweb-dev",
@@ -2302,7 +2401,8 @@
         "thirdweb blockchain",
         "crypto thirdweb",
         "blockchain tools"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "tomasCalletce--stellar-mcp": {
       "owner": "tomasCalletce",
@@ -2325,7 +2425,8 @@
         "blockchain defi",
         "blockchain crypto",
         "stellar mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "tywenk--mcp-sol": {
       "owner": "tywenk",
@@ -2348,7 +2449,8 @@
         "solana blockchain",
         "blockchain crypto",
         "crypto tywenk"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "utkucy--avalanche-mcp-tools": {
       "owner": "utkucy",
@@ -2371,7 +2473,8 @@
         "avalanche blockchain",
         "blockchain intuitive",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "xiaok--etherscan-mcp": {
       "owner": "xiaok",
@@ -2394,7 +2497,8 @@
         "xiaok etherscan",
         "etherscan api",
         "etherscan mcp"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "yuri-xyz--ai": {
       "owner": "yuri-xyz",
@@ -2417,7 +2521,8 @@
         "blockchain tools",
         "thirdweb blockchain",
         "interactions blockchain"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "z80dev--cryo-mcp": {
       "owner": "z80dev",
@@ -2440,7 +2545,8 @@
         "blockchain data",
         "insights blockchain",
         "blockchain crypto"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "zhangzhongnan928--mcp-blockchain-server": {
       "owner": "zhangzhongnan928",
@@ -2463,7 +2569,8 @@
         "mcp blockchain",
         "blockchain crypto",
         "blockchain smart"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     },
     "zhangzhongnan928--mcp-evm-signer": {
       "owner": "zhangzhongnan928",
@@ -2486,7 +2593,8 @@
         "evm signer",
         "blockchain crypto",
         "signer manage"
-      ]
+      ],
+      "category": "blockchain-and-crypto"
     }
   }
 }

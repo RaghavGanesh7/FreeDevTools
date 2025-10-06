@@ -25,7 +25,8 @@
         "mcp summarizer",
         "summarizer server",
         "content summarizer"
-      ]
+      ],
+      "category": "document-processing"
     },
     "1282saa--ppt": {
       "owner": "1282saa",
@@ -48,7 +49,8 @@
         "ppt powerpoint",
         "powerpoint presentation",
         "powerpoint presentations"
-      ]
+      ],
+      "category": "document-processing"
     },
     "1282saa--ppt_se": {
       "owner": "1282saa",
@@ -71,7 +73,8 @@
         "ppt_se powerpoint",
         "powerpoint presentation",
         "powerpoint presentations"
-      ]
+      ],
+      "category": "document-processing"
     },
     "2b3pro--markdown2pdf-mcp": {
       "owner": "2b3pro",
@@ -94,7 +97,8 @@
         "markdown2pdf mcp",
         "2b3pro markdown2pdf",
         "markdown documents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "302ai--302_file_parser_mcp": {
       "owner": "302ai",
@@ -117,7 +121,8 @@
         "302ai 302_file_parser_mcp",
         "302_file_parser_mcp file",
         "file parser"
-      ]
+      ],
+      "category": "document-processing"
     },
     "54yyyu--zotero-mcp": {
       "owner": "54yyyu",
@@ -140,7 +145,8 @@
         "mcp zotero",
         "zotero mcp",
         "zotero research"
-      ]
+      ],
+      "category": "document-processing"
     },
     "AlexiFeng--MCP_Chat_Logger": {
       "owner": "AlexiFeng",
@@ -163,7 +169,8 @@
         "alexifeng mcp_chat_logger",
         "mcp_chat_logger logs",
         "logs chat"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Arborist-ai--ClaudeHopper": {
       "owner": "Arborist-ai",
@@ -186,7 +193,8 @@
         "arborist ai",
         "processing arborist",
         "advanced retrieval"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ArchimedesCrypto--excel-reader-mcp": {
       "owner": "ArchimedesCrypto",
@@ -209,7 +217,8 @@
         "archimedescrypto excel",
         "excel reader",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "AviOfLagos--MCP-coding-assistant": {
       "owner": "AviOfLagos",
@@ -232,7 +241,8 @@
         "coding assistant",
         "coding assistance",
         "provides coding"
-      ]
+      ],
+      "category": "document-processing"
     },
     "AvinashBole--quip-mcp-server": {
       "owner": "AvinashBole",
@@ -255,7 +265,8 @@
         "quip documents",
         "document processing",
         "quip mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "BH-NOTHING--quill": {
       "owner": "BH-NOTHING",
@@ -278,7 +289,8 @@
         "document processing",
         "text editor",
         "processing bh"
-      ]
+      ],
+      "category": "document-processing"
     },
     "BearCNR--fivem-docs": {
       "owner": "BearCNR",
@@ -301,7 +313,8 @@
         "fivem documentation",
         "fivem docs",
         "docs fivem"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Braffolk--mcp-summarization-functions": {
       "owner": "Braffolk",
@@ -324,7 +337,8 @@
         "mcp summarization",
         "text summarization",
         "summarization functions"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Cam10001110101--mcp-server-obsidian-jsoncanvas": {
       "owner": "Cam10001110101",
@@ -347,7 +361,8 @@
         "canvas data",
         "json canvas",
         "canvas specification"
-      ]
+      ],
+      "category": "document-processing"
     },
     "CartographAI--atlas-docs-mcp": {
       "owner": "CartographAI",
@@ -370,7 +385,8 @@
         "processing cartographai",
         "cartographai atlas",
         "atlas docs"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ChatterBoxIO--chatterboxio-mcp-server": {
       "owner": "ChatterBoxIO",
@@ -393,7 +409,8 @@
         "chatterboxio mcp",
         "online meeting",
         "google meet"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ChrisL108--outline-mcp": {
       "owner": "ChrisL108",
@@ -416,7 +433,8 @@
         "documents outline",
         "document processing",
         "outline mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "CodeByWaqas--MRConfluenceLinker-mcp-server": {
       "owner": "CodeByWaqas",
@@ -439,7 +457,8 @@
         "confluence documentation",
         "gitlab merge",
         "results confluence"
-      ]
+      ],
+      "category": "document-processing"
     },
     "David09090218--ai-document-writer": {
       "owner": "David09090218",
@@ -462,7 +481,8 @@
         "document processing",
         "ai document",
         "document writer"
-      ]
+      ],
+      "category": "document-processing"
     },
     "DumplingAI--mcp-server-dumplingai": {
       "owner": "DumplingAI",
@@ -485,7 +505,8 @@
         "processing dumplingai",
         "server dumplingai",
         "dumplingai mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Excoriate--mcp-terragrunt-docs": {
       "owner": "Excoriate",
@@ -508,7 +529,8 @@
         "terragrunt docs",
         "terragrunt documentation",
         "mcp terragrunt"
-      ]
+      ],
+      "category": "document-processing"
     },
     "FradSer--mcp-server-to-markdown": {
       "owner": "FradSer",
@@ -531,7 +553,8 @@
         "formats markdown",
         "server markdown",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "FutureUnreal--mcp-pdf2md": {
       "owner": "FutureUnreal",
@@ -554,7 +577,8 @@
         "pdf2md converts",
         "mcp pdf2md",
         "pdf files"
-      ]
+      ],
+      "category": "document-processing"
     },
     "GHSix--AverbePorto-MCP": {
       "owner": "GHSix",
@@ -577,7 +601,8 @@
         "averbeporto mcp",
         "averbeporto manage",
         "ghsix averbeporto"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Geeksfino--kb-mcp-server": {
       "owner": "Geeksfino",
@@ -600,7 +625,8 @@
         "semantic search",
         "document processing",
         "text processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "GoatWang--YTTranscipterMultilingualMCP": {
       "owner": "GoatWang",
@@ -623,7 +649,8 @@
         "transcribes youtube",
         "yttransciptermultilingualmcp transcribes",
         "videos text"
-      ]
+      ],
+      "category": "document-processing"
     },
     "GongRzhe--JSON-MCP-Server": {
       "owner": "GongRzhe",
@@ -646,7 +673,8 @@
         "json mcp",
         "tools jsonpath",
         "jsonpath syntax"
-      ]
+      ],
+      "category": "document-processing"
     },
     "GongRzhe--Langflow-DOC-QA-SERVER": {
       "owner": "GongRzhe",
@@ -669,7 +697,8 @@
         "document processing",
         "query documents",
         "langflow backend"
-      ]
+      ],
+      "category": "document-processing"
     },
     "GongRzhe--Office-PowerPoint-MCP-Server": {
       "owner": "GongRzhe",
@@ -692,7 +721,8 @@
         "powerpoint mcp",
         "powerpoint presentations",
         "office powerpoint"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Hajime-Y--deep-research-mcp": {
       "owner": "Hajime-Y",
@@ -715,7 +745,8 @@
         "processing hajime",
         "document processing",
         "research mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Handwriting-OCR--handwriting-ocr-mcp-server": {
       "owner": "Handwriting-OCR",
@@ -738,7 +769,8 @@
         "ocr mcp",
         "handwriting ocr",
         "ocr service"
-      ]
+      ],
+      "category": "document-processing"
     },
     "HenryHaoson--Yuque-MCP-Server": {
       "owner": "HenryHaoson",
@@ -761,7 +793,8 @@
         "yuque api",
         "integrate yuque",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "HireTechUpUp--mcp-server-novacv": {
       "owner": "HireTechUpUp",
@@ -784,7 +817,8 @@
         "novacv api",
         "server novacv",
         "resumes pdf"
-      ]
+      ],
+      "category": "document-processing"
     },
     "JDJR2024--markdownify-mcp-utf8": {
       "owner": "JDJR2024",
@@ -807,7 +841,8 @@
         "jdjr2024 markdownify",
         "markdown format",
         "markdownify mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "JackKuo666--semanticscholar-MCP-Server": {
       "owner": "JackKuo666",
@@ -830,7 +865,8 @@
         "semantic scholar",
         "scholar api",
         "search academic"
-      ]
+      ],
+      "category": "document-processing"
     },
     "JayZeeDesign--figma-mcp": {
       "owner": "JayZeeDesign",
@@ -853,7 +889,8 @@
         "figma design",
         "files prototypes",
         "figma files"
-      ]
+      ],
+      "category": "document-processing"
     },
     "JoeBuildsStuff--mcp-jina-ai": {
       "owner": "JoeBuildsStuff",
@@ -876,7 +913,8 @@
         "mcp jina",
         "ai web",
         "access jina"
-      ]
+      ],
+      "category": "document-processing"
     },
     "JustasMonkev--mcp-accessibility-scanner": {
       "owner": "JustasMonkev",
@@ -899,7 +937,8 @@
         "accessibility scanning",
         "accessibility scanner",
         "web accessibility"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Klavis-AI--klavis": {
       "owner": "Klavis-AI",
@@ -922,7 +961,8 @@
         "processing klavis",
         "klavis ai",
         "ai klavis"
-      ]
+      ],
+      "category": "document-processing"
     },
     "KorigamiK--markitdown_mcp_server": {
       "owner": "KorigamiK",
@@ -945,7 +985,8 @@
         "korigamik markitdown_mcp_server",
         "markitdown utility",
         "formats markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Kryzo--mcp-bibliotheque_nationale_de_France": {
       "owner": "Kryzo",
@@ -968,7 +1009,8 @@
         "mcp bibliotheque_nationale_de_france",
         "bibliotheque_nationale_de_france access",
         "organized bibliographies"
-      ]
+      ],
+      "category": "document-processing"
     },
     "KunihiroS--kv-extractor-mcp-server": {
       "owner": "KunihiroS",
@@ -991,7 +1033,8 @@
         "processing kunihiros",
         "kv extractor",
         "kunihiros kv"
-      ]
+      ],
+      "category": "document-processing"
     },
     "LaubPlusCo--mcp-webdav-server": {
       "owner": "LaubPlusCo",
@@ -1014,7 +1057,8 @@
         "mcp webdav",
         "webdav server",
         "webdav file"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Layr-Labs--eigenlayer-mcp-server": {
       "owner": "Layr-Labs",
@@ -1037,7 +1081,8 @@
         "eigenlayer documentation",
         "labs eigenlayer",
         "eigenlayer mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Levis0045--ntealan-apis-mcp-server": {
       "owner": "Levis0045",
@@ -1060,7 +1105,8 @@
         "ntealan apis",
         "ntealan rest",
         "apis mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "M-Gonzalo--cosa-sai": {
       "owner": "M-Gonzalo",
@@ -1083,7 +1129,8 @@
         "documentation variety",
         "access documentation",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "MKhalusova--unstructured-mcp": {
       "owner": "MKhalusova",
@@ -1106,7 +1153,8 @@
         "unstructured document",
         "unstructured mcp",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "MaitreyaM--FILE-CONVERTER-MCP": {
       "owner": "MaitreyaM",
@@ -1129,7 +1177,8 @@
         "using pandoc",
         "convert documents",
         "pandoc enabling"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Meeting-BaaS--meeting-mcp": {
       "owner": "Meeting-BaaS",
@@ -1152,7 +1201,8 @@
         "processing meeting",
         "manage meeting",
         "baas meeting"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Melbourneandrew--docs2prompt-mcp": {
       "owner": "Melbourneandrew",
@@ -1175,7 +1225,8 @@
         "docs2prompt mcp",
         "documentation github",
         "melbourneandrew docs2prompt"
-      ]
+      ],
+      "category": "document-processing"
     },
     "MeterLong--MCP-Doc": {
       "owner": "MeterLong",
@@ -1198,7 +1249,8 @@
         "mcp doc",
         "document processing",
         "word documents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Mistizz--mcp-JapaneseTextAnalyzer": {
       "owner": "Mistizz",
@@ -1221,7 +1273,8 @@
         "mcp japanesetextanalyzer",
         "japanesetextanalyzer analyzes",
         "analyzes japanese"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Msparihar--mcp-server-firecrawl": {
       "owner": "Msparihar",
@@ -1244,7 +1297,8 @@
         "firecrawl provides",
         "server firecrawl",
         "using firecrawl"
-      ]
+      ],
+      "category": "document-processing"
     },
     "MushroomFleet--TranscriptionTools-MCP": {
       "owner": "MushroomFleet",
@@ -1267,7 +1321,8 @@
         "mushroomfleet transcriptiontools",
         "transcriptiontools mcp",
         "transcription workflows"
-      ]
+      ],
+      "category": "document-processing"
     },
     "MymInsomnia--textClassifier": {
       "owner": "MymInsomnia",
@@ -1290,7 +1345,8 @@
         "trained nlp",
         "text classification",
         "myminsomnia textclassifier"
-      ]
+      ],
+      "category": "document-processing"
     },
     "OpenTorah-ai--mcp-sefaria-server": {
       "owner": "OpenTorah-ai",
@@ -1313,7 +1369,8 @@
         "jewish texts",
         "texts commentaries",
         "commentaries standardized"
-      ]
+      ],
+      "category": "document-processing"
     },
     "PARS-DOE--autodocument": {
       "owner": "PARS-DOE",
@@ -1336,7 +1393,8 @@
         "autodocument generates",
         "doe autodocument",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "PV-Bhat--GemForge-MCP": {
       "owner": "PV-Bhat",
@@ -1359,7 +1417,8 @@
         "gemforge mcp",
         "document processing",
         "mcp provides"
-      ]
+      ],
+      "category": "document-processing"
     },
     "PhialsBasement--mcp-webresearch-stealthified": {
       "owner": "PhialsBasement",
@@ -1382,7 +1441,8 @@
         "webresearch stealthified",
         "mcp webresearch",
         "retrieval webpage"
-      ]
+      ],
+      "category": "document-processing"
     },
     "PowerPrincipal--wxmd": {
       "owner": "PowerPrincipal",
@@ -1405,7 +1465,8 @@
         "markdown documents",
         "basic markdown",
         "transforms markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ProbonoBonobo--sui-mcp-server": {
       "owner": "ProbonoBonobo",
@@ -1428,7 +1489,8 @@
         "document processing",
         "retrieve documents",
         "documents vector"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Props-Labs--fireflies-mcp": {
       "owner": "Props-Labs",
@@ -1451,7 +1513,8 @@
         "meeting transcripts",
         "transcripts manage",
         "transcripts advanced"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Qwinty--anytype-mcp": {
       "owner": "Qwinty",
@@ -1474,7 +1537,8 @@
         "qwinty anytype",
         "processing qwinty",
         "manage anytype"
-      ]
+      ],
+      "category": "document-processing"
     },
     "R-lz--mcp-video-digest": {
       "owner": "R-lz",
@@ -1497,7 +1561,8 @@
         "extract audio",
         "video digest",
         "audio text"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Ransom-Alpha--Swarms_MCPserver": {
       "owner": "Ransom-Alpha",
@@ -1520,7 +1585,8 @@
         "document querying",
         "document processing",
         "documentation databases"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Rupeebw--mcp-image-reader": {
       "owner": "Rupeebw",
@@ -1543,7 +1609,8 @@
         "note management",
         "summarizing notes",
         "notes efficiently"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Rz017--tavily-mcp": {
       "owner": "Rz017",
@@ -1566,7 +1633,8 @@
         "ai assistants",
         "ai workflows",
         "search intelligent"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Saml1211--PRD-MCP-Server": {
       "owner": "Saml1211",
@@ -1589,7 +1657,8 @@
         "documents prds",
         "requirements documents",
         "prds validating"
-      ]
+      ],
+      "category": "document-processing"
     },
     "SecretiveShell--MCP-llms-txt": {
       "owner": "SecretiveShell",
@@ -1612,7 +1681,8 @@
         "llms txt",
         "conversations utilizing",
         "directly conversations"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Softeria--ms-365-mcp-server": {
       "owner": "Softeria",
@@ -1635,7 +1705,8 @@
         "microsoft 365",
         "ms 365",
         "365 services"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Sunwood-ai-labs--documind-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -1658,7 +1729,8 @@
         "document processing",
         "quality documentation",
         "documentation elements"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Sunwood-ai-labs--release-notes-generator-iris-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -1681,7 +1753,8 @@
         "release documentation",
         "release notes",
         "documentation process"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Taewoong1378--notion-readonly-mcp-server": {
       "owner": "Taewoong1378",
@@ -1704,7 +1777,8 @@
         "document processing",
         "readonly mcp",
         "notion readonly"
-      ]
+      ],
+      "category": "document-processing"
     },
     "TanvirHafiz--Medical-report-analyzer": {
       "owner": "TanvirHafiz",
@@ -1727,7 +1801,8 @@
         "tanvirhafiz medical",
         "processing tanvirhafiz",
         "medical reports"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Teeksss--mcp": {
       "owner": "Teeksss",
@@ -1750,7 +1825,8 @@
         "document processing",
         "ocr processing",
         "processing teeksss"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Tencent--cos-mcp": {
       "owner": "Tencent",
@@ -1773,7 +1849,8 @@
         "tencent cloud",
         "document processing",
         "storage cos"
-      ]
+      ],
+      "category": "document-processing"
     },
     "VadimNastoyashchy--json-mcp": {
       "owner": "VadimNastoyashchy",
@@ -1796,7 +1873,8 @@
         "json files",
         "vadimnastoyashchy json",
         "automate json"
-      ]
+      ],
+      "category": "document-processing"
     },
     "VivekKumarNeu--MCP-Lucene-Server": {
       "owner": "VivekKumarNeu",
@@ -1819,7 +1897,8 @@
         "lucene restful",
         "apache lucene",
         "lucene server"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Vortiago--mcp-outline": {
       "owner": "Vortiago",
@@ -1842,7 +1921,8 @@
         "mcp outline",
         "outline document",
         "outline enables"
-      ]
+      ],
+      "category": "document-processing"
     },
     "Wildebeest--mcp_pdf_forms": {
       "owner": "Wildebeest",
@@ -1865,7 +1945,8 @@
         "pdf forms",
         "mcp_pdf_forms manipulate",
         "wildebeest mcp_pdf_forms"
-      ]
+      ],
+      "category": "document-processing"
     },
     "WindieChai--confluence-wiki-mcp-server-extension": {
       "owner": "WindieChai",
@@ -1888,7 +1969,8 @@
         "confluence wiki",
         "wiki content",
         "integrate confluence"
-      ]
+      ],
+      "category": "document-processing"
     },
     "YOOTeam--ChatPPT-MCP": {
       "owner": "YOOTeam",
@@ -1911,7 +1993,8 @@
         "generating powerpoint",
         "powerpoint presentations",
         "chatppt mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "YassineTk--mcp-docs-provider": {
       "owner": "YassineTk",
@@ -1934,7 +2017,8 @@
         "documentation enhancing",
         "docs provider",
         "mcp docs"
-      ]
+      ],
+      "category": "document-processing"
     },
     "YuChenSSR--mindmap-mcp-server": {
       "owner": "YuChenSSR",
@@ -1957,7 +2041,8 @@
         "mindmap mcp",
         "html mindmaps",
         "interactive mindmaps"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ZubeidHendricks--youtube-mcp-server": {
       "owner": "ZubeidHendricks",
@@ -1980,7 +2065,8 @@
         "youtube mcp",
         "zubeidhendricks youtube",
         "interacts youtube"
-      ]
+      ],
+      "category": "document-processing"
     },
     "a-bonus--google-docs-mcp": {
       "owner": "a-bonus",
@@ -2003,7 +2089,8 @@
         "document processing",
         "google docs",
         "document interaction"
-      ]
+      ],
+      "category": "document-processing"
     },
     "aashari--mcp-server-atlassian-confluence": {
       "owner": "aashari",
@@ -2026,7 +2113,8 @@
         "atlassian confluence",
         "confluence providing",
         "confluence content"
-      ]
+      ],
+      "category": "document-processing"
     },
     "adamanz--mcp-video-converter": {
       "owner": "adamanz",
@@ -2049,7 +2137,8 @@
         "convert video",
         "video converter",
         "formats conversion"
-      ]
+      ],
+      "category": "document-processing"
     },
     "adexltd--mcp-google-suite": {
       "owner": "adexltd",
@@ -2072,7 +2161,8 @@
         "mcp google",
         "google suite",
         "adexltd mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "adiom-data--lance-mcp": {
       "owner": "adiom-data",
@@ -2095,7 +2185,8 @@
         "documents retrieval",
         "document processing",
         "disk documents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "agentset-ai--mcp-server": {
       "owner": "agentset-ai",
@@ -2118,7 +2209,8 @@
         "document processing",
         "intelligent document",
         "data retrieval"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ahmedjemaa-tech--medical-coding-reproducibility": {
       "owner": "ahmedjemaa-tech",
@@ -2141,7 +2233,8 @@
         "medical coding",
         "procedure codes",
         "datasets mimic"
-      ]
+      ],
+      "category": "document-processing"
     },
     "aigo666--mcp-framework": {
       "owner": "aigo666",
@@ -2164,7 +2257,8 @@
         "processing aigo666",
         "mcp framework",
         "aigo666 mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "aindreyway--mcp-server-neurolora-p": {
       "owner": "aindreyway",
@@ -2187,7 +2281,8 @@
         "projects markdown",
         "documents code",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "aiuluna--knowledge-graph-mcp": {
       "owner": "aiuluna",
@@ -2210,7 +2305,8 @@
         "knowledge graph",
         "knowledge graphs",
         "visualize knowledge"
-      ]
+      ],
+      "category": "document-processing"
     },
     "albertshao--wiki_mcp_server": {
       "owner": "albertshao",
@@ -2233,7 +2329,8 @@
         "confluence wiki",
         "manage confluence",
         "wiki pages"
-      ]
+      ],
+      "category": "document-processing"
     },
     "aldrin-labs--solana-docs-mcp-server": {
       "owner": "aldrin-labs",
@@ -2256,7 +2353,8 @@
         "note resources",
         "text notes",
         "notes listing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "alejandroBallesterosC--document-edit-mcp": {
       "owner": "alejandroBallesterosC",
@@ -2279,7 +2377,8 @@
         "document manipulation",
         "document edit",
         "facilitates document"
-      ]
+      ],
+      "category": "document-processing"
     },
     "alekspetrov--mcp-docs-service": {
       "owner": "alekspetrov",
@@ -2302,7 +2401,8 @@
         "docs service",
         "markdown documentation",
         "documentation creating"
-      ]
+      ],
+      "category": "document-processing"
     },
     "anewkim--docusaurus": {
       "owner": "anewkim",
@@ -2325,7 +2425,8 @@
         "processing anewkim",
         "anewkim docusaurus",
         "docusaurus generate"
-      ]
+      ],
+      "category": "document-processing"
     },
     "antonioevans--context7": {
       "owner": "antonioevans",
@@ -2348,7 +2449,8 @@
         "antonioevans context7",
         "processing antonioevans",
         "documentation llm"
-      ]
+      ],
+      "category": "document-processing"
     },
     "arabold--docs-mcp-server": {
       "owner": "arabold",
@@ -2371,7 +2473,8 @@
         "document processing",
         "arabold docs",
         "indexes documentation"
-      ]
+      ],
+      "category": "document-processing"
     },
     "arathald--mcp-editor": {
       "owner": "arathald",
@@ -2394,7 +2497,8 @@
         "mcp editor",
         "typescript mcp",
         "edit files"
-      ]
+      ],
+      "category": "document-processing"
     },
     "arre-ankit--notion-mcp-server": {
       "owner": "arre-ankit",
@@ -2417,7 +2521,8 @@
         "notion pages",
         "notion databases",
         "manage notion"
-      ]
+      ],
+      "category": "document-processing"
     },
     "askjohngeorge--mcp-doc-scraper": {
       "owner": "askjohngeorge",
@@ -2440,7 +2545,8 @@
         "scrapes documentation",
         "doc scraper",
         "mcp doc"
-      ]
+      ],
+      "category": "document-processing"
     },
     "askme765cs--open-docs-mcp": {
       "owner": "askme765cs",
@@ -2463,7 +2569,8 @@
         "document processing",
         "text search",
         "open docs"
-      ]
+      ],
+      "category": "document-processing"
     },
     "aws-samples--sample-mcp-server-s3": {
       "owner": "aws-samples",
@@ -2486,7 +2593,8 @@
         "s3 retrieve",
         "aws s3",
         "processing aws"
-      ]
+      ],
+      "category": "document-processing"
     },
     "benjamine--jsondiffpatch": {
       "owner": "benjamine",
@@ -2509,7 +2617,8 @@
         "jsondiffpatch diffs",
         "diffs patches",
         "patches javascript"
-      ]
+      ],
+      "category": "document-processing"
     },
     "berlinbra--binary-reader-mcp": {
       "owner": "berlinbra",
@@ -2532,7 +2641,8 @@
         "berlinbra binary",
         "binary files",
         "binary formats"
-      ]
+      ],
+      "category": "document-processing"
     },
     "bettehub--laas-rag-mcp": {
       "owner": "bettehub",
@@ -2555,7 +2665,8 @@
         "document processing",
         "document segmentation",
         "upload documents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "bhouston--mcp-server-text-editor": {
       "owner": "bhouston",
@@ -2578,7 +2689,8 @@
         "text editor",
         "document processing",
         "bhouston mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "box-community--mcp-server-box": {
       "owner": "box-community",
@@ -2601,7 +2713,8 @@
         "processing box",
         "process box",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "breezedeus--CnOCR": {
       "owner": "breezedeus",
@@ -2624,7 +2737,8 @@
         "text recognition",
         "character recognition",
         "recognition chinese"
-      ]
+      ],
+      "category": "document-processing"
     },
     "cablate--mcp-doc-forge": {
       "owner": "cablate",
@@ -2647,7 +2761,8 @@
         "document processing",
         "document conversion",
         "doc forge"
-      ]
+      ],
+      "category": "document-processing"
     },
     "canlgz--markitdown_mcp_server": {
       "owner": "canlgz",
@@ -2670,7 +2785,8 @@
         "canlgz markitdown_mcp_server",
         "markitdown utility",
         "formats markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "cdugo--package-documentation-mcp": {
       "owner": "cdugo",
@@ -2693,7 +2809,8 @@
         "package documentation",
         "cdugo package",
         "documentation mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "crazyrabbitLTC--mcp-expert-server": {
       "owner": "crazyrabbitLTC",
@@ -2716,7 +2833,8 @@
         "documentation information",
         "document processing",
         "intelligent query"
-      ]
+      ],
+      "category": "document-processing"
     },
     "cso1z--Feishu-MCP": {
       "owner": "cso1z",
@@ -2739,7 +2857,8 @@
         "cso1z feishu",
         "feishu documents",
         "processing cso1z"
-      ]
+      ],
+      "category": "document-processing"
     },
     "cuongpham2107--word-mcp-server": {
       "owner": "cuongpham2107",
@@ -2762,7 +2881,8 @@
         "microsoft word",
         "word documents",
         "cuongpham2107 word"
-      ]
+      ],
+      "category": "document-processing"
     },
     "d-kimuson--esa-mcp-server": {
       "owner": "d-kimuson",
@@ -2785,7 +2905,8 @@
         "esa mcp",
         "io api",
         "access esa"
-      ]
+      ],
+      "category": "document-processing"
     },
     "danielpodrazka--editor-mcp": {
       "owner": "danielpodrazka",
@@ -2808,7 +2929,8 @@
         "danielpodrazka editor",
         "editor mcp",
         "editing process"
-      ]
+      ],
+      "category": "document-processing"
     },
     "dazeb--markdown-downloader": {
       "owner": "dazeb",
@@ -2831,7 +2953,8 @@
         "markdown downloader",
         "dazeb markdown",
         "processing dazeb"
-      ]
+      ],
+      "category": "document-processing"
     },
     "decvb--context7": {
       "owner": "decvb",
@@ -2854,7 +2977,8 @@
         "decvb context7",
         "processing decvb",
         "documentation coding"
-      ]
+      ],
+      "category": "document-processing"
     },
     "dev-ithitchhiker--mcp-google-docs": {
       "owner": "dev-ithitchhiker",
@@ -2877,7 +3001,8 @@
         "google docs",
         "document processing",
         "document operations"
-      ]
+      ],
+      "category": "document-processing"
     },
     "disruption-hub--payloadcmsmcp": {
       "owner": "disruption-hub",
@@ -2900,7 +3025,8 @@
         "hub payloadcmsmcp",
         "payload cms",
         "payloadcmsmcp validates"
-      ]
+      ],
+      "category": "document-processing"
     },
     "diventnsknew--markitdown": {
       "owner": "diventnsknew",
@@ -2923,7 +3049,8 @@
         "diventnsknew markitdown",
         "markdown facilitating",
         "formats markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "dlamichhane--my-resume": {
       "owner": "dlamichhane",
@@ -2946,7 +3073,8 @@
         "dlamichhane resume",
         "resume format",
         "structured resume"
-      ]
+      ],
+      "category": "document-processing"
     },
     "dmayboroda--minima": {
       "owner": "dmayboroda",
@@ -2969,7 +3097,8 @@
         "dmayboroda minima",
         "processing dmayboroda",
         "rag server"
-      ]
+      ],
+      "category": "document-processing"
     },
     "dragonjump--mcp-ARCknowledge": {
       "owner": "dragonjump",
@@ -2992,7 +3121,8 @@
         "knowledge base",
         "knowledge management",
         "processing dragonjump"
-      ]
+      ],
+      "category": "document-processing"
     },
     "esakrissa--mcp-doc": {
       "owner": "esakrissa",
@@ -3015,7 +3145,8 @@
         "documentation files",
         "doc integrates",
         "retrieval documentation"
-      ]
+      ],
+      "category": "document-processing"
     },
     "esignaturescom--mcp-server-esignatures": {
       "owner": "esignaturescom",
@@ -3038,7 +3169,8 @@
         "esignaturescom mcp",
         "esignatures manage",
         "contracts templates"
-      ]
+      ],
+      "category": "document-processing"
     },
     "essenecrucix-netizen--jarvis": {
       "owner": "essenecrucix-netizen",
@@ -3061,7 +3193,8 @@
         "coding assistant",
         "netizen jarvis",
         "jarvis intelligent"
-      ]
+      ],
+      "category": "document-processing"
     },
     "everaldo--mcp-mistral-ocr": {
       "owner": "everaldo",
@@ -3084,7 +3217,8 @@
         "mistral ocr",
         "ocr processes",
         "ocr capabilities"
-      ]
+      ],
+      "category": "document-processing"
     },
     "exoticknight--mcp-file-merger": {
       "owner": "exoticknight",
@@ -3107,7 +3241,8 @@
         "file merger",
         "mcp file",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "f-is-h--mcp-easy-copy": {
       "owner": "f-is-h",
@@ -3130,7 +3265,8 @@
         "processing mcp",
         "document processing",
         "mcp services"
-      ]
+      ],
+      "category": "document-processing"
     },
     "falahgs--Gemini-Data-Analysis-Research-MCP-Server": {
       "owner": "falahgs",
@@ -3153,7 +3289,8 @@
         "automate email",
         "data analysis",
         "mcp server"
-      ]
+      ],
+      "category": "document-processing"
     },
     "falahgs--MCP-CSV-Analysis-with-Gemini-AI": {
       "owner": "falahgs",
@@ -3176,7 +3313,8 @@
         "mcp csv",
         "csv analysis",
         "analysis gemini"
-      ]
+      ],
+      "category": "document-processing"
     },
     "famano--mcp-server-office": {
       "owner": "famano",
@@ -3199,7 +3337,8 @@
         "word docx",
         "docx files",
         "microsoft word"
-      ]
+      ],
+      "category": "document-processing"
     },
     "farzad528--mcp-server-azure-ai-agents": {
       "owner": "farzad528",
@@ -3222,7 +3361,8 @@
         "azure ai",
         "ai search",
         "ai services"
-      ]
+      ],
+      "category": "document-processing"
     },
     "fish0710--excel-mcp": {
       "owner": "fish0710",
@@ -3245,7 +3385,8 @@
         "fish0710 excel",
         "excel mcp",
         "excel files"
-      ]
+      ],
+      "category": "document-processing"
     },
     "forayconsulting--zoom_transcript_mcp": {
       "owner": "forayconsulting",
@@ -3268,7 +3409,8 @@
         "zoom_transcript_mcp manage",
         "forayconsulting zoom_transcript_mcp",
         "zoom meeting"
-      ]
+      ],
+      "category": "document-processing"
     },
     "freestylefly--mcp-server-weread": {
       "owner": "freestylefly",
@@ -3291,7 +3433,8 @@
         "wechat reading",
         "notes reading",
         "notes intelligent"
-      ]
+      ],
+      "category": "document-processing"
     },
     "funchs--ifly-spark-agent-mcp": {
       "owner": "funchs",
@@ -3314,7 +3457,8 @@
         "sparkagent platform",
         "spark agent",
         "iflytek sparkagent"
-      ]
+      ],
+      "category": "document-processing"
     },
     "getzep--graphiti": {
       "owner": "getzep",
@@ -3337,7 +3481,8 @@
         "knowledge graphs",
         "reasoning ai",
         "ai agents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "git-jiadong--wechatDataBackup": {
       "owner": "git-jiadong",
@@ -3360,7 +3505,8 @@
         "jiadong wechatdatabackup",
         "wechatdatabackup export",
         "files wechat"
-      ]
+      ],
+      "category": "document-processing"
     },
     "gitkenan--doctair": {
       "owner": "gitkenan",
@@ -3383,7 +3529,8 @@
         "processing gitkenan",
         "gitkenan doctair",
         "deployment applications"
-      ]
+      ],
+      "category": "document-processing"
     },
     "gstarwd--doompdf": {
       "owner": "gstarwd",
@@ -3406,7 +3553,8 @@
         "gstarwd doompdf",
         "doompdf integrates",
         "doom game"
-      ]
+      ],
+      "category": "document-processing"
     },
     "gyger--mcp-pyzotero": {
       "owner": "gyger",
@@ -3429,7 +3577,8 @@
         "zotero library",
         "api zotero",
         "local zotero"
-      ]
+      ],
+      "category": "document-processing"
     },
     "hannesrudolph--mcp-ragdocs": {
       "owner": "hannesrudolph",
@@ -3452,7 +3601,8 @@
         "semantic search",
         "information retrieval",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "hanweg--mcp-pdf-tools": {
       "owner": "hanweg",
@@ -3475,7 +3625,8 @@
         "pdf tools",
         "pdfs extracting",
         "mcp pdf"
-      ]
+      ],
+      "category": "document-processing"
     },
     "haris-musa--excel-mcp-server": {
       "owner": "haris-musa",
@@ -3498,7 +3649,8 @@
         "excel files",
         "musa excel",
         "microsoft excel"
-      ]
+      ],
+      "category": "document-processing"
     },
     "heltonteixeira--ragdocs": {
       "owner": "heltonteixeira",
@@ -3521,7 +3673,8 @@
         "document management",
         "document processing",
         "documents automatic"
-      ]
+      ],
+      "category": "document-processing"
     },
     "hesiod-au--python-mcp": {
       "owner": "hesiod-au",
@@ -3544,7 +3697,8 @@
         "extract python",
         "au python",
         "python mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "highlight-ing--highlight-youtube-mcp": {
       "owner": "highlight-ing",
@@ -3567,7 +3721,8 @@
         "transcripts youtube",
         "youtube mcp",
         "highlight youtube"
-      ]
+      ],
+      "category": "document-processing"
     },
     "hoonoh57--Append-Data-to-JSON-File-and-Display-JSON-data-to-HTML-Table-using-Ajax-Jquery-getJSON-method": {
       "owner": "hoonoh57",
@@ -3590,7 +3745,8 @@
         "json file",
         "data json",
         "json data"
-      ]
+      ],
+      "category": "document-processing"
     },
     "hyperspell--hyperspell-mcp": {
       "owner": "hyperspell",
@@ -3613,7 +3769,8 @@
         "spell checking",
         "processing hyperspell",
         "hyperspell mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "i-tozer--excalidraw-mcp": {
       "owner": "i-tozer",
@@ -3636,7 +3793,8 @@
         "excalidraw drawings",
         "tozer excalidraw",
         "manage excalidraw"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ifmelate--mcp-image-extractor": {
       "owner": "ifmelate",
@@ -3659,7 +3817,8 @@
         "extracts images",
         "image extractor",
         "mcp image"
-      ]
+      ],
+      "category": "document-processing"
     },
     "inkdropapp--mcp-server": {
       "owner": "inkdropapp",
@@ -3682,7 +3841,8 @@
         "inkdropapp mcp",
         "processing inkdropapp",
         "inkdrop access"
-      ]
+      ],
+      "category": "document-processing"
     },
     "inkeep--mcp-server-python": {
       "owner": "inkeep",
@@ -3705,7 +3865,8 @@
         "documentation powerful",
         "document processing",
         "interact documentation"
-      ]
+      ],
+      "category": "document-processing"
     },
     "intsig-textin--textin-mcp": {
       "owner": "intsig-textin",
@@ -3728,7 +3889,8 @@
         "document processing",
         "ocr document",
         "document conversion"
-      ]
+      ],
+      "category": "document-processing"
     },
     "isaacphi--mcp-gdrive": {
       "owner": "isaacphi",
@@ -3751,7 +3913,8 @@
         "mcp gdrive",
         "gdrive integrates",
         "google drive"
-      ]
+      ],
+      "category": "document-processing"
     },
     "islem-zaraa--mcp-powerpoint": {
       "owner": "islem-zaraa",
@@ -3774,7 +3937,8 @@
         "mcp powerpoint",
         "powerpoint presentations",
         "powerpoint create"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jbchouinard--mcp-document-reader": {
       "owner": "jbchouinard",
@@ -3797,7 +3961,8 @@
         "document reader",
         "epub documents",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jdot274--PptxGenJS": {
       "owner": "jdot274",
@@ -3820,7 +3985,8 @@
         "generate slides",
         "create powerpoint",
         "powerpoint presentations"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jenstangen1--pptx-xlsx-mcp": {
       "owner": "jenstangen1",
@@ -3843,7 +4009,8 @@
         "pptx xlsx",
         "microsoft office",
         "powerpoint excel"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jettyio--mlcbakery": {
       "owner": "jettyio",
@@ -3866,7 +4033,8 @@
         "mlc bakery",
         "mlcbakery provides",
         "bakery api"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jiawei0816--docs": {
       "owner": "jiawei0816",
@@ -3889,7 +4057,8 @@
         "documentation features",
         "project documentation",
         "jiawei0816 docs"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jimpick--mcp-json-db-collection-server": {
       "owner": "jimpick",
@@ -3912,7 +4081,8 @@
         "document databases",
         "databases cloud",
         "mcp json"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jinzcdev--markmap-mcp-server": {
       "owner": "jinzcdev",
@@ -3935,7 +4105,8 @@
         "jinzcdev markmap",
         "markmap mcp",
         "converts markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jjgordon89--document-qa": {
       "owner": "jjgordon89",
@@ -3958,7 +4129,8 @@
         "document processing",
         "document analysis",
         "qa streamlit"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jkawamoto--mcp-youtube-transcript": {
       "owner": "jkawamoto",
@@ -3981,7 +4153,8 @@
         "transcripts youtube",
         "youtube transcript",
         "retrieve transcripts"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jkf87--hwp-mcp": {
       "owner": "jkf87",
@@ -4004,7 +4177,8 @@
         "hwp hangul",
         "document processing",
         "word processor"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jlmelis--sanity-mcp-server": {
       "owner": "jlmelis",
@@ -4027,7 +4201,8 @@
         "jlmelis sanity",
         "manage sanity",
         "processing jlmelis"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jmanhype--dart-mcp-server": {
       "owner": "jmanhype",
@@ -4050,7 +4225,8 @@
         "dart mcp",
         "tasks documents",
         "jmanhype dart"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jmh108--MCP-server-readability-python": {
       "owner": "jmh108",
@@ -4073,7 +4249,8 @@
         "processing jmh108",
         "document processing",
         "optimized markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jmh108--md-webcrawl-mcp": {
       "owner": "jmh108",
@@ -4096,7 +4273,8 @@
         "md webcrawl",
         "webcrawl mcp",
         "processing jmh108"
-      ]
+      ],
+      "category": "document-processing"
     },
     "joaowinderfeldbussolotto--MCP-Websearch-Server": {
       "owner": "joaowinderfeldbussolotto",
@@ -4119,7 +4297,8 @@
         "mcp websearch",
         "websearch server",
         "index openai"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jonaolden--pbixray-mcp-server": {
       "owner": "jonaolden",
@@ -4142,7 +4321,8 @@
         "bi pbix",
         "pbixray mcp",
         "pbix files"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jspamd--docs": {
       "owner": "jspamd",
@@ -4165,7 +4345,8 @@
         "jspamd docs",
         "processing jspamd",
         "documentation dataease"
-      ]
+      ],
+      "category": "document-processing"
     },
     "jxnl--apple-mcp": {
       "owner": "jxnl",
@@ -4188,7 +4369,8 @@
         "jxnl apple",
         "processing jxnl",
         "apple mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kajirita2002--esa-mcp-server": {
       "owner": "kajirita2002",
@@ -4211,7 +4393,8 @@
         "document processing",
         "esa api",
         "documents efficiently"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kakukontrol--iodraw-files": {
       "owner": "kakukontrol",
@@ -4234,7 +4417,8 @@
         "iodraw files",
         "iodraw including",
         "kakukontrol iodraw"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kaliaboi--mcp-zotero": {
       "owner": "kaliaboi",
@@ -4257,7 +4441,8 @@
         "zotero library",
         "mcp zotero",
         "zotero enable"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kazuph--mcp-docs-rag": {
       "owner": "kazuph",
@@ -4280,7 +4465,8 @@
         "query documents",
         "documents generating",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kazuph--mcp-screenshot": {
       "owner": "kazuph",
@@ -4303,7 +4489,8 @@
         "kazuph mcp",
         "processing kazuph",
         "recognition macos"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kibela--kibela-mcp-server": {
       "owner": "kibela",
@@ -4326,7 +4513,8 @@
         "processing kibela",
         "kibela mcp",
         "interact kibela"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kimtaeyoon83--mcp-server-youtube-transcript": {
       "owner": "kimtaeyoon83",
@@ -4349,7 +4537,8 @@
         "youtube transcript",
         "server youtube",
         "processing kimtaeyoon83"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kmexnx--excel-to-pdf-mcp": {
       "owner": "kmexnx",
@@ -4372,7 +4561,8 @@
         "kmexnx excel",
         "processing kmexnx",
         "excel apple"
-      ]
+      ],
+      "category": "document-processing"
     },
     "krimoi45--chroma-rag-project": {
       "owner": "krimoi45",
@@ -4395,7 +4585,8 @@
         "document retrieval",
         "chroma rag",
         "implement retrieval"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kujenga--zotero-mcp": {
       "owner": "kujenga",
@@ -4418,7 +4609,8 @@
         "zotero library",
         "manage zotero",
         "zotero mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "kumzhijr--Covenant-ai": {
       "owner": "kumzhijr",
@@ -4441,7 +4633,8 @@
         "pdf contracts",
         "advanced contract",
         "contract analysis"
-      ]
+      ],
+      "category": "document-processing"
     },
     "landicefu--divide-and-conquer-mcp-server": {
       "owner": "landicefu",
@@ -4464,7 +4657,8 @@
         "document processing",
         "mcp server",
         "conquer mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "langchain-ai--mcpdoc": {
       "owner": "langchain-ai",
@@ -4487,7 +4681,8 @@
         "llms txt",
         "mcpdoc provides",
         "ai mcpdoc"
-      ]
+      ],
+      "category": "document-processing"
     },
     "lishenxydlgzs--simple-files-vectorstore": {
       "owner": "lishenxydlgzs",
@@ -4510,7 +4705,8 @@
         "files vectorstore",
         "vector store",
         "vectorstore creates"
-      ]
+      ],
+      "category": "document-processing"
     },
     "liuyazui--base64_server": {
       "owner": "liuyazui",
@@ -4533,7 +4729,8 @@
         "liuyazui base64_server",
         "base64 encoding",
         "efficient base64"
-      ]
+      ],
+      "category": "document-processing"
     },
     "llmian-space--devdocs-mcp": {
       "owner": "llmian-space",
@@ -4556,7 +4753,8 @@
         "integrate documentation",
         "devdocs mcp",
         "documentation resources"
-      ]
+      ],
+      "category": "document-processing"
     },
     "lpsDevelopers--LPS-MCP": {
       "owner": "lpsDevelopers",
@@ -4579,7 +4777,8 @@
         "processing lpsdevelopers",
         "lpsdevelopers lps",
         "lps mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "lucamauri--MediaWiki-MCP-adapter": {
       "owner": "lucamauri",
@@ -4602,7 +4801,8 @@
         "mediawiki mcp",
         "programmatically mediawiki",
         "lucamauri mediawiki"
-      ]
+      ],
+      "category": "document-processing"
     },
     "luebken--playlist-mcp": {
       "owner": "luebken",
@@ -4625,7 +4825,8 @@
         "luebken playlist",
         "youtube playlists",
         "playlist mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "lvshiyu21--Yuque-MCP-Server": {
       "owner": "lvshiyu21",
@@ -4648,7 +4849,8 @@
         "yuque knowledge",
         "document processing",
         "integrates yuque"
-      ]
+      ],
+      "category": "document-processing"
     },
     "madarco--ragrabbit": {
       "owner": "madarco",
@@ -4671,7 +4873,8 @@
         "search capabilities",
         "crawl websites",
         "powered search"
-      ]
+      ],
+      "category": "document-processing"
     },
     "mahawi1992--mcp-documentation-server": {
       "owner": "mahawi1992",
@@ -4694,7 +4897,8 @@
         "documentation server",
         "document processing",
         "documentation code"
-      ]
+      ],
+      "category": "document-processing"
     },
     "mamertofabian--elevenlabs-mcp-server": {
       "owner": "mamertofabian",
@@ -4717,7 +4921,8 @@
         "mamertofabian elevenlabs",
         "processing mamertofabian",
         "elevenlabs mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "maoxiaoke--mcp-media-processor": {
       "owner": "maoxiaoke",
@@ -4740,7 +4945,8 @@
         "media processing",
         "media processor",
         "mcp media"
-      ]
+      ],
+      "category": "document-processing"
     },
     "mario-andreschak--mcp-msoffice-interop-word": {
       "owner": "mario-andreschak",
@@ -4763,7 +4969,8 @@
         "msoffice interop",
         "microsoft word",
         "mcp msoffice"
-      ]
+      ],
+      "category": "document-processing"
     },
     "mawazawa--agentic-pdf-app": {
       "owner": "mawazawa",
@@ -4786,7 +4993,8 @@
         "documents ai",
         "document processing",
         "pdf app"
-      ]
+      ],
+      "category": "document-processing"
     },
     "mgsrevolver--seo-inspector-mcp": {
       "owner": "mgsrevolver",
@@ -4809,7 +5017,8 @@
         "mgsrevolver seo",
         "seo inspector",
         "analyzes html"
-      ]
+      ],
+      "category": "document-processing"
     },
     "michalnaka--mcp-substack": {
       "owner": "michalnaka",
@@ -4832,7 +5041,8 @@
         "substack posts",
         "mcp substack",
         "substack download"
-      ]
+      ],
+      "category": "document-processing"
     },
     "mimi520879--docs": {
       "owner": "mimi520879",
@@ -4855,7 +5065,8 @@
         "documentation built",
         "customizing documentation",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -4878,7 +5089,8 @@
         "modelcontextprotocol servers",
         "google drive",
         "processing modelcontextprotocol"
-      ]
+      ],
+      "category": "document-processing"
     },
     "nCrom--readme-updater-mcp": {
       "owner": "nCrom",
@@ -4901,7 +5113,8 @@
         "processing ncrom",
         "ncrom readme",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "narphorium--mcp-memex": {
       "owner": "narphorium",
@@ -4924,7 +5137,8 @@
         "mcp memex",
         "memex analyze",
         "narphorium mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "narumiruna--gitingest-mcp": {
       "owner": "narumiruna",
@@ -4947,7 +5161,8 @@
         "narumiruna gitingest",
         "ingest git",
         "processing narumiruna"
-      ]
+      ],
+      "category": "document-processing"
     },
     "nathanonn--mcp-url-fetcher": {
       "owner": "nathanonn",
@@ -4970,7 +5185,8 @@
         "mcp url",
         "mcp server",
         "url formats"
-      ]
+      ],
+      "category": "document-processing"
     },
     "nattyraz--youtube-mcp": {
       "owner": "nattyraz",
@@ -4993,7 +5209,8 @@
         "nattyraz youtube",
         "captions youtube",
         "youtube mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ndchikin--reference-mcp": {
       "owner": "ndchikin",
@@ -5016,7 +5233,8 @@
         "citation management",
         "citation data",
         "streamline citation"
-      ]
+      ],
+      "category": "document-processing"
     },
     "negokaz--excel-mcp-server": {
       "owner": "negokaz",
@@ -5039,7 +5257,8 @@
         "negokaz excel",
         "processing negokaz",
         "excel files"
-      ]
+      ],
+      "category": "document-processing"
     },
     "nfshanq--mcp-invoice": {
       "owner": "nfshanq",
@@ -5062,7 +5281,8 @@
         "mcp invoice",
         "ocr capabilities",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "nloui--paperless-mcp": {
       "owner": "nloui",
@@ -5085,7 +5305,8 @@
         "paperless ngx",
         "nloui paperless",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "oakenai--mcp-edit-file-lines": {
       "owner": "oakenai",
@@ -5108,7 +5329,8 @@
         "edit file",
         "file lines",
         "edits text"
-      ]
+      ],
+      "category": "document-processing"
     },
     "oborchers--mcp-server-docy": {
       "owner": "oborchers",
@@ -5131,7 +5353,8 @@
         "docy provides",
         "server docy",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "omer-ayhan--custom-context-mcp": {
       "owner": "omer-ayhan",
@@ -5154,7 +5377,8 @@
         "structured json",
         "text structured",
         "unstructured text"
-      ]
+      ],
+      "category": "document-processing"
     },
     "onebirdrocks--ebook-mcp": {
       "owner": "onebirdrocks",
@@ -5177,7 +5401,8 @@
         "onebirdrocks ebook",
         "ebook mcp",
         "books enabling"
-      ]
+      ],
+      "category": "document-processing"
     },
     "oneshot-engineering--mcp-webresearch": {
       "owner": "oneshot-engineering",
@@ -5200,7 +5425,8 @@
         "mcp webresearch",
         "capture screenshots",
         "oneshot engineering"
-      ]
+      ],
+      "category": "document-processing"
     },
     "onigeya--siyuan-mcp-server": {
       "owner": "onigeya",
@@ -5223,7 +5449,8 @@
         "siyuan note",
         "siyuan mcp",
         "integrate siyuan"
-      ]
+      ],
+      "category": "document-processing"
     },
     "orellazri--coda-mcp": {
       "owner": "orellazri",
@@ -5246,7 +5473,8 @@
         "coda documents",
         "coda mcp",
         "orellazri coda"
-      ]
+      ],
+      "category": "document-processing"
     },
     "pbteja1998--sourcesyncai-mcp": {
       "owner": "pbteja1998",
@@ -5269,7 +5497,8 @@
         "document processing",
         "document management",
         "sourcesyncai mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "petercat-ai--whiskerrag_toolkit": {
       "owner": "petercat-ai",
@@ -5292,7 +5521,8 @@
         "ai whiskerrag_toolkit",
         "whiskerrag_toolkit provides",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "privetin--chroma": {
       "owner": "privetin",
@@ -5315,7 +5545,8 @@
         "retrieval documents",
         "document processing",
         "documents metadata"
-      ]
+      ],
+      "category": "document-processing"
     },
     "probelabs--docs-mcp": {
       "owner": "probelabs",
@@ -5338,7 +5569,8 @@
         "docs mcp",
         "documentation codebases",
         "probelabs docs"
-      ]
+      ],
+      "category": "document-processing"
     },
     "protomated--legal-context": {
       "owner": "protomated",
@@ -5361,7 +5593,8 @@
         "legal documents",
         "document management",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "puchunjie--doc-tools-mcp": {
       "owner": "puchunjie",
@@ -5384,7 +5617,8 @@
         "doc tools",
         "document processing",
         "tools mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "puremd--puremd-mcp": {
       "owner": "puremd",
@@ -5407,7 +5641,8 @@
         "processing puremd",
         "puremd puremd",
         "puremd mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "qing-turnaround--markitdown_mcp_server": {
       "owner": "qing-turnaround",
@@ -5430,7 +5665,8 @@
         "formats markdown",
         "markitdown utility",
         "markdown format"
-      ]
+      ],
+      "category": "document-processing"
     },
     "qiniu--qiniu-mcp-server": {
       "owner": "qiniu",
@@ -5453,7 +5689,8 @@
         "qiniu cloud",
         "processing qiniu",
         "qiniu mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "qpd-v--mcp-ragdocs": {
       "owner": "qpd-v",
@@ -5476,7 +5713,8 @@
         "stores documentation",
         "semantic search",
         "documentation vector"
-      ]
+      ],
+      "category": "document-processing"
     },
     "qpd-v--mcp-wordcounter": {
       "owner": "qpd-v",
@@ -5499,7 +5737,8 @@
         "wordcounter analyzes",
         "mcp wordcounter",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "quillopy--quillopy-mcp": {
       "owner": "quillopy",
@@ -5522,7 +5761,8 @@
         "libraries quillopy",
         "quillopy api",
         "quillopy mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "r-huijts--opentk-mcp": {
       "owner": "r-huijts",
@@ -5545,7 +5785,8 @@
         "dutch parliamentary",
         "parliamentary documents",
         "huijts opentk"
-      ]
+      ],
+      "category": "document-processing"
     },
     "rajnaveen344--lsp-tools-mcp": {
       "owner": "rajnaveen344",
@@ -5568,7 +5809,8 @@
         "matches files",
         "lsp tools",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "rajvirtual--MCP-Servers": {
       "owner": "rajvirtual",
@@ -5591,7 +5833,8 @@
         "microsoft onenote",
         "onenote content",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "regenrek--deepwiki-mcp": {
       "owner": "regenrek",
@@ -5614,7 +5857,8 @@
         "crawls deepwiki",
         "deepwiki mcp",
         "deepwiki com"
-      ]
+      ],
+      "category": "document-processing"
     },
     "rickysullivan--gitbook-mcp": {
       "owner": "rickysullivan",
@@ -5637,7 +5881,8 @@
         "gitbook mcp",
         "gitbook organizations",
         "access gitbook"
-      ]
+      ],
+      "category": "document-processing"
     },
     "rishipradeep-think41--google-drive-mcp": {
       "owner": "rishipradeep-think41",
@@ -5660,7 +5905,8 @@
         "google drive",
         "mcp facilitate",
         "drive mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "rjadhavJT--docgen-mcp": {
       "owner": "rjadhavJT",
@@ -5683,7 +5929,8 @@
         "documentation extracting",
         "documentation processes",
         "enhance documentation"
-      ]
+      ],
+      "category": "document-processing"
     },
     "rvydhya--youtube_transcriptor": {
       "owner": "rvydhya",
@@ -5706,7 +5953,8 @@
         "rvydhya youtube_transcriptor",
         "youtube_transcriptor transcribes",
         "transcribes youtube"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ryanjoachim--mcp-rtfm": {
       "owner": "ryanjoachim",
@@ -5729,7 +5977,8 @@
         "rtfm facilitates",
         "document processing",
         "documentation content"
-      ]
+      ],
+      "category": "document-processing"
     },
     "samaraxmmar--Deepseek_chat_rag": {
       "owner": "samaraxmmar",
@@ -5752,7 +6001,8 @@
         "document processing",
         "samaraxmmar deepseek_chat_rag",
         "processing samaraxmmar"
-      ]
+      ],
+      "category": "document-processing"
     },
     "sammcj--mcp-data-extractor": {
       "owner": "sammcj",
@@ -5775,7 +6025,8 @@
         "processing sammcj",
         "sammcj mcp",
         "data extractor"
-      ]
+      ],
+      "category": "document-processing"
     },
     "sanderkooger--mcp-server-ragdocs": {
       "owner": "sanderkooger",
@@ -5798,7 +6049,8 @@
         "documentation aware",
         "document processing",
         "ai assistants"
-      ]
+      ],
+      "category": "document-processing"
     },
     "scmdr--sourcesyncai-mcp": {
       "owner": "scmdr",
@@ -5821,7 +6073,8 @@
         "scmdr sourcesyncai",
         "processing scmdr",
         "sourcesyncai mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "sdairs--claudekeep": {
       "owner": "sdairs",
@@ -5844,7 +6097,8 @@
         "ai chat",
         "ai conversations",
         "chat storage"
-      ]
+      ],
+      "category": "document-processing"
     },
     "seanivore--Convert-Markdown-PDF-MCP": {
       "owner": "seanivore",
@@ -5867,7 +6121,8 @@
         "markdown files",
         "markdown pdf",
         "converts markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "seanivore--mcp-file-preview": {
       "owner": "seanivore",
@@ -5890,7 +6145,8 @@
         "file preview",
         "html files",
         "previewing analyzing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "seanlee10--server-youtube-transcription": {
       "owner": "seanlee10",
@@ -5913,7 +6169,8 @@
         "youtube transcription",
         "processing seanlee10",
         "server youtube"
-      ]
+      ],
+      "category": "document-processing"
     },
     "sellisd--mcp-units": {
       "owner": "sellisd",
@@ -5936,7 +6193,8 @@
         "mcp units",
         "sellisd mcp",
         "cooking milliliters"
-      ]
+      ],
+      "category": "document-processing"
     },
     "shaunporwal--DICOM-MCP": {
       "owner": "shaunporwal",
@@ -5959,7 +6217,8 @@
         "dicom images",
         "summarize dicom",
         "dicom mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "shifusen329--doc-lib-mcp": {
       "owner": "shifusen329",
@@ -5982,7 +6241,8 @@
         "shifusen329 doc",
         "document processing",
         "search documentation"
-      ]
+      ],
+      "category": "document-processing"
     },
     "shineforever--Youtube-Transcript-Download": {
       "owner": "shineforever",
@@ -6005,7 +6265,8 @@
         "shineforever youtube",
         "download subtitles",
         "processing shineforever"
-      ]
+      ],
+      "category": "document-processing"
     },
     "skrapeai--skrape-mcp": {
       "owner": "skrapeai",
@@ -6028,7 +6289,8 @@
         "markdown suitable",
         "structured markdown",
         "processing skrapeai"
-      ]
+      ],
+      "category": "document-processing"
     },
     "skydeckai--mcp-server-rememberizer": {
       "owner": "skydeckai",
@@ -6051,7 +6313,8 @@
         "rememberizer document",
         "server rememberizer",
         "retrieval management"
-      ]
+      ],
+      "category": "document-processing"
     },
     "slamdunkasaur--ru-heritage": {
       "owner": "slamdunkasaur",
@@ -6074,7 +6337,8 @@
         "ru heritage",
         "heritage ru",
         "slamdunkasaur ru"
-      ]
+      ],
+      "category": "document-processing"
     },
     "softgridinc-pte-ltd--mcp-excel-reader-server": {
       "owner": "softgridinc-pte-ltd",
@@ -6097,7 +6361,8 @@
         "excel files",
         "excel reader",
         "processing softgridinc"
-      ]
+      ],
+      "category": "document-processing"
     },
     "soggycactus--paprika-3-mcp": {
       "owner": "soggycactus",
@@ -6120,7 +6385,8 @@
         "paprika recipes",
         "recipes paprika",
         "soggycactus paprika"
-      ]
+      ],
+      "category": "document-processing"
     },
     "soukouki--obsidian_fetch": {
       "owner": "soukouki",
@@ -6143,7 +6409,8 @@
         "note retrieval",
         "notes efficiently",
         "load notes"
-      ]
+      ],
+      "category": "document-processing"
     },
     "spacemeowx2--cargo-doc-mcp": {
       "owner": "spacemeowx2",
@@ -6166,7 +6433,8 @@
         "rust documentation",
         "crate documentation",
         "cargo doc"
-      ]
+      ],
+      "category": "document-processing"
     },
     "speakeasy-api--markdown-sidecar-mcp": {
       "owner": "speakeasy-api",
@@ -6189,7 +6457,8 @@
         "markdown documentation",
         "documentation included",
         "documentation npm"
-      ]
+      ],
+      "category": "document-processing"
     },
     "spences10--mcp-jinaai-reader": {
       "owner": "spences10",
@@ -6212,7 +6481,8 @@
         "content extraction",
         "jinaai reader",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "srvdneat--docs": {
       "owner": "srvdneat",
@@ -6235,7 +6505,8 @@
         "maintaining documentation",
         "documentation including",
         "srvdneat docs"
-      ]
+      ],
+      "category": "document-processing"
     },
     "storacha--mcp-storage-server": {
       "owner": "storacha",
@@ -6258,7 +6529,8 @@
         "decentralized storage",
         "mcp storage",
         "storage server"
-      ]
+      ],
+      "category": "document-processing"
     },
     "swairshah--zotero-mcp-server": {
       "owner": "swairshah",
@@ -6281,7 +6553,8 @@
         "zotero library",
         "manage zotero",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "sylphxltd--pdf-reader-mcp": {
       "owner": "sylphxltd",
@@ -6304,7 +6577,8 @@
         "pdf reader",
         "sylphxltd pdf",
         "reader mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "takashiishida--arxiv-latex-mcp": {
       "owner": "takashiishida",
@@ -6327,7 +6601,8 @@
         "arxiv latex",
         "arxiv papers",
         "latex sources"
-      ]
+      ],
+      "category": "document-processing"
     },
     "takuya0206--obsidian-mcp": {
       "owner": "takuya0206",
@@ -6350,7 +6625,8 @@
         "obsidian mcp",
         "obsidian vault",
         "interact obsidian"
-      ]
+      ],
+      "category": "document-processing"
     },
     "tatn--mcp-server-diff-python": {
       "owner": "tatn",
@@ -6373,7 +6649,8 @@
         "diff python",
         "python difflib",
         "diff format"
-      ]
+      ],
+      "category": "document-processing"
     },
     "tatn--mcp-server-fetch-typescript": {
       "owner": "tatn",
@@ -6396,7 +6673,8 @@
         "extraction web",
         "fetch typescript",
         "typescript retrieves"
-      ]
+      ],
+      "category": "document-processing"
     },
     "taweili--mcp-rss-md": {
       "owner": "taweili",
@@ -6419,7 +6697,8 @@
         "rss md",
         "markdown documents",
         "raw rss"
-      ]
+      ],
+      "category": "document-processing"
     },
     "taxihabbel--parsemypdf": {
       "owner": "taxihabbel",
@@ -6442,7 +6721,8 @@
         "parsemypdf extract",
         "taxihabbel parsemypdf",
         "pdf documents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "thirdstrandstudio--mcp-xpath": {
       "owner": "thirdstrandstudio",
@@ -6465,7 +6745,8 @@
         "mcp xpath",
         "xpath queries",
         "execute xpath"
-      ]
+      ],
+      "category": "document-processing"
     },
     "tizee--mcp-server-ietf": {
       "owner": "tizee",
@@ -6488,7 +6769,8 @@
         "rfc documents",
         "ietf rfc",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "tizee--mcp-unix-manual": {
       "owner": "tizee",
@@ -6511,7 +6793,8 @@
         "command documentation",
         "unix manual",
         "mcp unix"
-      ]
+      ],
+      "category": "document-processing"
     },
     "trafflux--pdf-reader-mcp": {
       "owner": "trafflux",
@@ -6534,7 +6817,8 @@
         "trafflux pdf",
         "pdf reader",
         "pdf formats"
-      ]
+      ],
+      "category": "document-processing"
     },
     "truaxki--mcp-Pdf2png": {
       "owner": "truaxki",
@@ -6557,7 +6841,8 @@
         "mcp pdf2png",
         "pdf png",
         "pdf2png convert"
-      ]
+      ],
+      "category": "document-processing"
     },
     "tuki0918--eagle-mcp-server": {
       "owner": "tuki0918",
@@ -6580,7 +6865,8 @@
         "eagle mcp",
         "eagle app",
         "integrates eagle"
-      ]
+      ],
+      "category": "document-processing"
     },
     "tumf--mcp-text-editor": {
       "owner": "tumf",
@@ -6603,7 +6889,8 @@
         "file editing",
         "text editor",
         "editor provides"
-      ]
+      ],
+      "category": "document-processing"
     },
     "tuncer-byte--memory-bank-MCP": {
       "owner": "tuncer-byte",
@@ -6626,7 +6913,8 @@
         "documentation ai",
         "project documentation",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "u3588064--AutoGuarantee": {
       "owner": "u3588064",
@@ -6649,7 +6937,8 @@
         "autoguarantee 自动提取保函文本中的要素和条款",
         "输出结果为 json",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "u3588064--Entity-Resolution": {
       "owner": "u3588064",
@@ -6672,7 +6961,8 @@
         "entity resolution",
         "normalization semantic",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "ucalyptus--prem-mcp-server": {
       "owner": "ucalyptus",
@@ -6695,7 +6985,8 @@
         "features chat",
         "document processing",
         "document management"
-      ]
+      ],
+      "category": "document-processing"
     },
     "umuthopeyildirim--markai": {
       "owner": "umuthopeyildirim",
@@ -6718,7 +7009,8 @@
         "markai platform",
         "markai markai",
         "umuthopeyildirim markai"
-      ]
+      ],
+      "category": "document-processing"
     },
     "upstash--context7": {
       "owner": "upstash",
@@ -6741,7 +7033,8 @@
         "upstash context7",
         "documentation ai",
         "processing upstash"
-      ]
+      ],
+      "category": "document-processing"
     },
     "vgnshiyer--apple-books-mcp": {
       "owner": "vgnshiyer",
@@ -6764,7 +7057,8 @@
         "apple books",
         "books mcp",
         "vgnshiyer apple"
-      ]
+      ],
+      "category": "document-processing"
     },
     "visheshd--docmcp": {
       "owner": "visheshd",
@@ -6787,7 +7081,8 @@
         "docmcp index",
         "semantic search",
         "visheshd docmcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "vivekVells--mcp-pandoc": {
       "owner": "vivekVells",
@@ -6810,7 +7105,8 @@
         "pandoc facilitates",
         "using pandoc",
         "pandoc enabling"
-      ]
+      ],
+      "category": "document-processing"
     },
     "w-jeon--mcp-framework": {
       "owner": "w-jeon",
@@ -6833,7 +7129,8 @@
         "document processing",
         "mcp framework",
         "framework framework"
-      ]
+      ],
+      "category": "document-processing"
     },
     "weloyun--dify": {
       "owner": "weloyun",
@@ -6856,7 +7153,8 @@
         "weloyun dify",
         "dify allows",
         "dify dify"
-      ]
+      ],
+      "category": "document-processing"
     },
     "whiteking64--macos-ocr-mcp": {
       "owner": "whiteking64",
@@ -6879,7 +7177,8 @@
         "macos ocr",
         "ocr mcp",
         "ocr images"
-      ]
+      ],
+      "category": "document-processing"
     },
     "wizd--airylark-mcp-server": {
       "owner": "wizd",
@@ -6902,7 +7201,8 @@
         "translation services",
         "processing wizd",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "wolfyy970--docs-fetch-mcp": {
       "owner": "wolfyy970",
@@ -6925,7 +7225,8 @@
         "docs fetch",
         "documentation web",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "wong2--mcp-jina-reader": {
       "owner": "wong2",
@@ -6948,7 +7249,8 @@
         "jina reader",
         "mcp jina",
         "markdown format"
-      ]
+      ],
+      "category": "document-processing"
     },
     "wonnyboi--mcp-server": {
       "owner": "wonnyboi",
@@ -6971,7 +7273,8 @@
         "wonnyboi mcp",
         "github students",
         "mcp server"
-      ]
+      ],
+      "category": "document-processing"
     },
     "worldnine--scrapbox-cosense-mcp": {
       "owner": "worldnine",
@@ -6994,7 +7297,8 @@
         "scrapbox project",
         "scrapbox cosense",
         "interact scrapbox"
-      ]
+      ],
+      "category": "document-processing"
     },
     "worldnine--textwell-mcp": {
       "owner": "worldnine",
@@ -7017,7 +7321,8 @@
         "textwell mcp",
         "textwell application",
         "text textwell"
-      ]
+      ],
+      "category": "document-processing"
     },
     "wowyuarm--file-converter-mcp": {
       "owner": "wowyuarm",
@@ -7040,7 +7345,8 @@
         "formats docx",
         "file converter",
         "image formats"
-      ]
+      ],
+      "category": "document-processing"
     },
     "wushouzhuan1--finance_news_analysis": {
       "owner": "wushouzhuan1",
@@ -7063,7 +7369,8 @@
         "finance_news_analysis scrapes",
         "wushouzhuan1 finance_news_analysis",
         "insights extraction"
-      ]
+      ],
+      "category": "document-processing"
     },
     "wysh3--perplexity-mcp-zerver": {
       "owner": "wysh3",
@@ -7086,7 +7393,8 @@
         "wysh3 perplexity",
         "perplexity website",
         "ai research"
-      ]
+      ],
+      "category": "document-processing"
     },
     "xiandan-erizo--ops-mcp": {
       "owner": "xiandan-erizo",
@@ -7109,7 +7417,8 @@
         "retrieval document",
         "document processing",
         "confluence documents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "xraywu--mcp-pdf-extraction-server": {
       "owner": "xraywu",
@@ -7132,7 +7441,8 @@
         "pdf extraction",
         "document processing",
         "processing xraywu"
-      ]
+      ],
+      "category": "document-processing"
     },
     "yellowgg2--mcp-bookstack": {
       "owner": "yellowgg2",
@@ -7155,7 +7465,8 @@
         "bookstack search",
         "bookstack pages",
         "data bookstack"
-      ]
+      ],
+      "category": "document-processing"
     },
     "yosider--cosense-mcp-server": {
       "owner": "yosider",
@@ -7178,7 +7489,8 @@
         "cosense knowledge",
         "interact cosense",
         "cosense mcp"
-      ]
+      ],
+      "category": "document-processing"
     },
     "yzfly--mcp-excel-server": {
       "owner": "yzfly",
@@ -7201,7 +7513,8 @@
         "excel server",
         "processing yzfly",
         "mcp excel"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zanetworker--mcp-docling": {
       "owner": "zanetworker",
@@ -7224,7 +7537,8 @@
         "document processing",
         "docling convert",
         "convert documents"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zcaceres--markdownify-mcp": {
       "owner": "zcaceres",
@@ -7247,7 +7561,8 @@
         "markdownify mcp",
         "zcaceres markdownify",
         "content markdown"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zcardb--front-code-sum": {
       "owner": "zcardb",
@@ -7270,7 +7585,8 @@
         "processing zcardb",
         "zcardb code",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zentala--zntl-mcp-server": {
       "owner": "zentala",
@@ -7293,7 +7609,8 @@
         "transcription analysis",
         "transcripter project",
         "integrates transcripter"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zereight--confluence-mcp": {
       "owner": "zereight",
@@ -7316,7 +7633,8 @@
         "confluence data",
         "confluence api",
         "zereight confluence"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zeyangxu--local-rag": {
       "owner": "zeyangxu",
@@ -7339,7 +7657,8 @@
         "document processing",
         "data retrieval",
         "retrieval capabilities"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zhiwei5576--excel-mcp-server": {
       "owner": "zhiwei5576",
@@ -7362,7 +7681,8 @@
         "zhiwei5576 excel",
         "excel files",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zhuangmanhong--PDFMathTranslate": {
       "owner": "zhuangmanhong",
@@ -7385,7 +7705,8 @@
         "zhuangmanhong pdfmathtranslate",
         "processing zhuangmanhong",
         "translate pdf"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zhushengxiao--jianshu": {
       "owner": "zhushengxiao",
@@ -7408,7 +7729,8 @@
         "organize writing",
         "processing zhushengxiao",
         "document processing"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zm1990s--panw": {
       "owner": "zm1990s",
@@ -7431,7 +7753,8 @@
         "ai security",
         "compliance ai",
         "content detection"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zoharbabin--kaltura-mcp": {
       "owner": "zoharbabin",
@@ -7454,7 +7777,8 @@
         "kaltura media",
         "kaltura mcp",
         "media management"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zongmin-yu--sqlite-literature-management-fastmcp-mcp-server": {
       "owner": "zongmin-yu",
@@ -7477,7 +7801,8 @@
         "document processing",
         "management fastmcp",
         "sources entities"
-      ]
+      ],
+      "category": "document-processing"
     },
     "zw459123678--tuniao-server": {
       "owner": "zw459123678",
@@ -7500,7 +7825,8 @@
         "tuniao ui",
         "tuniao server",
         "access tuniao"
-      ]
+      ],
+      "category": "document-processing"
     }
   }
 }

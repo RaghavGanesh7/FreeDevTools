@@ -25,7 +25,8 @@
         "sonic buildimage",
         "buildimage sonic",
         "devops cicd"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "1Panel-dev--mcp-1panel": {
       "owner": "1Panel-dev",
@@ -48,7 +49,8 @@
         "mcp 1panel",
         "1panel dev",
         "1panel mcp"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "AgentsWorkingTogether--mcp-sleep": {
       "owner": "AgentsWorkingTogether",
@@ -71,7 +73,8 @@
         "agentsworkingtogether mcp",
         "cicd agentsworkingtogether",
         "devops cicd"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "Bigsy--shadow-cljs-mcp": {
       "owner": "Bigsy",
@@ -94,7 +97,8 @@
         "shadow cljs",
         "cljs builds",
         "devops cicd"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "CircleCI-Public--mcp-server-circleci": {
       "owner": "CircleCI-Public",
@@ -117,7 +121,8 @@
         "devops cicd",
         "circleci commands",
         "circleci functionality"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "DefangLabs--defang": {
       "owner": "DefangLabs",
@@ -140,7 +145,8 @@
         "devops cicd",
         "cicd defanglabs",
         "defanglabs defang"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "F4biox--hello-github-actions": {
       "owner": "F4biox",
@@ -163,7 +169,8 @@
         "github actions",
         "github action",
         "creating github"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "Flux159--mcp-server-kubernetes": {
       "owner": "Flux159",
@@ -186,7 +193,8 @@
         "kubernetes clusters",
         "server kubernetes",
         "interact kubernetes"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "PatrickKalkman--encoding-devops": {
       "owner": "PatrickKalkman",
@@ -209,7 +217,8 @@
         "encoding devops",
         "encoding workflows",
         "devops streamlines"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "ProgrammerAgua--jenkins-mcp-server": {
       "owner": "ProgrammerAgua",
@@ -232,7 +241,8 @@
         "devops cicd",
         "manage jenkins",
         "jenkins jobs"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "QAInsights--k6-mcp-server": {
       "owner": "QAInsights",
@@ -255,7 +265,8 @@
         "load testing",
         "load tests",
         "devops cicd"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "Shengwenhao-manbo--k8s-mcp": {
       "owner": "Shengwenhao-manbo",
@@ -278,7 +289,8 @@
         "kubernetes operations",
         "interact kubernetes",
         "simplifies kubernetes"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "TBXark--mcp-proxy": {
       "owner": "TBXark",
@@ -301,7 +313,8 @@
         "mcp proxy",
         "devops cicd",
         "mcp clients"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "TaichiHo--k8s-interactive-mcp": {
       "owner": "TaichiHo",
@@ -324,7 +337,8 @@
         "kubernetes commands",
         "run kubernetes",
         "kubeconfig path"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "Tiberriver256--mcp-server-azure-devops": {
       "owner": "Tiberriver256",
@@ -347,7 +361,8 @@
         "azure devops",
         "devops cicd",
         "devops apis"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "Tsuchijo--sandbox-mcp": {
       "owner": "Tsuchijo",
@@ -370,7 +385,8 @@
         "docker environments",
         "isolated docker",
         "commands containers"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "ZephyrDeng--pprof-analyzer-mcp": {
       "owner": "ZephyrDeng",
@@ -393,7 +409,8 @@
         "pprof performance",
         "performance profiles",
         "pprof analyzer"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "abhijeetka--mcp-k8s-server": {
       "owner": "abhijeetka",
@@ -416,7 +433,8 @@
         "kubernetes clusters",
         "manage kubernetes",
         "kubernetes resource"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "anaisbetts--mcp-installer": {
       "owner": "anaisbetts",
@@ -439,7 +457,8 @@
         "mcp installer",
         "installs mcp",
         "devops cicd"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "andrewhopper--itmcp": {
       "owner": "andrewhopper",
@@ -462,7 +481,8 @@
         "devops cicd",
         "container sandbox",
         "securely docker"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "crunchloop--mcp-devcontainers": {
       "owner": "crunchloop",
@@ -485,7 +505,8 @@
         "devops cicd",
         "devcontainers manage",
         "mcp devcontainers"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "cuongdev--mcp-codepipeline-server": {
       "owner": "cuongdev",
@@ -508,7 +529,8 @@
         "aws codepipeline",
         "codepipeline pipelines",
         "codepipeline services"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "delorenj--super-win-cli-mcp-server": {
       "owner": "delorenj",
@@ -531,7 +553,8 @@
         "windows cli",
         "devops cicd",
         "cli environments"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "dion-hagan--mcp-server-spinnaker": {
       "owner": "dion-hagan",
@@ -554,7 +577,8 @@
         "devops cicd",
         "deployment processes",
         "issue detection"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "fyp312572116--devops-java-sample": {
       "owner": "fyp312572116",
@@ -577,7 +601,8 @@
         "devops cicd",
         "devops java",
         "using jenkins"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "izaitsevfb--claude-pytorch-treehugger": {
       "owner": "izaitsevfb",
@@ -600,7 +625,8 @@
         "devops cicd",
         "pytorch treehugger",
         "job logs"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "jfrog--mcp-jfrog": {
       "owner": "jfrog",
@@ -623,7 +649,8 @@
         "devops cicd",
         "jfrog manages",
         "jfrog platform"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "kaznak--shell-command-mcp": {
       "owner": "kaznak",
@@ -646,7 +673,8 @@
         "kaznak shell",
         "docker container",
         "kubernetes tools"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "kjozsa--jenkins-mcp": {
       "owner": "kjozsa",
@@ -669,7 +697,8 @@
         "manage jenkins",
         "jenkins operations",
         "devops cicd"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "lanbaoshen--mcp-jenkins": {
       "owner": "lanbaoshen",
@@ -692,7 +721,8 @@
         "jenkins tools",
         "jenkins ai",
         "mcp jenkins"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "lieee1995--mcp-jenkins-server": {
       "owner": "lieee1995",
@@ -715,7 +745,8 @@
         "devops cicd",
         "integrates jenkins",
         "mcp jenkins"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "lumix-labs--swift": {
       "owner": "lumix-labs",
@@ -738,7 +769,8 @@
         "devops cicd",
         "legacy systems",
         "enhance deployment"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "mrrobotke--django-migrations-mcp": {
       "owner": "mrrobotke",
@@ -761,7 +793,8 @@
         "django migrations",
         "migrations mcp",
         "migrations distributed"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "punprapor--punprapor": {
       "owner": "punprapor",
@@ -784,7 +817,8 @@
         "devops skills",
         "devops cicd",
         "enhancing devops"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "sapientpants--sonarqube-mcp-server": {
       "owner": "sapientpants",
@@ -807,7 +841,8 @@
         "sonarqube mcp",
         "integrates sonarqube",
         "sonarqube provide"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "sparesparrow--mcp-project-orchestrator": {
       "owner": "sparesparrow",
@@ -830,7 +865,8 @@
         "devops cicd",
         "project orchestrator",
         "project architecture"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "stefanskiasan--azure-devops-mcp-server": {
       "owner": "stefanskiasan",
@@ -853,7 +889,8 @@
         "azure devops",
         "devops services",
         "devops mcp"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "strowk--mcp-k8s-go": {
       "owner": "strowk",
@@ -876,7 +913,8 @@
         "connects kubernetes",
         "kubernetes managing",
         "pod logs"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "vaebe--mcp": {
       "owner": "vaebe",
@@ -899,7 +937,8 @@
         "devops cicd",
         "time fetching",
         "reliable time"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "vanisoul--rundeck-mcp-server": {
       "owner": "vanisoul",
@@ -922,7 +961,8 @@
         "management rundeck",
         "rundeck workflows",
         "rundeck operations"
-      ]
+      ],
+      "category": "devops-and-cicd"
     },
     "yupengfei1209--coding_devops_mcp_server": {
       "owner": "yupengfei1209",
@@ -945,7 +985,8 @@
         "yupengfei1209 coding_devops_mcp_server",
         "coding_devops_mcp_server manage",
         "devops cicd"
-      ]
+      ],
+      "category": "devops-and-cicd"
     }
   }
 }

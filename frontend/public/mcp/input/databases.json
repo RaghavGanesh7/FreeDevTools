@@ -25,7 +25,8 @@
         "supabase mcp",
         "mcp supabase",
         "supabase projects"
-      ]
+      ],
+      "category": "databases"
     },
     "1092705638--dameng-mcp-server": {
       "owner": "1092705638",
@@ -48,7 +49,8 @@
         "dameng database",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "11bluetree--mysql-mcp": {
       "owner": "11bluetree",
@@ -71,7 +73,8 @@
         "mcp mysql",
         "secure database",
         "mysql mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "1RB--mongo-mcp": {
       "owner": "1RB",
@@ -94,7 +97,8 @@
         "mcp mongodb",
         "mongodb databases",
         "mongodb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "Abeautifulsnow--tdengine-mcp": {
       "owner": "Abeautifulsnow",
@@ -117,7 +121,8 @@
         "tdengine databases",
         "queries tdengine",
         "tdengine data"
-      ]
+      ],
+      "category": "databases"
     },
     "Aiven-Open--mcp-aiven": {
       "owner": "Aiven-Open",
@@ -140,7 +145,8 @@
         "aiven services",
         "access aiven",
         "aiven provides"
-      ]
+      ],
+      "category": "databases"
     },
     "Aniket310101--MCP-Server-Couchbase": {
       "owner": "Aniket310101",
@@ -163,7 +169,8 @@
         "couchbase databases",
         "server couchbase",
         "couchbase facilitates"
-      ]
+      ],
+      "category": "databases"
     },
     "Anthony9906--supabase-mcp-server": {
       "owner": "Anthony9906",
@@ -186,7 +193,8 @@
         "supabase mcp",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "AnuragRai017--database-updater-MCP-Server": {
       "owner": "AnuragRai017",
@@ -209,7 +217,8 @@
         "secure database",
         "databases secure",
         "database updater"
-      ]
+      ],
+      "category": "databases"
     },
     "Atomzzm--mcp-mysql-server": {
       "owner": "Atomzzm",
@@ -232,7 +241,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "Azure--azure-mcp": {
       "owner": "Azure",
@@ -255,7 +265,8 @@
         "azure operations",
         "azure azure",
         "azure services"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--adp-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -278,7 +289,8 @@
         "cdata jdbc",
         "cdatasoftware adp",
         "adp data"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--amazon-redshift-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -301,7 +313,8 @@
         "secure database",
         "databases secure",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--cdata-jdbc-mcp-server": {
       "owner": "CDataSoftware",
@@ -324,7 +337,8 @@
         "cdata jdbc",
         "database access",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--connectcloud-mcp-server": {
       "owner": "CDataSoftware",
@@ -347,7 +361,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--databricks-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -370,7 +385,8 @@
         "cdatasoftware databricks",
         "databricks cdata",
         "live databricks"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--dynamics-365-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -393,7 +409,8 @@
         "cdata jdbc",
         "cdatasoftware dynamics",
         "utilizes cdata"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--excel-online-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -416,7 +433,8 @@
         "cdatasoftware excel",
         "access excel",
         "data jdbc"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--google-bigquery-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -439,7 +457,8 @@
         "bigquery data",
         "google bigquery",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--hubspot-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -462,7 +481,8 @@
         "cdatasoftware hubspot",
         "hubspot data",
         "cdata jdbc"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--intacct-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -485,7 +505,8 @@
         "cdatasoftware intacct",
         "database access",
         "intacct data"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--jira-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -508,7 +529,8 @@
         "jira data",
         "cdatasoftware jira",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--microsoft-sql-server-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -531,7 +553,8 @@
         "database access",
         "sql server",
         "microsoft sql"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--mysql-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -554,7 +577,8 @@
         "cdatasoftware mysql",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--netsuite-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -577,7 +601,8 @@
         "cdatasoftware netsuite",
         "cdata jdbc",
         "netsuite data"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--postgresql-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -600,7 +625,8 @@
         "cdatasoftware postgresql",
         "cdata jdbc",
         "postgresql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--quickbooks-online-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -623,7 +649,8 @@
         "cdatasoftware quickbooks",
         "quickbooks online",
         "live quickbooks"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--snowflake-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -646,7 +673,8 @@
         "cdatasoftware snowflake",
         "snowflake data",
         "data snowflake"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--veeva-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -669,7 +697,8 @@
         "cdata jdbc",
         "cdatasoftware veeva",
         "veeva data"
-      ]
+      ],
+      "category": "databases"
     },
     "CDataSoftware--workday-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -692,7 +721,8 @@
         "cdata jdbc",
         "cdatasoftware workday",
         "utilizes cdata"
-      ]
+      ],
+      "category": "databases"
     },
     "Cam10001110101--mcp-server-outlook-email": {
       "owner": "Cam10001110101",
@@ -715,7 +745,8 @@
         "secure database",
         "databases secure",
         "outlook emails"
-      ]
+      ],
+      "category": "databases"
     },
     "Canner--wren-engine": {
       "owner": "Canner",
@@ -738,7 +769,8 @@
         "access schema",
         "semantic engine",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "Cappahccino--SB-MCP": {
       "owner": "Cappahccino",
@@ -761,7 +793,8 @@
         "databases secure",
         "secure database",
         "access cappahccino"
-      ]
+      ],
+      "category": "databases"
     },
     "Chakra-Network--mcp-server": {
       "owner": "Chakra-Network",
@@ -784,7 +817,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "ChristianHinge--dicom-mcp": {
       "owner": "ChristianHinge",
@@ -807,7 +841,8 @@
         "dicom compliant",
         "dicom integration",
         "mcp dicom"
-      ]
+      ],
+      "category": "databases"
     },
     "ClickHouse--mcp-clickhouse": {
       "owner": "ClickHouse",
@@ -830,7 +865,8 @@
         "clickhouse database",
         "database integration",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "CodeLogicIncEngineering--codelogic-mcp-server": {
       "owner": "CodeLogicIncEngineering",
@@ -853,7 +889,8 @@
         "access codelogicincengineering",
         "utilizes codelogic",
         "codelogic software"
-      ]
+      ],
+      "category": "databases"
     },
     "Cognitive-Stack--volume-wall-detector-mcp": {
       "owner": "Cognitive-Stack",
@@ -876,7 +913,8 @@
         "secure database",
         "databases secure",
         "utilizes mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "Couchbase-Ecosystem--mcp-server-couchbase": {
       "owner": "Couchbase-Ecosystem",
@@ -899,7 +937,8 @@
         "couchbase ecosystem",
         "couchbase clusters",
         "couchbase enables"
-      ]
+      ],
+      "category": "databases"
     },
     "DanielRSnell--postgres-mcp": {
       "owner": "DanielRSnell",
@@ -922,7 +961,8 @@
         "postgresql databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "Dataring-engineering--mcp-server-trino": {
       "owner": "Dataring-engineering",
@@ -945,7 +985,8 @@
         "secure database",
         "enables querying",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "DynamicEndpoints--advanced-pocketbase-mcp-server": {
       "owner": "DynamicEndpoints",
@@ -968,7 +1009,8 @@
         "pocketbase databases",
         "advanced pocketbase",
         "pocketbase mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "DynamicEndpoints--supabase-mcp": {
       "owner": "DynamicEndpoints",
@@ -991,7 +1033,8 @@
         "supabase databases",
         "supabase mcp",
         "connects supabase"
-      ]
+      ],
+      "category": "databases"
     },
     "EdenYavin--OSV-MCP": {
       "owner": "EdenYavin",
@@ -1014,7 +1057,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "FalkorDB--FalkorDB-MCPServer": {
       "owner": "FalkorDB",
@@ -1037,7 +1081,8 @@
         "access falkordb",
         "databases facilitate",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "FocusSearch--focus_mcp_data": {
       "owner": "FocusSearch",
@@ -1060,7 +1105,8 @@
         "enables querying",
         "focussearch focus_mcp_data",
         "access focussearch"
-      ]
+      ],
+      "category": "databases"
     },
     "FocusSearch--focus_mcp_sql": {
       "owner": "FocusSearch",
@@ -1083,7 +1129,8 @@
         "focussearch focus_mcp_sql",
         "enables querying",
         "focus_mcp_sql converts"
-      ]
+      ],
+      "category": "databases"
     },
     "FreePeak--db-mcp-server": {
       "owner": "FreePeak",
@@ -1106,7 +1153,8 @@
         "freepeak db",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "Gabriel-Maxsy--MCP-Car": {
       "owner": "Gabriel-Maxsy",
@@ -1129,7 +1177,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "GobinFan--python-mcp-server-client": {
       "owner": "GobinFan",
@@ -1152,7 +1201,8 @@
         "access gobinfan",
         "gobinfan python",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "GongRzhe--REDIS-MCP-Server": {
       "owner": "GongRzhe",
@@ -1175,7 +1225,8 @@
         "redis databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "GravityPhone--SwanzMCP": {
       "owner": "GravityPhone",
@@ -1198,7 +1249,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "GreptimeTeam--greptimedb-mcp-server": {
       "owner": "GreptimeTeam",
@@ -1221,7 +1273,8 @@
         "greptimedb databases",
         "analysis greptimedb",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "Guanxinyuan--neo4j": {
       "owner": "Guanxinyuan",
@@ -1244,7 +1297,8 @@
         "neo4j databases",
         "interact neo4j",
         "memory neo4j"
-      ]
+      ],
+      "category": "databases"
     },
     "HamyFuri--Data-Mining-Plugins": {
       "owner": "HamyFuri",
@@ -1267,7 +1321,8 @@
         "databases secure",
         "secure database",
         "mining enabling"
-      ]
+      ],
+      "category": "databases"
     },
     "HarjjotSinghh--mcp-server-postgres-multi-schema": {
       "owner": "HarjjotSinghh",
@@ -1290,7 +1345,8 @@
         "postgresql databases",
         "secure database",
         "access schema"
-      ]
+      ],
+      "category": "databases"
     },
     "HenkDz--postgresql-mcp-server": {
       "owner": "HenkDz",
@@ -1313,7 +1369,8 @@
         "postgresql databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "HenkDz--selfhosted-supabase-mcp": {
       "owner": "HenkDz",
@@ -1336,7 +1393,8 @@
         "hosted supabase",
         "selfhosted supabase",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "InfluxData--influxdb3_mcp_server": {
       "owner": "InfluxData",
@@ -1359,7 +1417,8 @@
         "server influxdb",
         "influxdb3_mcp_server official",
         "influxdb core"
-      ]
+      ],
+      "category": "databases"
     },
     "IzumiSy--mcp-duckdb-memory-server": {
       "owner": "IzumiSy",
@@ -1382,7 +1441,8 @@
         "duckdb efficient",
         "using duckdb",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "JexinSam--mssql_mcp_server": {
       "owner": "JexinSam",
@@ -1405,7 +1465,8 @@
         "secure database",
         "databases secure",
         "jexinsam mssql_mcp_server"
-      ]
+      ],
+      "category": "databases"
     },
     "Jimmy974--mcp-server-qdrant": {
       "owner": "Jimmy974",
@@ -1428,7 +1489,8 @@
         "secure database",
         "database supports",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "JovanHsu--mcp-neo4j-memory-server": {
       "owner": "JovanHsu",
@@ -1451,7 +1513,8 @@
         "using neo4j",
         "neo4j backend",
         "neo4j memory"
-      ]
+      ],
+      "category": "databases"
     },
     "KashiwaByte--vikingdb-mcp-server": {
       "owner": "KashiwaByte",
@@ -1474,7 +1537,8 @@
         "embeddings vikingdb",
         "vector database",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "Kekniskd--cursor-IDE-API": {
       "owner": "Kekniskd",
@@ -1497,7 +1561,8 @@
         "secure database",
         "databases secure",
         "sqlite database"
-      ]
+      ],
+      "category": "databases"
     },
     "KhryptorGraphics--giggatek": {
       "owner": "KhryptorGraphics",
@@ -1520,7 +1585,8 @@
         "giggatek ecommerce",
         "khryptorgraphics giggatek",
         "giggatek giggatek"
-      ]
+      ],
+      "category": "databases"
     },
     "Klavis-AI--klavis": {
       "owner": "Klavis-AI",
@@ -1543,7 +1609,8 @@
         "access klavis",
         "enables querying",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "LeonMelamud--mysql-mcp": {
       "owner": "LeonMelamud",
@@ -1566,7 +1633,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "LiusCraft--superset-mcp-server": {
       "owner": "LiusCraft",
@@ -1589,7 +1657,8 @@
         "apache superset",
         "liuscraft superset",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "LucasHild--mcp-server-bigquery": {
       "owner": "LucasHild",
@@ -1612,7 +1681,8 @@
         "bigquery provides",
         "bigquery inspecting",
         "access bigquery"
-      ]
+      ],
+      "category": "databases"
     },
     "MadeByNando--mcp-postgres-server": {
       "owner": "MadeByNando",
@@ -1635,7 +1705,8 @@
         "postgresql databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "MadnessEngineering--Omnispindle": {
       "owner": "MadnessEngineering",
@@ -1658,7 +1729,8 @@
         "secure database",
         "workflows ai",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "Maxim2324--mcp-server-test": {
       "owner": "Maxim2324",
@@ -1681,7 +1753,8 @@
         "postgresql databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "Medsaad--mcp-db-navigator": {
       "owner": "Medsaad",
@@ -1704,7 +1777,8 @@
         "databases secure",
         "db navigator",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "Mineru98--mysql-mcp-server": {
       "owner": "Mineru98",
@@ -1727,7 +1801,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "Mirxa27--habibi-dashboard-85": {
       "owner": "Mirxa27",
@@ -1750,7 +1825,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "Moonlight-CL--redshift-mcp-server": {
       "owner": "Moonlight-CL",
@@ -1773,7 +1849,8 @@
         "redshift databases",
         "amazon redshift",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "Muzain187--TG_MCP": {
       "owner": "Muzain187",
@@ -1796,7 +1873,8 @@
         "graph database",
         "access schema",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "NetanelBollag--simple-psql-mcp": {
       "owner": "NetanelBollag",
@@ -1819,7 +1897,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "NightTrek--Supabase-MCP": {
       "owner": "NightTrek",
@@ -1842,7 +1921,8 @@
         "supabase databases",
         "nighttrek supabase",
         "interact supabase"
-      ]
+      ],
+      "category": "databases"
     },
     "OpenLinkSoftware--mcp-odbc-server": {
       "owner": "OpenLinkSoftware",
@@ -1865,7 +1945,8 @@
         "access odbc",
         "using odbc",
         "odbc compatible"
-      ]
+      ],
+      "category": "databases"
     },
     "OpenLinkSoftware--mcp-pyodbc-server": {
       "owner": "OpenLinkSoftware",
@@ -1888,7 +1969,8 @@
         "pyodbc server",
         "using odbc",
         "odbc enabling"
-      ]
+      ],
+      "category": "databases"
     },
     "OpenLinkSoftware--mcp-sqlalchemy-server": {
       "owner": "OpenLinkSoftware",
@@ -1911,7 +1993,8 @@
         "odbc sqlalchemy",
         "database access",
         "mcp sqlalchemy"
-      ]
+      ],
+      "category": "databases"
     },
     "PuroDelphi--mcpFirebird": {
       "owner": "PuroDelphi",
@@ -1934,7 +2017,8 @@
         "firebird databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "QuantGeekDev--mongo-mcp": {
       "owner": "QuantGeekDev",
@@ -1957,7 +2041,8 @@
         "mongodb databases",
         "quantgeekdev mongo",
         "directly mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "Quegenx--supabase-mcp-server": {
       "owner": "Quegenx",
@@ -1980,7 +2065,8 @@
         "supabase postgresql",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "RafaelCartenet--mcp-databricks-server": {
       "owner": "RafaelCartenet",
@@ -2003,7 +2089,8 @@
         "queries databricks",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "RathodDarshil--mcp-postgres-query-server": {
       "owner": "RathodDarshil",
@@ -2026,7 +2113,8 @@
         "mcp postgres",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "RichardHan--mssql_mcp_server": {
       "owner": "RichardHan",
@@ -2049,7 +2137,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "RyanLisse--lancedb_mcp": {
       "owner": "RyanLisse",
@@ -2072,7 +2161,8 @@
         "secure database",
         "databases secure",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "SAhmadUmass--notion-mcp-server": {
       "owner": "SAhmadUmass",
@@ -2095,7 +2185,8 @@
         "secure database",
         "databases secure",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "SarimSiddd--xano_mcp": {
       "owner": "SarimSiddd",
@@ -2118,7 +2209,8 @@
         "xano api",
         "sarimsiddd xano_mcp",
         "interacts xano"
-      ]
+      ],
+      "category": "databases"
     },
     "Snowflake-Labs--mcp": {
       "owner": "Snowflake-Labs",
@@ -2141,7 +2233,8 @@
         "secure database",
         "databases secure",
         "snowflake labs"
-      ]
+      ],
+      "category": "databases"
     },
     "StarRocks--mcp-server-starrocks": {
       "owner": "StarRocks",
@@ -2164,7 +2257,8 @@
         "starrocks databases",
         "access starrocks",
         "server starrocks"
-      ]
+      ],
+      "category": "databases"
     },
     "StevenFengLi--mcp-oceanbase": {
       "owner": "StevenFengLi",
@@ -2187,7 +2281,8 @@
         "oceanbase databases",
         "oceanbase facilitate",
         "mcp oceanbase"
-      ]
+      ],
+      "category": "databases"
     },
     "Swayingleaves--cockroachdb-mcp-server": {
       "owner": "Swayingleaves",
@@ -2210,7 +2305,8 @@
         "cockroachdb database",
         "directly cockroachdb",
         "cockroachdb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "T1nker-1220--aws-postgress-mcp-server": {
       "owner": "T1nker-1220",
@@ -2233,7 +2329,8 @@
         "secure database",
         "databases secure",
         "aws postgresql"
-      ]
+      ],
+      "category": "databases"
     },
     "Teradata--teradata-mcp-server": {
       "owner": "Teradata",
@@ -2256,7 +2353,8 @@
         "teradata databases",
         "access teradata",
         "teradata mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "TheRaLabs--legion-mcp": {
       "owner": "TheRaLabs",
@@ -2279,7 +2377,8 @@
         "legion query",
         "database access",
         "using legion"
-      ]
+      ],
+      "category": "databases"
     },
     "ThomAub--clickhouse_mcp_server": {
       "owner": "ThomAub",
@@ -2302,7 +2401,8 @@
         "clickhouse databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "TommyBez--dbt-semantic-layer-mcp-server": {
       "owner": "TommyBez",
@@ -2325,7 +2425,8 @@
         "dbt semantic",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "TristanLib--mcp_server_mysql_windows": {
       "owner": "TristanLib",
@@ -2348,7 +2449,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "VadimNastoyashchy--json-mcp": {
       "owner": "VadimNastoyashchy",
@@ -2371,7 +2473,8 @@
         "secure database",
         "databases secure",
         "vadimnastoyashchy json"
-      ]
+      ],
+      "category": "databases"
     },
     "VictoriaMetrics-Community--mcp-victorialogs": {
       "owner": "VictoriaMetrics-Community",
@@ -2394,7 +2497,8 @@
         "databases secure",
         "secure database",
         "victorialogs provides"
-      ]
+      ],
+      "category": "databases"
     },
     "XGenerationLab--xiyan_mcp_server": {
       "owner": "XGenerationLab",
@@ -2417,7 +2521,8 @@
         "secure database",
         "databases secure",
         "databases using"
-      ]
+      ],
+      "category": "databases"
     },
     "ZZZHDW--mcp-server-kusto": {
       "owner": "ZZZHDW",
@@ -2440,7 +2545,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "Zhwt--go-mcp-mysql": {
       "owner": "Zhwt",
@@ -2463,7 +2569,8 @@
         "secure database",
         "databases secure",
         "mcp mysql"
-      ]
+      ],
+      "category": "databases"
     },
     "a21071--mcp-postgres": {
       "owner": "a21071",
@@ -2486,7 +2593,8 @@
         "secure database",
         "databases secure",
         "postgresql database"
-      ]
+      ],
+      "category": "databases"
     },
     "a2888409--presto": {
       "owner": "a2888409",
@@ -2509,7 +2617,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "abel9851--mcp-server-mariadb": {
       "owner": "abel9851",
@@ -2532,7 +2641,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "adiletD--feature-request-collection-mcp": {
       "owner": "adiletD",
@@ -2555,7 +2665,8 @@
         "supabase database",
         "supabase efficiently",
         "directly supabase"
-      ]
+      ],
+      "category": "databases"
     },
     "ahodroj--mcp-iceberg-service": {
       "owner": "ahodroj",
@@ -2578,7 +2689,8 @@
         "database access",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "akseyh--bear-mcp-server": {
       "owner": "akseyh",
@@ -2601,7 +2713,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "alaturqua--mcp-trino-python": {
       "owner": "alaturqua",
@@ -2624,7 +2737,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "alexander-zuev--supabase-mcp-server": {
       "owner": "alexander-zuev",
@@ -2647,7 +2761,8 @@
         "supabase databases",
         "supabase management",
         "manage supabase"
-      ]
+      ],
+      "category": "databases"
     },
     "alexanderzuev--supabase-mcp-server": {
       "owner": "alexanderzuev",
@@ -2670,7 +2785,8 @@
         "databases secure",
         "supabase mcp",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "aliyun--alibabacloud-adb-mysql-mcp-server": {
       "owner": "aliyun",
@@ -2693,7 +2809,8 @@
         "database access",
         "adb mysql",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "aliyun--alibabacloud-hologres-mcp-server": {
       "owner": "aliyun",
@@ -2716,7 +2833,8 @@
         "hologres databases",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "aliyun--alibabacloud-rds-openapi-mcp-server": {
       "owner": "aliyun",
@@ -2739,7 +2857,8 @@
         "alibabacloud rds",
         "cloud rds",
         "rds openapi"
-      ]
+      ],
+      "category": "databases"
     },
     "aliyun--alibabacloud-tablestore-mcp-server": {
       "owner": "aliyun",
@@ -2762,7 +2881,8 @@
         "tablestore mcp",
         "alibabacloud tablestore",
         "tablestore features"
-      ]
+      ],
+      "category": "databases"
     },
     "amineelkouhen--mcp-cockroachdb": {
       "owner": "amineelkouhen",
@@ -2785,7 +2905,8 @@
         "data cockroachdb",
         "mcp cockroachdb",
         "cockroachdb model"
-      ]
+      ],
+      "category": "databases"
     },
     "amornpan--py-mcp-mssql": {
       "owner": "amornpan",
@@ -2808,7 +2929,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "andreagroferreira--gateway": {
       "owner": "andreagroferreira",
@@ -2831,7 +2953,8 @@
         "secure database",
         "databases secure",
         "secure apis"
-      ]
+      ],
+      "category": "databases"
     },
     "andreagroferreira--servers": {
       "owner": "andreagroferreira",
@@ -2854,7 +2977,8 @@
         "databases secure",
         "secure database",
         "postgresql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "anishksk--MCP-Server": {
       "owner": "anishksk",
@@ -2877,7 +3001,8 @@
         "secure database",
         "databases secure",
         "serverless databases"
-      ]
+      ],
+      "category": "databases"
     },
     "anpy-j--mcp-oracle": {
       "owner": "anpy-j",
@@ -2900,7 +3025,8 @@
         "oracle databases",
         "mcp oracle",
         "access oracle"
-      ]
+      ],
+      "category": "databases"
     },
     "antonorlov--mcp-postgres-server": {
       "owner": "antonorlov",
@@ -2923,7 +3049,8 @@
         "postgresql databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "apache--iotdb-mcp-server": {
       "owner": "apache",
@@ -2946,7 +3073,8 @@
         "iotdb databases",
         "apache iotdb",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "appwrite--mcp-for-api": {
       "owner": "appwrite",
@@ -2969,7 +3097,8 @@
         "appwrite mcp",
         "access appwrite",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "aqara-docs--mysql-mcp-server": {
       "owner": "aqara-docs",
@@ -2992,7 +3121,8 @@
         "secure database",
         "databases secure",
         "mysql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "aqaranewbiz--mcp-mysql": {
       "owner": "aqaranewbiz",
@@ -3015,7 +3145,8 @@
         "secure database",
         "databases secure",
         "mysql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "aqaranewbiz--mcp-mysql-server": {
       "owner": "aqaranewbiz",
@@ -3038,7 +3169,8 @@
         "securely mysql",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "aqaranewbiz--mysql-aqara": {
       "owner": "aqaranewbiz",
@@ -3061,7 +3193,8 @@
         "aqaranewbiz mysql",
         "mysql databases",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "aqaranewbiz--mysql-aqaranewbiz": {
       "owner": "aqaranewbiz",
@@ -3084,7 +3217,8 @@
         "secure database",
         "aqaranewbiz mysql",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "arjshiv--blaze-sql-mcp-server": {
       "owner": "arjshiv",
@@ -3107,7 +3241,8 @@
         "blaze sql",
         "secure database",
         "querying databases"
-      ]
+      ],
+      "category": "databases"
     },
     "arjunkmrm--elasticsearch-mcp-server": {
       "owner": "arjunkmrm",
@@ -3130,7 +3265,8 @@
         "elasticsearch mcp",
         "arjunkmrm elasticsearch",
         "elasticsearch opensearch"
-      ]
+      ],
+      "category": "databases"
     },
     "arjunkmrm--mcp-redis": {
       "owner": "arjunkmrm",
@@ -3153,7 +3289,8 @@
         "data redis",
         "redis using",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "asirulnik--mcp-law-office-db": {
       "owner": "asirulnik",
@@ -3176,7 +3313,8 @@
         "sqlite database",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "awesimon--elasticsearch-mcp": {
       "owner": "awesimon",
@@ -3199,7 +3337,8 @@
         "awesimon elasticsearch",
         "elasticsearch data",
         "elasticsearch mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "azalin--mcp-test": {
       "owner": "azalin",
@@ -3222,7 +3361,8 @@
         "database access",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "b0ttle-neck--mcp-steampipe": {
       "owner": "b0ttle-neck",
@@ -3245,7 +3385,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "benborla--mcp-server-mysql": {
       "owner": "benborla",
@@ -3268,7 +3409,8 @@
         "secure database",
         "database access",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "benborla29--mcp-server-mysql": {
       "owner": "benborla29",
@@ -3291,7 +3433,8 @@
         "secure database",
         "database integration",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "berry-street--berrystreet-metabase-mcp": {
       "owner": "berry-street",
@@ -3314,7 +3457,8 @@
         "databases secure",
         "database access",
         "metabase access"
-      ]
+      ],
+      "category": "databases"
     },
     "bigdata-coss--agent_mcp": {
       "owner": "bigdata-coss",
@@ -3337,7 +3481,8 @@
         "graphdb sparql",
         "access bigdata",
         "bigdata coss"
-      ]
+      ],
+      "category": "databases"
     },
     "birdy22--mysql_mcp_server": {
       "owner": "birdy22",
@@ -3360,7 +3505,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "bram2w--baserow": {
       "owner": "bram2w",
@@ -3383,7 +3529,8 @@
         "databases secure",
         "secure database",
         "baserow database"
-      ]
+      ],
+      "category": "databases"
     },
     "burakdirin--clickhouse-mcp-server": {
       "owner": "burakdirin",
@@ -3406,7 +3553,8 @@
         "clickhouse databases",
         "enables querying",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "burakdirin--mysqldb-mcp-server": {
       "owner": "burakdirin",
@@ -3429,7 +3577,8 @@
         "burakdirin mysqldb",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "bytebase--dbhub": {
       "owner": "bytebase",
@@ -3452,7 +3601,8 @@
         "bytebase dbhub",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "c0h1b4--mssql-mcp-server": {
       "owner": "c0h1b4",
@@ -3475,7 +3625,8 @@
         "databases secure",
         "mssql mcp",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "c4pt0r--mcp-server-tidb": {
       "owner": "c4pt0r",
@@ -3498,7 +3649,8 @@
         "tidb database",
         "server tidb",
         "serverless tidb"
-      ]
+      ],
+      "category": "databases"
     },
     "caicongyang--mcp-demo": {
       "owner": "caicongyang",
@@ -3521,7 +3673,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "caretdev--mcp-server-iris": {
       "owner": "caretdev",
@@ -3544,7 +3697,8 @@
         "iris databases",
         "server iris",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "centralmind--gateway": {
       "owner": "centralmind",
@@ -3567,7 +3721,8 @@
         "centralmind gateway",
         "access centralmind",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "chenxiaohui--ydb": {
       "owner": "chenxiaohui",
@@ -3590,7 +3745,8 @@
         "secure database",
         "databases secure",
         "distributed sql"
-      ]
+      ],
+      "category": "databases"
     },
     "christian561--gel-mcp-server": {
       "owner": "christian561",
@@ -3613,7 +3769,8 @@
         "secure database",
         "gel databases",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "chromewillow--mcp-forge": {
       "owner": "chromewillow",
@@ -3636,7 +3793,8 @@
         "mcp forge",
         "forge mcp",
         "mcp servers"
-      ]
+      ],
+      "category": "databases"
     },
     "cnosdb--cnosdb-mcp-server": {
       "owner": "cnosdb",
@@ -3659,7 +3817,8 @@
         "cnosdb databases",
         "access cnosdb",
         "cnosdb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "confluentinc--mcp-confluent": {
       "owner": "confluentinc",
@@ -3682,7 +3841,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "cr7258--elasticsearch-mcp-server": {
       "owner": "cr7258",
@@ -3705,7 +3865,8 @@
         "cr7258 elasticsearch",
         "elasticsearch opensearch",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "crate--cratedb-mcp": {
       "owner": "crate",
@@ -3728,7 +3889,8 @@
         "directly cratedb",
         "cratedb mcp",
         "cratedb optimized"
-      ]
+      ],
+      "category": "databases"
     },
     "crystaldba--postgres-mcp": {
       "owner": "crystaldba",
@@ -3751,7 +3913,8 @@
         "crystaldba postgres",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "cuongtl1992--mcp-dbs": {
       "owner": "cuongtl1992",
@@ -3774,7 +3937,8 @@
         "mcp dbs",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "cv-cat--LarkAgentX": {
       "owner": "cv-cat",
@@ -3797,7 +3961,8 @@
         "secure database",
         "database chat",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "cwilby--mcp-node-mssql": {
       "owner": "cwilby",
@@ -3820,7 +3985,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "da-okazaki--mcp-neo4j-server": {
       "owner": "da-okazaki",
@@ -3843,7 +4009,8 @@
         "neo4j server",
         "neo4j graph",
         "integrates neo4j"
-      ]
+      ],
+      "category": "databases"
     },
     "da1y--mcp-server-elasticsearch": {
       "owner": "da1y",
@@ -3866,7 +4033,8 @@
         "elasticsearch functionality",
         "elasticsearch clusters",
         "server elasticsearch"
-      ]
+      ],
+      "category": "databases"
     },
     "danielbushman--MCP-Quickbase": {
       "owner": "danielbushman",
@@ -3889,7 +4057,8 @@
         "quickbase data",
         "quickbase json",
         "quickbase interact"
-      ]
+      ],
+      "category": "databases"
     },
     "daobataotie--mssql-mcp": {
       "owner": "daobataotie",
@@ -3912,7 +4081,8 @@
         "daobataotie mssql",
         "database access",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "datastax--astra-db-mcp": {
       "owner": "datastax",
@@ -3935,7 +4105,8 @@
         "astra db",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "datastrato--mcp-server-gravitino": {
       "owner": "datastrato",
@@ -3958,7 +4129,8 @@
         "server gravitino",
         "gravitino services",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "datawiz168--mcp-snowflake-service": {
       "owner": "datawiz168",
@@ -3981,7 +4153,8 @@
         "snowflake databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "dave-wind--mysql-mcp-server": {
       "owner": "dave-wind",
@@ -4004,7 +4177,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "davesbits--supabase-mcp-server": {
       "owner": "davesbits",
@@ -4027,7 +4201,8 @@
         "supabase mcp",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "davewind--mysql-mcp-server": {
       "owner": "davewind",
@@ -4050,7 +4225,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "davidamom--snowflake-mcp": {
       "owner": "davidamom",
@@ -4073,7 +4249,8 @@
         "snowflake databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "dbcodeio--public": {
       "owner": "dbcodeio",
@@ -4096,7 +4273,8 @@
         "dbcodeio public",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "dbt-labs--dbt-mcp": {
       "owner": "dbt-labs",
@@ -4119,7 +4297,8 @@
         "access dbt",
         "databases secure",
         "dbt labs"
-      ]
+      ],
+      "category": "databases"
     },
     "delorenj--mcp-qdrant-memory": {
       "owner": "delorenj",
@@ -4142,7 +4321,8 @@
         "knowledge graph",
         "secure database",
         "semantic search"
-      ]
+      ],
+      "category": "databases"
     },
     "dennismartis--sql_mcp_server": {
       "owner": "dennismartis",
@@ -4165,7 +4345,8 @@
         "databases secure",
         "secure database",
         "sql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "denniswon--intel-tdx-zk-prover": {
       "owner": "denniswon",
@@ -4188,7 +4369,8 @@
         "attestation verification",
         "dcap attestation",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "deploya-labs--mcp-supabase": {
       "owner": "deploya-labs",
@@ -4211,7 +4393,8 @@
         "supabase databases",
         "supabase manage",
         "manage supabase"
-      ]
+      ],
+      "category": "databases"
     },
     "designcomputer--mysql_mcp_server": {
       "owner": "designcomputer",
@@ -4234,7 +4417,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "devlimelabs--meilisearch-ts-mcp": {
       "owner": "devlimelabs",
@@ -4257,7 +4441,8 @@
         "enables querying",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "dhartunian--cockroachdb-mcp-server": {
       "owner": "dhartunian",
@@ -4280,7 +4465,8 @@
         "connects cockroachdb",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "diez7lm--firestore-advanced-mcp": {
       "owner": "diez7lm",
@@ -4303,7 +4489,8 @@
         "firestore databases",
         "firebase firestore",
         "firestore advanced"
-      ]
+      ],
+      "category": "databases"
     },
     "direkt--mcp-test": {
       "owner": "direkt",
@@ -4326,7 +4513,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "djm81--chroma_mcp_server": {
       "owner": "djm81",
@@ -4349,7 +4537,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "dkmaker--mcp-azure-tablestorage": {
       "owner": "dkmaker",
@@ -4372,7 +4561,8 @@
         "azure tablestorage",
         "azure table",
         "tablestorage enables"
-      ]
+      ],
+      "category": "databases"
     },
     "domdomegg--airtable-mcp-server": {
       "owner": "domdomegg",
@@ -4395,7 +4585,8 @@
         "airtable databases",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "donghao1393--mcp-dbutils": {
       "owner": "donghao1393",
@@ -4418,7 +4609,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "dperussina--mssql-mcp-server": {
       "owner": "dperussina",
@@ -4441,7 +4633,8 @@
         "dperussina mssql",
         "database access",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "dpflucas--mysql-mcp-server": {
       "owner": "dpflucas",
@@ -4464,7 +4657,8 @@
         "dpflucas mysql",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "drdee--memory-mcp": {
       "owner": "drdee",
@@ -4487,7 +4681,8 @@
         "drdee memory",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "dreamme7--mcp-oceanbase": {
       "owner": "dreamme7",
@@ -4510,7 +4705,8 @@
         "oceanbase databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "edwinbernadus--nocodb-mcp-server": {
       "owner": "edwinbernadus",
@@ -4533,7 +4729,8 @@
         "nocodb database",
         "nocodb mcp",
         "interact nocodb"
-      ]
+      ],
+      "category": "databases"
     },
     "elastic--mcp-server-elasticsearch": {
       "owner": "elastic",
@@ -4556,7 +4753,8 @@
         "elasticsearch data",
         "server elasticsearch",
         "access elastic"
-      ]
+      ],
+      "category": "databases"
     },
     "elber-code--database-tools": {
       "owner": "elber-code",
@@ -4579,7 +4777,8 @@
         "secure database",
         "databases secure",
         "database tools"
-      ]
+      ],
+      "category": "databases"
     },
     "emekaokoye--mcp-rdf-explorer": {
       "owner": "emekaokoye",
@@ -4602,7 +4801,8 @@
         "analyze rdf",
         "rdf data",
         "sparql queries"
-      ]
+      ],
+      "category": "databases"
     },
     "endaoment--endaoment-postgres-mcp": {
       "owner": "endaoment",
@@ -4625,7 +4825,8 @@
         "secure database",
         "databases secure",
         "endaoment postgres"
-      ]
+      ],
+      "category": "databases"
     },
     "enemyrr--mcp-mysql-server": {
       "owner": "enemyrr",
@@ -4648,7 +4849,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "ergut--mcp-bigquery-server": {
       "owner": "ergut",
@@ -4671,7 +4873,8 @@
         "bigquery database",
         "bigquery server",
         "google bigquery"
-      ]
+      ],
+      "category": "databases"
     },
     "evansims--openfga-mcp": {
       "owner": "evansims",
@@ -4694,7 +4897,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "f4ww4z--mcp-mysql-server": {
       "owner": "f4ww4z",
@@ -4717,7 +4921,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "farhankaz--redis-mcp": {
       "owner": "farhankaz",
@@ -4740,7 +4945,8 @@
         "redis database",
         "access redis",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "felores--airtable-mcp": {
       "owner": "felores",
@@ -4763,7 +4969,8 @@
         "felores airtable",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "ferrants--memvid-mcp-server": {
       "owner": "ferrants",
@@ -4786,7 +4993,8 @@
         "memvid storage",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "fireproof-storage--mcp-database-server": {
       "owner": "fireproof-storage",
@@ -4809,7 +5017,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "fnf-deepHeading--mcp-snowflake-reader": {
       "owner": "fnf-deepHeading",
@@ -4832,7 +5041,8 @@
         "snowflake databases",
         "access fnf",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "freema--mcp-gsheets": {
       "owner": "freema",
@@ -4855,7 +5065,8 @@
         "gsheets mcp",
         "mcp gsheets",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "furey--mongodb-lens": {
       "owner": "furey",
@@ -4878,7 +5089,8 @@
         "mongodb lens",
         "mongodb databases",
         "furey mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "gannonh--firebase-mcp": {
       "owner": "gannonh",
@@ -4901,7 +5113,8 @@
         "secure database",
         "databases secure",
         "gannonh firebase"
-      ]
+      ],
+      "category": "databases"
     },
     "genXstark--ArcanoCipher-Core": {
       "owner": "genXstark",
@@ -4924,7 +5137,8 @@
         "secure database",
         "databases secure",
         "backend infrastructure"
-      ]
+      ],
+      "category": "databases"
     },
     "georgi-terziyski--database_mcp_server": {
       "owner": "georgi-terziyski",
@@ -4947,7 +5161,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "get-convex--convex-backend": {
       "owner": "get-convex",
@@ -4970,7 +5185,8 @@
         "secure database",
         "databases secure",
         "reactive database"
-      ]
+      ],
+      "category": "databases"
     },
     "giorgos3215--ultimate-cursor-mcp": {
       "owner": "giorgos3215",
@@ -4993,7 +5209,8 @@
         "supabase database",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "gitskyflux--firestore-mcp": {
       "owner": "gitskyflux",
@@ -5016,7 +5233,8 @@
         "firestore manage",
         "google firestore",
         "firestore mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "gldc--mcp-postgres": {
       "owner": "gldc",
@@ -5039,7 +5257,8 @@
         "postgresql databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "goaltang--homestay3": {
       "owner": "goaltang",
@@ -5062,7 +5281,8 @@
         "secure database",
         "databases secure",
         "homestay3 comprehensive"
-      ]
+      ],
+      "category": "databases"
     },
     "googleapis--genai-toolbox": {
       "owner": "googleapis",
@@ -5085,7 +5305,8 @@
         "googleapis genai",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "gotalab--bigquery-analysis-mcp-server": {
       "owner": "gotalab",
@@ -5108,7 +5329,8 @@
         "google bigquery",
         "bigquery analysis",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "guoling2008--go-mcp-postgres": {
       "owner": "guoling2008",
@@ -5131,7 +5353,8 @@
         "postgres databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "hadv--wisdomforge": {
       "owner": "hadv",
@@ -5154,7 +5377,8 @@
         "secure database",
         "hadv wisdomforge",
         "database capable"
-      ]
+      ],
+      "category": "databases"
     },
     "hagsmand--mcp-server-starrocks": {
       "owner": "hagsmand",
@@ -5177,7 +5401,8 @@
         "starrocks databases",
         "server starrocks",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "halavah--mybatis-xml-fast-develop": {
       "owner": "halavah",
@@ -5200,7 +5425,8 @@
         "mybatis xml",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "hannesrudolph--sqlite-explorer-fastmcp-mcp-server": {
       "owner": "hannesrudolph",
@@ -5223,7 +5449,8 @@
         "sqlite databases",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "hanweg--mcp-sqlexpress": {
       "owner": "hanweg",
@@ -5246,7 +5473,8 @@
         "mcp sqlexpress",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "henilcalagiya--google-sheets-mcp": {
       "owner": "henilcalagiya",
@@ -5269,7 +5497,8 @@
         "sheets automation",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "hertzfelt--windsurf-supabase-mcp": {
       "owner": "hertzfelt",
@@ -5292,7 +5521,8 @@
         "supabase database",
         "windsurf supabase",
         "database windsurf"
-      ]
+      ],
+      "category": "databases"
     },
     "hkk101--mcp-server-mysql": {
       "owner": "hkk101",
@@ -5315,7 +5545,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "hoonzinope--pymcp-mysql": {
       "owner": "hoonzinope",
@@ -5338,7 +5569,8 @@
         "secure database",
         "mysql tools",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "hsinyuyen--my-postgres-mcp": {
       "owner": "hsinyuyen",
@@ -5361,7 +5593,8 @@
         "postgresql databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "hthuong09--postgres-mcp": {
       "owner": "hthuong09",
@@ -5384,7 +5617,8 @@
         "databases secure",
         "secure database",
         "postgresql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "hummusonrails--couchbase-mcp-server": {
       "owner": "hummusonrails",
@@ -5407,7 +5641,8 @@
         "queries couchbase",
         "couchbase capella",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "hydrolix--mcp-hydrolix": {
       "owner": "hydrolix",
@@ -5430,7 +5665,8 @@
         "secure database",
         "databases secure",
         "datalake integration"
-      ]
+      ],
+      "category": "databases"
     },
     "idoru--influxdb-mcp-server": {
       "owner": "idoru",
@@ -5453,7 +5689,8 @@
         "idoru influxdb",
         "manage influxdb",
         "influxdb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "imankamyabi--dynamodb-mcp-server": {
       "owner": "imankamyabi",
@@ -5476,7 +5713,8 @@
         "amazon dynamodb",
         "dynamodb resources",
         "dynamodb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "imatrixme--pocketbase-mcp-server": {
       "owner": "imatrixme",
@@ -5499,7 +5737,8 @@
         "pocketbase databases",
         "manage pocketbase",
         "pocketbase mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "imlewc--elasticsearch7-mcp-server": {
       "owner": "imlewc",
@@ -5522,7 +5761,8 @@
         "elasticsearch7 mcp",
         "imlewc elasticsearch7",
         "elasticsearch using"
-      ]
+      ],
+      "category": "databases"
     },
     "imoon--mcp-teams": {
       "owner": "imoon",
@@ -5545,7 +5785,8 @@
         "access imoon",
         "microsoft teams",
         "teams messaging"
-      ]
+      ],
+      "category": "databases"
     },
     "isaacgounton--sqlite-mcp-server": {
       "owner": "isaacgounton",
@@ -5568,7 +5809,8 @@
         "sqlite mcp",
         "isaacgounton sqlite",
         "sqlite database"
-      ]
+      ],
+      "category": "databases"
     },
     "isaacwasserman--mcp-snowflake-server": {
       "owner": "isaacwasserman",
@@ -5591,7 +5833,8 @@
         "access schema",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "iskakaushik--mcp-clickhouse": {
       "owner": "iskakaushik",
@@ -5614,7 +5857,8 @@
         "databases secure",
         "database access",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "iunera--druid-mcp-server": {
       "owner": "iunera",
@@ -5637,7 +5881,8 @@
         "druid clusters",
         "apache druid",
         "analyzing druid"
-      ]
+      ],
+      "category": "databases"
     },
     "j3k0--mcp-brain-tools": {
       "owner": "j3k0",
@@ -5660,7 +5905,8 @@
         "enables querying",
         "secure database",
         "access schema"
-      ]
+      ],
+      "category": "databases"
     },
     "j4c0bs--mcp-server-sql-analyzer": {
       "owner": "j4c0bs",
@@ -5683,7 +5929,8 @@
         "sql analyzer",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "jacksteamdev--mcp-sqlite-bun-server": {
       "owner": "jacksteamdev",
@@ -5706,7 +5953,8 @@
         "sqlite databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "jamie7893--statsource-mcp": {
       "owner": "jamie7893",
@@ -5729,7 +5977,8 @@
         "databases secure",
         "secure database",
         "postgresql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "jasondsmith72--CWM-API-Gateway-MCP": {
       "owner": "jasondsmith72",
@@ -5752,7 +6001,8 @@
         "cwm api",
         "enables querying",
         "api gateway"
-      ]
+      ],
+      "category": "databases"
     },
     "jbdamask--cursor-db-mcp": {
       "owner": "jbdamask",
@@ -5775,7 +6025,8 @@
         "databases cursor",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "jdbcx--pydbcx-mcp": {
       "owner": "jdbcx",
@@ -5798,7 +6049,8 @@
         "jdbcx pydbcx",
         "access jdbcx",
         "jdbcx server"
-      ]
+      ],
+      "category": "databases"
     },
     "jimpick--mcp-json-db-collection-server": {
       "owner": "jimpick",
@@ -5821,7 +6073,8 @@
         "secure database",
         "databases secure",
         "databases capabilities"
-      ]
+      ],
+      "category": "databases"
     },
     "jjikky--dynamo-readonly-mcp": {
       "owner": "jjikky",
@@ -5844,7 +6097,8 @@
         "dynamodb databases",
         "aws dynamodb",
         "dynamo readonly"
-      ]
+      ],
+      "category": "databases"
     },
     "johnnyoshika--mcp-server-sqlite-npx": {
       "owner": "johnnyoshika",
@@ -5867,7 +6121,8 @@
         "sqlite npx",
         "protocol sqlite",
         "server sqlite"
-      ]
+      ],
+      "category": "databases"
     },
     "joleyline--mcp-memory-libsql": {
       "owner": "joleyline",
@@ -5890,7 +6145,8 @@
         "libsql databases",
         "memory libsql",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "jonfreeland--mongodb-mcp": {
       "owner": "jonfreeland",
@@ -5913,7 +6169,8 @@
         "mongodb databases",
         "analyze mongodb",
         "mongodb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "joshuarileydev--supabase-mcp-server": {
       "owner": "joshuarileydev",
@@ -5936,7 +6193,8 @@
         "server supabase",
         "supabase mcp",
         "organisations supabase"
-      ]
+      ],
+      "category": "databases"
     },
     "jovezhong--mcp-timeplus": {
       "owner": "jovezhong",
@@ -5959,7 +6217,8 @@
         "kafka data",
         "kafka timeplus",
         "apache kafka"
-      ]
+      ],
+      "category": "databases"
     },
     "jparkerweb--mcp-sqlite": {
       "owner": "jparkerweb",
@@ -5982,7 +6241,8 @@
         "mcp sqlite",
         "secure database",
         "jparkerweb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "keboola--mcp-server": {
       "owner": "keboola",
@@ -6005,7 +6265,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "kenhuangus--mcp-vulnerable-server-demo": {
       "owner": "kenhuangus",
@@ -6028,7 +6289,8 @@
         "secure database",
         "databases secure",
         "vulnerabilities mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "keonchennl--mcp-graphdb": {
       "owner": "keonchennl",
@@ -6051,7 +6313,8 @@
         "graphdb explore",
         "ontotext graphdb",
         "rdf graphs"
-      ]
+      ],
+      "category": "databases"
     },
     "kevinbin--mcp-mysql-server": {
       "owner": "kevinbin",
@@ -6074,7 +6337,8 @@
         "secure database",
         "databases secure",
         "mysql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "kevindwei--mcp-server-mysql": {
       "owner": "kevindwei",
@@ -6097,7 +6361,8 @@
         "secure database",
         "databases secure",
         "mysql provides"
-      ]
+      ],
+      "category": "databases"
     },
     "kevinwatt--mysql-mcp": {
       "owner": "kevinwatt",
@@ -6120,7 +6385,8 @@
         "secure database",
         "databases secure",
         "mysql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "kiliczsh--mcp-mongo-server": {
       "owner": "kiliczsh",
@@ -6143,7 +6409,8 @@
         "mongodb databases",
         "access mongodb",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "kitae-kim-Edwin--mcp-bigquery-server": {
       "owner": "kitae-kim-Edwin",
@@ -6166,7 +6433,8 @@
         "bigquery datasets",
         "bigquery server",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "knight0zh--mssql-mcp-server": {
       "owner": "knight0zh",
@@ -6189,7 +6457,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "knmurphy--glide-api-mcp-server": {
       "owner": "knmurphy",
@@ -6212,7 +6481,8 @@
         "glide api",
         "knmurphy glide",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "krimoi45--chroma-docker-rag": {
       "owner": "krimoi45",
@@ -6235,7 +6505,8 @@
         "secure database",
         "databases secure",
         "chromadb dockerized"
-      ]
+      ],
+      "category": "databases"
     },
     "ktanaka101--mcp-server-duckdb": {
       "owner": "ktanaka101",
@@ -6258,7 +6529,8 @@
         "duckdb databases",
         "server duckdb",
         "duckdb interact"
-      ]
+      ],
+      "category": "databases"
     },
     "kukapay--thegraph-mcp": {
       "owner": "kukapay",
@@ -6281,7 +6553,8 @@
         "graphql queries",
         "subgraph schemas",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "l1806858547--tidb-server": {
       "owner": "l1806858547",
@@ -6304,7 +6577,8 @@
         "tidb databases",
         "tidb server",
         "queries tidb"
-      ]
+      ],
+      "category": "databases"
     },
     "l33tdawg--strapi-mcp": {
       "owner": "l33tdawg",
@@ -6327,7 +6601,8 @@
         "strapi cms",
         "manage strapi",
         "strapi instance"
-      ]
+      ],
+      "category": "databases"
     },
     "leopeng1995--mssql-mcp-server": {
       "owner": "leopeng1995",
@@ -6350,7 +6625,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "lishenxydlgzs--aws-athena-mcp": {
       "owner": "lishenxydlgzs",
@@ -6373,7 +6649,8 @@
         "athena databases",
         "aws athena",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "llm-graph--postgres-mcp": {
       "owner": "llm-graph",
@@ -6396,7 +6673,8 @@
         "postgresql databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "log6262635--mcp-mysql": {
       "owner": "log6262635",
@@ -6419,7 +6697,8 @@
         "mcp mysql",
         "secure database",
         "databases mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "lowcodelocky2--xano-mcp": {
       "owner": "lowcodelocky2",
@@ -6442,7 +6721,8 @@
         "xano databases",
         "manage xano",
         "lowcodelocky2 xano"
-      ]
+      ],
+      "category": "databases"
     },
     "lucas-deangelis--arango-mcp-server": {
       "owner": "lucas-deangelis",
@@ -6465,7 +6745,8 @@
         "arangodb databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "m4tyn0--influx_mcp": {
       "owner": "m4tyn0",
@@ -6488,7 +6769,8 @@
         "influxdb using",
         "data influxdb",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "mabeldata--pocketbase-mcp": {
       "owner": "mabeldata",
@@ -6511,7 +6793,8 @@
         "mabeldata pocketbase",
         "pocketbase mcp",
         "manage pocketbase"
-      ]
+      ],
+      "category": "databases"
     },
     "madhukarkumar--singlestore-mcp-server": {
       "owner": "madhukarkumar",
@@ -6534,7 +6817,8 @@
         "singlestore databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "mangooer--mysql-mcp-server-sse": {
       "owner": "mangooer",
@@ -6557,7 +6841,8 @@
         "secure database",
         "databases secure",
         "mangooer mysql"
-      ]
+      ],
+      "category": "databases"
     },
     "manpreet2000--mcp-database-server": {
       "owner": "manpreet2000",
@@ -6580,7 +6865,8 @@
         "secure database",
         "databases secure",
         "integrates mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "mashriram--azure_mcp_server": {
       "owner": "mashriram",
@@ -6603,7 +6889,8 @@
         "mashriram azure_mcp_server",
         "azure services",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "mattijsdp--dbt-docs-mcp": {
       "owner": "mattijsdp",
@@ -6626,7 +6913,8 @@
         "dbt docs",
         "dbt project",
         "mattijsdp dbt"
-      ]
+      ],
+      "category": "databases"
     },
     "meanands--mysql-mcp": {
       "owner": "meanands",
@@ -6649,7 +6937,8 @@
         "secure database",
         "databases secure",
         "databases using"
-      ]
+      ],
+      "category": "databases"
     },
     "meilisearch--meilisearch-mcp": {
       "owner": "meilisearch",
@@ -6672,7 +6961,8 @@
         "access meilisearch",
         "meilisearch instances",
         "meilisearch manage"
-      ]
+      ],
+      "category": "databases"
     },
     "memgraph--mcp-memgraph": {
       "owner": "memgraph",
@@ -6695,7 +6985,8 @@
         "memgraph schema",
         "query memgraph",
         "access memgraph"
-      ]
+      ],
+      "category": "databases"
     },
     "mexicanamerican--servicenow-mcp": {
       "owner": "mexicanamerican",
@@ -6718,7 +7009,8 @@
         "secure database",
         "databases secure",
         "mexicanamerican servicenow"
-      ]
+      ],
+      "category": "databases"
     },
     "michael7736--mysql-mcp-server": {
       "owner": "michael7736",
@@ -6741,7 +7033,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "michsob--powerplatform-mcp": {
       "owner": "michsob",
@@ -6764,7 +7057,8 @@
         "enables querying",
         "powerplatform dataverse",
         "advanced odata"
-      ]
+      ],
+      "category": "databases"
     },
     "mjftw--mcp_neo4j_knowledge_graph": {
       "owner": "mjftw",
@@ -6787,7 +7081,8 @@
         "mcp_neo4j_knowledge_graph manage",
         "mjftw mcp_neo4j_knowledge_graph",
         "using neo4j"
-      ]
+      ],
+      "category": "databases"
     },
     "mkc909--agent-communication-mcp-server": {
       "owner": "mkc909",
@@ -6810,7 +7105,8 @@
         "mkc909 agent",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "modelcontextprotocol--server-postgres": {
       "owner": "modelcontextprotocol",
@@ -6833,7 +7129,8 @@
         "secure database",
         "postgresql database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "modelcontextprotocol--server-sqlite": {
       "owner": "modelcontextprotocol",
@@ -6856,7 +7153,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -6879,7 +7177,8 @@
         "databases secure",
         "secure database",
         "postgresql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "momentohq--mcp-momento": {
       "owner": "momentohq",
@@ -6902,7 +7201,8 @@
         "access momentohq",
         "mcp momento",
         "momentohq mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "mongodb-developer--mcp-mongodb-atlas": {
       "owner": "mongodb-developer",
@@ -6925,7 +7225,8 @@
         "mongodb atlas",
         "mongodb developer",
         "manage mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "mongodb-developer--mongodb-mcp-server": {
       "owner": "mongodb-developer",
@@ -6948,7 +7249,8 @@
         "mongodb databases",
         "developer mongodb",
         "access mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "mongodb-js--mongodb-mcp-server": {
       "owner": "mongodb-js",
@@ -6971,7 +7273,8 @@
         "mongodb databases",
         "databases mongodb",
         "access mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "morningman--mcp-doris": {
       "owner": "morningman",
@@ -6994,7 +7297,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "motherduckdb--mcp-server-motherduck": {
       "owner": "motherduckdb",
@@ -7017,7 +7321,8 @@
         "motherduck databases",
         "access motherduckdb",
         "motherduckdb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "mrwyndham--pocketbase-mcp": {
       "owner": "mrwyndham",
@@ -7040,7 +7345,8 @@
         "pocketbase databases",
         "pocketbase mcp",
         "manage pocketbase"
-      ]
+      ],
+      "category": "databases"
     },
     "msathiyakeerthi--mysql_mcp_server": {
       "owner": "msathiyakeerthi",
@@ -7063,7 +7369,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "nahmanmate--postgresql-mcp-server": {
       "owner": "nahmanmate",
@@ -7086,7 +7393,8 @@
         "databases secure",
         "secure database",
         "analyzes postgresql"
-      ]
+      ],
+      "category": "databases"
     },
     "navisbio--AACT_MCP": {
       "owner": "navisbio",
@@ -7109,7 +7417,8 @@
         "aact database",
         "access navisbio",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "nbbaier--mcp-turso": {
       "owner": "nbbaier",
@@ -7132,7 +7441,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "nebula-contrib--nebulagraph-mcp-server": {
       "owner": "nebula-contrib",
@@ -7155,7 +7465,8 @@
         "access nebulagraph",
         "access nebula",
         "nebulagraph graph"
-      ]
+      ],
+      "category": "databases"
     },
     "neo4j-contrib--mcp-neo4j": {
       "owner": "neo4j-contrib",
@@ -7178,7 +7489,8 @@
         "neo4j database",
         "neo4j contrib",
         "access neo4j"
-      ]
+      ],
+      "category": "databases"
     },
     "neondatabase--mcp-server-neon": {
       "owner": "neondatabase",
@@ -7201,7 +7513,8 @@
         "access neondatabase",
         "neondatabase mcp",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "netwrix--mcp-server-naa": {
       "owner": "netwrix",
@@ -7224,7 +7537,8 @@
         "database access",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "neurelo-connect--neurelo-connect-mcp": {
       "owner": "neurelo-connect",
@@ -7247,7 +7561,8 @@
         "databases neurelo",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "nickiiitu--MongoDB-Model-Context-Protocol-MCP-": {
       "owner": "nickiiitu",
@@ -7270,7 +7585,8 @@
         "mongodb databases",
         "interaction mongodb",
         "nickiiitu mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "nsxdavid--surrealdb-mcp-server": {
       "owner": "nsxdavid",
@@ -7293,7 +7609,8 @@
         "surrealdb databases",
         "nsxdavid surrealdb",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "ognis1205--mcp-server-unitycatalog": {
       "owner": "ognis1205",
@@ -7316,7 +7633,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "openlink--mcp-server-jdbc": {
       "owner": "openlink",
@@ -7339,7 +7657,8 @@
         "jdbc protocol",
         "jdbc mcp",
         "connectivity jdbc"
-      ]
+      ],
+      "category": "databases"
     },
     "openlink--mcp-server-odbc": {
       "owner": "openlink",
@@ -7362,7 +7681,8 @@
         "odbc protocol",
         "server odbc",
         "connectivity odbc"
-      ]
+      ],
+      "category": "databases"
     },
     "openlink--mcp-server-sqlalchemy": {
       "owner": "openlink",
@@ -7385,7 +7705,8 @@
         "database access",
         "secure database",
         "sqlalchemy mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "oshion--python-mcp-carsearch-demo": {
       "owner": "oshion",
@@ -7408,7 +7729,8 @@
         "car database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "pab1it0--adx-mcp-server": {
       "owner": "pab1it0",
@@ -7431,7 +7753,8 @@
         "enables querying",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "pab1it0--prometheus-mcp-server": {
       "owner": "pab1it0",
@@ -7454,7 +7777,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "patrice-truong--cosmosdb-mcp": {
       "owner": "patrice-truong",
@@ -7477,7 +7801,8 @@
         "cosmos db",
         "azure cosmos",
         "truong cosmosdb"
-      ]
+      ],
+      "category": "databases"
     },
     "peterdonaghey--snowflake-mcp": {
       "owner": "peterdonaghey",
@@ -7500,7 +7825,8 @@
         "snowflake databases",
         "queries snowflake",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "prajwalnayak7--mcp-server-redis": {
       "owner": "prajwalnayak7",
@@ -7523,7 +7849,8 @@
         "secure database",
         "databases secure",
         "server redis"
-      ]
+      ],
+      "category": "databases"
     },
     "prisma--mcp": {
       "owner": "prisma",
@@ -7546,7 +7873,8 @@
         "manage prisma",
         "prisma postgres",
         "access prisma"
-      ]
+      ],
+      "category": "databases"
     },
     "prisma--prisma": {
       "owner": "prisma",
@@ -7569,7 +7897,8 @@
         "databases prisma",
         "prisma manage",
         "access prisma"
-      ]
+      ],
+      "category": "databases"
     },
     "privetin--chroma": {
       "owner": "privetin",
@@ -7592,7 +7921,8 @@
         "database capabilities",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "pu-re--bytebase": {
       "owner": "pu-re",
@@ -7615,7 +7945,8 @@
         "secure database",
         "databases secure",
         "pu bytebase"
-      ]
+      ],
+      "category": "databases"
     },
     "quarkiverse--mcp-server-jdbc": {
       "owner": "quarkiverse",
@@ -7638,7 +7969,8 @@
         "databases secure",
         "secure database",
         "server jdbc"
-      ]
+      ],
+      "category": "databases"
     },
     "qwert666--mcp-server-foundry": {
       "owner": "qwert666",
@@ -7661,7 +7993,8 @@
         "databases secure",
         "secure database",
         "server foundry"
-      ]
+      ],
+      "category": "databases"
     },
     "rahgadda--oracledb_mcp_server": {
       "owner": "rahgadda",
@@ -7684,7 +8017,8 @@
         "rahgadda oracledb_mcp_server",
         "oracle database",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "rakeshgangwar--erpnext-mcp-server": {
       "owner": "rakeshgangwar",
@@ -7707,7 +8041,8 @@
         "rakeshgangwar erpnext",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "ramp-public--ramp_mcp": {
       "owner": "ramp-public",
@@ -7730,7 +8065,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "ramuzes--mcp-jena": {
       "owner": "ramuzes",
@@ -7753,7 +8089,8 @@
         "apache jena",
         "jena using",
         "jena facilitates"
-      ]
+      ],
+      "category": "databases"
     },
     "rapidappio--rapidapp-mcp": {
       "owner": "rapidappio",
@@ -7776,7 +8113,8 @@
         "database rapidapp",
         "access rapidappio",
         "rapidapp api"
-      ]
+      ],
+      "category": "databases"
     },
     "rashidazarang--airtable-mcp": {
       "owner": "rashidazarang",
@@ -7799,7 +8137,8 @@
         "rashidazarang airtable",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "ravenwits--mcp-server-arangodb": {
       "owner": "ravenwits",
@@ -7822,7 +8161,8 @@
         "capabilities arangodb",
         "arangodb provides",
         "server arangodb"
-      ]
+      ],
+      "category": "databases"
     },
     "rebots-online--mcp-neo4j": {
       "owner": "rebots-online",
@@ -7845,7 +8185,8 @@
         "graphs neo4j",
         "neo4j manage",
         "graph databases"
-      ]
+      ],
+      "category": "databases"
     },
     "redis--mcp-redis": {
       "owner": "redis",
@@ -7868,7 +8209,8 @@
         "data redis",
         "redis data",
         "redis using"
-      ]
+      ],
+      "category": "databases"
     },
     "rhabraken--mcp-python": {
       "owner": "rhabraken",
@@ -7891,7 +8233,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "rick-noya--mcp-chatbot": {
       "owner": "rick-noya",
@@ -7914,7 +8257,8 @@
         "optimized chatbot",
         "mcp chatbot",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "rileylemm--graphrag_mcp": {
       "owner": "rileylemm",
@@ -7937,7 +8281,8 @@
         "semantic search",
         "enables querying",
         "semantic graph"
-      ]
+      ],
+      "category": "databases"
     },
     "rioriost--homebrew-age-mcp-server": {
       "owner": "rioriost",
@@ -7960,7 +8305,8 @@
         "secure database",
         "databases secure",
         "graph database"
-      ]
+      ],
+      "category": "databases"
     },
     "rishikavikondala--mcp-server-aws": {
       "owner": "rishikavikondala",
@@ -7983,7 +8329,8 @@
         "s3 dynamodb",
         "dynamodb operations",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "robertoamoreno--couchdb-mcp-server": {
       "owner": "robertoamoreno",
@@ -8006,7 +8353,8 @@
         "couchdb databases",
         "manage couchdb",
         "couchdb mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "robinong79--mcp-cosmos": {
       "owner": "robinong79",
@@ -8029,7 +8377,8 @@
         "cosmos db",
         "azure cosmos",
         "cosmos enables"
-      ]
+      ],
+      "category": "databases"
     },
     "roboulos--simple-xano-mcp": {
       "owner": "roboulos",
@@ -8052,7 +8401,8 @@
         "xano databases",
         "simple xano",
         "xano mcp"
-      ]
+      ],
+      "category": "databases"
     },
     "rock913--mongo-mcp": {
       "owner": "rock913",
@@ -8075,7 +8425,8 @@
         "mongodb databases",
         "mongo mcp",
         "interaction mongodb"
-      ]
+      ],
+      "category": "databases"
     },
     "rtcface--first_mcp": {
       "owner": "rtcface",
@@ -8098,7 +8449,8 @@
         "management mongodb",
         "mongodb collections",
         "access schema"
-      ]
+      ],
+      "category": "databases"
     },
     "runekaagaard--mcp-alchemy": {
       "owner": "runekaagaard",
@@ -8121,7 +8473,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "rvibek--mcp_unhcr": {
       "owner": "rvibek",
@@ -8144,7 +8497,8 @@
         "unhcr refugee",
         "refugee statistics",
         "retrieving refugee"
-      ]
+      ],
+      "category": "databases"
     },
     "s2-streamstore--s2-sdk-typescript": {
       "owner": "s2-streamstore",
@@ -8167,7 +8521,8 @@
         "streamstore s2",
         "s2 streamstore",
         "server s2"
-      ]
+      ],
+      "category": "databases"
     },
     "santos-404--mcp-server.sqlite": {
       "owner": "santos-404",
@@ -8190,7 +8545,8 @@
         "databases secure",
         "secure database",
         "insights sqlite"
-      ]
+      ],
+      "category": "databases"
     },
     "sazboxai--MCP_MetaBase": {
       "owner": "sazboxai",
@@ -8213,7 +8569,8 @@
         "metabase databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "schemacrawler--SchemaCrawler-MCP-Server-Usage": {
       "owner": "schemacrawler",
@@ -8236,7 +8593,8 @@
         "enables querying",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "setyolegowo--mcp-server-elasticsearch": {
       "owner": "setyolegowo",
@@ -8259,7 +8617,8 @@
         "server elasticsearch",
         "elasticsearch efficient",
         "elasticsearch connect"
-      ]
+      ],
+      "category": "databases"
     },
     "showjason--opensearch-mcp-server": {
       "owner": "showjason",
@@ -8282,7 +8641,8 @@
         "opensearch cluster",
         "opensearch mcp",
         "interact opensearch"
-      ]
+      ],
+      "category": "databases"
     },
     "shreyansh-ghl--mysql-mcp-server": {
       "owner": "shreyansh-ghl",
@@ -8305,7 +8665,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "singlestore-labs--mcp-server-singlestore": {
       "owner": "singlestore-labs",
@@ -8328,7 +8689,8 @@
         "server singlestore",
         "singlestore integrate",
         "processing singlestore"
-      ]
+      ],
+      "category": "databases"
     },
     "sirmews--mcp-pinecone": {
       "owner": "sirmews",
@@ -8351,7 +8713,8 @@
         "databases secure",
         "secure database",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "skysqlinc--skysql-mcp": {
       "owner": "skysqlinc",
@@ -8374,7 +8737,8 @@
         "manages skysql",
         "access skysqlinc",
         "skysql mysql"
-      ]
+      ],
+      "category": "databases"
     },
     "spences10--mcp-memory-libsql": {
       "owner": "spences10",
@@ -8397,7 +8761,8 @@
         "secure database",
         "memory libsql",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "stefanraath3--mcp-supabase": {
       "owner": "stefanraath3",
@@ -8420,7 +8785,8 @@
         "supabase postgresql",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "stinkgen--trino_mcp": {
       "owner": "stinkgen",
@@ -8443,7 +8809,8 @@
         "enables querying",
         "query engine",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "stuzero--pg-mcp": {
       "owner": "stuzero",
@@ -8466,7 +8833,8 @@
         "postgresql databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "subnetmarco--pgmcp": {
       "owner": "subnetmarco",
@@ -8489,7 +8857,8 @@
         "secure database",
         "databases secure",
         "postgresql queries"
-      ]
+      ],
+      "category": "databases"
     },
     "suhail-ak-s--mcp-typesense-server": {
       "owner": "suhail-ak-s",
@@ -8512,7 +8881,8 @@
         "enables querying",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "supabase-community--supabase-mcp": {
       "owner": "supabase-community",
@@ -8535,7 +8905,8 @@
         "access supabase",
         "supabase projects",
         "supabase community"
-      ]
+      ],
+      "category": "databases"
     },
     "sussa3007--mysql-mcp": {
       "owner": "sussa3007",
@@ -8558,7 +8929,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "syahiidkamil--mcp-postgres-full-access": {
       "owner": "syahiidkamil",
@@ -8581,7 +8953,8 @@
         "postgresql databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "sylweriusz--mcp-neo4j-memory-server": {
       "owner": "sylweriusz",
@@ -8604,7 +8977,8 @@
         "neo4j memory",
         "neo4j efficient",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "t3ta--sql-mcp-server": {
       "owner": "t3ta",
@@ -8627,7 +9001,8 @@
         "databases secure",
         "secure database",
         "t3ta sql"
-      ]
+      ],
+      "category": "databases"
     },
     "takuya0206--bigquery-mcp-server": {
       "owner": "takuya0206",
@@ -8650,7 +9025,8 @@
         "bigquery datasets",
         "google bigquery",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "tengfone--supabase-nextjs-mcp-server": {
       "owner": "tengfone",
@@ -8673,7 +9049,8 @@
         "supabase backend",
         "using supabase",
         "supabase nextjs"
-      ]
+      ],
+      "category": "databases"
     },
     "thochi--mssql-mcp-server": {
       "owner": "thochi",
@@ -8696,7 +9073,8 @@
         "mssql mcp",
         "thochi mssql",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "timeplus-io--mcp-timeplus": {
       "owner": "timeplus-io",
@@ -8719,7 +9097,8 @@
         "access timeplus",
         "timeplus io",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "tjwells47--mcp-qdrant-memory": {
       "owner": "tjwells47",
@@ -8742,7 +9121,8 @@
         "secure database",
         "databases secure",
         "enables querying"
-      ]
+      ],
+      "category": "databases"
     },
     "tjwells47--supabase-mcp-server": {
       "owner": "tjwells47",
@@ -8765,7 +9145,8 @@
         "supabase databases",
         "supabase management",
         "manage supabase"
-      ]
+      ],
+      "category": "databases"
     },
     "tuannvm--mcp-trino": {
       "owner": "tuannvm",
@@ -8788,7 +9169,8 @@
         "enables querying",
         "access tuannvm",
         "mcp trino"
-      ]
+      ],
+      "category": "databases"
     },
     "tylerstoltz--mcp-odbc": {
       "owner": "tylerstoltz",
@@ -8811,7 +9193,8 @@
         "odbc compatible",
         "connects odbc",
         "odbc connects"
-      ]
+      ],
+      "category": "databases"
     },
     "ujjalcal--mcp": {
       "owner": "ujjalcal",
@@ -8834,7 +9217,8 @@
         "secure database",
         "databases secure",
         "data management"
-      ]
+      ],
+      "category": "databases"
     },
     "upstash--mcp-server": {
       "owner": "upstash",
@@ -8857,7 +9241,8 @@
         "upstash developer",
         "manage upstash",
         "access upstash"
-      ]
+      ],
+      "category": "databases"
     },
     "vinhphamai23--iotdb-mcp-server": {
       "owner": "vinhphamai23",
@@ -8880,7 +9265,8 @@
         "iotdb databases",
         "secure database",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "vinsidious--mcp-pg-schema": {
       "owner": "vinsidious",
@@ -8903,7 +9289,8 @@
         "postgresql databases",
         "databases secure",
         "pg schema"
-      ]
+      ],
+      "category": "databases"
     },
     "vitalyDV--mysql-mcp": {
       "owner": "vitalyDV",
@@ -8926,7 +9313,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "vivek1612--mongodb-mcp": {
       "owner": "vivek1612",
@@ -8949,7 +9337,8 @@
         "vivek1612 mongodb",
         "mongodb databases",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "vurtnec--mcp-LanceDB-node": {
       "owner": "vurtnec",
@@ -8972,7 +9361,8 @@
         "lancedb database",
         "lancedb node",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "wanattichia-skeelo--airtable-mcp-server": {
       "owner": "wanattichia-skeelo",
@@ -8995,7 +9385,8 @@
         "airtable databases",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "weaviate--mcp-server-weaviate": {
       "owner": "weaviate",
@@ -9018,7 +9409,8 @@
         "server weaviate",
         "access weaviate",
         "using weaviate"
-      ]
+      ],
+      "category": "databases"
     },
     "wenb1n-dev--mysql_mcp_server_pro": {
       "owner": "wenb1n-dev",
@@ -9041,7 +9433,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "wirdes--db-mcp-tool": {
       "owner": "wirdes",
@@ -9064,7 +9457,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "wiseman--osm-mcp": {
       "owner": "wiseman",
@@ -9087,7 +9481,8 @@
         "openstreetmap data",
         "visualize openstreetmap",
         "wiseman osm"
-      ]
+      ],
+      "category": "databases"
     },
     "wushouzhuan1--finance_news_analysis": {
       "owner": "wushouzhuan1",
@@ -9110,7 +9505,8 @@
         "databases secure",
         "secure database",
         "finance_news_analysis scrapes"
-      ]
+      ],
+      "category": "databases"
     },
     "xexr--mcp-libsql": {
       "owner": "xexr",
@@ -9133,7 +9529,8 @@
         "libsql databases",
         "mcp libsql",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "xiangma9712--mysql-mcp-server": {
       "owner": "xiangma9712",
@@ -9156,7 +9553,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "xing5--mcp-google-sheets": {
       "owner": "xing5",
@@ -9179,7 +9577,8 @@
         "secure database",
         "spreadsheets google",
         "sheets server"
-      ]
+      ],
+      "category": "databases"
     },
     "xptotech--mcp2": {
       "owner": "xptotech",
@@ -9202,7 +9601,8 @@
         "secure database",
         "database access",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "xytangme--neodb-mcp": {
       "owner": "xytangme",
@@ -9225,7 +9625,8 @@
         "xytangme neodb",
         "databases secure",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "yangkyeongmo--mcp-server-openmetadata": {
       "owner": "yangkyeongmo",
@@ -9248,7 +9649,8 @@
         "server openmetadata",
         "openmetadata mcp",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "yannbrrd--simple_snowflake_mcp": {
       "owner": "yannbrrd",
@@ -9271,7 +9673,8 @@
         "databases secure",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "yaoxiaolinglong--mcp-mongodb-mysql-server": {
       "owner": "yaoxiaolinglong",
@@ -9294,7 +9697,8 @@
         "secure database",
         "mongodb databases",
         "databases secure"
-      ]
+      ],
+      "category": "databases"
     },
     "ydb--ydb-mcp": {
       "owner": "ydb",
@@ -9317,7 +9721,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "ydb-platform--ydb-mcp": {
       "owner": "ydb-platform",
@@ -9340,7 +9745,8 @@
         "ydb databases",
         "access ydb",
         "manage ydb"
-      ]
+      ],
+      "category": "databases"
     },
     "yincongcyincong--VictoriaMetrics-mcp-server": {
       "owner": "yincongcyincong",
@@ -9363,7 +9769,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "yourtechtribe--mcp-odoo-for-finance": {
       "owner": "yourtechtribe",
@@ -9386,7 +9793,8 @@
         "odoo finance",
         "odoo instances",
         "mcp odoo"
-      ]
+      ],
+      "category": "databases"
     },
     "yuangjay--db_manager": {
       "owner": "yuangjay",
@@ -9409,7 +9817,8 @@
         "secure database",
         "databases secure",
         "yuangjay db_manager"
-      ]
+      ],
+      "category": "databases"
     },
     "yuanoOo--oceanbase_mcp_server": {
       "owner": "yuanoOo",
@@ -9432,7 +9841,8 @@
         "oceanbase databases",
         "yuanooo oceanbase_mcp_server",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "yuki777--mysql-mcp-server": {
       "owner": "yuki777",
@@ -9455,7 +9865,8 @@
         "mysql databases",
         "secure database",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "yunqiqiliang--mcp-clickzetta-server": {
       "owner": "yunqiqiliang",
@@ -9478,7 +9889,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "yuru-sha--mcp-server-mysql": {
       "owner": "yuru-sha",
@@ -9501,7 +9913,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "yuru-sha--mcp-server-postgres": {
       "owner": "yuru-sha",
@@ -9524,7 +9937,8 @@
         "databases secure",
         "secure database",
         "postgresql databases"
-      ]
+      ],
+      "category": "databases"
     },
     "z80dev--cryo-mcp": {
       "owner": "z80dev",
@@ -9547,7 +9961,8 @@
         "blockchain data",
         "insights blockchain",
         "secure database"
-      ]
+      ],
+      "category": "databases"
     },
     "zajTools--zaj-MySQL-MCP": {
       "owner": "zajTools",
@@ -9570,7 +9985,8 @@
         "secure database",
         "databases secure",
         "zaj mysql"
-      ]
+      ],
+      "category": "databases"
     },
     "zhaoxin34--mcp-server-mysql": {
       "owner": "zhaoxin34",
@@ -9593,7 +10009,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     },
     "zilliztech--mcp-server-milvus": {
       "owner": "zilliztech",
@@ -9616,7 +10033,8 @@
         "secure database",
         "databases secure",
         "server milvus"
-      ]
+      ],
+      "category": "databases"
     },
     "zxfgds--mcp-toolkit": {
       "owner": "zxfgds",
@@ -9639,7 +10057,8 @@
         "secure database",
         "databases secure",
         "access zxfgds"
-      ]
+      ],
+      "category": "databases"
     },
     "zyy07--MCP": {
       "owner": "zyy07",
@@ -9662,7 +10081,8 @@
         "secure database",
         "databases secure",
         "database access"
-      ]
+      ],
+      "category": "databases"
     }
   }
 }

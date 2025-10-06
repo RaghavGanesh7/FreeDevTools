@@ -25,7 +25,8 @@
         "maps puppeteer",
         "tool modules",
         "management adampippert"
-      ]
+      ],
+      "category": "memory-management"
     },
     "AgentWong--iac-memory-mcp-server-project": {
       "owner": "AgentWong",
@@ -48,7 +49,8 @@
         "terraform ansible",
         "iac memory",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "AgentWong--optimized-memory-mcp-server": {
       "owner": "AgentWong",
@@ -71,7 +73,8 @@
         "persistent memory",
         "memory management",
         "memory mcp"
-      ]
+      ],
+      "category": "memory-management"
     },
     "ArchimedesCrypto--figma-mcp-chunked": {
       "owner": "ArchimedesCrypto",
@@ -94,7 +97,8 @@
         "archimedescrypto figma",
         "figma files",
         "figma api"
-      ]
+      ],
+      "category": "memory-management"
     },
     "BRO3886--mcp-memory-custom": {
       "owner": "BRO3886",
@@ -117,7 +121,8 @@
         "memory management",
         "memory custom",
         "mcp memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "CheMiguel23--MemoryMesh": {
       "owner": "CheMiguel23",
@@ -140,7 +145,8 @@
         "memory conversations",
         "memorymesh stores",
         "chemiguel23 memorymesh"
-      ]
+      ],
+      "category": "memory-management"
     },
     "ChrisL108--outline-mcp": {
       "owner": "ChrisL108",
@@ -163,7 +169,8 @@
         "memory management",
         "outline mcp",
         "documents outline"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Din-djarin2--memory-bank-mcp": {
       "owner": "Din-djarin2",
@@ -186,7 +193,8 @@
         "memory bank",
         "memory banks",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Guanxinyuan--neo4j": {
       "owner": "Guanxinyuan",
@@ -209,7 +217,8 @@
         "memory neo4j",
         "neo4j databases",
         "interact neo4j"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Heht571--ops-mcp-server": {
       "owner": "Heht571",
@@ -232,7 +241,8 @@
         "server toolset",
         "mcp server",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "IzumiSy--mcp-duckdb-memory-server": {
       "owner": "IzumiSy",
@@ -255,7 +265,8 @@
         "duckdb memory",
         "duckdb efficient",
         "conversational agents"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Jktfe--myAImemory-mcp": {
       "owner": "Jktfe",
@@ -278,7 +289,8 @@
         "jktfe myaimemory",
         "management jktfe",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "JovanHsu--mcp-neo4j-memory-server": {
       "owner": "JovanHsu",
@@ -301,7 +313,8 @@
         "neo4j memory",
         "using neo4j",
         "neo4j backend"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Kirandawadi--volatility3-mcp": {
       "owner": "Kirandawadi",
@@ -324,7 +337,8 @@
         "memory dumps",
         "analyze memory",
         "memory forensics"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Lyoneos--mcp-cheatengine-Cto": {
       "owner": "Lyoneos",
@@ -347,7 +361,8 @@
         "cheatengine cto",
         "cheatengine instances",
         "mcp cheatengine"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Srish-ty--MCP-Testing-interface-for-LLMs": {
       "owner": "Srish-ty",
@@ -370,7 +385,8 @@
         "contexts llm",
         "interface llms",
         "context management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "T1nker-1220--memories-with-lessons-mcp-server": {
       "owner": "T1nker-1220",
@@ -393,7 +409,8 @@
         "memory ai",
         "persistent memory",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Thelyoncrypt--MemGPT": {
       "owner": "Thelyoncrypt",
@@ -416,7 +433,8 @@
         "thelyoncrypt memgpt",
         "memgpt creates",
         "chatbots maintain"
-      ]
+      ],
+      "category": "memory-management"
     },
     "TrackerXXX23--dev_memory_mcp": {
       "owner": "TrackerXXX23",
@@ -439,7 +457,8 @@
         "trackerxxx23 dev_memory_mcp",
         "dev_memory_mcp captures",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "Vic563--Memgpt-MCP-Server": {
       "owner": "Vic563",
@@ -462,7 +481,8 @@
         "memory management",
         "memgpt mcp",
         "mcp server"
-      ]
+      ],
+      "category": "memory-management"
     },
     "WhenMoon-afk--claude-memory-mcp": {
       "owner": "WhenMoon-afk",
@@ -485,7 +505,8 @@
         "memory management",
         "memory mcp",
         "persistent memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "ZannyTornadoCoding--my-sequential-thinking-mcp-server": {
       "owner": "ZannyTornadoCoding",
@@ -508,7 +529,8 @@
         "sequential thinking",
         "thinking pathways",
         "managing reasoning"
-      ]
+      ],
+      "category": "memory-management"
     },
     "a2888409--CSAPP": {
       "owner": "a2888409",
@@ -531,7 +553,8 @@
         "http server",
         "performance http",
         "a2888409 csapp"
-      ]
+      ],
+      "category": "memory-management"
     },
     "aakarsh-sasi--memory-bank-mcp": {
       "owner": "aakarsh-sasi",
@@ -554,7 +577,8 @@
         "sasi memory",
         "ai assistant",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "aiurda--cursor10x-mcp": {
       "owner": "aiurda",
@@ -577,7 +601,8 @@
         "project context",
         "memory management",
         "cursor10x mcp"
-      ]
+      ],
+      "category": "memory-management"
     },
     "alioshr--memory-bank-mcp": {
       "owner": "alioshr",
@@ -600,7 +625,8 @@
         "memory bank",
         "memory banks",
         "alioshr memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "amotivv--memory-box-mcp": {
       "owner": "amotivv",
@@ -623,7 +649,8 @@
         "amotivv memory",
         "memory management",
         "memory box"
-      ]
+      ],
+      "category": "memory-management"
     },
     "basicmachines-co--basic-memory": {
       "owner": "basicmachines-co",
@@ -646,7 +673,8 @@
         "basic memory",
         "management basicmachines",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "bneil--mcp-memory-pouchdb": {
       "owner": "bneil",
@@ -669,7 +697,8 @@
         "memory pouchdb",
         "pouchdb manage",
         "seamlessly pouchdb"
-      ]
+      ],
+      "category": "memory-management"
     },
     "boorich--mcp-human-loop": {
       "owner": "boorich",
@@ -692,7 +721,8 @@
         "intervention ai",
         "ai operations",
         "manage human"
-      ]
+      ],
+      "category": "memory-management"
     },
     "bornpresident--Volatility-MCP-Server": {
       "owner": "bornpresident",
@@ -715,7 +745,8 @@
         "memory dumps",
         "analyze memory",
         "server analyze"
-      ]
+      ],
+      "category": "memory-management"
     },
     "coleam00--mcp-mem0": {
       "owner": "coleam00",
@@ -738,7 +769,8 @@
         "search memories",
         "memory management",
         "memories using"
-      ]
+      ],
+      "category": "memory-management"
     },
     "davidteren--claude-server": {
       "owner": "davidteren",
@@ -761,7 +793,8 @@
         "project contexts",
         "manages project",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "davioliveeira--memory-mcp": {
       "owner": "davioliveeira",
@@ -784,7 +817,8 @@
         "memory management",
         "managing memories",
         "retrieve memories"
-      ]
+      ],
+      "category": "memory-management"
     },
     "ddkang1--mcp-mem": {
       "owner": "ddkang1",
@@ -807,7 +841,8 @@
         "memory management",
         "management chat",
         "mem provides"
-      ]
+      ],
+      "category": "memory-management"
     },
     "delorenj--mcp-qdrant-memory": {
       "owner": "delorenj",
@@ -830,7 +865,8 @@
         "knowledge graph",
         "semantic search",
         "qdrant memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "devassistantai--mcp-servers": {
       "owner": "devassistantai",
@@ -853,7 +889,8 @@
         "memory ai",
         "information chats",
         "persistent memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "divslingerx--mcp-server": {
       "owner": "divslingerx",
@@ -876,7 +913,8 @@
         "using puppeteer",
         "searches lightweight",
         "mcp server"
-      ]
+      ],
+      "category": "memory-management"
     },
     "docdyhr--simplenote-mcp-server": {
       "owner": "docdyhr",
@@ -899,7 +937,8 @@
         "simplenote mcp",
         "manage simplenote",
         "simplenote notes"
-      ]
+      ],
+      "category": "memory-management"
     },
     "doggybee--mcp-server-memo": {
       "owner": "doggybee",
@@ -922,7 +961,8 @@
         "server memo",
         "memo manage",
         "session histories"
-      ]
+      ],
+      "category": "memory-management"
     },
     "doobidoo--mcp-memory-service": {
       "owner": "doobidoo",
@@ -945,7 +985,8 @@
         "memory persistent",
         "memory management",
         "memory service"
-      ]
+      ],
+      "category": "memory-management"
     },
     "drdee--memory-mcp": {
       "owner": "drdee",
@@ -968,7 +1009,8 @@
         "drdee memory",
         "memory management",
         "memory mcp"
-      ]
+      ],
+      "category": "memory-management"
     },
     "ebailey78--mcp-memory": {
       "owner": "ebailey78",
@@ -991,7 +1033,8 @@
         "memory manage",
         "memories chat",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "evangstav--python-memory-mcp-server": {
       "owner": "evangstav",
@@ -1014,7 +1057,8 @@
         "python memory",
         "memory management",
         "memory mcp"
-      ]
+      ],
+      "category": "memory-management"
     },
     "fourcolors--omi-mcp": {
       "owner": "fourcolors",
@@ -1037,7 +1081,8 @@
         "memories omi",
         "memory management",
         "conversations memories"
-      ]
+      ],
+      "category": "memory-management"
     },
     "g0t4--mcp-server-memory-file": {
       "owner": "g0t4",
@@ -1060,7 +1105,8 @@
         "memories using",
         "memory management",
         "memory file"
-      ]
+      ],
+      "category": "memory-management"
     },
     "gannonh--memento-mcp": {
       "owner": "gannonh",
@@ -1083,7 +1129,8 @@
         "memento knowledge",
         "mcp memento",
         "memento mcp"
-      ]
+      ],
+      "category": "memory-management"
     },
     "gmacev--Simple-Memory-Extension-MCP-Server": {
       "owner": "gmacev",
@@ -1106,7 +1153,8 @@
         "management gmacev",
         "memory context",
         "manage memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "henryhawke--mcp-titan": {
       "owner": "henryhawke",
@@ -1129,7 +1177,8 @@
         "memory engine",
         "titan memory",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "honeybluesky--my-apple-remembers": {
       "owner": "honeybluesky",
@@ -1152,7 +1201,8 @@
         "apple remembers",
         "memory management",
         "saves memories"
-      ]
+      ],
+      "category": "memory-management"
     },
     "ibproduct--ib-mcp-cache-server": {
       "owner": "ibproduct",
@@ -1175,7 +1225,8 @@
         "mcp cache",
         "ibproduct ib",
         "management ibproduct"
-      ]
+      ],
+      "category": "memory-management"
     },
     "identimoji--mcp-server-emojikey": {
       "owner": "identimoji",
@@ -1198,7 +1249,8 @@
         "server emojikey",
         "using emoji",
         "emojikey manages"
-      ]
+      ],
+      "category": "memory-management"
     },
     "ipospelov--mcp-memory-bank": {
       "owner": "ipospelov",
@@ -1221,7 +1273,8 @@
         "memory bank",
         "memory management",
         "structured memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "itseasy21--mcp-knowledge-graph": {
       "owner": "itseasy21",
@@ -1244,7 +1297,8 @@
         "persistent memory",
         "knowledge graph",
         "conversations leveraging"
-      ]
+      ],
+      "category": "memory-management"
     },
     "j3k0--mcp-brain-tools": {
       "owner": "j3k0",
@@ -1267,7 +1321,8 @@
         "memory ai",
         "built elasticsearch",
         "elasticsearch manage"
-      ]
+      ],
+      "category": "memory-management"
     },
     "jasonmorganson--servers": {
       "owner": "jasonmorganson",
@@ -1290,7 +1345,8 @@
         "jasonmorganson servers",
         "conversations chats",
         "knowledge graph"
-      ]
+      ],
+      "category": "memory-management"
     },
     "jlia0--servers": {
       "owner": "jlia0",
@@ -1313,7 +1369,8 @@
         "jlia0 servers",
         "management jlia0",
         "memory ai"
-      ]
+      ],
+      "category": "memory-management"
     },
     "joleyline--mcp-memory-libsql": {
       "owner": "joleyline",
@@ -1336,7 +1393,8 @@
         "memory libsql",
         "libsql databases",
         "remote libsql"
-      ]
+      ],
+      "category": "memory-management"
     },
     "kiranraathod--taskflow-memory-server": {
       "owner": "kiranraathod",
@@ -1359,7 +1417,8 @@
         "kiranraathod taskflow",
         "taskflow memory",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "leonskenidy--omi-mcp": {
       "owner": "leonskenidy",
@@ -1382,7 +1441,8 @@
         "omi mcp",
         "memory management",
         "mcp interface"
-      ]
+      ],
+      "category": "memory-management"
     },
     "mcp-get--community-servers": {
       "owner": "mcp-get",
@@ -1405,7 +1465,8 @@
         "provides macos",
         "mcp community",
         "macos specific"
-      ]
+      ],
+      "category": "memory-management"
     },
     "mem0ai--mem0-mcp": {
       "owner": "mem0ai",
@@ -1428,7 +1489,8 @@
         "memory management",
         "management mem0ai",
         "specific memories"
-      ]
+      ],
+      "category": "memory-management"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -1451,7 +1513,8 @@
         "persistent memory",
         "memory management",
         "chats defining"
-      ]
+      ],
+      "category": "memory-management"
     },
     "movibe--memory-bank-mcp": {
       "owner": "movibe",
@@ -1474,7 +1537,8 @@
         "movibe memory",
         "memory management",
         "management movibe"
-      ]
+      ],
+      "category": "memory-management"
     },
     "neo4j-contrib--mcp-neo4j": {
       "owner": "neo4j-contrib",
@@ -1497,7 +1561,8 @@
         "management neo4j",
         "neo4j contrib",
         "memory nodes"
-      ]
+      ],
+      "category": "memory-management"
     },
     "neobundy--cwkCursorPippaMCP": {
       "owner": "neobundy",
@@ -1520,7 +1585,8 @@
         "assistants cursor",
         "ai assistants",
         "cursor ide"
-      ]
+      ],
+      "category": "memory-management"
     },
     "oculairmedia--Letta-MCP-server": {
       "owner": "oculairmedia",
@@ -1543,7 +1609,8 @@
         "oculairmedia letta",
         "letta enabling",
         "management oculairmedia"
-      ]
+      ],
+      "category": "memory-management"
     },
     "pinkpixel-dev--mem0-mcp": {
       "owner": "pinkpixel-dev",
@@ -1566,7 +1633,8 @@
         "memory management",
         "memory ai",
         "provides memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "rmtech1--txtai-assistant-mcp": {
       "owner": "rmtech1",
@@ -1589,7 +1657,8 @@
         "txtai assistant",
         "semantic memory",
         "rmtech1 txtai"
-      ]
+      ],
+      "category": "memory-management"
     },
     "shaneholloman--mcp-knowledge-graph": {
       "owner": "shaneholloman",
@@ -1612,7 +1681,8 @@
         "stored knowledge",
         "memory ai",
         "persistent memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "sizzlebop--context-mcp": {
       "owner": "sizzlebop",
@@ -1635,7 +1705,8 @@
         "conversation memory",
         "semantic memory",
         "context mcp"
-      ]
+      ],
+      "category": "memory-management"
     },
     "spences10--mcp-memory-libsql": {
       "owner": "spences10",
@@ -1658,7 +1729,8 @@
         "memory libsql",
         "persistent memory",
         "using libsql"
-      ]
+      ],
+      "category": "memory-management"
     },
     "stippi--code-assistant": {
       "owner": "stippi",
@@ -1681,7 +1753,8 @@
         "code assistant",
         "stippi code",
         "exploring codebases"
-      ]
+      ],
+      "category": "memory-management"
     },
     "t3ta--memory-bank-mcp-server": {
       "owner": "t3ta",
@@ -1704,7 +1777,8 @@
         "management t3ta",
         "document management",
         "t3ta memory"
-      ]
+      ],
+      "category": "memory-management"
     },
     "tejpalvirk--contextmanager": {
       "owner": "tejpalvirk",
@@ -1727,7 +1801,8 @@
         "management tejpalvirk",
         "tejpalvirk contextmanager",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "tjwells47--chroma-mcp": {
       "owner": "tjwells47",
@@ -1750,7 +1825,8 @@
         "vector database",
         "memory management",
         "retrieval management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "tjwells47--mcp-qdrant-memory": {
       "owner": "tjwells47",
@@ -1773,7 +1849,8 @@
         "openai embeddings",
         "qdrant memory",
         "using openai"
-      ]
+      ],
+      "category": "memory-management"
     },
     "tomschell--mcp-long-term-memory": {
       "owner": "tomschell",
@@ -1796,7 +1873,8 @@
         "memory management",
         "organizes memories",
         "storage llms"
-      ]
+      ],
+      "category": "memory-management"
     },
     "tosin2013--mcp-memory-cache-server": {
       "owner": "tosin2013",
@@ -1819,7 +1897,8 @@
         "memory cache",
         "mcp memory",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "unibaseio--membase-mcp": {
       "owner": "unibaseio",
@@ -1842,7 +1921,8 @@
         "conversation management",
         "ai agents",
         "facilitates conversation"
-      ]
+      ],
+      "category": "memory-management"
     },
     "wuyunmei--momedb-mcp": {
       "owner": "wuyunmei",
@@ -1865,7 +1945,8 @@
         "manage conversation",
         "dialogue knowledge",
         "conversation context"
-      ]
+      ],
+      "category": "memory-management"
     },
     "yellnuts--mcp-mem0": {
       "owner": "yellnuts",
@@ -1888,7 +1969,8 @@
         "memory ai",
         "mem0 manage",
         "memory management"
-      ]
+      ],
+      "category": "memory-management"
     },
     "yodakeisuke--mcp-memory-domain-knowledge": {
       "owner": "yodakeisuke",
@@ -1911,7 +1993,8 @@
         "information chats",
         "chats using",
         "knowledge persistently"
-      ]
+      ],
+      "category": "memory-management"
     },
     "zacharyliner1xds--my-sequential-thinking-mcp": {
       "owner": "zacharyliner1xds",
@@ -1934,7 +2017,8 @@
         "sequential thinking",
         "thinking pathways",
         "structured sequential"
-      ]
+      ],
+      "category": "memory-management"
     }
   }
 }

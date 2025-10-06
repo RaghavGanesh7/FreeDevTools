@@ -25,7 +25,8 @@
         "baostock server",
         "mcp baostock",
         "based baostock"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "JamesANZ--bitcoin-mcp": {
       "owner": "JamesANZ",
@@ -48,7 +49,8 @@
         "bitcoin mcp",
         "finance fintech",
         "jamesanz bitcoin"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "JamesANZ--prediction-market-mcp": {
       "owner": "JamesANZ",
@@ -71,7 +73,8 @@
         "market mcp",
         "mcp server",
         "prediction market"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "OctagonAI--octagon-mcp-server": {
       "owner": "OctagonAI",
@@ -94,7 +97,8 @@
         "fintech octagonai",
         "octagon ai",
         "server octagon"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "QuantConnect--mcp-server": {
       "owner": "QuantConnect",
@@ -117,7 +121,8 @@
         "trading workflows",
         "finance fintech",
         "fintech quantconnect"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "QuantGeekDev--coincap-mcp": {
       "owner": "QuantGeekDev",
@@ -140,7 +145,8 @@
         "quantgeekdev coincap",
         "using coincap",
         "coincap public"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "QuentinCody--braintree-mcp-server": {
       "owner": "QuentinCody",
@@ -163,7 +169,8 @@
         "paypal braintree",
         "braintree mcp",
         "braintree payment"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "Regenerating-World--pix-mcp": {
       "owner": "Regenerating-World",
@@ -186,7 +193,8 @@
         "pix qr",
         "qr codes",
         "pix mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "RomThpt--xrpl-mcp-server": {
       "owner": "RomThpt",
@@ -209,7 +217,8 @@
         "xrp ledger",
         "xrpl mcp",
         "romthpt xrpl"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "SaintDoresh--Crypto-Trader-MCP-ClaudeDesktop": {
       "owner": "SaintDoresh",
@@ -232,7 +241,8 @@
         "trader mcp",
         "crypto trader",
         "claudedesktop mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "SaintDoresh--YFinance-Trader-MCP-ClaudeDesktop": {
       "owner": "SaintDoresh",
@@ -255,7 +265,8 @@
         "trader mcp",
         "finance fintech",
         "yahoo finance"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "ThomasMarches--substrate-mcp-rs": {
       "owner": "ThomasMarches",
@@ -278,7 +289,8 @@
         "substrate mcp",
         "mcp server",
         "paritytech subxt"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "Trade-Agent--trade-agent-mcp": {
       "owner": "Trade-Agent",
@@ -301,7 +313,8 @@
         "brokerages robinhood",
         "stocks crypto",
         "fintech trade"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "Wuye-AI--mcp-server-wuye-ai": {
       "owner": "Wuye-AI",
@@ -324,7 +337,8 @@
         "fintech wuye",
         "ai mcp",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "XeroAPI--xero-mcp-server": {
       "owner": "XeroAPI",
@@ -347,7 +361,8 @@
         "mcp server",
         "server mcp",
         "fintech xeroapi"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "aaronjmars--web3-research-mcp": {
       "owner": "aaronjmars",
@@ -370,7 +385,8 @@
         "finance fintech",
         "research crypto",
         "fintech aaronjmars"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "ahnlabio--bicscan-mcp": {
       "owner": "ahnlabio",
@@ -393,7 +409,8 @@
         "holdings evm",
         "finance fintech",
         "fintech ahnlabio"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "alchemy--alchemy-mcp-server": {
       "owner": "alchemy",
@@ -416,7 +433,8 @@
         "alchemy blockchain",
         "fintech alchemy",
         "interact alchemy"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "anjor--coinmarket-mcp-server": {
       "owner": "anjor",
@@ -439,7 +457,8 @@
         "coinmarket api",
         "cryptocurrency listings",
         "fetch cryptocurrency"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "araa47--jupiter-mcp": {
       "owner": "araa47",
@@ -462,7 +481,8 @@
         "jupiter api",
         "tokens solana",
         "trade tokens"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "ariadng--metatrader-mcp-server": {
       "owner": "ariadng",
@@ -485,7 +505,8 @@
         "metatrader platform",
         "metatrader mcp",
         "ai llms"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "armorwallet--armor-crypto-mcp": {
       "owner": "armorwallet",
@@ -508,7 +529,8 @@
         "crypto mcp",
         "fintech armorwallet",
         "armor crypto"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "bankless--onchain-mcp": {
       "owner": "bankless",
@@ -531,7 +553,8 @@
         "bankless onchain",
         "fintech bankless",
         "mcp bankless"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "berlinbra--alpha-vantage-mcp": {
       "owner": "berlinbra",
@@ -554,7 +577,8 @@
         "vantage api",
         "fetch stock",
         "stock crypto"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "bitteprotocol--mcp": {
       "owner": "bitteprotocol",
@@ -577,7 +601,8 @@
         "agents blockchains",
         "fintech bitteprotocol",
         "mcp bitte"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "carsol--monarch-mcp-server": {
       "owner": "carsol",
@@ -600,7 +625,8 @@
         "monarch mcp",
         "server mcp",
         "mcp server"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "chargebee--mcp": {
       "owner": "chargebee",
@@ -623,7 +649,8 @@
         "fintech chargebee",
         "chargebee mcp",
         "agents chargebee"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "codex-data--codex-mcp": {
       "owner": "codex-data",
@@ -646,7 +673,8 @@
         "enriched blockchain",
         "fintech codex",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "coinpaprika--dexpaprika-mcp": {
       "owner": "coinpaprika",
@@ -669,7 +697,8 @@
         "dexpaprika api",
         "fintech coinpaprika",
         "dexpaprika mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "doggybee--mcp-server-ccxt": {
       "owner": "doggybee",
@@ -692,7 +721,8 @@
         "server ccxt",
         "ccxt mcp",
         "using ccxt"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "ferdousbhai--investor-agent": {
       "owner": "ferdousbhai",
@@ -715,7 +745,8 @@
         "yahoo finance",
         "ferdousbhai investor",
         "fintech ferdousbhai"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "ferdousbhai--tasty-agent": {
       "owner": "ferdousbhai",
@@ -738,7 +769,8 @@
         "tastyworks api",
         "agent tastyworks",
         "tasty agent"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "ferdousbhai--wsb-analyst-mcp": {
       "owner": "ferdousbhai",
@@ -761,7 +793,8 @@
         "wallstreetbets community",
         "content wallstreetbets",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "getAlby--mcp": {
       "owner": "getAlby",
@@ -784,7 +817,8 @@
         "fintech getalby",
         "mcp connect",
         "getalby mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "getalby--nwc-mcp-server": {
       "owner": "getalby",
@@ -807,7 +841,8 @@
         "nostr wallet",
         "wallet connect",
         "lightning wallet"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "glaksmono--finbud-data-mcp": {
       "owner": "glaksmono",
@@ -830,7 +865,8 @@
         "finance fintech",
         "fintech glaksmono",
         "finbud data"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "heurist-network--heurist-mesh-mcp-server": {
       "owner": "heurist-network",
@@ -853,7 +889,8 @@
         "blockchain analysis",
         "fintech heurist",
         "heurist network"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "hive-intel--hive-crypto-mcp": {
       "owner": "hive-intel",
@@ -876,7 +913,8 @@
         "hive crypto",
         "fintech hive",
         "hive intel"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "intentos-labs--beeper-mcp": {
       "owner": "intentos-labs",
@@ -899,7 +937,8 @@
         "transactions bsc",
         "fintech intentos",
         "beeper mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "janswist--mcp-dexscreener": {
       "owner": "janswist",
@@ -922,7 +961,8 @@
         "dexscreener api",
         "free dexscreener",
         "mcp dexscreener"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "jjlabsio--korea-stock-mcp": {
       "owner": "jjlabsio",
@@ -945,7 +985,8 @@
         "korean stock",
         "korea stock",
         "stock mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--binance-alpha-mcp": {
       "owner": "kukapay",
@@ -968,7 +1009,8 @@
         "alpha mcp",
         "binance alpha",
         "alpha trades"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--blockbeats-mcp": {
       "owner": "kukapay",
@@ -991,7 +1033,8 @@
         "blockbeats mcp",
         "fintech kukapay",
         "kukapay blockbeats"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--blocknative-mcp": {
       "owner": "kukapay",
@@ -1014,7 +1057,8 @@
         "blocknative mcp",
         "fintech kukapay",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--bridge-rates-mcp": {
       "owner": "kukapay",
@@ -1037,7 +1081,8 @@
         "onchain ai",
         "chain bridge",
         "fintech kukapay"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--chainlink-feeds-mcp": {
       "owner": "kukapay",
@@ -1060,7 +1105,8 @@
         "kukapay chainlink",
         "fintech kukapay",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--chainlist-mcp": {
       "owner": "kukapay",
@@ -1083,7 +1129,8 @@
         "fintech kukapay",
         "chainlist mcp",
         "kukapay chainlist"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--cointelegraph-mcp": {
       "owner": "kukapay",
@@ -1106,7 +1153,8 @@
         "cointelegraph mcp",
         "kukapay cointelegraph",
         "fintech kukapay"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-feargreed-mcp": {
       "owner": "kukapay",
@@ -1129,7 +1177,8 @@
         "crypto feargreed",
         "crypto fear",
         "kukapay crypto"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-indicators-mcp": {
       "owner": "kukapay",
@@ -1152,7 +1201,8 @@
         "cryptocurrency technical",
         "indicators mcp",
         "crypto indicators"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-liquidations-mcp": {
       "owner": "kukapay",
@@ -1175,7 +1225,8 @@
         "crypto liquidations",
         "cryptocurrency liquidation",
         "liquidations mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-news-mcp": {
       "owner": "kukapay",
@@ -1198,7 +1249,8 @@
         "news mcp",
         "cryptocurrency news",
         "crypto news"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-orderbook-mcp": {
       "owner": "kukapay",
@@ -1221,7 +1273,8 @@
         "crypto orderbook",
         "orderbook mcp",
         "crypto exchanges"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-pegmon-mcp": {
       "owner": "kukapay",
@@ -1244,7 +1297,8 @@
         "stablecoin peg",
         "tracking stablecoin",
         "crypto pegmon"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-portfolio-mcp": {
       "owner": "kukapay",
@@ -1267,7 +1321,8 @@
         "crypto portfolio",
         "portfolio mcp",
         "cryptocurrency portfolio"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-projects-mcp": {
       "owner": "kukapay",
@@ -1290,7 +1345,8 @@
         "kukapay crypto",
         "crypto projects",
         "fintech kukapay"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-rss-mcp": {
       "owner": "kukapay",
@@ -1313,7 +1369,8 @@
         "rss mcp",
         "crypto rss",
         "cryptocurrency news"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-sentiment-mcp": {
       "owner": "kukapay",
@@ -1336,7 +1393,8 @@
         "cryptocurrency sentiment",
         "crypto sentiment",
         "sentiment mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-trending-mcp": {
       "owner": "kukapay",
@@ -1359,7 +1417,8 @@
         "crypto trending",
         "trending tokens",
         "trending mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--crypto-whitepapers-mcp": {
       "owner": "kukapay",
@@ -1382,7 +1441,8 @@
         "crypto whitepapers",
         "finance fintech",
         "fintech kukapay"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--cryptopanic-mcp-server": {
       "owner": "kukapay",
@@ -1405,7 +1465,8 @@
         "cryptopanic mcp",
         "fintech kukapay",
         "kukapay cryptopanic"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--dao-proposals-mcp": {
       "owner": "kukapay",
@@ -1428,7 +1489,8 @@
         "governance proposals",
         "dao proposals",
         "proposals mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--defi-yields-mcp": {
       "owner": "kukapay",
@@ -1451,7 +1513,8 @@
         "defi yields",
         "defi yield",
         "yields mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--dune-analytics-mcp": {
       "owner": "kukapay",
@@ -1474,7 +1537,8 @@
         "dune analytics",
         "analytics mcp",
         "mcp server"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--etf-flow-mcp": {
       "owner": "kukapay",
@@ -1497,7 +1561,8 @@
         "etf flow",
         "kukapay etf",
         "crypto etf"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--freqtrade-mcp": {
       "owner": "kukapay",
@@ -1520,7 +1585,8 @@
         "freqtrade mcp",
         "freqtrade cryptocurrency",
         "fintech kukapay"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--funding-rates-mcp": {
       "owner": "kukapay",
@@ -1543,7 +1609,8 @@
         "finance fintech",
         "fintech kukapay",
         "kukapay funding"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--hyperliquid-info-mcp": {
       "owner": "kukapay",
@@ -1566,7 +1633,8 @@
         "mcp server",
         "info mcp",
         "fintech kukapay"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--hyperliquid-whalealert-mcp": {
       "owner": "kukapay",
@@ -1589,7 +1657,8 @@
         "whalealert mcp",
         "hyperliquid whalealert",
         "mcp server"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--jupiter-mcp": {
       "owner": "kukapay",
@@ -1612,7 +1681,8 @@
         "jupiter mcp",
         "fintech kukapay",
         "kukapay jupiter"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--pancakeswap-poolspy-mcp": {
       "owner": "kukapay",
@@ -1635,7 +1705,8 @@
         "pancakeswap poolspy",
         "poolspy mcp",
         "kukapay pancakeswap"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--pumpswap-mcp": {
       "owner": "kukapay",
@@ -1658,7 +1729,8 @@
         "pumpswap mcp",
         "kukapay pumpswap",
         "interact pumpswap"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--raydium-launchlab-mcp": {
       "owner": "kukapay",
@@ -1681,7 +1753,8 @@
         "launchlab mcp",
         "fintech kukapay",
         "raydium launchlab"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--rug-check-mcp": {
       "owner": "kukapay",
@@ -1704,7 +1777,8 @@
         "meme tokens",
         "fintech kukapay",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--sui-trader-mcp": {
       "owner": "kukapay",
@@ -1727,7 +1801,8 @@
         "trader mcp",
         "mcp server",
         "sui trader"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--thegraph-mcp": {
       "owner": "kukapay",
@@ -1750,7 +1825,8 @@
         "indexed blockchain",
         "finance fintech",
         "agents indexed"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--token-minter-mcp": {
       "owner": "kukapay",
@@ -1773,7 +1849,8 @@
         "minter mcp",
         "kukapay token",
         "token minter"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--token-revoke-mcp": {
       "owner": "kukapay",
@@ -1796,7 +1873,8 @@
         "revoke mcp",
         "kukapay token",
         "mcp mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--twitter-username-changes-mcp": {
       "owner": "kukapay",
@@ -1819,7 +1897,8 @@
         "changes mcp",
         "fintech kukapay",
         "mcp mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--uniswap-poolspy-mcp": {
       "owner": "kukapay",
@@ -1842,7 +1921,8 @@
         "poolspy mcp",
         "mcp server",
         "uniswap poolspy"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--uniswap-price-mcp": {
       "owner": "kukapay",
@@ -1865,7 +1945,8 @@
         "mcp server",
         "mcp mcp",
         "price mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--uniswap-trader-mcp": {
       "owner": "kukapay",
@@ -1888,7 +1969,8 @@
         "trader mcp",
         "uniswap trader",
         "mcp server"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--wallet-inspector-mcp": {
       "owner": "kukapay",
@@ -1911,7 +1993,8 @@
         "fintech kukapay",
         "kukapay wallet",
         "wallet inspector"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--web3-jobs-mcp": {
       "owner": "kukapay",
@@ -1934,7 +2017,8 @@
         "fintech kukapay",
         "jobs mcp",
         "mcp server"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "kukapay--whale-tracker-mcp": {
       "owner": "kukapay",
@@ -1957,7 +2041,8 @@
         "cryptocurrency whale",
         "whale tracker",
         "whale transactions"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "laukikk--alpaca-mcp": {
       "owner": "laukikk",
@@ -1980,7 +2065,8 @@
         "finance fintech",
         "alpaca mcp",
         "fintech laukikk"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "logotype--fixparser": {
       "owner": "logotype",
@@ -2003,7 +2089,8 @@
         "logotype fixparser",
         "fintech logotype",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "longportapp--openapi": {
       "owner": "longportapp",
@@ -2026,7 +2113,8 @@
         "longportapp openapi",
         "fintech longportapp",
         "longport openapi"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "mcpdotdirect--evm-mcp-server": {
       "owner": "mcpdotdirect",
@@ -2049,7 +2137,8 @@
         "fintech mcpdotdirect",
         "comprehensive blockchain",
         "mcpdotdirect evm"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "mcpdotdirect--starknet-mcp-server": {
       "owner": "mcpdotdirect",
@@ -2072,7 +2161,8 @@
         "starknet blockchain",
         "mcpdotdirect starknet",
         "starknet mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "minhyeoky--mcp-server-ledger": {
       "owner": "minhyeoky",
@@ -2095,7 +2185,8 @@
         "ledger cli",
         "server ledger",
         "ledger ledger"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "narumiruna--yfinance-mcp": {
       "owner": "narumiruna",
@@ -2118,7 +2209,8 @@
         "yfinance mcp",
         "fintech narumiruna",
         "mcp server"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "openMF--mcp-mifosx": {
       "owner": "openMF",
@@ -2141,7 +2233,8 @@
         "fintech openmf",
         "openmf mcp",
         "mcp mifosx"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "polygon-io--mcp_polygon)": {
       "owner": "polygon-io",
@@ -2164,7 +2257,8 @@
         "fintech polygon",
         "io mcp_polygon",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "pwh-pwh--coin-mcp-server": {
       "owner": "pwh-pwh",
@@ -2187,7 +2281,8 @@
         "fetch cryptocurrency",
         "pwh coin",
         "fintech pwh"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "shareseer--shareseer-mcp-server": {
       "owner": "shareseer",
@@ -2210,7 +2305,8 @@
         "fintech shareseer",
         "shareseer mcp",
         "using shareseer"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "tatumio--blockchain-mcp": {
       "owner": "tatumio",
@@ -2233,7 +2329,8 @@
         "blockchain mcp",
         "tatumio blockchain",
         "mcp server"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "tooyipjee--yahoofinance-mcp": {
       "owner": "tooyipjee",
@@ -2256,7 +2353,8 @@
         "fintech tooyipjee",
         "finance fintech",
         "yahoofinance mcp"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "twelvedata--mcp": {
       "owner": "twelvedata",
@@ -2279,7 +2377,8 @@
         "fintech twelvedata",
         "finance fintech",
         "market data"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "wowinter13--solscan-mcp": {
       "owner": "wowinter13",
@@ -2302,7 +2401,8 @@
         "solscan mcp",
         "querying solana",
         "solscan api"
-      ]
+      ],
+      "category": "finance--fintech"
     },
     "zolo-ryan--MarketAuxMcpServer": {
       "owner": "zolo-ryan",
@@ -2325,7 +2425,8 @@
         "market financial",
         "financial news",
         "finance fintech"
-      ]
+      ],
+      "category": "finance--fintech"
     }
   }
 }

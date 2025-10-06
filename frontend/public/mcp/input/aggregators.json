@@ -25,7 +25,8 @@
         "mcp servers",
         "mcp server",
         "aggregators servers"
-      ]
+      ],
+      "category": "aggregators"
     },
     "Data-Everything--mcp-server-templates": {
       "owner": "Data-Everything",
@@ -48,7 +49,8 @@
         "aggregators servers",
         "mcp server",
         "mcp platform"
-      ]
+      ],
+      "category": "aggregators"
     },
     "PipedreamHQ--pipedream": {
       "owner": "PipedreamHQ",
@@ -71,7 +73,8 @@
         "server pipedreamhq",
         "pipedream connect",
         "pipedreamhq pipedream"
-      ]
+      ],
+      "category": "aggregators"
     },
     "SureScaleAI--openai-gpt-image-mcp": {
       "owner": "SureScaleAI",
@@ -94,7 +97,8 @@
         "openai gpt",
         "mcp openai",
         "mcp server"
-      ]
+      ],
+      "category": "aggregators"
     },
     "TheLunarCompany--lunar#mcpx": {
       "owner": "TheLunarCompany",
@@ -117,7 +121,8 @@
         "mcp servers",
         "mcp server",
         "manage mcp"
-      ]
+      ],
+      "category": "aggregators"
     },
     "VeriTeknik--pluggedin-mcp-proxy": {
       "owner": "VeriTeknik",
@@ -140,7 +145,8 @@
         "mcp proxy",
         "comprehensive proxy",
         "mcp servers"
-      ]
+      ],
+      "category": "aggregators"
     },
     "WayStation-ai--mcp": {
       "owner": "WayStation-ai",
@@ -163,7 +169,8 @@
         "mcp server",
         "mcp seamlessly",
         "desktop mcp"
-      ]
+      ],
+      "category": "aggregators"
     },
     "YangLiangwei--PersonalizationMCP": {
       "owner": "YangLiangwei",
@@ -186,7 +193,8 @@
         "aggregators servers",
         "yangliangwei personalizationmcp",
         "mcp server"
-      ]
+      ],
+      "category": "aggregators"
     },
     "duaraghav8--MCPJungle": {
       "owner": "duaraghav8",
@@ -209,7 +217,8 @@
         "aggregators servers",
         "enterprise ai",
         "mcp server"
-      ]
+      ],
+      "category": "aggregators"
     },
     "glenngillen--mcpmcp-server": {
       "owner": "glenngillen",
@@ -232,7 +241,8 @@
         "mcp servers",
         "mcpmcp server",
         "mcp server"
-      ]
+      ],
+      "category": "aggregators"
     },
     "hamflx--imagen3-mcp": {
       "owner": "hamflx",
@@ -255,7 +265,8 @@
         "imagen3 mcp",
         "imagen api",
         "google imagen"
-      ]
+      ],
+      "category": "aggregators"
     },
     "julien040--anyquery": {
       "owner": "julien040",
@@ -278,7 +289,8 @@
         "aggregators servers",
         "anyquery query",
         "mcp server"
-      ]
+      ],
+      "category": "aggregators"
     },
     "metatool-ai--metatool-app": {
       "owner": "metatool-ai",
@@ -301,7 +313,8 @@
         "middleware mcp",
         "mcp server",
         "server metatool"
-      ]
+      ],
+      "category": "aggregators"
     },
     "mindsdb--mindsdb": {
       "owner": "mindsdb",
@@ -324,7 +337,8 @@
         "server mindsdb",
         "mindsdb connect",
         "databases mindsdb"
-      ]
+      ],
+      "category": "aggregators"
     },
     "particlefuture--MCPDiscovery": {
       "owner": "particlefuture",
@@ -347,7 +361,8 @@
         "mcp servers",
         "mcp server",
         "server particlefuture"
-      ]
+      ],
+      "category": "aggregators"
     },
     "sitbon--magg": {
       "owner": "sitbon",
@@ -370,7 +385,8 @@
         "mcp servers",
         "mcp server",
         "magg meta"
-      ]
+      ],
+      "category": "aggregators"
     },
     "sxhxliang--mcp-access-point": {
       "owner": "sxhxliang",
@@ -393,7 +409,8 @@
         "mcp server",
         "mcp access",
         "service mcp"
-      ]
+      ],
+      "category": "aggregators"
     },
     "tigranbs--mcgravity": {
       "owner": "tigranbs",
@@ -416,7 +433,8 @@
         "mcp servers",
         "mcgravity proxy",
         "mcp server"
-      ]
+      ],
+      "category": "aggregators"
     },
     "wegotdocs--open-mcp": {
       "owner": "wegotdocs",
@@ -439,7 +457,8 @@
         "mcp server",
         "api mcp",
         "aggregators servers"
-      ]
+      ],
+      "category": "aggregators"
     }
   }
 }

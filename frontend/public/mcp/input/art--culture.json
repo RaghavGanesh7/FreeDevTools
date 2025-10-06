@@ -25,7 +25,8 @@
         "mcp 3d",
         "printer mcp",
         "mcp server"
-      ]
+      ],
+      "category": "art--culture"
     },
     "PatrickPalmer--MayaMCP": {
       "owner": "PatrickPalmer",
@@ -48,7 +49,8 @@
         "autodesk maya",
         "explore art",
         "art collections"
-      ]
+      ],
+      "category": "art--culture"
     },
     "abhiemj--manim-mcp-server": {
       "owner": "abhiemj",
@@ -71,7 +73,8 @@
         "artistic cultural",
         "explore art",
         "art culture"
-      ]
+      ],
+      "category": "art--culture"
     },
     "ahujasid--blender-mcp": {
       "owner": "ahujasid",
@@ -94,7 +97,8 @@
         "explore art",
         "museum databases",
         "art collections"
-      ]
+      ],
+      "category": "art--culture"
     },
     "burningion--video-editing-mcp": {
       "owner": "burningion",
@@ -117,7 +121,8 @@
         "explore art",
         "artistic cultural",
         "art culture"
-      ]
+      ],
+      "category": "art--culture"
     },
     "cantian-ai--bazi-mcp": {
       "owner": "cantian-ai",
@@ -140,7 +145,8 @@
         "chinese astrology",
         "explore art",
         "artistic cultural"
-      ]
+      ],
+      "category": "art--culture"
     },
     "cswkim--discogs-mcp-server": {
       "owner": "cswkim",
@@ -163,7 +169,8 @@
         "explore art",
         "museum databases",
         "artistic cultural"
-      ]
+      ],
+      "category": "art--culture"
     },
     "diivi--aseprite-mcp": {
       "owner": "diivi",
@@ -186,7 +193,8 @@
         "explore art",
         "pixel art",
         "artistic cultural"
-      ]
+      ],
+      "category": "art--culture"
     },
     "djalal--quran-mcp-server": {
       "owner": "djalal",
@@ -209,7 +217,8 @@
         "ai images",
         "explore art",
         "artistic cultural"
-      ]
+      ],
+      "category": "art--culture"
     },
     "drakonkat--wizzy-mcp-tmdb": {
       "owner": "drakonkat",
@@ -232,7 +241,8 @@
         "movie database",
         "museum databases",
         "art collections"
-      ]
+      ],
+      "category": "art--culture"
     },
     "mikechao--metmuseum-mcp": {
       "owner": "mikechao",
@@ -255,7 +265,8 @@
         "museum art",
         "museum databases",
         "art collections"
-      ]
+      ],
+      "category": "art--culture"
     },
     "omni-mcp--isaac-sim-mcp": {
       "owner": "omni-mcp",
@@ -278,7 +289,8 @@
         "mcp isaac",
         "explore art",
         "omni mcp"
-      ]
+      ],
+      "category": "art--culture"
     },
     "peek-travel--mcp-intro": {
       "owner": "peek-travel",
@@ -301,7 +313,8 @@
         "explore art",
         "mcp server",
         "museum databases"
-      ]
+      ],
+      "category": "art--culture"
     },
     "r-huijts--oorlogsbronnen-mcp": {
       "owner": "r-huijts",
@@ -324,7 +337,8 @@
         "museum databases",
         "art collections",
         "heritage museum"
-      ]
+      ],
+      "category": "art--culture"
     },
     "r-huijts--rijksmuseum-mcp": {
       "owner": "r-huijts",
@@ -347,7 +361,8 @@
         "artwork search",
         "art collections",
         "museum databases"
-      ]
+      ],
+      "category": "art--culture"
     },
     "samuelgursky--davinci-resolve-mcp": {
       "owner": "samuelgursky",
@@ -370,7 +385,8 @@
         "davinci resolve",
         "explore art",
         "art collections"
-      ]
+      ],
+      "category": "art--culture"
     },
     "yuna0x0--anilist-mcp": {
       "owner": "yuna0x0",
@@ -393,7 +409,8 @@
         "api anime",
         "manga information",
         "art collections"
-      ]
+      ],
+      "category": "art--culture"
     }
   }
 }

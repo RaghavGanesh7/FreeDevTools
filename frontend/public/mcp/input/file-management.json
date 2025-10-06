@@ -25,7 +25,8 @@
         "302ai 302_file_parser_mcp",
         "302_file_parser_mcp file",
         "file handling"
-      ]
+      ],
+      "category": "file-management"
     },
     "54yyyu--school-mcp": {
       "owner": "54yyyu",
@@ -48,7 +49,8 @@
         "mcp school",
         "mcp server",
         "school mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "7gugu--zip-mcp": {
       "owner": "7gugu",
@@ -71,7 +73,8 @@
         "zip compression",
         "zip files",
         "compression server"
-      ]
+      ],
+      "category": "file-management"
     },
     "Albiemark--dbx-mcp-server": {
       "owner": "Albiemark",
@@ -94,7 +97,8 @@
         "utilizing dropbox",
         "dropbox applications",
         "integrates dropbox"
-      ]
+      ],
+      "category": "file-management"
     },
     "AlexanderVTr--cursor-mcp-file-organizer": {
       "owner": "AlexanderVTr",
@@ -117,7 +121,8 @@
         "file organizer",
         "file management",
         "organizes files"
-      ]
+      ],
+      "category": "file-management"
     },
     "DMontgomery40--meta-mcp-server": {
       "owner": "DMontgomery40",
@@ -140,7 +145,8 @@
         "mcp server",
         "mcp servers",
         "mcp tools"
-      ]
+      ],
+      "category": "file-management"
     },
     "EyevinnOSC--mcp-server": {
       "owner": "EyevinnOSC",
@@ -163,7 +169,8 @@
         "eyevinnosc mcp",
         "mcp server",
         "remote mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "FutureUnreal--mcp-pdf2md": {
       "owner": "FutureUnreal",
@@ -186,7 +193,8 @@
         "pdf files",
         "mcp pdf2md",
         "pdf2md converts"
-      ]
+      ],
+      "category": "file-management"
     },
     "Gertje823--Vinted-Scraper": {
       "owner": "Gertje823",
@@ -209,7 +217,8 @@
         "data downloads",
         "vinted scraper",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "GobinFan--python-mcp-server-client": {
       "owner": "GobinFan",
@@ -232,7 +241,8 @@
         "gobinfan python",
         "connects ai",
         "python mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "GonTwVn--GonMCPtool": {
       "owner": "GonTwVn",
@@ -255,7 +265,8 @@
         "gontwvn gonmcptool",
         "gonmcptool collection",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "GongRzhe--terminal-controller-mcp": {
       "owner": "GongRzhe",
@@ -278,7 +289,8 @@
         "terminal commands",
         "command history",
         "commands securely"
-      ]
+      ],
+      "category": "file-management"
     },
     "GrandMasterK414--mcp-servers": {
       "owner": "GrandMasterK414",
@@ -301,7 +313,8 @@
         "file management",
         "file ai",
         "mcp servers"
-      ]
+      ],
+      "category": "file-management"
     },
     "IA-Programming--mcp-images": {
       "owner": "IA-Programming",
@@ -324,7 +337,8 @@
         "mcp images",
         "process images",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "InhiblabCore--mcp-image-compression": {
       "owner": "InhiblabCore",
@@ -347,7 +361,8 @@
         "image compression",
         "images compressing",
         "inhiblabcore mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "JoshuaRileyDev--mac-apps-launcher": {
       "owner": "JoshuaRileyDev",
@@ -370,7 +385,8 @@
         "applications macos",
         "mac apps",
         "launcher mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "Kush36Agrawal--Video_Editor_MCP": {
       "owner": "Kush36Agrawal",
@@ -393,7 +409,8 @@
         "kush36agrawal video_editor_mcp",
         "video_editor_mcp leverage",
         "ffmpeg video"
-      ]
+      ],
+      "category": "file-management"
     },
     "LaubPlusCo--mcp-webdav-server": {
       "owner": "LaubPlusCo",
@@ -416,7 +433,8 @@
         "mcp webdav",
         "webdav server",
         "webdav file"
-      ]
+      ],
+      "category": "file-management"
     },
     "Legaltime--filesystem": {
       "owner": "Legaltime",
@@ -439,7 +457,8 @@
         "file management",
         "filesystem manage",
         "legaltime filesystem"
-      ]
+      ],
+      "category": "file-management"
     },
     "Leghis--smart-e2b": {
       "owner": "Leghis",
@@ -462,7 +481,8 @@
         "smart e2b",
         "file management",
         "securely cloud"
-      ]
+      ],
+      "category": "file-management"
     },
     "MaheshDoiphode--mcp-cline-project-content-server": {
       "owner": "MaheshDoiphode",
@@ -485,7 +505,8 @@
         "projects stored",
         "mcp cline",
         "project files"
-      ]
+      ],
+      "category": "file-management"
     },
     "MartinSchlott--BetterMCPFileServer": {
       "owner": "MartinSchlott",
@@ -508,7 +529,8 @@
         "file management",
         "bettermcpfileserver privacy",
         "martinschlott bettermcpfileserver"
-      ]
+      ],
+      "category": "file-management"
     },
     "Momo707577045--tinypng-script-with-cache": {
       "owner": "Momo707577045",
@@ -531,7 +553,8 @@
         "tinypng script",
         "momo707577045 tinypng",
         "compress images"
-      ]
+      ],
+      "category": "file-management"
     },
     "MrGNSS--ClaudeDesktopCommander": {
       "owner": "MrGNSS",
@@ -554,7 +577,8 @@
         "file management",
         "commands manage",
         "file editing"
-      ]
+      ],
+      "category": "file-management"
     },
     "OpenWorkspace-o1--aws-ow-s3-mcp": {
       "owner": "OpenWorkspace-o1",
@@ -577,7 +601,8 @@
         "manage s3",
         "aws s3",
         "s3 buckets"
-      ]
+      ],
+      "category": "file-management"
     },
     "Sachin-Bhat--stela-mcp": {
       "owner": "Sachin-Bhat",
@@ -600,7 +625,8 @@
         "file management",
         "mcp provides",
         "stela mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "Siddhant-K-code--memory-journal-mcp-server": {
       "owner": "Siddhant-K-code",
@@ -623,7 +649,8 @@
         "photos library",
         "analyze photos",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "Simon-Kansara--ableton-live-mcp-server": {
       "owner": "Simon-Kansara",
@@ -646,7 +673,8 @@
         "ableton live",
         "mcp server",
         "live mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "StepanCooleague--file-finder-mcp": {
       "owner": "StepanCooleague",
@@ -669,7 +697,8 @@
         "file metadata",
         "file finder",
         "stepancooleague file"
-      ]
+      ],
+      "category": "file-management"
     },
     "Tencent--cos-mcp": {
       "owner": "Tencent",
@@ -692,7 +721,8 @@
         "storage cos",
         "file management",
         "tencent cloud"
-      ]
+      ],
+      "category": "file-management"
     },
     "VadimNastoyashchy--json-mcp": {
       "owner": "VadimNastoyashchy",
@@ -715,7 +745,8 @@
         "json files",
         "automate json",
         "vadimnastoyashchy json"
-      ]
+      ],
+      "category": "file-management"
     },
     "Wayazi--mcp_file_system": {
       "owner": "Wayazi",
@@ -738,7 +769,8 @@
         "mcp_file_system facilitates",
         "wayazi mcp_file_system",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "Wildebeest--mcp_pdf_forms": {
       "owner": "Wildebeest",
@@ -761,7 +793,8 @@
         "pdf forms",
         "pdf workflows",
         "mcp_pdf_forms manipulate"
-      ]
+      ],
+      "category": "file-management"
     },
     "Xuanwo--mcp-server-opendal": {
       "owner": "Xuanwo",
@@ -784,7 +817,8 @@
         "file management",
         "server opendal",
         "opendal provides"
-      ]
+      ],
+      "category": "file-management"
     },
     "YangSen-qn--qiniu-mcp-server": {
       "owner": "YangSen-qn",
@@ -807,7 +841,8 @@
         "qiniu cloud",
         "cloud storage",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "YingHe-1--MyFirstMcpServer": {
       "owner": "YingHe-1",
@@ -830,7 +865,8 @@
         "manage txt",
         "file management",
         "myfirstmcpserver manage"
-      ]
+      ],
+      "category": "file-management"
     },
     "YothisisTroy--Filesys": {
       "owner": "YothisisTroy",
@@ -853,7 +889,8 @@
         "filesys facilitates",
         "files ai",
         "yothisistroy filesys"
-      ]
+      ],
+      "category": "file-management"
     },
     "ZbigniewTomanek--my-mcp-server": {
       "owner": "ZbigniewTomanek",
@@ -876,7 +913,8 @@
         "file management",
         "zbigniewtomanek mcp",
         "mcp server"
-      ]
+      ],
+      "category": "file-management"
     },
     "ZizoTheDev--ffmpeg-mcp": {
       "owner": "ZizoTheDev",
@@ -899,7 +937,8 @@
         "ffmpeg media",
         "utilizes ffmpeg",
         "zizothedev ffmpeg"
-      ]
+      ],
+      "category": "file-management"
     },
     "adamanz--mcp-video-converter": {
       "owner": "adamanz",
@@ -922,7 +961,8 @@
         "convert video",
         "video converter",
         "check ffmpeg"
-      ]
+      ],
+      "category": "file-management"
     },
     "adeze--raindrop-mcp": {
       "owner": "adeze",
@@ -945,7 +985,8 @@
         "raindrop mcp",
         "raindrop io",
         "adeze raindrop"
-      ]
+      ],
+      "category": "file-management"
     },
     "ai-yliu--filesystem-mcp-server": {
       "owner": "ai-yliu",
@@ -968,7 +1009,8 @@
         "filesystem mcp",
         "yliu filesystem",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "ai-zerolab--yourware-mcp": {
       "owner": "ai-zerolab",
@@ -991,7 +1033,8 @@
         "file management",
         "ai zerolab",
         "upload manage"
-      ]
+      ],
+      "category": "file-management"
     },
     "aigo666--mcp-framework": {
       "owner": "aigo666",
@@ -1014,7 +1057,8 @@
         "mcp framework",
         "aigo666 mcp",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "aiyogg--tinypng-mcp-server": {
       "owner": "aiyogg",
@@ -1037,7 +1081,8 @@
         "compress images",
         "tinypng mcp",
         "using tinypng"
-      ]
+      ],
+      "category": "file-management"
     },
     "alejandroBallesterosC--document-edit-mcp": {
       "owner": "alejandroBallesterosC",
@@ -1060,7 +1105,8 @@
         "document edit",
         "facilitates document",
         "document manipulation"
-      ]
+      ],
+      "category": "file-management"
     },
     "alexbakers--mcp-ipfs": {
       "owner": "alexbakers",
@@ -1083,7 +1129,8 @@
         "ipfs manage",
         "data ipfs",
         "mcp ipfs"
-      ]
+      ],
+      "category": "file-management"
     },
     "alxspiker--mcp-server-ftp": {
       "owner": "alxspiker",
@@ -1106,7 +1153,8 @@
         "server ftp",
         "ftp servers",
         "interact ftp"
-      ]
+      ],
+      "category": "file-management"
     },
     "amgadabdelhafez--dbx-mcp-server": {
       "owner": "amgadabdelhafez",
@@ -1129,7 +1177,8 @@
         "dropbox managing",
         "essential dropbox",
         "dropbox functionalities"
-      ]
+      ],
+      "category": "file-management"
     },
     "andredezzy--deep-directory-tree-mcp": {
       "owner": "andredezzy",
@@ -1152,7 +1201,8 @@
         "deep directory",
         "directory tree",
         "directory structures"
-      ]
+      ],
+      "category": "file-management"
     },
     "arathald--mcp-editor": {
       "owner": "arathald",
@@ -1175,7 +1225,8 @@
         "mcp editor",
         "typescript mcp",
         "edit files"
-      ]
+      ],
+      "category": "file-management"
     },
     "ashgw--s3-mcp": {
       "owner": "ashgw",
@@ -1198,7 +1249,8 @@
         "manage s3",
         "s3 mcp",
         "s3 buckets"
-      ]
+      ],
+      "category": "file-management"
     },
     "aws-samples--sample-mcp-server-s3": {
       "owner": "aws-samples",
@@ -1221,7 +1273,8 @@
         "s3 retrieve",
         "aws s3",
         "management aws"
-      ]
+      ],
+      "category": "file-management"
     },
     "babelcloud--gbox": {
       "owner": "babelcloud",
@@ -1244,7 +1297,8 @@
         "babelcloud gbox",
         "file management",
         "gbox self"
-      ]
+      ],
+      "category": "file-management"
     },
     "beordle--tinypng-mcp-server": {
       "owner": "beordle",
@@ -1267,7 +1321,8 @@
         "compress images",
         "tinypng mcp",
         "beordle tinypng"
-      ]
+      ],
+      "category": "file-management"
     },
     "berlinbra--binary-reader-mcp": {
       "owner": "berlinbra",
@@ -1290,7 +1345,8 @@
         "binary files",
         "berlinbra binary",
         "binary formats"
-      ]
+      ],
+      "category": "file-management"
     },
     "bhouston--mcp-server-text-editor": {
       "owner": "bhouston",
@@ -1313,7 +1369,8 @@
         "file management",
         "text editor",
         "text files"
-      ]
+      ],
+      "category": "file-management"
     },
     "bitscorp-mcp--mcp-ffmpeg": {
       "owner": "bitscorp-mcp",
@@ -1336,7 +1393,8 @@
         "mcp ffmpeg",
         "video files",
         "video processing"
-      ]
+      ],
+      "category": "file-management"
     },
     "box-community--mcp-server-box": {
       "owner": "box-community",
@@ -1359,7 +1417,8 @@
         "mcp server",
         "file management",
         "process box"
-      ]
+      ],
+      "category": "file-management"
     },
     "bsmi021--mcp-file-context-server": {
       "owner": "bsmi021",
@@ -1382,7 +1441,8 @@
         "file management",
         "file context",
         "facilitates file"
-      ]
+      ],
+      "category": "file-management"
     },
     "bsmi021--mcp-file-operations-server": {
       "owner": "bsmi021",
@@ -1405,7 +1465,8 @@
         "file management",
         "management bsmi021",
         "bsmi021 mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "bsmi021--mcp-filesystem-server": {
       "owner": "bsmi021",
@@ -1428,7 +1489,8 @@
         "mcp filesystem",
         "file management",
         "filesystem server"
-      ]
+      ],
+      "category": "file-management"
     },
     "bunasQ--fs": {
       "owner": "bunasQ",
@@ -1451,7 +1513,8 @@
         "file management",
         "file systems",
         "bunasq fs"
-      ]
+      ],
+      "category": "file-management"
     },
     "burningion--video-editing-mcp": {
       "owner": "burningion",
@@ -1474,7 +1537,8 @@
         "video editing",
         "videos using",
         "generate videos"
-      ]
+      ],
+      "category": "file-management"
     },
     "cablate--mcp-doc-forge": {
       "owner": "cablate",
@@ -1497,7 +1561,8 @@
         "document processing",
         "document conversion",
         "doc forge"
-      ]
+      ],
+      "category": "file-management"
     },
     "calebmwelsh--file-system-mcp-server": {
       "owner": "calebmwelsh",
@@ -1520,7 +1585,8 @@
         "file management",
         "manage files",
         "file mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "coderjun--shaka-packager-mcp-server": {
       "owner": "coderjun",
@@ -1543,7 +1609,8 @@
         "shaka packager",
         "packager mcp",
         "coderjun shaka"
-      ]
+      ],
+      "category": "file-management"
     },
     "codyde--mcp-file-tool": {
       "owner": "codyde",
@@ -1566,7 +1633,8 @@
         "file tool",
         "mcp file",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "convertguru--file-convert-mcp": {
       "owner": "convertguru",
@@ -1589,7 +1657,8 @@
         "converts files",
         "file convert",
         "convertguru file"
-      ]
+      ],
+      "category": "file-management"
     },
     "crawlab-team--crawlab-mcp": {
       "owner": "crawlab-team",
@@ -1612,7 +1681,8 @@
         "management crawlab",
         "interact crawlab",
         "crawlab mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "cyanheads--filesystem-mcp-server": {
       "owner": "cyanheads",
@@ -1635,7 +1705,8 @@
         "cyanheads filesystem",
         "filesystem mcp",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "cyanheads--obsidian-mcp-server": {
       "owner": "cyanheads",
@@ -1658,7 +1729,8 @@
         "llms obsidian",
         "obsidian vaults",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "dandeliongold--mcp-decent-sampler-drums": {
       "owner": "dandeliongold",
@@ -1681,7 +1753,8 @@
         "decentsampler drum",
         "sampler drums",
         "decent sampler"
-      ]
+      ],
+      "category": "file-management"
     },
     "danielpodrazka--editor-mcp": {
       "owner": "danielpodrazka",
@@ -1704,7 +1777,8 @@
         "danielpodrazka editor",
         "editor mcp",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "danielsuguimoto--readonly-filesystem-mcp": {
       "owner": "danielsuguimoto",
@@ -1727,7 +1801,8 @@
         "filesystem mcp",
         "readonly filesystem",
         "access filesystem"
-      ]
+      ],
+      "category": "file-management"
     },
     "deathrashed--filesystem-structures": {
       "owner": "deathrashed",
@@ -1750,7 +1825,8 @@
         "deathrashed filesystem",
         "filesystem organization",
         "filesystem structures"
-      ]
+      ],
+      "category": "file-management"
     },
     "delorenj--super-win-cli-mcp-server": {
       "owner": "delorenj",
@@ -1773,7 +1849,8 @@
         "windows cli",
         "win cli",
         "cli mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "diegofornalha--mcp-server-tess": {
       "owner": "diegofornalha",
@@ -1796,7 +1873,8 @@
         "workflows tess",
         "server tess",
         "tess api"
-      ]
+      ],
+      "category": "file-management"
     },
     "dinghuazhou--sample-mcp-server-tos": {
       "owner": "dinghuazhou",
@@ -1819,7 +1897,8 @@
         "file management",
         "mcp server",
         "data volcengine"
-      ]
+      ],
+      "category": "file-management"
     },
     "dinh-ai-system-exe-com-vn--file-system-mcp-sse": {
       "owner": "dinh-ai-system-exe-com-vn",
@@ -1842,7 +1921,8 @@
         "file management",
         "filesystem operations",
         "efficient filesystem"
-      ]
+      ],
+      "category": "file-management"
     },
     "dvladimirov--MCP": {
       "owner": "dvladimirov",
@@ -1865,7 +1945,8 @@
         "services git",
         "file management",
         "openai services"
-      ]
+      ],
+      "category": "file-management"
     },
     "edupoli--smileapi-mcp": {
       "owner": "edupoli",
@@ -1888,7 +1969,8 @@
         "applications smileapi",
         "smileapi facilitating",
         "integration messaging"
-      ]
+      ],
+      "category": "file-management"
     },
     "erikhoward--adls-mcp-server": {
       "owner": "erikhoward",
@@ -1911,7 +1993,8 @@
         "storage gen2",
         "lake storage",
         "data lake"
-      ]
+      ],
+      "category": "file-management"
     },
     "essenecrucix-netizen--jarvis": {
       "owner": "essenecrucix-netizen",
@@ -1934,7 +2017,8 @@
         "coding assistant",
         "file management",
         "netizen jarvis"
-      ]
+      ],
+      "category": "file-management"
     },
     "exoticknight--mcp-file-merger": {
       "owner": "exoticknight",
@@ -1957,7 +2041,8 @@
         "file merger",
         "file management",
         "mcp file"
-      ]
+      ],
+      "category": "file-management"
     },
     "falahgs--mcp-3d-style-cartoon-gen-server": {
       "owner": "falahgs",
@@ -1980,7 +2065,8 @@
         "mcp 3d",
         "file management",
         "falahgs mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "famano--mcp-server-office": {
       "owner": "famano",
@@ -2003,7 +2089,8 @@
         "word docx",
         "docx files",
         "microsoft word"
-      ]
+      ],
+      "category": "file-management"
     },
     "funchs--ifly-spark-agent-mcp": {
       "owner": "funchs",
@@ -2026,7 +2113,8 @@
         "sparkagent platform",
         "spark agent",
         "iflytek sparkagent"
-      ]
+      ],
+      "category": "file-management"
     },
     "gabrielmaialva33--mcp-filesystem": {
       "owner": "gabrielmaialva33",
@@ -2049,7 +2137,8 @@
         "mcp filesystem",
         "secure filesystem",
         "filesystem access"
-      ]
+      ],
+      "category": "file-management"
     },
     "gannonh--firebase-mcp": {
       "owner": "gannonh",
@@ -2072,7 +2161,8 @@
         "firebase mcp",
         "gannonh firebase",
         "integrate firebase"
-      ]
+      ],
+      "category": "file-management"
     },
     "gianlucamazza--mcp_python_toolbox": {
       "owner": "gianlucamazza",
@@ -2095,7 +2185,8 @@
         "mcp_python_toolbox facilitates",
         "gianlucamazza mcp_python_toolbox",
         "python projects"
-      ]
+      ],
+      "category": "file-management"
     },
     "giorgos3215--ultimate-cursor-mcp": {
       "owner": "giorgos3215",
@@ -2118,7 +2209,8 @@
         "file management",
         "cursor mcp",
         "supabase database"
-      ]
+      ],
+      "category": "file-management"
     },
     "git-jiadong--wechatDataBackup": {
       "owner": "git-jiadong",
@@ -2141,7 +2233,8 @@
         "jiadong wechatdatabackup",
         "wechatdatabackup export",
         "files wechat"
-      ]
+      ],
+      "category": "file-management"
     },
     "gregkonush--mcp-obsidian": {
       "owner": "gregkonush",
@@ -2164,7 +2257,8 @@
         "mcp obsidian",
         "obsidian manage",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "hanweg--mcp-pdf-tools": {
       "owner": "hanweg",
@@ -2187,7 +2281,8 @@
         "pdf tools",
         "pdfs extracting",
         "pdfs based"
-      ]
+      ],
+      "category": "file-management"
     },
     "hexitex--MCP-Backup-Server": {
       "owner": "hexitex",
@@ -2210,7 +2305,8 @@
         "mcp backup",
         "provides backup",
         "backup restoration"
-      ]
+      ],
+      "category": "file-management"
     },
     "hoonoh57--Append-Data-to-JSON-File-and-Display-JSON-data-to-HTML-Table-using-Ajax-Jquery-getJSON-method": {
       "owner": "hoonoh57",
@@ -2233,7 +2329,8 @@
         "json file",
         "data json",
         "json data"
-      ]
+      ],
+      "category": "file-management"
     },
     "i-tozer--excalidraw-mcp": {
       "owner": "i-tozer",
@@ -2256,7 +2353,8 @@
         "excalidraw drawings",
         "manage excalidraw",
         "tozer excalidraw"
-      ]
+      ],
+      "category": "file-management"
     },
     "intsig-textin--textin-mcp": {
       "owner": "intsig-textin",
@@ -2279,7 +2377,8 @@
         "ocr document",
         "intsig textin",
         "document conversion"
-      ]
+      ],
+      "category": "file-management"
     },
     "jbchouinard--mcp-document-reader": {
       "owner": "jbchouinard",
@@ -2302,7 +2401,8 @@
         "document reader",
         "epub documents",
         "pdf epub"
-      ]
+      ],
+      "category": "file-management"
     },
     "jettyio--mlcbakery": {
       "owner": "jettyio",
@@ -2325,7 +2425,8 @@
         "mlc bakery",
         "mlcbakery provides",
         "access mlc"
-      ]
+      ],
+      "category": "file-management"
     },
     "jizihua1118--linux-remote-mcp": {
       "owner": "jizihua1118",
@@ -2348,7 +2449,8 @@
         "remote mcp",
         "jizihua1118 linux",
         "servers python"
-      ]
+      ],
+      "category": "file-management"
     },
     "jmh108--md-webcrawl-mcp": {
       "owner": "jmh108",
@@ -2371,7 +2473,8 @@
         "md webcrawl",
         "webcrawl mcp",
         "markdown files"
-      ]
+      ],
+      "category": "file-management"
     },
     "joshrutkowski--applescript-mcp": {
       "owner": "joshrutkowski",
@@ -2394,7 +2497,8 @@
         "applescript mcp",
         "macos applescript",
         "applescript control"
-      ]
+      ],
+      "category": "file-management"
     },
     "kmexnx--excel-to-pdf-mcp": {
       "owner": "kmexnx",
@@ -2417,7 +2521,8 @@
         "kmexnx excel",
         "management kmexnx",
         "excel apple"
-      ]
+      ],
+      "category": "file-management"
     },
     "kshern--image-tools-mcp": {
       "owner": "kshern",
@@ -2440,7 +2545,8 @@
         "image tools",
         "convert images",
         "kshern image"
-      ]
+      ],
+      "category": "file-management"
     },
     "kvas-it--mcp-server-fs": {
       "owner": "kvas-it",
@@ -2463,7 +2569,8 @@
         "file management",
         "kvas mcp",
         "management kvas"
-      ]
+      ],
+      "category": "file-management"
     },
     "laosu888--tupianyasuo": {
       "owner": "laosu888",
@@ -2486,7 +2593,8 @@
         "image compression",
         "compression tool",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "lishenxydlgzs--simple-files-vectorstore": {
       "owner": "lishenxydlgzs",
@@ -2509,7 +2617,8 @@
         "files vectorstore",
         "vector store",
         "vectorstore creates"
-      ]
+      ],
+      "category": "file-management"
     },
     "liuyazui--base64_server": {
       "owner": "liuyazui",
@@ -2532,7 +2641,8 @@
         "liuyazui base64_server",
         "base64 encoding",
         "base64_server provides"
-      ]
+      ],
+      "category": "file-management"
     },
     "lpsDevelopers--LPS-MCP": {
       "owner": "lpsDevelopers",
@@ -2555,7 +2665,8 @@
         "management lpsdevelopers",
         "file management",
         "lpsdevelopers lps"
-      ]
+      ],
+      "category": "file-management"
     },
     "lroolle--openai-agents-mcp-server": {
       "owner": "lroolle",
@@ -2578,7 +2689,8 @@
         "openai agents",
         "connects openai",
         "agents mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "m-ahmed-elbeskeri--UltimateCoderMCP": {
       "owner": "m-ahmed-elbeskeri",
@@ -2601,7 +2713,8 @@
         "ultimatecodermcp automate",
         "workflows cloud",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "mamertofabian--mcp-everything-search": {
       "owner": "mamertofabian",
@@ -2624,7 +2737,8 @@
         "file searching",
         "filename search",
         "search macos"
-      ]
+      ],
+      "category": "file-management"
     },
     "mark3labs--mcp-filesystem-server": {
       "owner": "mark3labs",
@@ -2647,7 +2761,8 @@
         "mcp filesystem",
         "mark3labs mcp",
         "mcp supports"
-      ]
+      ],
+      "category": "file-management"
     },
     "mattlemmone--file-mcp": {
       "owner": "mattlemmone",
@@ -2670,7 +2785,8 @@
         "expo development",
         "react native",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -2693,7 +2809,8 @@
         "protocol mcp",
         "context protocol",
         "modelcontextprotocol servers"
-      ]
+      ],
+      "category": "file-management"
     },
     "nathanonn--mcp-url-fetcher": {
       "owner": "nathanonn",
@@ -2716,7 +2833,8 @@
         "mcp url",
         "mcp server",
         "url formats"
-      ]
+      ],
+      "category": "file-management"
     },
     "newbeb--clipboard-mcp": {
       "owner": "newbeb",
@@ -2739,7 +2857,8 @@
         "macos clipboard",
         "clipboard mcp",
         "newbeb clipboard"
-      ]
+      ],
+      "category": "file-management"
     },
     "ngoiyaeric--mcp-filesystem-server": {
       "owner": "ngoiyaeric",
@@ -2762,7 +2881,8 @@
         "file management",
         "mcp filesystem",
         "manage files"
-      ]
+      ],
+      "category": "file-management"
     },
     "nibzard--daytona-mcp-interpreter": {
       "owner": "nibzard",
@@ -2785,7 +2905,8 @@
         "mcp interpreter",
         "executes python",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "oakenai--mcp-edit-file-lines": {
       "owner": "oakenai",
@@ -2808,7 +2929,8 @@
         "edit file",
         "file lines",
         "edits text"
-      ]
+      ],
+      "category": "file-management"
     },
     "onigeya--siyuan-mcp-server": {
       "owner": "onigeya",
@@ -2831,7 +2953,8 @@
         "siyuan note",
         "file management",
         "siyuan mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "owayo--mcp-src-tree": {
       "owner": "owayo",
@@ -2854,7 +2977,8 @@
         "src tree",
         "file tree",
         "directory src"
-      ]
+      ],
+      "category": "file-management"
     },
     "pskill9--website-downloader": {
       "owner": "pskill9",
@@ -2877,7 +3001,8 @@
         "website downloader",
         "pskill9 website",
         "management pskill9"
-      ]
+      ],
+      "category": "file-management"
     },
     "qing-turnaround--markitdown_mcp_server": {
       "owner": "qing-turnaround",
@@ -2900,7 +3025,8 @@
         "formats markdown",
         "markitdown utility",
         "markdown format"
-      ]
+      ],
+      "category": "file-management"
     },
     "qpd-v--mcp-delete": {
       "owner": "qpd-v",
@@ -2923,7 +3049,8 @@
         "file deletion",
         "mcp delete",
         "file removal"
-      ]
+      ],
+      "category": "file-management"
     },
     "qpd-v--mcp-image-downloader": {
       "owner": "qpd-v",
@@ -2946,7 +3073,8 @@
         "image downloader",
         "downloading images",
         "mcp image"
-      ]
+      ],
+      "category": "file-management"
     },
     "rishipradeep-think41--google-drive-mcp": {
       "owner": "rishipradeep-think41",
@@ -2969,7 +3097,8 @@
         "google drive",
         "drive mcp",
         "mcp facilitate"
-      ]
+      ],
+      "category": "file-management"
     },
     "safurrier--mcp-filesystem": {
       "owner": "safurrier",
@@ -2992,7 +3121,8 @@
         "file management",
         "mcp filesystem",
         "files securely"
-      ]
+      ],
+      "category": "file-management"
     },
     "samuelgursky--davinci-resolve-mcp": {
       "owner": "samuelgursky",
@@ -3015,7 +3145,8 @@
         "davinci resolve",
         "assistants davinci",
         "ai coding"
-      ]
+      ],
+      "category": "file-management"
     },
     "seanivore--mcp-file-preview": {
       "owner": "seanivore",
@@ -3038,7 +3169,8 @@
         "file preview",
         "html files",
         "previewing analyzing"
-      ]
+      ],
+      "category": "file-management"
     },
     "seekrays--seekchat": {
       "owner": "seekrays",
@@ -3061,7 +3193,8 @@
         "ai desktop",
         "desktop assistant",
         "seekchat ai"
-      ]
+      ],
+      "category": "file-management"
     },
     "sengokudaikon--aider-mcp-server": {
       "owner": "sengokudaikon",
@@ -3084,7 +3217,8 @@
         "file management",
         "aider mcp",
         "integrated git"
-      ]
+      ],
+      "category": "file-management"
     },
     "sergey-fintech--MCP": {
       "owner": "sergey-fintech",
@@ -3107,7 +3241,8 @@
         "file retrieval",
         "search files",
         "mcp search"
-      ]
+      ],
+      "category": "file-management"
     },
     "shaike1--mcp-server-ssh": {
       "owner": "shaike1",
@@ -3130,7 +3265,8 @@
         "mcp server",
         "ssh protocol",
         "shaike1 mcp"
-      ]
+      ],
+      "category": "file-management"
     },
     "sigoden--dufs": {
       "owner": "sigoden",
@@ -3153,7 +3289,8 @@
         "dufs utility",
         "file management",
         "file server"
-      ]
+      ],
+      "category": "file-management"
     },
     "sirusb--samtools_mcp": {
       "owner": "sirusb",
@@ -3176,7 +3313,8 @@
         "genomic files",
         "cram genomic",
         "samtools_mcp provides"
-      ]
+      ],
+      "category": "file-management"
     },
     "skydeckai--skydeckai-code": {
       "owner": "skydeckai",
@@ -3199,7 +3337,8 @@
         "skydeckai code",
         "management skydeckai",
         "skydeckai skydeckai"
-      ]
+      ],
+      "category": "file-management"
     },
     "slamdunkasaur--ru-heritage": {
       "owner": "slamdunkasaur",
@@ -3222,7 +3361,8 @@
         "slamdunkasaur ru",
         "ru heritage",
         "heritage ru"
-      ]
+      ],
+      "category": "file-management"
     },
     "stippi--code-assistant": {
       "owner": "stippi",
@@ -3245,7 +3385,8 @@
         "code assistant",
         "stippi code",
         "exploring codebases"
-      ]
+      ],
+      "category": "file-management"
     },
     "sunjoonkim--fclones": {
       "owner": "sunjoonkim",
@@ -3268,7 +3409,8 @@
         "duplicate files",
         "sunjoonkim fclones",
         "remove duplicate"
-      ]
+      ],
+      "category": "file-management"
     },
     "sylphxltd--filesystem-mcp": {
       "owner": "sylphxltd",
@@ -3291,7 +3433,8 @@
         "sylphxltd filesystem",
         "filesystem mcp",
         "filesystem tools"
-      ]
+      ],
+      "category": "file-management"
     },
     "taha-ghadirian--FileManagerMcp": {
       "owner": "taha-ghadirian",
@@ -3314,7 +3457,8 @@
         "ghadirian filemanagermcp",
         "filemanagermcp manage",
         "ftp files"
-      ]
+      ],
+      "category": "file-management"
     },
     "taxihabbel--parsemypdf": {
       "owner": "taxihabbel",
@@ -3337,7 +3481,8 @@
         "parsemypdf extract",
         "taxihabbel parsemypdf",
         "pdf documents"
-      ]
+      ],
+      "category": "file-management"
     },
     "trafflux--pdf-reader-mcp": {
       "owner": "trafflux",
@@ -3360,7 +3505,8 @@
         "pdf reader",
         "trafflux pdf",
         "pdf formats"
-      ]
+      ],
+      "category": "file-management"
     },
     "tuki0918--eagle-mcp-server": {
       "owner": "tuki0918",
@@ -3383,7 +3529,8 @@
         "eagle mcp",
         "integrates eagle",
         "mcp server"
-      ]
+      ],
+      "category": "file-management"
     },
     "tuskermanshu--compress-mcp-server": {
       "owner": "tuskermanshu",
@@ -3406,7 +3553,8 @@
         "compress mcp",
         "file compression",
         "formats gzip"
-      ]
+      ],
+      "category": "file-management"
     },
     "video-creator--ffmpeg-mcp": {
       "owner": "video-creator",
@@ -3429,7 +3577,8 @@
         "ffmpeg mcp",
         "ffmpeg provides",
         "creator ffmpeg"
-      ]
+      ],
+      "category": "file-management"
     },
     "vini1994--mcp": {
       "owner": "vini1994",
@@ -3452,7 +3601,8 @@
         "remote ftp",
         "ftp sftp",
         "files remote"
-      ]
+      ],
+      "category": "file-management"
     },
     "w-jeon--mcp-framework": {
       "owner": "w-jeon",
@@ -3475,7 +3625,8 @@
         "file management",
         "mcp framework",
         "file handling"
-      ]
+      ],
+      "category": "file-management"
     },
     "w-jeon--mcp-gdrive": {
       "owner": "w-jeon",
@@ -3498,7 +3649,8 @@
         "google drive",
         "gdrive integrates",
         "mcp gdrive"
-      ]
+      ],
+      "category": "file-management"
     },
     "webconsulting--mcp-server-wsl-filesystem": {
       "owner": "webconsulting",
@@ -3521,7 +3673,8 @@
         "wsl filesystem",
         "server wsl",
         "linux wsl"
-      ]
+      ],
+      "category": "file-management"
     },
     "wesnermichel--nexus-mcp-claude-desktop-server": {
       "owner": "wesnermichel",
@@ -3544,7 +3697,8 @@
         "desktop vscode",
         "vscode allowing",
         "file management"
-      ]
+      ],
+      "category": "file-management"
     },
     "wonderwhy-er--DesktopCommanderMCP": {
       "owner": "wonderwhy-er",
@@ -3567,7 +3721,8 @@
         "file management",
         "file editing",
         "commands manage"
-      ]
+      ],
+      "category": "file-management"
     },
     "xoy8n--webp-converter": {
       "owner": "xoy8n",
@@ -3590,7 +3745,8 @@
         "webp converter",
         "jpeg webp",
         "webp format"
-      ]
+      ],
+      "category": "file-management"
     },
     "xraywu--mcp-pdf-extraction-server": {
       "owner": "xraywu",
@@ -3613,7 +3769,8 @@
         "pdf extraction",
         "text pdf",
         "pdf files"
-      ]
+      ],
+      "category": "file-management"
     },
     "yzfly--mcp-excel-server": {
       "owner": "yzfly",
@@ -3636,7 +3793,8 @@
         "excel server",
         "excel files",
         "mcp excel"
-      ]
+      ],
+      "category": "file-management"
     },
     "zanetworker--mcp-docling": {
       "owner": "zanetworker",
@@ -3659,7 +3817,8 @@
         "document processing",
         "documents markdown",
         "convert documents"
-      ]
+      ],
+      "category": "file-management"
     },
     "zcaceres--markdownify-mcp": {
       "owner": "zcaceres",
@@ -3682,7 +3841,8 @@
         "markdownify mcp",
         "zcaceres markdownify",
         "content markdown"
-      ]
+      ],
+      "category": "file-management"
     },
     "zhanyiwp--DesktopCommanderMCP": {
       "owner": "zhanyiwp",
@@ -3705,7 +3865,8 @@
         "zhanyiwp desktopcommandermcp",
         "file management",
         "commands manage"
-      ]
+      ],
+      "category": "file-management"
     },
     "zhiwei5576--excel-mcp-server": {
       "owner": "zhiwei5576",
@@ -3728,7 +3889,8 @@
         "excel files",
         "zhiwei5576 excel",
         "worksheets exporting"
-      ]
+      ],
+      "category": "file-management"
     },
     "zhixiaoqiang--desktop-image-manager-mcp": {
       "owner": "zhixiaoqiang",
@@ -3751,7 +3913,8 @@
         "image manager",
         "image management",
         "desktop images"
-      ]
+      ],
+      "category": "file-management"
     },
     "zxfgds--mcp-toolkit": {
       "owner": "zxfgds",
@@ -3774,7 +3937,8 @@
         "management zxfgds",
         "mcp toolkit",
         "zxfgds mcp"
-      ]
+      ],
+      "category": "file-management"
     }
   }
 }

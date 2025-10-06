@@ -25,7 +25,8 @@
         "zip compression",
         "zip files",
         "zip mcp"
-      ]
+      ],
+      "category": "data-labeling-and-annotation"
     },
     "algorithm07-ai--TextGuardAI": {
       "owner": "algorithm07-ai",
@@ -48,7 +49,8 @@
         "ai textguardai",
         "spam text",
         "textguardai classifies"
-      ]
+      ],
+      "category": "data-labeling-and-annotation"
     },
     "cyanheads--obsidian-mcp-server": {
       "owner": "cyanheads",
@@ -71,7 +73,8 @@
         "llms obsidian",
         "obsidian vaults",
         "knowledge management"
-      ]
+      ],
+      "category": "data-labeling-and-annotation"
     }
   }
 }

@@ -25,7 +25,8 @@
         "adfin platform",
         "server adfin",
         "adfin engineering"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "AgentOps-AI--agentops-mcp": {
       "owner": "AgentOps-AI",
@@ -48,7 +49,8 @@
         "ai agentops",
         "agentops ai",
         "integrations agentops"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Aiven-Open--mcp-aiven": {
       "owner": "Aiven-Open",
@@ -71,7 +73,8 @@
         "opensearch services",
         "clickhouse opensearch",
         "mcp aiven"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Alation--alation-ai-agent-sdk": {
       "owner": "Alation",
@@ -94,7 +97,8 @@
         "agent sdk",
         "enterprise data",
         "data catalog"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "AudienseCo--mcp-audiense-insights": {
       "owner": "AudienseCo",
@@ -117,7 +121,8 @@
         "audiense insights",
         "marketing insights",
         "insights audience"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ChronulusAI--chronulus-mcp": {
       "owner": "ChronulusAI",
@@ -140,7 +145,8 @@
         "predict chronulus",
         "chronulus ai",
         "integrations chronulusai"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "CircleCI-Public--mcp-server-circleci": {
       "owner": "CircleCI-Public",
@@ -163,7 +169,8 @@
         "failures circleci",
         "server circleci",
         "circleci enable"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ClickHouse--mcp-clickhouse": {
       "owner": "ClickHouse",
@@ -186,7 +193,8 @@
         "clickhouse query",
         "mcp clickhouse",
         "integrations clickhouse"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Cloudsway-AI--smartsearch": {
       "owner": "Cloudsway-AI",
@@ -209,7 +217,8 @@
         "ai smartsearch",
         "smartsearch web",
         "cloudsway ai"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "CodeLogicIncEngineering--codelogic-mcp-server": {
       "owner": "CodeLogicIncEngineering",
@@ -232,7 +241,8 @@
         "integrations codelogicincengineering",
         "codelogic mcp",
         "codelogicincengineering codelogic"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ComposioHQ--Rube": {
       "owner": "ComposioHQ",
@@ -255,7 +265,8 @@
         "ai client",
         "install ai",
         "ai tools"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Contrast-Security-OSS--mcp-contrast": {
       "owner": "Contrast-Security-OSS",
@@ -278,7 +289,8 @@
         "contrast security",
         "contrast vulnerability",
         "mcp contrast"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Couchbase-Ecosystem--mcp-server-couchbase": {
       "owner": "Couchbase-Ecosystem",
@@ -301,7 +313,8 @@
         "couchbase ecosystem",
         "integrations couchbase",
         "couchbase clusters"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "CrowdStrike--falcon-mcp": {
       "owner": "CrowdStrike",
@@ -324,7 +337,8 @@
         "integrations crowdstrike",
         "crowdstrike falcon",
         "agents crowdstrike"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "CuriousBox-AI--ProdE-mcp": {
       "owner": "CuriousBox-AI",
@@ -347,7 +361,8 @@
         "multiple codebases",
         "official integrations",
         "ai prode"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "DeemosTech--rodin-api-mcp": {
       "owner": "DeemosTech",
@@ -370,7 +385,8 @@
         "generate 3d",
         "3d models",
         "rodin api"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "DeepLcom--deepl-mcp-server": {
       "owner": "DeepLcom",
@@ -393,7 +409,8 @@
         "deepl mcp",
         "deeplcom deepl",
         "text ai"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "DevEnterpriseSoftware--scrapi-mcp": {
       "owner": "DevEnterpriseSoftware",
@@ -416,7 +433,8 @@
         "deventerprisesoftware scrapi",
         "web scraping",
         "extract website"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Dumpling-AI--mcp-server-dumplingai": {
       "owner": "Dumpling-AI",
@@ -439,7 +457,8 @@
         "server dumplingai",
         "integrations dumpling",
         "dumplingai access"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "EduBase--MCP": {
       "owner": "EduBase",
@@ -462,7 +481,8 @@
         "edubase mcp",
         "integrations edubase",
         "exam management"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "FalkorDB--FalkorDB-MCPServer": {
       "owner": "FalkorDB",
@@ -485,7 +505,8 @@
         "falkordb graph",
         "server schema",
         "graph database"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Fewsats--fewsats-mcp": {
       "owner": "Fewsats",
@@ -508,7 +529,8 @@
         "fewsats mcp",
         "agents purchase",
         "fewsats fewsats"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Fibery-inc--fibery-mcp-server": {
       "owner": "Fibery-inc",
@@ -531,7 +553,8 @@
         "fibery mcp",
         "mcp server",
         "integrations fibery"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "G-Core--gcore-mcp-server": {
       "owner": "G-Core",
@@ -554,7 +577,8 @@
         "gcore platform",
         "core gcore",
         "gcore mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "GibsonAI--mcp": {
       "owner": "GibsonAI",
@@ -577,7 +601,8 @@
         "cloud databases",
         "mcp ai",
         "instances ai"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "GitGuardian--gg-mcp": {
       "owner": "GitGuardian",
@@ -600,7 +625,8 @@
         "mcp gitguardian",
         "gitguardian official",
         "gitguardian gg"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "GoogleCloudPlatform--cloud-run-mcp": {
       "owner": "GoogleCloudPlatform",
@@ -623,7 +649,8 @@
         "googlecloudplatform cloud",
         "integrations googlecloudplatform",
         "cloud run"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "GreptimeTeam--greptimedb-mcp-server": {
       "owner": "GreptimeTeam",
@@ -646,7 +673,8 @@
         "greptimedb mcp",
         "greptimeteam greptimedb",
         "ai assistants"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "HarperDB--mcp-server": {
       "owner": "HarperDB",
@@ -669,7 +697,8 @@
         "harperdb mcp",
         "mcp server",
         "integrations harperdb"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "HumanSignal--label-studio-mcp-server": {
       "owner": "HumanSignal",
@@ -692,7 +721,8 @@
         "labeling platform",
         "data labeling",
         "humansignal label"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "HyperbolicLabs--hyperbolic-mcp": {
       "owner": "HyperbolicLabs",
@@ -715,7 +745,8 @@
         "hyperbolic gpu",
         "hyperboliclabs hyperbolic",
         "integrations hyperboliclabs"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Inflectra--mcp-server-spira": {
       "owner": "Inflectra",
@@ -738,7 +769,8 @@
         "spiraplan application",
         "server spira",
         "spiratest spirateam"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "KWDB--kwdb-mcp-server": {
       "owner": "KWDB",
@@ -761,7 +793,8 @@
         "integrations kwdb",
         "kwdb database",
         "data kwdb"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "LinkupPlatform--js-mcp-server": {
       "owner": "LinkupPlatform",
@@ -784,7 +817,8 @@
         "js mcp",
         "mcp server",
         "server js"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "LinkupPlatform--python-mcp-server": {
       "owner": "LinkupPlatform",
@@ -807,7 +841,8 @@
         "python mcp",
         "server python",
         "linkupplatform python"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "MindscapeHQ--mcp-server-raygun": {
       "owner": "MindscapeHQ",
@@ -830,7 +865,8 @@
         "server raygun",
         "raygun account",
         "data raygun"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "NonicaTeam--AI-Connector-for-Revit": {
       "owner": "NonicaTeam",
@@ -853,7 +889,8 @@
         "revit connect",
         "revit models",
         "connector revit"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "OHNLP--omop_mcp": {
       "owner": "OHNLP",
@@ -876,7 +913,8 @@
         "map clinical",
         "omop_mcp map",
         "omop concepts"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ONLYOFFICE--docspace-mcp": {
       "owner": "ONLYOFFICE",
@@ -899,7 +937,8 @@
         "onlyoffice docspace",
         "docspace mcp",
         "integrations onlyoffice"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "OctagonAI--octagon-mcp-server": {
       "owner": "OctagonAI",
@@ -922,7 +961,8 @@
         "octagon mcp",
         "integrations octagonai",
         "octagonai octagon"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "OctagonAI--octagon-vc-agents": {
       "owner": "OctagonAI",
@@ -945,7 +985,8 @@
         "integrations octagonai",
         "octagonai octagon",
         "octagon vc"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "OctoEverywhere--mcp": {
       "owner": "OctoEverywhere",
@@ -968,7 +1009,8 @@
         "mcp 3d",
         "printing mcp",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "PSPDFKit--nutrient-dws-mcp-server": {
       "owner": "PSPDFKit",
@@ -991,7 +1033,8 @@
         "pspdfkit nutrient",
         "integrations pspdfkit",
         "official integrations"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "PaddleHQ--paddle-mcp-server": {
       "owner": "PaddleHQ",
@@ -1014,7 +1057,8 @@
         "paddle mcp",
         "paddle api",
         "integrations paddlehq"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "PagerDuty--pagerduty-mcp-server": {
       "owner": "PagerDuty",
@@ -1037,7 +1081,8 @@
         "pagerduty mcp",
         "pagerduty account",
         "interact pagerduty"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Pearl-com--pearl_mcp_server": {
       "owner": "Pearl-com",
@@ -1060,7 +1105,8 @@
         "pearl_mcp_server official",
         "pearl api",
         "com pearl_mcp_server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "PhononX--cv-mcp-server": {
       "owner": "PhononX",
@@ -1083,7 +1129,8 @@
         "phononx cv",
         "mcp server",
         "server mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "PortSwigger--mcp-server": {
       "owner": "PortSwigger",
@@ -1106,7 +1153,8 @@
         "mcp server",
         "server mcp",
         "portswigger mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Program-Integrity-Alliance--pia-mcp-local": {
       "owner": "Program-Integrity-Alliance",
@@ -1129,7 +1177,8 @@
         "mcp servers",
         "datasets available",
         "access government"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "QuantConnect--mcp-server": {
       "owner": "QuantConnect",
@@ -1152,7 +1201,8 @@
         "quantconnect mcp",
         "mcp server",
         "integrations quantconnect"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "RedHatInsights--insights-mcp": {
       "owner": "RedHatInsights",
@@ -1175,7 +1225,8 @@
         "redhatinsights insights",
         "integrations redhatinsights",
         "insights mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ReexpressAI--reexpress_mcp_server": {
       "owner": "ReexpressAI",
@@ -1198,7 +1249,8 @@
         "reexpressai reexpress_mcp_server",
         "enable similarity",
         "search software"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Roblox--studio-rust-mcp-server": {
       "owner": "Roblox",
@@ -1221,7 +1273,8 @@
         "integrations roblox",
         "roblox studio",
         "server roblox"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "SmartBear--smartbear-mcp": {
       "owner": "SmartBear",
@@ -1244,7 +1297,8 @@
         "integrations smartbear",
         "smartbear mcp",
         "smartbear api"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "SonarSource--sonarqube-mcp-server": {
       "owner": "SonarSource",
@@ -1267,7 +1321,8 @@
         "integrations sonarsource",
         "sonarqube mcp",
         "sonarsource sonarqube"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "StarRocks--mcp-server-starrocks": {
       "owner": "StarRocks",
@@ -1290,7 +1345,8 @@
         "starrocks mcp",
         "server starrocks",
         "integrations starrocks"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "TakoData--tako-mcp": {
       "owner": "TakoData",
@@ -1313,7 +1369,8 @@
         "tako mcp",
         "takodata tako",
         "integrations takodata"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Tencent-RTC--mcp": {
       "owner": "Tencent-RTC",
@@ -1336,7 +1393,8 @@
         "rtc mcp",
         "mcp server",
         "tencent rtc"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "TencentCloudBase--CloudBase-AI-ToolKit": {
       "owner": "TencentCloudBase",
@@ -1359,7 +1417,8 @@
         "cloudbase ai",
         "tencentcloudbase cloudbase",
         "integrations tencentcloudbase"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Teradata--teradata-mcp-server": {
       "owner": "Teradata",
@@ -1382,7 +1441,8 @@
         "teradata mcp",
         "integrations teradata",
         "teradata teradata"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Trade-Agent--trade-agent-mcp": {
       "owner": "Trade-Agent",
@@ -1405,7 +1465,8 @@
         "trades brokerage",
         "crypto trades",
         "agent mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Unstructured-IO--UNS-MCP": {
       "owner": "Unstructured-IO",
@@ -1428,7 +1489,8 @@
         "unstructured io",
         "integrations unstructured",
         "processing workflows"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "VeriTeknik--pluggedin-mcp": {
       "owner": "VeriTeknik",
@@ -1451,7 +1513,8 @@
         "mcp servers",
         "pluggedin mcp",
         "mcp provides"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Verodat--verodat-mcp-server": {
       "owner": "Verodat",
@@ -1474,7 +1537,8 @@
         "verodat mcp",
         "verodat ai",
         "verodat verodat"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "VeyraX--veyrax-mcp": {
       "owner": "VeyraX",
@@ -1497,7 +1561,8 @@
         "integrations veyrax",
         "api integrations",
         "veyrax mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "VictoriaMetrics-Community--mcp-victoriametrics": {
       "owner": "VictoriaMetrics-Community",
@@ -1520,7 +1585,8 @@
         "victoriametrics comprehensive",
         "mcp victoriametrics",
         "victoriametrics instances"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "WaveSpeedAI--mcp-server": {
       "owner": "WaveSpeedAI",
@@ -1543,7 +1609,8 @@
         "wavespeedai mcp",
         "wavespeed mcp",
         "ai agents"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "XeroAPI--xero-mcp-server": {
       "owner": "XeroAPI",
@@ -1566,7 +1633,8 @@
         "xero mcp",
         "mcp server",
         "official mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "Yeelight--yeelight-iot-mcp": {
       "owner": "Yeelight",
@@ -1589,7 +1657,8 @@
         "yeelight iot",
         "iot mcp",
         "smart devices"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "acryldata--mcp-server-datahub": {
       "owner": "acryldata",
@@ -1612,7 +1681,8 @@
         "server datahub",
         "acryldata mcp",
         "datahub search"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "agentrpc--agentrpc": {
       "owner": "agentrpc",
@@ -1635,7 +1705,8 @@
         "agentrpc connect",
         "integrations agentrpc",
         "agentrpc agentrpc"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "agentset-ai--mcp-server": {
       "owner": "agentset-ai",
@@ -1658,7 +1729,8 @@
         "integrations agentset",
         "agentset ai",
         "ai mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ahnlabio--bicscan-mcp": {
       "owner": "ahnlabio",
@@ -1681,7 +1753,8 @@
         "holdings evm",
         "evm blockchain",
         "address eoa"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "algolia--mcp": {
       "owner": "algolia",
@@ -1704,7 +1777,8 @@
         "algolia mcp",
         "integrations algolia",
         "search indices"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "alipay--global-alipayplus-mcp": {
       "owner": "alipay",
@@ -1727,7 +1801,8 @@
         "alipayplus mcp",
         "alipayplus checkout",
         "agents alipayplus"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "alipay--global-antom-mcp": {
       "owner": "alipay",
@@ -1750,7 +1825,8 @@
         "alipay global",
         "antom checkout",
         "integrations alipay"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "aliyun--alibaba-cloud-ops-mcp-server": {
       "owner": "aliyun",
@@ -1773,7 +1849,8 @@
         "cloud openapi",
         "alibaba cloud",
         "lifecycle alibaba"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "aliyun--alibabacloud-adb-mysql-mcp-server": {
       "owner": "aliyun",
@@ -1796,7 +1873,8 @@
         "openapi cluster",
         "connect cluster",
         "alibabacloud adb"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "aliyun--alibabacloud-adbpg-mcp-server": {
       "owner": "aliyun",
@@ -1819,7 +1897,8 @@
         "alibabacloud adbpg",
         "adbpg mcp",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "aliyun--alibabacloud-dataworks-mcp-server": {
       "owner": "aliyun",
@@ -1842,7 +1921,8 @@
         "alibabacloud dataworks",
         "dataworks mcp",
         "perform cloud"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "aliyun--alibabacloud-hologres-mcp-server": {
       "owner": "aliyun",
@@ -1865,7 +1945,8 @@
         "alibabacloud hologres",
         "aliyun alibabacloud",
         "hologres mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "aliyun--alibabacloud-opensearch-mcp-server": {
       "owner": "aliyun",
@@ -1888,7 +1969,8 @@
         "alibabacloud opensearch",
         "opensearch mcp",
         "ai agents"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "aliyun--alibabacloud-rds-openapi-mcp-server": {
       "owner": "aliyun",
@@ -1911,7 +1993,8 @@
         "alibabacloud rds",
         "rds openapi",
         "cloud rds"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "anyproto--anytype-mcp": {
       "owner": "anyproto",
@@ -1934,7 +2017,8 @@
         "anytype mcp",
         "anyproto anytype",
         "integrations anyproto"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "apache--doris-mcp-server": {
       "owner": "apache",
@@ -1957,7 +2041,8 @@
         "mcp server",
         "server mcp",
         "data warehouse"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "apache--iotdb-mcp-server": {
       "owner": "apache",
@@ -1980,7 +2065,8 @@
         "iotdb mcp",
         "apache iotdb",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "armorwallet--armor-crypto-mcp": {
       "owner": "armorwallet",
@@ -2003,7 +2089,8 @@
         "crypto mcp",
         "integrations armorwallet",
         "armor crypto"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "asgardeo--asgardeo-mcp-server": {
       "owner": "asgardeo",
@@ -2026,7 +2113,8 @@
         "asgardeo mcp",
         "mcp server",
         "server mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "atla-ai--atla-mcp-server": {
       "owner": "atla-ai",
@@ -2049,7 +2137,8 @@
         "llmj evaluation",
         "atla ai",
         "ai atla"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "auth0--auth0-mcp-server": {
       "owner": "auth0",
@@ -2072,7 +2161,8 @@
         "auth0 mcp",
         "integrations auth0",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "awslabs--mcp": {
       "owner": "awslabs",
@@ -2095,7 +2185,8 @@
         "awslabs mcp",
         "integrations awslabs",
         "aws best"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "bankless--onchain-mcp": {
       "owner": "bankless",
@@ -2118,7 +2209,8 @@
         "bankless onchain",
         "integrations bankless",
         "query onchain"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "bitrise-io--bitrise-mcp": {
       "owner": "bitrise-io",
@@ -2141,7 +2233,8 @@
         "bitrise io",
         "io bitrise",
         "bitrise mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "boikot-xyz--boikot": {
       "owner": "boikot-xyz",
@@ -2164,7 +2257,8 @@
         "unethical actions",
         "ethical unethical",
         "integrations boikot"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "boldsign--boldsign-mcp": {
       "owner": "boldsign",
@@ -2187,7 +2281,8 @@
         "signature contracts",
         "manage signature",
         "boldsign mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "boostspace--boostspace-mcp-server": {
       "owner": "boostspace",
@@ -2210,7 +2305,8 @@
         "boostspace mcp",
         "mcp server",
         "server mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "box-community--mcp-server-box": {
       "owner": "box-community",
@@ -2233,7 +2329,8 @@
         "box ai",
         "box community",
         "content management"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "browserstack--mcp-server": {
       "owner": "browserstack",
@@ -2256,7 +2353,8 @@
         "browserstack mcp",
         "integrations browserstack",
         "access browserstack"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "buildkite--buildkite-mcp-server": {
       "owner": "buildkite",
@@ -2279,7 +2377,8 @@
         "integrations buildkite",
         "buildkite mcp",
         "buildkite data"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "builtwith--mcp": {
       "owner": "builtwith",
@@ -2302,7 +2401,8 @@
         "builtwith mcp",
         "official integrations",
         "mcp identify"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "campertunity--mcp-server": {
       "owner": "campertunity",
@@ -2325,7 +2425,8 @@
         "search campgrounds",
         "campertunity mcp",
         "campgrounds world"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cartesia-ai--cartesia-mcp": {
       "owner": "cartesia-ai",
@@ -2348,7 +2449,8 @@
         "voice platform",
         "cartesia ai",
         "cartesia mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cashfree--cashfree-mcp": {
       "owner": "cashfree",
@@ -2371,7 +2473,8 @@
         "cashfree mcp",
         "integrations cashfree",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cbinsights--cbi-mcp-server": {
       "owner": "cbinsights",
@@ -2394,7 +2497,8 @@
         "cbi mcp",
         "mcp server",
         "integrations cbinsights"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cheqd--mcp-toolkit": {
       "owner": "cheqd",
@@ -2417,7 +2521,8 @@
         "cheqd mcp",
         "mcp toolkit",
         "integrations cheqd"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "chunkydotdev--bldbl-mcp) (TypeScript": {
       "owner": "chunkydotdev",
@@ -2440,7 +2545,8 @@
         "chunkydotdev bldbl",
         "bldbl mcp",
         "integrations chunkydotdev"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cloudbet--sports-mcp-server": {
       "owner": "cloudbet",
@@ -2463,7 +2569,8 @@
         "cloudbet sports",
         "cloudbet api",
         "esports data"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cloudera--iceberg-mcp-server": {
       "owner": "cloudera",
@@ -2486,7 +2593,8 @@
         "cloudera iceberg",
         "integrations cloudera",
         "enabling ai"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cloudinary--mcp-servers": {
       "owner": "cloudinary",
@@ -2509,7 +2617,8 @@
         "integrations cloudinary",
         "cloudinary mcp",
         "exposes cloudinary"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "coinpaprika--dexpaprika-mcp": {
       "owner": "coinpaprika",
@@ -2532,7 +2641,8 @@
         "integrations coinpaprika",
         "coinpaprika dexpaprika",
         "networks coinpaprika"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "conductor-oss--conductor-mcp": {
       "owner": "conductor-oss",
@@ -2555,7 +2665,8 @@
         "oss conductor",
         "conductor oss",
         "conductor mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "confluentinc--mcp-confluent": {
       "owner": "confluentinc",
@@ -2578,7 +2689,8 @@
         "kafka confluent",
         "confluent cloud",
         "confluent kafka"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cortexapps--cortex-mcp": {
       "owner": "cortexapps",
@@ -2601,7 +2713,8 @@
         "cortex mcp",
         "integrations cortexapps",
         "cortexapps cortex"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ctera--mcp-ctera-core": {
       "owner": "ctera",
@@ -2624,7 +2737,8 @@
         "ctera portal",
         "ctera core",
         "core ctera"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ctera--mcp-ctera-edge": {
       "owner": "ctera",
@@ -2647,7 +2761,8 @@
         "edge filer",
         "edge ctera",
         "ctera edge"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "cycodehq--cycode-cli#mcp-command-experiment": {
       "owner": "cycodehq",
@@ -2670,7 +2785,8 @@
         "cycode cli",
         "cycodehq cycode",
         "integrations cycodehq"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "data-skunks--kpu-mcp": {
       "owner": "data-skunks",
@@ -2693,7 +2809,8 @@
         "kpu mcp",
         "official integrations",
         "skunks kpu"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "datastax--astra-db-mcp": {
       "owner": "datastax",
@@ -2716,7 +2833,8 @@
         "documents nosql",
         "astra db",
         "nosql database"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "debugg-ai--debugg-ai-mcp": {
       "owner": "debugg-ai",
@@ -2739,7 +2857,8 @@
         "debugg ai",
         "integrations debugg",
         "ai debugg"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "devrev--mcp-server": {
       "owner": "devrev",
@@ -2762,7 +2881,8 @@
         "devrev mcp",
         "devrev apis",
         "integrations devrev"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "doist--todoist-ai": {
       "owner": "doist",
@@ -2785,7 +2905,8 @@
         "todoist ai",
         "doist todoist",
         "official integrations"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "dolthub--dolt-mcp": {
       "owner": "dolthub",
@@ -2808,7 +2929,8 @@
         "mcp server",
         "controlled databases",
         "official mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "dynatrace-oss--dynatrace-mcp": {
       "owner": "dynatrace-oss",
@@ -2831,7 +2953,8 @@
         "oss dynatrace",
         "dynatrace oss",
         "observability monitoring"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "e2b-dev--mcp-server": {
       "owner": "e2b-dev",
@@ -2854,7 +2977,8 @@
         "secure sandboxes",
         "e2b dev",
         "sandboxes hosted"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "edgee-cloud--mcp-server-edgee": {
       "owner": "edgee-cloud",
@@ -2877,7 +3001,8 @@
         "edgee deploy",
         "edgee cloud",
         "server edgee"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "elastic--mcp-server-elasticsearch": {
       "owner": "elastic",
@@ -2900,7 +3025,8 @@
         "server elasticsearch",
         "elasticsearch query",
         "elastic mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ertiqah--linkedin-mcp-runner": {
       "owner": "ertiqah",
@@ -2923,7 +3049,8 @@
         "linkedin mcp",
         "schedule linkedin",
         "linkedin posts"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "esignaturescom--mcp-server-esignatures": {
       "owner": "esignaturescom",
@@ -2946,7 +3073,8 @@
         "esignatures contract",
         "esignaturescom mcp",
         "integrations esignaturescom"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "espressif--esp-rainmaker-mcp": {
       "owner": "espressif",
@@ -2969,7 +3097,8 @@
         "espressif mcp",
         "esp rainmaker",
         "espressif esp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "explorium-ai--mcp-explorium": {
       "owner": "explorium-ai",
@@ -2992,7 +3121,8 @@
         "ai sdr",
         "explorium ai",
         "mcp explorium"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "fatwang2--search1api-mcp": {
       "owner": "fatwang2",
@@ -3015,7 +3145,8 @@
         "search1api mcp",
         "crawling sitemaps",
         "fatwang2 search1api"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "fetchSERP--fetchserp-mcp-server-node": {
       "owner": "fetchSERP",
@@ -3038,7 +3169,8 @@
         "integrations fetchserp",
         "fetchserp fetchserp",
         "fetchserp mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "financial-datasets--mcp-server": {
       "owner": "financial-datasets",
@@ -3061,7 +3193,8 @@
         "financial datasets",
         "market api",
         "ai agents"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "fireproof-storage--mcp-database-server": {
       "owner": "fireproof-storage",
@@ -3084,7 +3217,8 @@
         "immutable ledger",
         "ledger database",
         "storage mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "firstorderai--authenticator_mcp": {
       "owner": "firstorderai",
@@ -3107,7 +3241,8 @@
         "authenticator_mcp secure",
         "firstorderai authenticator_mcp",
         "secure mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "fluidattacks--mcp": {
       "owner": "fluidattacks",
@@ -3130,7 +3265,8 @@
         "fluidattacks mcp",
         "integrations fluidattacks",
         "insights graphql"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gNucleus--text-to-cad-mcp": {
       "owner": "gNucleus",
@@ -3153,7 +3289,8 @@
         "generate cad",
         "text cad",
         "gnucleus text"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "getAlby--mcp": {
       "owner": "getAlby",
@@ -3176,7 +3313,8 @@
         "getalby mcp",
         "mcp connect",
         "wallet agent"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gitkraken--gk-cli?tab=readme-ov-file#mcp-server": {
       "owner": "gitkraken",
@@ -3199,7 +3337,8 @@
         "gitkraken apis",
         "integrations gitkraken",
         "gitkraken gk"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gleanwork--mcp-server": {
       "owner": "gleanwork",
@@ -3222,7 +3361,8 @@
         "search chat",
         "enterprise search",
         "gleanwork mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gofireflyio--firefly-mcp": {
       "owner": "gofireflyio",
@@ -3245,7 +3385,8 @@
         "integrations gofireflyio",
         "firefly mcp",
         "gofireflyio firefly"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gologinapp--gologin-mcp": {
       "owner": "gologinapp",
@@ -3268,7 +3409,8 @@
         "gologinapp gologin",
         "integrations gologinapp",
         "gologin mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "googleapis--genai-toolbox": {
       "owner": "googleapis",
@@ -3291,7 +3433,8 @@
         "integrations googleapis",
         "googleapis genai",
         "genai toolbox"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gornskew--lisply-mcp": {
       "owner": "gornskew",
@@ -3314,7 +3457,8 @@
         "compliant lisp",
         "lisply mcp",
         "speaking backends"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gowinston-ai--winston-ai-mcp-server": {
       "owner": "gowinston-ai",
@@ -3337,7 +3481,8 @@
         "ai mcp",
         "server ai",
         "images mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "grafana--mcp-grafana": {
       "owner": "grafana",
@@ -3360,7 +3505,8 @@
         "datasources grafana",
         "grafana search",
         "grafana instance"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "gremlin--mcp": {
       "owner": "gremlin",
@@ -3383,7 +3529,8 @@
         "mcp server",
         "gremlin mcp",
         "official mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "growilabs--growi-mcp-server": {
       "owner": "growilabs",
@@ -3406,7 +3553,8 @@
         "growi apis",
         "growi mcp",
         "integrations growilabs"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "hashicorp--terraform-mcp-server": {
       "owner": "hashicorp",
@@ -3429,7 +3577,8 @@
         "hashicorp terraform",
         "integrate terraform",
         "terraform mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "hive-intel--hive-crypto-mcp": {
       "owner": "hive-intel",
@@ -3452,7 +3601,8 @@
         "hive crypto",
         "hive intel",
         "intel hive"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "hiveflowai--hiveflow-mcp-server": {
       "owner": "hiveflowai",
@@ -3475,7 +3625,8 @@
         "integrations hiveflowai",
         "hiveflow mcp",
         "hiveflowai hiveflow"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "hunter-io--hunter-mcp": {
       "owner": "hunter-io",
@@ -3498,7 +3649,8 @@
         "b2b data",
         "interact b2b",
         "hunter io"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "incentivai--quickchat-ai-mcp": {
       "owner": "incentivai",
@@ -3521,7 +3673,8 @@
         "quickchat ai",
         "ai apps",
         "conversational agent"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "inkeep--mcp-server-python": {
       "owner": "inkeep",
@@ -3544,7 +3697,8 @@
         "inkeep mcp",
         "server python",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "integration-app--mcp-server": {
       "owner": "integration-app",
@@ -3567,7 +3721,8 @@
         "app mcp",
         "mcp server",
         "saas applications"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "intsig-textin--textin-mcp": {
       "owner": "intsig-textin",
@@ -3590,7 +3745,8 @@
         "textin mcp",
         "intsig textin",
         "ocr documents"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ip2location--mcp-ip2location-io": {
       "owner": "ip2location",
@@ -3613,7 +3769,8 @@
         "ip2location io",
         "mcp ip2location",
         "integrations ip2location"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "iplocate--mcp-server-iplocate": {
       "owner": "iplocate",
@@ -3636,7 +3793,8 @@
         "iplocate mcp",
         "server iplocate",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "jfrog--mcp-jfrog": {
       "owner": "jfrog",
@@ -3659,7 +3817,8 @@
         "mcp jfrog",
         "jfrog mcp",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "jsdelivr--globalping-mcp-server": {
       "owner": "jsdelivr",
@@ -3682,7 +3841,8 @@
         "jsdelivr globalping",
         "mcp server",
         "integrations jsdelivr"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "kagisearch--kagimcp": {
       "owner": "kagisearch",
@@ -3705,7 +3865,8 @@
         "kagimcp search",
         "kagi search",
         "integrations kagisearch"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "keboola--keboola-mcp-server": {
       "owner": "keboola",
@@ -3728,7 +3889,8 @@
         "integrations analytics",
         "keboola mcp",
         "integrations keboola"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "kintone--mcp-server": {
       "owner": "kintone",
@@ -3751,7 +3913,8 @@
         "kintone mcp",
         "mcp server",
         "local mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "knocklabs--agent-toolkit#model-context-protocol-mcp": {
       "owner": "knocklabs",
@@ -3774,7 +3937,8 @@
         "knocklabs agent",
         "agent toolkit",
         "integrations knocklabs"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "knowall-ai--mcp-neo4j-agent-memory": {
       "owner": "knowall-ai",
@@ -3797,7 +3961,8 @@
         "neo4j knowledge",
         "neo4j agent",
         "agent memory"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "kumo-ai--kumo-rfm-mcp": {
       "owner": "kumo-ai",
@@ -3820,7 +3985,8 @@
         "kumo rfm",
         "rfm mcp",
         "integrations kumo"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "kurrent-io--mcp-server": {
       "owner": "kurrent-io",
@@ -3843,7 +4009,8 @@
         "faster kurrentdb",
         "kurrent io",
         "io mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "kuzudb--kuzu-mcp-server": {
       "owner": "kuzudb",
@@ -3866,7 +4033,8 @@
         "integrations kuzudb",
         "kuzudb kuzu",
         "kuzu graph"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "lambda-capture--mcp-server": {
       "owner": "lambda-capture",
@@ -3889,7 +4057,8 @@
         "macroeconomic forecasts",
         "server macroeconomic",
         "forecasts semantic"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "landing-ai--vision-agent-mcp": {
       "owner": "landing-ai",
@@ -3912,7 +4081,8 @@
         "agent mcp",
         "mcp server",
         "vision agent"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "langfuse--mcp-server-langfuse": {
       "owner": "langfuse",
@@ -3935,7 +4105,8 @@
         "collaborative editing",
         "server langfuse",
         "tool collaborative"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "last9--last9-mcp-server": {
       "owner": "last9",
@@ -3958,7 +4129,8 @@
         "last9 mcp",
         "integrations last9",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "launchdarkly--mcp-server": {
       "owner": "launchdarkly",
@@ -3981,7 +4153,8 @@
         "launchdarkly mcp",
         "integrations launchdarkly",
         "server launchdarkly"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "line--line-bot-mcp-server": {
       "owner": "line",
@@ -4004,7 +4177,8 @@
         "line bot",
         "agent line",
         "line official"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "litmusautomation--litmus-mcp-server": {
       "owner": "litmusautomation",
@@ -4027,7 +4201,8 @@
         "edge analytics",
         "mcp server",
         "edge industrial"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "liveblocks--liveblocks-mcp-server": {
       "owner": "liveblocks",
@@ -4050,7 +4225,8 @@
         "liveblocks mcp",
         "integrations liveblocks",
         "liveblocks liveblocks"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "luminati-io--brightdata-mcp": {
       "owner": "luminati-io",
@@ -4073,7 +4249,8 @@
         "io brightdata",
         "brightdata mcp",
         "luminati io"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "mailgun--mailgun-mcp-server": {
       "owner": "mailgun",
@@ -4096,7 +4273,8 @@
         "mailgun api",
         "integrations mailgun",
         "mailgun mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "mailgun--mailjet-mcp-server": {
       "owner": "mailgun",
@@ -4119,7 +4297,8 @@
         "integrations mailgun",
         "mailjet mcp",
         "mailgun mailjet"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "makenotion--notion-mcp-server#readme": {
       "owner": "makenotion",
@@ -4142,7 +4321,8 @@
         "notion mcp",
         "implements mcp",
         "notion api"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "mapbox--mcp-server": {
       "owner": "mapbox",
@@ -4165,7 +4345,8 @@
         "mapbox mcp",
         "mapbox apis",
         "intelligence mapbox"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "mariadb--mcp": {
       "owner": "mariadb",
@@ -4188,7 +4369,8 @@
         "mariadb mcp",
         "integrations mariadb",
         "mariadb databases"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "meilisearch--meilisearch-mcp": {
       "owner": "meilisearch",
@@ -4211,7 +4393,8 @@
         "query meilisearch",
         "meilisearch text",
         "semantic search"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "microsoft--azure-devops-mcp": {
       "owner": "microsoft",
@@ -4234,7 +4417,8 @@
         "azure devops",
         "devops mcp",
         "devops services"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "microsoft--clarity-mcp-server": {
       "owner": "microsoft",
@@ -4257,7 +4441,8 @@
         "integrations microsoft",
         "mcp server",
         "behavioral analytics"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "microsoftdocs--mcp": {
       "owner": "microsoftdocs",
@@ -4280,7 +4465,8 @@
         "microsoftdocs mcp",
         "integrations microsoftdocs",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "mobb-dev--bugsy?tab=readme-ov-file#model-context-protocol-mcp-server": {
       "owner": "mobb-dev",
@@ -4303,7 +4489,8 @@
         "mobb dev",
         "integrations mobb",
         "server mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "momentohq--mcp-momento": {
       "owner": "momentohq",
@@ -4326,7 +4513,8 @@
         "momento cache",
         "momentohq mcp",
         "mcp momento"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "mondaycom--mcp": {
       "owner": "mondaycom",
@@ -4349,7 +4537,8 @@
         "integrations mondaycom",
         "mondaycom mcp",
         "interact monday"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "mongodb-js--mongodb-mcp-server": {
       "owner": "mongodb-js",
@@ -4372,7 +4561,8 @@
         "mongodb atlas",
         "mongodb community",
         "server mongodb"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "moorcheh-ai--moorcheh-mcp": {
       "owner": "moorcheh-ai",
@@ -4395,7 +4585,8 @@
         "secure chatbots",
         "moorcheh information",
         "moorcheh ai"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "motherduckdb--mcp-server-motherduck": {
       "owner": "motherduckdb",
@@ -4418,7 +4609,8 @@
         "motherduckdb mcp",
         "integrations motherduckdb",
         "motherduck query"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "nanovms--ops-mcp": {
       "owner": "nanovms",
@@ -4441,7 +4633,8 @@
         "unikernels cloud",
         "nanovms ops",
         "deploy unikernels"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "neo4j-contrib--gds-agent": {
       "owner": "neo4j-contrib",
@@ -4464,7 +4657,8 @@
         "neo4j graph",
         "agent neo4j",
         "integrations neo4j"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "neondatabase--mcp-server-neon": {
       "owner": "neondatabase",
@@ -4487,7 +4681,8 @@
         "neondatabase mcp",
         "integrations neondatabase",
         "neon serverless"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "nerve-hq--nerve-mcp-server": {
       "owner": "nerve-hq",
@@ -4510,7 +4705,8 @@
         "saas apps",
         "data saas",
         "nerve hq"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "netease-im--yunxin-mcp-server": {
       "owner": "netease-im",
@@ -4533,7 +4729,8 @@
         "yunxin mcp",
         "connects yunxin",
         "yunxin im"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "newtype-01--prompthouse-mcp": {
       "owner": "newtype-01",
@@ -4556,7 +4753,8 @@
         "prompthouse mcp",
         "personal prompt",
         "prompt library"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "niledatabase--nile-mcp-server": {
       "owner": "niledatabase",
@@ -4579,7 +4777,8 @@
         "integrations niledatabase",
         "nile postgres",
         "nile mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "noditlabs--nodit-mcp-server": {
       "owner": "noditlabs",
@@ -4602,7 +4801,8 @@
         "nodit mcp",
         "official nodit",
         "integrations noditlabs"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "norman-finance--norman-mcp-server": {
       "owner": "norman-finance",
@@ -4625,7 +4825,8 @@
         "server mcp",
         "mcp server",
         "finance norman"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "nota--gyazo-mcp-server": {
       "owner": "nota",
@@ -4648,7 +4849,8 @@
         "gyazo images",
         "gyazo mcp",
         "nota gyazo"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "oceanbase--mcp-oceanbase": {
       "owner": "oceanbase",
@@ -4671,7 +4873,8 @@
         "oceanbase mcp",
         "mcp oceanbase",
         "server oceanbase"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "offorte--offorte-mcp-server#readme": {
       "owner": "offorte",
@@ -4694,7 +4897,8 @@
         "offorte mcp",
         "offorte proposal",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "olostep--olostep-mcp-server": {
       "owner": "olostep",
@@ -4717,7 +4921,8 @@
         "search scrape",
         "scrape crawl",
         "server search"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "openfort-xyz--mcp": {
       "owner": "openfort-xyz",
@@ -4740,7 +4945,8 @@
         "openfort smart",
         "ai openfort",
         "integrations openfort"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "opensearch-project--opensearch-mcp-server-py": {
       "owner": "opensearch-project",
@@ -4763,7 +4969,8 @@
         "opensearch mcp",
         "integrations opensearch",
         "opensearch project"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "opgginc--opgg-mcp": {
       "owner": "opgginc",
@@ -4786,7 +4993,8 @@
         "analytics esports",
         "integrations opgginc",
         "opgg mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "opslevel--opslevel-mcp": {
       "owner": "opslevel",
@@ -4809,7 +5017,8 @@
         "opslevel mcp",
         "mcp server",
         "official mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "optuna--optuna-mcp": {
       "owner": "optuna",
@@ -4832,7 +5041,8 @@
         "optuna mcp",
         "orchestration hyperparameter",
         "integrations optuna"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "oschina--mcp-gitee": {
       "owner": "oschina",
@@ -4855,7 +5065,8 @@
         "gitee api",
         "mcp gitee",
         "oschina mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "pagos-ai--pagos-mcp": {
       "owner": "pagos-ai",
@@ -4878,7 +5089,8 @@
         "pagos api",
         "pagos mcp",
         "integrations pagos"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "paiml--paiml-mcp-agent-toolkit": {
       "owner": "paiml",
@@ -4901,7 +5113,8 @@
         "configuration ai",
         "scaffolding toolkit",
         "agent toolkit"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "paperinvest--mcp-server": {
       "owner": "paperinvest",
@@ -4924,7 +5137,8 @@
         "paper trading",
         "paperinvest mcp",
         "broker emulations"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "patronus-ai--patronus-mcp-server": {
       "owner": "patronus-ai",
@@ -4947,7 +5161,8 @@
         "patronus ai",
         "ai patronus",
         "ai agents"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "pinecone-io--assistant-mcp": {
       "owner": "pinecone-io",
@@ -4970,7 +5185,8 @@
         "pinecone io",
         "integrations pinecone",
         "mcp retrieves"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "pinecone-io--pinecone-mcp": {
       "owner": "pinecone-io",
@@ -4993,7 +5209,8 @@
         "pinecone mcp",
         "developer mcp",
         "mcp developer"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "pingcap--pytidb": {
       "owner": "pingcap",
@@ -5016,7 +5233,8 @@
         "pingcap pytidb",
         "pytidb mcp",
         "tidb database"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "playcanvas--editor-mcp-server": {
       "owner": "playcanvas",
@@ -5039,7 +5257,8 @@
         "playcanvas editor",
         "integrations playcanvas",
         "3d web"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "port-labs--port-mcp-server": {
       "owner": "port-labs",
@@ -5062,7 +5281,8 @@
         "port labs",
         "port mcp",
         "integrations port"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "posthog--mcp": {
       "owner": "posthog",
@@ -5085,7 +5305,8 @@
         "posthog analytics",
         "posthog mcp",
         "integrations posthog"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "postmanlabs--postman-api-mcp": {
       "owner": "postmanlabs",
@@ -5108,7 +5329,8 @@
         "postmanlabs postman",
         "postman api",
         "postman resources"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "powerdrillai--powerdrill-mcp": {
       "owner": "powerdrillai",
@@ -5131,7 +5353,8 @@
         "powerdrill datasets",
         "powerdrill mcp",
         "powerdrillai powerdrill"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ppl-ai--modelcontextprotocol": {
       "owner": "ppl-ai",
@@ -5154,7 +5377,8 @@
         "conversational ai",
         "ppl ai",
         "perplexity sonar"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "pubnub--pubnub-mcp-server": {
       "owner": "pubnub",
@@ -5177,7 +5401,8 @@
         "integrations pubnub",
         "pubnub sdks",
         "pubnub mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "pulumi--mcp-server": {
       "owner": "pulumi",
@@ -5200,7 +5425,8 @@
         "pulumi mcp",
         "mcp server",
         "cloud infrastructure"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "puremd--puremd-mcp": {
       "owner": "puremd",
@@ -5223,7 +5449,8 @@
         "puremd mcp",
         "puremd puremd",
         "integrations puremd"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "pureugong--mmk-mcp": {
       "owner": "pureugong",
@@ -5246,7 +5473,8 @@
         "mmk mcp",
         "pureugong mmk",
         "mcp unleash"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "putdotio--putio-mcp-server": {
       "owner": "putdotio",
@@ -5269,7 +5497,8 @@
         "putdotio putio",
         "putio mcp",
         "integrations putdotio"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "qonto--qonto-mcp-server": {
       "owner": "qonto",
@@ -5292,7 +5521,8 @@
         "qonto account",
         "qonto mcp",
         "interact qonto"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ramp-public--ramp-mcp": {
       "owner": "ramp-public",
@@ -5315,7 +5545,8 @@
         "analysis spend",
         "leveraging llms",
         "insights leveraging"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "razorpay--razorpay-mcp-server": {
       "owner": "razorpay",
@@ -5338,7 +5569,8 @@
         "razorpay mcp",
         "razorpay official",
         "server razorpay"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "recraft-ai--mcp-recraft-server": {
       "owner": "recraft-ai",
@@ -5361,7 +5593,8 @@
         "svg images",
         "mcp recraft",
         "raster images"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "reltio-ai--reltio-mcp-server": {
       "owner": "reltio-ai",
@@ -5384,7 +5617,8 @@
         "reltio mcp",
         "entity matching",
         "matching language"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "rember--rember-mcp": {
       "owner": "rember",
@@ -5407,7 +5641,8 @@
         "repetition flashcards",
         "flashcards remember",
         "rember mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "reportportal--reportportal-mcp-server": {
       "owner": "reportportal",
@@ -5430,7 +5665,8 @@
         "reportportal mcp",
         "integrations reportportal",
         "reportportal reportportal"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "rishimohan--orshot-mcp-server": {
       "owner": "rishimohan",
@@ -5453,7 +5689,8 @@
         "mcp server",
         "official mcp",
         "orshot mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "riza-io--riza-mcp": {
       "owner": "riza-io",
@@ -5476,7 +5713,8 @@
         "platform llms",
         "io riza",
         "riza io"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "root-signals--root-signals-mcp": {
       "owner": "root-signals",
@@ -5499,7 +5737,8 @@
         "root signals",
         "signals root",
         "signals mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "routineco--mcp-server": {
       "owner": "routineco",
@@ -5522,7 +5761,8 @@
         "mcp server",
         "server mcp",
         "routineco mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "rust-mcp-stack--mcp-discovery": {
       "owner": "rust-mcp-stack",
@@ -5545,7 +5785,8 @@
         "rust mcp",
         "mcp discovery",
         "discovering mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "secureframe--secureframe-mcp-server": {
       "owner": "secureframe",
@@ -5568,7 +5809,8 @@
         "secureframe mcp",
         "integrations secureframe",
         "secureframe secureframe"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "sequa-ai--sequa-mcp": {
       "owner": "sequa-ai",
@@ -5591,7 +5833,8 @@
         "sequa ai",
         "sequa mcp",
         "ai sequa"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "singlestore-labs--mcp-server-singlestore": {
       "owner": "singlestore-labs",
@@ -5614,7 +5857,8 @@
         "integrations singlestore",
         "server singlestore",
         "singlestore database"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "stackhawk--stackhawk-mcp": {
       "owner": "stackhawk",
@@ -5637,7 +5881,8 @@
         "integrations stackhawk",
         "stackhawk mcp",
         "stackhawk stackhawk"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "steadybit--mcp": {
       "owner": "steadybit",
@@ -5660,7 +5905,8 @@
         "steadybit mcp",
         "integrations steadybit",
         "mcp interact"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "steuerboard--steuerboard-mcp-typescript": {
       "owner": "steuerboard",
@@ -5683,7 +5929,8 @@
         "steuerboard mcp",
         "mcp typescript",
         "integrations steuerboard"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "storybookjs--addon-mcp": {
       "owner": "storybookjs",
@@ -5706,7 +5953,8 @@
         "integrations storybookjs",
         "storybookjs addon",
         "testing documentation"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "supabase-community--supabase-mcp": {
       "owner": "supabase-community",
@@ -5729,7 +5977,8 @@
         "integrations supabase",
         "supabase mcp",
         "interact supabase"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "supadata-ai--mcp": {
       "owner": "supadata-ai",
@@ -5752,7 +6001,8 @@
         "mcp server",
         "official mcp",
         "mcp official"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "team-telnyx--telnyx-mcp-server": {
       "owner": "team-telnyx",
@@ -5775,7 +6025,8 @@
         "telnyx mcp",
         "telnyx telnyx",
         "team telnyx"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "thingsboard--thingsboard-mcp": {
       "owner": "thingsboard",
@@ -5798,7 +6049,8 @@
         "mcp thingsboard",
         "thingsboard mcp",
         "thingsboard iot"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "thinq-connect--thinqconnect-mcp": {
       "owner": "thinq-connect",
@@ -5821,7 +6073,8 @@
         "thinqconnect mcp",
         "connect thinqconnect",
         "thinq connect"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "thoughtspot--mcp-server": {
       "owner": "thoughtspot",
@@ -5844,7 +6097,8 @@
         "server ai",
         "mcp server",
         "thoughtspot mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "tinyfish-io--agentql-mcp": {
       "owner": "tinyfish-io",
@@ -5867,7 +6121,8 @@
         "io agentql",
         "tinyfish io",
         "integrations tinyfish"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "token-metrics--mcp": {
       "owner": "token-metrics",
@@ -5890,7 +6145,8 @@
         "metrics mcp",
         "crypto market",
         "token metrics"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "tomtom-international--tomtom-mcp": {
       "owner": "tomtom-international",
@@ -5913,7 +6169,8 @@
         "tomtom mcp",
         "tomtom international",
         "tomtom location"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "twilio-labs--mcp": {
       "owner": "twilio-labs",
@@ -5936,7 +6193,8 @@
         "integrations twilio",
         "twilio labs",
         "send sms"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "unifai-network--unifai-mcp-server": {
       "owner": "unifai-network",
@@ -5959,7 +6217,8 @@
         "mcp server",
         "unifai network",
         "network unifai"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "upstash--mcp-server": {
       "owner": "upstash",
@@ -5982,7 +6241,8 @@
         "redis commands",
         "redis databases",
         "manage redis"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "useparagon--paragon-mcp": {
       "owner": "useparagon",
@@ -6005,7 +6265,8 @@
         "paragon api",
         "paragon mcp",
         "gmail paragon"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "useshortcut--mcp-server-shortcut": {
       "owner": "useshortcut",
@@ -6028,7 +6289,8 @@
         "useshortcut mcp",
         "server shortcut",
         "mcp server"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "vantage-sh--vantage-mcp-server": {
       "owner": "vantage-sh",
@@ -6051,7 +6313,8 @@
         "vantage mcp",
         "integrations vantage",
         "sh vantage"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "variflight--variflight-mcp": {
       "owner": "variflight",
@@ -6074,7 +6337,8 @@
         "mcp variflight",
         "variflight mcp",
         "variflight official"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "verbwire--verbwire-mcp-server": {
       "owner": "verbwire",
@@ -6097,7 +6361,8 @@
         "verbwire api",
         "storage verbwire",
         "verbwire verbwire"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "waystation-ai--mcp": {
       "owner": "waystation-ai",
@@ -6120,7 +6385,8 @@
         "mcp server",
         "mcp universal",
         "universal mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "webflow--mcp-server": {
       "owner": "webflow",
@@ -6143,7 +6409,8 @@
         "webflow mcp",
         "integrations webflow",
         "webflow sites"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "webscraping-ai--webscraping-ai-mcp-server": {
       "owner": "webscraping-ai",
@@ -6166,7 +6433,8 @@
         "ai webscraping",
         "webscraping ai",
         "integrations webscraping"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "wuye-ai--mcp-server-wuye-ai": {
       "owner": "wuye-ai",
@@ -6189,7 +6457,8 @@
         "wuye ai",
         "intelligent assistant",
         "ai platform"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "ydb-platform--ydb-mcp": {
       "owner": "ydb-platform",
@@ -6212,7 +6481,8 @@
         "ydb mcp",
         "ydb platform",
         "platform ydb"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "yepcode--mcp-server-js": {
       "owner": "yepcode",
@@ -6235,7 +6505,8 @@
         "yepcode mcp",
         "mcp server",
         "integrations yepcode"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "yugabyte--yugabytedb-mcp-server": {
       "owner": "yugabyte",
@@ -6258,7 +6529,8 @@
         "mcp server",
         "yugabytedb mcp",
         "server mcp"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "zaiwork--mcp": {
       "owner": "zaiwork",
@@ -6281,7 +6553,8 @@
         "zaiwork mcp",
         "recruitment platform",
         "intelligent recruitment"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "zenml-io--mcp-zenml": {
       "owner": "zenml-io",
@@ -6304,7 +6577,8 @@
         "mcp zenml",
         "zenml io",
         "mlops llmops"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "zilliztech--claude-context": {
       "owner": "zilliztech",
@@ -6327,7 +6601,8 @@
         "claude code",
         "zilliztech claude",
         "integrations zilliztech"
-      ]
+      ],
+      "category": "official-integrations"
     },
     "zilliztech--mcp-server-milvus": {
       "owner": "zilliztech",
@@ -6350,7 +6625,8 @@
         "data milvus",
         "milvus search",
         "milvus vector"
-      ]
+      ],
+      "category": "official-integrations"
     }
   }
 }

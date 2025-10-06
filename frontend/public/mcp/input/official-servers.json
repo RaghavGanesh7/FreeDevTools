@@ -25,7 +25,8 @@
         "magic mcp",
         "mcp magic",
         "mcp ai"
-      ]
+      ],
+      "category": "official-servers"
     },
     "apify--apify-mcp-server": {
       "owner": "apify",
@@ -48,7 +49,8 @@
         "servers apify",
         "apify mcp",
         "mcp server"
-      ]
+      ],
+      "category": "official-servers"
     },
     "apimatic--apimatic-validator-mcp": {
       "owner": "apimatic",
@@ -71,7 +73,8 @@
         "validates openapi",
         "openapi specifications",
         "apimatic validator"
-      ]
+      ],
+      "category": "official-servers"
     },
     "axiomhq--mcp-server-axiom": {
       "owner": "axiomhq",
@@ -94,7 +97,8 @@
         "servers axiomhq",
         "axiom datasets",
         "server axiom"
-      ]
+      ],
+      "category": "official-servers"
     },
     "base--base-mcp": {
       "owner": "base",
@@ -117,7 +121,8 @@
         "base mcp",
         "base blockchain",
         "blockchain coinbase"
-      ]
+      ],
+      "category": "official-servers"
     },
     "browserbase--mcp-server-browserbase": {
       "owner": "browserbase",
@@ -140,7 +145,8 @@
         "browserbase mcp",
         "servers browserbase",
         "server browserbase"
-      ]
+      ],
+      "category": "official-servers"
     },
     "chargebee--agentkit": {
       "owner": "chargebee",
@@ -163,7 +169,8 @@
         "chargebee agentkit",
         "chargebee api",
         "integrate chargebee"
-      ]
+      ],
+      "category": "official-servers"
     },
     "chroma-core--chroma-mcp": {
       "owner": "chroma-core",
@@ -186,7 +193,8 @@
         "servers chroma",
         "chroma core",
         "core chroma"
-      ]
+      ],
+      "category": "official-servers"
     },
     "cloudflare--mcp-server-cloudflare": {
       "owner": "cloudflare",
@@ -209,7 +217,8 @@
         "cloudflare services",
         "servers cloudflare",
         "server cloudflare"
-      ]
+      ],
+      "category": "official-servers"
     },
     "comet-ml--opik-mcp": {
       "owner": "comet-ml",
@@ -232,7 +241,8 @@
         "servers comet",
         "opik features",
         "access opik"
-      ]
+      ],
+      "category": "official-servers"
     },
     "devhub--devhub-cms-mcp": {
       "owner": "devhub",
@@ -255,7 +265,8 @@
         "devhub cms",
         "content devhub",
         "content management"
-      ]
+      ],
+      "category": "official-servers"
     },
     "elie222--inbox-zero": {
       "owner": "elie222",
@@ -278,7 +289,8 @@
         "elie222 inbox",
         "inbox zero",
         "inbox organization"
-      ]
+      ],
+      "category": "official-servers"
     },
     "exa-labs--exa-mcp-server": {
       "owner": "exa-labs",
@@ -301,7 +313,8 @@
         "search crawling",
         "web search",
         "information retrieval"
-      ]
+      ],
+      "category": "official-servers"
     },
     "firecrawl--firecrawl-mcp-server": {
       "owner": "firecrawl",
@@ -324,7 +337,8 @@
         "servers firecrawl",
         "firecrawl mcp",
         "integrates firecrawl"
-      ]
+      ],
+      "category": "official-servers"
     },
     "github--github-mcp-server": {
       "owner": "github",
@@ -347,7 +361,8 @@
         "servers github",
         "github mcp",
         "github github"
-      ]
+      ],
+      "category": "official-servers"
     },
     "gotohuman--gotohuman-mcp-server": {
       "owner": "gotohuman",
@@ -370,7 +385,8 @@
         "ai workflows",
         "webhook based",
         "reviews ai"
-      ]
+      ],
+      "category": "official-servers"
     },
     "graphlit--graphlit-mcp-server": {
       "owner": "graphlit",
@@ -393,7 +409,8 @@
         "servers graphlit",
         "graphlit mcp",
         "feeds graphlit"
-      ]
+      ],
+      "category": "official-servers"
     },
     "heroku--heroku-mcp-server": {
       "owner": "heroku",
@@ -416,7 +433,8 @@
         "servers heroku",
         "heroku platform",
         "heroku mcp"
-      ]
+      ],
+      "category": "official-servers"
     },
     "hyperbrowserai--mcp": {
       "owner": "hyperbrowserai",
@@ -439,7 +457,8 @@
         "servers hyperbrowserai",
         "browser agents",
         "hyperbrowserai mcp"
-      ]
+      ],
+      "category": "official-servers"
     },
     "integromat--make-mcp-server": {
       "owner": "integromat",
@@ -462,7 +481,8 @@
         "servers integromat",
         "mcp server",
         "integromat make"
-      ]
+      ],
+      "category": "official-servers"
     },
     "its-dart--dart-mcp-server": {
       "owner": "its-dart",
@@ -485,7 +505,8 @@
         "servers dart",
         "using dart",
         "dart mcp"
-      ]
+      ],
+      "category": "official-servers"
     },
     "jamsocket--forevervm": {
       "owner": "jamsocket",
@@ -508,7 +529,8 @@
         "jamsocket forevervm",
         "servers jamsocket",
         "forevervm enable"
-      ]
+      ],
+      "category": "official-servers"
     },
     "makenotion--notion-mcp-server": {
       "owner": "makenotion",
@@ -531,7 +553,8 @@
         "notion api",
         "notion mcp",
         "notion automating"
-      ]
+      ],
+      "category": "official-servers"
     },
     "metoro-io--metoro-mcp-server": {
       "owner": "metoro-io",
@@ -554,7 +577,8 @@
         "kubernetes clusters",
         "interact kubernetes",
         "metoro apis"
-      ]
+      ],
+      "category": "official-servers"
     },
     "microsoft--playwright-mcp": {
       "owner": "microsoft",
@@ -577,7 +601,8 @@
         "playwright accessibility",
         "structured accessibility",
         "accessibility data"
-      ]
+      ],
+      "category": "official-servers"
     },
     "needle-ai--needle-mcp": {
       "owner": "needle-ai",
@@ -600,7 +625,8 @@
         "needle ai",
         "ai needle",
         "servers needle"
-      ]
+      ],
+      "category": "official-servers"
     },
     "oceanbase--awesome-oceanbase-mcp": {
       "owner": "oceanbase",
@@ -623,7 +649,8 @@
         "oceanbase databases",
         "oceanbase mcp",
         "servers oceanbase"
-      ]
+      ],
+      "category": "official-servers"
     },
     "oxylabs--oxylabs-mcp": {
       "owner": "oxylabs",
@@ -646,7 +673,8 @@
         "oxylabs web",
         "servers oxylabs",
         "oxylabs oxylabs"
-      ]
+      ],
+      "category": "official-servers"
     },
     "pydantic--logfire-mcp": {
       "owner": "pydantic",
@@ -669,7 +697,8 @@
         "analyzes telemetry",
         "pydantic logfire",
         "telemetry data"
-      ]
+      ],
+      "category": "official-servers"
     },
     "qdrant--mcp-server-qdrant": {
       "owner": "qdrant",
@@ -692,7 +721,8 @@
         "servers qdrant",
         "server qdrant",
         "semantic search"
-      ]
+      ],
+      "category": "official-servers"
     },
     "salesforcecli--mcp": {
       "owner": "salesforcecli",
@@ -715,7 +745,8 @@
         "salesforcecli mcp",
         "salesforce dx",
         "dx mcp"
-      ]
+      ],
+      "category": "official-servers"
     },
     "screenshotone--mcp": {
       "owner": "screenshotone",
@@ -738,7 +769,8 @@
         "servers screenshotone",
         "screenshotone mcp",
         "website screenshots"
-      ]
+      ],
+      "category": "official-servers"
     },
     "semgrep--mcp": {
       "owner": "semgrep",
@@ -761,7 +793,8 @@
         "semgrep provides",
         "semgrep mcp",
         "servers semgrep"
-      ]
+      ],
+      "category": "official-servers"
     },
     "stripe--agent-toolkit": {
       "owner": "stripe",
@@ -784,7 +817,8 @@
         "stripe apis",
         "stripe services",
         "stripe agent"
-      ]
+      ],
+      "category": "official-servers"
     },
     "tavily-ai--tavily-mcp": {
       "owner": "tavily-ai",
@@ -807,7 +841,8 @@
         "servers tavily",
         "tavily ai",
         "ai tavily"
-      ]
+      ],
+      "category": "official-servers"
     },
     "tinybirdco--mcp-tinybird": {
       "owner": "tinybirdco",
@@ -830,7 +865,8 @@
         "using tinybird",
         "servers tinybirdco",
         "tinybird query"
-      ]
+      ],
+      "category": "official-servers"
     },
     "translated--lara-mcp": {
       "owner": "translated",
@@ -853,7 +889,8 @@
         "translated lara",
         "translations supports",
         "servers translated"
-      ]
+      ],
+      "category": "official-servers"
     },
     "vectorize-io--vectorize-mcp-server": {
       "owner": "vectorize-io",
@@ -876,7 +913,8 @@
         "servers vectorize",
         "document searches",
         "text extraction"
-      ]
+      ],
+      "category": "official-servers"
     },
     "yamadashy--repomix": {
       "owner": "yamadashy",
@@ -899,7 +937,8 @@
         "codebases ai",
         "yamadashy repomix",
         "ai tools"
-      ]
+      ],
+      "category": "official-servers"
     }
   }
 }

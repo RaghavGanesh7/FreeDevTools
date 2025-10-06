@@ -25,7 +25,8 @@
         "plantuml_web web",
         "plantuml frontend",
         "2niuhe plantuml_web"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "2niuhe--qrcode_mcp": {
       "owner": "2niuhe",
@@ -48,7 +49,8 @@
         "qrcode_mcp qr",
         "qr codes",
         "qr code"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "AbdelStark--bitcoin-mcp": {
       "owner": "AbdelStark",
@@ -71,7 +73,8 @@
         "protocol mcp",
         "bitcoin mcp",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Azure--azure-mcp": {
       "owner": "Azure",
@@ -94,7 +97,8 @@
         "azure mcp",
         "integrations azure",
         "azure services"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Badhansen--notion-mcp": {
       "owner": "Badhansen",
@@ -117,7 +121,8 @@
         "notion mcp",
         "protocol mcp",
         "todo lists"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Harry-027--JotDown": {
       "owner": "Harry-027",
@@ -140,7 +145,8 @@
         "generate mdbooks",
         "mdbooks structured",
         "notion app"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "HenryHaoson--Yuque-MCP-Server": {
       "owner": "HenryHaoson",
@@ -163,7 +169,8 @@
         "yuque api",
         "yuque platform",
         "integrating yuque"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "KS-GEN-AI--confluence-mcp-server": {
       "owner": "KS-GEN-AI",
@@ -186,7 +193,8 @@
         "confluence data",
         "server confluence",
         "confluence mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "KS-GEN-AI--jira-mcp-server": {
       "owner": "KS-GEN-AI",
@@ -209,7 +217,8 @@
         "jira data",
         "jira mcp",
         "read jira"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Klavis-AI--YouTube": {
       "owner": "Klavis-AI",
@@ -232,7 +241,8 @@
         "youtube extract",
         "convert youtube",
         "ai youtube"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "MarkusPfundstein--mcp-obsidian": {
       "owner": "MarkusPfundstein",
@@ -255,7 +265,8 @@
         "interacting obsidian",
         "obsidian interacting",
         "obsidian rest"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "MonadsAG--capsulecrm-mcp": {
       "owner": "MonadsAG",
@@ -278,7 +289,8 @@
         "monadsag capsulecrm",
         "capsulecrm mcp",
         "capsule crm"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Mtehabsim--ScreenPilot": {
       "owner": "Mtehabsim",
@@ -301,7 +313,8 @@
         "mtehabsim screenpilot",
         "gui interactions",
         "screenpilot enables"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "NON906--omniparser-autogui-mcp": {
       "owner": "NON906",
@@ -324,7 +337,8 @@
         "omniparser autogui",
         "screen gui",
         "autogui mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "NakaokaRei--swift-mcp-gui": {
       "owner": "NakaokaRei",
@@ -347,7 +361,8 @@
         "mcp gui",
         "swift mcp",
         "gui mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "PV-Bhat--vibe-check-mcp-server": {
       "owner": "PV-Bhat",
@@ -370,7 +385,8 @@
         "vibe check",
         "server mcp",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "QuentinCody--shopify-storefront-mcp-server": {
       "owner": "QuentinCody",
@@ -393,7 +409,8 @@
         "discover shopify",
         "storefront mcp",
         "shopify storefront"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Rai220--think-mcp": {
       "owner": "Rai220",
@@ -416,7 +433,8 @@
         "think tools",
         "reasoning capabilities",
         "mcp enhances"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "SecretiveShell--MCP-wolfram-alpha": {
       "owner": "SecretiveShell",
@@ -439,7 +457,8 @@
         "mcp wolfram",
         "alpha api",
         "querying wolfram"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Seym0n--tiktok-mcp": {
       "owner": "Seym0n",
@@ -462,7 +481,8 @@
         "tiktok videos",
         "interact tiktok",
         "tiktok mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "Shopify--dev-mcp": {
       "owner": "Shopify",
@@ -485,7 +505,8 @@
         "integrations shopify",
         "shopify dev",
         "interacts shopify"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "TheoBrigitte--mcp-time": {
       "owner": "TheoBrigitte",
@@ -508,7 +529,8 @@
         "time mcp",
         "mcp time",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "UnitVectorY-Labs--mcp-graphql-forge": {
       "owner": "UnitVectorY-Labs",
@@ -531,7 +553,8 @@
         "mcp graphql",
         "curated graphql",
         "graphql forge"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ZeparHyfar--mcp-datetime": {
       "owner": "ZeparHyfar",
@@ -554,7 +577,8 @@
         "mcp datetime",
         "datetime mcp",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "akseyh--bear-mcp-server": {
       "owner": "akseyh",
@@ -577,7 +601,8 @@
         "notes macos",
         "bear notes",
         "bear mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "allenporter--mcp-server-home-assistant": {
       "owner": "allenporter",
@@ -600,7 +625,8 @@
         "home assistant",
         "assistant voice",
         "voice intents"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "altinoren--utopia": {
       "owner": "altinoren",
@@ -623,7 +649,8 @@
         "utopia mcp",
         "lifestyle devices",
         "smart home"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "amidabuddha--unichat-mcp-server": {
       "owner": "amidabuddha",
@@ -646,7 +673,8 @@
         "amidabuddha unichat",
         "mcp server",
         "integrations amidabuddha"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "anaisbetts--mcp-installer": {
       "owner": "anaisbetts",
@@ -669,7 +697,8 @@
         "mcp installer",
         "installer mcp",
         "installs mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "anaisbetts--mcp-youtube": {
       "owner": "anaisbetts",
@@ -692,7 +721,8 @@
         "youtube subtitles",
         "mcp youtube",
         "fetch youtube"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "andybrandt--mcp-simple-openai-assistant": {
       "owner": "andybrandt",
@@ -715,7 +745,8 @@
         "openai assistant",
         "openai assistants",
         "assistant mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ankitmalik84--notion-mcp-server": {
       "owner": "ankitmalik84",
@@ -738,7 +769,8 @@
         "protocol mcp",
         "notion mcp",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "apify--actors-mcp-server": {
       "owner": "apify",
@@ -761,7 +793,8 @@
         "cloud tools",
         "tools integrations",
         "actors extract"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "apinetwork--piapi-mcp-server": {
       "owner": "apinetwork",
@@ -784,7 +817,8 @@
         "apinetwork piapi",
         "piapi mcp",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "awkoy--replicate-flux-mcp": {
       "owner": "awkoy",
@@ -807,7 +841,8 @@
         "awkoy replicate",
         "generate images",
         "images replicate"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "awwaiid--mcp-server-taskwarrior": {
       "owner": "awwaiid",
@@ -830,7 +865,8 @@
         "taskwarrior mcp",
         "local taskwarrior",
         "server taskwarrior"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "bart6114--my-bear-mcp-server": {
       "owner": "bart6114",
@@ -853,7 +889,8 @@
         "bear note",
         "notes tags",
         "bear sqlitedb"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "billster45--mcp-chatgpt-responses": {
       "owner": "billster45",
@@ -876,7 +913,8 @@
         "mcp chatgpt",
         "chatgpt responses",
         "chatgpt use"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "blurrah--mcp-graphql": {
       "owner": "blurrah",
@@ -899,7 +937,8 @@
         "graphql servers",
         "graphql allows",
         "mcp graphql"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "boldsign--boldsign-mcp": {
       "owner": "boldsign",
@@ -922,7 +961,8 @@
         "effortlessly boldsign",
         "boldsign com",
         "boldsign mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "brianxiadong--ones-wiki-mcp-server": {
       "owner": "brianxiadong",
@@ -945,7 +985,8 @@
         "ai mcp",
         "wiki mcp",
         "mcp based"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "calclavia--mcp-obsidian": {
       "owner": "calclavia",
@@ -968,7 +1009,8 @@
         "obsidian vault",
         "mcp obsidian",
         "notes obsidian"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "caol64--wenyan-mcp": {
       "owner": "caol64",
@@ -991,7 +1033,8 @@
         "markdown articles",
         "publish wechat",
         "format markdown"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "chrishayuk--mcp-cli": {
       "owner": "chrishayuk",
@@ -1014,7 +1057,8 @@
         "mcp cli",
         "testing mcp",
         "mcp servers"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "danhilse--notion_mcp": {
       "owner": "danhilse",
@@ -1037,7 +1081,8 @@
         "notion api",
         "todo lists",
         "notion_mcp integrates"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "danielkennedy1--pdf-tools-mcp": {
       "owner": "danielkennedy1",
@@ -1060,7 +1105,8 @@
         "pdf tools",
         "mcp pdf",
         "tools mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "dotemacs--domain-lookup-mcp": {
       "owner": "dotemacs",
@@ -1083,7 +1129,8 @@
         "dotemacs domain",
         "domain lookup",
         "mcp domain"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ekkyarmandi--ticktick-mcp": {
       "owner": "ekkyarmandi",
@@ -1106,7 +1153,8 @@
         "ekkyarmandi ticktick",
         "mcp ticktick",
         "ticktick mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "emicklei--mcp-log-proxy": {
       "owner": "emicklei",
@@ -1129,7 +1177,8 @@
         "proxy mcp",
         "log proxy",
         "mcp log"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "esignaturescom--mcp-server-esignatures": {
       "owner": "esignaturescom",
@@ -1152,7 +1201,8 @@
         "contracts esignatures",
         "esignatures contract",
         "integrations esignaturescom"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "evalstate--mcp-hfspace": {
       "owner": "evalstate",
@@ -1175,7 +1225,8 @@
         "mcp hfspace",
         "hfspace use",
         "huggingface spaces"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "evalstate--mcp-miro": {
       "owner": "evalstate",
@@ -1198,7 +1249,8 @@
         "access miro",
         "miro access",
         "miro whiteboards"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "feuerdev--keep-mcp": {
       "owner": "feuerdev",
@@ -1221,7 +1273,8 @@
         "google notes",
         "tools integrations",
         "feuerdev mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "fotoetienne--gqai": {
       "owner": "fotoetienne",
@@ -1244,7 +1297,8 @@
         "mcp server",
         "generates mcp",
         "mutations gqai"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "future-audiences--wikimedia-enterprise-model-context-protocol": {
       "owner": "future-audiences",
@@ -1267,7 +1321,8 @@
         "wikimedia enterprise",
         "audiences wikimedia",
         "protocol wikipedia"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "githejie--mcp-server-calculator": {
       "owner": "githejie",
@@ -1290,7 +1345,8 @@
         "server calculator",
         "calculator server",
         "calculator precise"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "gotoolkits--DifyWorkflow": {
       "owner": "gotoolkits",
@@ -1313,7 +1369,8 @@
         "difyworkflow tools",
         "gotoolkits difyworkflow",
         "dify workflows"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "growilabs--growi-mcp-server": {
       "owner": "growilabs",
@@ -1336,7 +1393,8 @@
         "growi apis",
         "growi mcp",
         "integrations growilabs"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "gwbischof--free-will-mcp": {
       "owner": "gwbischof",
@@ -1359,7 +1417,8 @@
         "ai free",
         "mcp ai",
         "explore ai"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "hiromitsusasaki--raindrop-io-mcp-server": {
       "owner": "hiromitsusasaki",
@@ -1382,7 +1441,8 @@
         "raindrop io",
         "interact raindrop",
         "hiromitsusasaki raindrop"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "hmk--attio-mcp-server": {
       "owner": "hmk",
@@ -1405,7 +1465,8 @@
         "ai clients",
         "notes attio",
         "attio mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "imprvhub--mcp-claude-spotify": {
       "owner": "imprvhub",
@@ -1428,7 +1489,8 @@
         "interact spotify",
         "spotify integration",
         "spotify using"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "inkbytefo--screenmonitormcp": {
       "owner": "inkbytefo",
@@ -1451,7 +1513,8 @@
         "inkbytefo screenmonitormcp",
         "screenmonitormcp real",
         "ui monitoring"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "isaacwasserman--mcp-vegalite-server": {
       "owner": "isaacwasserman",
@@ -1474,7 +1537,8 @@
         "visualizations fetched",
         "generate visualizations",
         "vegalite server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ivnvxd--mcp-server-odoo": {
       "owner": "ivnvxd",
@@ -1497,7 +1561,8 @@
         "assistants odoo",
         "odoo erp",
         "odoo connect"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ivo-toby--contentful-mcp": {
       "owner": "ivo-toby",
@@ -1520,7 +1585,8 @@
         "contentful mcp",
         "assets contentful",
         "content models"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "j3k0--speech.sh": {
       "owner": "j3k0",
@@ -1543,7 +1609,8 @@
         "j3k0 speech",
         "agent speak",
         "integrations j3k0"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "jagan-shanmugam--climatiq-mcp-server": {
       "owner": "jagan-shanmugam",
@@ -1566,7 +1633,8 @@
         "climatiq api",
         "climatiq mcp",
         "accessing climatiq"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "jen6--ticktick-mcp": {
       "owner": "jen6",
@@ -1589,7 +1657,8 @@
         "mcp ticktick",
         "ticktick mcp",
         "ticktick py"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "jimfilippou--things-mcp": {
       "owner": "jimfilippou",
@@ -1612,7 +1681,8 @@
         "things mcp",
         "mcp server",
         "protocol mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "johannesbrandenburger--typst-mcp": {
       "owner": "johannesbrandenburger",
@@ -1635,7 +1705,8 @@
         "latex typst",
         "typst markup",
         "typst mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "joshuarileydev--mac-apps-launcher-mcp-server": {
       "owner": "joshuarileydev",
@@ -1658,7 +1729,8 @@
         "applications macos",
         "mac apps",
         "launcher mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "k-jarzyna--mcp-miro": {
       "owner": "k-jarzyna",
@@ -1681,7 +1753,8 @@
         "miro sdk",
         "mcp miro",
         "miro mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "kelvin6365--plane-mcp-server": {
       "owner": "kelvin6365",
@@ -1704,7 +1777,8 @@
         "plane api",
         "plane mcp",
         "kelvin6365 plane"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "kenliao94--mcp-server-rabbitmq": {
       "owner": "kenliao94",
@@ -1727,7 +1801,8 @@
         "rabbitmq enable",
         "server rabbitmq",
         "dequeue rabbitmq"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "kimtth--mcp-remote-call-ping-pong": {
       "owner": "kimtth",
@@ -1750,7 +1825,8 @@
         "remote mcp",
         "mcp remote",
         "ping pong"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "kiwamizamurai--mcp-kibela-server": {
       "owner": "kiwamizamurai",
@@ -1773,7 +1849,8 @@
         "kibela api",
         "kibela server",
         "interact kibela"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "kj455--mcp-kibela": {
       "owner": "kj455",
@@ -1796,7 +1873,8 @@
         "interact kibela",
         "integrations kj455",
         "mcp kibela"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "kw510--strava-mcp": {
       "owner": "kw510",
@@ -1819,7 +1897,8 @@
         "strava mcp",
         "tracking physical",
         "kw510 strava"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "louiscklaw--hko-mcp": {
       "owner": "louiscklaw",
@@ -1842,7 +1921,8 @@
         "mcp server",
         "hko mcp",
         "kong observatory"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "magarcia--mcp-server-giphy": {
       "owner": "magarcia",
@@ -1865,7 +1945,8 @@
         "retrieve gifs",
         "giphy api",
         "server giphy"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "marcelmarais--Spotify": {
       "owner": "marcelmarais",
@@ -1888,7 +1969,8 @@
         "spotify control",
         "control spotify",
         "spotify playback"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "mediar-ai--screenpipe": {
       "owner": "mediar-ai",
@@ -1911,7 +1993,8 @@
         "ai screenpipe",
         "agents nextjs",
         "mediar ai"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "modelcontextprotocol--server-everything": {
       "owner": "modelcontextprotocol",
@@ -1934,7 +2017,8 @@
         "mcp server",
         "server mcp",
         "mcp protocol"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "mrjoshuak--godoc-mcp": {
       "owner": "mrjoshuak",
@@ -1957,7 +2041,8 @@
         "documentation server",
         "efficient documentation",
         "package docs"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "mzxrai--mcp-openai": {
       "owner": "mzxrai",
@@ -1980,7 +2065,8 @@
         "openai chat",
         "openai smartest",
         "chat openai"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "nguyenvanduocit--all-in-one-model-context-protocol": {
       "owner": "nguyenvanduocit",
@@ -2003,7 +2089,8 @@
         "tools integrations",
         "useful tools",
         "tools developer"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "offorte--offorte-mcp-server": {
       "owner": "offorte",
@@ -2026,7 +2113,8 @@
         "offorte proposal",
         "offorte mcp",
         "server offorte"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "olalonde--mcp-human": {
       "owner": "olalonde",
@@ -2049,7 +2137,8 @@
         "mechanical turk",
         "human llm",
         "human assistance"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "orellazi--coda-mcp": {
       "owner": "orellazi",
@@ -2072,7 +2161,8 @@
         "coda mcp",
         "mcp server",
         "server coda"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "osinmv--funciton-lookup-mcp": {
       "owner": "osinmv",
@@ -2095,7 +2185,8 @@
         "integrations osinmv",
         "lookup mcp",
         "osinmv funciton"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "pierrebrunelle--mcp-server-openai": {
       "owner": "pierrebrunelle",
@@ -2118,7 +2209,8 @@
         "openai models",
         "query openai",
         "openai query"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "pskill9--hn-server": {
       "owner": "pskill9",
@@ -2141,7 +2233,8 @@
         "hacker news",
         "integrations pskill9",
         "com hacker"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "punkpeye--fastmcp": {
       "owner": "punkpeye",
@@ -2164,7 +2257,8 @@
         "servers typescript",
         "mcp servers",
         "building mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "pwh-pwh--cal-mcp": {
       "owner": "pwh-pwh",
@@ -2187,7 +2281,8 @@
         "integrations pwh",
         "server mathematical",
         "mcp mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "pyroprompts--any-chat-completions-mcp": {
       "owner": "pyroprompts",
@@ -2210,7 +2305,8 @@
         "chat completions",
         "pyroprompts chat",
         "mcp chat"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "quarkiverse--mcp-server-jfx": {
       "owner": "quarkiverse",
@@ -2233,7 +2329,8 @@
         "jfx draw",
         "draw javafx",
         "javafx canvas"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "r-huijts--ethics-check-mcp": {
       "owner": "r-huijts",
@@ -2256,7 +2353,8 @@
         "ethical analysis",
         "ai conversations",
         "ethics check"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "rae-api-com--rae-mcp": {
       "owner": "rae-api-com",
@@ -2279,7 +2377,8 @@
         "mpc server",
         "rae api",
         "mcp mpc"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "reeeeemo--ancestry-mcp": {
       "owner": "reeeeemo",
@@ -2302,7 +2401,8 @@
         "ancestry mcp",
         "files genetic",
         "genetic data"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "rember--rember-mcp": {
       "owner": "rember",
@@ -2325,7 +2425,8 @@
         "flashcards rember",
         "repetition flashcards",
         "rember mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "roychri--mcp-server-asana": {
       "owner": "roychri",
@@ -2348,7 +2449,8 @@
         "asana api",
         "server asana",
         "implementation asana"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "rusiaaman--wcgw": {
       "owner": "rusiaaman",
@@ -2371,7 +2473,8 @@
         "autonomous shell",
         "shell execution",
         "agent mac"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "sirmews--apple-notes-mcp": {
       "owner": "sirmews",
@@ -2394,7 +2497,8 @@
         "apple notes",
         "notes database",
         "sirmews apple"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "sooperset--mcp-atlassian": {
       "owner": "sooperset",
@@ -2417,7 +2521,8 @@
         "confluence cloud",
         "mcp atlassian",
         "atlassian mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "suekou--mcp-notion-server": {
       "owner": "suekou",
@@ -2440,7 +2545,8 @@
         "notion server",
         "notion api",
         "mcp notion"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "tacticlaunch--mcp-linear": {
       "owner": "tacticlaunch",
@@ -2463,7 +2569,8 @@
         "integrations tacticlaunch",
         "tacticlaunch mcp",
         "project management"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "tanigami--mcp-server-perplexity": {
       "owner": "tanigami",
@@ -2486,7 +2593,8 @@
         "perplexity api",
         "server perplexity",
         "perplexity interacting"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "tevonsb--homeassistant-mcp": {
       "owner": "tevonsb",
@@ -2509,7 +2617,8 @@
         "integrations tevonsb",
         "tevonsb homeassistant",
         "home assistant"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "tomekkorbak--oura-mcp-server": {
       "owner": "tomekkorbak",
@@ -2532,7 +2641,8 @@
         "tracking sleep",
         "oura mcp",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "tqiqbal--mcp-confluence-server": {
       "owner": "tqiqbal",
@@ -2555,7 +2665,8 @@
         "confluence server",
         "mcp confluence",
         "interacting confluence"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ttommyth--interactive-mcp": {
       "owner": "ttommyth",
@@ -2578,7 +2689,8 @@
         "interactive llm",
         "llm workflows",
         "ttommyth interactive"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "tumf--web3-mcp": {
       "owner": "tumf",
@@ -2601,7 +2713,8 @@
         "tumf web3",
         "web3 mcp",
         "mcp server"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ujisati--anki-mcp": {
       "owner": "ujisati",
@@ -2624,7 +2737,8 @@
         "anki collection",
         "manage anki",
         "anki mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "wanaku-ai--wanaku": {
       "owner": "wanaku-ai",
@@ -2647,7 +2761,8 @@
         "wanaku mcp",
         "mcp router",
         "integrations wanaku"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "wong2--mcp-cli": {
       "owner": "wong2",
@@ -2670,7 +2785,8 @@
         "mcp cli",
         "testing mcp",
         "mcp servers"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "ws-mcp](https:--/github.com/nick1udwig/ws-mcp) - Wrap MCP servers with a WebSocket (for use with [kitbitz": {
       "owner": "ws-mcp](https:",
@@ -2693,7 +2809,8 @@
         "hackmd mcp",
         "ws mcp",
         "mcp servers"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     },
     "zueai--mcp-manager": {
       "owner": "zueai",
@@ -2716,7 +2833,8 @@
         "mcp manager",
         "manage mcp",
         "zueai mcp"
-      ]
+      ],
+      "category": "other-tools-and-integrations"
     }
   }
 }

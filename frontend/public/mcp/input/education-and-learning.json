@@ -25,7 +25,8 @@
         "mcp style",
         "mcp_style mcp",
         "1282saa mcp_style"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "54yyyu--school-mcp": {
       "owner": "54yyyu",
@@ -48,7 +49,8 @@
         "mcp school",
         "school mcp",
         "mcp server"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "54yyyu--zotero-mcp": {
       "owner": "54yyyu",
@@ -71,7 +73,8 @@
         "zotero mcp",
         "mcp zotero",
         "zotero research"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Arcewoose--SeSac_study_repo": {
       "owner": "Arcewoose",
@@ -94,7 +97,8 @@
         "arcewoose sesac_study_repo",
         "sesac_study_repo document",
         "learning arcewoose"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Birdsmith--Gauntlet-Incept-MCP": {
       "owner": "Birdsmith",
@@ -117,7 +121,8 @@
         "educational content",
         "learning birdsmith",
         "incept mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Chris-June--MCP-Server": {
       "owner": "Chris-June",
@@ -140,7 +145,8 @@
         "manages ai",
         "ai agents",
         "memory agent"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "DMontgomery40--mcp-canvas-lms": {
       "owner": "DMontgomery40",
@@ -163,7 +169,8 @@
         "canvas lms",
         "mcp canvas",
         "grades canvas"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "DMontgomery40--mcp-server-birdstats": {
       "owner": "DMontgomery40",
@@ -186,7 +193,8 @@
         "birdstats analyze",
         "analyze birdnet",
         "server birdstats"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "EduBase--MCP": {
       "owner": "EduBase",
@@ -209,7 +217,8 @@
         "learning edubase",
         "interact edubase",
         "edubase mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Ejb503--systemprompt-mcp-interview": {
       "owner": "Ejb503",
@@ -232,7 +241,8 @@
         "interview skills",
         "ai personas",
         "mcp interview"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Faizanadvance--javascripts": {
       "owner": "Faizanadvance",
@@ -255,7 +265,8 @@
         "faizanadvance javascripts",
         "javascripts provides",
         "javascript programming"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "L3-N0X--Minecraft-Wiki-MCP": {
       "owner": "L3-N0X",
@@ -278,7 +289,8 @@
         "minecraft wiki",
         "official minecraft",
         "n0x minecraft"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Libaizaima--LearnPython": {
       "owner": "Libaizaima",
@@ -301,7 +313,8 @@
         "teach python",
         "python programming",
         "libaizaima learnpython"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "LoganLxb--LoganLxb": {
       "owner": "LoganLxb",
@@ -324,7 +337,8 @@
         "learning loganlxb",
         "mixed reality",
         "augmented virtual"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "M-Gonzalo--cosa-sai": {
       "owner": "M-Gonzalo",
@@ -347,7 +361,8 @@
         "documentation variety",
         "access documentation",
         "knowledge base"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "MushroomFleet--DeepLucid3D-MCP": {
       "owner": "MushroomFleet",
@@ -370,7 +385,8 @@
         "cognitive tools",
         "structured cognitive",
         "mushroomfleet deeplucid3d"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "MushroomFleet--UNO-MCP": {
       "owner": "MushroomFleet",
@@ -393,7 +409,8 @@
         "learning mushroomfleet",
         "story elements",
         "narratives using"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "MymInsomnia--textClassifier": {
       "owner": "MymInsomnia",
@@ -416,7 +433,8 @@
         "trained nlp",
         "myminsomnia textclassifier",
         "text classification"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "OpenTorah-ai--mcp-sefaria-server": {
       "owner": "OpenTorah-ai",
@@ -439,7 +457,8 @@
         "learning opentorah",
         "jewish texts",
         "opentorah ai"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Paulinholeo--AI-Bootcamp": {
       "owner": "Paulinholeo",
@@ -462,7 +481,8 @@
         "ai bootcamp",
         "ai engineering",
         "learning paulinholeo"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "PewterZz--CanvasLMS-ModelContextProtocol": {
       "owner": "PewterZz",
@@ -485,7 +505,8 @@
         "canvas lms",
         "pewterzz canvaslms",
         "canvas instances"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "QuantumLeap-us--css-mcp-server": {
       "owner": "QuantumLeap-us",
@@ -508,7 +529,8 @@
         "quantumleap css",
         "css mcp",
         "latest css"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Runbuilder--mcpkupsik": {
       "owner": "Runbuilder",
@@ -531,7 +553,8 @@
         "meal information",
         "meal planning",
         "meal menus"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "SAKETH11111--reference-servers": {
       "owner": "SAKETH11111",
@@ -554,7 +577,8 @@
         "thinking process",
         "structured thinking",
         "reasoning paths"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Sivan22--mcp-sefaria-server": {
       "owner": "Sivan22",
@@ -577,7 +601,8 @@
         "referencing ai",
         "sefaria library",
         "jewish texts"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Swan-and-Co-Innovations--MCP": {
       "owner": "Swan-and-Co-Innovations",
@@ -600,7 +625,8 @@
         "innovations mcp",
         "sequential thinking",
         "thinking tool"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Taidgh-Robinson--nba-mcp-server": {
       "owner": "Taidgh-Robinson",
@@ -623,7 +649,8 @@
         "nba data",
         "nba mcp",
         "nba game"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Tanner253--ComedyMcpServer": {
       "owner": "Tanner253",
@@ -646,7 +673,8 @@
         "tanner253 comedymcpserver",
         "comedymcpserver generates",
         "humorous code"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "TeXmeijin--manalinkMCP": {
       "owner": "TeXmeijin",
@@ -669,7 +697,8 @@
         "learning texmeijin",
         "texmeijin manalinkmcp",
         "connect ai"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Wendong-Fan--HowToLiveLonger": {
       "owner": "Wendong-Fan",
@@ -692,7 +721,8 @@
         "improving longevity",
         "longevity nutrition",
         "lifestyle insights"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "WhenMoon-afk--claude-memory-mcp": {
       "owner": "WhenMoon-afk",
@@ -715,7 +745,8 @@
         "claude memory",
         "memory mcp",
         "memories conversations"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "WilliamCloudQi--matlab-mcp-server": {
       "owner": "WilliamCloudQi",
@@ -738,7 +769,8 @@
         "matlab mcp",
         "matlab ai",
         "matlab documentation"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "XPE-7--MCP-Server": {
       "owner": "XPE-7",
@@ -761,7 +793,8 @@
         "learning xpe",
         "xpe mcp",
         "retrieval ai"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Yash-Kavaiya--introduction-to-llms-nptel": {
       "owner": "Yash-Kavaiya",
@@ -784,7 +817,8 @@
         "language models",
         "introduction llms",
         "large language"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "Yash-Kavaiya--mcp-video-gen": {
       "owner": "Yash-Kavaiya",
@@ -807,7 +841,8 @@
         "audio narration",
         "video presentations",
         "text speech"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ZannyTornadoCoding--my-sequential-thinking-mcp-server": {
       "owner": "ZannyTornadoCoding",
@@ -830,7 +865,8 @@
         "sequential thinking",
         "thinking pathways",
         "thought processes"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ahnopologetic--canvas-lms-mcp": {
       "owner": "ahnopologetic",
@@ -853,7 +889,8 @@
         "canvas lms",
         "lms mcp",
         "lms including"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "aindreyway--mcp-codex-keeper": {
       "owner": "aindreyway",
@@ -876,7 +913,8 @@
         "ai assistants",
         "practices ai",
         "assistants facilitating"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ajay-sai--Machine-Learning-Interviews": {
       "owner": "ajay-sai",
@@ -899,7 +937,8 @@
         "learning interviews",
         "engineering interviews",
         "learning engineering"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "akalaric--mcp-wolframalpha": {
       "owner": "akalaric",
@@ -922,7 +961,8 @@
         "chat applications",
         "alpha chat",
         "wolfram alpha"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "aldrin-labs--metal-mcp-server": {
       "owner": "aldrin-labs",
@@ -945,7 +985,8 @@
         "search metal",
         "metal code",
         "querying documentation"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "arben-adm--mcp-sequential-thinking": {
       "owner": "arben-adm",
@@ -968,7 +1009,8 @@
         "sequential thinking",
         "structured thinking",
         "thinking facilitates"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "aryankeluskar--canvas-mcp": {
       "owner": "aryankeluskar",
@@ -991,7 +1033,8 @@
         "aryankeluskar canvas",
         "canvas mcp",
         "canvas lms"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "beastmod7--You-Dont-Know-JS": {
       "owner": "beastmod7",
@@ -1014,7 +1057,8 @@
         "js comprehensive",
         "know js",
         "learning beastmod7"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "bmorphism--penrose-mcp": {
       "owner": "bmorphism",
@@ -1037,7 +1081,8 @@
         "mathematical diagrams",
         "diagrams using",
         "mathematical types"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "cabrit0--mcp_server_reuneMacacada": {
       "owner": "cabrit0",
@@ -1060,7 +1105,8 @@
         "cabrit0 mcp_server_reunemacacada",
         "mcp_server_reunemacacada generates",
         "learning paths"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "cantian-ai--bazi-mcp": {
       "owner": "cantian-ai",
@@ -1083,7 +1129,8 @@
         "ai bazi",
         "personality destiny",
         "bazi chinese"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "captain-blue210--anki-mcp-server": {
       "owner": "captain-blue210",
@@ -1106,7 +1153,8 @@
         "anki mcp",
         "tagged cards",
         "blue210 anki"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "daigxok--gdsx": {
       "owner": "daigxok",
@@ -1129,7 +1177,8 @@
         "learning daigxok",
         "educational research",
         "daigxok gdsx"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "datalayer--jupyter-mcp-server": {
       "owner": "datalayer",
@@ -1152,7 +1201,8 @@
         "datalayer jupyter",
         "jupyter notebooks",
         "interact jupyter"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "devshark--personality-test-mcp": {
       "owner": "devshark",
@@ -1175,7 +1225,8 @@
         "personality test",
         "personality tests",
         "personality frameworks"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "dhkim0124--anki-mcp-server": {
       "owner": "dhkim0124",
@@ -1198,7 +1249,8 @@
         "anki flashcards",
         "management anki",
         "anki mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "dhkts1--sequentialStory": {
       "owner": "dhkts1",
@@ -1221,7 +1273,8 @@
         "sequential thinking",
         "stories sequential",
         "sequential thoughts"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "djalal--quran-mcp-server": {
       "owner": "djalal",
@@ -1244,7 +1297,8 @@
         "access quran",
         "djalal quran",
         "quranic content"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "dragonku--mcp_school_food": {
       "owner": "dragonku",
@@ -1267,7 +1321,8 @@
         "dragonku mcp_school_food",
         "mcp_school_food retrieve",
         "school meal"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "dreyfus92--astro-docs-mcp": {
       "owner": "dreyfus92",
@@ -1290,7 +1345,8 @@
         "astro documentation",
         "documentation ai",
         "astro docs"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "enkhbold470--mcp-server-canvas": {
       "owner": "enkhbold470",
@@ -1313,7 +1369,8 @@
         "canvas lms",
         "server canvas",
         "canvas api"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ethangillani--Anki-MCP-Server": {
       "owner": "ethangillani",
@@ -1336,7 +1393,8 @@
         "anki flashcard",
         "using anki",
         "anki mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "faizan45640--google-classroom-mcp-server": {
       "owner": "faizan45640",
@@ -1359,7 +1417,8 @@
         "google classroom",
         "classroom data",
         "classroom mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "falahgs--Brave-Gemini-Research-MCP-Server": {
       "owner": "falahgs",
@@ -1382,7 +1441,8 @@
         "brave search",
         "web search",
         "web searches"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "falahgs--MCP-Storybook-Image-Generator": {
       "owner": "falahgs",
@@ -1405,7 +1465,8 @@
         "storybook images",
         "storybook image",
         "mcp storybook"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "findmine--findmine-mcp": {
       "owner": "findmine",
@@ -1428,7 +1489,8 @@
         "findmine styling",
         "findmine mcp",
         "learning findmine"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "galihfr09--quran_cloud_mcp_server": {
       "owner": "galihfr09",
@@ -1451,7 +1513,8 @@
         "quran api",
         "galihfr09 quran_cloud_mcp_server",
         "access quranic"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ggerve--coding-standards-mcp": {
       "owner": "ggerve",
@@ -1474,7 +1537,8 @@
         "ggerve coding",
         "coding standards",
         "standards mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ghassenTn--storyGen": {
       "owner": "ghassenTn",
@@ -1497,7 +1561,8 @@
         "storygen generate",
         "engaging stories",
         "ghassentn storygen"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "gp-zhong--Physics": {
       "owner": "gp-zhong",
@@ -1520,7 +1585,8 @@
         "learning physics",
         "zhong physics",
         "understand physical"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "hellokitty-v--MCP-Learn": {
       "owner": "hellokitty-v",
@@ -1543,7 +1609,8 @@
         "learning hellokitty",
         "mcp learn",
         "context protocol"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "hichana--goalstory-mcp": {
       "owner": "hichana",
@@ -1566,7 +1633,8 @@
         "goalstory mcp",
         "goal story",
         "planning goal"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "hyperskill--mcp": {
       "owner": "hyperskill",
@@ -1589,7 +1657,8 @@
         "hyperskill educational",
         "learning hyperskill",
         "hyperskill mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "iamleoluo--Quantum-Computing-Approach": {
       "owner": "iamleoluo",
@@ -1612,7 +1681,8 @@
         "quantum computing",
         "iamleoluo quantum",
         "using quantum"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "intersective--practera-mcp-server": {
       "owner": "intersective",
@@ -1635,7 +1705,8 @@
         "practera graphql",
         "projects assessments",
         "intersective practera"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ipospelov--mcp-memory-bank": {
       "owner": "ipospelov",
@@ -1658,7 +1729,8 @@
         "memory bank",
         "ai context",
         "structured memory"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ipvr9--mcp-limitless-server": {
       "owner": "ipvr9",
@@ -1681,7 +1753,8 @@
         "ai chat",
         "lifelog data",
         "chat interfaces"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "jasperket--clanki": {
       "owner": "jasperket",
@@ -1704,7 +1777,8 @@
         "anki flashcards",
         "manage anki",
         "seamlessly anki"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "jerpint--paperpal": {
       "owner": "jerpint",
@@ -1727,7 +1801,8 @@
         "learning papers",
         "jerpint paperpal",
         "enhance literature"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "jinzcdev--leetcode-mcp-server": {
       "owner": "jinzcdev",
@@ -1750,7 +1825,8 @@
         "leetcode mcp",
         "jinzcdev leetcode",
         "access leetcode"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "johwiebe--anki-mcp": {
       "owner": "johwiebe",
@@ -1773,7 +1849,8 @@
         "assistants anki",
         "anki facilitate",
         "anki collection"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "jonathanfischer97--juliadoc-mcp": {
       "owner": "jonathanfischer97",
@@ -1796,7 +1873,8 @@
         "julia documentation",
         "juliadoc mcp",
         "specific julia"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "jpablomm--mcp-canvas-hackathon": {
       "owner": "jpablomm",
@@ -1819,7 +1897,8 @@
         "canvas lms",
         "canvas hackathon",
         "mcp canvas"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "jpablomm--mcp-hackathon-canvas": {
       "owner": "jpablomm",
@@ -1842,7 +1921,8 @@
         "hackathon canvas",
         "canvas lms",
         "upcoming assignments"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "kiennd--reference-servers": {
       "owner": "kiennd",
@@ -1865,7 +1945,8 @@
         "thinking process",
         "learning kiennd",
         "thoughts exploring"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "leescot--pubmed-mcp-smithery": {
       "owner": "leescot",
@@ -1888,7 +1969,8 @@
         "pubmed database",
         "papers pubmed",
         "pubmed mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "linxule--lotus-wisdom-mcp": {
       "owner": "linxule",
@@ -1911,7 +1993,8 @@
         "wisdom mcp",
         "lotus wisdom",
         "lotus sutra"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "mahawi1992--mcp-documentation-server": {
       "owner": "mahawi1992",
@@ -1934,7 +2017,8 @@
         "documentation server",
         "documentation code",
         "smart search"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "mengjian-github--deepseek-newsletter": {
       "owner": "mengjian-github",
@@ -1957,7 +2041,8 @@
         "deepseek language",
         "deepseek newsletter",
         "information deepseek"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "microsoft--generative-ai-for-beginners": {
       "owner": "microsoft",
@@ -1980,7 +2065,8 @@
         "microsoft generative",
         "generative ai",
         "ai beginners"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "mikechao--metmuseum-mcp": {
       "owner": "mikechao",
@@ -2003,7 +2089,8 @@
         "mikechao metmuseum",
         "metropolitan museum",
         "metmuseum mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "mirinda-cmd--reference-servers-check": {
       "owner": "mirinda-cmd",
@@ -2026,7 +2113,8 @@
         "thinking process",
         "structured thinking",
         "problem solving"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "mususi--ultimate-react-course": {
       "owner": "mususi",
@@ -2049,7 +2137,8 @@
         "react course",
         "ultimate react",
         "react skills"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "nailuoGG--anki-mcp-server": {
       "owner": "nailuoGG",
@@ -2072,7 +2161,8 @@
         "anki flashcard",
         "anki mcp",
         "interact anki"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ndchikin--reference-mcp": {
       "owner": "ndchikin",
@@ -2095,7 +2185,8 @@
         "citation data",
         "citation management",
         "streamline citation"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ohardcore--awesome-interview-questions": {
       "owner": "ohardcore",
@@ -2118,7 +2209,8 @@
         "technical interview",
         "interview preparation",
         "awesome interview"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "olaservo--shannon-thinking": {
       "owner": "olaservo",
@@ -2141,7 +2233,8 @@
         "thinking guides",
         "structured thoughts",
         "challenges structured"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "onebirdrocks--ebook-mcp": {
       "owner": "onebirdrocks",
@@ -2164,7 +2257,8 @@
         "ebook mcp",
         "onebirdrocks ebook",
         "books epub"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "peancor--moodle-mcp-server": {
       "owner": "peancor",
@@ -2187,7 +2281,8 @@
         "moodle courses",
         "manage moodle",
         "moodle mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "pjookim--mcp-visit-korea": {
       "owner": "pjookim",
@@ -2210,7 +2305,8 @@
         "tourism korea",
         "mcp visit",
         "visit korea"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "r-huijts--oorlogsbronnen-mcp": {
       "owner": "r-huijts",
@@ -2233,7 +2329,8 @@
         "oorlogsbronnen database",
         "access oorlogsbronnen",
         "huijts oorlogsbronnen"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "r-huijts--rijksmuseum-mcp": {
       "owner": "r-huijts",
@@ -2256,7 +2353,8 @@
         "rijksmuseum api",
         "huijts rijksmuseum",
         "rijksmuseum mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "reading-plus-ai--mcp-server-deep-research": {
       "owner": "reading-plus-ai",
@@ -2279,7 +2377,8 @@
         "deep research",
         "structured research",
         "research complex"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "rember--rember-mcp": {
       "owner": "rember",
@@ -2302,7 +2401,8 @@
         "learning rember",
         "enhancing learning",
         "rember mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "renatokuipers--neural-child": {
       "owner": "renatokuipers",
@@ -2325,7 +2425,8 @@
         "renatokuipers neural",
         "emotional intelligence",
         "develop ai"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "rohinigaonkar--mcp-math-macos": {
       "owner": "rohinigaonkar",
@@ -2348,7 +2449,8 @@
         "keynote macos",
         "math macos",
         "mathematical presentations"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "ruixingshi--deepseek-thinker-mcp": {
       "owner": "ruixingshi",
@@ -2371,7 +2473,8 @@
         "deepseek reasoning",
         "deepseek thinker",
         "deepseek thought"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "sagacious-satadru--Documentation-MCP": {
       "owner": "sagacious-satadru",
@@ -2394,7 +2497,8 @@
         "intelligent documentation",
         "documentation extraction",
         "ai libraries"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "samefarrar--mcp-ankiconnect": {
       "owner": "samefarrar",
@@ -2417,7 +2521,8 @@
         "anki facilitate",
         "mcp ankiconnect",
         "conversations anki"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "sammcj--mcp-package-docs": {
       "owner": "sammcj",
@@ -2440,7 +2545,8 @@
         "package documentation",
         "documentation parsing",
         "package docs"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "scorzeth--anki-mcp-server": {
       "owner": "scorzeth",
@@ -2463,7 +2569,8 @@
         "anki mcp",
         "anki facilitate",
         "running anki"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "scriptstar--de-mcp-server": {
       "owner": "scriptstar",
@@ -2486,7 +2593,8 @@
         "learning scriptstar",
         "scriptstar mcp",
         "mcp server"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "sdi2200262--eclass-mcp-server": {
       "owner": "sdi2200262",
@@ -2509,7 +2617,8 @@
         "courses retrieving",
         "access educational",
         "education learning"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "seanmichaelmcgee--pytorch-docs-refactored": {
       "owner": "seanmichaelmcgee",
@@ -2532,7 +2641,8 @@
         "pytorch docs",
         "pytorch documentation",
         "seanmichaelmcgee pytorch"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "shark-bot-0118--dive-deep-mcp": {
       "owner": "shark-bot-0118",
@@ -2555,7 +2665,8 @@
         "creative thinking",
         "deep mcp",
         "critical creative"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "sifue--zen-syllabus-mcp": {
       "owner": "sifue",
@@ -2578,7 +2689,8 @@
         "zen syllabus",
         "zen university",
         "syllabus mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "spences10--mcp-svelte-docs": {
       "owner": "spences10",
@@ -2601,7 +2713,8 @@
         "svelte docs",
         "documentation svelte",
         "svelte information"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "squirrelogic--mcp-feature-discussion": {
       "owner": "squirrelogic",
@@ -2624,7 +2737,8 @@
         "feature discussion",
         "mcp feature",
         "facilitates discussions"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "stagsz--Unconventional-thinking": {
       "owner": "stagsz",
@@ -2647,7 +2761,8 @@
         "unconventional thinking",
         "innovative thinking",
         "stagsz unconventional"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "svmlearn---": {
       "owner": "svmlearn",
@@ -2670,7 +2785,8 @@
         "learning svmlearn",
         "svmlearn supports",
         "vector machine"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "szeider--mcp-dblp": {
       "owner": "szeider",
@@ -2693,7 +2809,8 @@
         "publications dblp",
         "dblp search",
         "citation processing"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "takashiishida--arxiv-latex-mcp": {
       "owner": "takashiishida",
@@ -2716,7 +2833,8 @@
         "arxiv latex",
         "latex sources",
         "arxiv papers"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "tjl-with-code--Go-Interview": {
       "owner": "tjl-with-code",
@@ -2739,7 +2857,8 @@
         "tjl code",
         "programming interview",
         "code interview"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "vionwinnie--jap-vocab-anki-mcp-server": {
       "owner": "vionwinnie",
@@ -2762,7 +2881,8 @@
         "interact anki",
         "anki decks",
         "decks japanese"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "vishalsachdev--canvas-mcp": {
       "owner": "vishalsachdev",
@@ -2785,7 +2905,8 @@
         "vishalsachdev canvas",
         "canvas learning",
         "canvas mcp"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "waldzellai--model-enhancement-servers": {
       "owner": "waldzellai",
@@ -2808,7 +2929,8 @@
         "analogical thinking",
         "structured analogical",
         "analogy construction"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "wuye-ai--mcp-server-wuye-ai": {
       "owner": "wuye-ai",
@@ -2831,7 +2953,8 @@
         "ai assistant",
         "ai mcp",
         "wuye ai"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "xuhuatao--learn-python": {
       "owner": "xuhuatao",
@@ -2854,7 +2977,8 @@
         "learn python",
         "python interactively",
         "learning xuhuatao"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "yueleicool--EnglishGrammar": {
       "owner": "yueleicool",
@@ -2877,7 +3001,8 @@
         "yueleicool englishgrammar",
         "learning yueleicool",
         "englishgrammar provides"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "zachary-lzc--go": {
       "owner": "zachary-lzc",
@@ -2900,7 +3025,8 @@
         "containerized environment",
         "applications containerized",
         "lzc facilitates"
-      ]
+      ],
+      "category": "education-and-learning"
     },
     "zalab-inc--mcp-sequentialthinking": {
       "owner": "zalab-inc",
@@ -2923,7 +3049,8 @@
         "sequentialthinking facilitates",
         "thinking process",
         "mcp sequentialthinking"
-      ]
+      ],
+      "category": "education-and-learning"
     }
   }
 }

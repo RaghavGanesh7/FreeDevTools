@@ -25,7 +25,8 @@
         "pdf contracts",
         "contracts assesses",
         "advanced contract"
-      ]
+      ],
+      "category": "legal-and-compliance"
     },
     "mawazawa--agentic-pdf-app": {
       "owner": "mawazawa",
@@ -48,7 +49,8 @@
         "documents ai",
         "court pdf",
         "pdf app"
-      ]
+      ],
+      "category": "legal-and-compliance"
     },
     "protomated--legal-context": {
       "owner": "protomated",
@@ -71,7 +73,8 @@
         "legal documents",
         "legal compliance",
         "document management"
-      ]
+      ],
+      "category": "legal-and-compliance"
     },
     "pylegifrance--mcp-server-legifrance": {
       "owner": "pylegifrance",
@@ -94,7 +97,8 @@
         "legal databases",
         "legal compliance",
         "legifrance access"
-      ]
+      ],
+      "category": "legal-and-compliance"
     },
     "self-tech-labs--entscheidsuche-MCP-server": {
       "owner": "self-tech-labs",
@@ -117,7 +121,8 @@
         "documents entscheidsuche",
         "legal compliance",
         "entscheidsuche ch"
-      ]
+      ],
+      "category": "legal-and-compliance"
     },
     "u3588064--AutoDDC": {
       "owner": "u3588064",
@@ -140,7 +145,8 @@
         "autoddc automates",
         "u3588064 autoddc",
         "compliance u3588064"
-      ]
+      ],
+      "category": "legal-and-compliance"
     },
     "u3588064--AutoGuarantee": {
       "owner": "u3588064",
@@ -163,7 +169,8 @@
         "autoguarantee 自动提取保函文本中的要素和条款",
         "legal compliance",
         "自动提取保函文本中的要素和条款 提供法律和金融专业人士分析所需的信息"
-      ]
+      ],
+      "category": "legal-and-compliance"
     },
     "wuye-ai--mcp-server-wuye-ai": {
       "owner": "wuye-ai",
@@ -186,7 +193,8 @@
         "ai assistant",
         "wuye ai",
         "ai mcp"
-      ]
+      ],
+      "category": "legal-and-compliance"
     }
   }
 }

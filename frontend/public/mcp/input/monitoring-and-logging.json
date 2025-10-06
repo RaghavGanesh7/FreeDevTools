@@ -25,7 +25,8 @@
         "wiremcp server",
         "0xkoda wiremcp",
         "wiremcp wiremcp"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "0xPratikPatil--NmapMCP": {
       "owner": "0xPratikPatil",
@@ -48,7 +49,8 @@
         "nmapmcp tool",
         "nmapmcp nmapmcp",
         "0xpratikpatil nmapmcp"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "7gugu--whistle-mcp": {
       "owner": "7gugu",
@@ -71,7 +73,8 @@
         "whistle mcp",
         "mcp whistle",
         "whistle proxy"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "AVIMBU--uptime_agent_mcp": {
       "owner": "AVIMBU",
@@ -94,7 +97,8 @@
         "avimbu uptime_agent_mcp",
         "uptime agent",
         "uptime monitoring"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Arize-ai--phoenix": {
       "owner": "Arize-ai",
@@ -117,7 +121,8 @@
         "arize ai",
         "ai phoenix",
         "logging arize"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "EdgeCloudX--ceph_exporter": {
       "owner": "EdgeCloudX",
@@ -140,7 +145,8 @@
         "edgecloudx ceph_exporter",
         "prometheus monitoring",
         "cluster prometheus"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "GeLi2001--datadog-mcp-server": {
       "owner": "GeLi2001",
@@ -163,7 +169,8 @@
         "datadog mcp",
         "datadog api",
         "interacts datadog"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "GetSherlog--mcp-grafana": {
       "owner": "GetSherlog",
@@ -186,7 +193,8 @@
         "grafana instances",
         "grafana provides",
         "access grafana"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Heht571--ops-mcp-server": {
       "owner": "Heht571",
@@ -209,7 +217,8 @@
         "server toolset",
         "mcp server",
         "toolset monitoring"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Ivlad003--mcp_newrelic": {
       "owner": "Ivlad003",
@@ -232,7 +241,8 @@
         "relic logs",
         "monitoring logging",
         "logs metrics"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "JackXuyi--env-mcp": {
       "owner": "JackXuyi",
@@ -255,7 +265,8 @@
         "logging jackxuyi",
         "jackxuyi env",
         "mcp retrieve"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "MCP-100--mcp-sentry": {
       "owner": "MCP-100",
@@ -278,7 +289,8 @@
         "mcp sentry",
         "sentry issues",
         "sentry applications"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "MindscapeHQ--mcp-server-raygun": {
       "owner": "MindscapeHQ",
@@ -301,7 +313,8 @@
         "server raygun",
         "raygun api",
         "logging mindscapehq"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "MissionSquad--mcp-helper-tools": {
       "owner": "MissionSquad",
@@ -324,7 +337,8 @@
         "missionsquad mcp",
         "logging missionsquad",
         "mcp helper"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Nozomuts--datadog-mcp": {
       "owner": "Nozomuts",
@@ -347,7 +361,8 @@
         "datadog monitoring",
         "monitoring logging",
         "nozomuts datadog"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Operative-Sh--playwright-consolelogs-mcp": {
       "owner": "Operative-Sh",
@@ -370,7 +385,8 @@
         "consolelogs mcp",
         "playwright consolelogs",
         "console logs"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "QAInsights--k6-mcp-server": {
       "owner": "QAInsights",
@@ -393,7 +409,8 @@
         "load testing",
         "load tests",
         "using k6"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "QAInsights--locust-mcp-server": {
       "owner": "QAInsights",
@@ -416,7 +433,8 @@
         "load testing",
         "locust load",
         "testing capabilities"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "ThijsdeZeeuw--avg-kwintes": {
       "owner": "ThijsdeZeeuw",
@@ -439,7 +457,8 @@
         "hosted ai",
         "ai stack",
         "avg kwintes"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Yaswanth-ampolu--smithery-mcp-server": {
       "owner": "Yaswanth-ampolu",
@@ -462,7 +481,8 @@
         "logging yaswanth",
         "provides terminal",
         "mcp server"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Zwe1--error-monitor-frontend": {
       "owner": "Zwe1",
@@ -485,7 +505,8 @@
         "logging zwe1",
         "error monitor",
         "zwe1 error"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "Zzzccs123--mcp-sentry": {
       "owner": "Zzzccs123",
@@ -508,7 +529,8 @@
         "sentry connect",
         "connect sentry",
         "mcp sentry"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "abhinav7895--system-mcp": {
       "owner": "abhinav7895",
@@ -531,7 +553,8 @@
         "monitoring capabilities",
         "monitoring logging",
         "logging abhinav7895"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "ahmad2x4--mcp-server-seq": {
       "owner": "ahmad2x4",
@@ -554,7 +577,8 @@
         "seq logging",
         "server seq",
         "logging ahmad2x4"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "ai-mcp-garage--agent_construct": {
       "owner": "ai-mcp-garage",
@@ -577,7 +601,8 @@
         "garage agent_construct",
         "logging ai",
         "tool discovery"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "amitdeshmukh--stdout-mcp-server": {
       "owner": "amitdeshmukh",
@@ -600,7 +625,8 @@
         "stdout logs",
         "stdout mcp",
         "manages stdout"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "awslabs--Log-Analyzer-with-MCP": {
       "owner": "awslabs",
@@ -623,7 +649,8 @@
         "logging awslabs",
         "cloudwatch logs",
         "aws cloudwatch"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "bright8192--esxi-mcp-server": {
       "owner": "bright8192",
@@ -646,7 +673,8 @@
         "esxi vcenter",
         "vmware esxi",
         "esxi mcp"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "carterlasalle--system_information_mcp": {
       "owner": "carterlasalle",
@@ -669,7 +697,8 @@
         "carterlasalle system_information_mcp",
         "system_information_mcp provides",
         "logging carterlasalle"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "chikingsley--browser-tools-mcp": {
       "owner": "chikingsley",
@@ -692,7 +721,8 @@
         "browser insights",
         "browser tools",
         "chikingsley browser"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "codyde--mcp-sentry-ts": {
       "owner": "codyde",
@@ -715,7 +745,8 @@
         "sentry api",
         "mcp sentry",
         "interact sentry"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "cyanheads--toolkit-mcp-server": {
       "owner": "cyanheads",
@@ -738,7 +769,8 @@
         "toolkit mcp",
         "logging cyanheads",
         "cyanheads toolkit"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "didlawowo--mcp-collection": {
       "owner": "didlawowo",
@@ -761,7 +793,8 @@
         "kubernetes logs",
         "datadog api",
         "monitoring logging"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "dvladimirov--MCP": {
       "owner": "dvladimirov",
@@ -784,7 +817,8 @@
         "services git",
         "openai services",
         "prometheus monitoring"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "dynatrace-oss--dynatrace-mcp": {
       "owner": "dynatrace-oss",
@@ -807,7 +841,8 @@
         "logging dynatrace",
         "monitoring development",
         "oss dynatrace"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "ghrud92--simple-loki-mcp": {
       "owner": "ghrud92",
@@ -830,7 +865,8 @@
         "log data",
         "loki logs",
         "monitoring logging"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "imprvhub--mcp-status-observer": {
       "owner": "imprvhub",
@@ -853,7 +889,8 @@
         "imprvhub mcp",
         "logging imprvhub",
         "status observer"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "jakenuts--mcp-solarwinds": {
       "owner": "jakenuts",
@@ -876,7 +913,8 @@
         "monitoring logging",
         "observability logs",
         "solarwinds observability"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "jkosik--mcp-server-splunk": {
       "owner": "jkosik",
@@ -899,7 +937,8 @@
         "server splunk",
         "logging jkosik",
         "splunk implements"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "jyjune--mcp_vms": {
       "owner": "jyjune",
@@ -922,7 +961,8 @@
         "jyjune mcp_vms",
         "cctv recording",
         "connects cctv"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "klara-research--MCP-Analyzer": {
       "owner": "klara-research",
@@ -945,7 +985,8 @@
         "protocol logs",
         "mcp analyzer",
         "analyze debug"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "last9--last9-mcp-server": {
       "owner": "last9",
@@ -968,7 +1009,8 @@
         "logging last9",
         "monitoring logging",
         "including logs"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "ljcloudy--Sentinel": {
       "owner": "ljcloudy",
@@ -991,7 +1033,8 @@
         "microservices advanced",
         "ljcloudy sentinel",
         "enhance microservices"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "lkp474--alibabacloud-observability-mcp-server": {
       "owner": "lkp474",
@@ -1014,7 +1057,8 @@
         "alibabacloud observability",
         "cloud observability",
         "cloud monitor"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "loglmhq--mcp-server-prometheus": {
       "owner": "loglmhq",
@@ -1037,7 +1081,8 @@
         "server prometheus",
         "prometheus metrics",
         "connects prometheus"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "marcoeg--mcp-server-ntopng": {
       "owner": "marcoeg",
@@ -1060,7 +1105,8 @@
         "server ntopng",
         "alerts ntopng",
         "ntopng framework"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "mdwooky--logstash-input-pluginname": {
       "owner": "mdwooky",
@@ -1083,7 +1129,8 @@
         "logstash pipelines",
         "logstash input",
         "mdwooky logstash"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "mgsrevolver--consolespy": {
       "owner": "mgsrevolver",
@@ -1106,7 +1153,8 @@
         "console logs",
         "mgsrevolver consolespy",
         "console data"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -1129,7 +1177,8 @@
         "modelcontextprotocol servers",
         "logging modelcontextprotocol",
         "monitoring logging"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "monsterxx03--gospy": {
       "owner": "monsterxx03",
@@ -1152,7 +1201,8 @@
         "inspecting goroutine",
         "gospy inspect",
         "goroutines memory"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "mottibec--otelcol-mcp": {
       "owner": "mottibec",
@@ -1175,7 +1225,8 @@
         "opentelemetry collectors",
         "configures opentelemetry",
         "logging mottibec"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "muaimingjun--LinuxCTS": {
       "owner": "muaimingjun",
@@ -1198,7 +1249,8 @@
         "muaimingjun linuxcts",
         "logging muaimingjun",
         "monitoring logging"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "ndevvy--mcp-server-datadog": {
       "owner": "ndevvy",
@@ -1221,7 +1273,8 @@
         "server datadog",
         "logging ndevvy",
         "datadog enhanced"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "posidron--mcp-powershell": {
       "owner": "posidron",
@@ -1244,7 +1297,8 @@
         "mcp powershell",
         "manage powershell",
         "powershell commands"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "samwang0723--mcp-sumologic": {
       "owner": "samwang0723",
@@ -1267,7 +1321,8 @@
         "logs sumo",
         "sumologic search",
         "mcp sumologic"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "sapientpants--sonarqube-mcp-server": {
       "owner": "sapientpants",
@@ -1290,7 +1345,8 @@
         "sonarqube mcp",
         "integrates sonarqube",
         "sonarqube provide"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "seekrays--mcp-monitor": {
       "owner": "seekrays",
@@ -1313,7 +1369,8 @@
         "mcp monitor",
         "logging seekrays",
         "seekrays mcp"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "serkanh--cloudwatch-logs-mcp": {
       "owner": "serkanh",
@@ -1336,7 +1393,8 @@
         "cloudwatch logs",
         "aws cloudwatch",
         "serkanh cloudwatch"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "signal-slot--mcp-systemd-coredump": {
       "owner": "signal-slot",
@@ -1359,7 +1417,8 @@
         "systemd coredump",
         "core dump",
         "core dumps"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "srtux--mcp": {
       "owner": "srtux",
@@ -1382,7 +1441,8 @@
         "logging srtux",
         "cloud logging",
         "cloud logs"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "tgeselle--bugsnag-mcp": {
       "owner": "tgeselle",
@@ -1405,7 +1465,8 @@
         "bugsnag mcp",
         "interacts bugsnag",
         "bugsnag monitor"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "truaxki--mcp-variance-log": {
       "owner": "truaxki",
@@ -1428,7 +1489,8 @@
         "monitoring conversation",
         "conversations analyzes",
         "logging truaxki"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "turbot--steampipe-mcp": {
       "owner": "turbot",
@@ -1451,7 +1513,8 @@
         "analysis cloud",
         "cloud infrastructure",
         "steampipe mcp"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "twodoorsdev--react-native-debugger-mcp": {
       "owner": "twodoorsdev",
@@ -1474,7 +1537,8 @@
         "native debugger",
         "react native",
         "debugger mcp"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "vlttnv--k8s-mcp": {
       "owner": "vlttnv",
@@ -1497,7 +1561,8 @@
         "kubernetes clusters",
         "issues kubernetes",
         "pod statuses"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "westsideori--cursor-a11y-mcp": {
       "owner": "westsideori",
@@ -1520,7 +1585,8 @@
         "accessibility tests",
         "accessibility utilize",
         "run accessibility"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "wildfly-extras--wildfly-mcp": {
       "owner": "wildfly-extras",
@@ -1543,7 +1609,8 @@
         "wildfly servers",
         "logging wildfly",
         "ai chatbots"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "winor30--mcp-server-datadog": {
       "owner": "winor30",
@@ -1566,7 +1633,8 @@
         "server datadog",
         "datadog api",
         "datadog integrates"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "xzq-xu--jvm-mcp-server": {
       "owner": "xzq-xu",
@@ -1589,7 +1657,8 @@
         "java processes",
         "jvm performance",
         "analyze java"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "yamato-snow--2025_McpLab_FastMCP": {
       "owner": "yamato-snow",
@@ -1612,7 +1681,8 @@
         "logging yamato",
         "2025_mcplab_fastmcp built",
         "typescript server"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "ynu--mcp-ynu": {
       "owner": "ynu",
@@ -1635,7 +1705,8 @@
         "logging ynu",
         "ynu mcp",
         "mcp ynu"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     },
     "zhongmingyuan--mcp-my-mac": {
       "owner": "zhongmingyuan",
@@ -1658,7 +1729,8 @@
         "mac information",
         "mac systems",
         "mcp mac"
-      ]
+      ],
+      "category": "monitoring-and-logging"
     }
   }
 }

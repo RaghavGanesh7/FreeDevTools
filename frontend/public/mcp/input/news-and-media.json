@@ -25,7 +25,8 @@
         "semantic search",
         "bocha search",
         "information retrieval"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "ChanMeng666--server-google-news": {
       "owner": "ChanMeng666",
@@ -48,7 +49,8 @@
         "google news",
         "news data",
         "news search"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "DappierAI--dappier-mcp": {
       "owner": "DappierAI",
@@ -71,7 +73,8 @@
         "ai agents",
         "media dappierai",
         "dappier mcp"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "Machine-To-Machine--f1-mcp-server": {
       "owner": "Machine-To-Machine",
@@ -94,7 +97,8 @@
         "f1 data",
         "f1 mcp",
         "machine f1"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "Oliviergg--boring-news-mcp": {
       "owner": "Oliviergg",
@@ -117,7 +121,8 @@
         "news mcp",
         "news articles",
         "news media"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "SomeiLam--news-mcp": {
       "owner": "SomeiLam",
@@ -140,7 +145,8 @@
         "news data",
         "searches news",
         "fetching headlines"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "VectorInstitute--mcp-goodnews": {
       "owner": "VectorInstitute",
@@ -163,7 +169,8 @@
         "positive news",
         "mcp goodnews",
         "sentiment using"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "buhe--mcp_rss": {
       "owner": "buhe",
@@ -186,7 +193,8 @@
         "rss feeds",
         "rss feed",
         "feed subscriptions"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "eluc1a--mcp-news": {
       "owner": "eluc1a",
@@ -209,7 +217,8 @@
         "curated news",
         "news content",
         "news data"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "erithwik--mcp-hn": {
       "owner": "erithwik",
@@ -232,7 +241,8 @@
         "hacker news",
         "media erithwik",
         "mcp hn"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "fred-em--headline-vibes": {
       "owner": "fred-em",
@@ -255,7 +265,8 @@
         "sentiment news",
         "headline vibes",
         "sentiment scoring"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "imprvhub--mcp-claude-hackernews": {
       "owner": "imprvhub",
@@ -278,7 +289,8 @@
         "hackernews seamlessly",
         "hacker news",
         "claude hackernews"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "juhemcp--jnews-mcp-server": {
       "owner": "juhemcp",
@@ -301,7 +313,8 @@
         "jnews mcp",
         "juhemcp jnews",
         "mcp server"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "kukapay--blockbeats-mcp": {
       "owner": "kukapay",
@@ -324,7 +337,8 @@
         "blockchain news",
         "kukapay blockbeats",
         "media kukapay"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "kukapay--crypto-news-mcp": {
       "owner": "kukapay",
@@ -347,7 +361,8 @@
         "kukapay crypto",
         "crypto news",
         "cryptocurrency news"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "kukapay--cryptopanic-mcp-server": {
       "owner": "kukapay",
@@ -370,7 +385,8 @@
         "cryptocurrency news",
         "latest cryptocurrency",
         "cryptopanic mcp"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "leehanchung--bing-search-mcp": {
       "owner": "leehanchung",
@@ -393,7 +409,8 @@
         "bing search",
         "microsoft bing",
         "leehanchung bing"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "manimohans--verge-news-mcp": {
       "owner": "manimohans",
@@ -416,7 +433,8 @@
         "verge rss",
         "verge news",
         "search news"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "meicanhong--meicanhong": {
       "owner": "meicanhong",
@@ -439,7 +457,8 @@
         "media meicanhong",
         "meicanhong meicanhong",
         "meicanhong access"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "mengjian-github--deepseek-newsletter": {
       "owner": "mengjian-github",
@@ -462,7 +481,8 @@
         "deepseek language",
         "deepseek newsletter",
         "information deepseek"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "mpizza--mcp_mlb_statsapi": {
       "owner": "mpizza",
@@ -485,7 +505,8 @@
         "mpizza mcp_mlb_statsapi",
         "mcp_mlb_statsapi access",
         "mlb data"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "narumiruna--crypto-news-mcp": {
       "owner": "narumiruna",
@@ -508,7 +529,8 @@
         "crypto news",
         "cryptocurrency news",
         "narumiruna crypto"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "nefino--mcp-nefino": {
       "owner": "nefino",
@@ -531,7 +553,8 @@
         "energy news",
         "news information",
         "filter announcements"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "pskill9--hn-server": {
       "owner": "pskill9",
@@ -554,7 +577,8 @@
         "hacker news",
         "media pskill9",
         "stories hacker"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "r-huijts--oorlogsbronnen-mcp": {
       "owner": "r-huijts",
@@ -577,7 +601,8 @@
         "oorlogsbronnen database",
         "access oorlogsbronnen",
         "huijts oorlogsbronnen"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "renant--mcp-tabnews": {
       "owner": "renant",
@@ -600,7 +625,8 @@
         "tabnews api",
         "access tabnews",
         "tabnews access"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "the0807--GeekNews-MCP-Server": {
       "owner": "the0807",
@@ -623,7 +649,8 @@
         "geeknews using",
         "articles geeknews",
         "geeknews mcp"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "wopal-cn--mcp-hotnews-server": {
       "owner": "wopal-cn",
@@ -646,7 +673,8 @@
         "mcp hotnews",
         "hotnews server",
         "news sites"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "wwiens--trakt_mcpserver": {
       "owner": "wwiens",
@@ -669,7 +697,8 @@
         "trakt api",
         "wwiens trakt_mcpserver",
         "trakt_mcpserver access"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "xue20010808--ThreatNews": {
       "owner": "xue20010808",
@@ -692,7 +721,8 @@
         "threatnews collects",
         "threat information",
         "neo4j advanced"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "yeonupark--mcp-soccer-data": {
       "owner": "yeonupark",
@@ -715,7 +745,8 @@
         "soccer data",
         "mcp soccer",
         "football match"
-      ]
+      ],
+      "category": "news-and-media"
     },
     "yuri-xyz--cryptopanic-mcp-server": {
       "owner": "yuri-xyz",
@@ -738,7 +769,8 @@
         "cryptocurrency news",
         "cryptopanic mcp",
         "latest cryptocurrency"
-      ]
+      ],
+      "category": "news-and-media"
     }
   }
 }

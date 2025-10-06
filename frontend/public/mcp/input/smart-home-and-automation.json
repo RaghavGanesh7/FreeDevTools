@@ -25,7 +25,8 @@
         "mac control",
         "control macos",
         "home automation"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "ThomasRohde--hue-mcp": {
       "owner": "ThomasRohde",
@@ -48,7 +49,8 @@
         "philips hue",
         "smart lighting",
         "hue smart"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "allenporter--mcp-server-home-assistant": {
       "owner": "allenporter",
@@ -71,7 +73,8 @@
         "home automation",
         "home assistant",
         "smart home"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "ecovacs-ai--ecovacs-mcp": {
       "owner": "ecovacs-ai",
@@ -94,7 +97,8 @@
         "automation ecovacs",
         "ecovacs ai",
         "ai ecovacs"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "genm--switchbot-mcp": {
       "owner": "genm",
@@ -117,7 +121,8 @@
         "genm switchbot",
         "switchbot mcp",
         "switchbot devices"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "guilhermelirio--homeassistant-mpc": {
       "owner": "guilhermelirio",
@@ -140,7 +145,8 @@
         "home automation",
         "smart home",
         "home assistant"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "hekmon8--Homeassistant-server-mcp": {
       "owner": "hekmon8",
@@ -163,7 +169,8 @@
         "home automation",
         "smart home",
         "automation hekmon8"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "hpohlmann--home-assistant-mcp": {
       "owner": "hpohlmann",
@@ -186,7 +193,8 @@
         "automation hpohlmann",
         "home automation",
         "home assistant"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "jango-blockchained--advanced-homeassistant-mcp": {
       "owner": "jango-blockchained",
@@ -209,7 +217,8 @@
         "home automation",
         "smart home",
         "home assistant"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "joshrutkowski--applescript-mcp": {
       "owner": "joshrutkowski",
@@ -232,7 +241,8 @@
         "applescript mcp",
         "macos applescript",
         "applescript control"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "lsemenenko--openhue-mcp-server": {
       "owner": "lsemenenko",
@@ -255,7 +265,8 @@
         "philips hue",
         "smart lighting",
         "hue lights"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "miguelg719--home-assistant-mcp": {
       "owner": "miguelg719",
@@ -278,7 +289,8 @@
         "home automation",
         "smart home",
         "home assistant"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "priyankark--phonepi-mcp": {
       "owner": "priyankark",
@@ -301,7 +313,8 @@
         "priyankark phonepi",
         "automation priyankark",
         "phonepi mcp"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "recursechat--mcp-server-apple-shortcuts": {
       "owner": "recursechat",
@@ -324,7 +337,8 @@
         "shortcuts automations",
         "automation macos",
         "apple shortcuts"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "tevonsb--homeassistant-mcp": {
       "owner": "tevonsb",
@@ -347,7 +361,8 @@
         "home automation",
         "smart home",
         "home assistant"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "voska--hass-mcp": {
       "owner": "voska",
@@ -370,7 +385,8 @@
         "home automation",
         "smart home",
         "automation voska"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     },
     "zhangzhongnan928--mcp-pa-ai-agent": {
       "owner": "zhangzhongnan928",
@@ -393,7 +409,8 @@
         "home automation",
         "smart home",
         "automation zhangzhongnan928"
-      ]
+      ],
+      "category": "smart-home-and-automation"
     }
   }
 }

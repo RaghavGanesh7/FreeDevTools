@@ -25,7 +25,8 @@
         "translation cxl",
         "quality translations",
         "translations dubbing"
-      ]
+      ],
+      "category": "language-translation"
     },
     "DeepLcom--deepl-mcp-server": {
       "owner": "DeepLcom",
@@ -48,7 +49,8 @@
         "translation deeplcom",
         "deepl api",
         "using deepl"
-      ]
+      ],
+      "category": "language-translation"
     },
     "DynamicEndpoints--flexable-agents": {
       "owner": "DynamicEndpoints",
@@ -71,7 +73,8 @@
         "flexable agents",
         "translation dynamicendpoints",
         "dynamicendpoints flexable"
-      ]
+      ],
+      "category": "language-translation"
     },
     "GoatWang--YTTranscipterMultilingualMCP": {
       "owner": "GoatWang",
@@ -94,7 +97,8 @@
         "transcribes youtube",
         "yttransciptermultilingualmcp transcribes",
         "videos text"
-      ]
+      ],
+      "category": "language-translation"
     },
     "JigsawStack--jigsawstack-mcp-server": {
       "owner": "JigsawStack",
@@ -117,7 +121,8 @@
         "translation jigsawstack",
         "translation tools",
         "ai translation"
-      ]
+      ],
+      "category": "language-translation"
     },
     "MISO01--deepseek-translator-mcp": {
       "owner": "MISO01",
@@ -140,7 +145,8 @@
         "deepseek translator",
         "translate korean",
         "korean text"
-      ]
+      ],
+      "category": "language-translation"
     },
     "Mistizz--mcp-JapaneseTextAnalyzer": {
       "owner": "Mistizz",
@@ -163,7 +169,8 @@
         "mcp japanesetextanalyzer",
         "japanesetextanalyzer analyzes",
         "analyzes japanese"
-      ]
+      ],
+      "category": "language-translation"
     },
     "TanvirHafiz--Medical-report-analyzer": {
       "owner": "TanvirHafiz",
@@ -186,7 +193,8 @@
         "tanvirhafiz medical",
         "translation tanvirhafiz",
         "medical reports"
-      ]
+      ],
+      "category": "language-translation"
     },
     "Text2Go--ai-humanizer-mcp-server": {
       "owner": "Text2Go",
@@ -209,7 +217,8 @@
         "text2go ai",
         "text enhancement",
         "translation text2go"
-      ]
+      ],
+      "category": "language-translation"
     },
     "brianshin22--youtube-translate-mcp": {
       "owner": "brianshin22",
@@ -232,7 +241,8 @@
         "youtube translate",
         "translations subtitles",
         "language translation"
-      ]
+      ],
+      "category": "language-translation"
     },
     "davidrojasliblab--test": {
       "owner": "davidrojasliblab",
@@ -255,7 +265,8 @@
         "translation davidrojasliblab",
         "translation apis",
         "davidrojasliblab test"
-      ]
+      ],
+      "category": "language-translation"
     },
     "edgardamasceno-dev--ldoce-mcp-server": {
       "owner": "edgardamasceno-dev",
@@ -278,7 +289,8 @@
         "dictionary web",
         "linguistic information",
         "detailed linguistic"
-      ]
+      ],
+      "category": "language-translation"
     },
     "meicanhong--translator_extension": {
       "owner": "meicanhong",
@@ -301,7 +313,8 @@
         "meicanhong translator_extension",
         "translation meicanhong",
         "translator_extension provides"
-      ]
+      ],
+      "category": "language-translation"
     },
     "meowrain--mcp-server-cambridge-dict": {
       "owner": "meowrain",
@@ -324,7 +337,8 @@
         "ai assistant",
         "dictionary enhanced",
         "meowrain mcp"
-      ]
+      ],
+      "category": "language-translation"
     },
     "vionwinnie--jap-vocab-anki-mcp-server": {
       "owner": "vionwinnie",
@@ -347,7 +361,8 @@
         "decks japanese",
         "anki decks",
         "interact anki"
-      ]
+      ],
+      "category": "language-translation"
     },
     "watchdealer-pavel--deepl-mcp-server": {
       "owner": "watchdealer-pavel",
@@ -370,7 +385,8 @@
         "translation capabilities",
         "language translation",
         "server translate"
-      ]
+      ],
+      "category": "language-translation"
     },
     "wizd--airylark-mcp-server": {
       "owner": "wizd",
@@ -393,7 +409,8 @@
         "translation services",
         "translation wizd",
         "language translation"
-      ]
+      ],
+      "category": "language-translation"
     },
     "zhuangmanhong--PDFMathTranslate": {
       "owner": "zhuangmanhong",
@@ -416,7 +433,8 @@
         "zhuangmanhong pdfmathtranslate",
         "translate pdf",
         "translation zhuangmanhong"
-      ]
+      ],
+      "category": "language-translation"
     }
   }
 }

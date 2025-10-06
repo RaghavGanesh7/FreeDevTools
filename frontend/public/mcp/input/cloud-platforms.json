@@ -25,7 +25,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "Nebula-Block-Data--nebulablock-mcp-server": {
       "owner": "Nebula-Block-Data",
@@ -48,7 +49,8 @@
         "nebulablock api",
         "services nebula",
         "data nebulablock"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "StacklokLabs--mkp": {
       "owner": "StacklokLabs",
@@ -71,7 +73,8 @@
         "stackloklabs mkp",
         "mkp mkp",
         "mkp model"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "StacklokLabs--ocireg-mcp": {
       "owner": "StacklokLabs",
@@ -94,7 +97,8 @@
         "cloud platforms",
         "platforms cloud",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "VmLia--books-mcp-server": {
       "owner": "VmLia",
@@ -117,7 +121,8 @@
         "cloud platform",
         "cloud platforms",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "aashari--mcp-server-aws-sso": {
       "owner": "aashari",
@@ -140,7 +145,8 @@
         "aws sso",
         "sso aws",
         "cloud platforms"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "alexbakers--mcp-ipfs": {
       "owner": "alexbakers",
@@ -163,7 +169,8 @@
         "platforms cloud",
         "cloud platforms",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "alexei-led--aws-mcp-server": {
       "owner": "alexei-led",
@@ -186,7 +193,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "alexei-led--k8s-mcp-server": {
       "owner": "alexei-led",
@@ -209,7 +217,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "aliyun--alibaba-cloud-ops-mcp-server": {
       "owner": "aliyun",
@@ -232,7 +241,8 @@
         "cloud platform",
         "cloud platforms",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "awslabs--mcp": {
       "owner": "awslabs",
@@ -255,7 +265,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "bright8192--esxi-mcp-server": {
       "owner": "bright8192",
@@ -278,7 +289,8 @@
         "cloud platform",
         "cloud platforms",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "cyclops-ui--mcp-cyclops": {
       "owner": "cyclops-ui",
@@ -301,7 +313,8 @@
         "cloud platform",
         "services cyclops",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "elementfm--mcp": {
       "owner": "elementfm",
@@ -324,7 +337,8 @@
         "platforms cloud",
         "cloud platforms",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "erikhoward--adls-mcp-server": {
       "owner": "erikhoward",
@@ -347,7 +361,8 @@
         "cloud platforms",
         "platforms cloud",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "espressif--esp-rainmaker-mcp": {
       "owner": "espressif",
@@ -370,7 +385,8 @@
         "cloud platform",
         "cloud platforms",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "flux159--mcp-server-kubernetes": {
       "owner": "flux159",
@@ -393,7 +409,8 @@
         "platforms cloud",
         "cloud platforms",
         "kubernetes cluster"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "hardik-id--azure-resource-graph-mcp-server": {
       "owner": "hardik-id",
@@ -416,7 +433,8 @@
         "azure infrastructure",
         "platforms cloud",
         "cloud platforms"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "jdubois--azure-cli-mcp": {
       "owner": "jdubois",
@@ -439,7 +457,8 @@
         "azure cli",
         "jdubois azure",
         "cloud platforms"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "johnneerdael--netskope-mcp": {
       "owner": "johnneerdael",
@@ -462,7 +481,8 @@
         "platforms cloud",
         "cloud platforms",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "kestra-io--mcp-server-python": {
       "owner": "kestra-io",
@@ -485,7 +505,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "liveblocks--liveblocks-mcp-server": {
       "owner": "liveblocks",
@@ -508,7 +529,8 @@
         "platforms cloud",
         "cloud platforms",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "manusa--Kubernetes MCP Server": {
       "owner": "manusa",
@@ -531,7 +553,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "nwiizo--tfmcp": {
       "owner": "nwiizo",
@@ -554,7 +577,8 @@
         "tfmcp terraform",
         "terraform mcp",
         "cloud platforms"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "openstack-kr--python-openstackmcp-server": {
       "owner": "openstack-kr",
@@ -577,7 +601,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "pibblokto--cert-manager-mcp-server": {
       "owner": "pibblokto",
@@ -600,7 +625,8 @@
         "cert manager",
         "cloud platforms",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "portainer--portainer-mcp": {
       "owner": "portainer",
@@ -623,7 +649,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "pulumi--mcp-server": {
       "owner": "pulumi",
@@ -646,7 +673,8 @@
         "pulumi cloud",
         "cloud platforms",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "pythonanywhere--pythonanywhere-mcp-server": {
       "owner": "pythonanywhere",
@@ -669,7 +697,8 @@
         "pythonanywhere cloud",
         "cloud platform",
         "cloud platforms"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "qiniu--qiniu-mcp-server": {
       "owner": "qiniu",
@@ -692,7 +721,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "redis--mcp-redis-cloud": {
       "owner": "redis",
@@ -715,7 +745,8 @@
         "redis cloud",
         "cloud platforms",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "reza-gholizade--k8s-mcp-server": {
       "owner": "reza-gholizade",
@@ -738,7 +769,8 @@
         "cloud platform",
         "cloud platforms",
         "server kubernetes"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "rohitg00--kubectl-mcp-server": {
       "owner": "rohitg00",
@@ -761,7 +793,8 @@
         "cloud platforms",
         "cloud platform",
         "platform service"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "silenceper--mcp-k8s": {
       "owner": "silenceper",
@@ -784,7 +817,8 @@
         "services silenceper",
         "kubernetes resource",
         "silenceper mcp"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "strowk--mcp-k8s-go": {
       "owner": "strowk",
@@ -807,7 +841,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "thunderboltsid--mcp-nutanix": {
       "owner": "thunderboltsid",
@@ -830,7 +865,8 @@
         "platforms cloud",
         "cloud platforms",
         "cloud platform"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "trilogy-group--aws-pricing-mcp": {
       "owner": "trilogy-group",
@@ -853,7 +889,8 @@
         "cloud platforms",
         "cloud platform",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "weibaohui--k8m": {
       "owner": "weibaohui",
@@ -876,7 +913,8 @@
         "kubernetes management",
         "cloud platform",
         "cluster kubernetes"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "weibaohui--kom": {
       "owner": "weibaohui",
@@ -899,7 +937,8 @@
         "cloud platform",
         "cloud platforms",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     },
     "wenhuwang--mcp-k8s-eye": {
       "owner": "wenhuwang",
@@ -922,7 +961,8 @@
         "cloud platform",
         "cloud platforms",
         "platforms cloud"
-      ]
+      ],
+      "category": "cloud-platforms"
     }
   }
 }

@@ -25,7 +25,8 @@
         "mcp email",
         "email verify",
         "validates email"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "CDataSoftware--gmail-mcp-server-by-cdata": {
       "owner": "CDataSoftware",
@@ -48,7 +49,8 @@
         "cdatasoftware gmail",
         "gmail mcp",
         "gmail data"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Cam10001110101--mcp-server-outlook-email": {
       "owner": "Cam10001110101",
@@ -71,7 +73,8 @@
         "outlook emails",
         "outlook email",
         "server outlook"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Ejb503--systemprompt-mcp-gmail": {
       "owner": "Ejb503",
@@ -94,7 +97,8 @@
         "mcp gmail",
         "gmail facilitates",
         "interaction gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Garoth--sendgrid-mcp": {
       "owner": "Garoth",
@@ -117,7 +121,8 @@
         "sendgrid marketing",
         "sendgrid mcp",
         "garoth sendgrid"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "HundunOnline--mcp-dingdingbot-server": {
       "owner": "HundunOnline",
@@ -140,7 +145,8 @@
         "mcp dingdingbot",
         "dingdingbot server",
         "messaging hundunonline"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "InditexTech--mcp-teams-server": {
       "owner": "InditexTech",
@@ -163,7 +169,8 @@
         "microsoft teams",
         "teams server",
         "messaging inditextech"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "KaranThink41--Google_chat_mcp_server": {
       "owner": "KaranThink41",
@@ -186,7 +193,8 @@
         "google_chat_mcp_server manage",
         "gmail calendar",
         "interaction gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "MaitreyaM--Gmail-mcp-server": {
       "owner": "MaitreyaM",
@@ -209,7 +217,8 @@
         "gmail mcp",
         "gmail smtp",
         "emails gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "MarkusPfundstein--mcp-gsuite": {
       "owner": "MarkusPfundstein",
@@ -232,7 +241,8 @@
         "gsuite interact",
         "mcp gsuite",
         "interact gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Meerkats-Ai--hunter-io-mcp-server": {
       "owner": "Meerkats-Ai",
@@ -255,7 +265,8 @@
         "hunter io",
         "ai hunter",
         "io api"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Meerkats-Ai--prospeo-mcp-server": {
       "owner": "Meerkats-Ai",
@@ -278,7 +289,8 @@
         "prospeo api",
         "email finding",
         "data linkedin"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Norcim133--OutlookMCPServer": {
       "owner": "Norcim133",
@@ -301,7 +313,8 @@
         "norcim133 outlookmcpserver",
         "microsoft 365",
         "365 mail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Quantum-369--Gmail-mcp-server": {
       "owner": "Quantum-369",
@@ -324,7 +337,8 @@
         "gmail apis",
         "gmail mcp",
         "interact gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Shy2593666979--mcp-server-email": {
       "owner": "Shy2593666979",
@@ -347,7 +361,8 @@
         "mcp server",
         "server email",
         "email messaging"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "Softeria--ms-365-mcp-server": {
       "owner": "Softeria",
@@ -370,7 +385,8 @@
         "microsoft 365",
         "ms 365",
         "365 services"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "The-Focus-AI--buttondown-mcp": {
       "owner": "The-Focus-AI",
@@ -393,7 +409,8 @@
         "newsletters typescript",
         "manage newsletters",
         "mcp manage"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "WilliamSuiself--remote-mcp": {
       "owner": "WilliamSuiself",
@@ -416,7 +433,8 @@
         "mcp server",
         "remote mcp",
         "mcp remote"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "YiyangLi--sms-mcp-server": {
       "owner": "YiyangLi",
@@ -439,7 +457,8 @@
         "sms mcp",
         "using twilio",
         "yiyangli sms"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "ZilongXue--claude-post": {
       "owner": "ZilongXue",
@@ -462,7 +481,8 @@
         "messaging zilongxue",
         "email messaging",
         "sending emails"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "aaronsb--google-workspace-mcp": {
       "owner": "aaronsb",
@@ -485,7 +505,8 @@
         "google workspace",
         "workspace apis",
         "workspace mcp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "agentmail-to--agentmail-mcp": {
       "owner": "agentmail-to",
@@ -508,7 +529,8 @@
         "integrate agentmail",
         "messaging agentmail",
         "agentmail mcp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "agentmail-to--agentmail-toolkit": {
       "owner": "agentmail-to",
@@ -531,7 +553,8 @@
         "agentmail toolkit",
         "utilizes agentmail",
         "messaging agentmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "ai-zerolab--mcp-email-server": {
       "owner": "ai-zerolab",
@@ -554,7 +577,8 @@
         "imap smtp",
         "mcp email",
         "email server"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "aiteks-ltda--mcp-evolution-whatsapp-api": {
       "owner": "aiteks-ltda",
@@ -577,7 +601,8 @@
         "evolution whatsapp",
         "whatsapp automation",
         "whatsapp api"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "ajbr0wn--gmail-mcp-server": {
       "owner": "ajbr0wn",
@@ -600,7 +625,8 @@
         "ajbr0wn gmail",
         "gmail mcp",
         "access gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "alBERT-launcher--mcp-gsuite": {
       "owner": "alBERT-launcher",
@@ -623,7 +649,8 @@
         "gsuite interact",
         "mcp gsuite",
         "gmail calendar"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "alexandertsai--mcp-telegram": {
       "owner": "alexandertsai",
@@ -646,7 +673,8 @@
         "mcp telegram",
         "telegram access",
         "access telegram"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "amotivv--protonmail-mcp": {
       "owner": "amotivv",
@@ -669,7 +697,8 @@
         "protonmail mcp",
         "integrate protonmail",
         "protonmail send"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "apicolet--brevo-mcp": {
       "owner": "apicolet",
@@ -692,7 +721,8 @@
         "brevo api",
         "email messaging",
         "brevo mcp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "aukik--whatsapp-mcp": {
       "owner": "aukik",
@@ -715,7 +745,8 @@
         "whatsapp mcp",
         "aukik whatsapp",
         "utilizes whatsapp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "aukik--whatsapp-mcp-ts": {
       "owner": "aukik",
@@ -738,7 +769,8 @@
         "whatsapp mcp",
         "aukik whatsapp",
         "utilizes whatsapp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "baryhuang--mcp-headless-gmail": {
       "owner": "baryhuang",
@@ -761,7 +793,8 @@
         "headless gmail",
         "gmail headless",
         "gmail functionality"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "bastienchabal--gmail-mcp": {
       "owner": "bastienchabal",
@@ -784,7 +817,8 @@
         "gmail mcp",
         "integrate gmail",
         "bastienchabal gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "bcharleson--Instantly-MCP": {
       "owner": "bcharleson",
@@ -807,7 +841,8 @@
         "mcp provides",
         "messaging bcharleson",
         "instantly mcp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "cablate--mcp-google-gmail": {
       "owner": "cablate",
@@ -830,7 +865,8 @@
         "integrate gmail",
         "gmail integrate",
         "gmail advanced"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "carterlasalle--mac_messages_mcp": {
       "owner": "carterlasalle",
@@ -853,7 +889,8 @@
         "carterlasalle mac_messages_mcp",
         "mac_messages_mcp interact",
         "macos messages"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "chaindead--telegram-mcp": {
       "owner": "chaindead",
@@ -876,7 +913,8 @@
         "assistants telegram",
         "telegram mcp",
         "telegram api"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "chigwell--telegram-mcp": {
       "owner": "chigwell",
@@ -899,7 +937,8 @@
         "telegram mcp",
         "interact telegram",
         "telegram chats"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "darinkishore--Inbox-MCP": {
       "owner": "darinkishore",
@@ -922,7 +961,8 @@
         "automate email",
         "email management",
         "processing emails"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "deploya-labs--mcp-resend": {
       "owner": "deploya-labs",
@@ -945,7 +985,8 @@
         "messaging deploya",
         "compose send",
         "seamless email"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "deshartman--twilio-messaging-mcp-server": {
       "owner": "deshartman",
@@ -968,7 +1009,8 @@
         "twilio messaging",
         "messaging mcp",
         "using twilio"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "dev-palboksoft--kimpalbok-slack-mcp-server": {
       "owner": "dev-palboksoft",
@@ -991,7 +1033,8 @@
         "kimpalbok slack",
         "slack mcp",
         "messaging dev"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "dryeab--mcp-telegram": {
       "owner": "dryeab",
@@ -1014,7 +1057,8 @@
         "models telegram",
         "mcp telegram",
         "telegram sending"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "ducphu0ng--imap-netflix-household-automation": {
       "owner": "ducphu0ng",
@@ -1037,7 +1081,8 @@
         "imap netflix",
         "emails imap",
         "imap requires"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "edupoli--smileapi-mcp": {
       "owner": "edupoli",
@@ -1060,7 +1105,8 @@
         "messaging edupoli",
         "integration messaging",
         "email messaging"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "elinmaks--hash2GO-telegram-app": {
       "owner": "elinmaks",
@@ -1083,7 +1129,8 @@
         "hash2go telegram",
         "telegram app",
         "app telegram"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "epaproditus--google-workspace-mcp-server": {
       "owner": "epaproditus",
@@ -1106,7 +1153,8 @@
         "gmail calendar",
         "interact gmail",
         "emails calendar"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "erickva--google-workspace-mcp-server-no-calendar-deletetion": {
       "owner": "erickva",
@@ -1129,7 +1177,8 @@
         "gmail calendar",
         "emails calendar",
         "calendar apis"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "falahgs--Gemini-Data-Analysis-Research-MCP-Server": {
       "owner": "falahgs",
@@ -1152,7 +1201,8 @@
         "automate email",
         "email messaging",
         "email delivery"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "falahgs--Gemini-Email-Subject-Generator-MCP": {
       "owner": "falahgs",
@@ -1175,7 +1225,8 @@
         "gemini email",
         "gemini flash",
         "email subject"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "gitmotion--ntfy-me-mcp": {
       "owner": "gitmotion",
@@ -1198,7 +1249,8 @@
         "ntfy mcp",
         "ntfy service",
         "messaging gitmotion"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "honeybluesky--mcp-unipile": {
       "owner": "honeybluesky",
@@ -1221,7 +1273,8 @@
         "messaging platforms",
         "messaging honeybluesky",
         "multiple messaging"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "j3k0--mcp-google-workspace": {
       "owner": "j3k0",
@@ -1244,7 +1297,8 @@
         "interact gmail",
         "mcp google",
         "gmail google"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "jasonsum--gmail-mcp-server": {
       "owner": "jasonsum",
@@ -1267,7 +1321,8 @@
         "gmail mcp",
         "integrate gmail",
         "gmail send"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "jaw9c--mcp-whatsapp": {
       "owner": "jaw9c",
@@ -1290,7 +1345,8 @@
         "mcp whatsapp",
         "personal whatsapp",
         "whatsapp account"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "jikime--py-mcp-google-toolbox": {
       "owner": "jikime",
@@ -1313,7 +1369,8 @@
         "google toolbox",
         "integrate google",
         "google services"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "jlucaso1--whatsapp-mcp-ts": {
       "owner": "jlucaso1",
@@ -1336,7 +1393,8 @@
         "whatsapp mcp",
         "jlucaso1 whatsapp",
         "whatsapp accounts"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "jmonsellier--gmail-mcp-server": {
       "owner": "jmonsellier",
@@ -1359,7 +1417,8 @@
         "gmail mcp",
         "integrate gmail",
         "jmonsellier gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "jxnl--python-apple-mcp": {
       "owner": "jxnl",
@@ -1382,7 +1441,8 @@
         "jxnl python",
         "interact macos",
         "messaging jxnl"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "kazuph--mcp-devin": {
       "owner": "kazuph",
@@ -1405,7 +1465,8 @@
         "slack automated",
         "sessions slack",
         "ai slack"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "kazuph--mcp-gmail-gas": {
       "owner": "kazuph",
@@ -1428,7 +1489,8 @@
         "gmail ai",
         "integrates gmail",
         "mcp gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "lance2016--mcp_weather": {
       "owner": "lance2016",
@@ -1451,7 +1513,8 @@
         "interact slack",
         "messaging lance2016",
         "lance2016 mcp_weather"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "mailgun--mailgun-mcp-server": {
       "owner": "mailgun",
@@ -1474,7 +1537,8 @@
         "mailgun email",
         "interact mailgun",
         "mailgun mcp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "mailpace--mailpace-mcp": {
       "owner": "mailpace",
@@ -1497,7 +1561,8 @@
         "mailpace mcp",
         "messaging mailpace",
         "mailpace transactional"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "mario-andreschak--mcp-whatsapp-web": {
       "owner": "mario-andreschak",
@@ -1520,7 +1585,8 @@
         "whatsapp web",
         "mcp whatsapp",
         "integration whatsapp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "mhazarabad--email-mcp": {
       "owner": "mhazarabad",
@@ -1543,7 +1609,8 @@
         "smtp imap",
         "email mcp",
         "imap protocols"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "msaelices--whatsapp-mcp-server": {
       "owner": "msaelices",
@@ -1566,7 +1633,8 @@
         "whatsapp mcp",
         "interaction whatsapp",
         "msaelices whatsapp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "mundume--gmail-mcp": {
       "owner": "mundume",
@@ -1589,7 +1657,8 @@
         "mundume gmail",
         "gmail mcp",
         "manage notes"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "nguyenvanduocit--all-in-one-model-context-protocol": {
       "owner": "nguyenvanduocit",
@@ -1612,7 +1681,8 @@
         "workflows including",
         "development workflows",
         "managing emails"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "non-dirty--imap-mcp": {
       "owner": "non-dirty",
@@ -1635,7 +1705,8 @@
         "imap mcp",
         "manage emails",
         "automate email"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "omd01--aws-ses-mcp": {
       "owner": "omd01",
@@ -1658,7 +1729,8 @@
         "aws ses",
         "omd01 aws",
         "mcp send"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "paso0129--Messenger": {
       "owner": "paso0129",
@@ -1681,7 +1753,8 @@
         "messaging platform",
         "email messaging",
         "source messaging"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "pontusab--resend-mcp": {
       "owner": "pontusab",
@@ -1704,7 +1777,8 @@
         "mcp send",
         "resend email",
         "messaging pontusab"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "prem-research--telegram-mcp": {
       "owner": "prem-research",
@@ -1727,7 +1801,8 @@
         "interact telegram",
         "telegram mcp",
         "telegram programmatically"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "priyankark--phonepi-mcp": {
       "owner": "priyankark",
@@ -1750,7 +1825,8 @@
         "phonepi mcp",
         "priyankark phonepi",
         "messaging priyankark"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "qpd-v--mcp-communicator-telegram": {
       "owner": "qpd-v",
@@ -1773,7 +1849,8 @@
         "communicator telegram",
         "messaging qpd",
         "users telegram"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "r3-yamauchi--mcp-server-blastengine-mailer": {
       "owner": "r3-yamauchi",
@@ -1796,7 +1873,8 @@
         "integrated email",
         "blastengine mailer",
         "email messaging"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "raghavared--gmail-mcp": {
       "owner": "raghavared",
@@ -1819,7 +1897,8 @@
         "gmail mcp",
         "manage gmail",
         "raghavared gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "railsware--mailtrap-mcp": {
       "owner": "railsware",
@@ -1842,7 +1921,8 @@
         "mailtrap mcp",
         "railsware mailtrap",
         "mcp sends"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "resend--mcp-send-email": {
       "owner": "resend",
@@ -1865,7 +1945,8 @@
         "messaging resend",
         "mcp send",
         "email messaging"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "rishipradeep-think41--gsuite-mcp": {
       "owner": "rishipradeep-think41",
@@ -1888,7 +1969,8 @@
         "gsuite mcp",
         "mcp manage",
         "gmail calendar"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "runekaagaard--mcp-notmuch-sendmail": {
       "owner": "runekaagaard",
@@ -1911,7 +1993,8 @@
         "notmuch email",
         "notmuch sendmail",
         "mcp notmuch"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "rymurr--signal-mcp": {
       "owner": "rymurr",
@@ -1934,7 +2017,8 @@
         "signal messaging",
         "messaging platform",
         "messages signal"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "samihalawa--mcp-server-smtp": {
       "owner": "samihalawa",
@@ -1957,7 +2041,8 @@
         "smtp configurations",
         "multiple smtp",
         "server smtp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "seoksik--Messenger-phishing-detection": {
       "owner": "seoksik",
@@ -1980,7 +2065,8 @@
         "messenger phishing",
         "phishing detection",
         "phishing attacks"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "shinzo-labs--gmail-mcp": {
       "owner": "shinzo-labs",
@@ -2003,7 +2089,8 @@
         "gmail mcp",
         "labs gmail",
         "manage emails"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "sparfenyuk--mcp-telegram": {
       "owner": "sparfenyuk",
@@ -2026,7 +2113,8 @@
         "assistants telegram",
         "mcp telegram",
         "telegram connects"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "syedazharmbnr1--claude-outlook-mcp": {
       "owner": "syedazharmbnr1",
@@ -2049,7 +2137,8 @@
         "outlook mcp",
         "microsoft outlook",
         "outlook manage"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "taskmaster-ai--insta-mcp": {
       "owner": "taskmaster-ai",
@@ -2072,7 +2161,8 @@
         "instagram dm",
         "manage instagram",
         "send instagram"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "theposch--gmail-mcp": {
       "owner": "theposch",
@@ -2095,7 +2185,8 @@
         "gmail mcp",
         "comprehensive gmail",
         "gmail effortlessly"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "vakharwalad23--google-mcp": {
       "owner": "vakharwalad23",
@@ -2118,7 +2209,8 @@
         "services gmail",
         "google mcp",
         "integrate google"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "vinayak-mehta--gmail-mcp": {
       "owner": "vinayak-mehta",
@@ -2141,7 +2233,8 @@
         "gmail mcp",
         "mehta gmail",
         "gmail accounts"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "wati-io--whatsapp-api-mcp-server": {
       "owner": "wati-io",
@@ -2164,7 +2257,8 @@
         "io whatsapp",
         "whatsapp api",
         "interaction whatsapp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "wearesage--mcp-apple": {
       "owner": "wearesage",
@@ -2187,7 +2281,8 @@
         "mcp apple",
         "messaging wearesage",
         "wearesage mcp"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "wubbyweb--mcp-generated": {
       "owner": "wubbyweb",
@@ -2210,7 +2305,8 @@
         "send whatsapp",
         "whatsapp messages",
         "twilio api"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "zacco16--gmail-mcp-server": {
       "owner": "zacco16",
@@ -2233,7 +2329,8 @@
         "gmail mcp",
         "integrate gmail",
         "zacco16 gmail"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "zhangzhongnan928--mcp-pa-ai-agent": {
       "owner": "zhangzhongnan928",
@@ -2256,7 +2353,8 @@
         "agent manage",
         "ai agent",
         "mcp pa"
-      ]
+      ],
+      "category": "email-and-messaging"
     },
     "zhqiang-li--open-im-server": {
       "owner": "zhqiang-li",
@@ -2279,7 +2377,8 @@
         "messaging zhqiang",
         "messaging features",
         "messaging capabilities"
-      ]
+      ],
+      "category": "email-and-messaging"
     }
   }
 }
