@@ -7,7 +7,7 @@ export interface ProcessedServer {
   authorUrl: string;
   description: string;
   isOfficial: boolean;
-  categories: string[];
+  categories: string; // Changed from string[] to string
   imageUrl?: string;
   keywords?: string[];
   scores: {
@@ -139,6 +139,7 @@ export interface CategoryInputData {
       npm_url: string;
       npm_downloads: number;
       keywords?: string[];
+      category: string; // Add category field
     };
   };
 }
@@ -205,8 +206,8 @@ export function processInputData(metadataData: MetadataInputData, categoryEntrie
         author: repo.owner,
         authorUrl: `https://github.com/${repo.owner}`,
         description: repo.description || '',
-        isOfficial: categoryData.category === 'official-servers',
-        categories: [categoryData.category],
+        isOfficial: repo.category === 'official-servers', // Use repo.category instead of categoryData.category
+        categories: repo.category, // Use repo.category as string instead of array
         imageUrl: repo.imageUrl || undefined,
         scores: {
           security: 'A', // Default score
@@ -357,8 +358,8 @@ export async function loadMcpCategoryData(categoryId: string): Promise<{
       author: repo.owner,
       authorUrl: `https://github.com/${repo.owner}`,
       description: repo.description || '',
-      isOfficial: categoryData.category === 'official-servers',
-      categories: [categoryData.category],
+      isOfficial: repo.category === 'official-servers', // Use repo.category instead of categoryData.category
+      categories: repo.category, // Use repo.category as string instead of array
       imageUrl: repo.imageUrl || undefined,
       scores: {
         security: 'A', // Default score
