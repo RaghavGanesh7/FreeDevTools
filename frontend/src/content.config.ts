@@ -99,6 +99,7 @@ const mcpCategoryData = defineCollection({
         npm_url: z.string(),
         npm_downloads: z.number(),
         keywords: z.array(z.string()).optional(),
+        category: z.string(), // Add category field to repository schema
       })
     ),
   }),
