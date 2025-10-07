@@ -8,7 +8,6 @@ const cheatsheets = await getAllCheatsheets();
 
 // CSS-based lettered icons - no external dependencies
 
-
 // Flatten all cheatsheets for search (CommandSearch expects a 'platform' field; use category)
 const allCommands = Object.entries(cheatsheets).flatMap(([category, items]) =>
   items.map(item => ({ ...item, platform: category }))
