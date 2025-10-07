@@ -1,15 +1,33 @@
 import { Clock, Download, Scale, Star, Wrench } from "lucide-react";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "../../components/ui/tooltip";
-import type { ProcessedServer } from "../../lib/mcp-data-processor";
 import { formatNumber } from "../../lib/utils";
 
+// Define the server type based on the actual data structure
+interface Server {
+  owner: string;
+  name: string;
+  url: string;
+  imageUrl?: string;
+  description?: string;
+  stars: number;
+  forks: number;
+  license: string;
+  language: string;
+  updated_at: string;
+  readme_content?: string;
+  npm_url: string;
+  npm_downloads: number;
+  keywords?: string[];
+  category: string;
+}
+
 // Repository Card Component using Lucide React
-const RepositoryCard = ({ server, formattedName, category }: { server: ProcessedServer, formattedName: string, category?: string }) => (
+const RepositoryCard = ({ server, formattedName, category, repositoryId }: { server: Server, formattedName: string, category?: string, repositoryId?: string }) => (
   <TooltipProvider>
     <a
-      href={category ? `/freedevtools/mcp/${category}/${server.id}/` : `/freedevtools/mcp/${server.id}/`}
+      href={category && repositoryId ? `/freedevtools/mcp/${category}/${repositoryId}/` : `/freedevtools/mcp/${server.name}/`}
       className="block bg-white dark:bg-slate-900 border border-slate-200 rounded-lg p-6 hover:shadow-md transition-all duration-300 hover:-translate-y-1 cursor-pointer"
-      data-repo-id={server.id}
+      data-repo-id={repositoryId || server.name}
       data-repo-name={server.name}
       data-repo-description={server.description}
       data-repo-license={server.license}
@@ -26,7 +44,7 @@ const RepositoryCard = ({ server, formattedName, category }: { server: Processed
 
           {/* Second Row: Author */}
           <div className="text-sm text-gray-500 dark:text-gray-400">
-            {server.author || 'Unknown Author'}
+            {server.owner || 'Unknown Author'}
           </div>
         </div>
 
@@ -70,7 +88,7 @@ const RepositoryCard = ({ server, formattedName, category }: { server: Processed
           {/* Left side: Last updated */}
           <div className="flex items-center space-x-1 text-sm text-gray-500 dark:text-gray-400">
             <Clock className="w-4 h-4 text-gray-900 dark:text-gray-400" />
-            <span>Last Updated {server.stats.lastUpdated}</span>
+            <span>Last Updated {new Date(server.updated_at).toLocaleDateString()}</span>
           </div>
 
           {/* Right side: Other stats */}
@@ -80,7 +98,7 @@ const RepositoryCard = ({ server, formattedName, category }: { server: Processed
                 <div className="flex items-center space-x-1 text-sm text-gray-500 dark:text-gray-400">
                   <img src="/freedevtools/svg_icons/github/github-svgrepo-com.svg" alt="GitHub" className="w-4 h-4 text-gray-900 dark:brightness-0 dark:invert" />
                   <Star className="w-4 h-4 text-gray-900 dark:text-gray-400" />
-                  <span>{formatNumber(server.stats.githubStars)}</span>
+                  <span>{formatNumber(server.stars)}</span>
                 </div>
               </TooltipTrigger>
               <TooltipContent>
@@ -94,7 +112,7 @@ const RepositoryCard = ({ server, formattedName, category }: { server: Processed
                 <div className="flex items-center space-x-1 text-sm text-gray-500 dark:text-gray-400">
                   <img src="/freedevtools/svg_icons/github/npm-svgrepo-com.svg" alt="NPM" className="w-4 h-4 text-gray-900 dark:brightness-0 dark:invert" />
                   <Download className="w-4 h-4 text-gray-900 dark:text-gray-400" />
-                  <span>{formatNumber(server.stats.weeklyDownloads)}</span>
+                  <span>{formatNumber(server.npm_downloads)}</span>
                 </div>
               </TooltipTrigger>
               <TooltipContent>
@@ -105,7 +123,7 @@ const RepositoryCard = ({ server, formattedName, category }: { server: Processed
               <TooltipTrigger asChild>
                 <div className="flex items-center space-x-1 text-sm text-gray-500 dark:text-gray-400">
                   <Wrench className="w-4 h-4 text-gray-900 dark:text-gray-400" />
-                  <span>{formatNumber(server.stats.tools)}</span>
+                  <span>{formatNumber(1)}</span>
                 </div>
               </TooltipTrigger>
               <TooltipContent>

@@ -4,83 +4,72 @@ import ToolHead from '@/components/tool/ToolHead.tsx';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Pagination from '@/components/Pagination.astro';
 import BottomPagination from '@/components/BottomPagination.astro';
-import { loadMcpCategoryData } from '@/lib/mcp-data-processor.tsx';
 import { formatRepositoryName } from '@/lib/utils';
 import RepositoryCard from './_McpRepoCard.tsx';
+import { getCollection } from 'astro:content';
 
-
-
+// Generate static paths for all MCP categories
 export async function getStaticPaths() {
-  console.log('🔍 MCP Category getStaticPaths: Starting...');
+  const categoryEntries = await getCollection('mcpCategoryData');
   
-  // Load metadata to get all categories
-  const { getCollection } = await import('astro:content');
-  const metadataEntries = await getCollection('mcpMetadata' as any);
-  const metadata = (metadataEntries[0] as any)?.data as any;
-  
-  console.log('🔍 MCP Category getStaticPaths: Found metadata entries:', metadataEntries.length);
-  
-  if (!metadata) {
-    throw new Error('No MCP metadata found');
-  }
-  
-  const categories = Object.keys(metadata.categories);
-  console.log('🔍 MCP Category getStaticPaths: Found categories:', categories);
-  
-  // Generate static paths for all categories
-  const paths = categories.map((categoryId) => ({
-    params: { category: categoryId },
-    props: { category: { id: categoryId } }
+  return categoryEntries.map(entry => ({
+    params: { category: entry.data.category }
   }));
-
-  console.log('🔍 MCP Category getStaticPaths: Generated paths:', paths.length);
-  console.log('🔍 MCP Category getStaticPaths: First few paths:', paths.slice(0, 3));
-
-  return paths;
 }
 
-const { category } = Astro.props;
-const { servers: categoryServers, category: categoryInfo } = await loadMcpCategoryData(category.id);
+// Get category from params
+const { category } = Astro.params;
 
-// Sort servers by stars
-categoryServers.sort((a, b) => b.stats.githubStars - a.stats.githubStars);
+if (!category) {
+  throw new Error('Category parameter is required');
+}
+
+// Load category data
+const categoryEntries = await getCollection('mcpCategoryData');
+const categoryEntry = categoryEntries.find(entry => entry.data.category === category);
+
+if (!categoryEntry) {
+  throw new Error(`Category '${category}' not found`);
+}
+
+const categoryData = categoryEntry.data;
+const categoryName = categoryData.categoryDisplay;
+const categoryDescription = categoryData.description || '';
+const categoryServers = Object.values(categoryData.repositories);
 
 // Pagination constants
 const ITEMS_PER_PAGE = 20;
 const totalItems = categoryServers.length;
 const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
- 
 
-// SEO Data
-const categoryDisplayName = categoryInfo.name;
-const title = `${categoryDisplayName} MCP Repositories - Browse ${categoryServers.length} Model Context Protocol Servers | Free DevTools by Hexmos`;
-const description = `Browse ${categoryServers.length} ${categoryDisplayName} MCP repositories instantly. Find Model Context Protocol servers, tools, and clients in the ${categoryDisplayName} category. Free, no registration required.`;
+// SEO data
+const title = `${categoryName} MCP Repositories - ${categoryServers.length} Model Context Protocol Servers`;
+const description = `Browse ${categoryServers.length} ${categoryName} MCP repositories. Find Model Context Protocol servers for ${categoryName.toLowerCase()}. Free, no registration required.`;
 const keywords = [
-  'mcp repositories',
-  'model context protocol',
-  categoryDisplayName.toLowerCase(),
-  'ai agent tools',
-  'mcp directory',
-  'open source mcp',
-  `${categoryDisplayName.toLowerCase()} mcp servers`,
-  'mcp tools directory',
-  'ai tools category'
+  'MCP',
+  'Model Context Protocol',
+  categoryName,
+  'MCP servers',
+  'AI tools',
+  'developer tools',
+  'open source',
+  'repositories'
 ];
 
 // Breadcrumb data
 const breadcrumbItems = [
   { label: 'Free DevTools', href: '/freedevtools/' },
   { label: 'MCP Directory', href: '/freedevtools/mcp/' },
-  { label: categoryInfo.name }
+  { label: categoryName }
 ];
 ---
 
 <BaseLayout 
-  name={`${categoryInfo.name} MCP Repositories`}
+  name={`${categoryName} MCP Repositories`}
   title={title}
-  path={`/freedevtools/mcp/${category.id}/`}
+  path={`/freedevtools/mcp/${category}/`}
   description={description}
-  canonical={`https://hexmos.com/freedevtools/mcp/${category.id}/`}
+  canonical={`https://hexmos.com/freedevtools/mcp/${category}/`}
   themeColor="#3b82f6"
   keywords={keywords}
   ogImage="https://hexmos.com/freedevtools/tool-banners/mcp-directory-banner.png"
@@ -88,7 +77,7 @@ const breadcrumbItems = [
   datePublished="2025-01-30"
   softwareVersion="1.0.0"
   features={[
-    `Browse ${categoryServers.length} MCP repositories in ${categoryInfo.name}`,
+    `Browse ${categoryServers.length} MCP repositories in ${categoryName}`,
     'Filter by license and quality scores',
     'Search and sort functionality',
     'Detailed repository information'
@@ -97,8 +86,8 @@ const breadcrumbItems = [
   <ToolContainer>
     
     <ToolHead 
-      name={`${categoryInfo.name} MCP Repositories`}
-      description={`${categoryServers.length} repositories in this category. ${categoryInfo.description}`}
+      name={`${categoryName} MCP Repositories`}
+      description={`${categoryServers.length} repositories in this category. ${categoryDescription}`}
       breadcrumbItems={breadcrumbItems}
       client:load
     />
@@ -131,13 +120,14 @@ const breadcrumbItems = [
 
     <!-- Repositories List -->
     <div id="repositories-grid" class="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-4">
-      {categoryServers.map((server) => {
+      {Object.entries(categoryData.repositories).map(([repositoryId, server]) => {
         const formattedName = formatRepositoryName(server.name);
         return (
           <RepositoryCard 
             server={server} 
             formattedName={formattedName}
-            category={category.id}
+            category={category}
+            repositoryId={repositoryId}
             client:load
           />
         );
