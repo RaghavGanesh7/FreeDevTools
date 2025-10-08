@@ -88,7 +88,7 @@ const RepositoryCard = ({ server, formattedName, category, repositoryId }: { ser
           {/* Left side: Last updated */}
           <div className="flex items-center space-x-1 text-sm text-gray-500 dark:text-gray-400">
             <Clock className="w-4 h-4 text-gray-900 dark:text-gray-400" />
-            <span>Last Updated {new Date(server.updated_at).toLocaleDateString()}</span>
+            <span>Last Updated {new Date(server.updated_at).toLocaleDateString('en-US', { year: 'numeric', month: '2-digit', day: '2-digit' })}</span>
           </div>
 
           {/* Right side: Other stats */}
