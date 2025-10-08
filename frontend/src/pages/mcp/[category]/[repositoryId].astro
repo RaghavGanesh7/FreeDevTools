@@ -9,6 +9,7 @@ import { marked } from 'marked';
 // Generate static paths for all MCP repositories
 export async function getStaticPaths() {
   const categoryEntries = await getCollection('mcpCategoryData');
+  console.log("--------------------------- categoryEntries", categoryEntries);
   const paths = [];
   
   for (const entry of categoryEntries) {
