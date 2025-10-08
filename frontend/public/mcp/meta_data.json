@@ -67,14 +67,6 @@
       "npmPackages": 0,
       "npmDownloads": 0
     },
-    "code-execution": {
-      "categoryDisplay": "Code Execution",
-      "totalRepositories": 91,
-      "totalStars": 34937,
-      "totalForks": 3256,
-      "npmPackages": 0,
-      "npmDownloads": 0
-    },
     "coding-agents": {
       "categoryDisplay": "Coding Agents",
       "totalRepositories": 13,
