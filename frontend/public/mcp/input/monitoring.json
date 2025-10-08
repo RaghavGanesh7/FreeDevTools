@@ -244,9 +244,9 @@
       ],
       "category": "monitoring"
     },
-    "netdata--netdata#Netdata": {
+    "netdata--netdata": {
       "owner": "netdata",
-      "name": "netdata#Netdata",
+      "name": "netdata",
       "url": "https://github.com/netdata/netdata/blob/master/src/web/mcp/README.md",
       "imageUrl": "",
       "description": "Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections",

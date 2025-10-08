@@ -2757,10 +2757,10 @@
       ],
       "category": "official-integrations"
     },
-    "cycodehq--cycode-cli#mcp-command-experiment": {
+    "cycodehq--cycode-cli": {
       "owner": "cycodehq",
-      "name": "cycode-cli#mcp-command-experiment",
-      "url": "https://github.com/cycodehq/cycode-cli#mcp-command-experiment",
+      "name": "cycode-cli",
+      "url": "https://github.com/cycodehq/cycode-cli",
       "imageUrl": "https://github.com/cycodehq.png",
       "description": "Boost security in your dev lifecycle via SAST, SCA, Secrets & IaC scanning with .",
       "stars": 94,
@@ -3309,10 +3309,10 @@
       ],
       "category": "official-integrations"
     },
-    "gitkraken--gk-cli?tab=readme-ov-file#mcp-server": {
+    "gitkraken--gk-cli": {
       "owner": "gitkraken",
-      "name": "gk-cli?tab=readme-ov-file#mcp-server",
-      "url": "https://github.com/gitkraken/gk-cli?tab=readme-ov-file#mcp-server",
+      "name": "gk-cli",
+      "url": "https://github.com/gitkraken/gk-cli",
       "imageUrl": "https://github.com/gitkraken.png",
       "description": "A CLI for interacting with GitKraken APIs. Includes an MCP server via `gk mcp` that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more.",
       "stars": 301,
@@ -3909,10 +3909,10 @@
       ],
       "category": "official-integrations"
     },
-    "knocklabs--agent-toolkit#model-context-protocol-mcp": {
+    "knocklabs--agent-toolkit": {
       "owner": "knocklabs",
-      "name": "agent-toolkit#model-context-protocol-mcp",
-      "url": "https://github.com/knocklabs/agent-toolkit#model-context-protocol-mcp",
+      "name": "agent-toolkit",
+      "url": "https://github.com/knocklabs/agent-toolkit",
       "imageUrl": "https://github.com/knocklabs.png",
       "description": "Send product and customer messaging across email, in-app, push, SMS, Slack, MS Teams.",
       "stars": 7,
@@ -4293,10 +4293,10 @@
       ],
       "category": "official-integrations"
     },
-    "makenotion--notion-mcp-server#readme": {
+    "makenotion--notion-mcp-server": {
       "owner": "makenotion",
-      "name": "notion-mcp-server#readme",
-      "url": "https://github.com/makenotion/notion-mcp-server#readme",
+      "name": "notion-mcp-server",
+      "url": "https://github.com/makenotion/notion-mcp-server",
       "imageUrl": "https://github.com/makenotion.png",
       "description": "This project implements an MCP server for the Notion API.",
       "stars": 3268,
@@ -4461,10 +4461,10 @@
       ],
       "category": "official-integrations"
     },
-    "mobb-dev--bugsy?tab=readme-ov-file#model-context-protocol-mcp-server": {
+    "mobb-dev--bugsy": {
       "owner": "mobb-dev",
-      "name": "bugsy?tab=readme-ov-file#model-context-protocol-mcp-server",
-      "url": "https://github.com/mobb-dev/bugsy?tab=readme-ov-file#model-context-protocol-mcp-server",
+      "name": "bugsy",
+      "url": "https://github.com/mobb-dev/bugsy",
       "imageUrl": "https://github.com/mobb-dev.png",
       "description": "The  MCP server identifies and remediates vulnerabilities in both human and AI-written code, ensuring your applications remain secure without slowing development.",
       "stars": 59,
@@ -4869,10 +4869,10 @@
       ],
       "category": "official-integrations"
     },
-    "offorte--offorte-mcp-server#readme": {
+    "offorte--offorte-mcp-server": {
       "owner": "offorte",
-      "name": "offorte-mcp-server#readme",
-      "url": "https://github.com/offorte/offorte-mcp-server#readme",
+      "name": "offorte-mcp-server",
+      "url": "https://github.com/offorte/offorte-mcp-server",
       "imageUrl": "https://github.com/offorte.png",
       "description": "Offorte Proposal Software official MCP server enables creation and sending of business proposals.",
       "stars": 3,
