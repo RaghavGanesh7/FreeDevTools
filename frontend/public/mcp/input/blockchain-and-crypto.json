@@ -1732,30 +1732,6 @@
       ],
       "category": "blockchain-and-crypto"
     },
-    "lmcmz--flow-mcp-server": {
-      "owner": "lmcmz",
-      "name": "flow-mcp-server",
-      "url": "https://github.com/lmcmz/flow-mcp-server",
-      "imageUrl": "https://github.com/lmcmz.png",
-      "description": "Access Flow blockchain data and perform operations through a standardized interface for checking balances, resolving domains, executing scripts, and submitting transactions.",
-      "stars": 1,
-      "forks": 2,
-      "license": "No License",
-      "language": "JavaScript",
-      "updated_at": "2025-07-14T15:54:07Z",
-      "readme_content": "# Flow MCP Server\n\nA Model Context Protocol (MCP) server for interacting with the Flow blockchain. This server enables AI assistants to access Flow blockchain data and perform operations through a standardized interface.\n\n## Features\n\n- Balance checking for Flow and fungible tokens\n- Domain resolution for `.find` and `.fn` domains\n- Script execution for reading blockchain data\n- Transaction submission and monitoring\n- Account information retrieval\n- Flow configuration based on environment variables\n\n## Installation\n\n### Using npx (Recommended)\n\n```bash\nnpx -y @outblock/flow-mcp-server --stdio\n```\n\nOr specify HTTP mode with a port:\n\n```bash\nnpx -y @outblock/flow-mcp-server --port 3000\n```\n\n### Local Installation (For Development)\n\n```bash\ngit clone https://github.com/lmcmz/flow-mcp-server.git\ncd flow-mcp-server\nnpm install\nnpm run build\nnpm start\n```\n\n## Usage\n\n### Running with npx\n\n```bash\n# Run in stdio mode (for AI assistant integration)\nnpx -y @outblock/flow-mcp-server --stdio\n\n# Run as HTTP server on port 3000\nnpx -y @outblock/flow-mcp-server --port 3000\n\n# Specify Flow network\nnpx -y @outblock/flow-mcp-server --port 3000 --network testnet\n```\n\n### Running Local Development Server\n\n```bash\n# Run in stdio mode\nnpm run build\nnpm start\n\n# Run as HTTP server on port 3000\nnpm run build\nPORT=3000 npm start\n\n# For development with auto-reload\nnpm run dev\n```\n\n## Configuration\n\nThe server can be configured using environment variables:\n\n- `PORT` - HTTP port to listen on (if not set, defaults to stdio mode)\n- `FLOW_NETWORK` - Flow network to connect to (mainnet, testnet, emulator)\n- `FLOW_ACCESS_NODE` - Custom Flow access node URL\n- `LOG_LEVEL` - Logging level (debug, info, warn, error)\n\n## Using with AI Assistants\n\nWhen integrating with AI assistants like Claude, you can start the MCP server in stdio mode and connect it to your assistant's tool configuration.\n\nExample Claude tool configuration:\n\n```json\n{\n  \"tools\": [\n    {\n      \"name\": \"flow-mcp-server\",\n      \"command\": \"npx -y @outblock/flow-mcp-server --stdio\"\n    }\n  ]\n}\n```\n\n## HTTP API Endpoints\n\nWhen running in HTTP mode, the following endpoints are available:\n\n- `/sse` - Server-Sent Events endpoint for real-time updates\n- `/messages` - POST endpoint for sending tool requests\n- `/health` - Health check endpoint\n- `/` - Server information\n\nExample HTTP API call:\n\n```bash\ncurl -X POST http://localhost:3000/messages \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"tool_request\": {\n      \"name\": \"get_balance\",\n      \"parameters\": {\n        \"address\": \"0x2d4c3caffbeab845\",\n        \"network\": \"mainnet\"\n      }\n    }\n  }'\n```\n\n## Available Tools\n\n- `get_balance` - Get Flow balance for an address\n- `get_token_balance` - Get fungible token balance\n- `get_account` - Get account information\n- `resolve_domain` - Resolve a .find or .fn domain to an address\n- `execute_script` - Execute a Cadence script\n- `send_transaction` - Send a transaction to the blockchain\n- `get_transaction` - Get transaction details by ID\n\n## Version History\n\n- **v0.1.1** - Bug fix for formatArguments import issue in transaction service\n- **v0.1.0** - Initial release with basic Flow blockchain integration\n\n## License\n\nMIT",
-      "npm_url": "",
-      "npm_downloads": 0,
-      "keywords": [
-        "lmcmz",
-        "blockchain",
-        "crypto",
-        "flow blockchain",
-        "crypto lmcmz",
-        "lmcmz flow"
-      ],
-      "category": "blockchain-and-crypto"
-    },
     "lorrylockie--DARC": {
       "owner": "lorrylockie",
       "name": "DARC",

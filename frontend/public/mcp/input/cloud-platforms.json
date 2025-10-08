@@ -15,7 +15,7 @@
       "license": "No License",
       "language": "TypeScript",
       "updated_at": "2025-09-06T14:18:37Z",
-      "readme_content": "# 4EVERLAND Hosting MCP Server\n\n[![Version](https://img.shields.io/badge/version-0.1.4-blue.svg)](https://www.npmjs.com/package/@4everland/hosting-mcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Node](https://img.shields.io/badge/node-%3E%3D20.12.2-green.svg)](https://nodejs.org/)\n\n---\n\nA Model Context Protocol (MCP) server implementation\nfor [4EVERLAND Hosting](https://docs.4everland.org/hositng/what-is-hosting) enabling instant deployment of AI-generated\ncode to decentralized storage networks like Greenfield, IPFS, and Arweave.\n\n## Overview\n\nThe 4EVERLAND Hosting MCP Server enables users to leverage AI-driven workflows to deploy code instantly to decentralized\nstorage networks such as Greenfield, IPFS, and Arweave. Upon deployment, it provides a directly accessible webpage\ndomain, streamlining the process of deploying and sharing decentralized applications.\n\n## Features\n\n- **Instant Deployment with Domain Generation**: Deploy AI-generated code to decentralized storage networks and receive\n  a unique, immediately accessible webpage domain with a single command.\n- **Multiple Decentralized Storage Networks**: Support for Greenfield, IPFS, and Arweave, enabling flexible and\n  resilient storage options for your applications.\n- **Secure and Loss-Proof Decentralized Storage**: Leverage the robust, tamper-resistant, and highly available nature of\n  decentralized storage to ensure data security and prevent data loss.\n- **Visual Project Management Interface**: Manage your deployed projects, view detailed information, or configure custom\n  domains directly in the [4EVERLAND Dashboard](https://dashboard.4everland.org/).\n\n## MCP Tool\n\n### Tool: deploy_site\n\n**Description**: Deploys code to 4EVERLAND hosting platforms.\n\n| Parameter    | Type                         | Description                                                                   |\n|--------------|------------------------------|-------------------------------------------------------------------------------|\n| code_files   | Record&lt;string, string&gt; | Map of file paths to their content                                            |\n| project_name | string                       | Project name (alphanumeric, underscore, hyphen; cannot start/end with hyphen) |\n| project_id   | string (optional)            | Existing project ID to deploy to (new project created if omitted)             |\n| platform     | \"IPFS\"\\|\"AR\"\\|\"GREENFIELD\"   | Storage platform to deploy to (default: `\"IPFS\"`)                             |\n\n## Get Hosting Auth Token\n\n1. Log in to your [4EVERLAND Dashboard](https://dashboard.4everland.org/) account.\n2. Go to **Hosting** -&gt; **Auth Token**.\n3. Click on **+Create** to generate a new token.\n4. Copy and save the token somewhere safe as it will only be shown once.\n\n## Integration with Cursor\n\nTo connect to the MCP server from Cursor:\n\n1. Open Cursor and go to **Settings** (gear icon in the top right).\n2. Click on **MCP** in the left sidebar.\n3. Click **Add new global MCP server**.\n4. Enter the following details:\n\n```json\n{\n  \"mcpServers\": {\n    \"4ever-mcpserver\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"@4everland/hosting-mcp@latest\",\n        \"serve\"\n      ],\n      \"env\": {\n        \"TOKEN\": \"your-hosting-auth-token\"\n      }\n    }\n  }\n}\n```\n\n## Integration with Claude Desktop\n\nTo connect to the MCP server from Claude Desktop:\n\n1. Open Claude Desktop and go to **Settings**.\n2. Click on **Developer** in the left sidebar.\n3. Click the **Edit Config** button.\n4. Add the following configuration to the `claude_desktop_config.json` file:\n\n```json\n{\n  \"mcpServers\": {\n    \"4ever-mcpserver\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"@4everland/hosting-mcp@latest\",\n        \"serve\"\n      ],\n      \"env\": {\n        \"TOKEN\": \"your-hosting-auth-token\"\n      }\n    }\n  }\n}\n```\n\n5. Save the file and restart Claude Desktop.\n\n## Local Development\n\nTo run the server locally for development:\n\n```bash\n# Clone repository\ngit clone https://github.com/4everland/4everland-hosting-mcp.git\ncd 4everland-hosting-mcp\n\n# Install dependencies\nnpm install\n\n# Build the project\nnpm run build\n\n# Run the server locally\nnpm run serve\n```\n\n## License\n\nThis project is licensed under the MIT License.",
+      "readme_content": "# 4EVERLAND Hosting MCP Server\n\n[![Version](https://img.shields.io/ repository\ngit clone https://github.com/4everland/4everland-hosting-mcp.git\ncd 4everland-hosting-mcp\n\n# Install dependencies\nnpm install\n\n# Build the project\nnpm run build\n\n# Run the server locally\nnpm run serve\n```\n\n## License\n\nThis project is licensed under the MIT License.",
       "npm_url": "",
       "npm_downloads": 0,
       "keywords": [
@@ -97,30 +97,6 @@
         "cloud platforms",
         "platforms cloud",
         "cloud platform"
-      ],
-      "category": "cloud-platforms"
-    },
-    "VmLia--books-mcp-server": {
-      "owner": "VmLia",
-      "name": "books-mcp-server",
-      "url": "https://github.com/VmLia/books-mcp-server",
-      "imageUrl": "",
-      "description": "This is an MCP server used for querying books, and it can be applied in common MCP clients, such as Cherry Studio.",
-      "stars": 5,
-      "forks": 2,
-      "license": "No License",
-      "language": "Python",
-      "updated_at": "2025-08-24T08:50:12Z",
-      "readme_content": "## Get the Project and Initialize\n```\ngit clone https://github.com/VmLia/books-mcp-server.git\ncd books-mcp-server\nuv venv\n```\nif macbook or linux\n````\nsource .venv/bin/activate\n````\nif windows\n````\n.venv\\Scripts\\activate.bat\n````\n\n### Install Python Packages\n```\nuv add \"mcp[cli]\" httpx openai beautifulsoup4 lxml \n```\nIf the network is slow, you can set up a domestic mirror source.\n```\nuv add \"mcp[cli]\" httpx openai beautifulsoup4 lxml --index-url https://pypi.tuna.tsinghua.edu.cn/simple\n```\n\n## Example of Using cherry-studio\n**Method 1**: On the setting page of cherry-studio, click on the MCP server, then click \"Add Server\", and subsequently configure it on the page.\n### Type\n```\nSTDIO\n```\n### Command\n```\nuv\n```\n### Parameters\n```\n--directory\n# your project dir\nrun\nmain.py\n```\n\n**Method 2**: Use the configuration parameters\n```\n{\n  \"mcpServers\": {\n    \"books-mcp-server\": {\n      \"name\": \"books-mcp\",\n      \"type\": \"stdio\",\n      \"description\": \"\",\n      \"isActive\": true,\n      \"registryUrl\": \"\",\n      \"command\": \"uv\",\n      \"args\": [\n        \"--directory\",\n        \"/Enter your local project directory/books-mcp-server\",\n        \"run\",\n        \"main.py\"\n      ]\n    }\n  }\n}\n```",
-      "npm_url": "",
-      "npm_downloads": 0,
-      "keywords": [
-        "cloud",
-        "vmlia",
-        "platform",
-        "cloud platform",
-        "cloud platforms",
-        "platforms cloud"
       ],
       "category": "cloud-platforms"
     },

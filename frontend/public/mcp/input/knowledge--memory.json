@@ -52,12 +52,12 @@
       ],
       "category": "knowledge--memory"
     },
-    "GistPad-MCP](https:--/github.com/lostintangent/gistpad-mcp) 📇 🏠 - Use GitHub Gists to manage and access your personal knowledge, daily notes, and reusable prompts. This acts as a companion to https://gistpad.dev and the [GistPad VS Code extension": {
-      "owner": "GistPad-MCP](https:",
-      "name": "/github.com/lostintangent/gistpad-mcp) 📇 🏠 - Use GitHub Gists to manage and access your personal knowledge, daily notes, and reusable prompts. This acts as a companion to https://gistpad.dev and the [GistPad VS Code extension",
+    "lostintangent-GistPad-MCP": {
+      "owner": "lostintangent",
+      "name": "gistpad-mcp",
       "url": "https://aka.ms/gistpad",
       "imageUrl": "",
-      "description": "[graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Ingest anything from Slack, Discord, websites, Google Drive, Linear or GitHub into a Graphlit project - and then search and retrieve relevant knowledge within an MCP client like Cursor, Windsurf or Cline.",
+      "description": "",
       "stars": 0,
       "forks": 0,
       "license": "Unknown",
