@@ -25,7 +25,8 @@
         "videocapture mcp",
         "mcp video",
         "control webcams"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "AB498--computer-control-mcp": {
       "owner": "AB498",
@@ -48,7 +49,8 @@
         "computer control",
         "iot device",
         "device control"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "Benniu--emqx-mcp-server": {
       "owner": "Benniu",
@@ -71,7 +73,8 @@
         "emqx mqtt",
         "mqtt clients",
         "connected mqtt"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "CorefluxCommunity--Coreflux-MQTT-MCP-Server": {
       "owner": "CorefluxCommunity",
@@ -94,7 +97,8 @@
         "coreflux mqtt",
         "mqtt protocols",
         "using mqtt"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "Cyreslab-AI--shodan-mcp-server": {
       "owner": "Cyreslab-AI",
@@ -117,7 +121,8 @@
         "shodan api",
         "access shodan",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "DMontgomery40--mcp-3D-printer-server": {
       "owner": "DMontgomery40",
@@ -140,7 +145,8 @@
         "printer management",
         "printer server",
         "3d printer"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "Dreamboat-Rachel--MCP-Server-For-Local": {
       "owner": "Dreamboat-Rachel",
@@ -163,7 +169,8 @@
         "connect ai",
         "iot device",
         "mcp server"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "GitDzreal93--uiautomator2-mcp": {
       "owner": "GitDzreal93",
@@ -186,7 +193,8 @@
         "uiautomator2 mcp",
         "control android",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "Here-and-Tomorrow-LLC--audio-player-mcp": {
       "owner": "Here-and-Tomorrow-LLC",
@@ -209,7 +217,8 @@
         "manage audio",
         "device control",
         "control audio"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "JoshuaRileyDev--simulator-mcp-server": {
       "owner": "JoshuaRileyDev",
@@ -232,7 +241,8 @@
         "joshuarileydev simulator",
         "ios simulators",
         "simulator mcp"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "RhombusSystems--rhombus-node-mcp": {
       "owner": "RhombusSystems",
@@ -255,7 +265,8 @@
         "rhombus api",
         "control rhombussystems",
         "rhombus node"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "SecretiveShell--mcp-windows": {
       "owner": "SecretiveShell",
@@ -278,7 +289,8 @@
         "mcp windows",
         "mcp interface",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "ThingsPanel--thingspanel-mcp": {
       "owner": "ThingsPanel",
@@ -301,7 +313,8 @@
         "control thingspanel",
         "thingspanel mcp",
         "thingspanel thingspanel"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "ThomasRohde--hue-mcp": {
       "owner": "ThomasRohde",
@@ -324,7 +337,8 @@
         "philips hue",
         "smart lighting",
         "hue smart"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "Volt23--mcp-arduino-server": {
       "owner": "Volt23",
@@ -347,7 +361,8 @@
         "arduino cli",
         "iot device",
         "cli functionality"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "Zalmotek--jetson-mcp": {
       "owner": "Zalmotek",
@@ -370,7 +385,8 @@
         "nvidia jetson",
         "iot device",
         "zalmotek jetson"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "abhaybabbar--retellai-mcp-server": {
       "owner": "abhaybabbar",
@@ -393,7 +409,8 @@
         "iot device",
         "voice services",
         "interact retellai"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "allenporter--mcp-server-home-assistant": {
       "owner": "allenporter",
@@ -416,7 +433,8 @@
         "home assistant",
         "smart home",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "amanasmuei--mcp-server-nodemcu": {
       "owner": "amanasmuei",
@@ -439,7 +457,8 @@
         "nodemcu manage",
         "manage nodemcu",
         "server nodemcu"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "apache--iotdb": {
       "owner": "apache",
@@ -462,7 +481,8 @@
         "apache iotdb",
         "iotdb manage",
         "industrial iot"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "atom2ueki--mcp-server-ios-simulator": {
       "owner": "atom2ueki",
@@ -485,7 +505,8 @@
         "ios simulators",
         "ios simulator",
         "simulators enabling"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "babelcloud--gbox": {
       "owner": "babelcloud",
@@ -508,7 +529,8 @@
         "babelcloud gbox",
         "iot device",
         "gbox self"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "baryhuang--mcp-remote-macos-use": {
       "owner": "baryhuang",
@@ -531,7 +553,8 @@
         "remote macos",
         "mcp remote",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "cfrs2005--mcp-gs-robot": {
       "owner": "cfrs2005",
@@ -554,7 +577,8 @@
         "gausium robots",
         "gausium automation",
         "gs robot"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "claude-did-this--MCPControl": {
       "owner": "claude-did-this",
@@ -577,7 +601,8 @@
         "mcpcontrol windows",
         "iot device",
         "mcp enabling"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "cyanheads--toolkit-mcp-server": {
       "owner": "cyanheads",
@@ -600,7 +625,8 @@
         "toolkit mcp",
         "iot device",
         "cyanheads toolkit"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "davidlin2k--onos-mcp-server": {
       "owner": "davidlin2k",
@@ -623,7 +649,8 @@
         "onos sdn",
         "sdn capabilities",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "davidlin2k--pox-mcp-server": {
       "owner": "davidlin2k",
@@ -646,7 +673,8 @@
         "openflow devices",
         "manage openflow",
         "automate network"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "diegobit--aranet4-mcp-server": {
       "owner": "diegobit",
@@ -669,7 +697,8 @@
         "iot device",
         "aranet4 co2",
         "manage aranet4"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "douglaszuqueto--mqtt-mcp-server": {
       "owner": "douglaszuqueto",
@@ -692,7 +721,8 @@
         "mqtt messaging",
         "utilizing mqtt",
         "integrates mqtt"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "ecovacs-ai--ecovacs-mcp": {
       "owner": "ecovacs-ai",
@@ -715,7 +745,8 @@
         "ecovacs ai",
         "ai ecovacs",
         "ecovacs mcp"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "genm--switchbot-mcp": {
       "owner": "genm",
@@ -738,7 +769,8 @@
         "genm switchbot",
         "switchbot devices",
         "switchbot mcp"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "github-hewei--mcp-android-adb-server": {
       "owner": "github-hewei",
@@ -761,7 +793,8 @@
         "mcp android",
         "manage android",
         "android adb"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "greenhandBen--Easycontrol_For_Car": {
       "owner": "greenhandBen",
@@ -784,7 +817,8 @@
         "greenhandben easycontrol_for_car",
         "mirrors smartphone",
         "easycontrol_for_car mirrors"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "guilhermelirio--homeassistant-mpc": {
       "owner": "guilhermelirio",
@@ -807,7 +841,8 @@
         "home automation",
         "smart home",
         "home assistant"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "hao-cyber--phone-mcp": {
       "owner": "hao-cyber",
@@ -830,7 +865,8 @@
         "phone mcp",
         "iot device",
         "control android"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "hekmon8--Homeassistant-server-mcp": {
       "owner": "hekmon8",
@@ -853,7 +889,8 @@
         "iot device",
         "devices mcp",
         "device control"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "hpohlmann--home-assistant-mcp": {
       "owner": "hpohlmann",
@@ -876,7 +913,8 @@
         "assistant devices",
         "home assistant",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "hyperb1iss--droidmind": {
       "owner": "hyperb1iss",
@@ -899,7 +937,8 @@
         "droidmind enables",
         "hyperb1iss droidmind",
         "droidmind droidmind"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "jango-blockchained--advanced-homeassistant-mcp": {
       "owner": "jango-blockchained",
@@ -922,7 +961,8 @@
         "smart home",
         "home assistant",
         "ai home"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "jiantao88--android-mcp-server": {
       "owner": "jiantao88",
@@ -945,7 +985,8 @@
         "android mcp",
         "iot device",
         "jiantao88 android"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "joshuayoes--ios-simulator-mcp": {
       "owner": "joshuayoes",
@@ -968,7 +1009,8 @@
         "ios simulators",
         "ios simulator",
         "joshuayoes ios"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "jyjune--mcp_vms": {
       "owner": "jyjune",
@@ -991,7 +1033,8 @@
         "jyjune mcp_vms",
         "connects cctv",
         "mcp_vms connects"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "kakimochi--ros2-mcp-server": {
       "owner": "kakimochi",
@@ -1014,7 +1057,8 @@
         "commands robots",
         "robots ros",
         "control robots"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "kennethreitz--mcp-applemusic": {
       "owner": "kennethreitz",
@@ -1037,7 +1081,8 @@
         "applemusic control",
         "mcp applemusic",
         "music macos"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "kmwebnet--MCP-Server-for-sensor-device": {
       "owner": "kmwebnet",
@@ -1060,7 +1105,8 @@
         "iot device",
         "server sensor",
         "kmwebnet mcp"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "krish858--x-mcp-ctrls": {
       "owner": "krish858",
@@ -1083,7 +1129,8 @@
         "mcp ctrls",
         "ctrls control",
         "llm agents"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "landicefu--android-adb-mcp-server": {
       "owner": "landicefu",
@@ -1106,7 +1153,8 @@
         "iot device",
         "android device",
         "landicefu android"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "lobstercare--geofs-mcp": {
       "owner": "lobstercare",
@@ -1129,7 +1177,8 @@
         "geofs flight",
         "aircraft geofs",
         "flight simulator"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "lpigeon--unitree-go2-mcp-server": {
       "owner": "lpigeon",
@@ -1152,7 +1201,8 @@
         "go2 robot",
         "commands ros2",
         "unitree go2"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "lsemenenko--openhue-mcp-server": {
       "owner": "lsemenenko",
@@ -1175,7 +1225,8 @@
         "philips hue",
         "hue lights",
         "smart lighting"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "magiczn--anypixel": {
       "owner": "magiczn",
@@ -1198,7 +1249,8 @@
         "magiczn anypixel",
         "anypixel provides",
         "anypixel create"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "mathd--govee_mcp_server": {
       "owner": "mathd",
@@ -1221,7 +1273,8 @@
         "control govee",
         "govee api",
         "govee_mcp_server control"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "mcp2everything--mcp2mqtt": {
       "owner": "mcp2everything",
@@ -1244,7 +1297,8 @@
         "mcp2mqtt connects",
         "iot device",
         "connects iot"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "mcp2everything--mcp2serial": {
       "owner": "mcp2everything",
@@ -1267,7 +1321,8 @@
         "devices ai",
         "mcp2everything mcp2serial",
         "control mcp2everything"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "mcp2everything--mcp2tcp": {
       "owner": "mcp2everything",
@@ -1290,7 +1345,8 @@
         "protocol mcp",
         "control mcp2everything",
         "mcp2everything mcp2tcp"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "miguelg719--home-assistant-mcp": {
       "owner": "miguelg719",
@@ -1313,7 +1369,8 @@
         "smart home",
         "iot device",
         "home assistant"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "minhalvp--android-mcp-server": {
       "owner": "minhalvp",
@@ -1336,7 +1393,8 @@
         "android mcp",
         "minhalvp android",
         "android devices"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "mobile-next--mobile-mcp": {
       "owner": "mobile-next",
@@ -1359,7 +1417,8 @@
         "mobile mcp",
         "mobile applications",
         "automates mobile"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "nacal--mcp-minecraft-remote": {
       "owner": "nacal",
@@ -1382,7 +1441,8 @@
         "minecraft remote",
         "mcp minecraft",
         "control minecraft"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "radial-hks--MCP-Unreal-Server": {
       "owner": "radial-hks",
@@ -1405,7 +1465,8 @@
         "unreal server",
         "remote execution",
         "unreal engine"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "recursechat--mcp-server-apple-shortcuts": {
       "owner": "recursechat",
@@ -1428,7 +1489,8 @@
         "apple shortcuts",
         "shortcuts automations",
         "assistants apple"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "robotmcp--ros-mcp-server": {
       "owner": "robotmcp",
@@ -1451,7 +1513,8 @@
         "robotmcp ros",
         "ros commands",
         "commands ros"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "sandst1--mcp-server-midi": {
       "owner": "sandst1",
@@ -1474,7 +1537,8 @@
         "server midi",
         "virtual midi",
         "midi connects"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "sbarbett--pihole-mcp-server": {
       "owner": "sbarbett",
@@ -1497,7 +1561,8 @@
         "sbarbett pihole",
         "enhanced dns",
         "pi hole"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "scald--tesla-mcp": {
       "owner": "scald",
@@ -1520,7 +1585,8 @@
         "control tesla",
         "scald tesla",
         "tesla mcp"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "stefanoamorelli--hyprmcp": {
       "owner": "stefanoamorelli",
@@ -1543,7 +1609,8 @@
         "wayland compositor",
         "hyprmcp enable",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "tevonsb--homeassistant-mcp": {
       "owner": "tevonsb",
@@ -1566,7 +1633,8 @@
         "iot device",
         "smart home",
         "home assistant"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "voska--hass-mcp": {
       "owner": "voska",
@@ -1589,7 +1657,8 @@
         "smart home",
         "home assistant",
         "iot device"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "weda-tech--GW-AI4SM": {
       "owner": "weda-tech",
@@ -1612,7 +1681,8 @@
         "smart manufacturing",
         "ai4sm facilitates",
         "gw ai4sm"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "zcking--mcp-server-unifi": {
       "owner": "zcking",
@@ -1635,7 +1705,8 @@
         "iot device",
         "device management",
         "unifi network"
-      ]
+      ],
+      "category": "iot-and-device-control"
     },
     "zerubeus--elektron-mcp": {
       "owner": "zerubeus",
@@ -1658,7 +1729,8 @@
         "midi control",
         "synthesizers enabling",
         "digitone synthesizers"
-      ]
+      ],
+      "category": "iot-and-device-control"
     }
   }
 }

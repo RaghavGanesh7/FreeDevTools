@@ -25,7 +25,8 @@
         "realtime collaboration",
         "agent agent",
         "agent open"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "3rzy--make-mcp-integration-issue": {
       "owner": "3rzy",
@@ -48,7 +49,8 @@
         "make automation",
         "realtime collaboration",
         "connecting make"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "Chandrakant0110--slack-mcp": {
       "owner": "Chandrakant0110",
@@ -71,7 +73,8 @@
         "interact slack",
         "slack managing",
         "automation slack"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "ChatterBoxIO--chatterboxio-mcp-server": {
       "owner": "ChatterBoxIO",
@@ -94,7 +97,8 @@
         "collaboration chatterboxio",
         "chatterboxio mcp",
         "realtime collaboration"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "DynamicEndpoints--Autogen_MCP": {
       "owner": "DynamicEndpoints",
@@ -117,7 +121,8 @@
         "realtime collaboration",
         "collaboration dynamicendpoints",
         "dynamicendpoints autogen_mcp"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "DynamicEndpoints--flexable-agents": {
       "owner": "DynamicEndpoints",
@@ -140,7 +145,8 @@
         "collaboration dynamicendpoints",
         "flexable agents",
         "dynamicendpoints flexable"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "MNylif--auto-conduwuit": {
       "owner": "MNylif",
@@ -163,7 +169,8 @@
         "conduwuit automates",
         "conduwuit server",
         "auto conduwuit"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "Mimo-Inverse--realtime-chat-supabase-react": {
       "owner": "Mimo-Inverse",
@@ -186,7 +193,8 @@
         "chat supabase",
         "realtime chat",
         "supabase react"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "Monadical-SAS--zulip-mcp": {
       "owner": "Monadical-SAS",
@@ -209,7 +217,8 @@
         "realtime collaboration",
         "interaction zulip",
         "zulip workspaces"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "SaseQ--discord-mcp": {
       "owner": "SaseQ",
@@ -232,7 +241,8 @@
         "automation discord",
         "discord mcp",
         "discord bot"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "Xiaoxinkeji--XBotV2": {
       "owner": "Xiaoxinkeji",
@@ -255,7 +265,8 @@
         "bot framework",
         "wechat bot",
         "comprehensive wechat"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "a1351995160--Auto-GPT": {
       "owner": "a1351995160",
@@ -278,7 +289,8 @@
         "auto gpt",
         "gpt autonomously",
         "realtime collaboration"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "a1j9o94--swiss": {
       "owner": "a1j9o94",
@@ -301,7 +313,8 @@
         "ai tools",
         "multiple ai",
         "realtime collaboration"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "abhinavkale-dev--webRTC-basics": {
       "owner": "abhinavkale-dev",
@@ -324,7 +337,8 @@
         "webrtc concepts",
         "experimenting webrtc",
         "dev webrtc"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "abhishekjairath--sonic-pi-mcp": {
       "owner": "abhishekjairath",
@@ -347,7 +361,8 @@
         "interact sonic",
         "abhishekjairath sonic",
         "sonic pi"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "adamwattis--mcp-proxy-server": {
       "owner": "adamwattis",
@@ -370,7 +385,8 @@
         "mcp proxy",
         "mcp resource",
         "multiple mcp"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "aech-ai--mcp-teams-test": {
       "owner": "aech-ai",
@@ -393,7 +409,8 @@
         "microsoft teams",
         "teams chat",
         "realtime collaboration"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "agree-able--room-mcp": {
       "owner": "agree-able",
@@ -416,7 +433,8 @@
         "room protocol",
         "virtual rooms",
         "realtime collaboration"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "ai-mcp-garage--agent_construct": {
       "owner": "ai-mcp-garage",
@@ -439,7 +457,8 @@
         "garage agent_construct",
         "collaboration ai",
         "tool discovery"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "alexandertsai--mcp-telegram": {
       "owner": "alexandertsai",
@@ -462,7 +481,8 @@
         "mcp telegram",
         "telegram access",
         "access telegram"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "alifakih1--discord-mcp": {
       "owner": "alifakih1",
@@ -485,7 +505,8 @@
         "discord mcp",
         "discord api",
         "discord bot"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "arjunkmrm--mcp-minecraft": {
       "owner": "arjunkmrm",
@@ -508,7 +529,8 @@
         "interact minecraft",
         "mcp minecraft",
         "minecraft integration"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "atom2ueki--mcp-server-ios-simulator": {
       "owner": "atom2ueki",
@@ -531,7 +553,8 @@
         "ios simulators",
         "ios simulator",
         "simulator instances"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "barryyip0625--mcp-discord": {
       "owner": "barryyip0625",
@@ -554,7 +577,8 @@
         "mcp discord",
         "automation discord",
         "interact discord"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "block--vscode-mcp": {
       "owner": "block",
@@ -577,7 +601,8 @@
         "vscode mcp",
         "visual studio",
         "block vscode"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "bsmi021--mcp-conversation-server": {
       "owner": "bsmi021",
@@ -600,7 +625,8 @@
         "conversation server",
         "collaboration bsmi021",
         "conversations using"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "bsmi021--mcp-gemini-server": {
       "owner": "bsmi021",
@@ -623,7 +649,8 @@
         "google gemini",
         "gemini server",
         "mcp gemini"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "carterlasalle--mac_messages_mcp": {
       "owner": "carterlasalle",
@@ -646,7 +673,8 @@
         "carterlasalle mac_messages_mcp",
         "mac_messages_mcp interact",
         "macos messages"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "chigwell--telegram-mcp": {
       "owner": "chigwell",
@@ -669,7 +697,8 @@
         "telegram mcp",
         "interact telegram",
         "telegram chats"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "chuanmingliu--servers": {
       "owner": "chuanmingliu",
@@ -692,7 +721,8 @@
         "chuanmingliu servers",
         "context protocol",
         "collaboration chuanmingliu"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "cliffhall--puzzlebox": {
       "owner": "cliffhall",
@@ -715,7 +745,8 @@
         "realtime collaboration",
         "puzzlebox manage",
         "phases teams"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "czh2774--cocosMCP": {
       "owner": "czh2774",
@@ -738,7 +769,8 @@
         "cocosmcp synchronizes",
         "logs cocos",
         "cocos creator"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "emiliobool--MCP-Relay": {
       "owner": "emiliobool",
@@ -761,7 +793,8 @@
         "mcp relay",
         "realtime collaboration",
         "discord channel"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "eperez28--tldraw": {
       "owner": "eperez28",
@@ -784,7 +817,8 @@
         "canvas experiences",
         "collaborative drawing",
         "collaboration eperez28"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "evalstate--mcp-miro": {
       "owner": "evalstate",
@@ -807,7 +841,8 @@
         "miro whiteboard",
         "whiteboard application",
         "board manipulation"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "getzep--graphiti": {
       "owner": "getzep",
@@ -830,7 +865,8 @@
         "ai agents",
         "reasoning ai",
         "knowledge graphs"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "hanweg--mcp-discord": {
       "owner": "hanweg",
@@ -853,7 +889,8 @@
         "mcp discord",
         "manage discord",
         "discord servers"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "hirosuke0520--line-mcp-demo": {
       "owner": "hirosuke0520",
@@ -876,7 +913,8 @@
         "line messaging",
         "realtime collaboration",
         "line official"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "hungryrobot1--MCP-PIF": {
       "owner": "hungryrobot1",
@@ -899,7 +937,8 @@
         "collaboration hungryrobot1",
         "ai interaction",
         "hungryrobot1 mcp"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "jiayao--mcp-chess": {
       "owner": "jiayao",
@@ -922,7 +961,8 @@
         "chess server",
         "mcp chess",
         "chess connect"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "jmagar--yarr": {
       "owner": "jmagar",
@@ -945,7 +985,8 @@
         "collaboration jmagar",
         "realtime collaboration",
         "yarr automate"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "johnnyinlee--lol-client-mcp": {
       "owner": "johnnyinlee",
@@ -968,7 +1009,8 @@
         "legends client",
         "live client",
         "game data"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "kakehashi-inc--mcp-server-mattermost": {
       "owner": "kakehashi-inc",
@@ -991,7 +1033,8 @@
         "collaboration kakehashi",
         "mattermost api",
         "kakehashi mcp"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "kazuph--mcp-devin": {
       "owner": "kazuph",
@@ -1014,7 +1057,8 @@
         "realtime collaboration",
         "slack automated",
         "ai sessions"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "kstrikis--ephor-mcp": {
       "owner": "kstrikis",
@@ -1037,7 +1081,8 @@
         "realtime collaboration",
         "agents collaboratively",
         "collaboration kstrikis"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "kurror--mcp": {
       "owner": "kurror",
@@ -1060,7 +1105,8 @@
         "unichat servers",
         "collaboration kurror",
         "realtime collaboration"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "liveblocks--liveblocks-mcp-server": {
       "owner": "liveblocks",
@@ -1083,7 +1129,8 @@
         "collaboration liveblocks",
         "liveblocks mcp",
         "liveblocks manage"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "martianbandit--trendFinder": {
       "owner": "martianbandit",
@@ -1106,7 +1153,8 @@
         "martianbandit trendfinder",
         "trending topics",
         "identify trending"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "nazimboudeffa--mcp-server-thesportsdb": {
       "owner": "nazimboudeffa",
@@ -1129,7 +1177,8 @@
         "server thesportsdb",
         "thesportsdb access",
         "sports data"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "quazaai--UnityMCPIntegration": {
       "owner": "quazaai",
@@ -1152,7 +1201,8 @@
         "assistants unity",
         "ai assistants",
         "collaboration quazaai"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "sparfenyuk--mcp-proxy": {
       "owner": "sparfenyuk",
@@ -1175,7 +1225,8 @@
         "mcp proxy",
         "mcp servers",
         "sse streamablehttp"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "tian1ll1--mcp-server-demo": {
       "owner": "tian1ll1",
@@ -1198,7 +1249,8 @@
         "realtime collaboration",
         "websocket interface",
         "interactive client"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "tonypan2--minesweeper-mcp-server": {
       "owner": "tonypan2",
@@ -1221,7 +1273,8 @@
         "minesweeper mcp",
         "tonypan2 minesweeper",
         "gameplay minesweeper"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "yeonupark--mcp-soccer-data": {
       "owner": "yeonupark",
@@ -1244,7 +1297,8 @@
         "soccer data",
         "mcp soccer",
         "football match"
-      ]
+      ],
+      "category": "realtime-collaboration"
     },
     "z9905080--mcp-slack": {
       "owner": "z9905080",
@@ -1267,7 +1321,8 @@
         "mcp slack",
         "collaboration slack",
         "assistants slack"
-      ]
+      ],
+      "category": "realtime-collaboration"
     }
   }
 }

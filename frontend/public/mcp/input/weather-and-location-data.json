@@ -25,7 +25,8 @@
         "time mcp",
         "mcp time",
         "time server"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "AIAnytime--Awesome-MCP-Server": {
       "owner": "AIAnytime",
@@ -48,7 +49,8 @@
         "data aianytime",
         "retrieve linkedin",
         "forecasts retrieve"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ALAPI-SDK--mcp-alapi-cn": {
       "owner": "ALAPI-SDK",
@@ -71,7 +73,8 @@
         "data alapi",
         "alapi sdk",
         "mcp alapi"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "AidenYangX--mapbox-mcp-server": {
       "owner": "AidenYangX",
@@ -94,7 +97,8 @@
         "aidenyangx mapbox",
         "mapbox mcp",
         "mapbox api"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "AnCode666--aemet-mcp": {
       "owner": "AnCode666",
@@ -117,7 +121,8 @@
         "meteorological data",
         "weather location",
         "data spain"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "AtulanZaman--adk_mcp_gmap": {
       "owner": "AtulanZaman",
@@ -140,7 +145,8 @@
         "google maps",
         "location data",
         "google adk"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "BochaAI--bocha-search-mcp": {
       "owner": "BochaAI",
@@ -163,7 +169,8 @@
         "semantic search",
         "bocha search",
         "data bochaai"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "CaChiJ--kakao-navigation-mcp-server": {
       "owner": "CaChiJ",
@@ -186,7 +193,8 @@
         "kakao navigation",
         "kakao mapping",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "CodeByWaqas--weather-mcp-server": {
       "owner": "CodeByWaqas",
@@ -209,7 +217,8 @@
         "weather data",
         "openweathermap api",
         "using openweathermap"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Curtains415--0xbot-weather": {
       "owner": "Curtains415",
@@ -232,7 +241,8 @@
         "weather data",
         "weather information",
         "query weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Cyreslab-AI--flightradar-mcp-server": {
       "owner": "Cyreslab-AI",
@@ -255,7 +265,8 @@
         "flight data",
         "flight tracking",
         "flightradar mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "DappierAI--dappier-mcp": {
       "owner": "DappierAI",
@@ -278,7 +289,8 @@
         "data dappierai",
         "weather information",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Dreamboat-Rachel--MCP-Server-For-Local": {
       "owner": "Dreamboat-Rachel",
@@ -301,7 +313,8 @@
         "connect ai",
         "data dreamboat",
         "weather querying"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "GongRzhe--TRAVEL-PLANNER-MCP-Server": {
       "owner": "GongRzhe",
@@ -324,7 +337,8 @@
         "planner mcp",
         "location data",
         "travel planner"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "GreatAuk--mcp-weather": {
       "owner": "GreatAuk",
@@ -347,7 +361,8 @@
         "weather data",
         "access weather",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "JackKuo666--Weather-MCP-Server": {
       "owner": "JackKuo666",
@@ -370,7 +385,8 @@
         "jackkuo666 weather",
         "weather information",
         "weather service"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Jeetinida--stocknews-mcp": {
       "owner": "Jeetinida",
@@ -393,7 +409,8 @@
         "jeetinida stocknews",
         "stocknews mcp",
         "data jeetinida"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Kryzo--mcp-sncf": {
       "owner": "Kryzo",
@@ -416,7 +433,8 @@
         "train schedules",
         "journey planning",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "KyrieTangSheng--mcp-server-nationalparks": {
       "owner": "KyrieTangSheng",
@@ -439,7 +457,8 @@
         "server nationalparks",
         "nationalparks access",
         "national parks"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "MissionSquad--mcp-helper-tools": {
       "owner": "MissionSquad",
@@ -462,7 +481,8 @@
         "missionsquad mcp",
         "data missionsquad",
         "mcp helper"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "MorvanZhou--customized_mcp": {
       "owner": "MorvanZhou",
@@ -485,7 +505,8 @@
         "openai api",
         "leverage openai",
         "data morvanzhou"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "MrCare--mcp_tool": {
       "owner": "MrCare",
@@ -508,7 +529,8 @@
         "mrcare mcp_tool",
         "data mrcare",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Panth1823--formula1-mcp": {
       "owner": "Panth1823",
@@ -531,7 +553,8 @@
         "formula1 mcp",
         "racing data",
         "panth1823 formula1"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "RyanCardin15--NOAA-TidesAndCurrents-MCP": {
       "owner": "RyanCardin15",
@@ -554,7 +577,8 @@
         "noaa tidesandcurrents",
         "noaa tides",
         "tidesandcurrents mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "SaintDoresh--Weather-MCP-ClaudeDesktop": {
       "owner": "SaintDoresh",
@@ -577,7 +601,8 @@
         "saintdoresh weather",
         "weather information",
         "using openweathermap"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Shengwenhao-manbo--weather": {
       "owner": "Shengwenhao-manbo",
@@ -600,7 +625,8 @@
         "weather data",
         "weather information",
         "queries weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "StarGazer1995--mcp-stargazing": {
       "owner": "StarGazer1995",
@@ -623,7 +649,8 @@
         "mcp stargazing",
         "stargazing calculate",
         "stargazing conditions"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "SuchAFool123--quant-agent": {
       "owner": "SuchAFool123",
@@ -646,7 +673,8 @@
         "stock analysis",
         "quant agent",
         "stock market"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "Sunwood-ai-labs--mcp-weather-service-server": {
       "owner": "Sunwood-ai-labs",
@@ -669,7 +697,8 @@
         "weather service",
         "data sunwood",
         "note management"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "TencentEdgeOne--mcp-geo": {
       "owner": "TencentEdgeOne",
@@ -692,7 +721,8 @@
         "geolocation information",
         "geolocation data",
         "use geolocation"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "TimLukaHorstmann--mcp-weather": {
       "owner": "TimLukaHorstmann",
@@ -715,7 +745,8 @@
         "weather location",
         "weather forecasts",
         "mcp weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "aaasoulmate--mcp-weather": {
       "owner": "aaasoulmate",
@@ -738,7 +769,8 @@
         "weather apis",
         "weather data",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "acxelerator--mcp-tenki": {
       "owner": "acxelerator",
@@ -761,7 +793,8 @@
         "weather updates",
         "meteorological data",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "adarshem--mcp-server-learn": {
       "owner": "adarshem",
@@ -784,7 +817,8 @@
         "weather information",
         "data adarshem",
         "weather service"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "adhikasp--mcp-weather": {
       "owner": "adhikasp",
@@ -807,7 +841,8 @@
         "weather data",
         "mcp weather",
         "hourly weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "aitiwari--weather": {
       "owner": "aitiwari",
@@ -830,7 +865,8 @@
         "weather information",
         "aitiwari weather",
         "weather alerts"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ajeetraina--bengaluru-bmtc-mcp": {
       "owner": "ajeetraina",
@@ -853,7 +889,8 @@
         "bengaluru bmtc",
         "bmtc mcp",
         "transit data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "akaramanapp--weather-mcp-server": {
       "owner": "akaramanapp",
@@ -876,7 +913,8 @@
         "akaramanapp weather",
         "weather information",
         "data akaramanapp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "akramsheriff5--MCP-Server": {
       "owner": "akramsheriff5",
@@ -899,7 +937,8 @@
         "akramsheriff5 mcp",
         "mcp server",
         "weather alerts"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "amanasmuei--mcp-server-malaysia-prayer-time": {
       "owner": "amanasmuei",
@@ -922,7 +961,8 @@
         "malaysia prayer",
         "malaysia list",
         "server malaysia"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "asifdotpy--MCP-Weather-Server": {
       "owner": "asifdotpy",
@@ -945,7 +985,8 @@
         "weather server",
         "weather information",
         "mcp weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "baranwang--mcp-tung-shing": {
       "owner": "baranwang",
@@ -968,7 +1009,8 @@
         "chinese almanac",
         "lunar calendar",
         "tung shing"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "blake365--usgs-quakes-mcp": {
       "owner": "blake365",
@@ -991,7 +1033,8 @@
         "earthquake data",
         "earthquake information",
         "usgs quakes"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "briandconnelly--mcp-server-ipinfo": {
       "owner": "briandconnelly",
@@ -1014,7 +1057,8 @@
         "ipinfo retrieve",
         "ipinfo api",
         "using ipinfo"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "burningion--geoapify-mcp": {
       "owner": "burningion",
@@ -1037,7 +1081,8 @@
         "geoapify mcp",
         "using geoapify",
         "geoapify api"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "cablate--mcp-google-map": {
       "owner": "cablate",
@@ -1060,7 +1105,8 @@
         "google maps",
         "google map",
         "maps api"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "cgoinglove--mcp-server-kakao-map": {
       "owner": "cgoinglove",
@@ -1083,7 +1129,8 @@
         "kakao map",
         "server kakao",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "daniel8824-del--forest-fire-mcp": {
       "owner": "daniel8824-del",
@@ -1106,7 +1153,8 @@
         "analyze wildfire",
         "wildfire occurrence",
         "map visualizations"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "danilat--mcp-dndzgz": {
       "owner": "danilat",
@@ -1129,7 +1177,8 @@
         "information zaragoza",
         "zaragoza including",
         "transit information"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "datalayer--earthdata-mcp-server": {
       "owner": "datalayer",
@@ -1152,7 +1201,8 @@
         "earthdata mcp",
         "earth data",
         "earthdata datasets"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "dxsim--AWS-GeoPlaces-MCP-Server": {
       "owner": "dxsim",
@@ -1175,7 +1225,8 @@
         "aws geoplaces",
         "aws location",
         "dxsim aws"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "edgego--mcp-geo-pub": {
       "owner": "edgego",
@@ -1198,7 +1249,8 @@
         "geolocation data",
         "user geolocation",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "eternachen--mcp-playground": {
       "owner": "eternachen",
@@ -1221,7 +1273,8 @@
         "weather data",
         "weather information",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "finack--aviation-mcp": {
       "owner": "finack",
@@ -1244,7 +1297,8 @@
         "aviation mcp",
         "weather data",
         "data finack"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "fist-maestro--mcp-servers": {
       "owner": "fist-maestro",
@@ -1267,7 +1321,8 @@
         "maestro mcp",
         "mcp servers",
         "services cursor"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "guilhermelirio--brazilian-cep-mcp": {
       "owner": "guilhermelirio",
@@ -1290,7 +1345,8 @@
         "brazilian cep",
         "location data",
         "details brazil"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "hafizrahman--wp-mcp": {
       "owner": "hafizrahman",
@@ -1313,7 +1369,8 @@
         "weather information",
         "weather alerts",
         "access weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "haichaozheng--weather-mcp": {
       "owner": "haichaozheng",
@@ -1336,7 +1393,8 @@
         "haichaozheng weather",
         "weather information",
         "weather alerts"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "handsomegentlemen--mcp-geo": {
       "owner": "handsomegentlemen",
@@ -1359,7 +1417,8 @@
         "geolocation data",
         "provides geolocation",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "hanweg--mcp-tool-builder": {
       "owner": "hanweg",
@@ -1382,7 +1441,8 @@
         "tool builder",
         "tool creation",
         "tools dynamically"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "harimkang--mcp-korea-tourism-api": {
       "owner": "harimkang",
@@ -1405,7 +1465,8 @@
         "korea tourism",
         "mcp korea",
         "harimkang mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "harshil1712--berlin-transport-mcp": {
       "owner": "harshil1712",
@@ -1428,7 +1489,8 @@
         "data berlin",
         "berlin transport",
         "harshil1712 berlin"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "isdaniel--mcp_weather_server": {
       "owner": "isdaniel",
@@ -1451,7 +1513,8 @@
         "isdaniel mcp_weather_server",
         "mcp_weather_server retrieve",
         "weather information"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ivanbtrujillo--mcp-server-spike": {
       "owner": "ivanbtrujillo",
@@ -1474,7 +1537,8 @@
         "weather data",
         "weather information",
         "server spike"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "jagan-shanmugam--open-streetmap-mcp": {
       "owner": "jagan-shanmugam",
@@ -1497,7 +1561,8 @@
         "data openstreetmap",
         "open streetmap",
         "streetmap mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "jikime--py-mcp-ko-weather": {
       "owner": "jikime",
@@ -1520,7 +1585,8 @@
         "weather location",
         "korean regions",
         "data jikime"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "jorekai--db-timetable-mcp": {
       "owner": "jorekai",
@@ -1543,7 +1609,8 @@
         "bahn timetable",
         "train schedules",
         "timetable data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "juhemcp--jweather-mcp-server": {
       "owner": "juhemcp",
@@ -1566,7 +1633,8 @@
         "weather data",
         "weather location",
         "juhemcp jweather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kennyckk--mcp_hkbus": {
       "owner": "kennyckk",
@@ -1589,7 +1657,8 @@
         "mcp_hkbus provides",
         "kennyckk mcp_hkbus",
         "details kmb"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kentstudy0922--coolWeatherTest": {
       "owner": "kentstudy0922",
@@ -1612,7 +1681,8 @@
         "weather data",
         "weather information",
         "kentstudy0922 coolweathertest"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kentstudy0922--weather-mcp": {
       "owner": "kentstudy0922",
@@ -1635,7 +1705,8 @@
         "weather data",
         "weather information",
         "kentstudy0922 weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kevinkelin--mcp-gaodeweather-server": {
       "owner": "kevinkelin",
@@ -1658,7 +1729,8 @@
         "weather data",
         "gaodeweather server",
         "weather information"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kinglionsz--mcp-geo": {
       "owner": "kinglionsz",
@@ -1681,7 +1753,8 @@
         "geolocation data",
         "geolocation information",
         "user geolocation"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kukapay--whattimeisit-mcp": {
       "owner": "kukapay",
@@ -1704,7 +1777,8 @@
         "kukapay whattimeisit",
         "whattimeisit mcp",
         "data kukapay"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kukapay--whereami-mcp": {
       "owner": "kukapay",
@@ -1727,7 +1801,8 @@
         "geolocation information",
         "location data",
         "precise geolocation"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "kwenhwang--hrfco-service": {
       "owner": "kwenhwang",
@@ -1750,7 +1825,8 @@
         "kwenhwang hrfco",
         "hydrological data",
         "data kwenhwang"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "le-yo--weather-mcp": {
       "owner": "le-yo",
@@ -1773,7 +1849,8 @@
         "weather data",
         "weather information",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "liuwanglei-tal--nasa-mcp": {
       "owner": "liuwanglei-tal",
@@ -1796,7 +1873,8 @@
         "nasa data",
         "data liuwanglei",
         "nasa mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "manolaz--emergency-medicare-planner-mcp-server": {
       "owner": "manolaz",
@@ -1819,7 +1897,8 @@
         "emergency healthcare",
         "planner mcp",
         "medicare planner"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "marcusbai--caiyun-weather-mcp": {
       "owner": "marcusbai",
@@ -1842,7 +1921,8 @@
         "weather data",
         "weather queries",
         "caiyun weather"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "mattmarcin--aqicn-mcp": {
       "owner": "mattmarcin",
@@ -1865,7 +1945,8 @@
         "aqicn project",
         "air quality",
         "index aqicn"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "mcp-examples--weather": {
       "owner": "mcp-examples",
@@ -1888,7 +1969,8 @@
         "weather information",
         "examples weather",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -1911,7 +1993,8 @@
         "geolocation services",
         "provide geolocation",
         "including geocoding"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "nexusconnects--TRAVEL-PLANNER-MCP-Server": {
       "owner": "nexusconnects",
@@ -1934,7 +2017,8 @@
         "data nexusconnects",
         "nexusconnects travel",
         "planner mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ngoiyaeric--earthdata-mcp-server": {
       "owner": "ngoiyaeric",
@@ -1957,7 +2041,8 @@
         "earth data",
         "earthdata mcp",
         "ngoiyaeric earthdata"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ngoiyaeric--mapbox-mcp-server": {
       "owner": "ngoiyaeric",
@@ -1980,7 +2065,8 @@
         "ngoiyaeric mapbox",
         "mapbox api",
         "using mapbox"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ngoiyaeric--osm-mcp": {
       "owner": "ngoiyaeric",
@@ -2003,7 +2089,8 @@
         "openstreetmap data",
         "postgis openstreetmap",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ohhan777--korea_weather": {
       "owner": "ohhan777",
@@ -2026,7 +2113,8 @@
         "ohhan777 korea_weather",
         "korea_weather collects",
         "korea meteorological"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "overstarry--qweather-mcp": {
       "owner": "overstarry",
@@ -2049,7 +2137,8 @@
         "weather information",
         "weather location",
         "qweather mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "pab1it0--tripadvisor-mcp": {
       "owner": "pab1it0",
@@ -2072,7 +2161,8 @@
         "tripadvisor mcp",
         "pab1it0 tripadvisor",
         "location data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "piddlingtuna--tfnsw-realtime-alerts-mcp-server": {
       "owner": "piddlingtuna",
@@ -2095,7 +2185,8 @@
         "transport alerts",
         "alerts transport",
         "nsw transport"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "pinnaclesoft-ko--be-node-seoul-data-mcp": {
       "owner": "pinnaclesoft-ko",
@@ -2118,7 +2209,8 @@
         "seoul data",
         "data seoul",
         "information seoul"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "puran1218--arcgis-location-services-mcp": {
       "owner": "puran1218",
@@ -2141,7 +2233,8 @@
         "location services",
         "location data",
         "provides geocoding"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "qing-turnaround--mcp-ip-geo": {
       "owner": "qing-turnaround",
@@ -2164,7 +2257,8 @@
         "ip geolocation",
         "ip geo",
         "geolocation lookup"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "r-huijts--ns-mcp-server": {
       "owner": "r-huijts",
@@ -2187,7 +2281,8 @@
         "huijts ns",
         "data huijts",
         "ns mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ravinahp--surf-mcp": {
       "owner": "ravinahp",
@@ -2210,7 +2305,8 @@
         "tide information",
         "tide forecasts",
         "tides station"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "ropon--mcp_weather": {
       "owner": "ropon",
@@ -2233,7 +2329,8 @@
         "ropon mcp_weather",
         "mcp_weather provides",
         "weather data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "rossshannon--weekly-weather-mcp": {
       "owner": "rossshannon",
@@ -2256,7 +2353,8 @@
         "using openweathermap",
         "weather forecasts",
         "openweathermap api"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "sarunasdaujotis--vilnius-transport-mcp-server": {
       "owner": "sarunasdaujotis",
@@ -2279,7 +2377,8 @@
         "vilnius transport",
         "transport data",
         "sarunasdaujotis vilnius"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "sidharthrajaram--mcp-sse": {
       "owner": "sidharthrajaram",
@@ -2302,7 +2401,8 @@
         "events sse",
         "sse based",
         "mcp sse"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "sjanaX01--weather-mcp-server": {
       "owner": "sjanaX01",
@@ -2325,7 +2425,8 @@
         "sjanax01 weather",
         "weather information",
         "data sjanax01"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "stephen9412--roc-cwa-mcp": {
       "owner": "stephen9412",
@@ -2348,7 +2449,8 @@
         "weather data",
         "weather information",
         "data taiwan"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "sunholdshen--mymcp": {
       "owner": "sunholdshen",
@@ -2371,7 +2473,8 @@
         "weather information",
         "weather location",
         "data sunholdshen"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "sunsetcoder--flightradar24-mcp-server": {
       "owner": "sunsetcoder",
@@ -2394,7 +2497,8 @@
         "flightradar24 mcp",
         "sunsetcoder flightradar24",
         "flightradar24 data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "swonixs--weatherapi-mcp": {
       "owner": "swonixs",
@@ -2417,7 +2521,8 @@
         "weatherapi mcp",
         "weather data",
         "swonixs weatherapi"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "szypetike--weather-mcp-server": {
       "owner": "szypetike",
@@ -2440,7 +2545,8 @@
         "weather information",
         "weather location",
         "weather mcp"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "tinjyuu--mcp-jr-east-delay": {
       "owner": "tinjyuu",
@@ -2463,7 +2569,8 @@
         "train delay",
         "tinjyuu mcp",
         "delay data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "variflight--variflight-mcp": {
       "owner": "variflight",
@@ -2486,7 +2593,8 @@
         "variflight mcp",
         "data variflight",
         "variflight variflight"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "webdevtodayjason--slim-MCP": {
       "owner": "webdevtodayjason",
@@ -2509,7 +2617,8 @@
         "modular api",
         "webdevtodayjason slim",
         "data webdevtodayjason"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "wolkwork--knmi-mcp": {
       "owner": "wolkwork",
@@ -2532,7 +2641,8 @@
         "knmi weather",
         "weather data",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "wpnbos--buienradar-mcp-server": {
       "owner": "wpnbos",
@@ -2555,7 +2665,8 @@
         "wpnbos buienradar",
         "precipitation forecasts",
         "fetches precipitation"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "xixilidao--osgearth": {
       "owner": "xixilidao",
@@ -2578,7 +2689,8 @@
         "geographical data",
         "maps applications",
         "3d maps"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "xuezhijian--mcp_weather": {
       "owner": "xuezhijian",
@@ -2601,7 +2713,8 @@
         "xuezhijian mcp_weather",
         "mcp_weather provides",
         "weather data"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "yoyooyooo--mcp-weather-server": {
       "owner": "yoyooyooo",
@@ -2624,7 +2737,8 @@
         "weather server",
         "weather data",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "yting27--weather-my-mcp": {
       "owner": "yting27",
@@ -2647,7 +2761,8 @@
         "location data",
         "weather forecasts",
         "weather location"
-      ]
+      ],
+      "category": "weather-and-location-data"
     },
     "yunkee-lee--mcp-tmap": {
       "owner": "yunkee-lee",
@@ -2670,7 +2785,8 @@
         "tmap api",
         "tmap connect",
         "connect tmap"
-      ]
+      ],
+      "category": "weather-and-location-data"
     }
   }
 }

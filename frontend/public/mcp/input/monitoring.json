@@ -25,7 +25,8 @@
         "raygun api",
         "server raygun",
         "application monitoring"
-      ]
+      ],
+      "category": "monitoring"
     },
     "VictoriaMetrics-Community--mcp-victoriametrics": {
       "owner": "VictoriaMetrics-Community",
@@ -48,7 +49,8 @@
         "application monitoring",
         "victoriametrics provides",
         "analyze application"
-      ]
+      ],
+      "category": "monitoring"
     },
     "edgedelta--edgedelta-mcp-server": {
       "owner": "edgedelta",
@@ -71,7 +73,8 @@
         "datasources grafana",
         "server grafana",
         "application monitoring"
-      ]
+      ],
+      "category": "monitoring"
     },
     "getsentry--sentry-mcp": {
       "owner": "getsentry",
@@ -94,7 +97,8 @@
         "application monitoring",
         "performance monitoring",
         "error tracking"
-      ]
+      ],
+      "category": "monitoring"
     },
     "hyperb1iss--lucidity-mcp": {
       "owner": "hyperb1iss",
@@ -117,7 +121,8 @@
         "hyperb1iss lucidity",
         "application monitoring",
         "ai generated"
-      ]
+      ],
+      "category": "monitoring"
     },
     "imprvhub--mcp-status-observer": {
       "owner": "imprvhub",
@@ -140,7 +145,8 @@
         "application monitoring",
         "server monitoring",
         "monitoring operational"
-      ]
+      ],
+      "category": "monitoring"
     },
     "inspektor-gadget--ig-mcp-server": {
       "owner": "inspektor-gadget",
@@ -163,7 +169,8 @@
         "ai interface",
         "application monitoring",
         "container kubernetes"
-      ]
+      ],
+      "category": "monitoring"
     },
     "inventer-dev--mcp-internet-speed-test": {
       "owner": "inventer-dev",
@@ -186,7 +193,8 @@
         "test internet",
         "speed testing",
         "application monitoring"
-      ]
+      ],
+      "category": "monitoring"
     },
     "last9--last9-mcp-server": {
       "owner": "last9",
@@ -209,7 +217,8 @@
         "application monitoring",
         "monitoring data",
         "monitoring access"
-      ]
+      ],
+      "category": "monitoring"
     },
     "mpeirone--zabbix-mcp-server": {
       "owner": "mpeirone",
@@ -232,11 +241,12 @@
         "server zabbix",
         "application monitoring",
         "zabbix integration"
-      ]
+      ],
+      "category": "monitoring"
     },
-    "netdata--netdata#Netdata": {
+    "netdata--netdata": {
       "owner": "netdata",
-      "name": "netdata#Netdata",
+      "name": "netdata",
       "url": "https://github.com/netdata/netdata/blob/master/src/web/mcp/README.md",
       "imageUrl": "",
       "description": "Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections",
@@ -255,7 +265,8 @@
         "netdata discovery",
         "netdata netdata",
         "application monitoring"
-      ]
+      ],
+      "category": "monitoring"
     },
     "seekrays--mcp-monitor": {
       "owner": "seekrays",
@@ -278,7 +289,8 @@
         "application monitoring",
         "monitoring tool",
         "monitoring access"
-      ]
+      ],
+      "category": "monitoring"
     },
     "tumf--grafana-loki-mcp": {
       "owner": "tumf",
@@ -301,7 +313,8 @@
         "application monitoring",
         "grafana api",
         "monitoring access"
-      ]
+      ],
+      "category": "monitoring"
     },
     "yshngg--pmcp": {
       "owner": "yshngg",
@@ -324,7 +337,8 @@
         "pmcp prometheus",
         "application monitoring",
         "monitoring access"
-      ]
+      ],
+      "category": "monitoring"
     }
   }
 }

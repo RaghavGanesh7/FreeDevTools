@@ -25,7 +25,8 @@
         "twitter functionality",
         "twitter interaction",
         "mcp_twitter twitter"
-      ]
+      ],
+      "category": "social-media"
     },
     "AbdelStark--nostr-mcp": {
       "owner": "AbdelStark",
@@ -48,7 +49,8 @@
         "automation social",
         "social media",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "Beyond-Network-AI--beyond-mcp-server": {
       "owner": "Beyond-Network-AI",
@@ -71,7 +73,8 @@
         "twitter integration",
         "social platform",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "Bob-lance--instagram-engagement-mcp": {
       "owner": "Bob-lance",
@@ -94,7 +97,8 @@
         "instagram engagement",
         "analyze instagram",
         "instagram accounts"
-      ]
+      ],
+      "category": "social-media"
     },
     "DataWhisker--x-mcp-server": {
       "owner": "DataWhisker",
@@ -117,7 +121,8 @@
         "integrates twitter",
         "twitter functionalities",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "Ejb503--systemprompt-mcp-reddit": {
       "owner": "Ejb503",
@@ -140,7 +145,8 @@
         "automation social",
         "social presence",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "EnesCinr--twitter-mcp": {
       "owner": "EnesCinr",
@@ -163,7 +169,8 @@
         "interact twitter",
         "automation social",
         "twitter mcp"
-      ]
+      ],
+      "category": "social-media"
     },
     "GridfireAI--reddit-mcp": {
       "owner": "GridfireAI",
@@ -186,7 +193,8 @@
         "gridfireai reddit",
         "social media",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "HagaiHen--facebook-mcp-server": {
       "owner": "HagaiHen",
@@ -209,7 +217,8 @@
         "integrates facebook",
         "hagaihen facebook",
         "facebook mcp"
-      ]
+      ],
+      "category": "social-media"
     },
     "Hawstein--mcp-server-reddit": {
       "owner": "Hawstein",
@@ -232,7 +241,8 @@
         "social media",
         "automation social",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "Hypefury--hypefury-mcp": {
       "owner": "Hypefury",
@@ -255,7 +265,8 @@
         "automation social",
         "hypefury api",
         "schedule social"
-      ]
+      ],
+      "category": "social-media"
     },
     "JonaFly--RednoteMCP": {
       "owner": "JonaFly",
@@ -278,7 +289,8 @@
         "automation social",
         "social media",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "JoshMayerr--mcp-x": {
       "owner": "JoshMayerr",
@@ -301,7 +313,8 @@
         "interaction twitter",
         "api twitter",
         "twitter enabling"
-      ]
+      ],
+      "category": "social-media"
     },
     "NexusX-MCP--telegram-mcp-server": {
       "owner": "NexusX-MCP",
@@ -324,7 +337,8 @@
         "automation social",
         "bot api",
         "interact telegram"
-      ]
+      ],
+      "category": "social-media"
     },
     "NexusX-MCP--x-v2-server": {
       "owner": "NexusX-MCP",
@@ -347,7 +361,8 @@
         "interact twitter",
         "twitter api",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "NosytLabs--KickMCP": {
       "owner": "NosytLabs",
@@ -370,7 +385,8 @@
         "nosytlabs kickmcp",
         "automation social",
         "kick api"
-      ]
+      ],
+      "category": "social-media"
     },
     "NvkAnirudh--LinkedIn-Post-Generator": {
       "owner": "NvkAnirudh",
@@ -393,7 +409,8 @@
         "posts linkedin",
         "linkedin post",
         "professional linkedin"
-      ]
+      ],
+      "category": "social-media"
     },
     "OMAR3lwafi--YouTube-new-vercal": {
       "owner": "OMAR3lwafi",
@@ -416,7 +433,8 @@
         "social media",
         "omar3lwafi youtube",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "RSS3-Network--mcp-server-rss3": {
       "owner": "RSS3-Network",
@@ -439,7 +457,8 @@
         "automation social",
         "presence rss3",
         "integrates rss3"
-      ]
+      ],
+      "category": "social-media"
     },
     "RusianHu--weibo_hotsearch_mcp": {
       "owner": "RusianHu",
@@ -462,7 +481,8 @@
         "topics weibo",
         "automation social",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "SaseQ--discord-mcp": {
       "owner": "SaseQ",
@@ -485,7 +505,8 @@
         "automation discord",
         "discord bot",
         "integrate discord"
-      ]
+      ],
+      "category": "social-media"
     },
     "Selenium39--mcp-server-weibo": {
       "owner": "Selenium39",
@@ -508,7 +529,8 @@
         "weibo data",
         "weibo retrieves",
         "scraping weibo"
-      ]
+      ],
+      "category": "social-media"
     },
     "Seym0n--tiktok-mcp": {
       "owner": "Seym0n",
@@ -531,7 +553,8 @@
         "interactions tiktok",
         "integrates tiktok",
         "tiktok videos"
-      ]
+      ],
+      "category": "social-media"
     },
     "The-Focus-AI--mastodon-mcp": {
       "owner": "The-Focus-AI",
@@ -554,7 +577,8 @@
         "automation social",
         "social media",
         "integration social"
-      ]
+      ],
+      "category": "social-media"
     },
     "Victorzwx--zh_mcp_server": {
       "owner": "Victorzwx",
@@ -577,7 +601,8 @@
         "automation social",
         "automates article",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "Xiaoxinkeji--XBotV2": {
       "owner": "Xiaoxinkeji",
@@ -600,7 +625,8 @@
         "bot framework",
         "wechat bot",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "Zo-Valentine--mcp-twikit": {
       "owner": "Zo-Valentine",
@@ -623,7 +649,8 @@
         "interact twitter",
         "automation social",
         "twitter analyze"
-      ]
+      ],
+      "category": "social-media"
     },
     "ZubeidHendricks--youtube-mcp-server": {
       "owner": "ZubeidHendricks",
@@ -646,7 +673,8 @@
         "interacts youtube",
         "social media",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "alifakih1--discord-mcp": {
       "owner": "alifakih1",
@@ -669,7 +697,8 @@
         "discord bot",
         "integrate discord",
         "discord api"
-      ]
+      ],
+      "category": "social-media"
     },
     "angheljf--social-media-mcp": {
       "owner": "angheljf",
@@ -692,7 +721,8 @@
         "social media",
         "twitter posting",
         "posts twitter"
-      ]
+      ],
+      "category": "social-media"
     },
     "anwerj--youtube-uploader-mcp": {
       "owner": "anwerj",
@@ -715,7 +745,8 @@
         "automation social",
         "social media",
         "youtube uploader"
-      ]
+      ],
+      "category": "social-media"
     },
     "berlinbra--BlueSky-MCP": {
       "owner": "berlinbra",
@@ -738,7 +769,8 @@
         "automation social",
         "social network",
         "bluesky social"
-      ]
+      ],
+      "category": "social-media"
     },
     "brianellin--bsky-mcp-server": {
       "owner": "brianellin",
@@ -761,7 +793,8 @@
         "automation social",
         "bluesky api",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "chenmingkong--bilibili-mcp-server": {
       "owner": "chenmingkong",
@@ -784,7 +817,8 @@
         "social media",
         "automation social",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "chenningling--RedBook-Search-Comment-MCP": {
       "owner": "chenningling",
@@ -807,7 +841,8 @@
         "automation social",
         "comment management",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "cline--cline": {
       "owner": "cline",
@@ -830,7 +865,8 @@
         "automation social",
         "social media",
         "presence cline"
-      ]
+      ],
+      "category": "social-media"
     },
     "crazyrabbitLTC--mcp-twitter-server": {
       "owner": "crazyrabbitLTC",
@@ -853,7 +889,8 @@
         "interact twitter",
         "twitter server",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "davibauer--tiktok-mcp": {
       "owner": "davibauer",
@@ -876,7 +913,8 @@
         "interactions tiktok",
         "social media",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "duhlink--instagram-server-next-mcp": {
       "owner": "duhlink",
@@ -899,7 +937,8 @@
         "instagram server",
         "instagram posts",
         "fetch instagram"
-      ]
+      ],
+      "category": "social-media"
     },
     "elinmaks--1111111": {
       "owner": "elinmaks",
@@ -922,7 +961,8 @@
         "telegram webapp",
         "interactions telegram",
         "telegram ecosystem"
-      ]
+      ],
+      "category": "social-media"
     },
     "emiliobool--MCP-Relay": {
       "owner": "emiliobool",
@@ -945,7 +985,8 @@
         "automation social",
         "integrates discord",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "ferdousbhai--wsb-analyst-mcp": {
       "owner": "ferdousbhai",
@@ -968,7 +1009,8 @@
         "social media",
         "automation social",
         "posting analytics"
-      ]
+      ],
+      "category": "social-media"
     },
     "glassBead-tc--audius-mcp-atris": {
       "owner": "glassBead-tc",
@@ -991,7 +1033,8 @@
         "automation social",
         "social media",
         "music platform"
-      ]
+      ],
+      "category": "social-media"
     },
     "glifxyz--mymcpspace-mcp-server": {
       "owner": "glifxyz",
@@ -1014,7 +1057,8 @@
         "automation social",
         "social network",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "gwbischof--bluesky-social-mcp": {
       "owner": "gwbischof",
@@ -1037,7 +1081,8 @@
         "automation social",
         "social mcp",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "handoing--ig-download-mcp-server": {
       "owner": "handoing",
@@ -1060,7 +1105,8 @@
         "automation social",
         "instagram handling",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "hanweg--mcp-discord-raw": {
       "owner": "hanweg",
@@ -1083,7 +1129,8 @@
         "discord api",
         "discord platform",
         "mcp discord"
-      ]
+      ],
+      "category": "social-media"
     },
     "heehee365--MediaCrawler": {
       "owner": "heehee365",
@@ -1106,7 +1153,8 @@
         "social media",
         "automation social",
         "heehee365 mediacrawler"
-      ]
+      ],
+      "category": "social-media"
     },
     "honeybluesky--mcp-unipile": {
       "owner": "honeybluesky",
@@ -1129,7 +1177,8 @@
         "automation social",
         "messaging platforms",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "horizondatawave--hdw-mcp-server": {
       "owner": "horizondatawave",
@@ -1152,7 +1201,8 @@
         "automation social",
         "integration social",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "jaw9c--mcp-whatsapp": {
       "owner": "jaw9c",
@@ -1175,7 +1225,8 @@
         "mcp whatsapp",
         "personal whatsapp",
         "automation social"
-      ]
+      ],
+      "category": "social-media"
     },
     "jobsonlook--xhs-mcp": {
       "owner": "jobsonlook",
@@ -1198,7 +1249,8 @@
         "automation social",
         "social media",
         "jobsonlook xhs"
-      ]
+      ],
+      "category": "social-media"
     },
     "kamileecher--Project-Siesta": {
       "owner": "kamileecher",
@@ -1221,7 +1273,8 @@
         "telegram integrates",
         "music bot",
         "bot telegram"
-      ]
+      ],
+      "category": "social-media"
     },
     "karanb192--reddit-buddy-mcp": {
       "owner": "karanb192",
@@ -1244,7 +1297,8 @@
         "automation social",
         "social media",
         "integration social"
-      ]
+      ],
+      "category": "social-media"
     },
     "kfastov--telegram-mcp-server": {
       "owner": "kfastov",
@@ -1267,7 +1321,8 @@
         "telegram features",
         "interact telegram",
         "kfastov telegram"
-      ]
+      ],
+      "category": "social-media"
     },
     "kukapay--twitter-username-changes-mcp": {
       "owner": "kukapay",
@@ -1290,7 +1345,8 @@
         "kukapay twitter",
         "twitter usernames",
         "changes twitter"
-      ]
+      ],
+      "category": "social-media"
     },
     "kunallunia--twitter-mcp": {
       "owner": "kunallunia",
@@ -1313,7 +1369,8 @@
         "twitter management",
         "automation social",
         "kunallunia twitter"
-      ]
+      ],
+      "category": "social-media"
     },
     "laulauland--bluesky-context-server": {
       "owner": "laulauland",
@@ -1336,7 +1393,8 @@
         "automation social",
         "social media",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "macrocosm-os--macrocosmos-mcp": {
       "owner": "macrocosm-os",
@@ -1359,7 +1417,8 @@
         "automation social",
         "social media",
         "integration social"
-      ]
+      ],
+      "category": "social-media"
     },
     "manimohans--farcaster-mcp": {
       "owner": "manimohans",
@@ -1382,7 +1441,8 @@
         "automation social",
         "social media",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "mario-andreschak--mcp-whatsapp-web": {
       "owner": "mario-andreschak",
@@ -1405,7 +1465,8 @@
         "integration whatsapp",
         "whatsapp web",
         "mcp whatsapp"
-      ]
+      ],
+      "category": "social-media"
     },
     "martianbandit--trendFinder": {
       "owner": "martianbandit",
@@ -1428,7 +1489,8 @@
         "automation social",
         "social media",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "metricool--mcp-metricool": {
       "owner": "metricool",
@@ -1451,7 +1513,8 @@
         "automation social",
         "social media",
         "manage social"
-      ]
+      ],
+      "category": "social-media"
     },
     "metrosir--mcp-twikit": {
       "owner": "metrosir",
@@ -1474,7 +1537,8 @@
         "interact twitter",
         "automation social",
         "twikit interact"
-      ]
+      ],
+      "category": "social-media"
     },
     "mtane0412--twitch-mcp-server": {
       "owner": "mtane0412",
@@ -1497,7 +1561,8 @@
         "twitch api",
         "interact twitch",
         "mtane0412 twitch"
-      ]
+      ],
+      "category": "social-media"
     },
     "natebennett27--mcp-maigret": {
       "owner": "natebennett27",
@@ -1520,7 +1585,8 @@
         "automation social",
         "social presence",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "niyonabil--blogger-mcp-server": {
       "owner": "niyonabil",
@@ -1543,7 +1609,8 @@
         "interact blogger",
         "blogs automate",
         "blogs api"
-      ]
+      ],
+      "category": "social-media"
     },
     "novemberde--mcp-youtube": {
       "owner": "novemberde",
@@ -1566,7 +1633,8 @@
         "social media",
         "automation social",
         "media integration"
-      ]
+      ],
+      "category": "social-media"
     },
     "paso0129--Messenger": {
       "owner": "paso0129",
@@ -1589,7 +1657,8 @@
         "messaging platform",
         "automation social",
         "communication backend"
-      ]
+      ],
+      "category": "social-media"
     },
     "rafaljanicki--x-twitter-mcp-server": {
       "owner": "rafaljanicki",
@@ -1612,7 +1681,8 @@
         "interact twitter",
         "automation social",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "rugvedp--linkedin-mcp": {
       "owner": "rugvedp",
@@ -1635,7 +1705,8 @@
         "interacts linkedin",
         "linkedin posts",
         "rugvedp linkedin"
-      ]
+      ],
+      "category": "social-media"
     },
     "ruradium--mcp-reddit": {
       "owner": "ruradium",
@@ -1658,7 +1729,8 @@
         "automation social",
         "social media",
         "social presence"
-      ]
+      ],
+      "category": "social-media"
     },
     "ryanmac--agent-twitter-client-mcp": {
       "owner": "ryanmac",
@@ -1681,7 +1753,8 @@
         "integrates twitter",
         "agent twitter",
         "twitter client"
-      ]
+      ],
+      "category": "social-media"
     },
     "rymurr--signal-mcp": {
       "owner": "rymurr",
@@ -1704,7 +1777,8 @@
         "messaging platform",
         "automation social",
         "signal messaging"
-      ]
+      ],
+      "category": "social-media"
     },
     "saginawj--mcp-reddit-companion": {
       "owner": "saginawj",
@@ -1727,7 +1801,8 @@
         "automation social",
         "social media",
         "reddit companion"
-      ]
+      ],
+      "category": "social-media"
     },
     "saginawj--mcp-server-youtube": {
       "owner": "saginawj",
@@ -1750,7 +1825,8 @@
         "interaction youtube",
         "social media",
         "server youtube"
-      ]
+      ],
+      "category": "social-media"
     },
     "semioz--bluesky-mcp": {
       "owner": "semioz",
@@ -1773,7 +1849,8 @@
         "automation social",
         "social media",
         "integration social"
-      ]
+      ],
+      "category": "social-media"
     },
     "sinanefeozler--reddit-summarizer-mcp": {
       "owner": "sinanefeozler",
@@ -1796,7 +1873,8 @@
         "automation social",
         "social media",
         "integration social"
-      ]
+      ],
+      "category": "social-media"
     },
     "taazkareem--twitter-mcp-server": {
       "owner": "taazkareem",
@@ -1819,7 +1897,8 @@
         "integrate twitter",
         "interact tweets",
         "twitter mcp"
-      ]
+      ],
+      "category": "social-media"
     },
     "unlimitbladeworks--awesome-mcp-twikit": {
       "owner": "unlimitbladeworks",
@@ -1842,7 +1921,8 @@
         "twitter provides",
         "automation social",
         "tweets analyze"
-      ]
+      ],
+      "category": "social-media"
     },
     "v-3--discordmcp": {
       "owner": "v-3",
@@ -1865,7 +1945,8 @@
         "interaction discord",
         "presence discordmcp",
         "discord api"
-      ]
+      ],
+      "category": "social-media"
     },
     "vaibhavgeek--twitter-rapidapi-mcp-x": {
       "owner": "vaibhavgeek",
@@ -1888,7 +1969,8 @@
         "integrate twitter",
         "twitter rapidapi",
         "twitter data"
-      ]
+      ],
+      "category": "social-media"
     },
     "vidhupv--x-mcp": {
       "owner": "vidhupv",
@@ -1911,7 +1993,8 @@
         "automation social",
         "twitter posts",
         "social media"
-      ]
+      ],
+      "category": "social-media"
     },
     "yap-audio--tiktok-mcp": {
       "owner": "yap-audio",
@@ -1934,7 +2017,8 @@
         "automation social",
         "social media",
         "tiktok videos"
-      ]
+      ],
+      "category": "social-media"
     },
     "zhangzhongnan928--mcp-warpcast-server": {
       "owner": "zhangzhongnan928",
@@ -1957,7 +2041,8 @@
         "automation social",
         "social media",
         "integration social"
-      ]
+      ],
+      "category": "social-media"
     }
   }
 }

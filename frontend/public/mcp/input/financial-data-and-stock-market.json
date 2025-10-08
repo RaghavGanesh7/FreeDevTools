@@ -25,7 +25,8 @@
         "tradovate trading",
         "mcp server",
         "mcp tradovate"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "24mlight--a-share-mcp-is-just-i-need": {
       "owner": "24mlight",
@@ -48,7 +49,8 @@
         "market data",
         "data stock",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "2geonhyup--dart-mcp": {
       "owner": "2geonhyup",
@@ -71,7 +73,8 @@
         "dart financial",
         "financial data",
         "financial information"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "2geonhyup--dart-mcp-test": {
       "owner": "2geonhyup",
@@ -94,7 +97,8 @@
         "financial data",
         "dart mcp",
         "financial analyses"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "5ajaki--mcp-etherscan-server": {
       "owner": "5ajaki",
@@ -117,7 +121,8 @@
         "mcp etherscan",
         "server etherscan",
         "etherscan server"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "5ajaki--safe-mcp-server": {
       "owner": "5ajaki",
@@ -140,7 +145,8 @@
         "mcp server",
         "safe mcp",
         "5ajaki safe"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "8bitsats--solana-MCP-tradingserver": {
       "owner": "8bitsats",
@@ -163,7 +169,8 @@
         "tradingserver solana",
         "solana trading",
         "solana tokens"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "AbdelStark--bitcoin-mcp": {
       "owner": "AbdelStark",
@@ -186,7 +193,8 @@
         "abdelstark bitcoin",
         "bitcoin mcp",
         "bitcoin data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "AbdelStark--lightning-mcp": {
       "owner": "AbdelStark",
@@ -209,7 +217,8 @@
         "api ai",
         "integration lightning",
         "invoice payments"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Alex2Yang97--yahoo-finance-mcp": {
       "owner": "Alex2Yang97",
@@ -232,7 +241,8 @@
         "yahoo finance",
         "finance mcp",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "BlindVibeDev--CoinGeckoMCP": {
       "owner": "BlindVibeDev",
@@ -255,7 +265,8 @@
         "financial data",
         "cryptocurrency market",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Chakra-Network--mcp-server": {
       "owner": "Chakra-Network",
@@ -278,7 +289,8 @@
         "mcp server",
         "interact databases",
         "data shares"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Cognitive-Stack--search-stock-news-mcp": {
       "owner": "Cognitive-Stack",
@@ -301,7 +313,8 @@
         "search operations",
         "search stock",
         "ai workflows"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Cognitive-Stack--volume-wall-detector-mcp": {
       "owner": "Cognitive-Stack",
@@ -324,7 +337,8 @@
         "utilizes mongodb",
         "mcp provides",
         "tracks trading"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "CoinStatsHQ--coinstats-mcp": {
       "owner": "CoinStatsHQ",
@@ -347,7 +361,8 @@
         "coinstats mcp",
         "market coinstatshq",
         "coinstatshq coinstats"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "DappierAI--dappier-mcp": {
       "owner": "DappierAI",
@@ -370,7 +385,8 @@
         "market dappierai",
         "ai agents",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Fewsats--fewsats-mcp": {
       "owner": "Fewsats",
@@ -393,7 +409,8 @@
         "market fewsats",
         "fewsats mcp",
         "fewsats enable"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "GaplyDev01--coingecko-mcp-server": {
       "owner": "GaplyDev01",
@@ -416,7 +433,8 @@
         "data coingecko",
         "cryptocurrency data",
         "cryptocurrency information"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "GoPlausible--algorand-mcp": {
       "owner": "GoPlausible",
@@ -439,7 +457,8 @@
         "algorand blockchain",
         "blockchain data",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "GoPlausible--tinyman-mcp": {
       "owner": "GoPlausible",
@@ -462,7 +481,8 @@
         "tinyman amm",
         "tinyman mcp",
         "decentralized trading"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Hwani-Net--crypto-trading-bot": {
       "owner": "Hwani-Net",
@@ -485,7 +505,8 @@
         "crypto trading",
         "cryptocurrency trading",
         "trading bot"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "JN-P-U--st_mcp": {
       "owner": "JN-P-U",
@@ -508,7 +529,8 @@
         "stock analysis",
         "financial data",
         "analysis financial"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Jaldekoa--mcp-fredapi": {
       "owner": "Jaldekoa",
@@ -531,7 +553,8 @@
         "economic data",
         "financial data",
         "analyze economic"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Jeetinida--stocknews-mcp": {
       "owner": "Jeetinida",
@@ -554,7 +577,8 @@
         "jeetinida stocknews",
         "stocknews mcp",
         "stock data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "MCP-100--stock-market-server": {
       "owner": "MCP-100",
@@ -577,7 +601,8 @@
         "market data",
         "financial data",
         "market server"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Meh-S-Eze--ynab-mcp-client2": {
       "owner": "Meh-S-Eze",
@@ -600,7 +625,8 @@
         "ynab functionality",
         "access ynab",
         "ynab mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "MilesCool--binance-mcp": {
       "owner": "MilesCool",
@@ -623,7 +649,8 @@
         "binance mcp",
         "data binance",
         "milescool binance"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "MissionSquad--mcp-avantage": {
       "owner": "MissionSquad",
@@ -646,7 +673,8 @@
         "financial data",
         "financial insights",
         "alpha vantage"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "NFTGo--mcp-nftgo-api": {
       "owner": "NFTGo",
@@ -669,7 +697,8 @@
         "nftgo api",
         "market nftgo",
         "analytics nfts"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Nayshins--mcp-server-ccxt": {
       "owner": "Nayshins",
@@ -692,7 +721,8 @@
         "ccxt provides",
         "server ccxt",
         "cryptocurrency market"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "OctagonAI--octagon-mcp-server": {
       "owner": "OctagonAI",
@@ -715,7 +745,8 @@
         "octagon market",
         "market octagonai",
         "market intelligence"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "OpenBudget--budgetkey-mcp": {
       "owner": "OpenBudget",
@@ -738,7 +769,8 @@
         "budgetkey mcp",
         "openbudget budgetkey",
         "budget data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Otman404--finance-mcp-server": {
       "owner": "Otman404",
@@ -761,7 +793,8 @@
         "financial data",
         "finance mcp",
         "otman404 finance"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "PJ-TST-238819--mcp": {
       "owner": "PJ-TST-238819",
@@ -784,7 +817,8 @@
         "data okx",
         "price data",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "QuantGeekDev--coincap-mcp": {
       "owner": "QuantGeekDev",
@@ -807,7 +841,8 @@
         "quantgeekdev coincap",
         "information coincap",
         "coincap mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "QuantGeekDev--fiscal-data-mcp": {
       "owner": "QuantGeekDev",
@@ -830,7 +865,8 @@
         "quantgeekdev fiscal",
         "treasury data",
         "fiscal data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "QuantML-C--alpha-vantage-mcp": {
       "owner": "QuantML-C",
@@ -853,7 +889,8 @@
         "market data",
         "financial data",
         "market quantml"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "RusianHu--Ashare-mcp": {
       "owner": "RusianHu",
@@ -876,7 +913,8 @@
         "market data",
         "financial data",
         "data stock"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "SailFish-Finance--educhain-ai-agent-kit": {
       "owner": "SailFish-Finance",
@@ -899,7 +937,8 @@
         "sailfish finance",
         "market sailfish",
         "operations sailfish"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "SaintDoresh--Crypto-Trader-MCP-ClaudeDesktop": {
       "owner": "SaintDoresh",
@@ -922,7 +961,8 @@
         "crypto trader",
         "cryptocurrency market",
         "trending cryptocurrencies"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "SaintDoresh--YFinance-Trader-MCP-ClaudeDesktop": {
       "owner": "SaintDoresh",
@@ -945,7 +985,8 @@
         "market data",
         "trader mcp",
         "yfinance trader"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Sifu213--monad-mcp-magiceden": {
       "owner": "Sifu213",
@@ -968,7 +1009,8 @@
         "nft data",
         "comprehensive nft",
         "nft insights"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Sinotrade--mcp-server-shioaji": {
       "owner": "Sinotrade",
@@ -991,7 +1033,8 @@
         "market shioaji",
         "shioaji trading",
         "server shioaji"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "StdioA--beancount-mcp": {
       "owner": "StdioA",
@@ -1014,7 +1057,8 @@
         "stdioa beancount",
         "beancount mcp",
         "beancount queries"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "SuchAFool123--quant-agent": {
       "owner": "SuchAFool123",
@@ -1037,7 +1081,8 @@
         "stock analysis",
         "stock market",
         "quant agent"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "TermiX-official--binance-mcp": {
       "owner": "TermiX-official",
@@ -1060,7 +1105,8 @@
         "binance exchange",
         "binance mcp",
         "official binance"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ThirdGuard--mcp-etherscan-server": {
       "owner": "ThirdGuard",
@@ -1083,7 +1129,8 @@
         "mcp etherscan",
         "etherscan server",
         "blockchain data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "Trade-Agent--trade-agent-mcp": {
       "owner": "Trade-Agent",
@@ -1106,7 +1153,8 @@
         "cryptocurrency brokerages",
         "agent mcp",
         "trade agent"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "aaronjmars--web3-research-mcp": {
       "owner": "aaronjmars",
@@ -1129,7 +1177,8 @@
         "research cryptocurrency",
         "cryptocurrency tokens",
         "research mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ahnlabio--bicscan-mcp": {
       "owner": "ahnlabio",
@@ -1152,7 +1201,8 @@
         "bicscan mcp",
         "information blockchain",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "akramsheriff5--MCP-Server": {
       "owner": "akramsheriff5",
@@ -1175,7 +1225,8 @@
         "akramsheriff5 mcp",
         "market akramsheriff5",
         "mcp server"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "alexanimal--tradovate-mcp-server": {
       "owner": "alexanimal",
@@ -1198,7 +1249,8 @@
         "tradovate api",
         "tradovate mcp",
         "mcp server"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "allthatjazzleo--mantrachain-mcp": {
       "owner": "allthatjazzleo",
@@ -1221,7 +1273,8 @@
         "mantrachain blockchain",
         "mantrachain mcp",
         "interact mantrachain"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "anjor--coinmarket-mcp-server": {
       "owner": "anjor",
@@ -1244,7 +1297,8 @@
         "coinmarket api",
         "anjor coinmarket",
         "access coinmarket"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "aptro--zerodha-mcp": {
       "owner": "aptro",
@@ -1267,7 +1321,8 @@
         "aptro zerodha",
         "zerodha trading",
         "zerodha mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "arbuthnot-eth--PayPal-MCP-defunct": {
       "owner": "arbuthnot-eth",
@@ -1290,7 +1345,8 @@
         "integrate paypal",
         "paypal apis",
         "paypal mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ariadng--metatrader-mcp-server": {
       "owner": "ariadng",
@@ -1313,7 +1369,8 @@
         "trading automation",
         "trading metatrader",
         "algorithmic trading"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "armorwallet--armor-crypto-mcp": {
       "owner": "armorwallet",
@@ -1336,7 +1393,8 @@
         "agents blockchain",
         "armor crypto",
         "trading crypto"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "atharvagupta2003--mcp-stripe": {
       "owner": "atharvagupta2003",
@@ -1359,7 +1417,8 @@
         "mcp stripe",
         "stripe integrates",
         "integrates stripe"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "awslabs--mcp": {
       "owner": "awslabs",
@@ -1382,7 +1441,8 @@
         "market awslabs",
         "visualize aws",
         "awslabs mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "bajoski34--mcp-flutterwave": {
       "owner": "bajoski34",
@@ -1405,7 +1465,8 @@
         "flutterwave transaction",
         "mcp flutterwave",
         "interact flutterwave"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "batprem--set-mcp": {
       "owner": "batprem",
@@ -1428,7 +1489,8 @@
         "market batprem",
         "set mcp",
         "mcp retrieve"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "berlinbra--alpha-vantage-mcp": {
       "owner": "berlinbra",
@@ -1451,7 +1513,8 @@
         "market berlinbra",
         "vantage api",
         "alpha vantage"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "berlinbra--polymarket-mcp": {
       "owner": "berlinbra",
@@ -1474,7 +1537,8 @@
         "market berlinbra",
         "berlinbra polymarket",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "caiovicentino--Solana-MCP": {
       "owner": "caiovicentino",
@@ -1497,7 +1561,8 @@
         "solana blockchain",
         "decentralized finance",
         "blockchain ai"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "caiovicentino--mcpGOTAS": {
       "owner": "caiovicentino",
@@ -1520,7 +1585,8 @@
         "usdt cryptocurrency",
         "verification usdt",
         "mcpgotas facilitate"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "calvernaz--alphavantage": {
       "owner": "calvernaz",
@@ -1543,7 +1609,8 @@
         "alphavantage api",
         "alphavantage access",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "catherinedparnell--mcp-finnhub": {
       "owner": "catherinedparnell",
@@ -1566,7 +1633,8 @@
         "finnhub financial",
         "finnhub interface",
         "interface finnhub"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "cesarvarela--alpaca-mcp": {
       "owner": "cesarvarela",
@@ -1589,7 +1657,8 @@
         "market data",
         "financial data",
         "market cesarvarela"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "coinpaprika--dexpaprika-mcp": {
       "owner": "coinpaprika",
@@ -1612,7 +1681,8 @@
         "market coinpaprika",
         "cryptocurrency data",
         "coinpaprika dexpaprika"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "contre95--controtto": {
       "owner": "contre95",
@@ -1635,7 +1705,8 @@
         "market contre95",
         "contre95 controtto",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "crazyrabbitLTC--mcp-coingecko-server": {
       "owner": "crazyrabbitLTC",
@@ -1658,7 +1729,8 @@
         "mcp coingecko",
         "cryptocurrency listings",
         "cryptocurrency data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "crazyrabbitLTC--mcp-morpho-server": {
       "owner": "crazyrabbitLTC",
@@ -1681,7 +1753,8 @@
         "morpho graphql",
         "query morpho",
         "graphql api"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "dcSpark--mcp-server-jupiter": {
       "owner": "dcSpark",
@@ -1704,7 +1777,8 @@
         "server jupiter",
         "jupiter swap",
         "connects jupiter"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "dfkai--xtquantai": {
       "owner": "dfkai",
@@ -1727,7 +1801,8 @@
         "trading data",
         "dfkai xtquantai",
         "market dfkai"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "dlwjdtn535--mcp-bybit-server": {
       "owner": "dlwjdtn535",
@@ -1750,7 +1825,8 @@
         "mcp bybit",
         "bybit api",
         "bybit server"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "doggybee--mcp-server-ccxt": {
       "owner": "doggybee",
@@ -1773,7 +1849,8 @@
         "server ccxt",
         "cryptocurrency exchanges",
         "ccxt integrates"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "donkeylichao--coin-mcp-server": {
       "owner": "donkeylichao",
@@ -1796,7 +1873,8 @@
         "context protocol",
         "mcp server",
         "coin mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "dragon1086--kospi-kosdaq-stock-server": {
       "owner": "dragon1086",
@@ -1819,7 +1897,8 @@
         "kosdaq stock",
         "kospi kosdaq",
         "stock data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "dragonkhoi--mercury-mcp": {
       "owner": "dragonkhoi",
@@ -1842,7 +1921,8 @@
         "mercury banking",
         "mercury mcp",
         "dragonkhoi mercury"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ekailabs--dune-mcp-server": {
       "owner": "ekailabs",
@@ -1865,7 +1945,8 @@
         "blockchain analytics",
         "market ekailabs",
         "querying blockchain"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ertugrul59--tradingview-chart-mcp": {
       "owner": "ertugrul59",
@@ -1888,7 +1969,8 @@
         "tradingview chart",
         "chart mcp",
         "ertugrul59 tradingview"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "esshka--okx-mcp": {
       "owner": "esshka",
@@ -1911,7 +1993,8 @@
         "trading data",
         "okx exchange",
         "information okx"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ferdousbhai--investor-agent": {
       "owner": "ferdousbhai",
@@ -1934,7 +2017,8 @@
         "ferdousbhai investor",
         "market ferdousbhai",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ferdousbhai--tasty-agent": {
       "owner": "ferdousbhai",
@@ -1957,7 +2041,8 @@
         "tastytrade brokerage",
         "market ferdousbhai",
         "tastytrade platform"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "financial-datasets--mcp-server": {
       "owner": "financial-datasets",
@@ -1980,7 +2065,8 @@
         "financial datasets",
         "financial data",
         "datasets mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "finding-alpha--findingalpha-ai-mcp": {
       "owner": "finding-alpha",
@@ -2003,7 +2089,8 @@
         "stock data",
         "stock market",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "fizzX1--vnpy": {
       "owner": "fizzX1",
@@ -2026,7 +2113,8 @@
         "trading framework",
         "quantitative trading",
         "fizzx1 vnpy"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "free-free-6--lnexchange-mcp-node-service": {
       "owner": "free-free-6",
@@ -2049,7 +2137,8 @@
         "lnexchange api",
         "node service",
         "free lnexchange"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "futuur--Futuur-MCP": {
       "owner": "futuur",
@@ -2072,7 +2161,8 @@
         "market futuur",
         "market data",
         "protocol mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "getAlby--nwc-mcp-server": {
       "owner": "getAlby",
@@ -2095,7 +2185,8 @@
         "nostr wallet",
         "lightning wallet",
         "wallet connect"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "giptilabs--mcp-stock-analysis": {
       "owner": "giptilabs",
@@ -2118,7 +2209,8 @@
         "yahoo finance",
         "stock data",
         "indian markets"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "grandmastr--chronos-mcp": {
       "owner": "grandmastr",
@@ -2141,7 +2233,8 @@
         "stellar blockchain",
         "chronos mcp",
         "connect stellar"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "hanweg--mcp-tool-builder": {
       "owner": "hanweg",
@@ -2164,7 +2257,8 @@
         "mcp tool",
         "tool builder",
         "tool creation"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "hedera-dev--hts-mcp-server": {
       "owner": "hedera-dev",
@@ -2187,7 +2281,8 @@
         "hedera testnet",
         "hedera network",
         "hts mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "heyzgj--mcp-feargreedindex": {
       "owner": "heyzgj",
@@ -2210,7 +2305,8 @@
         "data coinmarketcap",
         "feargreedindex provides",
         "mcp feargreedindex"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "hwangwoohyun-nav--yahoo-finance-mcp": {
       "owner": "hwangwoohyun-nav",
@@ -2233,7 +2329,8 @@
         "yahoo finance",
         "finance mcp",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "iamacnhero--hummingbot": {
       "owner": "iamacnhero",
@@ -2256,7 +2353,8 @@
         "automates trading",
         "iamacnhero hummingbot",
         "market iamacnhero"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "isdaniel--mcp-metal-price": {
       "owner": "isdaniel",
@@ -2279,7 +2377,8 @@
         "prices metal",
         "metal price",
         "precious metals"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "itisaevalex--financial-reports-mcp-server": {
       "owner": "itisaevalex",
@@ -2302,7 +2401,8 @@
         "itisaevalex financial",
         "financial data",
         "financial reports"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "jameskanyiri--DarajaMCP": {
       "owner": "jameskanyiri",
@@ -2325,7 +2425,8 @@
         "safaricom daraja",
         "daraja api",
         "integrate safaricom"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "janswist--mcp-dexscreener": {
       "owner": "janswist",
@@ -2348,7 +2449,8 @@
         "mcp dexscreener",
         "dexscreener api",
         "dexscreener basic"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "jcwleo--ccxt-mcp-server": {
       "owner": "jcwleo",
@@ -2371,7 +2473,8 @@
         "jcwleo ccxt",
         "market jcwleo",
         "ccxt mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "jkoelker--schwab-mcp": {
       "owner": "jkoelker",
@@ -2394,7 +2497,8 @@
         "schwab api",
         "financial data",
         "schwab mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "john-zhang-dev--xero-mcp": {
       "owner": "john-zhang-dev",
@@ -2417,7 +2521,8 @@
         "xero accounting",
         "xero accounts",
         "accounting software"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "jsbintu--buzztraders": {
       "owner": "jsbintu",
@@ -2440,7 +2545,8 @@
         "market jsbintu",
         "market data",
         "stock market"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "juhemcp--jexchange-mcp-server": {
       "owner": "juhemcp",
@@ -2463,7 +2569,8 @@
         "jexchange mcp",
         "exchange rates",
         "exchange rate"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "jun85664396--pump-fun-data-mcp": {
       "owner": "jun85664396",
@@ -2486,7 +2593,8 @@
         "data mcp",
         "data pump",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kilkelly--nano-currency-mcp-server": {
       "owner": "kilkelly",
@@ -2509,7 +2617,8 @@
         "nano currency",
         "transactions nano",
         "currency mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kimchicrypto--kimchicrypto": {
       "owner": "kimchicrypto",
@@ -2532,7 +2641,8 @@
         "market kimchicrypto",
         "kimchicrypto toolset",
         "cryptocurrency finance"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kiss-kedaya--crypto_mcp": {
       "owner": "kiss-kedaya",
@@ -2555,7 +2665,8 @@
         "cryptocurrency prices",
         "kedaya crypto_mcp",
         "fetch cryptocurrency"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "klauern--mcp-ynab": {
       "owner": "klauern",
@@ -2578,7 +2689,8 @@
         "ynab functionality",
         "ynab access",
         "access ynab"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kohasummons--chaingpt-mcp": {
       "owner": "kohasummons",
@@ -2601,7 +2713,8 @@
         "kohasummons chaingpt",
         "cryptocurrency news",
         "chaingpt mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kohasummons--paystack-mcp": {
       "owner": "kohasummons",
@@ -2624,7 +2737,8 @@
         "paystack services",
         "kohasummons paystack",
         "interact paystack"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--crypto-feargreed-mcp": {
       "owner": "kukapay",
@@ -2647,7 +2761,8 @@
         "crypto feargreed",
         "kukapay crypto",
         "market kukapay"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--crypto-liquidations-mcp": {
       "owner": "kukapay",
@@ -2670,7 +2785,8 @@
         "liquidation data",
         "crypto liquidations",
         "cryptocurrency liquidation"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--crypto-pegmon-mcp": {
       "owner": "kukapay",
@@ -2693,7 +2809,8 @@
         "stablecoin peg",
         "pegged stablecoins",
         "crypto pegmon"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--crypto-portfolio-mcp": {
       "owner": "kukapay",
@@ -2716,7 +2833,8 @@
         "crypto portfolio",
         "cryptocurrency portfolios",
         "kukapay crypto"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--crypto-projects-mcp": {
       "owner": "kukapay",
@@ -2739,7 +2857,8 @@
         "kukapay crypto",
         "market kukapay",
         "mcp provides"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--crypto-sentiment-mcp": {
       "owner": "kukapay",
@@ -2762,7 +2881,8 @@
         "cryptocurrency sentiment",
         "crypto sentiment",
         "kukapay crypto"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--freqtrade-mcp": {
       "owner": "kukapay",
@@ -2785,7 +2905,8 @@
         "freqtrade bot",
         "automate trading",
         "market kukapay"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--jupiter-mcp": {
       "owner": "kukapay",
@@ -2808,7 +2929,8 @@
         "solana blockchain",
         "kukapay jupiter",
         "market kukapay"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--pancakeswap-poolspy-mcp": {
       "owner": "kukapay",
@@ -2831,7 +2953,8 @@
         "liquidity pools",
         "pancakeswap poolspy",
         "pools pancakeswap"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--pumpswap-mcp": {
       "owner": "kukapay",
@@ -2854,7 +2977,8 @@
         "kukapay pumpswap",
         "solana blockchain",
         "pumpswap manage"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--rug-check-mcp": {
       "owner": "kukapay",
@@ -2877,7 +3001,8 @@
         "market kukapay",
         "meme tokens",
         "token data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--token-minter-mcp": {
       "owner": "kukapay",
@@ -2900,7 +3025,8 @@
         "kukapay token",
         "token minter",
         "token balances"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--token-revoke-mcp": {
       "owner": "kukapay",
@@ -2923,7 +3049,8 @@
         "kukapay token",
         "market kukapay",
         "token revoke"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--uniswap-poolspy-mcp": {
       "owner": "kukapay",
@@ -2946,7 +3073,8 @@
         "liquidity pools",
         "uniswap poolspy",
         "uniswap blockchain"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--uniswap-trader-mcp": {
       "owner": "kukapay",
@@ -2969,7 +3097,8 @@
         "uniswap trader",
         "trader mcp",
         "market kukapay"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kukapay--whale-tracker-mcp": {
       "owner": "kukapay",
@@ -2992,7 +3121,8 @@
         "whale tracker",
         "monitor whale",
         "whale alert"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kumartheashwani--paypal-java-mcp-server": {
       "owner": "kumartheashwani",
@@ -3015,7 +3145,8 @@
         "paypal java",
         "kumartheashwani paypal",
         "paypal transactions"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "kydlikebtc--mcp-server-bn": {
       "owner": "kydlikebtc",
@@ -3038,7 +3169,8 @@
         "binance trading",
         "market kydlikebtc",
         "kydlikebtc mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "l3wi--mcp-lighthouse": {
       "owner": "l3wi",
@@ -3061,7 +3193,8 @@
         "financial data",
         "portfolio data",
         "cryptocurrency portfolio"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "laukikk--alpaca-mcp": {
       "owner": "laukikk",
@@ -3084,7 +3217,8 @@
         "trading api",
         "alpaca trading",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "lazy-dinosaur--ccxt-mcp": {
       "owner": "lazy-dinosaur",
@@ -3107,7 +3241,8 @@
         "analyze trading",
         "interact cryptocurrency",
         "trading performance"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "leafeye--lunchmoney-mcp-server": {
       "owner": "leafeye",
@@ -3130,7 +3265,8 @@
         "lunchmoney financial",
         "lunchmoney mcp",
         "interact lunchmoney"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "lekt9--yahoo-finance-mcp": {
       "owner": "lekt9",
@@ -3153,7 +3289,8 @@
         "yahoo finance",
         "market lekt9",
         "finance mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "leomercier--financialdatasets-sdk": {
       "owner": "leomercier",
@@ -3176,7 +3313,8 @@
         "financialdatasets sdk",
         "leomercier financialdatasets",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "leoncuhk--mcp-yahoo-finance": {
       "owner": "leoncuhk",
@@ -3199,7 +3337,8 @@
         "yahoo finance",
         "financial data",
         "analytics stocks"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "lifejwang11--alphavantage-mcp": {
       "owner": "lifejwang11",
@@ -3222,7 +3361,8 @@
         "financial data",
         "alphavantage mcp",
         "financial market"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "longmans--coin_api_mcp": {
       "owner": "longmans",
@@ -3245,7 +3385,8 @@
         "longmans coin_api_mcp",
         "coinmarketcap cryptocurrency",
         "access coinmarketcap"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "longportapp--openapi": {
       "owner": "longportapp",
@@ -3268,7 +3409,8 @@
         "market longportapp",
         "longportapp openapi",
         "trading insights"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "magnetai--mcp-free-usdc-transfer": {
       "owner": "magnetai",
@@ -3291,7 +3433,8 @@
         "coinbase mpc",
         "mpc wallet",
         "transfers usdc"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "matteoantoci--mcp-bitpanda": {
       "owner": "matteoantoci",
@@ -3314,7 +3457,8 @@
         "mcp bitpanda",
         "access bitpanda",
         "bitpanda features"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "mattweg--ynab-mcp": {
       "owner": "mattweg",
@@ -3337,7 +3481,8 @@
         "ynab accounts",
         "tracking financial",
         "authentication data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "maxscheijen--mcp-yahoo-finance": {
       "owner": "maxscheijen",
@@ -3360,7 +3505,8 @@
         "yahoo finance",
         "financial data",
         "data yahoo"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "mektigboy--server-hyperliquid": {
       "owner": "mektigboy",
@@ -3383,7 +3529,8 @@
         "server hyperliquid",
         "mektigboy server",
         "hyperliquid sdk"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "miguelyad26--alpaca-mcp-server": {
       "owner": "miguelyad26",
@@ -3406,7 +3553,8 @@
         "trading api",
         "alpaca trading",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "minhyeoky--mcp-server-ledger": {
       "owner": "minhyeoky",
@@ -3429,7 +3577,8 @@
         "ledger cli",
         "server ledger",
         "ledger interact"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "mk965--asset-price-mcp": {
       "owner": "mk965",
@@ -3452,7 +3601,8 @@
         "financial data",
         "price information",
         "market mk965"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "mohit-novo--mcp-lithic": {
       "owner": "mohit-novo",
@@ -3475,7 +3625,8 @@
         "lithic banking",
         "lithic api",
         "access lithic"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "mottibec--israeli-bank-mcp": {
       "owner": "mottibec",
@@ -3498,7 +3649,8 @@
         "bank mcp",
         "israeli bank",
         "bank accounts"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "mprokopov--ledger-mcp-server": {
       "owner": "mprokopov",
@@ -3521,7 +3673,8 @@
         "mprokopov ledger",
         "ledger management",
         "ledger mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "narumiruna--yfinance-mcp": {
       "owner": "narumiruna",
@@ -3544,7 +3697,8 @@
         "yahoo finance",
         "finance yfinance",
         "yfinance mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "nasoma--africastalking-airtime-mcp": {
       "owner": "nasoma",
@@ -3567,7 +3721,8 @@
         "airtime transactions",
         "africastalking airtime",
         "manage airtime"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "newerton--mcp-status-invest": {
       "owner": "newerton",
@@ -3590,7 +3745,8 @@
         "status invest",
         "financial data",
         "access stock"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "nfshanq--mcp-invoice": {
       "owner": "nfshanq",
@@ -3613,7 +3769,8 @@
         "mcp invoice",
         "ocr capabilities",
         "advanced ocr"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "nic0xflamel--coingecko-mcp-server": {
       "owner": "nic0xflamel",
@@ -3636,7 +3793,8 @@
         "cryptocurrency data",
         "coingecko api",
         "nic0xflamel coingecko"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "nic0xflamel--defillama-mcp": {
       "owner": "nic0xflamel",
@@ -3659,7 +3817,8 @@
         "defillama api",
         "nic0xflamel defillama",
         "defillama openapi"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "nic0xflamel--lunarcrush-mcp": {
       "owner": "nic0xflamel",
@@ -3682,7 +3841,8 @@
         "based openapi",
         "enterprise api",
         "openapi specification"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "nnquant--qmt-mcp-server": {
       "owner": "nnquant",
@@ -3705,7 +3865,8 @@
         "qmt trading",
         "nnquant qmt",
         "qmt mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "norman-finance--norman-mcp-server": {
       "owner": "norman-finance",
@@ -3728,7 +3889,8 @@
         "norman finance",
         "finance norman",
         "finance api"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ntdef--ynab-mcp": {
       "owner": "ntdef",
@@ -3751,7 +3913,8 @@
         "ynab budgeting",
         "ynab mcp",
         "ntdef ynab"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ntropy-network--ntropy-mcp": {
       "owner": "ntropy-network",
@@ -3774,7 +3937,8 @@
         "ntropy api",
         "banking data",
         "market ntropy"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "openMF--mcp-mifosx": {
       "owner": "openMF",
@@ -3797,7 +3961,8 @@
         "market openmf",
         "financial data",
         "mifosx integrate"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "openSVM--dexscreener-mcp-server": {
       "owner": "openSVM",
@@ -3820,7 +3985,8 @@
         "opensvm dexscreener",
         "dexscreener mcp",
         "market opensvm"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "pblittle--lightning-mcp-server": {
       "owner": "pblittle",
@@ -3843,7 +4009,8 @@
         "supports querying",
         "pblittle lightning",
         "node data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "picopoco--Python": {
       "owner": "picopoco",
@@ -3866,7 +4033,8 @@
         "financial datasets",
         "picopoco python",
         "market picopoco"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "privilegemendes--amadeus-mcp-server-standalone": {
       "owner": "privilegemendes",
@@ -3889,7 +4057,8 @@
         "amadeus api",
         "amadeus mcp",
         "connect amadeus"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "psalzman--mcp-openfec": {
       "owner": "psalzman",
@@ -3912,7 +4081,8 @@
         "data openfec",
         "openfec api",
         "mcp openfec"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "pwh-pwh--coin-mcp-server": {
       "owner": "pwh-pwh",
@@ -3935,7 +4105,8 @@
         "pwh coin",
         "cryptocurrency prices",
         "coin mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "qeinfinity--binance-mcp-server": {
       "owner": "qeinfinity",
@@ -3958,7 +4129,8 @@
         "data binance",
         "binance mcp",
         "market qeinfinity"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "quanghuynguyen1902--jupiter-mcp-server": {
       "owner": "quanghuynguyen1902",
@@ -3981,7 +4153,8 @@
         "token swap",
         "jupiter mcp",
         "solana blockchain"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "qubaomingg--stock-analysis-mcp": {
       "owner": "qubaomingg",
@@ -4004,7 +4177,8 @@
         "stock analysis",
         "financial analysis",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "recallnet--trading-simulator-mcp": {
       "owner": "recallnet",
@@ -4027,7 +4201,8 @@
         "trading simulator",
         "simulator mcp",
         "recallnet trading"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "recoupable--mcp-vercel": {
       "owner": "recoupable",
@@ -4050,7 +4225,8 @@
         "mantle network",
         "mcp vercel",
         "statistics protocols"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "riteshyaaa--MCP-BTC-Watch": {
       "owner": "riteshyaaa",
@@ -4073,7 +4249,8 @@
         "price data",
         "btc watch",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "roman0211--mcp-crypto-price": {
       "owner": "roman0211",
@@ -4096,7 +4273,8 @@
         "mcp crypto",
         "cryptocurrency data",
         "crypto price"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "sammcj--bybit-mcp": {
       "owner": "sammcj",
@@ -4119,7 +4297,8 @@
         "sammcj bybit",
         "market sammcj",
         "bybit mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "santiagoinfantinom--FinanceAnalyst": {
       "owner": "santiagoinfantinom",
@@ -4142,7 +4321,8 @@
         "santiagoinfantinom financeanalyst",
         "financeanalyst analyze",
         "financial analysis"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "seriallazer--ibkr-mcp-server": {
       "owner": "seriallazer",
@@ -4165,7 +4345,8 @@
         "interactive brokers",
         "brokers api",
         "portfolio information"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "sharplygroup--xtb-mcp-server": {
       "owner": "sharplygroup",
@@ -4188,7 +4369,8 @@
         "xtb trading",
         "xtb mcp",
         "interaction trading"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "shinzo-labs--coinmarketcap-mcp": {
       "owner": "shinzo-labs",
@@ -4211,7 +4393,8 @@
         "coinmarketcap api",
         "coinmarketcap mcp",
         "access coinmarketcap"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "shlomico-tr--etoroPortfolioMCP": {
       "owner": "shlomico-tr",
@@ -4234,7 +4417,8 @@
         "etoroportfoliomcp provides",
         "access etoro",
         "tr etoroportfoliomcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "simonwfarrow--worldpay-mcp": {
       "owner": "simonwfarrow",
@@ -4257,7 +4441,8 @@
         "payment processing",
         "worldpay payment",
         "payment data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "sirmews--mcp-upbank": {
       "owner": "sirmews",
@@ -4280,7 +4465,8 @@
         "mcp upbank",
         "financial data",
         "upbank access"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "snjyor--binance-mcp": {
       "owner": "snjyor",
@@ -4303,7 +4489,8 @@
         "binance mcp",
         "data binance",
         "snjyor binance"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "solangii--upbit-mcp-server": {
       "owner": "solangii",
@@ -4326,7 +4513,8 @@
         "exchange openapi",
         "upbit mcp",
         "openapi interact"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "stefanoamorelli--nasdaq-data-link-mcp": {
       "owner": "stefanoamorelli",
@@ -4349,7 +4537,8 @@
         "financial data",
         "datasets nasdaq",
         "nasdaq data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "stefanoamorelli--sec-edgar-mcp": {
       "owner": "stefanoamorelli",
@@ -4372,7 +4561,8 @@
         "edgar database",
         "financial data",
         "sec filings"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "stevearagonsite--PythonServerMcp": {
       "owner": "stevearagonsite",
@@ -4395,7 +4585,8 @@
         "stevearagonsite pythonservermcp",
         "cryptocurrency prices",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "strangelove-ventures--web3-mcp": {
       "owner": "strangelove-ventures",
@@ -4418,7 +4609,8 @@
         "web3 mcp",
         "solana ethereum",
         "ventures web3"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "stvagi--mempool-mcp": {
       "owner": "stvagi",
@@ -4441,7 +4633,8 @@
         "hashrate analytics",
         "mempool mcp",
         "stvagi mempool"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "suxiongye--random-web3-mcp": {
       "owner": "suxiongye",
@@ -4464,7 +4657,8 @@
         "blockchain entropy",
         "random web3",
         "reliable random"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "sv--mcp-paradex-py": {
       "owner": "sv",
@@ -4487,7 +4681,8 @@
         "paradex trading",
         "automated trading",
         "trading tools"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "szcharlesji--crypto-mcp": {
       "owner": "szcharlesji",
@@ -4510,7 +4705,8 @@
         "cryptocurrency information",
         "cryptocurrency data",
         "cryptocurrency markets"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "taejulee--opsnow-mcp-cost-server-no-server-test": {
       "owner": "taejulee",
@@ -4533,7 +4729,8 @@
         "mcp clients",
         "opsnow mcp",
         "mcp protocol"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "tapdata--mcp-tap-server": {
       "owner": "tapdata",
@@ -4556,7 +4753,8 @@
         "market tapdata",
         "tapdata mcp",
         "data stock"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "tddt--stock_info_mcp": {
       "owner": "tddt",
@@ -4579,7 +4777,8 @@
         "tddt stock_info_mcp",
         "stock_info_mcp provides",
         "market tddt"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "tedlikeskix--alpaca-mcp-server": {
       "owner": "tedlikeskix",
@@ -4602,7 +4801,8 @@
         "trading api",
         "alpaca trading",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "tedlikeskix--xrpl-mcp-service": {
       "owner": "tedlikeskix",
@@ -4625,7 +4825,8 @@
         "xrpl mcp",
         "xrp ledger",
         "access xrp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "trilogy-group--aws-pricing-mcp": {
       "owner": "trilogy-group",
@@ -4648,7 +4849,8 @@
         "aws pricing",
         "instance pricing",
         "affordable instances"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "truss44--mcp-crypto-price": {
       "owner": "truss44",
@@ -4671,7 +4873,8 @@
         "price data",
         "financial data",
         "coincap api"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ttjslbz001--akshare_mcp_server": {
       "owner": "ttjslbz001",
@@ -4694,7 +4897,8 @@
         "financial data",
         "akshare_mcp_server provides",
         "ttjslbz001 akshare_mcp_server"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "twolven--mcp-optionsflow": {
       "owner": "twolven",
@@ -4717,7 +4921,8 @@
         "mcp optionsflow",
         "optionsflow provides",
         "twolven mcp"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "twolven--mcp-stockflow": {
       "owner": "twolven",
@@ -4740,7 +4945,8 @@
         "mcp stockflow",
         "stockflow provides",
         "market twolven"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "twolven--mcp-stockscreen": {
       "owner": "twolven",
@@ -4763,7 +4969,8 @@
         "mcp stockscreen",
         "stockscreen provides",
         "stock screening"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "ultrade-org--ultrade-mcp": {
       "owner": "ultrade-org",
@@ -4786,7 +4993,8 @@
         "management ultrade",
         "market ultrade",
         "ultrade api"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "vanderheijden86--moneybird-mcp-server": {
       "owner": "vanderheijden86",
@@ -4809,7 +5017,8 @@
         "moneybird accounting",
         "moneybird mcp",
         "models moneybird"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "vanto--beanquery-mcp": {
       "owner": "vanto",
@@ -4832,7 +5041,8 @@
         "beanquery mcp",
         "vanto beanquery",
         "beancount ledger"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "vinhphamai23--crypto-feargreed-mcp": {
       "owner": "vinhphamai23",
@@ -4855,7 +5065,8 @@
         "crypto feargreed",
         "crypto fear",
         "associated cryptocurrencies"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "wazzan--mcp-coincap-jj": {
       "owner": "wazzan",
@@ -4878,7 +5089,8 @@
         "coincap api",
         "coincap jj",
         "mcp coincap"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "wlu03--alpaca-mcp-server": {
       "owner": "wlu03",
@@ -4901,7 +5113,8 @@
         "alpaca trading",
         "market wlu03",
         "trading api"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "wshobson--mcp-trader": {
       "owner": "wshobson",
@@ -4924,7 +5137,8 @@
         "mcp trader",
         "wshobson mcp",
         "market wshobson"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "wukan1986--mcp_query_table": {
       "owner": "wukan1986",
@@ -4947,7 +5161,8 @@
         "wukan1986 mcp_query_table",
         "financial data",
         "queries data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "wushouzhuan1--finance_news_analysis": {
       "owner": "wushouzhuan1",
@@ -4970,7 +5185,8 @@
         "finance_news_analysis scrapes",
         "wushouzhuan1 finance_news_analysis",
         "financial data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "xBlueCode--findata-mcp-server": {
       "owner": "xBlueCode",
@@ -4993,7 +5209,8 @@
         "market xbluecode",
         "xbluecode findata",
         "stock data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "yourtechtribe--mcp-odoo-for-finance": {
       "owner": "yourtechtribe",
@@ -5016,7 +5233,8 @@
         "odoo finance",
         "mcp odoo",
         "odoo instances"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "zbdpay--zbd-mcp-server": {
       "owner": "zbdpay",
@@ -5039,7 +5257,8 @@
         "transactions zbd",
         "zbd api",
         "market zbdpay"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "zereight--bithumb-mcp": {
       "owner": "zereight",
@@ -5062,7 +5281,8 @@
         "bithumb api",
         "cryptocurrency information",
         "using bithumb"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "zhewenzhang--tushare_MCP": {
       "owner": "zhewenzhang",
@@ -5085,7 +5305,8 @@
         "financial data",
         "queries stock",
         "market data"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     },
     "zwldarren--akshare-one-mcp": {
       "owner": "zwldarren",
@@ -5108,7 +5329,8 @@
         "financial data",
         "market data",
         "financial information"
-      ]
+      ],
+      "category": "financial-data-and-stock-market"
     }
   }
 }

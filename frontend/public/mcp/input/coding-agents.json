@@ -25,7 +25,8 @@
         "vertexstudio developer",
         "coding agents",
         "autonomously vertexstudio"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "doggybee--mcp-server-leetcode": {
       "owner": "doggybee",
@@ -48,7 +49,8 @@
         "coding agents",
         "agents coding",
         "doggybee mcp"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "ezyang--codemcp": {
       "owner": "ezyang",
@@ -71,7 +73,8 @@
         "coding agents",
         "coding agent",
         "agents coding"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "gabrielmaialva33--winx-code-agent": {
       "owner": "gabrielmaialva33",
@@ -94,7 +97,8 @@
         "code agents",
         "coding agents",
         "code agent"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "jinzcdev--leetcode-mcp-server": {
       "owner": "jinzcdev",
@@ -117,7 +121,8 @@
         "coding agents",
         "leetcode programming",
         "agents coding"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "juehang--vscode-mcp-server": {
       "owner": "juehang",
@@ -140,7 +145,8 @@
         "coding agents",
         "vscode mcp",
         "agents coding"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "micl2e2--code-to-tree": {
       "owner": "micl2e2",
@@ -163,7 +169,8 @@
         "coding agents",
         "agents coding",
         "micl2e2 code"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "nesquikm--mcp-rubber-duck": {
       "owner": "nesquikm",
@@ -186,7 +193,8 @@
         "coding agents",
         "agents coding",
         "llms ai"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "oraios--serena": {
       "owner": "oraios",
@@ -209,7 +217,8 @@
         "coding agents",
         "coding agent",
         "agents coding"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "pdavis68--RepoMapper": {
       "owner": "pdavis68",
@@ -232,7 +241,8 @@
         "coding agents",
         "agents coding",
         "aider chat"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "rinadelph--Agent-MCP": {
       "owner": "rinadelph",
@@ -255,7 +265,8 @@
         "agents coding",
         "coding agents",
         "agent mcp"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "stippi--code-assistant": {
       "owner": "stippi",
@@ -278,7 +289,8 @@
         "coding agents",
         "coding agent",
         "code assistant"
-      ]
+      ],
+      "category": "coding-agents"
     },
     "tiianhk--MaxMSP-MCP-Server": {
       "owner": "tiianhk",
@@ -301,7 +313,8 @@
         "coding agent",
         "coding agents",
         "agents coding"
-      ]
+      ],
+      "category": "coding-agents"
     }
   }
 }

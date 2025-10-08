@@ -25,7 +25,8 @@
         "data platforms",
         "databricks server",
         "databricks api"
-      ]
+      ],
+      "category": "data-platforms"
     },
     "aywengo--kafka-schema-reg-mcp": {
       "owner": "aywengo",
@@ -48,7 +49,8 @@
         "data platforms",
         "kafka schema",
         "comprehensive kafka"
-      ]
+      ],
+      "category": "data-platforms"
     },
     "dbt-labs--dbt-mcp": {
       "owner": "dbt-labs",
@@ -71,7 +73,8 @@
         "data platforms",
         "dbt core",
         "integration dbt"
-      ]
+      ],
+      "category": "data-platforms"
     },
     "flowcore--mcp-flowcore-platform": {
       "owner": "flowcore",
@@ -94,7 +97,8 @@
         "flowcore platform",
         "data platforms",
         "mcp flowcore"
-      ]
+      ],
+      "category": "data-platforms"
     },
     "jwaxman19--qlik-mcp": {
       "owner": "jwaxman19",
@@ -117,7 +121,8 @@
         "data platforms",
         "platforms data",
         "qlik cloud"
-      ]
+      ],
+      "category": "data-platforms"
     },
     "keboola--keboola-mcp-server": {
       "owner": "keboola",
@@ -140,7 +145,8 @@
         "data keboola",
         "data platform",
         "data platforms"
-      ]
+      ],
+      "category": "data-platforms"
     },
     "mattijsdp--dbt-docs-mcp": {
       "owner": "mattijsdp",
@@ -163,7 +169,8 @@
         "dbt cloud",
         "supports dbt",
         "data platforms"
-      ]
+      ],
+      "category": "data-platforms"
     },
     "yashshingvi--databricks-genie-MCP": {
       "owner": "yashshingvi",
@@ -186,7 +193,8 @@
         "databricks genie",
         "data platforms",
         "yashshingvi databricks"
-      ]
+      ],
+      "category": "data-platforms"
     }
   }
 }

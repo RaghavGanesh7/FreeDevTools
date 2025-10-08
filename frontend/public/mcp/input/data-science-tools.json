@@ -25,7 +25,8 @@
         "networkx integration",
         "server networkx",
         "l01 networkx"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "ChronulusAI--chronulus-mcp": {
       "owner": "ChronulusAI",
@@ -48,7 +49,8 @@
         "predict chronulus",
         "data science",
         "science tools"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "DataEval--dingo": {
       "owner": "DataEval",
@@ -71,7 +73,8 @@
         "dataeval dingo",
         "data science",
         "dingo comprehensive"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "arrismo--kaggle-mcp": {
       "owner": "arrismo",
@@ -94,7 +97,8 @@
         "integrations tools",
         "tools integrations",
         "data science"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "avisangle--calculator-server": {
       "owner": "avisangle",
@@ -117,7 +121,8 @@
         "calculator server",
         "integrations tools",
         "mathematical tools"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "datalayer--jupyter-mcp-server": {
       "owner": "datalayer",
@@ -140,7 +145,8 @@
         "datalayer jupyter",
         "server jupyter",
         "jupyter mcp"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "growthbook--growthbook-mcp": {
       "owner": "growthbook",
@@ -163,7 +169,8 @@
         "workflows growthbook",
         "growthbook mcp",
         "tools integrations"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "jjsantos01--jupyter-notebook-mcp": {
       "owner": "jjsantos01",
@@ -186,7 +193,8 @@
         "jupyter notebooks",
         "jupyter notebook",
         "tools integrations"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "kdqed--zaturn": {
       "owner": "kdqed",
@@ -209,7 +217,8 @@
         "data science",
         "integrations tools",
         "data exploration"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "mckinsey--vizro-mcp": {
       "owner": "mckinsey",
@@ -232,7 +241,8 @@
         "tools integrations",
         "integrations tools",
         "mcp tools"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "optuna--optuna-mcp": {
       "owner": "optuna",
@@ -255,7 +265,8 @@
         "optuna mcp",
         "workflows optuna",
         "integrations tools"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "phisanti--MCPR": {
       "owner": "phisanti",
@@ -278,7 +289,8 @@
         "tools integrations",
         "data exploration",
         "science workflows"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "reading-plus-ai--mcp-server-data-exploration": {
       "owner": "reading-plus-ai",
@@ -301,7 +313,8 @@
         "data exploration",
         "exploration csv",
         "data science"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "subelsky--bundler_mcp": {
       "owner": "subelsky",
@@ -324,7 +337,8 @@
         "subelsky bundler_mcp",
         "ruby project",
         "tools integrations"
-      ]
+      ],
+      "category": "data-science-tools"
     },
     "zcaceres--markdownify-mcp": {
       "owner": "zcaceres",
@@ -347,7 +361,8 @@
         "integrations tools",
         "markdownify mcp",
         "tools integrations"
-      ]
+      ],
+      "category": "data-science-tools"
     }
   }
 }

@@ -25,7 +25,8 @@
         "commands capture",
         "command line",
         "run commands"
-      ]
+      ],
+      "category": "command-line"
     },
     "OthmaneBlial--term_mcp_deepseek": {
       "owner": "OthmaneBlial",
@@ -48,7 +49,8 @@
         "commands capture",
         "command line",
         "run commands"
-      ]
+      ],
+      "category": "command-line"
     },
     "automateyournetwork--pyATS_MCP": {
       "owner": "automateyournetwork",
@@ -71,7 +73,8 @@
         "pyats_mcp cisco",
         "cisco pyats",
         "automateyournetwork pyats_mcp"
-      ]
+      ],
+      "category": "command-line"
     },
     "aymericzip--intlayer": {
       "owner": "aymericzip",
@@ -94,7 +97,8 @@
         "commands capture",
         "command line",
         "cms tool"
-      ]
+      ],
+      "category": "command-line"
     },
     "ferrislucas--iterm-mcp": {
       "owner": "ferrislucas",
@@ -117,7 +121,8 @@
         "iterm terminal",
         "access iterm",
         "commands capture"
-      ]
+      ],
+      "category": "command-line"
     },
     "g0t4--mcp-server-commands": {
       "owner": "g0t4",
@@ -140,7 +145,8 @@
         "run commands",
         "server commands",
         "commands run"
-      ]
+      ],
+      "category": "command-line"
     },
     "maxim-saplin--mcp_safe_local_python_executor": {
       "owner": "maxim-saplin",
@@ -163,7 +169,8 @@
         "saplin mcp_safe_local_python_executor",
         "mcp_safe_local_python_executor safe",
         "python interpreter"
-      ]
+      ],
+      "category": "command-line"
     },
     "misiektoja--kill-process-mcp": {
       "owner": "misiektoja",
@@ -186,7 +193,8 @@
         "kill process",
         "os processes",
         "commands capture"
-      ]
+      ],
+      "category": "command-line"
     },
     "sonirico--mcp-shell": {
       "owner": "sonirico",
@@ -209,7 +217,8 @@
         "mcp shell",
         "shell commands",
         "mcp server"
-      ]
+      ],
+      "category": "command-line"
     },
     "tufantunc--ssh-mcp": {
       "owner": "tufantunc",
@@ -232,7 +241,8 @@
         "ssh mcp",
         "remote shell",
         "tufantunc ssh"
-      ]
+      ],
+      "category": "command-line"
     },
     "tumf--mcp-shell-server": {
       "owner": "tumf",
@@ -255,7 +265,8 @@
         "mcp shell",
         "command execution",
         "secure shell"
-      ]
+      ],
+      "category": "command-line"
     },
     "wonderwhy-er--DesktopCommanderMCP": {
       "owner": "wonderwhy-er",
@@ -278,7 +289,8 @@
         "commands capture",
         "command line",
         "run commands"
-      ]
+      ],
+      "category": "command-line"
     }
   }
 }

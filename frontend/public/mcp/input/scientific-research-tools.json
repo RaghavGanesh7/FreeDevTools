@@ -25,7 +25,8 @@
         "mcp zotero",
         "zotero research",
         "zotero mcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "BioContext--PubChem-MCP": {
       "owner": "BioContext",
@@ -48,7 +49,8 @@
         "biocontext pubchem",
         "tools biocontext",
         "pubchem mcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "DMontgomery40--mcp-server-birdstats": {
       "owner": "DMontgomery40",
@@ -71,7 +73,8 @@
         "birdstats analyze",
         "analyze birdnet",
         "server birdstats"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "Garoth--wolframalpha-llm-mcp": {
       "owner": "Garoth",
@@ -94,7 +97,8 @@
         "research tools",
         "wolframalpha llm",
         "llm api"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "HarshJ23--deepseek-claude-MCP-server": {
       "owner": "HarshJ23",
@@ -117,7 +121,8 @@
         "reasoning engine",
         "deepseek r1",
         "integrates deepseek"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "Jacck--mcp-reasoner": {
       "owner": "Jacck",
@@ -140,7 +145,8 @@
         "systematic reasoning",
         "mcp reasoner",
         "reasoning server"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JackKuo666--Crossref-MCP-Server": {
       "owner": "JackKuo666",
@@ -163,7 +169,8 @@
         "research tools",
         "paper metadata",
         "metadata retrieval"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JackKuo666--Google-Scholar-MCP-Server": {
       "owner": "JackKuo666",
@@ -186,7 +193,8 @@
         "google scholar",
         "scholar access",
         "research tools"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JackKuo666--PubChem-MCP-Server": {
       "owner": "JackKuo666",
@@ -209,7 +217,8 @@
         "compounds pubchem",
         "pubchem mcp",
         "pubchem including"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JackKuo666--PubMed-MCP-Server": {
       "owner": "JackKuo666",
@@ -232,7 +241,8 @@
         "pubmed searching",
         "models pubmed",
         "pubmed mcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JackKuo666--PubTator-MCP-Server": {
       "owner": "JackKuo666",
@@ -255,7 +265,8 @@
         "biomedical literature",
         "analyze biomedical",
         "literature data"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JackKuo666--Sci-Hub-MCP-Server": {
       "owner": "JackKuo666",
@@ -278,7 +289,8 @@
         "research tools",
         "sci hub",
         "metadata downloading"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JackKuo666--bioRxiv-MCP-Server": {
       "owner": "JackKuo666",
@@ -301,7 +313,8 @@
         "biorxiv papers",
         "search biorxiv",
         "jackkuo666 biorxiv"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "JotaDeRodriguez--Bonsai_mcp": {
       "owner": "JotaDeRodriguez",
@@ -324,7 +337,8 @@
         "ifc models",
         "research tools",
         "code blender"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "KangDeokWon-droid--Deep-Learning-": {
       "owner": "KangDeokWon-droid",
@@ -347,7 +361,8 @@
         "droid deep",
         "kangdeokwon droid",
         "deep learning"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "MJBeauty--open_model_zoo": {
       "owner": "MJBeauty",
@@ -370,7 +385,8 @@
         "mjbeauty open_model_zoo",
         "deep learning",
         "optimized deep"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "MushroomFleet--DeepLucid3D-MCP": {
       "owner": "MushroomFleet",
@@ -393,7 +409,8 @@
         "cognitive tools",
         "structured cognitive",
         "mushroomfleet deeplucid3d"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "PRIDE-Archive--mcp_pride_archive_search": {
       "owner": "PRIDE-Archive",
@@ -416,7 +433,8 @@
         "proteomics datasets",
         "explore proteomics",
         "mcp_pride_archive_search search"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "ProgramComputer--NASA-MCP-server": {
       "owner": "ProgramComputer",
@@ -439,7 +457,8 @@
         "nasa apis",
         "programcomputer nasa",
         "nasa mcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "SeanMcLoughlin--mcp-vcd": {
       "owner": "SeanMcLoughlin",
@@ -462,7 +481,8 @@
         "mcp vcd",
         "vcd waveforms",
         "dump vcd"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "StarGazer1995--mcp-stargazing": {
       "owner": "StarGazer1995",
@@ -485,7 +505,8 @@
         "mcp stargazing",
         "stargazer1995 mcp",
         "stargazing calculate"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "TakumiY235--uniprot-mcp-server": {
       "owner": "TakumiY235",
@@ -508,7 +529,8 @@
         "protein information",
         "retrieval protein",
         "uniprot mcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "Tsuchijo--matlab-mcp": {
       "owner": "Tsuchijo",
@@ -531,7 +553,8 @@
         "matlab scripts",
         "matlab mcp",
         "automation matlab"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "YuChenSSR--quantum-simulator-mcp": {
       "owner": "YuChenSSR",
@@ -554,7 +577,8 @@
         "quantum simulator",
         "simulates quantum",
         "quantum algorithms"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "YuChenSSR--symbolica-mcp": {
       "owner": "YuChenSSR",
@@ -577,7 +601,8 @@
         "symbolic computing",
         "symbolica mcp",
         "visualization scientific"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "acashmoney--bio-mcp": {
       "owner": "acashmoney",
@@ -600,7 +625,8 @@
         "protein databases",
         "advanced protein",
         "bio mcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "agan2021--stata-prov-map": {
       "owner": "agan2021",
@@ -623,7 +649,8 @@
         "maps stata",
         "provincial maps",
         "charts maps"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "akalaric--mcp-wolframalpha": {
       "owner": "akalaric",
@@ -646,7 +673,8 @@
         "alpha chat",
         "chat applications",
         "wolfram alpha"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "alti3--stk-mcp": {
       "owner": "alti3",
@@ -669,7 +697,8 @@
         "alti3 stk",
         "agi stk",
         "stk advanced"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "angrysky56--mcp-logic": {
       "owner": "angrysky56",
@@ -692,7 +721,8 @@
         "mcp logic",
         "automated reasoning",
         "logic provides"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "angrysky56--mcp-rocq": {
       "owner": "angrysky56",
@@ -715,7 +745,8 @@
         "rocq provides",
         "mcp rocq",
         "advanced logical"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "blake365--macrostrat-mcp": {
       "owner": "blake365",
@@ -738,7 +769,8 @@
         "geologic data",
         "geological data",
         "access geologic"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "blazickjp--arxiv-mcp-server": {
       "owner": "blazickjp",
@@ -761,7 +793,8 @@
         "arxiv mcp",
         "academic articles",
         "research papers"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "bmorphism--penrose-mcp": {
       "owner": "bmorphism",
@@ -784,7 +817,8 @@
         "mathematical diagrams",
         "mathematical types",
         "diagrams using"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "cnitlrt--headless-ida-mcp-server": {
       "owner": "cnitlrt",
@@ -807,7 +841,8 @@
         "headless ida",
         "using ida",
         "ida pro"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "couchrishi--sd-for-designers": {
       "owner": "couchrishi",
@@ -830,7 +865,8 @@
         "automated mlops",
         "mlops pipeline",
         "google cloud"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "daheepk--arxiv-paper-mcp": {
       "owner": "daheepk",
@@ -853,7 +889,8 @@
         "research tools",
         "research papers",
         "papers arxiv"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "datalayer--earthdata-mcp-server": {
       "owner": "datalayer",
@@ -876,7 +913,8 @@
         "earthdata mcp",
         "earthdata datasets",
         "analysis earthdata"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "doomdagadiggiedahdah--iacr-mcp-server": {
       "owner": "doomdagadiggiedahdah",
@@ -899,7 +937,8 @@
         "iacr cryptology",
         "cryptology eprint",
         "research papers"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "dougwithseismic--withseismic-mcp": {
       "owner": "dougwithseismic",
@@ -922,7 +961,8 @@
         "tools dougwithseismic",
         "withseismic mcp",
         "dougwithseismic withseismic"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "emekaokoye--mcp-rdf-explorer": {
       "owner": "emekaokoye",
@@ -945,7 +985,8 @@
         "analyze rdf",
         "rdf data",
         "rdf explorer"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "fdrechsler--mcp-server-idapro": {
       "owner": "fdrechsler",
@@ -968,7 +1009,8 @@
         "idapro automate",
         "server idapro",
         "ida pro"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "finite-sample--rmcp": {
       "owner": "finite-sample",
@@ -991,7 +1033,8 @@
         "econometric analyses",
         "advanced econometric",
         "statistical analyses"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "gp-zhong--Physics": {
       "owner": "gp-zhong",
@@ -1014,7 +1057,8 @@
         "zhong physics",
         "learning physics",
         "gp zhong"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "gradusnikov--pubmed-search-mcp-server": {
       "owner": "gradusnikov",
@@ -1037,7 +1081,8 @@
         "pubmed search",
         "gradusnikov pubmed",
         "pubmed database"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "graphistry--graphistry-mcp": {
       "owner": "graphistry",
@@ -1060,7 +1105,8 @@
         "tools graphistry",
         "graphistry mcp",
         "graphistry graphistry"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "hbg--mcp-paperswithcode": {
       "owner": "hbg",
@@ -1083,7 +1129,8 @@
         "mcp paperswithcode",
         "paperswithcode interface",
         "paperswithcode api"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "huanongfish--arxiv-mcp": {
       "owner": "huanongfish",
@@ -1106,7 +1153,8 @@
         "arxiv research",
         "research tools",
         "huanongfish arxiv"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "hugohow--mcp-music-analysis": {
       "owner": "hugohow",
@@ -1129,7 +1177,8 @@
         "mcp music",
         "analyze audio",
         "hugohow mcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "iamleoluo--Quantum-Computing-Approach": {
       "owner": "iamleoluo",
@@ -1152,7 +1201,8 @@
         "quantum computing",
         "iamleoluo quantum",
         "qiskit provides"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "jayanthbagare--mcp-scholarly": {
       "owner": "jayanthbagare",
@@ -1175,7 +1225,8 @@
         "retrieval scholarly",
         "scholarly search",
         "scholarly papers"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "jigarbhoye04--MatlabMCP": {
       "owner": "jigarbhoye04",
@@ -1198,7 +1249,8 @@
         "jigarbhoye04 matlabmcp",
         "execute matlab",
         "shared matlab"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "jinsoo--DDA_julia.jl": {
       "owner": "jinsoo",
@@ -1221,7 +1273,8 @@
         "scattering calculations",
         "scattering effects",
         "analyze scattering"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "jjsantos01--qgis_mcp": {
       "owner": "jjsantos01",
@@ -1244,7 +1297,8 @@
         "jjsantos01 qgis_mcp",
         "ai qgis",
         "qgis project"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "jkingsman--qanon-mcp-server": {
       "owner": "jkingsman",
@@ -1267,7 +1321,8 @@
         "posts research",
         "research tools",
         "content sociological"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "kbsooo--MCP_Atom_of_Thoughts": {
       "owner": "kbsooo",
@@ -1290,7 +1345,8 @@
         "kbsooo mcp_atom_of_thoughts",
         "mcp_atom_of_thoughts enhance",
         "thought processing"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "leescot--pubmed-mcp-smithery": {
       "owner": "leescot",
@@ -1313,7 +1369,8 @@
         "pubmed database",
         "papers pubmed",
         "research tools"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "liuwanglei-tal--nasa-mcp": {
       "owner": "liuwanglei-tal",
@@ -1336,7 +1393,8 @@
         "nasa mcp",
         "nasa data",
         "tools liuwanglei"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "luojunhui1--ImageOnC": {
       "owner": "luojunhui1",
@@ -1359,7 +1417,8 @@
         "plate recognition",
         "opencv image",
         "utilizing opencv"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "mahdin75--gis-mcp": {
       "owner": "mahdin75",
@@ -1382,7 +1441,8 @@
         "mahdin75 gis",
         "gis mcp",
         "utilizes gis"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "mrexodia--ida-pro-mcp": {
       "owner": "mrexodia",
@@ -1405,7 +1465,8 @@
         "mrexodia ida",
         "mcp tools",
         "ida pro"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "nansasuke--GarbageSorting": {
       "owner": "nansasuke",
@@ -1428,7 +1489,8 @@
         "classify waste",
         "recycling process",
         "nansasuke garbagesorting"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "nguyenvanduocit--all-in-one-model-context-protocol": {
       "owner": "nguyenvanduocit",
@@ -1451,7 +1513,8 @@
         "research tools",
         "development tools",
         "development workflows"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "noahzeidenberg--ncbi-mcp": {
       "owner": "noahzeidenberg",
@@ -1474,7 +1537,8 @@
         "noahzeidenberg ncbi",
         "analyze ncbi",
         "integrate bioinformatics"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "olaservo--shannon-thinking": {
       "owner": "olaservo",
@@ -1497,7 +1561,8 @@
         "thinking guides",
         "challenges structured",
         "structured thoughts"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "openags--paper-search-mcp": {
       "owner": "openags",
@@ -1520,7 +1585,8 @@
         "research tools",
         "scholarly articles",
         "access scholarly"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "opensensor--bn_cline_mcp": {
       "owner": "opensensor",
@@ -1543,7 +1609,8 @@
         "bn_cline_mcp analyze",
         "opensensor bn_cline_mcp",
         "analyze binaries"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "prashalruchiranga--arxiv-mcp-server": {
       "owner": "prashalruchiranga",
@@ -1566,7 +1633,8 @@
         "retrieve scholarly",
         "research tools",
         "scholarly article"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "r-huijts--oorlogsbronnen-mcp": {
       "owner": "r-huijts",
@@ -1589,7 +1657,8 @@
         "oorlogsbronnen database",
         "access oorlogsbronnen",
         "huijts oorlogsbronnen"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "reading-plus-ai--mcp-server-deep-research": {
       "owner": "reading-plus-ai",
@@ -1612,7 +1681,8 @@
         "deep research",
         "structured research",
         "research complex"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "renatokuipers--neural-child": {
       "owner": "renatokuipers",
@@ -1635,7 +1705,8 @@
         "renatokuipers neural",
         "emotional intelligence",
         "develop ai"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "sirusb--samtools_mcp": {
       "owner": "sirusb",
@@ -1658,7 +1729,8 @@
         "samtools_mcp provides",
         "cram genomic",
         "bioinformatics workflows"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "stat-guy--retrieval-augmented-thinking": {
       "owner": "stat-guy",
@@ -1681,7 +1753,8 @@
         "augmented thinking",
         "reasoning tasks",
         "retrieval augmented"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "svmlearn---": {
       "owner": "svmlearn",
@@ -1704,7 +1777,8 @@
         "tools svmlearn",
         "svmlearn supports",
         "vector machine"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "szeider--mcp-solver": {
       "owner": "szeider",
@@ -1727,7 +1801,8 @@
         "mcp solver",
         "smt constraint",
         "sat models"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "t0mst0ne--pubmed-mcp-easy": {
       "owner": "t0mst0ne",
@@ -1750,7 +1825,8 @@
         "pubmed mcp",
         "papers pubmed",
         "t0mst0ne pubmed"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "tutumomo--MCP-civil-tools": {
       "owner": "tutumomo",
@@ -1773,7 +1849,8 @@
         "civil tools",
         "civil engineering",
         "calculation tools"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "vishwa684--unet": {
       "owner": "vishwa684",
@@ -1796,7 +1873,8 @@
         "biomedical image",
         "models biomedical",
         "decathlon dataset"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "vitamin3615--uniprot-mcp-server": {
       "owner": "vitamin3615",
@@ -1819,7 +1897,8 @@
         "vitamin3615 uniprot",
         "protein information",
         "uniprot database"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "vrtejus--pymol-mcp": {
       "owner": "vrtejus",
@@ -1842,7 +1921,8 @@
         "molecular visualization",
         "vrtejus pymol",
         "connects pymol"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "waldzellai--model-enhancement-servers": {
       "owner": "waldzellai",
@@ -1865,7 +1945,8 @@
         "diagrammatic representations",
         "flexible visual",
         "research tools"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "wheattoast11--openrouter-deep-research-mcp": {
       "owner": "wheattoast11",
@@ -1888,7 +1969,8 @@
         "deep research",
         "research tasks",
         "research tools"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "wiSCADA--gpu.cpp": {
       "owner": "wiSCADA",
@@ -1911,7 +1993,8 @@
         "wiscada gpu",
         "gpu cpp",
         "gpu computation"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "wj2333wj--arxiv-mcp-server": {
       "owner": "wj2333wj",
@@ -1934,7 +2017,8 @@
         "arxiv mcp",
         "arxiv research",
         "analyzing arxiv"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "wjlim--nf-core_mcp": {
       "owner": "wjlim",
@@ -1957,7 +2041,8 @@
         "nf core_mcp",
         "nf core",
         "core pipeline"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "woodamsim--models": {
       "owner": "woodamsim",
@@ -1980,7 +2065,8 @@
         "tensorflow models",
         "explore tensorflow",
         "woodamsim models"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "ygboy1986--AIClaude": {
       "owner": "ygboy1986",
@@ -2003,7 +2089,8 @@
         "reasoning engine",
         "reasoning tasks",
         "advanced reasoning"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "yonaka15--mcp-pyodide": {
       "owner": "yonaka15",
@@ -2026,7 +2113,8 @@
         "python capabilities",
         "mcp pyodide",
         "pyodide execute"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "ywwAHU--mcp-scholarly": {
       "owner": "ywwAHU",
@@ -2049,7 +2137,8 @@
         "mcp scholarly",
         "scholarly search",
         "search academic"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "zchaffee1--mcp-server": {
       "owner": "zchaffee1",
@@ -2072,7 +2161,8 @@
         "gzip zlib",
         "zchaffee1 mcp",
         "tools zchaffee1"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "zinja-coder--apktool-mcp-server": {
       "owner": "zinja-coder",
@@ -2095,7 +2185,8 @@
         "engineering android",
         "android apks",
         "coder apktool"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "zongmin-yu--semantic-scholar-fastmcp-mcp-server": {
       "owner": "zongmin-yu",
@@ -2118,7 +2209,8 @@
         "scholar api",
         "semantic scholar",
         "scholar fastmcp"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "zygi--r-playground-mcp": {
       "owner": "zygi",
@@ -2141,7 +2233,8 @@
         "tools zygi",
         "research tools",
         "interacts scientific"
-      ]
+      ],
+      "category": "scientific-research-tools"
     },
     "zzaebok--mcp-wikidata": {
       "owner": "zzaebok",
@@ -2164,7 +2257,8 @@
         "wikidata search",
         "wikidata interact",
         "mcp wikidata"
-      ]
+      ],
+      "category": "scientific-research-tools"
     }
   }
 }

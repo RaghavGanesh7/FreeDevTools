@@ -25,7 +25,8 @@
         "mcp servers",
         "clients stackloklabs",
         "management mcp"
-      ]
+      ],
+      "category": "for-clients"
     },
     "appcypher--awesome-mcp-servers": {
       "owner": "appcypher",
@@ -48,7 +49,8 @@
         "mcp servers",
         "clients appcypher",
         "servers curated"
-      ]
+      ],
+      "category": "for-clients"
     },
     "atonomus--mcp-servers-search": {
       "owner": "atonomus",
@@ -71,7 +73,8 @@
         "mcp servers",
         "mcp server",
         "search mcp"
-      ]
+      ],
+      "category": "for-clients"
     },
     "badkk--awesome-crypto-mcp-servers": {
       "owner": "badkk",
@@ -94,7 +97,8 @@
         "mcp servers",
         "crypto mcp",
         "list mcp"
-      ]
+      ],
+      "category": "for-clients"
     },
     "chatmcp--mcp-directory": {
       "owner": "chatmcp",
@@ -117,7 +121,8 @@
         "chatmcp mcp",
         "mcp servers",
         "clients chatmcp"
-      ]
+      ],
+      "category": "for-clients"
     },
     "eqtylab--mcp-guardian": {
       "owner": "eqtylab",
@@ -140,7 +145,8 @@
         "mcp servers",
         "eqtylab mcp",
         "mcp guardian"
-      ]
+      ],
+      "category": "for-clients"
     },
     "jaw9c--awesome-remote-mcp-servers": {
       "owner": "jaw9c",
@@ -163,7 +169,8 @@
         "remote mcp",
         "mcp servers",
         "clients jaw9c"
-      ]
+      ],
+      "category": "for-clients"
     },
     "kapilduraphe--mcp-watch": {
       "owner": "kapilduraphe",
@@ -186,7 +193,8 @@
         "mcp server",
         "protocol mcp",
         "mcp servers"
-      ]
+      ],
+      "category": "for-clients"
     },
     "krzysztofkucmierz--search-mcp-server": {
       "owner": "krzysztofkucmierz",
@@ -209,7 +217,8 @@
         "search mcp",
         "mcp servers",
         "mcp server"
-      ]
+      ],
+      "category": "for-clients"
     },
     "lastmile-ai--mcp-agent": {
       "owner": "lastmile-ai",
@@ -232,7 +241,8 @@
         "mcp agent",
         "agents using",
         "agent simple"
-      ]
+      ],
+      "category": "for-clients"
     },
     "marimo-team--codemirror-mcp": {
       "owner": "marimo-team",
@@ -255,7 +265,8 @@
         "mcp codemirror",
         "codemirror mcp",
         "mcp resource"
-      ]
+      ],
+      "category": "for-clients"
     },
     "milisp--mcp-linker": {
       "owner": "milisp",
@@ -278,7 +289,8 @@
         "tauri gui",
         "platform tauri",
         "mcp linker"
-      ]
+      ],
+      "category": "for-clients"
     },
     "php-mcp--client": {
       "owner": "php-mcp",
@@ -301,7 +313,8 @@
         "php mcp",
         "mcp client",
         "clients php"
-      ]
+      ],
+      "category": "for-clients"
     },
     "vincent-pli--mcp-cli-host": {
       "owner": "vincent-pli",
@@ -324,7 +337,8 @@
         "mcp cli",
         "cli host",
         "host cli"
-      ]
+      ],
+      "category": "for-clients"
     },
     "vishalmysore--a2ajava": {
       "owner": "vishalmysore",
@@ -347,7 +361,8 @@
         "java applications",
         "a2ajava brings",
         "vishalmysore a2ajava"
-      ]
+      ],
+      "category": "for-clients"
     },
     "wong2--mcp-cli": {
       "owner": "wong2",
@@ -370,7 +385,8 @@
         "mcp cli",
         "context protocol",
         "wong2 mcp"
-      ]
+      ],
+      "category": "for-clients"
     },
     "xuzexin-hz--llm-analysis-assistant": {
       "owner": "xuzexin-hz",
@@ -393,7 +409,8 @@
         "mcp client",
         "clients xuzexin",
         "supports monitoring"
-      ]
+      ],
+      "category": "for-clients"
     },
     "zueai--mcp-manager": {
       "owner": "zueai",
@@ -416,7 +433,8 @@
         "mcp servers",
         "mcp manager",
         "manage mcp"
-      ]
+      ],
+      "category": "for-clients"
     }
   }
 }

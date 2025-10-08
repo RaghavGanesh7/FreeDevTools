@@ -10,7 +10,6 @@ interface BreadcrumbProps {
 }
 
 const Breadcrumb: React.FC<BreadcrumbProps> = ({ items }) => {
-  console.log("breadcrumb items", items);
   return (
     <nav className="breadcrump-container text-sm mb-6 flex flex-wrap items-center gap-2">
       {items.map((item, index) => (

@@ -25,7 +25,8 @@
         "0xkoda wiremcp",
         "wiremcp server",
         "wiremcp wiremcp"
-      ]
+      ],
+      "category": "security"
     },
     "0xPratikPatil--NmapMCP": {
       "owner": "0xPratikPatil",
@@ -48,7 +49,8 @@
         "nmapmcp tool",
         "0xpratikpatil nmapmcp",
         "nmapmcp nmapmcp"
-      ]
+      ],
+      "category": "security"
     },
     "13bm--GhidraMCP": {
       "owner": "13bm",
@@ -71,7 +73,8 @@
         "ghidramcp mcp",
         "13bm ghidramcp",
         "ghidra ai"
-      ]
+      ],
+      "category": "security"
     },
     "496128237--BPB-Worker-Panel": {
       "owner": "496128237",
@@ -94,7 +97,8 @@
         "bpb worker",
         "panel bpb",
         "bpb panel"
-      ]
+      ],
+      "category": "security"
     },
     "8bit-wraith--mcp": {
       "owner": "8bit-wraith",
@@ -117,7 +121,8 @@
         "enhanced ssh",
         "ssh secure",
         "mcp enhanced"
-      ]
+      ],
+      "category": "security"
     },
     "ADEOSec--mcp-shodan": {
       "owner": "ADEOSec",
@@ -140,7 +145,8 @@
         "security adeosec",
         "enhancing cybersecurity",
         "shodan virustotal"
-      ]
+      ],
+      "category": "security"
     },
     "AIM-Intelligence--AIM-Guard-MCP": {
       "owner": "AIM-Intelligence",
@@ -163,7 +169,8 @@
         "mcp security",
         "security aim",
         "aim intelligence"
-      ]
+      ],
+      "category": "security"
     },
     "Andrew-Beniash--mcp-command-server": {
       "owner": "Andrew-Beniash",
@@ -186,7 +193,8 @@
         "commands securely",
         "command server",
         "mcp command"
-      ]
+      ],
+      "category": "security"
     },
     "Azure-Samples--remote-mcp-functions-typescript": {
       "owner": "Azure-Samples",
@@ -209,7 +217,8 @@
         "security azure",
         "azure functions",
         "using azure"
-      ]
+      ],
+      "category": "security"
     },
     "BurtTheCoder--mcp-dnstwist": {
       "owner": "BurtTheCoder",
@@ -232,7 +241,8 @@
         "dns fuzzing",
         "mcp dnstwist",
         "dnstwist mcp"
-      ]
+      ],
+      "category": "security"
     },
     "BurtTheCoder--mcp-maigret": {
       "owner": "BurtTheCoder",
@@ -255,7 +265,8 @@
         "maigret mcp",
         "mcp maigret",
         "server maigret"
-      ]
+      ],
+      "category": "security"
     },
     "BurtTheCoder--mcp-shodan": {
       "owner": "BurtTheCoder",
@@ -278,7 +289,8 @@
         "shodan api",
         "api shodan",
         "security burtthecoder"
-      ]
+      ],
+      "category": "security"
     },
     "BurtTheCoder--mcp-virustotal": {
       "owner": "BurtTheCoder",
@@ -301,7 +313,8 @@
         "mcp virustotal",
         "virustotal api",
         "security burtthecoder"
-      ]
+      ],
+      "category": "security"
     },
     "Castrozan--token-info-mcp": {
       "owner": "Castrozan",
@@ -324,7 +337,8 @@
         "castrozan token",
         "token info",
         "security castrozan"
-      ]
+      ],
+      "category": "security"
     },
     "ChristophEnglisch--keycloak-model-context-protocol": {
       "owner": "ChristophEnglisch",
@@ -347,7 +361,8 @@
         "realms keycloak",
         "keycloak model",
         "keycloak including"
-      ]
+      ],
+      "category": "security"
     },
     "Cyreslab-AI--exploitdb-mcp-server": {
       "owner": "Cyreslab-AI",
@@ -370,7 +385,8 @@
         "exploitdb mcp",
         "ai exploitdb",
         "security cyreslab"
-      ]
+      ],
+      "category": "security"
     },
     "Cyreslab-AI--hibp-mcp-server": {
       "owner": "Cyreslab-AI",
@@ -393,7 +409,8 @@
         "security cyreslab",
         "pwned api",
         "integrates pwned"
-      ]
+      ],
+      "category": "security"
     },
     "Cyreslab-AI--nessus-mcp-server": {
       "owner": "Cyreslab-AI",
@@ -416,7 +433,8 @@
         "nessus vulnerability",
         "security cyreslab",
         "vulnerability scanner"
-      ]
+      ],
+      "category": "security"
     },
     "Cyreslab-AI--shodan-mcp-server": {
       "owner": "Cyreslab-AI",
@@ -439,7 +457,8 @@
         "shodan api",
         "security cyreslab",
         "access shodan"
-      ]
+      ],
+      "category": "security"
     },
     "DMontgomery40--pentest-mcp": {
       "owner": "DMontgomery40",
@@ -462,7 +481,8 @@
         "pentesting tools",
         "penetration testing",
         "essential pentesting"
-      ]
+      ],
+      "category": "security"
     },
     "DynamicEndpoints--API-SECURITY-TESTER": {
       "owner": "DynamicEndpoints",
@@ -485,7 +505,8 @@
         "security dynamicendpoints",
         "endpoints security",
         "api endpoints"
-      ]
+      ],
+      "category": "security"
     },
     "DynamicEndpoints--Automated-BOD-25-01-CISA-Microsoft-Policies-MCP": {
       "owner": "DynamicEndpoints",
@@ -508,7 +529,8 @@
         "security dynamicendpoints",
         "microsoft policies",
         "cisa microsoft"
-      ]
+      ],
+      "category": "security"
     },
     "DynamicEndpoints--Palo-Alto-Policy-Management-MCP-Server": {
       "owner": "DynamicEndpoints",
@@ -531,7 +553,8 @@
         "dynamicendpoints palo",
         "security dynamicendpoints",
         "manage palo"
-      ]
+      ],
+      "category": "security"
     },
     "DynamicEndpoints--m365-core-mcp": {
       "owner": "DynamicEndpoints",
@@ -554,7 +577,8 @@
         "security dynamicendpoints",
         "dynamicendpoints m365",
         "microsoft 365"
-      ]
+      ],
+      "category": "security"
     },
     "DynamicEndpoints--paloalto-device-server": {
       "owner": "DynamicEndpoints",
@@ -577,7 +601,8 @@
         "paloalto device",
         "dynamicendpoints paloalto",
         "manage palo"
-      ]
+      ],
+      "category": "security"
     },
     "DynamicEndpoints--paloalto-mcp-server": {
       "owner": "DynamicEndpoints",
@@ -600,7 +625,8 @@
         "monitor palo",
         "dynamicendpoints paloalto",
         "paloalto mcp"
-      ]
+      ],
+      "category": "security"
     },
     "EdenYavin--OSV-MCP": {
       "owner": "EdenYavin",
@@ -623,7 +649,8 @@
         "osv mcp",
         "edenyavin osv",
         "security edenyavin"
-      ]
+      ],
+      "category": "security"
     },
     "Faucet94--super-win-cli-mcp-server": {
       "owner": "Faucet94",
@@ -646,7 +673,8 @@
         "security faucet94",
         "windows environments",
         "server control"
-      ]
+      ],
+      "category": "security"
     },
     "Fujitsu-AI--MCP-Server-for-MAS-Developments": {
       "owner": "Fujitsu-AI",
@@ -669,7 +697,8 @@
         "privategpt mcp",
         "security fujitsu",
         "mcp server"
-      ]
+      ],
+      "category": "security"
     },
     "GH05TCREW--MetasploitMCP": {
       "owner": "GH05TCREW",
@@ -692,7 +721,8 @@
         "assistants metasploit",
         "gh05tcrew metasploitmcp",
         "ai assistants"
-      ]
+      ],
+      "category": "security"
     },
     "Gaffx--volatility-mcp": {
       "owner": "Gaffx",
@@ -715,7 +745,8 @@
         "security gaffx",
         "mcp server",
         "gaffx volatility"
-      ]
+      ],
+      "category": "security"
     },
     "GongRzhe--terminal-controller-mcp": {
       "owner": "GongRzhe",
@@ -738,7 +769,8 @@
         "commands securely",
         "safeguards command",
         "terminal commands"
-      ]
+      ],
+      "category": "security"
     },
     "GravityPhone--SwanzMCP": {
       "owner": "GravityPhone",
@@ -761,7 +793,8 @@
         "security gravityphone",
         "gravityphone swanzmcp",
         "vulnerabilities facilitate"
-      ]
+      ],
+      "category": "security"
     },
     "HaroldFinchIFT--vuln-nist-mcp-server": {
       "owner": "HaroldFinchIFT",
@@ -784,7 +817,8 @@
         "protocol mcp",
         "nist mcp",
         "mcp server"
-      ]
+      ],
+      "category": "security"
     },
     "HealthNoteLabs--Npub.Health": {
       "owner": "HealthNoteLabs",
@@ -807,7 +841,8 @@
         "healthnotelabs npub",
         "security healthnotelabs",
         "npub health"
-      ]
+      ],
+      "category": "security"
     },
     "Jktfe--serveMyAPI": {
       "owner": "Jktfe",
@@ -830,7 +865,8 @@
         "security jktfe",
         "jktfe servemyapi",
         "macos keychain"
-      ]
+      ],
+      "category": "security"
     },
     "Job28703--clash-rules-lite": {
       "owner": "Job28703",
@@ -853,7 +889,8 @@
         "security job28703",
         "proxy rules",
         "job28703 clash"
-      ]
+      ],
+      "category": "security"
     },
     "Karanxa--dvmcp": {
       "owner": "Karanxa",
@@ -876,7 +913,8 @@
         "karanxa dvmcp",
         "security karanxa",
         "protocol mcp"
-      ]
+      ],
+      "category": "security"
     },
     "KinoThe-Kafkaesque--ssh-mcp-server": {
       "owner": "KinoThe-Kafkaesque",
@@ -899,7 +937,8 @@
         "ssh mcp",
         "kafkaesque ssh",
         "mcp server"
-      ]
+      ],
+      "category": "security"
     },
     "Kirandawadi--volatility3-mcp": {
       "owner": "Kirandawadi",
@@ -922,7 +961,8 @@
         "memory dumps",
         "memory forensics",
         "analyze memory"
-      ]
+      ],
+      "category": "security"
     },
     "LaurieWired--GhidraMCP": {
       "owner": "LaurieWired",
@@ -945,7 +985,8 @@
         "lauriewired ghidramcp",
         "ghidramcp enables",
         "using ghidra"
-      ]
+      ],
+      "category": "security"
     },
     "LexiconAlex--better-auth-mcp-server": {
       "owner": "LexiconAlex",
@@ -968,7 +1009,8 @@
         "security lexiconalex",
         "authentication processes",
         "project authentication"
-      ]
+      ],
+      "category": "security"
     },
     "MSAdministrator--enrichment-mcp": {
       "owner": "MSAdministrator",
@@ -991,7 +1033,8 @@
         "msadministrator enrichment",
         "security msadministrator",
         "data enrichment"
-      ]
+      ],
+      "category": "security"
     },
     "MartinSchlott--BetterMCPFileServer": {
       "owner": "MartinSchlott",
@@ -1014,7 +1057,8 @@
         "bettermcpfileserver privacy",
         "martinschlott bettermcpfileserver",
         "security martinschlott"
-      ]
+      ],
+      "category": "security"
     },
     "MichaelWalkerx--help_tool": {
       "owner": "MichaelWalkerx",
@@ -1037,7 +1081,8 @@
         "security michaelwalkerx",
         "designed cryptanalysis",
         "cryptanalysis quickly"
-      ]
+      ],
+      "category": "security"
     },
     "MladenSU--cli-mcp-server": {
       "owner": "MladenSU",
@@ -1060,7 +1105,8 @@
         "command whitelisting",
         "cli mcp",
         "security mladensu"
-      ]
+      ],
+      "category": "security"
     },
     "MorDavid--BloodHound-MCP-AI": {
       "owner": "MorDavid",
@@ -1083,7 +1129,8 @@
         "active directory",
         "security mordavid",
         "bloodhound data"
-      ]
+      ],
+      "category": "security"
     },
     "PhialsBasement--nmap-mcp-server": {
       "owner": "PhialsBasement",
@@ -1106,7 +1153,8 @@
         "nmap mcp",
         "phialsbasement nmap",
         "nmap interacting"
-      ]
+      ],
+      "category": "security"
     },
     "PyneSys--claude_autoapprove_mcp": {
       "owner": "PyneSys",
@@ -1129,7 +1177,8 @@
         "pynesys claude_autoapprove_mcp",
         "claude_autoapprove_mcp automatically",
         "security pynesys"
-      ]
+      ],
+      "category": "security"
     },
     "RhombusSystems--rhombus-node-mcp": {
       "owner": "RhombusSystems",
@@ -1152,7 +1201,8 @@
         "security rhombussystems",
         "rhombus api",
         "rhombus node"
-      ]
+      ],
+      "category": "security"
     },
     "Spathodea-Network--opencti-mcp": {
       "owner": "Spathodea-Network",
@@ -1175,7 +1225,8 @@
         "network opencti",
         "opencti mcp",
         "opencti access"
-      ]
+      ],
+      "category": "security"
     },
     "SpecterOps--BloodHound-Legacy": {
       "owner": "SpecterOps",
@@ -1198,7 +1249,8 @@
         "attack paths",
         "security specterops",
         "security posture"
-      ]
+      ],
+      "category": "security"
     },
     "StacklokLabs--osv-mcp": {
       "owner": "StacklokLabs",
@@ -1221,7 +1273,8 @@
         "vulnerabilities package",
         "stackloklabs osv",
         "vulnerabilities database"
-      ]
+      ],
+      "category": "security"
     },
     "Sunwood-ai-labs--command-executor-mcp-server": {
       "owner": "Sunwood-ai-labs",
@@ -1244,7 +1297,8 @@
         "executor mcp",
         "command executor",
         "approved commands"
-      ]
+      ],
+      "category": "security"
     },
     "ThreatFlux--YaraFlux": {
       "owner": "ThreatFlux",
@@ -1267,7 +1321,8 @@
         "threat analysis",
         "security threatflux",
         "threatflux yaraflux"
-      ]
+      ],
+      "category": "security"
     },
     "VERMAXVR--awsome_kali_MCPServers": {
       "owner": "VERMAXVR",
@@ -1290,7 +1345,8 @@
         "security vermaxvr",
         "vermaxvr awsome_kali_mcpservers",
         "geared cybersecurity"
-      ]
+      ],
+      "category": "security"
     },
     "X3r0K--BurpSuite-MCP-Server": {
       "owner": "X3r0K",
@@ -1313,7 +1369,8 @@
         "access burpsuite",
         "x3r0k burpsuite",
         "burpsuite mcp"
-      ]
+      ],
+      "category": "security"
     },
     "X3r0K--Shodan-MCP-Server": {
       "owner": "X3r0K",
@@ -1336,7 +1393,8 @@
         "shodan network",
         "access shodan",
         "x3r0k shodan"
-      ]
+      ],
+      "category": "security"
     },
     "X3r0K--Shodan-MCP-Server-Inspector": {
       "owner": "X3r0K",
@@ -1359,7 +1417,8 @@
         "access shodan",
         "x3r0k shodan",
         "shodan internet"
-      ]
+      ],
+      "category": "security"
     },
     "ZeroPathAI--zeropath-mcp-server": {
       "owner": "ZeroPathAI",
@@ -1382,7 +1441,8 @@
         "security zeropathai",
         "zeropath mcp",
         "zeropathai zeropath"
-      ]
+      ],
+      "category": "security"
     },
     "aashari--mcp-server-aws-sso": {
       "owner": "aashari",
@@ -1405,7 +1465,8 @@
         "aws sso",
         "aws cli",
         "security aashari"
-      ]
+      ],
+      "category": "security"
     },
     "adeptus-innovatio--solvitor-mcp": {
       "owner": "adeptus-innovatio",
@@ -1428,7 +1489,8 @@
         "mcp solvitor",
         "solvitor mcp",
         "extract idl"
-      ]
+      ],
+      "category": "security"
     },
     "alex-llm--attAck-mcp-server": {
       "owner": "alex-llm",
@@ -1451,7 +1513,8 @@
         "security alex",
         "attacks accessing",
         "llm attack"
-      ]
+      ],
+      "category": "security"
     },
     "alexgoller--illumio-mcp-server": {
       "owner": "alexgoller",
@@ -1474,7 +1537,8 @@
         "security alexgoller",
         "illumio mcp",
         "alexgoller illumio"
-      ]
+      ],
+      "category": "security"
     },
     "alxspiker--Windows-Command-Line-MCP-Server": {
       "owner": "alxspiker",
@@ -1497,7 +1561,8 @@
         "windows command",
         "mcp server",
         "command line"
-      ]
+      ],
+      "category": "security"
     },
     "andresthor--cmd-line-mcp": {
       "owner": "andresthor",
@@ -1520,7 +1585,8 @@
         "commands secure",
         "terminal commands",
         "commands based"
-      ]
+      ],
+      "category": "security"
     },
     "andrewhopper--itmcp": {
       "owner": "andrewhopper",
@@ -1543,7 +1609,8 @@
         "securely docker",
         "container sandbox",
         "docker container"
-      ]
+      ],
+      "category": "security"
     },
     "anisirji--mcp-server-remote-setup-with-jwt-auth": {
       "owner": "anisirji",
@@ -1566,7 +1633,8 @@
         "secure jwt",
         "jwt auth",
         "setup jwt"
-      ]
+      ],
+      "category": "security"
     },
     "antonpk1--gibber-mcp": {
       "owner": "antonpk1",
@@ -1589,7 +1657,8 @@
         "gibber mcp",
         "antonpk1 gibber",
         "security antonpk1"
-      ]
+      ],
+      "category": "security"
     },
     "ashgw--vault-mcp": {
       "owner": "ashgw",
@@ -1612,7 +1681,8 @@
         "ashgw vault",
         "hashicorp vault",
         "vault mcp"
-      ]
+      ],
+      "category": "security"
     },
     "athapong--argus": {
       "owner": "athapong",
@@ -1635,7 +1705,8 @@
         "argus analyzes",
         "athapong argus",
         "analyzes code"
-      ]
+      ],
+      "category": "security"
     },
     "atomicchonk--roadrecon_mcp_server": {
       "owner": "atomicchonk",
@@ -1658,7 +1729,8 @@
         "mcp dnstwist",
         "server dnstwist",
         "dnstwist mcp"
-      ]
+      ],
+      "category": "security"
     },
     "awslabs--mcp": {
       "owner": "awslabs",
@@ -1681,7 +1753,8 @@
         "security awslabs",
         "aws development",
         "manage aws"
-      ]
+      ],
+      "category": "security"
     },
     "binalyze--air-mcp": {
       "owner": "binalyze",
@@ -1704,7 +1777,8 @@
         "binalyze air",
         "security binalyze",
         "interaction binalyze"
-      ]
+      ],
+      "category": "security"
     },
     "blazickjp--shell-mcp-server": {
       "owner": "blazickjp",
@@ -1727,7 +1801,8 @@
         "shell mcp",
         "blazickjp shell",
         "mcp server"
-      ]
+      ],
+      "category": "security"
     },
     "bmorphism--slowtime-mcp-server": {
       "owner": "bmorphism",
@@ -1750,7 +1825,8 @@
         "slowtime mcp",
         "protection timelock",
         "timelock encryption"
-      ]
+      ],
+      "category": "security"
     },
     "bornpresident--Volatility-MCP-Server": {
       "owner": "bornpresident",
@@ -1773,7 +1849,8 @@
         "memory dumps",
         "analyze memory",
         "cybersecurity responses"
-      ]
+      ],
+      "category": "security"
     },
     "cfdude--mac-shell-mcp": {
       "owner": "cfdude",
@@ -1796,7 +1873,8 @@
         "commands securely",
         "shell mcp",
         "cfdude mac"
-      ]
+      ],
+      "category": "security"
     },
     "charles-adedotun--Lilith-Shell": {
       "owner": "charles-adedotun",
@@ -1819,7 +1897,8 @@
         "commands securely",
         "lilith shell",
         "ai assistants"
-      ]
+      ],
+      "category": "security"
     },
     "chinpchan8--gobuster": {
       "owner": "chinpchan8",
@@ -1842,7 +1921,8 @@
         "chinpchan8 gobuster",
         "security chinpchan8",
         "gobuster brute"
-      ]
+      ],
+      "category": "security"
     },
     "cnitlrt--headless-ida-mcp-server": {
       "owner": "cnitlrt",
@@ -1865,7 +1945,8 @@
         "headless ida",
         "using ida",
         "ida pro"
-      ]
+      ],
+      "category": "security"
     },
     "co-browser--attestable-mcp-server": {
       "owner": "co-browser",
@@ -1888,7 +1969,8 @@
         "attestable mcp",
         "remote attestation",
         "attestation ensuring"
-      ]
+      ],
+      "category": "security"
     },
     "co0ontty--chaitin-ip-intelligence-search-tool": {
       "owner": "co0ontty",
@@ -1911,7 +1993,8 @@
         "honeypot network",
         "ip intelligence",
         "global honeypot"
-      ]
+      ],
+      "category": "security"
     },
     "cyberbalsa--mcp-opensearch-js": {
       "owner": "cyberbalsa",
@@ -1934,7 +2017,8 @@
         "opensearch providing",
         "opensearch js",
         "stored opensearch"
-      ]
+      ],
+      "category": "security"
     },
     "dcolley--swagger-mcp": {
       "owner": "dcolley",
@@ -1957,7 +2041,8 @@
         "swagger openapi",
         "swagger mcp",
         "dcolley swagger"
-      ]
+      ],
+      "category": "security"
     },
     "delorenj--super-win-cli-mcp-server": {
       "owner": "delorenj",
@@ -1980,7 +2065,8 @@
         "windows cli",
         "win cli",
         "security delorenj"
-      ]
+      ],
+      "category": "security"
     },
     "denniswon--intel-tdx-zk-prover": {
       "owner": "denniswon",
@@ -2003,7 +2089,8 @@
         "dcap attestation",
         "attestation verification",
         "attestations leveraging"
-      ]
+      ],
+      "category": "security"
     },
     "deshartman--twilio-agent-payments-mcp-server": {
       "owner": "deshartman",
@@ -2026,7 +2113,8 @@
         "using twilio",
         "twilio agent",
         "twilio api"
-      ]
+      ],
+      "category": "security"
     },
     "dillip285--mcp-terminal": {
       "owner": "dillip285",
@@ -2049,7 +2137,8 @@
         "commands securely",
         "mcp terminal",
         "command execution"
-      ]
+      ],
+      "category": "security"
     },
     "dkvdm--onepassword-mcp-server": {
       "owner": "dkvdm",
@@ -2072,7 +2161,8 @@
         "dkvdm onepassword",
         "onepassword mcp",
         "1password vault"
-      ]
+      ],
+      "category": "security"
     },
     "dynatrace-oss--dynatrace-mcp": {
       "owner": "dynatrace-oss",
@@ -2095,7 +2185,8 @@
         "security dynatrace",
         "oss dynatrace",
         "dynatrace oss"
-      ]
+      ],
+      "category": "security"
     },
     "emeryray2002--mcp-secops-v3": {
       "owner": "emeryray2002",
@@ -2118,7 +2209,8 @@
         "security emeryray2002",
         "mcp secops",
         "chronicle security"
-      ]
+      ],
+      "category": "security"
     },
     "emeryray2002--virustotal-mcp": {
       "owner": "emeryray2002",
@@ -2141,7 +2233,8 @@
         "emeryray2002 virustotal",
         "security emeryray2002",
         "query virustotal"
-      ]
+      ],
+      "category": "security"
     },
     "enkryptai--enkryptai-mcp-server": {
       "owner": "enkryptai",
@@ -2164,7 +2257,8 @@
         "security enkryptai",
         "auditing ai",
         "enkryptai mcp"
-      ]
+      ],
+      "category": "security"
     },
     "eqtylab--mcp-guardian": {
       "owner": "eqtylab",
@@ -2187,7 +2281,8 @@
         "mcp guardian",
         "mcp server",
         "mcp servers"
-      ]
+      ],
+      "category": "security"
     },
     "fdrechsler--mcp-server-idapro": {
       "owner": "fdrechsler",
@@ -2210,7 +2305,8 @@
         "server idapro",
         "idapro automate",
         "ida pro"
-      ]
+      ],
+      "category": "security"
     },
     "firstorderai--authenticator_mcp": {
       "owner": "firstorderai",
@@ -2233,7 +2329,8 @@
         "firstorderai authenticator_mcp",
         "authenticator_mcp enables",
         "secure authentication"
-      ]
+      ],
+      "category": "security"
     },
     "foolsec--vibehacker_metasploit_mcp": {
       "owner": "foolsec",
@@ -2256,7 +2353,8 @@
         "foolsec vibehacker_metasploit_mcp",
         "security foolsec",
         "exploits generation"
-      ]
+      ],
+      "category": "security"
     },
     "fr0gger--MCP_Security": {
       "owner": "fr0gger",
@@ -2279,7 +2377,8 @@
         "fr0gger mcp_security",
         "mcp_security mcp",
         "orkl api"
-      ]
+      ],
+      "category": "security"
     },
     "fr0gger--nova_mcp": {
       "owner": "fr0gger",
@@ -2302,7 +2401,8 @@
         "nova_mcp validates",
         "llm workflows",
         "configurable nova"
-      ]
+      ],
+      "category": "security"
     },
     "gamunu--mcp-unix-shell": {
       "owner": "gamunu",
@@ -2325,7 +2425,8 @@
         "security gamunu",
         "commands securely",
         "unix shell"
-      ]
+      ],
+      "category": "security"
     },
     "garc33--js-sandbox-mcp-server": {
       "owner": "garc33",
@@ -2348,7 +2449,8 @@
         "garc33 js",
         "security garc33",
         "secure javascript"
-      ]
+      ],
+      "category": "security"
     },
     "gbrigandi--mcp-server-cortex": {
       "owner": "gbrigandi",
@@ -2371,7 +2473,8 @@
         "server cortex",
         "cortex rust",
         "security gbrigandi"
-      ]
+      ],
+      "category": "security"
     },
     "gbrigandi--mcp-server-thehive": {
       "owner": "gbrigandi",
@@ -2394,7 +2497,8 @@
         "security gbrigandi",
         "mcp server",
         "gbrigandi mcp"
-      ]
+      ],
+      "category": "security"
     },
     "gbrigandi--mcp-server-wazuh": {
       "owner": "gbrigandi",
@@ -2417,7 +2521,8 @@
         "mcp server",
         "security gbrigandi",
         "server wazuh"
-      ]
+      ],
+      "category": "security"
     },
     "gensecaihq--Wazuh-MCP-Server": {
       "owner": "gensecaihq",
@@ -2440,7 +2545,8 @@
         "wazuh security",
         "security gensecaihq",
         "wazuh mcp"
-      ]
+      ],
+      "category": "security"
     },
     "gitCarrot--mcp-server-aws-cognito": {
       "owner": "gitCarrot",
@@ -2463,7 +2569,8 @@
         "aws cognito",
         "security gitcarrot",
         "cognito secure"
-      ]
+      ],
+      "category": "security"
     },
     "gkhays--mcp-sbom-server": {
       "owner": "gkhays",
@@ -2486,7 +2593,8 @@
         "sbom cyclonedx",
         "mcp sbom",
         "sbom server"
-      ]
+      ],
+      "category": "security"
     },
     "hedera-dev--hts-mcp-server": {
       "owner": "hedera-dev",
@@ -2509,7 +2617,8 @@
         "hedera testnet",
         "hedera network",
         "security hedera"
-      ]
+      ],
+      "category": "security"
     },
     "hieutran--entraid-mcp-server": {
       "owner": "hieutran",
@@ -2532,7 +2641,8 @@
         "entraid mcp",
         "microsoft entra",
         "entra id"
-      ]
+      ],
+      "category": "security"
     },
     "himanshusanecha--mcp-osint-server": {
       "owner": "himanshusanecha",
@@ -2555,7 +2665,8 @@
         "osint server",
         "mcp osint",
         "lookups nmap"
-      ]
+      ],
+      "category": "security"
     },
     "intruder-io--intruder-mcp": {
       "owner": "intruder-io",
@@ -2578,7 +2689,8 @@
         "intruder mcp",
         "intruder io",
         "io intruder"
-      ]
+      ],
+      "category": "security"
     },
     "jgamblin--EPSS-MCP": {
       "owner": "jgamblin",
@@ -2601,7 +2713,8 @@
         "security jgamblin",
         "enhanced cybersecurity",
         "vulnerability data"
-      ]
+      ],
+      "category": "security"
     },
     "jguimera--SecurityCopilotMCPServer": {
       "owner": "jguimera",
@@ -2624,7 +2737,8 @@
         "jguimera securitycopilotmcpserver",
         "securitycopilotmcpserver integrate",
         "security jguimera"
-      ]
+      ],
+      "category": "security"
     },
     "jmandel--health-record-mcp": {
       "owner": "jmandel",
@@ -2647,7 +2761,8 @@
         "health records",
         "ehrs using",
         "health record"
-      ]
+      ],
+      "category": "security"
     },
     "jtang613--GhidrAssistMCP": {
       "owner": "jtang613",
@@ -2670,7 +2785,8 @@
         "jtang613 ghidrassistmcp",
         "ghidrassistmcp native",
         "server ghidra"
-      ]
+      ],
+      "category": "security"
     },
     "jyjune--mcp_vms": {
       "owner": "jyjune",
@@ -2693,7 +2809,8 @@
         "jyjune mcp_vms",
         "mcp_vms model",
         "protocol mcp"
-      ]
+      ],
+      "category": "security"
     },
     "kaznak--shell-command-mcp": {
       "owner": "kaznak",
@@ -2716,7 +2833,8 @@
         "kaznak shell",
         "docker container",
         "commands securely"
-      ]
+      ],
+      "category": "security"
     },
     "kenhuangus--mcp-vulnerable-server-demo": {
       "owner": "kenhuangus",
@@ -2739,7 +2857,8 @@
         "vulnerabilities mcp",
         "mcp vulnerable",
         "vulnerable server"
-      ]
+      ],
+      "category": "security"
     },
     "kevinwatt--mysql-mcp": {
       "owner": "kevinwatt",
@@ -2762,7 +2881,8 @@
         "mysql mcp",
         "secure database",
         "mysql databases"
-      ]
+      ],
+      "category": "security"
     },
     "kevinwatt--shell-mcp": {
       "owner": "kevinwatt",
@@ -2785,7 +2905,8 @@
         "shell mcp",
         "commands securely",
         "mcp execute"
-      ]
+      ],
+      "category": "security"
     },
     "kukapay--rug-check-mcp": {
       "owner": "kukapay",
@@ -2808,7 +2929,8 @@
         "security kukapay",
         "meme tokens",
         "kukapay rug"
-      ]
+      ],
+      "category": "security"
     },
     "kukapay--token-revoke-mcp": {
       "owner": "kukapay",
@@ -2831,7 +2953,8 @@
         "kukapay token",
         "security kukapay",
         "token revoke"
-      ]
+      ],
+      "category": "security"
     },
     "kukapay--twitter-username-changes-mcp": {
       "owner": "kukapay",
@@ -2854,7 +2977,8 @@
         "kukapay twitter",
         "security kukapay",
         "twitter usernames"
-      ]
+      ],
+      "category": "security"
     },
     "liuzongmin--SecGPT": {
       "owner": "liuzongmin",
@@ -2877,7 +3001,8 @@
         "secgpt platform",
         "mitigating cybersecurity",
         "cybersecurity threats"
-      ]
+      ],
+      "category": "security"
     },
     "malloryai--mallory-mcp-server": {
       "owner": "malloryai",
@@ -2900,7 +3025,8 @@
         "security malloryai",
         "mcp server",
         "mallory mcp"
-      ]
+      ],
+      "category": "security"
     },
     "mariocandela--beelzebub": {
       "owner": "mariocandela",
@@ -2923,7 +3049,8 @@
         "beelzebub honeypot",
         "honeypot framework",
         "mariocandela beelzebub"
-      ]
+      ],
+      "category": "security"
     },
     "maxim-saplin--mcp_safe_local_python_executor": {
       "owner": "maxim-saplin",
@@ -2946,7 +3073,8 @@
         "saplin mcp_safe_local_python_executor",
         "mcp_safe_local_python_executor safe",
         "python capabilities"
-      ]
+      ],
+      "category": "security"
     },
     "mobb-dev--mobb-vibe-shield-mcp": {
       "owner": "mobb-dev",
@@ -2969,7 +3097,8 @@
         "vibe mobb",
         "mobb vibe",
         "security mobb"
-      ]
+      ],
+      "category": "security"
     },
     "moeki0--mcp-auth0-oidc": {
       "owner": "moeki0",
@@ -2992,7 +3121,8 @@
         "auth0 oidc",
         "oidc authenticate",
         "mcp auth0"
-      ]
+      ],
+      "category": "security"
     },
     "mrexodia--ida-pro-mcp": {
       "owner": "mrexodia",
@@ -3015,7 +3145,8 @@
         "ida pro",
         "mrexodia ida",
         "server ida"
-      ]
+      ],
+      "category": "security"
     },
     "mytechnotalent--MalwareBazaar_MCP": {
       "owner": "mytechnotalent",
@@ -3038,7 +3169,8 @@
         "malwarebazaar_mcp provides",
         "mytechnotalent malwarebazaar_mcp",
         "malware sample"
-      ]
+      ],
+      "category": "security"
     },
     "nahmanmate--better-auth-mcp-server": {
       "owner": "nahmanmate",
@@ -3061,7 +3193,8 @@
         "auth mcp",
         "enhance authentication",
         "authentication processes"
-      ]
+      ],
+      "category": "security"
     },
     "natebennett27--mcp-maigret": {
       "owner": "natebennett27",
@@ -3084,7 +3217,8 @@
         "security natebennett27",
         "account information",
         "analyze urls"
-      ]
+      ],
+      "category": "security"
     },
     "nesirat--MCP": {
       "owner": "nesirat",
@@ -3107,7 +3241,8 @@
         "vulnerability tracking",
         "security nesirat",
         "nesirat mcp"
-      ]
+      ],
+      "category": "security"
     },
     "newbeb--stealth-browser-mcp": {
       "owner": "newbeb",
@@ -3130,7 +3265,8 @@
         "stealth browser",
         "browser fingerprints",
         "disguise web"
-      ]
+      ],
+      "category": "security"
     },
     "nickpending--mcp-censys": {
       "owner": "nickpending",
@@ -3153,7 +3289,8 @@
         "accessing censys",
         "mcp censys",
         "censys data"
-      ]
+      ],
+      "category": "security"
     },
     "nickpending--mcp-recon": {
       "owner": "nickpending",
@@ -3176,7 +3313,8 @@
         "mcp recon",
         "mcp server",
         "httpx asnmap"
-      ]
+      ],
+      "category": "security"
     },
     "norbinsh--cursor-mcp-trivy": {
       "owner": "norbinsh",
@@ -3199,7 +3337,8 @@
         "trivy scans",
         "mcp trivy",
         "using trivy"
-      ]
+      ],
+      "category": "security"
     },
     "opensensor--bn_cline_mcp": {
       "owner": "opensensor",
@@ -3222,7 +3361,8 @@
         "opensensor bn_cline_mcp",
         "bn_cline_mcp analyze",
         "analyze binaries"
-      ]
+      ],
+      "category": "security"
     },
     "ory--mcp-sse": {
       "owner": "ory",
@@ -3245,7 +3385,8 @@
         "security ory",
         "ory mcp",
         "mcp sse"
-      ]
+      ],
+      "category": "security"
     },
     "panther-labs--mcp-panther": {
       "owner": "panther-labs",
@@ -3268,7 +3409,8 @@
         "security panther",
         "panther mcp",
         "mcp panther"
-      ]
+      ],
+      "category": "security"
     },
     "pollinations--chucknorris": {
       "owner": "pollinations",
@@ -3291,7 +3433,8 @@
         "ai assistants",
         "schema adaptation",
         "language models"
-      ]
+      ],
+      "category": "security"
     },
     "pottekkat--sandbox-mcp": {
       "owner": "pottekkat",
@@ -3314,7 +3457,8 @@
         "sandbox mcp",
         "pottekkat sandbox",
         "docker containers"
-      ]
+      ],
+      "category": "security"
     },
     "pratham-svg--MCP-OAuth": {
       "owner": "pratham-svg",
@@ -3337,7 +3481,8 @@
         "mcp oauth",
         "authorization mcp",
         "svg mcp"
-      ]
+      ],
+      "category": "security"
     },
     "pullkitsan--mobsf-mcp-server": {
       "owner": "pullkitsan",
@@ -3360,7 +3505,8 @@
         "pullkitsan mobsf",
         "server mobsf",
         "mobsf mcp"
-      ]
+      ],
+      "category": "security"
     },
     "qianniuspace--mcp-security-audit": {
       "owner": "qianniuspace",
@@ -3383,7 +3529,8 @@
         "audits npm",
         "npm registry",
         "npm package"
-      ]
+      ],
+      "category": "security"
     },
     "qpd-v--mcp-delete": {
       "owner": "qpd-v",
@@ -3406,7 +3553,8 @@
         "mcp delete",
         "file deletion",
         "file removal"
-      ]
+      ],
+      "category": "security"
     },
     "rad-security--mcp-server": {
       "owner": "rad-security",
@@ -3429,7 +3577,8 @@
         "security rad",
         "security mcp",
         "kubernetes cloud"
-      ]
+      ],
+      "category": "security"
     },
     "rajbos--ghas-mcp-server": {
       "owner": "rajbos",
@@ -3452,7 +3601,8 @@
         "security rajbos",
         "security features",
         "rajbos ghas"
-      ]
+      ],
+      "category": "security"
     },
     "rand-tech--pcm": {
       "owner": "rand-tech",
@@ -3475,7 +3625,8 @@
         "pcm pcm",
         "pcm provides",
         "engineering binaries"
-      ]
+      ],
+      "category": "security"
     },
     "ricauts--CyberMCP": {
       "owner": "ricauts",
@@ -3498,7 +3649,8 @@
         "cybermcp tests",
         "cybermcp cybermcp",
         "ricauts cybermcp"
-      ]
+      ],
+      "category": "security"
     },
     "roadwy--cve-search_mcp": {
       "owner": "roadwy",
@@ -3521,7 +3673,8 @@
         "cve search",
         "cve search_mcp",
         "query cve"
-      ]
+      ],
+      "category": "security"
     },
     "safedep--vet": {
       "owner": "safedep",
@@ -3544,7 +3697,8 @@
         "safedep vet",
         "security safedep",
         "vet mcp"
-      ]
+      ],
+      "category": "security"
     },
     "sammcj--mcp-snyk": {
       "owner": "sammcj",
@@ -3567,7 +3721,8 @@
         "snyk security",
         "security sammcj",
         "snyk api"
-      ]
+      ],
+      "category": "security"
     },
     "sanyambassi--ciphertrust-manager-mcp-server": {
       "owner": "sanyambassi",
@@ -3590,7 +3745,8 @@
         "ciphertrust manager",
         "sanyambassi ciphertrust",
         "thales ciphertrust"
-      ]
+      ],
+      "category": "security"
     },
     "sanyambassi--thales-cdsp-cakm-mcp-server": {
       "owner": "sanyambassi",
@@ -3613,7 +3769,8 @@
         "security sanyambassi",
         "cdsp cakm",
         "server mcp"
-      ]
+      ],
+      "category": "security"
     },
     "sanyambassi--thales-cdsp-crdp-mcp-server": {
       "owner": "sanyambassi",
@@ -3636,7 +3793,8 @@
         "thales ciphertrust",
         "ciphertrust manager",
         "server mcp"
-      ]
+      ],
+      "category": "security"
     },
     "securityfortech--secops-mcp": {
       "owner": "securityfortech",
@@ -3659,7 +3817,8 @@
         "securityfortech secops",
         "secops mcp",
         "mcp security"
-      ]
+      ],
+      "category": "security"
     },
     "semgrep--semgrep": {
       "owner": "semgrep",
@@ -3682,7 +3841,8 @@
         "security semgrep",
         "semgrep scans",
         "enforces coding"
-      ]
+      ],
+      "category": "security"
     },
     "seoksik--Messenger-phishing-detection": {
       "owner": "seoksik",
@@ -3705,7 +3865,8 @@
         "messenger phishing",
         "phishing attacks",
         "phishing detection"
-      ]
+      ],
+      "category": "security"
     },
     "sfncat--mcp-joern": {
       "owner": "sfncat",
@@ -3728,7 +3889,8 @@
         "code inspection",
         "code analysis",
         "security sfncat"
-      ]
+      ],
+      "category": "security"
     },
     "sfz009900--kalilinuxmcp": {
       "owner": "sfz009900",
@@ -3751,7 +3913,8 @@
         "sfz009900 kalilinuxmcp",
         "security sfz009900",
         "kalilinuxmcp kali"
-      ]
+      ],
+      "category": "security"
     },
     "snyk--snyk-ls": {
       "owner": "snyk",
@@ -3774,7 +3937,8 @@
         "security snyk",
         "vulnerability scanning",
         "security diagnostics"
-      ]
+      ],
+      "category": "security"
     },
     "spences10--mcp-wsl-exec": {
       "owner": "spences10",
@@ -3797,7 +3961,8 @@
         "wsl exec",
         "linux wsl",
         "mcp wsl"
-      ]
+      ],
+      "category": "security"
     },
     "stefanskiasan--semgrep-mcp-server": {
       "owner": "stefanskiasan",
@@ -3820,7 +3985,8 @@
         "execution semgrep",
         "semgrep mcp",
         "semgrep scans"
-      ]
+      ],
+      "category": "security"
     },
     "stevenyu113228--BloodHound-MCP": {
       "owner": "stevenyu113228",
@@ -3843,7 +4009,8 @@
         "language queries",
         "stevenyu113228 bloodhound",
         "conversational commands"
-      ]
+      ],
+      "category": "security"
     },
     "the-freetech-company--mcp-sse-authenticated-cloud-run": {
       "owner": "the-freetech-company",
@@ -3866,7 +4033,8 @@
         "authenticated cloud",
         "google cloud",
         "secure mcp"
-      ]
+      ],
+      "category": "security"
     },
     "tumf--mcp-shell-server": {
       "owner": "tumf",
@@ -3889,7 +4057,8 @@
         "mcp shell",
         "commands securely",
         "security tumf"
-      ]
+      ],
+      "category": "security"
     },
     "turbot--steampipe-mcp": {
       "owner": "turbot",
@@ -3912,7 +4081,8 @@
         "analysis cloud",
         "steampipe mcp",
         "cloud infrastructure"
-      ]
+      ],
+      "category": "security"
     },
     "uui6yee--scrm": {
       "owner": "uui6yee",
@@ -3935,7 +4105,8 @@
         "security uui6yee",
         "browser fingerprint",
         "fingerprint injection"
-      ]
+      ],
+      "category": "security"
     },
     "vespo92--OPNSenseMCP": {
       "owner": "vespo92",
@@ -3958,7 +4129,8 @@
         "ngfw opnsense",
         "vespo92 opnsensemcp",
         "opnsensemcp mcp"
-      ]
+      ],
+      "category": "security"
     },
     "xpn--mythic_mcp": {
       "owner": "xpn",
@@ -3981,7 +4153,8 @@
         "xpn mythic_mcp",
         "mythic_mcp automated",
         "security xpn"
-      ]
+      ],
+      "category": "security"
     },
     "xue20010808--ThreatNews": {
       "owner": "xue20010808",
@@ -4004,7 +4177,8 @@
         "threatnews collects",
         "neo4j advanced",
         "xue20010808 threatnews"
-      ]
+      ],
+      "category": "security"
     },
     "zhangzhongnan928--mcp-blockchain-server": {
       "owner": "zhangzhongnan928",
@@ -4027,7 +4201,8 @@
         "mcp blockchain",
         "blockchain server",
         "blockchain smart"
-      ]
+      ],
+      "category": "security"
     },
     "zinja-coder--apktool-mcp-server": {
       "owner": "zinja-coder",
@@ -4050,7 +4225,8 @@
         "android apks",
         "engineering android",
         "coder apktool"
-      ]
+      ],
+      "category": "security"
     },
     "zinja-coder--jadx-ai-mcp": {
       "owner": "zinja-coder",
@@ -4073,7 +4249,8 @@
         "jadx decompiler",
         "mcp jadx",
         "coder jadx"
-      ]
+      ],
+      "category": "security"
     },
     "zm1990s--panw": {
       "owner": "zm1990s",
@@ -4096,7 +4273,8 @@
         "ai security",
         "security zm1990s",
         "security capabilities"
-      ]
+      ],
+      "category": "security"
     },
     "zoomeye-ai--mcp_zoomeye": {
       "owner": "zoomeye-ai",
@@ -4119,7 +4297,8 @@
         "security zoomeye",
         "mcp_zoomeye query",
         "zoomeye dorks"
-      ]
+      ],
+      "category": "security"
     }
   }
 }

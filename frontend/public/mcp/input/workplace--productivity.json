@@ -25,7 +25,8 @@
         "integration gmail",
         "google calendar",
         "gsuite integration"
-      ]
+      ],
+      "category": "workplace--productivity"
     },
     "bivex--kanboard-mcp": {
       "owner": "bivex",
@@ -48,7 +49,8 @@
         "kanboard api",
         "kanboard mcp",
         "commands kanboard"
-      ]
+      ],
+      "category": "workplace--productivity"
     },
     "giuseppe-coco--Google-Workspace-MCP-Server": {
       "owner": "giuseppe-coco",
@@ -71,7 +73,8 @@
         "workspace mcp",
         "mcp server",
         "server mcp"
-      ]
+      ],
+      "category": "workplace--productivity"
     },
     "takumi0706--google-calendar-mcp": {
       "owner": "takumi0706",
@@ -94,7 +97,8 @@
         "calendar mcp",
         "google calendar",
         "calendar api"
-      ]
+      ],
+      "category": "workplace--productivity"
     },
     "taylorwilsdon--google_workspace_mcp": {
       "owner": "taylorwilsdon",
@@ -117,7 +121,8 @@
         "google_workspace_mcp comprehensive",
         "taylorwilsdon google_workspace_mcp",
         "workspace mcp"
-      ]
+      ],
+      "category": "workplace--productivity"
     },
     "teamwork--mcp": {
       "owner": "teamwork",
@@ -140,7 +145,8 @@
         "teamwork mcp",
         "workplace productivity",
         "productivity teamwork"
-      ]
+      ],
+      "category": "workplace--productivity"
     },
     "tubasasakunn--context-apps-mcp": {
       "owner": "tubasasakunn",
@@ -163,7 +169,8 @@
         "productivity suite",
         "context apps",
         "workplace productivity"
-      ]
+      ],
+      "category": "workplace--productivity"
     },
     "vakharwalad23--google-mcp": {
       "owner": "vakharwalad23",
@@ -186,7 +193,8 @@
         "tools gmail",
         "google native",
         "mcp oauth"
-      ]
+      ],
+      "category": "workplace--productivity"
     }
   }
 }

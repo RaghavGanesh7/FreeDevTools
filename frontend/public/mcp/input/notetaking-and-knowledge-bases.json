@@ -25,7 +25,8 @@
         "mcp_style mcp",
         "mcp style",
         "ai workflows"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "9Ninety--MCPNotes": {
       "owner": "9Ninety",
@@ -48,7 +49,8 @@
         "note management",
         "manage notes",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Arcewoose--SeSac_study_repo": {
       "owner": "Arcewoose",
@@ -71,7 +73,8 @@
         "arcewoose sesac_study_repo",
         "sesac_study_repo document",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "CamdenClark--anki-mcp-server": {
       "owner": "CamdenClark",
@@ -94,7 +97,8 @@
         "anki manage",
         "anki decks",
         "access anki"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Cleversoft-IT--drupal-tools-mcp": {
       "owner": "Cleversoft-IT",
@@ -117,7 +121,8 @@
         "notes resources",
         "notes using",
         "stored notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "DJBuildIt--Claude-Think-MCP": {
       "owner": "DJBuildIt",
@@ -140,7 +145,8 @@
         "reasoning mode",
         "thought processes",
         "djbuildit claude"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Dingzeefs--mcp-apple-notes": {
       "owner": "Dingzeefs",
@@ -163,7 +169,8 @@
         "notes macos",
         "apple notes",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "DynamicEndpoints--mesh-scanner": {
       "owner": "DynamicEndpoints",
@@ -186,7 +193,8 @@
         "text notes",
         "notetaking knowledge",
         "notes dedicated"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Ejb503--systemprompt-mcp-notion": {
       "owner": "Ejb503",
@@ -209,7 +217,8 @@
         "ai workflows",
         "notion content",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Ejb503--systemprompt-mcp-reddit": {
       "owner": "Ejb503",
@@ -232,7 +241,8 @@
         "reddit manage",
         "social media",
         "manage subreddits"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "HeatherFlux--github-issue-mcp-server": {
       "owner": "HeatherFlux",
@@ -255,7 +265,8 @@
         "stored notes",
         "text notes",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "IraBond--obsidian-mcp-tools": {
       "owner": "IraBond",
@@ -278,7 +289,8 @@
         "obsidian mcp",
         "obsidian vaults",
         "irabond obsidian"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Jordanm37--mcp-obsidian": {
       "owner": "Jordanm37",
@@ -301,7 +313,8 @@
         "note management",
         "notes utilize",
         "obsidian vault"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "LeonMelamud--mysql-mcp": {
       "owner": "LeonMelamud",
@@ -324,7 +337,8 @@
         "mysql mcp",
         "mysql databases",
         "interact mysql"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "LeslieLeung--mcp-server-memos": {
       "owner": "LeslieLeung",
@@ -347,7 +361,8 @@
         "memo management",
         "memos using",
         "server memos"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Mistizz--mcp-JapaneseTextAnalyzer": {
       "owner": "Mistizz",
@@ -370,7 +385,8 @@
         "mcp japanesetextanalyzer",
         "japanesetextanalyzer analyzes",
         "analyzes japanese"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Pratik-Kumar-Cse--script-generation-mcp": {
       "owner": "Pratik-Kumar-Cse",
@@ -393,7 +409,8 @@
         "manage notes",
         "notes generating",
         "notes custom"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Promptly-Technologies-LLC--mcp-structured-thinking": {
       "owner": "Promptly-Technologies-LLC",
@@ -416,7 +433,8 @@
         "structured thinking",
         "structured thought",
         "construct mind"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "PublikPrinciple--obsidian-mcp-rest": {
       "owner": "PublikPrinciple",
@@ -439,7 +457,8 @@
         "obsidian vault",
         "publikprinciple obsidian",
         "access obsidian"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Rish-it--Notes-MCP": {
       "owner": "Rish-it",
@@ -462,7 +481,8 @@
         "notes mcp",
         "rish notes",
         "notes based"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Rupeebw--mcp-image-reader": {
       "owner": "Rupeebw",
@@ -485,7 +505,8 @@
         "note management",
         "summarizing notes",
         "notes efficiently"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Rwb3n--obsidian-mcp": {
       "owner": "Rwb3n",
@@ -508,7 +529,8 @@
         "rwb3n obsidian",
         "obsidian mcp",
         "integration obsidian"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "RyoJerryYu--mcp-server-memos-py": {
       "owner": "RyoJerryYu",
@@ -531,7 +553,8 @@
         "server memos",
         "memos py",
         "memo hub"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Siddhant-K-code--mcp-apple-notes": {
       "owner": "Siddhant-K-code",
@@ -554,7 +577,8 @@
         "apple notes",
         "notes using",
         "note content"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Sjotie--notionMCP": {
       "owner": "Sjotie",
@@ -577,7 +601,8 @@
         "knowledge bases",
         "ai assistants",
         "assistants notion"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Skywalker-Harrison--mcp-soduku": {
       "owner": "Skywalker-Harrison",
@@ -600,7 +625,8 @@
         "manage notes",
         "notes generating",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Spritualkb--nuclei-mcp": {
       "owner": "Spritualkb",
@@ -623,7 +649,8 @@
         "text notes",
         "notes using",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "StevenStavrakis--obsidian-mcp": {
       "owner": "StevenStavrakis",
@@ -646,7 +673,8 @@
         "stevenstavrakis obsidian",
         "obsidian vaults",
         "obsidian mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "Tom-Semple--mcp-apple-notes-fixed": {
       "owner": "Tom-Semple",
@@ -669,7 +697,8 @@
         "apple notes",
         "notes conversations",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "YanceyOfficial--obsidian-mcp": {
       "owner": "YanceyOfficial",
@@ -692,7 +721,8 @@
         "obsidian mcp",
         "obsidian vaults",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "YassineTk--mcp-docs-provider": {
       "owner": "YassineTk",
@@ -715,7 +745,8 @@
         "documentation enhancing",
         "mcp docs",
         "technical documentation"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "YuheiNakasaka--scrapbox-mcp": {
       "owner": "YuheiNakasaka",
@@ -738,7 +769,8 @@
         "yuheinakasaka scrapbox",
         "organize notes",
         "existing notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "ZubeidHendricks--azure-onenote-mcp-server": {
       "owner": "ZubeidHendricks",
@@ -761,7 +793,8 @@
         "azure onenote",
         "microsoft onenote",
         "onenote mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "adamdude828--mcp-browser-use": {
       "owner": "adamdude828",
@@ -784,7 +817,8 @@
         "note storage",
         "notes notes",
         "summarize notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "adiom-data--lance-mcp": {
       "owner": "adiom-data",
@@ -807,7 +841,8 @@
         "documents retrieval",
         "adiom data",
         "retrieval augmented"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "akseyh--bear-mcp-server": {
       "owner": "akseyh",
@@ -830,7 +865,8 @@
         "mcp server",
         "protocol mcp",
         "bear mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "aldrin-labs--solana-docs-mcp-server": {
       "owner": "aldrin-labs",
@@ -853,7 +889,8 @@
         "note resources",
         "text notes",
         "notes listing"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "alekspetrov--mcp-docs-service": {
       "owner": "alekspetrov",
@@ -876,7 +913,8 @@
         "docs service",
         "markdown documentation",
         "documentation natural"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "alexander-zuev--kollektiv-mcp": {
       "owner": "alexander-zuev",
@@ -899,7 +937,8 @@
         "mcp clients",
         "oauth communicates",
         "authenticates oauth"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "arre-ankit--notion-mcp-server": {
       "owner": "arre-ankit",
@@ -922,7 +961,8 @@
         "notion databases",
         "notion pages",
         "manage notion"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "awkoy--notion-mcp-server": {
       "owner": "awkoy",
@@ -945,7 +985,8 @@
         "notion api",
         "notion databases",
         "awkoy notion"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "bart6114--my-bear-mcp-server": {
       "owner": "bart6114",
@@ -968,7 +1009,8 @@
         "notetaking knowledge",
         "bear notes",
         "notes read"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "blackwhite084--playwright-plus-python-mcp": {
       "owner": "blackwhite084",
@@ -991,7 +1033,8 @@
         "playwright tools",
         "stored notes",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "bossjones--datetime-mcp-server": {
       "owner": "bossjones",
@@ -1014,7 +1057,8 @@
         "datetime mcp",
         "provides datetime",
         "datetime information"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "brysontang--DeltaTask": {
       "owner": "brysontang",
@@ -1037,7 +1081,8 @@
         "deltatask manage",
         "task management",
         "manage tasks"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "chatmcp--mcp-server-chatsum": {
       "owner": "chatmcp",
@@ -1060,7 +1105,8 @@
         "chatmcp mcp",
         "summarizes chat",
         "chatsum summarizes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "chatmcp--mcp-server-flomo": {
       "owner": "chatmcp",
@@ -1083,7 +1129,8 @@
         "flomo write",
         "server flomo",
         "chatmcp mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "cyanheads--obsidian-mcp-server": {
       "owner": "cyanheads",
@@ -1106,7 +1153,8 @@
         "llms obsidian",
         "obsidian vaults",
         "obsidian mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "dailydaniel--logseq-mcp": {
       "owner": "dailydaniel",
@@ -1129,7 +1177,8 @@
         "logseq knowledge",
         "dailydaniel logseq",
         "logseq mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "danosb--onenote-mcp": {
       "owner": "danosb",
@@ -1152,7 +1201,8 @@
         "danosb onenote",
         "onenote notebooks",
         "manage onenote"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "devassistantai--mcp-servers": {
       "owner": "devassistantai",
@@ -1175,7 +1225,8 @@
         "information chats",
         "ai assistant",
         "memory ai"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "dhkts1--sequentialStory": {
       "owner": "dhkts1",
@@ -1198,7 +1249,8 @@
         "sequential thinking",
         "stories sequential",
         "sequential thoughts"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "dlamichhane--my-resume": {
       "owner": "dlamichhane",
@@ -1221,7 +1273,8 @@
         "dlamichhane resume",
         "structured resume",
         "resume format"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "docdyhr--simplenote-mcp-server": {
       "owner": "docdyhr",
@@ -1244,7 +1297,8 @@
         "simplenote mcp",
         "simplenote notes",
         "manage simplenote"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "dragonjump--mcp-ARCknowledge": {
       "owner": "dragonjump",
@@ -1267,7 +1321,8 @@
         "knowledge base",
         "knowledge management",
         "knowledge bases"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "emmanuelsystems--mcpnotionslack": {
       "owner": "emmanuelsystems",
@@ -1290,7 +1345,8 @@
         "ai assistants",
         "notion workspaces",
         "emmanuelsystems mcpnotionslack"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "epicweb-dev--epic-me-mcp": {
       "owner": "epicweb-dev",
@@ -1313,7 +1369,8 @@
         "epicweb dev",
         "epic mcp",
         "dev epic"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "ergut--mcp-logseq": {
       "owner": "ergut",
@@ -1336,7 +1393,8 @@
         "logseq knowledge",
         "logseq interact",
         "interact logseq"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "feuerdev--keep-mcp": {
       "owner": "feuerdev",
@@ -1359,7 +1417,8 @@
         "google notes",
         "google productivity",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "freestylefly--mcp-server-weread": {
       "owner": "freestylefly",
@@ -1382,7 +1441,8 @@
         "notes intelligent",
         "notes reading",
         "reading notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "ghubnerr--Notion-MCP": {
       "owner": "ghubnerr",
@@ -1405,7 +1465,8 @@
         "notion workspaces",
         "manage tasks",
         "notion access"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "gregkonush--mcp-obsidian": {
       "owner": "gregkonush",
@@ -1428,7 +1489,8 @@
         "mcp obsidian",
         "obsidian manage",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "gyger--mcp-pyzotero": {
       "owner": "gyger",
@@ -1451,7 +1513,8 @@
         "zotero library",
         "api zotero",
         "local zotero"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "hannesrudolph--imessage-query-fastmcp-mcp-server": {
       "owner": "hannesrudolph",
@@ -1474,7 +1537,8 @@
         "hannesrudolph imessage",
         "imessage database",
         "imessage query"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "honeybluesky--my-apple-remembers": {
       "owner": "honeybluesky",
@@ -1497,7 +1561,8 @@
         "apple remembers",
         "apple notes",
         "saves memories"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "inkdropapp--mcp-server": {
       "owner": "inkdropapp",
@@ -1520,7 +1585,8 @@
         "inkdropapp mcp",
         "inkdrop access",
         "handling inkdrop"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "ipospelov--mcp-memory-bank": {
       "owner": "ipospelov",
@@ -1543,7 +1609,8 @@
         "memory bank",
         "structured memory",
         "ai context"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "jacksteamdev--obsidian-mcp-tools": {
       "owner": "jacksteamdev",
@@ -1566,7 +1633,8 @@
         "jacksteamdev obsidian",
         "obsidian mcp",
         "desktop obsidian"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "jeanibarz--knowledge-base-mcp-server": {
       "owner": "jeanibarz",
@@ -1589,7 +1657,8 @@
         "knowledge base",
         "knowledge bases",
         "semantic search"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "jlia0--servers": {
       "owner": "jlia0",
@@ -1612,7 +1681,8 @@
         "jlia0 servers",
         "memory ai",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "joelhooks--logseq-mcp-tools": {
       "owner": "joelhooks",
@@ -1635,7 +1705,8 @@
         "logseq knowledge",
         "joelhooks logseq",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "jonpojonpo--comfy-ui-mcp-server": {
       "owner": "jonpojonpo",
@@ -1658,7 +1729,8 @@
         "manage notes",
         "notes using",
         "summarizing notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "kimbj0204--khoj": {
       "owner": "kimbj0204",
@@ -1681,7 +1753,8 @@
         "ai assistant",
         "notetaking knowledge",
         "productivity automated"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "kj455--mcp-kibela": {
       "owner": "kj455",
@@ -1704,7 +1777,8 @@
         "kibela search",
         "kibela securely",
         "stored kibela"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "koladev32--mcp-discord-chat": {
       "owner": "koladev32",
@@ -1727,7 +1801,8 @@
         "notes discord",
         "discord chat",
         "summarizes notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "kujenga--zotero-mcp": {
       "owner": "kujenga",
@@ -1750,7 +1825,8 @@
         "zotero library",
         "manage zotero",
         "zotero mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "landicefu--divide-and-conquer-mcp-server": {
       "owner": "landicefu",
@@ -1773,7 +1849,8 @@
         "notetaking knowledge",
         "mcp server",
         "tasks manageable"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "liaoweiqiang-dao42--notion-api-mcp": {
       "owner": "liaoweiqiang-dao42",
@@ -1796,7 +1873,8 @@
         "notion api",
         "dao42 notion",
         "todos manage"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "lnehc--mcp-sequential-thinking": {
       "owner": "lnehc",
@@ -1819,7 +1897,8 @@
         "sequential thinking",
         "thinking process",
         "thinking facilitates"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "lucasoeth--mitmproxy-mcp": {
       "owner": "lucasoeth",
@@ -1842,7 +1921,8 @@
         "summarize notes",
         "note storage",
         "notes generate"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "m-siles--branch-thinking": {
       "owner": "m-siles",
@@ -1865,7 +1945,8 @@
         "branch thinking",
         "thinking manage",
         "manage branching"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "marcelmarais--obsidian-mcp-server": {
       "owner": "marcelmarais",
@@ -1888,7 +1969,8 @@
         "obsidian mcp",
         "obsidian app",
         "access obsidian"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "marcopesani--think-mcp-server": {
       "owner": "marcopesani",
@@ -1911,7 +1993,8 @@
         "structured thinking",
         "thinking step",
         "mechanism ai"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "markacianfrani--mcp-notes": {
       "owner": "markacianfrani",
@@ -1934,7 +2017,8 @@
         "notetaking knowledge",
         "notes personal",
         "notes searchable"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "mastercode-io--scaflog-zoho-mcp-server": {
       "owner": "mastercode-io",
@@ -1957,7 +2041,8 @@
         "manage notes",
         "zoho creator",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -1980,7 +2065,8 @@
         "knowledge bases",
         "persistent memory",
         "modelcontextprotocol servers"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "mtct--journaling-mcp": {
       "owner": "mtct",
@@ -2003,7 +2089,8 @@
         "mtct journaling",
         "interactive journaling",
         "journaling mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "mundume--gmail-mcp": {
       "owner": "mundume",
@@ -2026,7 +2113,8 @@
         "manage notes",
         "existing notes",
         "mundume gmail"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "nailuoGG--anki-mcp-server": {
       "owner": "nailuoGG",
@@ -2049,7 +2137,8 @@
         "anki flashcard",
         "interact anki",
         "anki mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "narphorium--mcp-memex": {
       "owner": "narphorium",
@@ -2072,7 +2161,8 @@
         "memex analyze",
         "notetaking knowledge",
         "analyze web"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "newtype-01--obsidian-mcp": {
       "owner": "newtype-01",
@@ -2095,7 +2185,8 @@
         "obsidian knowledge",
         "obsidian mcp",
         "knowledge bases"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "noah-vh--mcp-server-clickup": {
       "owner": "noah-vh",
@@ -2118,7 +2209,8 @@
         "organize notes",
         "notetaking knowledge",
         "add notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "ohardcore--awesome-interview-questions": {
       "owner": "ohardcore",
@@ -2141,7 +2233,8 @@
         "technical interview",
         "interview preparation",
         "awesome interview"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "pbteja1998--sourcesyncai-mcp": {
       "owner": "pbteja1998",
@@ -2164,7 +2257,8 @@
         "notetaking knowledge",
         "sourcesyncai mcp",
         "document management"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "peakmojo--applescript-mcp": {
       "owner": "peakmojo",
@@ -2187,7 +2281,8 @@
         "peakmojo applescript",
         "applescript commands",
         "applescript mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "rajvirtual--MCP-Servers": {
       "owner": "rajvirtual",
@@ -2210,7 +2305,8 @@
         "microsoft onenote",
         "onenote content",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "ramidecodes--mcp-server-notion": {
       "owner": "ramidecodes",
@@ -2233,7 +2329,8 @@
         "notion api",
         "notion workspaces",
         "using notion"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "regenrek--deepwiki-mcp": {
       "owner": "regenrek",
@@ -2256,7 +2353,8 @@
         "deepwiki com",
         "crawls deepwiki",
         "regenrek deepwiki"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "rickydata-indexer--notion_mcp_server": {
       "owner": "rickydata-indexer",
@@ -2279,7 +2377,8 @@
         "notion pages",
         "knowledge base",
         "notion knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "ryanjoachim--mcp-rtfm": {
       "owner": "ryanjoachim",
@@ -2302,7 +2401,8 @@
         "notetaking knowledge",
         "documentation content",
         "rtfm facilitates"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "seanivore--Convert-Markdown-PDF-MCP": {
       "owner": "seanivore",
@@ -2325,7 +2425,8 @@
         "markdown files",
         "markdown pdf",
         "convert markdown"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "shaunporwal--DICOM-MCP": {
       "owner": "shaunporwal",
@@ -2348,7 +2449,8 @@
         "dicom images",
         "summarize dicom",
         "dicom mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "shifusen329--doc-lib-mcp": {
       "owner": "shifusen329",
@@ -2371,7 +2473,8 @@
         "querying notes",
         "search documentation",
         "shifusen329 doc"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "sirmews--apple-notes-mcp": {
       "owner": "sirmews",
@@ -2394,7 +2497,8 @@
         "notes database",
         "apple notes",
         "note content"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "skydeckai--mcp-server-rememberizer": {
       "owner": "skydeckai",
@@ -2417,7 +2521,8 @@
         "rememberizer document",
         "server rememberizer",
         "rememberizer interact"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "soukouki--obsidian_fetch": {
       "owner": "soukouki",
@@ -2440,7 +2545,8 @@
         "note retrieval",
         "notes efficiently",
         "load notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "sseaan--mcp-server-inbox": {
       "owner": "sseaan",
@@ -2463,7 +2569,8 @@
         "notes inbox",
         "send notes",
         "supporting notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "stopWarByWar--beeper-mcp-server": {
       "owner": "stopWarByWar",
@@ -2486,7 +2593,8 @@
         "manage notes",
         "note access",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "swairshah--zotero-mcp-server": {
       "owner": "swairshah",
@@ -2509,7 +2617,8 @@
         "zotero library",
         "manage zotero",
         "zotero mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "takuya0206--obsidian-mcp": {
       "owner": "takuya0206",
@@ -2532,7 +2641,8 @@
         "interact obsidian",
         "obsidian mcp",
         "obsidian vault"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "tan-yong-sheng--triliumnext-mcp": {
       "owner": "tan-yong-sheng",
@@ -2555,7 +2665,8 @@
         "trilium notes",
         "sheng triliumnext",
         "triliumnext mcp"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "tcsavage--mcp-obsidian-index": {
       "owner": "tcsavage",
@@ -2578,7 +2689,8 @@
         "notes resources",
         "search obsidian",
         "obsidian index"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "teamcurri--mcp-linear": {
       "owner": "teamcurri",
@@ -2601,7 +2713,8 @@
         "text notes",
         "notetaking knowledge",
         "creating notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "teddylee777--mcpdoc": {
       "owner": "teddylee777",
@@ -2624,7 +2737,8 @@
         "mcpdoc provides",
         "llms txt",
         "list llms"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "tejpalvirk--contextmanager": {
       "owner": "tejpalvirk",
@@ -2647,7 +2761,8 @@
         "context management",
         "tejpalvirk contextmanager",
         "insight generation"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "tengfone--supabase-nextjs-mcp-server": {
       "owner": "tengfone",
@@ -2670,7 +2785,8 @@
         "supabase nextjs",
         "supabase backend",
         "tengfone supabase"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "tjl-with-code--Go-Interview": {
       "owner": "tjl-with-code",
@@ -2693,7 +2809,8 @@
         "tjl code",
         "programming interview",
         "code interview"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "truaxki--mcp-notes": {
       "owner": "truaxki",
@@ -2716,7 +2833,8 @@
         "notes manage",
         "manage notes",
         "notes persistent"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "tuncer-byte--memory-bank-MCP": {
       "owner": "tuncer-byte",
@@ -2739,7 +2857,8 @@
         "project documentation",
         "documentation ai",
         "structured project"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "v-3--notion-server": {
       "owner": "v-3",
@@ -2762,7 +2881,8 @@
         "notion server",
         "notetaking knowledge",
         "notion perform"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "vivalalova--mcp_practice": {
       "owner": "vivalalova",
@@ -2785,7 +2905,8 @@
         "notes tools",
         "notes functionality",
         "text notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "wavelovey--pubmed_search": {
       "owner": "wavelovey",
@@ -2808,7 +2929,8 @@
         "wavelovey pubmed_search",
         "notes stored",
         "individual notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "williamvd4--playwright-plus-python-mcp": {
       "owner": "williamvd4",
@@ -2831,7 +2953,8 @@
         "notetaking knowledge",
         "summarizing notes",
         "note storage"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "win4r--browser-use-MCP-Server": {
       "owner": "win4r",
@@ -2854,7 +2977,8 @@
         "stored notes",
         "text notes",
         "notes accessible"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "worldnine--scrapbox-cosense-mcp": {
       "owner": "worldnine",
@@ -2877,7 +3001,8 @@
         "scrapbox project",
         "scrapbox cosense",
         "interact scrapbox"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "wuyunmei--momedb-mcp": {
       "owner": "wuyunmei",
@@ -2900,7 +3025,8 @@
         "manage conversation",
         "dialogue knowledge",
         "knowledge base"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "xianminx--mcp-server-flomo": {
       "owner": "xianminx",
@@ -2923,7 +3049,8 @@
         "ai chat",
         "notes flomo",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "yodakeisuke--mcp-memory-domain-knowledge": {
       "owner": "yodakeisuke",
@@ -2946,7 +3073,8 @@
         "information chats",
         "chats using",
         "knowledge persistently"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "yuna0x0--hackmd-mcp": {
       "owner": "yuna0x0",
@@ -2969,7 +3097,8 @@
         "hackmd notes",
         "yuna0x0 hackmd",
         "interact hackmd"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "yura2100--sourcify-context-server": {
       "owner": "yura2100",
@@ -2992,7 +3121,8 @@
         "notes structured",
         "text notes",
         "notes using"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "yuzhi-jiang--memos-mcp": {
       "owner": "yuzhi-jiang",
@@ -3015,7 +3145,8 @@
         "memos instance",
         "memos mcp",
         "managing notes"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "zacharyliner1xds--my-sequential-thinking-mcp": {
       "owner": "zacharyliner1xds",
@@ -3038,7 +3169,8 @@
         "sequential thinking",
         "thinking pathways",
         "structured sequential"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     },
     "zongmin-yu--sqlite-literature-management-fastmcp-mcp-server": {
       "owner": "zongmin-yu",
@@ -3061,7 +3193,8 @@
         "knowledge bases",
         "sources entities",
         "notetaking knowledge"
-      ]
+      ],
+      "category": "notetaking-and-knowledge-bases"
     }
   }
 }

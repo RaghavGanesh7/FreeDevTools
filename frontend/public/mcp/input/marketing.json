@@ -25,7 +25,8 @@
         "marketing tools",
         "ads mcp",
         "mcp server"
-      ]
+      ],
+      "category": "marketing"
     },
     "gomarble-ai--google-ads-mcp-server": {
       "owner": "gomarble-ai",
@@ -48,7 +49,8 @@
         "marketing tools",
         "ads mcp",
         "mcp server"
-      ]
+      ],
+      "category": "marketing"
     },
     "marketplaceadpros--amazon-ads-mcp-server": {
       "owner": "marketplaceadpros",
@@ -71,7 +73,8 @@
         "marketplaceadpros amazon",
         "marketing tools",
         "guides marketplaceadpros"
-      ]
+      ],
+      "category": "marketing"
     },
     "open-strategy-partners--osp_marketing_tools": {
       "owner": "open-strategy-partners",
@@ -94,7 +97,8 @@
         "osp_marketing_tools suite",
         "marketing tools",
         "partners osp_marketing_tools"
-      ]
+      ],
+      "category": "marketing"
     },
     "pipeboard-co--meta-ads-mcp": {
       "owner": "pipeboard-co",
@@ -117,7 +121,8 @@
         "marketing tools",
         "ads automation",
         "meta ads"
-      ]
+      ],
+      "category": "marketing"
     },
     "stape-io--google-tag-manager-mcp-server": {
       "owner": "stape-io",
@@ -140,7 +145,8 @@
         "marketing tools",
         "tag manager",
         "io google"
-      ]
+      ],
+      "category": "marketing"
     },
     "stape-io--stape-mcp-server": {
       "owner": "stape-io",
@@ -163,7 +169,8 @@
         "marketing tools",
         "editing marketing",
         "marketing content"
-      ]
+      ],
+      "category": "marketing"
     }
   }
 }

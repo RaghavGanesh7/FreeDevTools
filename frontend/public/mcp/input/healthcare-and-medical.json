@@ -25,7 +25,8 @@
         "nexonco mcp",
         "mcp nexonco",
         "precision medicine"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "ChristianHinge--dicom-mcp": {
       "owner": "ChristianHinge",
@@ -48,7 +49,8 @@
         "documents dicom",
         "dicom format",
         "dicom mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "DMontgomery40--mcp-local-server": {
       "owner": "DMontgomery40",
@@ -71,7 +73,8 @@
         "birdwatching insights",
         "enhanced birdwatching",
         "analyze bird"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "HealthNoteLabs--Npub.Health": {
       "owner": "HealthNoteLabs",
@@ -94,7 +97,8 @@
         "healthnotelabs npub",
         "npub health",
         "medical healthnotelabs"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "JackKuo666--ChEMBL-MCP-Server": {
       "owner": "JackKuo666",
@@ -117,7 +121,8 @@
         "chembl database",
         "access chembl",
         "chembl mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "JackKuo666--ClinicalTrials-MCP-Server": {
       "owner": "JackKuo666",
@@ -140,7 +145,8 @@
         "jackkuo666 clinicaltrials",
         "clinicaltrials mcp",
         "medical jackkuo666"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "JackKuo666--medRxiv-MCP-Server": {
       "owner": "JackKuo666",
@@ -163,7 +169,8 @@
         "papers metadata",
         "retrieval paper",
         "medrxiv mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "Kartha-AI--agentcare-mcp": {
       "owner": "Kartha-AI",
@@ -186,7 +193,8 @@
         "fhir apis",
         "agentcare mcp",
         "ai agentcare"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "Kartha-AI--google-cloud-healthcare-api-mcp": {
       "owner": "Kartha-AI",
@@ -209,7 +217,8 @@
         "cloud healthcare",
         "healthcare api",
         "google cloud"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "NitayRabi--fitbit-mcp": {
       "owner": "NitayRabi",
@@ -232,7 +241,8 @@
         "fitbit health",
         "nitayrabi fitbit",
         "fitbit mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "TanvirHafiz--Medical-report-analyzer": {
       "owner": "TanvirHafiz",
@@ -255,7 +265,8 @@
         "medical tanvirhafiz",
         "tanvirhafiz medical",
         "medical reports"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "WTTeneger--food-tracker-mcp": {
       "owner": "WTTeneger",
@@ -278,7 +289,8 @@
         "food tracker",
         "nutrition manage",
         "wtteneger food"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "Wendong-Fan--HowToLiveLonger": {
       "owner": "Wendong-Fan",
@@ -301,7 +313,8 @@
         "improving longevity",
         "longevity nutrition",
         "lifestyle insights"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "acashmoney--bio-mcp": {
       "owner": "acashmoney",
@@ -324,7 +337,8 @@
         "protein databases",
         "bio mcp",
         "advanced protein"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "ahmedjemaa-tech--medical-coding-reproducibility": {
       "owner": "ahmedjemaa-tech",
@@ -347,7 +361,8 @@
         "medical coding",
         "datasets mimic",
         "coding reproducibility"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "bornpresident--Volatility-MCP-Server": {
       "owner": "bornpresident",
@@ -370,7 +385,8 @@
         "memory dumps",
         "analyze memory",
         "server analyze"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "ctvidic--whoop-mcp-server": {
       "owner": "ctvidic",
@@ -393,7 +409,8 @@
         "whoop data",
         "whoop api",
         "access whoop"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "eka-care--eka_mcp_server": {
       "owner": "eka-care",
@@ -416,7 +433,8 @@
         "medical eka",
         "care eka_mcp_server",
         "eka_mcp_server provides"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "evangstav--personal-mcp": {
       "owner": "evangstav",
@@ -439,7 +457,8 @@
         "medical evangstav",
         "evangstav personal",
         "personal mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "flexpa--mcp-fhir": {
       "owner": "flexpa",
@@ -462,7 +481,8 @@
         "search fhir",
         "fhir resources",
         "fhir access"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "fluxinc--dicom-mcp-server": {
       "owner": "fluxinc",
@@ -485,7 +505,8 @@
         "dicom workflows",
         "dicom connectivity",
         "managing dicom"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "genomoncology--biomcp": {
       "owner": "genomoncology",
@@ -508,7 +529,8 @@
         "biomedical databases",
         "authoritative biomedical",
         "genomoncology biomcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "gitkenan--doctair": {
       "owner": "gitkenan",
@@ -531,7 +553,8 @@
         "medical gitkenan",
         "gitkenan doctair",
         "deployment applications"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "jbdamask--mcp-nih-reporter": {
       "owner": "jbdamask",
@@ -554,7 +577,8 @@
         "nih reporter",
         "nih funded",
         "funded research"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "jmandel--health-record-mcp": {
       "owner": "jmandel",
@@ -577,7 +601,8 @@
         "health records",
         "health data",
         "health record"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "jpoles1--statpearls-mcp": {
       "owner": "jpoles1",
@@ -600,7 +625,8 @@
         "medical jpoles1",
         "statpearls formatted",
         "statpearls mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "leescot--pubmed-mcp-smithery": {
       "owner": "leescot",
@@ -623,7 +649,8 @@
         "pubmed database",
         "papers pubmed",
         "pubmed mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "manolaz--emergency-medicare-planner-mcp-server": {
       "owner": "manolaz",
@@ -646,7 +673,8 @@
         "emergency healthcare",
         "medical manolaz",
         "medicare planner"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "matthewdcage--pbs-mcp-server": {
       "owner": "matthewdcage",
@@ -669,7 +697,8 @@
         "healthcare data",
         "pharmaceutical data",
         "information medicines"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "mattjoyce--senechal-mcp": {
       "owner": "mattjoyce",
@@ -692,7 +721,8 @@
         "health data",
         "senechal api",
         "analyze health"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "msathiyakeerthi--google-cloud-healthcare-api-mcp": {
       "owner": "msathiyakeerthi",
@@ -715,7 +745,8 @@
         "healthcare api",
         "cloud healthcare",
         "fhir apis"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "navisbio--AACT_MCP": {
       "owner": "navisbio",
@@ -738,7 +769,8 @@
         "aact database",
         "trial data",
         "medical navisbio"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "pickleton89--mutation-clinical-trial-matching-mcp": {
       "owner": "pickleton89",
@@ -761,7 +793,8 @@
         "mutation clinical",
         "pickleton89 mutation",
         "medical pickleton89"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "r-huijts--firstcycling-mcp": {
       "owner": "r-huijts",
@@ -784,7 +817,8 @@
         "professional cycling",
         "cycling teams",
         "riders race"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "r-huijts--strava-mcp": {
       "owner": "r-huijts",
@@ -807,7 +841,8 @@
         "strava data",
         "strava mcp",
         "manage strava"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "rvibek--mcp_unhcr": {
       "owner": "rvibek",
@@ -830,7 +865,8 @@
         "unhcr refugee",
         "refugee statistics",
         "retrieving refugee"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "sssjiang--pubchem_mcp_server": {
       "owner": "sssjiang",
@@ -853,7 +889,8 @@
         "pubchem_mcp_server extracts",
         "sssjiang pubchem_mcp_server",
         "drugs pubchem"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "tomekkorbak--oura-mcp-server": {
       "owner": "tomekkorbak",
@@ -876,7 +913,8 @@
         "oura api",
         "sleep data",
         "oura mcp"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "uh-joan--cortellis-mcp-server": {
       "owner": "uh-joan",
@@ -899,7 +937,8 @@
         "drug database",
         "cortellis drug",
         "search drugs"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "vishwa684--unet": {
       "owner": "vishwa684",
@@ -922,7 +961,8 @@
         "biomedical image",
         "models biomedical",
         "decathlon dataset"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "vitaldb--medcalc": {
       "owner": "vitaldb",
@@ -945,7 +985,8 @@
         "vitaldb medcalc",
         "medical vitaldb",
         "medcalc perform"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "wodiluluya--Viewers": {
       "owner": "wodiluluya",
@@ -968,7 +1009,8 @@
         "medical wodiluluya",
         "wodiluluya viewers",
         "support dicomweb"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "wwwiena--covid_activity": {
       "owner": "wwwiena",
@@ -991,7 +1033,8 @@
         "wwwiena covid_activity",
         "covid_activity monitor",
         "analyze covid"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "xraywu--mcp-wegene-assistant": {
       "owner": "xraywu",
@@ -1014,7 +1057,8 @@
         "analyze genetic",
         "genetic testing",
         "medical xraywu"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "zhaoyouj--mcp-slicer": {
       "owner": "zhaoyouj",
@@ -1037,7 +1081,8 @@
         "mcp slicer",
         "3d slicer",
         "slicer environment"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     },
     "zinja-coder--apktool-mcp-server": {
       "owner": "zinja-coder",
@@ -1060,7 +1105,8 @@
         "engineering android",
         "android apks",
         "coder apktool"
-      ]
+      ],
+      "category": "healthcare-and-medical"
     }
   }
 }

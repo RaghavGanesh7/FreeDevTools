@@ -25,7 +25,8 @@
         "gaming game",
         "virtual house",
         "panel game"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "CoderGamester--mcp-unity": {
       "owner": "CoderGamester",
@@ -48,7 +49,8 @@
         "mcp unity",
         "unity editor",
         "codergamester mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "CoplayDev--unity-mcp": {
       "owner": "CoplayDev",
@@ -71,7 +73,8 @@
         "unity mcp",
         "coplaydev unity",
         "unity editor"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "ErgodicLabs--TwoTruthsAndATwist": {
       "owner": "ErgodicLabs",
@@ -94,7 +97,8 @@
         "trivia quizzes",
         "engage trivia",
         "unique gameplay"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "GeLi2001--tft-mcp-server": {
       "owner": "GeLi2001",
@@ -117,7 +121,8 @@
         "game data",
         "tft mcp",
         "tactics game"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "Hyeongseob91--mcp-server": {
       "owner": "Hyeongseob91",
@@ -140,7 +145,8 @@
         "visualizes recoil",
         "weapon recoil",
         "recoil patterns"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "IvanMurzak--Unity-MCP": {
       "owner": "IvanMurzak",
@@ -163,7 +169,8 @@
         "unity development",
         "bridge unity",
         "unity mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "JayArrowz--mcp-osrs": {
       "owner": "JayArrowz",
@@ -186,7 +193,8 @@
         "runescape wiki",
         "school runescape",
         "mcp osrs"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "Krekun--vrchat-mcp-osc": {
       "owner": "Krekun",
@@ -209,7 +217,8 @@
         "krekun vrchat",
         "interaction vrchat",
         "vrchat avatars"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "LifeforGame--DelphiDX12": {
       "owner": "LifeforGame",
@@ -232,7 +241,8 @@
         "lifeforgame delphidx12",
         "directx 12",
         "utilizing directx"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "MubarakHAlketbi--game-asset-mcp": {
       "owner": "MubarakHAlketbi",
@@ -255,7 +265,8 @@
         "game assets",
         "game asset",
         "game development"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "Saunved--mcp-server-clash-of-clans": {
       "owner": "Saunved",
@@ -278,7 +289,8 @@
         "clash clans",
         "clan statistics",
         "player clan"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "Simon-Kansara--ableton-live-mcp-server": {
       "owner": "Simon-Kansara",
@@ -301,7 +313,8 @@
         "ableton live",
         "live mcp",
         "mcp server"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "StevenFengLi--haiguitangmcp": {
       "owner": "StevenFengLi",
@@ -324,7 +337,8 @@
         "puzzle games",
         "implement game",
         "gameplay guided"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "TSavo--Unity-MCP": {
       "owner": "TSavo",
@@ -347,7 +361,8 @@
         "unity mcp",
         "ai assistants",
         "assistants unity"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "TeglonLabs--coin-flip-mcp": {
       "owner": "TeglonLabs",
@@ -370,7 +385,8 @@
         "random coin",
         "flip mcp",
         "coin flips"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "ahujasid--ableton-mcp": {
       "owner": "ahujasid",
@@ -393,7 +409,8 @@
         "ai ableton",
         "ahujasid ableton",
         "ableton live"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "ahujasid--blender-mcp": {
       "owner": "ahujasid",
@@ -416,7 +433,8 @@
         "ai blender",
         "ahujasid blender",
         "blender 3d"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "akiojin--playfab-mcp-server": {
       "owner": "akiojin",
@@ -439,7 +457,8 @@
         "playfab services",
         "playfab data",
         "playfab mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "arjunkmrm--mcp-minecraft": {
       "owner": "arjunkmrm",
@@ -462,7 +481,8 @@
         "mcp minecraft",
         "interact minecraft",
         "minecraft integration"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "awayzo--rpg": {
       "owner": "awayzo",
@@ -485,7 +505,8 @@
         "awayzo rpg",
         "multiplayer rpg",
         "rpg browser"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "ayeletstudioindia--unreal-analyzer-mcp": {
       "owner": "ayeletstudioindia",
@@ -508,7 +529,8 @@
         "unreal engine",
         "unreal analyzer",
         "source code"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "chromewillow--greyhack-mcp-server": {
       "owner": "chromewillow",
@@ -531,7 +553,8 @@
         "grey hack",
         "hack game",
         "chromewillow greyhack"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "cryppadotta--scryfall-mcp": {
       "owner": "cryppadotta",
@@ -554,7 +577,8 @@
         "scryfall api",
         "cryppadotta scryfall",
         "scryfall mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "dsp--mcp-server-steam": {
       "owner": "dsp",
@@ -577,7 +601,8 @@
         "steam api",
         "server steam",
         "dsp mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "freshlife001--mcp_poker": {
       "owner": "freshlife001",
@@ -600,7 +625,8 @@
         "mcp_poker connect",
         "freshlife001 mcp_poker",
         "poker game"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "gerred--mcpmc": {
       "owner": "gerred",
@@ -623,7 +649,8 @@
         "mcpmc mcpmc",
         "mcpmc mcp",
         "gerred mcpmc"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "gstarwd--doompdf": {
       "owner": "gstarwd",
@@ -646,7 +673,8 @@
         "gstarwd doompdf",
         "doompdf integrates",
         "doom game"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "itzg--docker-minecraft-server": {
       "owner": "itzg",
@@ -669,7 +697,8 @@
         "docker minecraft",
         "minecraft server",
         "itzg docker"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "jacksmith3888--wuwa-mcp-server": {
       "owner": "jacksmith3888",
@@ -692,7 +721,8 @@
         "wuwa mcp",
         "character information",
         "information characters"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "jiayao--mcp-chess": {
       "owner": "jiayao",
@@ -715,7 +745,8 @@
         "chess server",
         "mcp chess",
         "chess connect"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "jifrozen0110--mcp-riot": {
       "owner": "jifrozen0110",
@@ -738,7 +769,8 @@
         "league legends",
         "legends player",
         "player summaries"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "johnnyinlee--lol-client-mcp": {
       "owner": "johnnyinlee",
@@ -761,7 +793,8 @@
         "game data",
         "legends client",
         "retrieving game"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "karayaman--lichess-mcp": {
       "owner": "karayaman",
@@ -784,7 +817,8 @@
         "lichess chess",
         "chess platform",
         "karayaman lichess"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "kokushin--exia-mcp": {
       "owner": "kokushin",
@@ -807,7 +841,8 @@
         "exia visual",
         "kokushin exia",
         "development kokushin"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "kydycode--ableton-mcp-boost": {
       "owner": "kydycode",
@@ -830,7 +865,8 @@
         "kydycode ableton",
         "ableton mcp",
         "ai ableton"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "lieyanqzu--opendota-mcp-server": {
       "owner": "lieyanqzu",
@@ -853,7 +889,8 @@
         "game data",
         "player information",
         "data player"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "lieyanqzu--ygocdb-mcp": {
       "owner": "lieyanqzu",
@@ -876,7 +913,8 @@
         "ygocdb mcp",
         "card information",
         "card data"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "lobstercare--geofs-mcp": {
       "owner": "lobstercare",
@@ -899,7 +937,8 @@
         "flight simulator",
         "geofs flight",
         "aircraft geofs"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "mario-andreschak--mcp-gameboy": {
       "owner": "mario-andreschak",
@@ -922,7 +961,8 @@
         "gameboy emulator",
         "interact gameboy",
         "gameboy interact"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "monteslu--vibe-eyes": {
       "owner": "monteslu",
@@ -945,7 +985,8 @@
         "game development",
         "enhance debugging",
         "browser game"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "mtane0412--twitch-mcp-server": {
       "owner": "mtane0412",
@@ -968,7 +1009,8 @@
         "twitch api",
         "mtane0412 twitch",
         "twitch mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "nacal--mcp-minecraft-remote": {
       "owner": "nacal",
@@ -991,7 +1033,8 @@
         "mcp minecraft",
         "minecraft remote",
         "control minecraft"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "obinopaul--nba-mcp-server": {
       "owner": "obinopaul",
@@ -1014,7 +1057,8 @@
         "nba statistics",
         "game data",
         "player stats"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "opgginc--opgg-mcp": {
       "owner": "opgginc",
@@ -1037,7 +1081,8 @@
         "insights gameplay",
         "development opgginc",
         "opgg mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "pab1it0--chess-mcp": {
       "owner": "pab1it0",
@@ -1060,7 +1105,8 @@
         "pab1it0 chess",
         "chess data",
         "chess mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "planetarium--mcp-agent8": {
       "owner": "planetarium",
@@ -1083,7 +1129,8 @@
         "agent8 sdk",
         "mcp agent8",
         "connects agent8"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "playcanvas--editor-mcp-server": {
       "owner": "playcanvas",
@@ -1106,7 +1153,8 @@
         "playcanvas editor",
         "automate playcanvas",
         "development playcanvas"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "quazaai--UnityMCPIntegration": {
       "owner": "quazaai",
@@ -1129,7 +1177,8 @@
         "assistants unity",
         "ai assistants",
         "unity projects"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "royshil--obs-mcp": {
       "owner": "royshil",
@@ -1152,7 +1201,8 @@
         "obs studio",
         "obs websocket",
         "control obs"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "sawa-zen--vrchat-mcp": {
       "owner": "sawa-zen",
@@ -1175,7 +1225,8 @@
         "vrchat api",
         "access vrchat",
         "vrchat experience"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "saymondamasio--wongames-mcp": {
       "owner": "saymondamasio",
@@ -1198,7 +1249,8 @@
         "connect ai",
         "gaming game",
         "ai models"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "shreyaskarnik--mcpet": {
       "owner": "shreyaskarnik",
@@ -1221,7 +1273,8 @@
         "mcpet mcpet",
         "mcpet typescript",
         "shreyaskarnik mcpet"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "spirita1204--AI-Villgers": {
       "owner": "spirita1204",
@@ -1244,7 +1297,8 @@
         "ai villgers",
         "npc behaviors",
         "engage npcs"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "stjepko-xyz--mcp-server-runescape": {
       "owner": "stjepko-xyz",
@@ -1267,7 +1321,8 @@
         "server runescape",
         "data runescape",
         "runescape including"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "suxiongye--random-web3-mcp": {
       "owner": "suxiongye",
@@ -1290,7 +1345,8 @@
         "blockchain entropy",
         "random web3",
         "reliable random"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "tahooki--unreal-blender-mcp": {
       "owner": "tahooki",
@@ -1313,7 +1369,8 @@
         "unreal engine",
         "ai agents",
         "blender unreal"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "tonypan2--minesweeper-mcp-server": {
       "owner": "tonypan2",
@@ -1336,7 +1393,8 @@
         "minesweeper mcp",
         "gameplay minesweeper",
         "minesweeper server"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "triptych--opera-omnia-mcp": {
       "owner": "triptych",
@@ -1359,7 +1417,8 @@
         "datasets games",
         "games storytelling",
         "triptych opera"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "turlockmike--chess-mcp": {
       "owner": "turlockmike",
@@ -1382,7 +1441,8 @@
         "turlockmike chess",
         "analyze chess",
         "chess mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "v9rt3x--cs2-rcon-mcp": {
       "owner": "v9rt3x",
@@ -1405,7 +1465,8 @@
         "cs2 rcon",
         "rcon commands",
         "rcon mcp"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "veenastudio--flstudio-mcp": {
       "owner": "veenastudio",
@@ -1428,7 +1489,8 @@
         "flstudio mcp",
         "fl studio",
         "veenastudio flstudio"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "wangyafu--haiguitangmcp": {
       "owner": "wangyafu",
@@ -1451,7 +1513,8 @@
         "soup games",
         "games ai",
         "turtle soup"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "wilsonchenghy--ShaderToy-MCP": {
       "owner": "wilsonchenghy",
@@ -1474,7 +1537,8 @@
         "shadertoy querying",
         "shader development",
         "shaders based"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "yamaton--mcp-dice": {
       "owner": "yamaton",
@@ -1497,7 +1561,8 @@
         "mcp dice",
         "rolls dice",
         "dice rolls"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "yuniko-software--minecraft-mcp-server": {
       "owner": "yuniko-software",
@@ -1520,7 +1585,8 @@
         "software minecraft",
         "minecraft mcp",
         "control minecraft"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     },
     "zq19--CatchBall": {
       "owner": "zq19",
@@ -1543,7 +1609,8 @@
         "zq19 catchball",
         "catchball provide",
         "pause game"
-      ]
+      ],
+      "category": "gaming-and-game-development"
     }
   }
 }

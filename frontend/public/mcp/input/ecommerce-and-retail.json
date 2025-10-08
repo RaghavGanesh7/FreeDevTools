@@ -25,7 +25,8 @@
         "jlcpcb parts",
         "jlcpcb pcba",
         "compatible jlcpcb"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "AppleJax2--wordpress-mcp": {
       "owner": "AppleJax2",
@@ -48,7 +49,8 @@
         "applejax2 wordpress",
         "retail applejax2",
         "ecommerce retail"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Beyond-Network-AI--beyond-mcp-server": {
       "owner": "Beyond-Network-AI",
@@ -71,7 +73,8 @@
         "twitter integration",
         "social platform",
         "mcp server"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "CooKey-Monster--EbayMcpServer": {
       "owner": "CooKey-Monster",
@@ -94,7 +97,8 @@
         "monster ebaymcpserver",
         "ebaymcpserver fetches",
         "leveraging ebay"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Crossmint--mcp-crossmint-checkout": {
       "owner": "Crossmint",
@@ -117,7 +121,8 @@
         "retail crossmint",
         "crossmint checkout",
         "mcp crossmint"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Domoteek--mcp-server-airbnb": {
       "owner": "Domoteek",
@@ -140,7 +145,8 @@
         "airbnb search",
         "search airbnb",
         "airbnb listings"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Fewsats--fewsats-mcp": {
       "owner": "Fewsats",
@@ -163,7 +169,8 @@
         "retail fewsats",
         "fewsats mcp",
         "fewsats enable"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Funmula-Corp--BigGo-MCP-Server": {
       "owner": "Funmula-Corp",
@@ -186,7 +193,8 @@
         "biggo data",
         "ecommerce retail",
         "apis biggo"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "GeLi2001--shopify-mcp": {
       "owner": "GeLi2001",
@@ -209,7 +217,8 @@
         "manage shopify",
         "shopify store",
         "shopify mcp"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Hypefury--hypefury-mcp": {
       "owner": "Hypefury",
@@ -232,7 +241,8 @@
         "authenticate hypefury",
         "hypefury api",
         "retail hypefury"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "KhryptorGraphics--giggatek": {
       "owner": "KhryptorGraphics",
@@ -255,7 +265,8 @@
         "giggatek ecommerce",
         "giggatek giggatek",
         "khryptorgraphics giggatek"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Leonelberio--the-wordpress-mcp-server": {
       "owner": "Leonelberio",
@@ -278,7 +289,8 @@
         "ecommerce retail",
         "wordpress mcp",
         "wordpress rest"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "NFTGo--mcp-nftgo-api": {
       "owner": "NFTGo",
@@ -301,7 +313,8 @@
         "nftgo api",
         "analytics nfts",
         "retail nftgo"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "NosytLabs--KickMCP": {
       "owner": "NosytLabs",
@@ -324,7 +337,8 @@
         "nosytlabs kickmcp",
         "retail nosytlabs",
         "kick streaming"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Octember--flights-mcp-ts": {
       "owner": "Octember",
@@ -347,7 +361,8 @@
         "flights mcp",
         "octember flights",
         "mcp ts"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "PaddleHQ--paddle-mcp-server": {
       "owner": "PaddleHQ",
@@ -370,7 +385,8 @@
         "retail paddlehq",
         "paddle mcp",
         "paddle api"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Redtri-git--Ecomm-MCP": {
       "owner": "Redtri-git",
@@ -393,7 +409,8 @@
         "ecomm mcp",
         "product search",
         "ecommerce retail"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Shopify--dev-mcp": {
       "owner": "Shopify",
@@ -416,7 +433,8 @@
         "shopify dev",
         "retail shopify",
         "shopify apis"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "Sifu213--monad-mcp-magiceden": {
       "owner": "Sifu213",
@@ -439,7 +457,8 @@
         "nft data",
         "comprehensive nft",
         "nft insights"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "TSavo--printify-mcp": {
       "owner": "TSavo",
@@ -462,7 +481,8 @@
         "assistants printify",
         "tsavo printify",
         "printify mcp"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "ZubeidHendricks--youtube-mcp-server": {
       "owner": "ZubeidHendricks",
@@ -485,7 +505,8 @@
         "youtube mcp",
         "zubeidhendricks youtube",
         "youtube manage"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "asaricorp--mcp-shopify": {
       "owner": "asaricorp",
@@ -508,7 +529,8 @@
         "shopify manage",
         "manage shopify",
         "mcp shopify"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "attarmau--StyleCLIP": {
       "owner": "attarmau",
@@ -531,7 +553,8 @@
         "upload clothing",
         "clothing tag",
         "attarmau styleclip"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "bitrefill--bitrefill-mcp-server": {
       "owner": "bitrefill",
@@ -554,7 +577,8 @@
         "retail bitrefill",
         "bitrefill services",
         "bitrefill mcp"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "caiovicentino--mcpGOTAS": {
       "owner": "caiovicentino",
@@ -577,7 +601,8 @@
         "usdt cryptocurrency",
         "verification usdt",
         "cryptocurrency payments"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "charlesmuchene--pref-editor-mcp-server": {
       "owner": "charlesmuchene",
@@ -600,7 +625,8 @@
         "editing android",
         "preferences app",
         "ecommerce retail"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "clockworked247--flights-mcp-ts": {
       "owner": "clockworked247",
@@ -623,7 +649,8 @@
         "flights mcp",
         "flights finding",
         "mcp ts"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "dodopayments--dodopayments-typescript": {
       "owner": "dodopayments",
@@ -646,7 +673,8 @@
         "dodopayments typescript",
         "dodopayments dodopayments",
         "retail dodopayments"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "ericzakariasson--uber-eats-mcp-server": {
       "owner": "ericzakariasson",
@@ -669,7 +697,8 @@
         "uber eats",
         "mcp server",
         "integrate uber"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "everimbaq--mcp-nftgo-api": {
       "owner": "everimbaq",
@@ -692,7 +721,8 @@
         "nftgo api",
         "analytics nft",
         "nft data"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "findmine--findmine-mcp": {
       "owner": "findmine",
@@ -715,7 +745,8 @@
         "retail findmine",
         "findmine mcp",
         "findmine styling"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "hhw67865--tripadvisor-mcp-server": {
       "owner": "hhw67865",
@@ -738,7 +769,8 @@
         "tripadvisor mcp",
         "ecommerce retail",
         "tripadvisor data"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "ibraheem4--clover-mcp": {
       "owner": "ibraheem4",
@@ -761,7 +793,8 @@
         "merchant data",
         "merchant information",
         "clover merchant"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "ibraheem4--eventbrite-mcp": {
       "owner": "ibraheem4",
@@ -784,7 +817,8 @@
         "ibraheem4 eventbrite",
         "eventbrite mcp",
         "eventbrite api"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "jgarciaga--overseerr-mcp": {
       "owner": "jgarciaga",
@@ -807,7 +841,8 @@
         "overseerr mcp",
         "requests overseerr",
         "overseerr api"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "jmarcher--tasty-tales": {
       "owner": "jmarcher",
@@ -830,7 +865,8 @@
         "jmarcher tasty",
         "retail jmarcher",
         "interactive recipes"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "kukapay--uniswap-trader-mcp": {
       "owner": "kukapay",
@@ -853,7 +889,8 @@
         "uniswap trader",
         "trader mcp",
         "swaps uniswap"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "lumile--mercadolibre-mcp": {
       "owner": "lumile",
@@ -876,7 +913,8 @@
         "mercadolibre api",
         "ecommerce retail",
         "retail lumile"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "mgsrevolver--seo-inspector-mcp": {
       "owner": "mgsrevolver",
@@ -899,7 +937,8 @@
         "mgsrevolver seo",
         "seo inspector",
         "retail mgsrevolver"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "mikechao--balldontlie-mcp": {
       "owner": "mikechao",
@@ -922,7 +961,8 @@
         "balldontlie mcp",
         "sports data",
         "mlb queries"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "monostate--100ms-SPL-Token-Sniper-MCP": {
       "owner": "monostate",
@@ -945,7 +985,8 @@
         "snipe tokens",
         "spl token",
         "tokens raydium"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "newerton--mcp-mercado-livre": {
       "owner": "newerton",
@@ -968,7 +1009,8 @@
         "ecommerce retail",
         "retail newerton",
         "marketplace information"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "noahgsolomon--pumpfun-mcp-server": {
       "owner": "noahgsolomon",
@@ -991,7 +1033,8 @@
         "solana accounts",
         "managing solana",
         "pumpfun mcp"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "openbnb-org--mcp-server-airbnb": {
       "owner": "openbnb-org",
@@ -1014,7 +1057,8 @@
         "airbnb search",
         "airbnb listings",
         "search airbnb"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "opspawn--Google-Flights-MCP-Server": {
       "owner": "opspawn",
@@ -1037,7 +1081,8 @@
         "google flights",
         "flights mcp",
         "flight options"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "pashaydev--terminal.shop.mcp": {
       "owner": "pashaydev",
@@ -1060,7 +1105,8 @@
         "shop mcp",
         "ecommerce retail",
         "terminal shop"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "paypal--agent-toolkit": {
       "owner": "paypal",
@@ -1083,7 +1129,8 @@
         "paypal agent",
         "paypal apis",
         "integrate paypal"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "ravinahp--flights-mcp": {
       "owner": "ravinahp",
@@ -1106,7 +1153,8 @@
         "flight searches",
         "retrieve flight",
         "flight information"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "rishabh17081--paypal-au-subscription-connector": {
       "owner": "rishabh17081",
@@ -1129,7 +1177,8 @@
         "integrate paypal",
         "paypal account",
         "subscription connector"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "sellersmith--tailorkit-mcp": {
       "owner": "sellersmith",
@@ -1152,7 +1201,8 @@
         "integration shopify",
         "tailorkit mcp",
         "ecommerce retail"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "simonwfarrow--worldpay-mcp": {
       "owner": "simonwfarrow",
@@ -1175,7 +1225,8 @@
         "payment processing",
         "worldpay payment",
         "worldpay mcp"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "skudskud--test-repo-mcp": {
       "owner": "skudskud",
@@ -1198,7 +1249,8 @@
         "llm applications",
         "ecommerce retail",
         "retail skudskud"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "tanush-yadav--shopify-mcp": {
       "owner": "tanush-yadav",
@@ -1221,7 +1273,8 @@
         "yadav shopify",
         "shopify store",
         "shopify mcp"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "tdergouzi--mcp-server-web3": {
       "owner": "tdergouzi",
@@ -1244,7 +1297,8 @@
         "ecommerce retail",
         "integrates web3",
         "web3 capabilities"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "techspawn--woocommerce-mcp-server": {
       "owner": "techspawn",
@@ -1267,7 +1321,8 @@
         "woocommerce mcp",
         "ecommerce retail",
         "woocommerce store"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "therealhexi--shopify-mcp-server-main": {
       "owner": "therealhexi",
@@ -1290,7 +1345,8 @@
         "shopify store",
         "therealhexi shopify",
         "ecommerce retail"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     },
     "w-beom--shoppingMall": {
       "owner": "w-beom",
@@ -1313,7 +1369,8 @@
         "ecommerce retail",
         "shoppingmall web",
         "beom shoppingmall"
-      ]
+      ],
+      "category": "ecommerce-and-retail"
     }
   }
 }

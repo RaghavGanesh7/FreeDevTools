@@ -25,7 +25,8 @@
         "calendars cdatasoftware",
         "calendar data",
         "scheduling calendars"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "DynamicEndpoints--m365-bookings-mcp": {
       "owner": "DynamicEndpoints",
@@ -48,7 +49,8 @@
         "microsoft bookings",
         "bookings microsoft",
         "m365 bookings"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "GongRzhe--Calendar-Autoauth-MCP-Server": {
       "owner": "GongRzhe",
@@ -71,7 +73,8 @@
         "calendar autoauth",
         "google calendar",
         "scheduling calendars"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "ITworkonline--GoogleCalendarMCP": {
       "owner": "ITworkonline",
@@ -94,7 +97,8 @@
         "itworkonline googlecalendarmcp",
         "googlecalendarmcp manage",
         "calendars itworkonline"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "JavaProgrammerLB--zoom-mcp-server": {
       "owner": "JavaProgrammerLB",
@@ -117,7 +121,8 @@
         "schedule zoom",
         "zoom meetings",
         "javaprogrammerlb zoom"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "KaranThink41--Google_chat_mcp_server": {
       "owner": "KaranThink41",
@@ -140,7 +145,8 @@
         "gmail calendar",
         "google_chat_mcp_server manage",
         "scheduling calendars"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "MarkusPfundstein--mcp-gsuite": {
       "owner": "MarkusPfundstein",
@@ -163,7 +169,8 @@
         "mcp gsuite",
         "google calendar",
         "gsuite interact"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "Meeting-BaaS--meeting-mcp": {
       "owner": "Meeting-BaaS",
@@ -186,7 +193,8 @@
         "baas meeting",
         "calendars meeting",
         "manage meeting"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "Norcim133--OutlookMCPServer": {
       "owner": "Norcim133",
@@ -209,7 +217,8 @@
         "calendar microsoft",
         "calendars norcim133",
         "norcim133 outlookmcpserver"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "Omar-V2--mcp-ical": {
       "owner": "Omar-V2",
@@ -232,7 +241,8 @@
         "calendar management",
         "calendars omar",
         "scheduling calendars"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "SecretiveShell--MCP-timeserver": {
       "owner": "SecretiveShell",
@@ -255,7 +265,8 @@
         "mcp timeserver",
         "timeserver provides",
         "datetime uri"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "Softeria--ms-365-mcp-server": {
       "owner": "Softeria",
@@ -278,7 +289,8 @@
         "microsoft 365",
         "ms 365",
         "365 services"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "Soho-Spring--vue3-datapicker": {
       "owner": "Soho-Spring",
@@ -301,7 +313,8 @@
         "vue3 datapicker",
         "picker vue",
         "calendars soho"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "WilliamSuiself--remote-mcp": {
       "owner": "WilliamSuiself",
@@ -324,7 +337,8 @@
         "mcp server",
         "remote mcp",
         "mcp remote"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "ZeparHyfar--mcp-datetime": {
       "owner": "ZeparHyfar",
@@ -347,7 +361,8 @@
         "mcp datetime",
         "datetime strings",
         "generates datetime"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "alBERT-launcher--mcp-gsuite": {
       "owner": "alBERT-launcher",
@@ -370,7 +385,8 @@
         "gmail calendar",
         "mcp gsuite",
         "gsuite interact"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "am2rican5--mcp-google-calendar": {
       "owner": "am2rican5",
@@ -393,7 +409,8 @@
         "calendars am2rican5",
         "google calendar",
         "scheduling calendars"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "anoopt--outlook-meetings-scheduler-mcp-server": {
       "owner": "anoopt",
@@ -416,7 +433,8 @@
         "outlook meetings",
         "outlook calendar",
         "meetings scheduler"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "bastienchabal--gmail-mcp": {
       "owner": "bastienchabal",
@@ -439,7 +457,8 @@
         "gmail mcp",
         "bastienchabal gmail",
         "integrate gmail"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "bossjones--datetime-mcp-server": {
       "owner": "bossjones",
@@ -462,7 +481,8 @@
         "datetime mcp",
         "bossjones datetime",
         "provides datetime"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "cablate--mcp-google-calendar": {
       "owner": "cablate",
@@ -485,7 +505,8 @@
         "scheduling calendars",
         "calendar manage",
         "manage calendar"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "cool-man-vk--google-meet-mcp-server": {
       "owner": "cool-man-vk",
@@ -508,7 +529,8 @@
         "google meet",
         "meetings google",
         "meet programmatically"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "deciduus--calendar-mcp": {
       "owner": "deciduus",
@@ -531,7 +553,8 @@
         "calendars deciduus",
         "deciduus calendar",
         "calendar api"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "epaproditus--google-workspace-mcp-server": {
       "owner": "epaproditus",
@@ -554,7 +577,8 @@
         "calendars epaproditus",
         "gmail calendar",
         "calendar apis"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "erickva--google-workspace-mcp-server-no-calendar-deletetion": {
       "owner": "erickva",
@@ -577,7 +601,8 @@
         "gmail calendar",
         "scheduling calendars",
         "calendars erickva"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "j3k0--mcp-google-workspace": {
       "owner": "j3k0",
@@ -600,7 +625,8 @@
         "calendars j3k0",
         "google calendar",
         "interact gmail"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "jharkins--mcp-time-srv": {
       "owner": "jharkins",
@@ -623,7 +649,8 @@
         "calendars jharkins",
         "timezone conversions",
         "time srv"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "jikime--py-mcp-google-toolbox": {
       "owner": "jikime",
@@ -646,7 +673,8 @@
         "calendars jikime",
         "google services",
         "jikime py"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "jxnl--python-apple-mcp": {
       "owner": "jxnl",
@@ -669,7 +697,8 @@
         "jxnl python",
         "calendars jxnl",
         "interact macos"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "merajmehrabi--Outlook_Calendar_MCP": {
       "owner": "merajmehrabi",
@@ -692,7 +721,8 @@
         "merajmehrabi outlook_calendar_mcp",
         "outlook_calendar_mcp manage",
         "outlook calendar"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "mumunha--cal_dot_com_mcpserver": {
       "owner": "mumunha",
@@ -715,7 +745,8 @@
         "calendars mumunha",
         "scheduling calendars",
         "calendar appointments"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "nguyenvanduocit--all-in-one-model-context-protocol": {
       "owner": "nguyenvanduocit",
@@ -738,7 +769,8 @@
         "scheduling calendars",
         "calendars nguyenvanduocit",
         "powered workflows"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "nspady--google-calendar-mcp": {
       "owner": "nspady",
@@ -761,7 +793,8 @@
         "calendars nspady",
         "google calendar",
         "calendar mcp"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "odgrim--mcp-datetime": {
       "owner": "odgrim",
@@ -784,7 +817,8 @@
         "calendars odgrim",
         "mcp datetime",
         "datetime provides"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "powolnik--TaskaDoo": {
       "owner": "powolnik",
@@ -807,7 +841,8 @@
         "powolnik taskadoo",
         "taskadoo enhance",
         "calendars powolnik"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "raghavared--calendar-mcp": {
       "owner": "raghavared",
@@ -830,7 +865,8 @@
         "google calendar",
         "calendars raghavared",
         "calendar api"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "rishipradeep-think41--google-calendar-mcp": {
       "owner": "rishipradeep-think41",
@@ -853,7 +889,8 @@
         "google calendar",
         "scheduling calendars",
         "calendars rishipradeep"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "rishipradeep-think41--gsuite-mcp": {
       "owner": "rishipradeep-think41",
@@ -876,7 +913,8 @@
         "gsuite mcp",
         "gmail calendar",
         "emails scheduling"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "samay58--time-mcp": {
       "owner": "samay58",
@@ -899,7 +937,8 @@
         "samay58 time",
         "calendars samay58",
         "timezone aware"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "shadowfax92--apple-calendar-mcp": {
       "owner": "shadowfax92",
@@ -922,7 +961,8 @@
         "calendar mcp",
         "calendars shadowfax92",
         "apple calendars"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "syedazharmbnr1--claude-outlook-mcp": {
       "owner": "syedazharmbnr1",
@@ -945,7 +985,8 @@
         "outlook mcp",
         "microsoft outlook",
         "outlook manage"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "takumi0706--google-calendar-mcp": {
       "owner": "takumi0706",
@@ -968,7 +1009,8 @@
         "scheduling calendars",
         "calendars takumi0706",
         "calendar mcp"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "thisnick--google-calendar-mcp": {
       "owner": "thisnick",
@@ -991,7 +1033,8 @@
         "google calendar",
         "calendar mcp",
         "calendars thisnick"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "v-3--google-calendar": {
       "owner": "v-3",
@@ -1014,7 +1057,8 @@
         "scheduling calendars",
         "calendars google",
         "google calendar"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "vakharwalad23--google-mcp": {
       "owner": "vakharwalad23",
@@ -1037,7 +1081,8 @@
         "gmail calendar",
         "services gmail",
         "google services"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "watanka--schedulia-mcp": {
       "owner": "watanka",
@@ -1060,7 +1105,8 @@
         "calendars watanka",
         "scheduling calendars",
         "meeting schedules"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "wearesage--mcp-apple": {
       "owner": "wearesage",
@@ -1083,7 +1129,8 @@
         "wearesage mcp",
         "mcp apple",
         "calendars wearesage"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "wllcnm--dingding_mcp_v2": {
       "owner": "wllcnm",
@@ -1106,7 +1153,8 @@
         "interact dingtalk",
         "calendars wllcnm",
         "dingtalk functionalities"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "yokingma--time-mcp": {
       "owner": "yokingma",
@@ -1129,7 +1177,8 @@
         "calendars yokingma",
         "time mcp",
         "yokingma time"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "zacco16--gmail-mcp-server": {
       "owner": "zacco16",
@@ -1152,7 +1201,8 @@
         "gmail mcp",
         "zacco16 gmail",
         "gmail services"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     },
     "zhangzhongnan928--mcp-pa-ai-agent": {
       "owner": "zhangzhongnan928",
@@ -1175,7 +1225,8 @@
         "scheduling calendars",
         "manage calendar",
         "calendars zhangzhongnan928"
-      ]
+      ],
+      "category": "scheduling-and-calendars"
     }
   }
 }

@@ -25,12 +25,13 @@
         "sap abap",
         "servers abap",
         "abap based"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
-    "blustAI--paymcp) (Python & TypeScript": {
+    "blustAI--paymcp": {
       "owner": "blustAI",
-      "name": "paymcp) (Python & TypeScript",
-      "url": "https://github.com/blustAI/paymcp) (Python & TypeScript",
+      "name": "paymcp",
+      "url": "https://github.com/blustAI/paymcp",
       "imageUrl": "https://github.com/blustAI.png",
       "description": "Lightweight payments layer for MCP servers: turn tools into paid endpoints with a two-line decorator.  ·  ·",
       "stars": 0,
@@ -48,7 +49,8 @@
         "paymcp python",
         "blustai paymcp",
         "mcp servers"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
     "foobara--mcp-connector": {
       "owner": "foobara",
@@ -71,7 +73,8 @@
         "foobara commands",
         "foobara mcp",
         "servers foobara"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
     "mcpdotdirect--template-mcp-server": {
       "owner": "mcpdotdirect",
@@ -94,7 +97,8 @@
         "servers mcpdotdirect",
         "mcpdotdirect template",
         "mcp server"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
     "mojolicious--mojo-mcp": {
       "owner": "mojolicious",
@@ -117,12 +121,13 @@
         "clients perl",
         "mcp servers",
         "servers mojolicious"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
-    "php-mcp--server) (PHP": {
+    "php-mcp--server": {
       "owner": "php-mcp",
-      "name": "server) (PHP",
-      "url": "https://github.com/php-mcp/server) (PHP",
+      "name": "server",
+      "url": "https://github.com/php-mcp/server",
       "imageUrl": "https://github.com/php-mcp.png",
       "description": "Core PHP implementation for the Model Context Protocol (MCP) server",
       "stars": 0,
@@ -140,7 +145,8 @@
         "php mcp",
         "core php",
         "php core"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
     "posit-dev--mcptools": {
       "owner": "posit-dev",
@@ -163,12 +169,13 @@
         "dev mcptools",
         "mcp servers",
         "mcptools sdk"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
-    "raw-labs--mxcp) (Python": {
+    "raw-labs--mxcp": {
       "owner": "raw-labs",
-      "name": "mxcp) (Python",
-      "url": "https://github.com/raw-labs/mxcp) (Python",
+      "name": "mxcp",
+      "url": "https://github.com/raw-labs/mxcp",
       "imageUrl": "https://github.com/raw-labs.png",
       "description": "Open-source framework for building enterprise-grade MCP servers using just YAML, SQL, and Python, with built-in auth, monitoring, ETL and policy enforcement.",
       "stars": 0,
@@ -186,7 +193,8 @@
         "mxcp python",
         "labs mxcp",
         "mcp servers"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
     "universal-mcp--universal-mcp": {
       "owner": "universal-mcp",
@@ -209,12 +217,13 @@
         "mcp python",
         "mcp servers",
         "mcp universal"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
-    "vercel--mcp-adapter) (TypeScript": {
+    "vercel--mcp-adapter": {
       "owner": "vercel",
-      "name": "mcp-adapter) (TypeScript",
-      "url": "https://github.com/vercel/mcp-adapter) (TypeScript",
+      "name": "mcp-adapter",
+      "url": "https://github.com/vercel/mcp-adapter",
       "imageUrl": "https://github.com/vercel.png",
       "description": "A simple package to start serving an MCP server on most major JS meta-frameworks including Next, Nuxt, Svelte, and more.",
       "stars": 0,
@@ -232,12 +241,13 @@
         "mcp server",
         "frameworks servers",
         "adapter typescript"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
-    "vercel-labs--mcp-for-next.js) (Typescript": {
+    "vercel-labs--mcp-for-next.js": {
       "owner": "vercel-labs",
-      "name": "mcp-for-next.js) (Typescript",
-      "url": "https://github.com/vercel-labs/mcp-for-next.js) (Typescript",
+      "name": "mcp-for-next.js",
+      "url": "https://github.com/vercel-labs/mcp-for-next.js",
       "imageUrl": "https://github.com/vercel-labs.png",
       "description": "A starter Next.js project that uses the MCP Adapter to allow MCP clients to connect and access resources.",
       "stars": 0,
@@ -255,12 +265,13 @@
         "mcp js",
         "mcp clients",
         "frameworks servers"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     },
-    "zoedsoupe--anubis-mcp) (Elixir": {
+    "zoedsoupe--anubis-mcp": {
       "owner": "zoedsoupe",
-      "name": "anubis-mcp) (Elixir",
-      "url": "https://github.com/zoedsoupe/anubis-mcp) (Elixir",
+      "name": "anubis-mcp",
+      "url": "https://github.com/zoedsoupe/anubis-mcp",
       "imageUrl": "https://github.com/zoedsoupe.png",
       "description": "A high-performance and high-level Model Context Protocol (MCP) implementation in Elixir. Think like \"Live View\" for MCP.",
       "stars": 0,
@@ -278,7 +289,8 @@
         "context protocol",
         "frameworks servers",
         "mcp elixir"
-      ]
+      ],
+      "category": "frameworks-for-servers"
     }
   }
 }

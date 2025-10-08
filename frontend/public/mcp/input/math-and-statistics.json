@@ -25,7 +25,8 @@
         "mcp_calculate_server calculate",
         "calculate server",
         "611711dark mcp_calculate_server"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "EthanHenrickson--math-mcp": {
       "owner": "EthanHenrickson",
@@ -48,7 +49,8 @@
         "math mcp",
         "statistical operations",
         "math statistics"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "Garoth--wolframalpha-llm-mcp": {
       "owner": "Garoth",
@@ -71,7 +73,8 @@
         "llm api",
         "wolframalpha llm",
         "access wolframalpha"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "QuantGeekDev--mcp-add-sse": {
       "owner": "QuantGeekDev",
@@ -94,7 +97,8 @@
         "quantgeekdev mcp",
         "sse provides",
         "add sse"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "YuheiNakasaka--arithmetic-mcp-server": {
       "owner": "YuheiNakasaka",
@@ -117,7 +121,8 @@
         "arithmetic mcp",
         "yuheinakasaka arithmetic",
         "arithmetic operations"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "benhaotang--mcp-mma-docs": {
       "owner": "benhaotang",
@@ -140,7 +145,8 @@
         "streamline coding",
         "mcp mma",
         "mathematica documentation"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "bombe89--mcp-servers-test": {
       "owner": "bombe89",
@@ -163,7 +169,8 @@
         "bombe89 mcp",
         "mcp servers",
         "enabling arithmetic"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "brighteen--math": {
       "owner": "brighteen",
@@ -186,7 +193,8 @@
         "math statistics",
         "math provides",
         "statistics brighteen"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "colesmcintosh--numpy-mcp": {
       "owner": "colesmcintosh",
@@ -209,7 +217,8 @@
         "numpy mcp",
         "numpy including",
         "colesmcintosh numpy"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "eriktilio--mcp-langchain-integration": {
       "owner": "eriktilio",
@@ -232,7 +241,8 @@
         "integrates langchain",
         "langchain integration",
         "langchain google"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "falahgs--gemini-thinking-mcp": {
       "owner": "falahgs",
@@ -255,7 +265,8 @@
         "gemini thinking",
         "structured thinking",
         "capabilities gemini"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "githejie--mcp-server-calculator": {
       "owner": "githejie",
@@ -278,7 +289,8 @@
         "server calculator",
         "numerical calculations",
         "githejie mcp"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "githubpradeep--calc-mcp71": {
       "owner": "githubpradeep",
@@ -301,7 +313,8 @@
         "calculator functions",
         "arithmetic operations",
         "calc mcp71"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "githubpradeep--calc-mcp72": {
       "owner": "githubpradeep",
@@ -324,7 +337,8 @@
         "calculator functions",
         "arithmetic operations",
         "calc mcp72"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -347,7 +361,8 @@
         "modelcontextprotocol servers",
         "statistics modelcontextprotocol",
         "model context"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "nbiish--mcp-calc-tools": {
       "owner": "nbiish",
@@ -370,7 +385,8 @@
         "mcp calc",
         "calc tools",
         "nbiish mcp"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "pwh-pwh--cal-mcp": {
       "owner": "pwh-pwh",
@@ -393,7 +409,8 @@
         "mcp evaluate",
         "mathematical evaluations",
         "using expr"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "rishipradeep-think41--math-mcp": {
       "owner": "rishipradeep-think41",
@@ -416,7 +433,8 @@
         "calculation tools",
         "math mcp",
         "mcp provides"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "rohinigaonkar--mcp-math-macos": {
       "owner": "rohinigaonkar",
@@ -439,7 +457,8 @@
         "math macos",
         "keynote macos",
         "mathematical presentations"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "simonberner--mcp-server-calculator": {
       "owner": "simonberner",
@@ -462,7 +481,8 @@
         "server calculator",
         "calculator provides",
         "simonberner mcp"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "swaroopkasaraneni--math-mcp-server": {
       "owner": "swaroopkasaraneni",
@@ -485,7 +505,8 @@
         "protocol mcp",
         "dynamic computations",
         "swaroopkasaraneni math"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "swaroopkasaraneni--mcp-servers": {
       "owner": "swaroopkasaraneni",
@@ -508,7 +529,8 @@
         "mcp servers",
         "swaroopkasaraneni mcp",
         "mathematical computations"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "vinhphamai23--mcp-server-calculator": {
       "owner": "vinhphamai23",
@@ -531,7 +553,8 @@
         "server calculator",
         "numerical calculations",
         "precise numerical"
-      ]
+      ],
+      "category": "math-and-statistics"
     },
     "webdevtodayjason--slim-MCP": {
       "owner": "webdevtodayjason",
@@ -554,7 +577,8 @@
         "modular api",
         "webdevtodayjason slim",
         "mcp modular"
-      ]
+      ],
+      "category": "math-and-statistics"
     }
   }
 }

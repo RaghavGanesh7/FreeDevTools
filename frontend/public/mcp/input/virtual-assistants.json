@@ -25,7 +25,8 @@
         "virtual assistants",
         "ql chat",
         "chat mcp"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "AlexKissiJr--UnrealMCP": {
       "owner": "AlexKissiJr",
@@ -48,7 +49,8 @@
         "unreal engine",
         "unrealmcp control",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "AllAboutAI-YT--mcpgame": {
       "owner": "AllAboutAI-YT",
@@ -71,7 +73,8 @@
         "virtual assistants",
         "virtual house",
         "panel game"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Dreamboat-Rachel--MCP-Server-For-Local": {
       "owner": "Dreamboat-Rachel",
@@ -94,7 +97,8 @@
         "virtual assistants",
         "connect ai",
         "assistants dreamboat"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "GongRzhe--Audio-MCP-Server": {
       "owner": "GongRzhe",
@@ -117,7 +121,8 @@
         "audio mcp",
         "virtual assistants",
         "facilitates audio"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Krekun--vrchat-mcp-osc": {
       "owner": "Krekun",
@@ -140,7 +145,8 @@
         "interaction vrchat",
         "vrchat avatars",
         "krekun vrchat"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Kvadratni--speech-mcp": {
       "owner": "Kvadratni",
@@ -163,7 +169,8 @@
         "voice interface",
         "kvadratni speech",
         "assistants kvadratni"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "NosytLabs--KickMCP": {
       "owner": "NosytLabs",
@@ -186,7 +193,8 @@
         "nosytlabs kickmcp",
         "kick streaming",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Omar-V2--mcp-ical": {
       "owner": "Omar-V2",
@@ -209,7 +217,8 @@
         "calendar management",
         "macos conversational",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Simon-Kansara--ableton-live-mcp-server": {
       "owner": "Simon-Kansara",
@@ -232,7 +241,8 @@
         "virtual assistants",
         "ableton live",
         "live mcp"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Thelyoncrypt--MemGPT": {
       "owner": "Thelyoncrypt",
@@ -255,7 +265,8 @@
         "thelyoncrypt memgpt",
         "chatbots maintain",
         "creates chatbots"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "ThingsPanel--thingspanel-mcp": {
       "owner": "ThingsPanel",
@@ -278,7 +289,8 @@
         "assistants thingspanel",
         "thingspanel mcp",
         "thingspanel thingspanel"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Xiaoxinkeji--XBotV2": {
       "owner": "Xiaoxinkeji",
@@ -301,7 +313,8 @@
         "bot framework",
         "wechat bot",
         "xbotv2 comprehensive"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "Yash-Kavaiya--mcp-server-conversation-agents": {
       "owner": "Yash-Kavaiya",
@@ -324,7 +337,8 @@
         "virtual assistants",
         "ai assistants",
         "assistants dialogflow"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "a1351995160--Auto-GPT": {
       "owner": "a1351995160",
@@ -347,7 +361,8 @@
         "gpt autonomously",
         "auto gpt",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "agree-able--room-mcp": {
       "owner": "agree-able",
@@ -370,7 +385,8 @@
         "virtual rooms",
         "room protocol",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "alifakih1--discord-mcp": {
       "owner": "alifakih1",
@@ -393,7 +409,8 @@
         "discord mcp",
         "discord api",
         "discord bot"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "andybrandt--mcp-simple-openai-assistant": {
       "owner": "andybrandt",
@@ -416,7 +433,8 @@
         "openai assistant",
         "openai assistants",
         "interact openai"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "arjunkmrm--mcp-minecraft": {
       "owner": "arjunkmrm",
@@ -439,7 +457,8 @@
         "interact minecraft",
         "minecraft integration",
         "mcp minecraft"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "aviz85--mcp-agents-orchestra": {
       "owner": "aviz85",
@@ -462,7 +481,8 @@
         "virtual assistants",
         "agents orchestra",
         "mcp agents"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "baryhuang--mcp-remote-macos-use": {
       "owner": "baryhuang",
@@ -485,7 +505,8 @@
         "remote macos",
         "virtual assistants",
         "mcp remote"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "chaindead--telegram-mcp": {
       "owner": "chaindead",
@@ -508,7 +529,8 @@
         "assistants telegram",
         "telegram mcp",
         "telegram api"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "devizor--macOS-Notification-MCP": {
       "owner": "devizor",
@@ -531,7 +553,8 @@
         "macos notifications",
         "macos notification",
         "notifications voice"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "dryeab--mcp-telegram": {
       "owner": "dryeab",
@@ -554,7 +577,8 @@
         "models telegram",
         "mcp telegram",
         "telegram platform"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "dvcrn--mcp-server-siri-shortcuts": {
       "owner": "dvcrn",
@@ -577,7 +601,8 @@
         "siri shortcuts",
         "macos shortcuts",
         "shortcuts macos"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "emiliobool--MCP-Relay": {
       "owner": "emiliobool",
@@ -600,7 +625,8 @@
         "mcp relay",
         "virtual assistants",
         "communication ai"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "himanshu8271--Dragons": {
       "owner": "himanshu8271",
@@ -623,7 +649,8 @@
         "content telegram",
         "telegram user",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "htlin222--claude-chatgpt-mcp": {
       "owner": "htlin222",
@@ -646,7 +673,8 @@
         "interact chatgpt",
         "chatgpt mcp",
         "chatgpt desktop"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "hyperb1iss--droidmind": {
       "owner": "hyperb1iss",
@@ -669,7 +697,8 @@
         "hyperb1iss droidmind",
         "droidmind enables",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "hyy0612--chatbot": {
       "owner": "hyy0612",
@@ -692,7 +721,8 @@
         "hyy0612 chatbot",
         "chatbot provides",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "imgompanda--AutoGPT123": {
       "owner": "imgompanda",
@@ -715,7 +745,8 @@
         "virtual assistants",
         "imgompanda autogpt123",
         "ai agents"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "itsuzef--reaper-mcp": {
       "owner": "itsuzef",
@@ -738,7 +769,8 @@
         "workflows reaper",
         "reaper mcp",
         "midi composition"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "jlucaso1--whatsapp-mcp-ts": {
       "owner": "jlucaso1",
@@ -761,7 +793,8 @@
         "jlucaso1 whatsapp",
         "whatsapp mcp",
         "whatsapp accounts"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "logos-42--ANPtest": {
       "owner": "logos-42",
@@ -784,7 +817,8 @@
         "ai assistant",
         "ai agents",
         "connects ai"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "mfukushim--map-traveler-mcp": {
       "owner": "mfukushim",
@@ -807,7 +841,8 @@
         "map traveler",
         "traveler mcp",
         "immersive travel"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "mrexodia--user-feedback-mcp": {
       "owner": "mrexodia",
@@ -830,7 +865,8 @@
         "virtual assistants",
         "assistants mrexodia",
         "facilitates feedback"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "mrgeeko--vapi-mcp": {
       "owner": "mrgeeko",
@@ -853,7 +889,8 @@
         "voice assistants",
         "voice ai",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "popcornspace--voice-call-mcp-server": {
       "owner": "popcornspace",
@@ -876,7 +913,8 @@
         "virtual assistants",
         "voice mcp",
         "twilio openai"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "rsagacom--chatgpt-on-wechat": {
       "owner": "rsagacom",
@@ -899,7 +937,8 @@
         "dialogue service",
         "chatgpt wechat",
         "rsagacom chatgpt"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "scarletlabs-ai--Votars-MCP": {
       "owner": "scarletlabs-ai",
@@ -922,7 +961,8 @@
         "virtual assistants",
         "scarletlabs ai",
         "transcription intelligent"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "suryawanshishantanu6--time-mcp": {
       "owner": "suryawanshishantanu6",
@@ -945,7 +985,8 @@
         "virtual assistants",
         "augmented llm",
         "llm pipeline"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "tijs--py-sound-mcp": {
       "owner": "tijs",
@@ -968,7 +1009,8 @@
         "py sound",
         "sound mcp",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "uraoz--bouyomichan-mcp-nodejs": {
       "owner": "uraoz",
@@ -991,7 +1033,8 @@
         "yukkuri voice",
         "enabling voice",
         "voice output"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "veenastudio--flstudio-mcp": {
       "owner": "veenastudio",
@@ -1014,7 +1057,8 @@
         "fl studio",
         "flstudio mcp",
         "virtual assistants"
-      ]
+      ],
+      "category": "virtual-assistants"
     },
     "wangyafu--haiguitangmcp": {
       "owner": "wangyafu",
@@ -1037,7 +1081,8 @@
         "soup games",
         "games ai",
         "interactive turtle"
-      ]
+      ],
+      "category": "virtual-assistants"
     }
   }
 }

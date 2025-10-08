@@ -25,7 +25,8 @@
         "ai customer",
         "bot mcp",
         "provides ai"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "KaranThink41--hubspot_private_app": {
       "owner": "KaranThink41",
@@ -48,7 +49,8 @@
         "hubspot crm",
         "hubspot_private_app interact",
         "karanthink41 hubspot_private_app"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "Meerkats-Ai--prospeo-mcp-server": {
       "owner": "Meerkats-Ai",
@@ -71,7 +73,8 @@
         "data linkedin",
         "finding linkedin",
         "email finding"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "SheffieldP--hubspot_mcp": {
       "owner": "SheffieldP",
@@ -94,7 +97,8 @@
         "hubspot crm",
         "sheffieldp hubspot_mcp",
         "hubspot data"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "hmk--attio-mcp-server": {
       "owner": "hmk",
@@ -117,7 +121,8 @@
         "attio api",
         "attio mcp",
         "crm management"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "isaacraja--hubspot-mcp-server": {
       "owner": "isaacraja",
@@ -140,7 +145,8 @@
         "hubspot mcp",
         "crm insights",
         "crm sales"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "jasonmorganson--servers": {
       "owner": "jasonmorganson",
@@ -163,7 +169,8 @@
         "jasonmorganson servers",
         "tools jasonmorganson",
         "knowledge graph"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "lkm1developer--hubspot-mcp-server": {
       "owner": "lkm1developer",
@@ -186,7 +193,8 @@
         "hubspot crm",
         "assistants hubspot",
         "hubspot mcp"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "maton-ai--agent-toolkit": {
       "owner": "maton-ai",
@@ -209,7 +217,8 @@
         "agent toolkit",
         "maton services",
         "saas tools"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "peakmojo--mcp-hubspot": {
       "owner": "peakmojo",
@@ -232,7 +241,8 @@
         "hubspot crm",
         "mcp hubspot",
         "integrate hubspot"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "peancor--moodle-mcp-server": {
       "owner": "peancor",
@@ -255,7 +265,8 @@
         "manage moodle",
         "moodle courses",
         "moodle mcp"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "reminia--zendesk-mcp-server": {
       "owner": "reminia",
@@ -278,7 +289,8 @@
         "zendesk managing",
         "zendesk mcp",
         "access zendesk"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "salesforce-mcp--salesforce-mcp": {
       "owner": "salesforce-mcp",
@@ -301,7 +313,8 @@
         "mcp salesforce",
         "salesforce mcp",
         "tools salesforce"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "scopiousdigital--hubspot-mcp": {
       "owner": "scopiousdigital",
@@ -324,7 +337,8 @@
         "hubspot crm",
         "hubspot mcp",
         "crm sales"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "shinzo-labs--hubspot-mcp": {
       "owner": "shinzo-labs",
@@ -347,7 +361,8 @@
         "hubspot api",
         "manage crm",
         "crm data"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "smn2gnt--MCP-Salesforce": {
       "owner": "smn2gnt",
@@ -370,7 +385,8 @@
         "mcp salesforce",
         "tools smn2gnt",
         "smn2gnt mcp"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "tsmztech--mcp-server-salesforce": {
       "owner": "tsmztech",
@@ -393,7 +409,8 @@
         "tools tsmztech",
         "tsmztech mcp",
         "crm sales"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "usama-dtc--salesforce_mcp": {
       "owner": "usama-dtc",
@@ -416,7 +433,8 @@
         "tools usama",
         "dtc salesforce_mcp",
         "sales tools"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     },
     "xraywu--mcp-wegene-assistant": {
       "owner": "xraywu",
@@ -439,7 +457,8 @@
         "testing reports",
         "analyze genetic",
         "genetic testing"
-      ]
+      ],
+      "category": "crm-and-sales-tools"
     }
   }
 }

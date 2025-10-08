@@ -25,7 +25,8 @@
         "browser automation",
         "browserbase mcp",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "302ai--302_browser_use_mcp": {
       "owner": "302ai",
@@ -48,7 +49,8 @@
         "302ai browser",
         "browser automation",
         "302_browser_use_mcp 302ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "3rzy--make-mcp-integration-issue": {
       "owner": "3rzy",
@@ -71,7 +73,8 @@
         "automation web",
         "make automation",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "AB498--computer-control-mcp": {
       "owner": "AB498",
@@ -94,7 +97,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "AdamPippert--multi-service-mcp-server": {
       "owner": "AdamPippert",
@@ -117,7 +121,8 @@
         "automation web",
         "browser automation",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "AgentDeskAI--browser-tools-mcp": {
       "owner": "AgentDeskAI",
@@ -140,7 +145,8 @@
         "browser automation",
         "agentdeskai browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Ashish-Bansal--playwright-mcp": {
       "owner": "Ashish-Bansal",
@@ -163,7 +169,8 @@
         "browser automation",
         "automation web",
         "content ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "BrowserMCP--mcp": {
       "owner": "BrowserMCP",
@@ -186,7 +193,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Claw256--mcp-web-search": {
       "owner": "Claw256",
@@ -209,7 +217,8 @@
         "browser automation",
         "automation web",
         "searching scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Cooooper--KKJSBridge": {
       "owner": "Cooooper",
@@ -232,7 +241,8 @@
         "browser automation",
         "automation web",
         "wkwebview experience"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Dbillionaer--browser-tools-mcp": {
       "owner": "Dbillionaer",
@@ -255,7 +265,8 @@
         "browser automation",
         "automation web",
         "browser tools"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "FunPayViper--FunPayViper": {
       "owner": "FunPayViper",
@@ -278,7 +289,8 @@
         "browser automation",
         "funpayviper automate",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "GitDzreal93--uiautomator2-mcp": {
       "owner": "GitDzreal93",
@@ -301,7 +313,8 @@
         "browser automation",
         "automation web",
         "provides automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "GroundNG--VibeShift": {
       "owner": "GroundNG",
@@ -324,7 +337,8 @@
         "automation web",
         "browser automation",
         "automates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "JigsawStack--jigsawstack-mcp-server": {
       "owner": "JigsawStack",
@@ -347,7 +361,8 @@
         "browser automation",
         "automation web",
         "formats jigsawstack"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "JonaFly--RednoteMCP": {
       "owner": "JonaFly",
@@ -370,7 +385,8 @@
         "browser automation",
         "automation web",
         "rednotemcp automates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "JustasMonkev--mcp-accessibility-scanner": {
       "owner": "JustasMonkev",
@@ -393,53 +409,8 @@
         "web accessibility",
         "browser automation",
         "automation web"
-      ]
-    },
-    "Kotelberg--playwright-mcp-server": {
-      "owner": "Kotelberg",
-      "name": "playwright-mcp-server",
-      "url": "https://github.com/Kotelberg/playwright-mcp-server",
-      "imageUrl": "https://github.com/Kotelberg.png",
-      "description": "Retrieve web page content and interact with it by simulating user actions, navigating pages, and extracting data using a standardized protocol.",
-      "stars": 0,
-      "forks": 0,
-      "license": "No License",
-      "language": "",
-      "updated_at": "2025-03-15T10:13:00Z",
-      "readme_content": "# Playwright MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@showfive/playwright-mcp-server)](https://smithery.ai/server/@showfive/playwright-mcp-server)\n\nEnglish | [日本語](README.ja.md)\n\nThis project is a server that provides Playwright web page content retrieval functionality using the Model Context Protocol (MCP).\n\n## Features\n\n- Page navigation\n- Full page content retrieval\n- Visible content retrieval\n- Interactive elements detection\n- Mouse operation simulation\n- Echo functionality for testing\n\n## Installation\n\n### Installing via Smithery\n\nTo install Playwright MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@showfive/playwright-mcp-server):\n\n```bash\nnpx -y @smithery/cli install @showfive/playwright-mcp-server --client claude\n```\n\n### Manual Installation\n```bash\nnpm install\n```\n\n## Usage\n\n### Starting the Server\n\n```bash\nnpm run build\nnpm start\n```\n\n### MCP Tools\n\nThe following tools are available:\n\n1. `navigate`\n   - Navigate to a specified URL\n   - Arguments: `{ url: string }`\n   - Returns: Navigation result\n\n2. `get_all_content`\n   - Retrieve content from the entire page\n   - Arguments: None\n   - Returns: All text content from the page\n\n3. `get_visible_content`\n   - Retrieve currently visible content\n   - Arguments: `{ minVisiblePercentage?: number }`\n   - Returns: Visible text content\n\n4. `get_interactive_elements`\n   - Get position information of interactive elements (buttons, links, etc.) on the page\n   - Arguments: None\n   - Returns: Coordinates and boundary information of interactive elements\n\n5. `move_mouse`\n   - Move mouse cursor to specified coordinates\n   - Arguments: `{ x: number, y: number }`\n   - Returns: Operation result\n\n6. `mouse_click`\n   - Execute mouse click at specified coordinates\n   - Arguments: `{ x: number, y: number, button?: \"left\" | \"right\" | \"middle\", clickCount?: number }`\n   - Returns: Click operation result\n\n7. `mouse_wheel`\n   - Execute mouse wheel scrolling\n   - Arguments: `{ deltaY: number, deltaX?: number }`\n   - Returns: Scroll operation result\n\n8. `drag_and_drop`\n   - Execute drag and drop operation\n   - Arguments: `{ sourceX: number, sourceY: number, targetX: number, targetY: number }`\n   - Returns: Drag and drop operation result\n\n9. `echo`\n   - Echo tool for testing\n   - Arguments: `{ message: string }`\n   - Returns: Sent message\n\n## Development\n\n### Running Tests\n\n```bash\n# Run all tests\nnpm test\n\n# Run tests in watch mode\nnpm run test:watch\n\n# Generate coverage report\nnpm run test:coverage\n```\n\n### Test Structure\n\n- `tools/*.test.ts`: Function tests for each tool\n- `mcp-server.test.ts`: MCP server function tests\n\n## Implementation Features\n\n1. Content Retrieval\n   - Full page content retrieval\n   - Visible content only retrieval\n   - Proper HTML parsing\n\n2. Interaction\n   - Detection and position information retrieval of interactive elements\n   - Mouse operation simulation (movement, clicks, scrolling)\n   - Drag and drop support\n\n3. Error Handling\n   - Proper navigation error handling\n   - Timeout processing\n   - Invalid URL detection\n\n4. Configuration Flexibility\n   - Headless/head mode selection\n   - Custom user agent\n   - Viewport size settings\n\n## Important Notes\n\n- Ensure necessary environment variables are set before using the MCP server\n- Follow the terms of service of target websites when retrieving web page content\n- Maintain appropriate intervals when sending multiple requests\n- When performing mouse operations, maintain appropriate intervals as they simulate actual user interactions\n\n## License\n\nISC\n",
-      "npm_url": "https://www.npmjs.com/package/playwright-mcp-server",
-      "npm_downloads": 5469,
-      "keywords": [
-        "automation",
-        "web",
-        "browser",
-        "browser automation",
-        "automation web",
-        "processing web"
-      ]
-    },
-    "Krieg2065--firecrawl-mcp-server": {
-      "owner": "Krieg2065",
-      "name": "firecrawl-mcp-server",
-      "url": "https://github.com/Krieg2065/firecrawl-mcp-server",
-      "imageUrl": "https://github.com/Krieg2065.png",
-      "description": "Enables advanced web scraping and content extraction, supporting JavaScript rendering and batch processing for deep research. It includes features for automatic retries and efficient data integration while monitoring credit usage and handling rate limits.",
-      "stars": 2,
-      "forks": 1,
-      "license": "MIT License",
-      "language": "",
-      "updated_at": "2025-08-15T01:07:39Z",
-      "readme_content": "# Firecrawl MCP Server\n\nA Model Context Protocol (MCP) server implementation that integrates with [Firecrawl](https://github.com/mendableai/firecrawl) for web scraping capabilities.\n\n> Big thanks to [@vrknetha](https://github.com/vrknetha), [@cawstudios](https://caw.tech) for the initial implementation!\n>\n> You can also play around with [our MCP Server on MCP.so's playground](https://mcp.so/playground?server=firecrawl-mcp-server). Thanks to MCP.so for hosting and [@gstarwd](https://github.com/gstarwd) for integrating our server.\n\n## Features\n\n- Scrape, crawl, search, extract, deep research and batch scrape support\n- Web scraping with JS rendering\n- URL discovery and crawling\n- Web search with content extraction\n- Automatic retries with exponential backoff\n  - Efficient batch processing with built-in rate limiting\n- Credit usage monitoring for cloud API\n- Comprehensive logging system\n- Support for cloud and self-hosted Firecrawl instances\n- Mobile/Desktop viewport support\n- Smart content filtering with tag inclusion/exclusion\n\n## Installation\n\n### Running with npx\n\n```bash\nenv FIRECRAWL_API_KEY=fc-YOUR_API_KEY npx -y firecrawl-mcp\n```\n\n### Manual Installation\n\n```bash\nnpm install -g firecrawl-mcp\n```\n\n### Running on Cursor\n\nConfiguring Cursor 🖥️\nNote: Requires Cursor version 0.45.6+\nFor the most up-to-date configuration instructions, please refer to the official Cursor documentation on configuring MCP servers:\n[Cursor MCP Server Configuration Guide](https://docs.cursor.com/context/model-context-protocol#configuring-mcp-servers)\n\nTo configure Firecrawl MCP in Cursor **v0.45.6**\n\n1. Open Cursor Settings\n2. Go to Features > MCP Servers\n3. Click \"+ Add New MCP Server\"\n4. Enter the following:\n   - Name: \"firecrawl-mcp\" (or your preferred name)\n   - Type: \"command\"\n   - Command: `env FIRECRAWL_API_KEY=your-api-key npx -y firecrawl-mcp`\n\nTo configure Firecrawl MCP in Cursor **v0.48.6**\n\n1. Open Cursor Settings\n2. Go to Features > MCP Servers\n3. Click \"+ Add new global MCP server\"\n4. Enter the following code:\n   ```json\n   {\n     \"mcpServers\": {\n       \"firecrawl-mcp\": {\n         \"command\": \"npx\",\n         \"args\": [\"-y\", \"firecrawl-mcp\"],\n         \"env\": {\n           \"FIRECRAWL_API_KEY\": \"YOUR-API-KEY\"\n         }\n       }\n     }\n   }\n   ```\n\n> If you are using Windows and are running into issues, try `cmd /c \"set FIRECRAWL_API_KEY=your-api-key && npx -y firecrawl-mcp\"`\n\nReplace `your-api-key` with your Firecrawl API key. If you don't have one yet, you can create an account and get it from https://www.firecrawl.dev/app/api-keys\n\nAfter adding, refresh the MCP server list to see the new tools. The Composer Agent will automatically use Firecrawl MCP when appropriate, but you can explicitly request it by describing your web scraping needs. Access the Composer via Command+L (Mac), select \"Agent\" next to the submit button, and enter your query.\n\n### Running on Windsurf\n\nAdd this to your `./codeium/windsurf/model_config.json`:\n\n```json\n{\n  \"mcpServers\": {\n    \"mcp-server-firecrawl\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"firecrawl-mcp\"],\n      \"env\": {\n        \"FIRECRAWL_API_KEY\": \"YOUR_API_KEY\"\n      }\n    }\n  }\n}\n```\n\n### Installing via Smithery (Legacy)\n\nTo install Firecrawl for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@mendableai/mcp-server-firecrawl):\n\n```bash\nnpx -y @smithery/cli install @mendableai/mcp-server-firecrawl --client claude\n```\n\n## Configuration\n\n### Environment Variables\n\n#### Required for Cloud API\n\n- `FIRECRAWL_API_KEY`: Your Firecrawl API key\n  - Required when using cloud API (default)\n  - Optional when using self-hosted instance with `FIRECRAWL_API_URL`\n- `FIRECRAWL_API_URL` (Optional): Custom API endpoint for self-hosted instances\n  - Example: `https://firecrawl.your-domain.com`\n  - If not provided, the cloud API will be used (requires API key)\n\n#### Optional Configuration\n\n##### Retry Configuration\n\n- `FIRECRAWL_RETRY_MAX_ATTEMPTS`: Maximum number of retry attempts (default: 3)\n- `FIRECRAWL_RETRY_INITIAL_DELAY`: Initial delay in milliseconds before first retry (default: 1000)\n- `FIRECRAWL_RETRY_MAX_DELAY`: Maximum delay in milliseconds between retries (default: 10000)\n- `FIRECRAWL_RETRY_BACKOFF_FACTOR`: Exponential backoff multiplier (default: 2)\n\n##### Credit Usage Monitoring\n\n- `FIRECRAWL_CREDIT_WARNING_THRESHOLD`: Credit usage warning threshold (default: 1000)\n- `FIRECRAWL_CREDIT_CRITICAL_THRESHOLD`: Credit usage critical threshold (default: 100)\n\n### Configuration Examples\n\nFor cloud API usage with custom retry and credit monitoring:\n\n```bash\n# Required for cloud API\nexport FIRECRAWL_API_KEY=your-api-key\n\n# Optional retry configuration\nexport FIRECRAWL_RETRY_MAX_ATTEMPTS=5        # Increase max retry attempts\nexport FIRECRAWL_RETRY_INITIAL_DELAY=2000    # Start with 2s delay\nexport FIRECRAWL_RETRY_MAX_DELAY=30000       # Maximum 30s delay\nexport FIRECRAWL_RETRY_BACKOFF_FACTOR=3      # More aggressive backoff\n\n# Optional credit monitoring\nexport FIRECRAWL_CREDIT_WARNING_THRESHOLD=2000    # Warning at 2000 credits\nexport FIRECRAWL_CREDIT_CRITICAL_THRESHOLD=500    # Critical at 500 credits\n```\n\nFor self-hosted instance:\n\n```bash\n# Required for self-hosted\nexport FIRECRAWL_API_URL=https://firecrawl.your-domain.com\n\n# Optional authentication for self-hosted\nexport FIRECRAWL_API_KEY=your-api-key  # If your instance requires auth\n\n# Custom retry configuration\nexport FIRECRAWL_RETRY_MAX_ATTEMPTS=10\nexport FIRECRAWL_RETRY_INITIAL_DELAY=500     # Start with faster retries\n```\n\n### Usage with Claude Desktop\n\nAdd this to your `claude_desktop_config.json`:\n\n```json\n{\n  \"mcpServers\": {\n    \"mcp-server-firecrawl\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"firecrawl-mcp\"],\n      \"env\": {\n        \"FIRECRAWL_API_KEY\": \"YOUR_API_KEY_HERE\",\n\n        \"FIRECRAWL_RETRY_MAX_ATTEMPTS\": \"5\",\n        \"FIRECRAWL_RETRY_INITIAL_DELAY\": \"2000\",\n        \"FIRECRAWL_RETRY_MAX_DELAY\": \"30000\",\n        \"FIRECRAWL_RETRY_BACKOFF_FACTOR\": \"3\",\n\n        \"FIRECRAWL_CREDIT_WARNING_THRESHOLD\": \"2000\",\n        \"FIRECRAWL_CREDIT_CRITICAL_THRESHOLD\": \"500\"\n      }\n    }\n  }\n}\n```\n\n### System Configuration\n\nThe server includes several configurable parameters that can be set via environment variables. Here are the default values if not configured:\n\n```typescript\nconst CONFIG = {\n  retry: {\n    maxAttempts: 3, // Number of retry attempts for rate-limited requests\n    initialDelay: 1000, // Initial delay before first retry (in milliseconds)\n    maxDelay: 10000, // Maximum delay between retries (in milliseconds)\n    backoffFactor: 2, // Multiplier for exponential backoff\n  },\n  credit: {\n    warningThreshold: 1000, // Warn when credit usage reaches this level\n    criticalThreshold: 100, // Critical alert when credit usage reaches this level\n  },\n};\n```\n\nThese configurations control:\n\n1. **Retry Behavior**\n\n   - Automatically retries failed requests due to rate limits\n   - Uses exponential backoff to avoid overwhelming the API\n   - Example: With default settings, retries will be attempted at:\n     - 1st retry: 1 second delay\n     - 2nd retry: 2 seconds delay\n     - 3rd retry: 4 seconds delay (capped at maxDelay)\n\n2. **Credit Usage Monitoring**\n   - Tracks API credit consumption for cloud API usage\n   - Provides warnings at specified thresholds\n   - Helps prevent unexpected service interruption\n   - Example: With default settings:\n     - Warning at 1000 credits remaining\n     - Critical alert at 100 credits remaining\n\n### Rate Limiting and Batch Processing\n\nThe server utilizes Firecrawl's built-in rate limiting and batch processing capabilities:\n\n- Automatic rate limit handling with exponential backoff\n- Efficient parallel processing for batch operations\n- Smart request queuing and throttling\n- Automatic retries for transient errors\n\n## Available Tools\n\n### 1. Scrape Tool (`firecrawl_scrape`)\n\nScrape content from a single URL with advanced options.\n\n```json\n{\n  \"name\": \"firecrawl_scrape\",\n  \"arguments\": {\n    \"url\": \"https://example.com\",\n    \"formats\": [\"markdown\"],\n    \"onlyMainContent\": true,\n    \"waitFor\": 1000,\n    \"timeout\": 30000,\n    \"mobile\": false,\n    \"includeTags\": [\"article\", \"main\"],\n    \"excludeTags\": [\"nav\", \"footer\"],\n    \"skipTlsVerification\": false\n  }\n}\n```\n\n### 2. Batch Scrape Tool (`firecrawl_batch_scrape`)\n\nScrape multiple URLs efficiently with built-in rate limiting and parallel processing.\n\n```json\n{\n  \"name\": \"firecrawl_batch_scrape\",\n  \"arguments\": {\n    \"urls\": [\"https://example1.com\", \"https://example2.com\"],\n    \"options\": {\n      \"formats\": [\"markdown\"],\n      \"onlyMainContent\": true\n    }\n  }\n}\n```\n\nResponse includes operation ID for status checking:\n\n```json\n{\n  \"content\": [\n    {\n      \"type\": \"text\",\n      \"text\": \"Batch operation queued with ID: batch_1. Use firecrawl_check_batch_status to check progress.\"\n    }\n  ],\n  \"isError\": false\n}\n```\n\n### 3. Check Batch Status (`firecrawl_check_batch_status`)\n\nCheck the status of a batch operation.\n\n```json\n{\n  \"name\": \"firecrawl_check_batch_status\",\n  \"arguments\": {\n    \"id\": \"batch_1\"\n  }\n}\n```\n\n### 4. Search Tool (`firecrawl_search`)\n\nSearch the web and optionally extract content from search results.\n\n```json\n{\n  \"name\": \"firecrawl_search\",\n  \"arguments\": {\n    \"query\": \"your search query\",\n    \"limit\": 5,\n    \"lang\": \"en\",\n    \"country\": \"us\",\n    \"scrapeOptions\": {\n      \"formats\": [\"markdown\"],\n      \"onlyMainContent\": true\n    }\n  }\n}\n```\n\n### 5. Crawl Tool (`firecrawl_crawl`)\n\nStart an asynchronous crawl with advanced options.\n\n```json\n{\n  \"name\": \"firecrawl_crawl\",\n  \"arguments\": {\n    \"url\": \"https://example.com\",\n    \"maxDepth\": 2,\n    \"limit\": 100,\n    \"allowExternalLinks\": false,\n    \"deduplicateSimilarURLs\": true\n  }\n}\n```\n\n### 6. Extract Tool (`firecrawl_extract`)\n\nExtract structured information from web pages using LLM capabilities. Supports both cloud AI and self-hosted LLM extraction.\n\n```json\n{\n  \"name\": \"firecrawl_extract\",\n  \"arguments\": {\n    \"urls\": [\"https://example.com/page1\", \"https://example.com/page2\"],\n    \"prompt\": \"Extract product information including name, price, and description\",\n    \"systemPrompt\": \"You are a helpful assistant that extracts product information\",\n    \"schema\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"name\": { \"type\": \"string\" },\n        \"price\": { \"type\": \"number\" },\n        \"description\": { \"type\": \"string\" }\n      },\n      \"required\": [\"name\", \"price\"]\n    },\n    \"allowExternalLinks\": false,\n    \"enableWebSearch\": false,\n    \"includeSubdomains\": false\n  }\n}\n```\n\nExample response:\n\n```json\n{\n  \"content\": [\n    {\n      \"type\": \"text\",\n      \"text\": {\n        \"name\": \"Example Product\",\n        \"price\": 99.99,\n        \"description\": \"This is an example product description\"\n      }\n    }\n  ],\n  \"isError\": false\n}\n```\n\n#### Extract Tool Options:\n\n- `urls`: Array of URLs to extract information from\n- `prompt`: Custom prompt for the LLM extraction\n- `systemPrompt`: System prompt to guide the LLM\n- `schema`: JSON schema for structured data extraction\n- `allowExternalLinks`: Allow extraction from external links\n- `enableWebSearch`: Enable web search for additional context\n- `includeSubdomains`: Include subdomains in extraction\n\nWhen using a self-hosted instance, the extraction will use your configured LLM. For cloud API, it uses Firecrawl's managed LLM service.\n\n### 7. Deep Research Tool (firecrawl_deep_research)\n\nConduct deep web research on a query using intelligent crawling, search, and LLM analysis.\n\n```json\n{\n  \"name\": \"firecrawl_deep_research\",\n  \"arguments\": {\n    \"query\": \"how does carbon capture technology work?\",\n    \"maxDepth\": 3,\n    \"timeLimit\": 120,\n    \"maxUrls\": 50\n  }\n}\n```\n\nArguments:\n\n- query (string, required): The research question or topic to explore.\n- maxDepth (number, optional): Maximum recursive depth for crawling/search (default: 3).\n- timeLimit (number, optional): Time limit in seconds for the research session (default: 120).\n- maxUrls (number, optional): Maximum number of URLs to analyze (default: 50).\n\nReturns:\n\n- Final analysis generated by an LLM based on research. (data.finalAnalysis)\n- May also include structured activities and sources used in the research process.\n\n### 8. Generate LLMs.txt Tool (firecrawl_generate_llmstxt)\n\nGenerate a standardized llms.txt (and optionally llms-full.txt) file for a given domain. This file defines how large language models should interact with the site.\n\n```json\n{\n  \"name\": \"firecrawl_generate_llmstxt\",\n  \"arguments\": {\n    \"url\": \"https://example.com\",\n    \"maxUrls\": 20,\n    \"showFullText\": true\n  }\n}\n```\n\nArguments:\n\n- url (string, required): The base URL of the website to analyze.\n- maxUrls (number, optional): Max number of URLs to include (default: 10).\n- showFullText (boolean, optional): Whether to include llms-full.txt contents in the response.\n\nReturns:\n\n- Generated llms.txt file contents and optionally the llms-full.txt (data.llmstxt and/or data.llmsfulltxt)\n\n## Logging System\n\nThe server includes comprehensive logging:\n\n- Operation status and progress\n- Performance metrics\n- Credit usage monitoring\n- Rate limit tracking\n- Error conditions\n\nExample log messages:\n\n```\n[INFO] Firecrawl MCP Server initialized successfully\n[INFO] Starting scrape for URL: https://example.com\n[INFO] Batch operation queued with ID: batch_1\n[WARNING] Credit usage has reached warning threshold\n[ERROR] Rate limit exceeded, retrying in 2s...\n```\n\n## Error Handling\n\nThe server provides robust error handling:\n\n- Automatic retries for transient errors\n- Rate limit handling with backoff\n- Detailed error messages\n- Credit usage warnings\n- Network resilience\n\nExample error response:\n\n```json\n{\n  \"content\": [\n    {\n      \"type\": \"text\",\n      \"text\": \"Error: Rate limit exceeded. Retrying in 2 seconds...\"\n    }\n  ],\n  \"isError\": true\n}\n```\n\n## Development\n\n```bash\n# Install dependencies\nnpm install\n\n# Build\nnpm run build\n\n# Run tests\nnpm test\n```\n\n### Contributing\n\n1. Fork the repository\n2. Create your feature branch\n3. Run tests: `npm test`\n4. Submit a pull request\n\n## License\n\nMIT License - see LICENSE file for details\n",
-      "npm_url": "",
-      "npm_downloads": 0,
-      "keywords": [
-        "scraping",
-        "firecrawl",
-        "automation",
-        "browser automation",
-        "automation web",
-        "web scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Muzzera--web-ui": {
       "owner": "Muzzera",
@@ -462,7 +433,8 @@
         "browser automation",
         "muzzera web",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "NON906--omniparser-autogui-mcp": {
       "owner": "NON906",
@@ -485,30 +457,8 @@
         "browser automation",
         "automation web",
         "omniparser autogui"
-      ]
-    },
-    "NullBlankError--mcp-server-browserbase": {
-      "owner": "NullBlankError",
-      "name": "mcp-server-browserbase",
-      "url": "https://github.com/NullBlankError/mcp-server-browserbase",
-      "imageUrl": "https://github.com/NullBlankError.png",
-      "description": "Automate and interact with web browsers in the cloud by navigating web pages, taking screenshots, executing JavaScript, and extracting structured data.",
-      "stars": 0,
-      "forks": 0,
-      "license": "No License",
-      "language": "",
-      "updated_at": "2025-04-23T13:43:31Z",
-      "readme_content": "# Browserbase MCP Server\n\n![cover](assets/cover-mcp.png)\n\n[The Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you’re building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.\n\nThis server provides cloud browser automation capabilities using [Browserbase](https://www.browserbase.com/), [Puppeteer](https://pptr.dev/), and [Stagehand](https://github.com/browserbase/stagehand). This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a cloud browser environment.\n\nTo learn to get started with Browserbase, check out [Browserbase MCP](./browserbase/README.md) or [Stagehand MCP](./stagehand/README.md).\n\n## Getting Started with available MCPs\n\n🌐 **Browserbase MCP** - Located in [`browserbase/`](./browserbase/)\n\n| Feature            | Description                               |\n| ------------------ | ----------------------------------------- |\n| Browser Automation | Control and orchestrate cloud browsers    |\n| Data Extraction    | Extract structured data from any webpage  |\n| Console Monitoring | Track and analyze browser console logs    |\n| Screenshots        | Capture full-page and element screenshots |\n| JavaScript         | Execute custom JS in the browser context  |\n| Web Interaction    | Navigate, click, and fill forms with ease |\n\n🤘 **Stagehand MCP** - Located in [`stagehand/`](./stagehand/)\n\n| Feature             | Description                                                                                                                                                    |\n| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| Atomic Instructions | Execute precise actions like `act(\"click the login button\")` or `extract(\"find the red shoes\")`                                                                |\n| Model Flexibility   | Supports multiple models, including OpenAI's GPT-4 and Anthropic's Claude-3.7 Sonnet                                                                           |\n| Modular Design      | Easily integrate new models with minimal changes                                                                                                               |\n| Vision Support      | Use annotated screenshots for complex DOMs                                                                                                                     |\n| Open Source         | Contribute to the project and join the [Slack community](https://join.slack.com/t/stagehand-dev/shared_invite/zt-2uvuobu50-~wVSx2Si75CPa3332hwVEw) for support |\n\n### Alternative Installation Methods\n\n[Smithery](https://smithery.ai/server/@browserbasehq/mcp-browserbase)\n",
-      "npm_url": "",
-      "npm_downloads": 0,
-      "keywords": [
-        "browserbase",
-        "automation",
-        "scraping",
-        "browser automation",
-        "automation web",
-        "browserbase automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Operative-Sh--playwright-consolelogs-mcp": {
       "owner": "Operative-Sh",
@@ -531,7 +481,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Operative-Sh--web-eval-agent": {
       "owner": "Operative-Sh",
@@ -554,7 +505,8 @@
         "automation web",
         "browser automation",
         "web eval"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "PhamQuangVinh22022648--playwright-mcp": {
       "owner": "PhamQuangVinh22022648",
@@ -577,7 +529,8 @@
         "browser automation",
         "automation web",
         "facilitates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "PhialsBasement--MCP-Puppeteer-Linux": {
       "owner": "PhialsBasement",
@@ -600,53 +553,8 @@
         "using puppeteer",
         "browser automation",
         "puppeteer linux"
-      ]
-    },
-    "PhungXuanAnh--selenium-mcp-server": {
-      "owner": "PhungXuanAnh",
-      "name": "selenium-mcp-server",
-      "url": "https://github.com/PhungXuanAnh/selenium-mcp-server",
-      "imageUrl": "",
-      "description": "A Model Context Protocol server providing web automation capabilities through Selenium WebDriver",
-      "stars": 0,
-      "forks": 1,
-      "license": "No License",
-      "language": "Python",
-      "updated_at": "2025-10-03T08:48:21Z",
-      "readme_content": "Selenium MCP Server\n---\n\nA Model Context Protocol (MCP) server that provides web automation capabilities through Selenium WebDriver. This server allows AI assistants to interact with web pages by providing tools for navigation, element interaction, taking screenshots, and more.\n\n## 1.1. Quick Start\n\n### 1.1.1. Using Installed Package (Recommended)\n```bash\n# Install\npip install mcp-server-selenium\n\n# Run\npython -m mcp_server_selenium --port 9222 --user_data_dir /tmp/chrome-debug\n```\n\n### 1.1.2. Using Source Code (Development)\n```bash\n# Clone and setup\ngit clone https://github.com/PhungXuanAnh/selenium-mcp-server.git\ncd selenium-mcp-server\nuv sync\n\n# Run\nPYTHONPATH=src python -m mcp_server_selenium --port 9222 --user_data_dir /tmp/chrome-debug\n```\n\n---\n\n- [2. Features](#2-features)\n- [3. Available Tools](#3-available-tools)\n  - [3.1. Navigation and Page Management](#31-navigation-and-page-management)\n  - [3.2. Element Interaction](#32-element-interaction)\n  - [3.3. Element Styling](#33-element-styling)\n  - [3.4. JavaScript Execution](#34-javascript-execution)\n  - [3.5. Browser Logs](#35-browser-logs)\n  - [3.6. Local Storage Management](#36-local-storage-management)\n- [4. Installation](#4-installation)\n  - [4.1. Prerequisites](#41-prerequisites)\n  - [4.2. Installation Options](#42-installation-options)\n    - [4.2.1. Option A: Install as Python Package (Recommended)](#421-option-a-install-as-python-package-recommended)\n    - [4.2.2. Option B: Run from Source Code](#422-option-b-run-from-source-code)\n  - [4.3. Chrome Setup](#43-chrome-setup)\n- [5. Usage](#5-usage)\n  - [5.1. Running the MCP Server](#51-running-the-mcp-server)\n    - [5.1.1. Option A: From Installed Package](#511-option-a-from-installed-package)\n    - [5.1.2. Option B: From Source Code](#512-option-b-from-source-code)\n  - [5.2. Using MCP Inspector for Testing](#52-using-mcp-inspector-for-testing)\n    - [5.2.1. Start Inspector Server](#521-start-inspector-server)\n    - [5.2.2. Access Inspector Interface](#522-access-inspector-interface)\n    - [5.2.3. Command Line Options](#523-command-line-options)\n  - [5.3. Using with MCP Clients](#53-using-with-mcp-clients)\n    - [5.3.1. Configuration Examples](#531-configuration-examples)\n    - [5.3.2. Debug](#532-debug)\n- [6. Examples](#6-examples)\n  - [6.1. Basic Web Automation](#61-basic-web-automation)\n  - [6.2. Advanced Usage](#62-advanced-usage)\n    - [6.2.1. JavaScript Examples](#621-javascript-examples)\n- [7. Logging](#7-logging)\n- [8. Troubleshooting](#8-troubleshooting)\n  - [8.1. Common Issues](#81-common-issues)\n    - [8.1.1. Installation-Related Issues](#811-installation-related-issues)\n    - [8.1.2. Runtime Issues](#812-runtime-issues)\n    - [8.1.3. Configuration Issues](#813-configuration-issues)\n- [9. Architecture](#9-architecture)\n- [10. Contributing](#10-contributing)\n- [11. Support](#11-support)\n- [12. Documentation](#12-documentation)\n- [13. Reference](#13-reference)\n\n\n# 2. Features\n\n- **Web Navigation**: Navigate to URLs with timeout control and page readiness checking\n- **Element Discovery & Interaction**: Find elements by multiple criteria (text, class, ID, attributes, XPath) and interact with them through clicking and input value setting\n- **Advanced Element Querying**: Get single elements, multiple elements with pagination, and direct child nodes with comprehensive filtering options\n- **Screenshots**: Capture full-page screenshots of the current browser window\n- **Element Styling**: Retrieve CSS styles and computed style information for any element\n- **JavaScript Execution**: Execute custom JavaScript code in browser console with optional console output capture\n- **Browser Logging**: Access console logs (with level filtering) and network request logs (with URL filtering and error filtering)\n- **Local Storage Management**: Complete CRUD operations for browser local storage (add, read, update, delete)\n- **iFrame Support**: Work with elements inside iframes using iframe ID or name targeting\n- **XPath Support**: Use XPath expressions for precise element targeting\n- **Chrome Browser Control**: Connect to existing Chrome instances or automatically start new ones\n\n# 3. Available Tools\n\nThe MCP server provides the following tools:\n\n## 3.1. Navigation and Page Management\n- `navigate(url, timeout)` - Navigate to a specified URL with Chrome browser\n- `check_page_ready(wait_seconds)` - Check if the current page is fully loaded with optional wait\n- `take_screenshot()` - Take a screenshot of the current browser window\n\n## 3.2. Element Interaction\n- `get_an_element(text, class_name, id, attributes, element_type, in_iframe_id, in_iframe_name, return_html, xpath)` - Get an element identified by various criteria\n- `get_elements(text, class_name, id, attributes, element_type, in_iframe_id, in_iframe_name, page, page_size, return_html, xpath)` - Get multiple elements with pagination support\n- `get_direct_children(text, class_name, id, attributes, element_type, in_iframe_id, in_iframe_name, return_html, xpath, page, page_size)` - Get all direct child nodes of an element with pagination\n- `click_to_element(text, class_name, id, attributes, element_type, in_iframe_id, in_iframe_name, element_index, xpath)` - Click on an element identified by various criteria\n- `set_value_to_input_element(text, class_name, id, attributes, element_type, input_value, in_iframe_id, in_iframe_name, xpath)` - Set a value to an input element\n\n## 3.3. Element Styling\n- `get_style_an_element(text, class_name, id, attributes, element_type, in_iframe_id, in_iframe_name, return_html, xpath, all_styles, computed_style)` - Get style information for an element\n\n## 3.4. JavaScript Execution\n- `run_javascript_in_console(javascript_code)` - Execute JavaScript code in the browser console\n- `run_javascript_and_get_console_output(javascript_code)` - Execute JavaScript code and capture both return value and console output\n\n## 3.5. Browser Logs\n- `get_console_logs(log_level)` - Retrieve console logs from the browser with optional filtering by log level\n- `get_network_logs(filter_url_by_text, only_errors_log)` - Retrieve network request logs from the browser with optional filtering\n\n## 3.6. Local Storage Management\n- `local_storage_add(key, string_value, object_value, create_empty_string, create_empty_object)` - Add or update a key-value pair in browser's local storage\n- `local_storage_read(key)` - Read a value from browser's local storage by key\n- `local_storage_read_all()` - Read all key-value pairs from browser's local storage\n- `local_storage_remove(key)` - Remove a key-value pair from browser's local storage\n- `local_storage_remove_all()` - Remove all key-value pairs from browser's local storage\n\n# 4. Installation\n\n## 4.1. Prerequisites\n\n- Python 3.10 or higher\n- Chrome browser installed\n\n## 4.2. Installation Options\n\nYou can use this MCP server in two ways:\n\n### 4.2.1. Option A: Install as Python Package (Recommended)\n\nInstall directly from PyPI:\n```bash\npip install mcp-server-selenium\n```\n\nOr using uv:\n```bash\nuv add mcp-server-selenium\n```\n\n### 4.2.2. Option B: Run from Source Code\n\n1. Clone this repository:\n```bash\ngit clone https://github.com/PhungXuanAnh/selenium-mcp-server.git\ncd selenium-mcp-server\n```\n\n2. Install dependencies using uv:\n```bash\nuv sync\n```\n\nOr using pip with virtual environment:\n```bash\npython -m venv .venv\nsource .venv/bin/activate  # On Windows: .venv\\Scripts\\activate\npip install -e .\n```\n\n## 4.3. Chrome Setup\n\nThe MCP server can work with Chrome in two ways:\n\n1. **Connect to existing Chrome instance** (recommended): Start Chrome with debugging enabled:\n```bash\ngoogle-chrome --remote-debugging-port=9222 --user-data-dir=/tmp/chrome-debug\n```\n\n2. **Auto-start Chrome**: The server can automatically start Chrome if no instance is found.\n\n# 5. Usage\n\n## 5.1. Running the MCP Server\n\n### 5.1.1. Option A: From Installed Package\n\nAfter installing via pip/uv, you can run the server directly:\n\n```bash\n# Basic usage with default settings\npython -m mcp_server_selenium\n\n# With custom Chrome debugging port and user data directory\npython -m mcp_server_selenium --port 9222 --user_data_dir /tmp/chrome-debug\n\n# With verbose logging\npython -m mcp_server_selenium --port 9222 --user_data_dir /tmp/chrome-debug -v\n\n# Using the installed command (if available)\nselenium-mcp-server --port 9222 --user_data_dir /tmp/chrome-debug -v\n```\n\n### 5.1.2. Option B: From Source Code\n\nWhen running from source, ensure the Python path includes the src directory:\n\n```bash\n# Navigate to the project directory\ncd /path/to/selenium-mcp-server\n\n# Activate virtual environment (if using one)\nsource .venv/bin/activate\n\n# Run with proper Python path\nPYTHONPATH=src python -m mcp_server_selenium --port 9222 --user_data_dir /tmp/chrome-debug -v\n\n# Or using uv (recommended for development)\nuv run python -m mcp_server_selenium --port 9222 --user_data_dir /tmp/chrome-debug -v\n```\n\n## 5.2. Using MCP Inspector for Testing\n\n### 5.2.1. Start Inspector Server\n\nFor development and testing, you can use the MCP inspector:\n\n**From Source Code:**\n```bash\n# Using uv (recommended)\nuv run mcp dev src/mcp_server_selenium/__main__.py\n\n# Or with make command\nmake inspector\n\n# With custom options\nuv run mcp dev src/mcp_server_selenium/__main__.py --port 9222 --user_data_dir /tmp/chrome-debug --verbose\n```\n\n**From Installed Package:**\n```bash\n# Create a wrapper script or use directly\nmcp dev python -m mcp_server_selenium\n```\n\n### 5.2.2. Access Inspector Interface\n\nOpen your browser and navigate to: http://127.0.0.1:6274/#tools\n![](/images/image.png)\n\nCheck logs:\n```shell\ntailf /tmp/selenium-mcp.log\n```\n\n### 5.2.3. Command Line Options\n\n- `--port`: Chrome remote debugging port (default: 9222)\n- `--user_data_dir`: Chrome user data directory (default: auto-generated in /tmp)\n- `-v, --verbose`: Increase verbosity (use multiple times for more details)\n\n## 5.3. Using with MCP Clients\n\nThe server communicates via stdio and follows the Model Context Protocol specification. You can integrate it with MCP-compatible AI assistants or clients.\n\n### 5.3.1. Configuration Examples\n\n**For Claude Desktop** (`claude_desktop_config.json`):\n\nUsing installed package:\n```json\n{\n  \"mcpServers\": {\n    \"selenium\": {\n      \"command\": \"python\",\n      \"args\": [\n        \"-m\", \"mcp_server_selenium\",\n        \"--port\", \"9222\",\n        \"--user_data_dir\", \"/tmp/chrome-debug-claude\"\n      ],\n      \"env\": {}\n    }\n  }\n}\n```\n\n**For VS Code Copilot** (`.vscode/mcp.json`):\n\nUsing installed package:\n```json\n{\n  \"servers\": {\n    \"selenium-installed\": {\n      \"command\": \"python\",\n      \"args\": [\n        \"-m\", \"mcp_server_selenium\",\n        \"--user_data_dir=/home/user/.config/google-chrome-selenium-mcp\",\n        \"--port=9225\"\n      ]\n    }\n  }\n}\n```\n\nUsing source code directly:\n```json\n{\n  \"servers\": {\n    \"selenium-source\": {\n      \"command\": \"/path/to/selenium-mcp-server/.venv/bin/python\",\n      \"args\": [\n        \"-m\", \"mcp_server_selenium\",\n        \"--user_data_dir=/home/user/.config/google-chrome-selenium-mcp-source\",\n        \"--port=9226\"\n      ],\n      \"env\": {\n        \"PYTHONPATH\": \"/path/to/selenium-mcp-server/src\"\n      }\n    }\n  }\n}\n```\n\nAlternative source code configuration using full path:\n```json\n{\n  \"servers\": {\n    \"selenium-source-alt\": {\n      \"command\": \"/path/to/selenium-mcp-server/.venv/bin/python\",\n      \"args\": [\n        \"/path/to/selenium-mcp-server/src/mcp_server_selenium/__main__.py\",\n        \"--user_data_dir=/home/user/.config/google-chrome-selenium-mcp-alt\",\n        \"--port=9227\"\n      ]\n    }\n  }\n}\n```\n\n### 5.3.2. Debug\n\n**VS Code Copilot MCP Status:**\nIf you open the `.vscode/mcp.json` file, you can see the MCP server status at the bottom of VS Code.\n\n![alt text](images/image1.png)\n\n**View MCP Logs:**\n- In VS Code: Open Command Palette → \"Developer: Show Logs...\" → \"MCP: selenium\"\n- Check log file: `tail -f /tmp/selenium-mcp.log`\n\n# 6. Examples\n\n## 6.1. Basic Web Automation\n\n1. **Navigate to a website**:\n   - Tool: `navigate`\n   - URL: `https://example.com`\n\n2. **Take a screenshot**:\n   - Tool: `take_screenshot`\n   - Result: Screenshot saved to `~/selenium-mcp/screenshot/`\n\n3. **Fill a form**:\n   - Tool: `fill_input`\n   - Selector: `#email`\n   - Text: `user@example.com`\n\n4. **Click a button**:\n   - Tool: `click_element`\n   - Selector: `button[type=\"submit\"]`\n\n5. **Execute JavaScript**:\n   - Tool: `run_javascript_in_console`\n   - Code: `return document.title;`\n   - Result: Returns the page title\n\n6. **JavaScript with console output**:\n   - Tool: `run_javascript_and_get_console_output`\n   - Code: `console.log('Hello from browser'); return window.location.href;`\n   - Result: Shows both console output and return value\n\n## 6.2. Advanced Usage\n\n- **Wait for dynamic content**: Use `wait_for_element` to wait for elements to load\n- **Get page information**: Use `get_page_title`, `get_current_url`, `get_page_content`\n- **Element inspection**: Use `get_element_text`, `get_element_attribute`, `check_element_exists`\n- **JavaScript automation**: Use `run_javascript_in_console` for complex DOM manipulation and data extraction\n- **JavaScript debugging**: Use `run_javascript_and_get_console_output` to capture console logs for debugging\n\n### 6.2.1. JavaScript Examples\n\n**Extract page data**:\n```javascript\n// Tool: run_javascript_in_console\nvar links = Array.from(document.querySelectorAll('a')).slice(0, 5).map(a => ({\n    text: a.textContent.trim(),\n    href: a.href\n}));\nreturn links;\n```\n\n**Page performance monitoring**:\n```javascript\n// Tool: run_javascript_and_get_console_output\nconsole.time('Page Analysis');\nvar stats = {\n    title: document.title,\n    links: document.querySelectorAll('a').length,\n    images: document.querySelectorAll('img').length,\n    scripts: document.querySelectorAll('script').length\n};\nconsole.timeEnd('Page Analysis');\nconsole.log('Page stats:', stats);\nreturn stats;\n```\n\n**Form automation**:\n```javascript\n// Tool: run_javascript_in_console\ndocument.querySelector('#username').value = 'testuser';\ndocument.querySelector('#password').value = 'password123';\ndocument.querySelector('#login-form').submit();\nreturn 'Form submitted successfully';\n```\n\n# 7. Logging\n\nThe server logs all operations to `/tmp/selenium-mcp.log` with rotation. Use the `-v` flag to increase console verbosity:\n\n- `-v`: INFO level logging\n- `-vv`: DEBUG level logging\n\n# 8. Troubleshooting\n\n## 8.1. Common Issues\n\n### 8.1.1. Installation-Related Issues\n\n**Package not found (installed package):**\n```bash\n# Verify installation\npip list | grep mcp-server-selenium\n# or\npython -c \"import mcp_server_selenium; print('OK')\"\n```\n\n**Module not found (source code):**\n```bash\n# Ensure PYTHONPATH is set correctly\nexport PYTHONPATH=/path/to/selenium-mcp-server/src\n# or run from project root with:\nPYTHONPATH=src python -m mcp_server_selenium\n```\n\n### 8.1.2. Runtime Issues\n\n1. **Chrome not starting**: Ensure Chrome is installed and accessible from PATH\n2. **Port conflicts**: Use a different port with `--port` option\n3. **Permission errors**: Ensure the user data directory is writable\n4. **Element not found**: Increase wait times or use more specific selectors\n5. **JavaScript execution errors**: Check browser console for syntax errors or security restrictions\n6. **Console output not captured**: Ensure the JavaScript code runs successfully before checking console logs\n\n### 8.1.3. Configuration Issues\n\n**MCP Client Connection Problems:**\n- Verify the command path is correct (use `which python` to find Python executable)\n- For source code: Ensure PYTHONPATH environment variable is set\n- For installed package: Ensure the package is installed in the same Python environment as the MCP client\n- Check MCP client logs for detailed error messages\n\n# 9. Architecture\n\n- **FastMCP**: Uses the FastMCP framework for MCP protocol implementation\n- **Selenium WebDriver**: Chrome WebDriver for browser automation\n- **Synchronous Design**: All operations are synchronous for reliability\n- **Chrome DevTools Protocol**: Connects to Chrome via remote debugging protocol\n\n# 10. Contributing\n\n1. Fork the repository\n2. Create a feature branch\n3. Make your changes\n4. Add tests if applicable\n5. Submit a pull request\n\n# 11. Support\n\nFor issues and questions:\n- Create an issue in the repository\n- Check the logs at `/tmp/selenium-mcp.log`\n- Use verbose logging for debugging\n\n# 12. Documentation\n\nFor detailed documentation on specific features:\n- [JavaScript Console Tools](docs/javascript_console_tools.md) - Comprehensive guide for JavaScript execution tools\n- [Examples](examples/javascript_console_examples.py) - JavaScript execution examples and use cases\n\n# 13. Reference\n\n- https://github.com/modelcontextprotocol/python-sdk\n- https://github.com/modelcontextprotocol/servers\n",
-      "npm_url": "https://www.npmjs.com/package/selenium-mcp-server",
-      "npm_downloads": 1521,
-      "keywords": [
-        "webdriver",
-        "selenium",
-        "automation",
-        "automation web",
-        "browser automation",
-        "web automation"
-      ]
-    },
-    "PykeW--playwright-mcp-server": {
-      "owner": "PykeW",
-      "name": "playwright-mcp-server",
-      "url": "https://github.com/PykeW/playwright-mcp-server",
-      "imageUrl": "https://github.com/PykeW.png",
-      "description": "Retrieve and interact with web page content, enabling navigation, content extraction, and user action simulation on webpages using a standardized protocol.",
-      "stars": 0,
-      "forks": 0,
-      "license": "No License",
-      "language": "",
-      "updated_at": "2025-04-10T06:33:48Z",
-      "readme_content": "# Playwright MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@showfive/playwright-mcp-server)](https://smithery.ai/server/@showfive/playwright-mcp-server)\n\nEnglish | [日本語](README.ja.md)\n\nThis project is a server that provides Playwright web page content retrieval functionality using the Model Context Protocol (MCP).\n\n## Features\n\n- Page navigation\n- Full page content retrieval\n- Visible content retrieval\n- Interactive elements detection\n- Mouse operation simulation\n- Echo functionality for testing\n\n## Installation\n\n### Installing via Smithery\n\nTo install Playwright MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@showfive/playwright-mcp-server):\n\n```bash\nnpx -y @smithery/cli install @showfive/playwright-mcp-server --client claude\n```\n\n### Manual Installation\n```bash\nnpm install\n```\n\n## Usage\n\n### Starting the Server\n\n```bash\nnpm run build\nnpm start\n```\n\n### MCP Tools\n\nThe following tools are available:\n\n1. `navigate`\n   - Navigate to a specified URL\n   - Arguments: `{ url: string }`\n   - Returns: Navigation result\n\n2. `get_all_content`\n   - Retrieve content from the entire page\n   - Arguments: None\n   - Returns: All text content from the page\n\n3. `get_visible_content`\n   - Retrieve currently visible content\n   - Arguments: `{ minVisiblePercentage?: number }`\n   - Returns: Visible text content\n\n4. `get_interactive_elements`\n   - Get position information of interactive elements (buttons, links, etc.) on the page\n   - Arguments: None\n   - Returns: Coordinates and boundary information of interactive elements\n\n5. `move_mouse`\n   - Move mouse cursor to specified coordinates\n   - Arguments: `{ x: number, y: number }`\n   - Returns: Operation result\n\n6. `mouse_click`\n   - Execute mouse click at specified coordinates\n   - Arguments: `{ x: number, y: number, button?: \"left\" | \"right\" | \"middle\", clickCount?: number }`\n   - Returns: Click operation result\n\n7. `mouse_wheel`\n   - Execute mouse wheel scrolling\n   - Arguments: `{ deltaY: number, deltaX?: number }`\n   - Returns: Scroll operation result\n\n8. `drag_and_drop`\n   - Execute drag and drop operation\n   - Arguments: `{ sourceX: number, sourceY: number, targetX: number, targetY: number }`\n   - Returns: Drag and drop operation result\n\n9. `echo`\n   - Echo tool for testing\n   - Arguments: `{ message: string }`\n   - Returns: Sent message\n\n## Development\n\n### Running Tests\n\n```bash\n# Run all tests\nnpm test\n\n# Run tests in watch mode\nnpm run test:watch\n\n# Generate coverage report\nnpm run test:coverage\n```\n\n### Test Structure\n\n- `tools/*.test.ts`: Function tests for each tool\n- `mcp-server.test.ts`: MCP server function tests\n\n## Implementation Features\n\n1. Content Retrieval\n   - Full page content retrieval\n   - Visible content only retrieval\n   - Proper HTML parsing\n\n2. Interaction\n   - Detection and position information retrieval of interactive elements\n   - Mouse operation simulation (movement, clicks, scrolling)\n   - Drag and drop support\n\n3. Error Handling\n   - Proper navigation error handling\n   - Timeout processing\n   - Invalid URL detection\n\n4. Configuration Flexibility\n   - Headless/head mode selection\n   - Custom user agent\n   - Viewport size settings\n\n## Important Notes\n\n- Ensure necessary environment variables are set before using the MCP server\n- Follow the terms of service of target websites when retrieving web page content\n- Maintain appropriate intervals when sending multiple requests\n- When performing mouse operations, maintain appropriate intervals as they simulate actual user interactions\n\n## License\n\nISC\n",
-      "npm_url": "https://www.npmjs.com/package/playwright-mcp-server",
-      "npm_downloads": 5469,
-      "keywords": [
-        "automation",
-        "webpages",
-        "browser",
-        "browser automation",
-        "automation web",
-        "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Qinjianbo--mcp-rquest": {
       "owner": "Qinjianbo",
@@ -669,7 +577,8 @@
         "browser automation",
         "automation web",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Raghu6798--Browser_scrape_mcp": {
       "owner": "Raghu6798",
@@ -692,7 +601,8 @@
         "browser automation",
         "browser_scrape_mcp automates",
         "browsing scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Rahulec08--appium-mcp": {
       "owner": "Rahulec08",
@@ -715,7 +625,8 @@
         "appium capabilities",
         "appium mcp",
         "rahulec08 appium"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Saik0s--mcp-browser-use": {
       "owner": "Saik0s",
@@ -738,7 +649,8 @@
         "browser automation",
         "automation web",
         "web browsers"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Scrapybara--scrapybara-mcp": {
       "owner": "Scrapybara",
@@ -761,7 +673,8 @@
         "scrapybara scrapybara",
         "browser automation",
         "scrapybara mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "Skyvern-AI--skyvern": {
       "owner": "Skyvern-AI",
@@ -784,7 +697,8 @@
         "skyvern ai",
         "ai skyvern",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "SleepyRabbit--playwright-mcp": {
       "owner": "SleepyRabbit",
@@ -807,7 +721,8 @@
         "browser automation",
         "automation web",
         "facilitates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "VikashLoomba--MCP-Server-Playwright": {
       "owner": "VikashLoomba",
@@ -830,7 +745,8 @@
         "browser automation",
         "automation web",
         "provides browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "adalovu--mcp-playwright": {
       "owner": "adalovu",
@@ -853,7 +769,8 @@
         "browser automation",
         "automation web",
         "playwright automates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "afshawnlotfi--mcp-configurable-puppeteer": {
       "owner": "afshawnlotfi",
@@ -876,7 +793,8 @@
         "puppeteer automate",
         "browser automation",
         "automate browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "agent-infra--mcp-server-browser": {
       "owner": "agent-infra",
@@ -899,7 +817,8 @@
         "browser automation",
         "automation web",
         "using puppeteer"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ahai72160--playwright-mcp": {
       "owner": "ahai72160",
@@ -922,7 +841,8 @@
         "browser automation",
         "automation web",
         "facilitates browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "aircodelabs--grasp": {
       "owner": "aircodelabs",
@@ -945,7 +865,8 @@
         "automation web",
         "browser automation",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "alinaqi--mcp-linkedin-server": {
       "owner": "alinaqi",
@@ -968,7 +889,8 @@
         "automation web",
         "browser automation",
         "adhering linkedin"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "angiejones--mcp-selenium": {
       "owner": "angiejones",
@@ -991,7 +913,8 @@
         "browser automation",
         "selenium automates",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ashley-ha--mcp-manus": {
       "owner": "ashley-ha",
@@ -1014,7 +937,8 @@
         "browser automation",
         "automate browser",
         "web automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "automatalabs--mcp-server-playwright": {
       "owner": "automatalabs",
@@ -1037,7 +961,8 @@
         "automation web",
         "browser automation",
         "automation using"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "awayzo--rpg": {
       "owner": "awayzo",
@@ -1060,7 +985,8 @@
         "rpg browser",
         "awayzo rpg",
         "browser based"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "babelcloud--gbox": {
       "owner": "babelcloud",
@@ -1083,7 +1009,8 @@
         "browser automation",
         "automation web",
         "babelcloud gbox"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "baryhuang--mcp-remote-macos-use": {
       "owner": "baryhuang",
@@ -1106,7 +1033,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "blackwhite084--playwright-plus-python-mcp": {
       "owner": "blackwhite084",
@@ -1129,7 +1057,8 @@
         "automation web",
         "web automation",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "blazickjp--web-browser-mcp-server": {
       "owner": "blazickjp",
@@ -1152,7 +1081,8 @@
         "browser automation",
         "automation web",
         "advanced web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "browsercat--browsercat-mcp-server": {
       "owner": "browsercat",
@@ -1175,7 +1105,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "browsermcp--mcp": {
       "owner": "browsermcp",
@@ -1198,7 +1129,8 @@
         "browser automation",
         "automation web",
         "browsermcp mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "browserstack--mcp-server": {
       "owner": "browserstack",
@@ -1221,7 +1153,8 @@
         "browserstack mcp",
         "browser automation",
         "browserstack cloud"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "buyitsydney--CodingBaby-Browser-MCP": {
       "owner": "buyitsydney",
@@ -1244,7 +1177,8 @@
         "browser automation",
         "automation web",
         "codingbaby browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "chenlin111--BPB-Worker-Panel": {
       "owner": "chenlin111",
@@ -1267,7 +1201,8 @@
         "browser automation",
         "automation web",
         "bpb worker"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "chenningling--RedBook-Search-Comment-MCP": {
       "owner": "chenningling",
@@ -1290,7 +1225,8 @@
         "browser automation",
         "automation web",
         "content ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "chikingsley--browser-tools-mcp": {
       "owner": "chikingsley",
@@ -1313,7 +1249,8 @@
         "browser automation",
         "automation web",
         "browser tools"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "claude-did-this--MCPControl": {
       "owner": "claude-did-this",
@@ -1336,7 +1273,8 @@
         "browser automation",
         "automation web",
         "mcpcontrol windows"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "cloudflare--playwright-mcp": {
       "owner": "cloudflare",
@@ -1359,7 +1297,8 @@
         "browser automation",
         "automation web",
         "automates browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "cmann50--mcp-chrome-google-search": {
       "owner": "cmann50",
@@ -1382,7 +1321,8 @@
         "browser automation",
         "automation web",
         "mcp chrome"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "co-browser--browser-use-mcp-server": {
       "owner": "co-browser",
@@ -1405,7 +1345,8 @@
         "browser automation",
         "automation web",
         "perform web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "cploujoux--mcp-puppeteer": {
       "owner": "cploujoux",
@@ -1428,7 +1369,8 @@
         "puppeteer automate",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "deploya-labs--mcp-browser-use": {
       "owner": "deploya-labs",
@@ -1451,7 +1393,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "devalexandre--mcp-servers": {
       "owner": "devalexandre",
@@ -1474,7 +1417,8 @@
         "browser automation",
         "automation web",
         "browser automated"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "djyde--browser-mcp": {
       "owner": "djyde",
@@ -1497,7 +1441,8 @@
         "browser automation",
         "automation web",
         "browser mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dlwjdtn535--mcp-chrome-integration": {
       "owner": "dlwjdtn535",
@@ -1520,7 +1465,8 @@
         "browser automation",
         "automation web",
         "web automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dlwjdtn535--mcp-chrome-server": {
       "owner": "dlwjdtn535",
@@ -1543,7 +1489,8 @@
         "browser automation",
         "automation web",
         "automate browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dmaznest--browsercat-mcp-server": {
       "owner": "dmaznest",
@@ -1566,7 +1513,8 @@
         "dmaznest browsercat",
         "using browsercat",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dragons96--mcp-undetected-chromedriver": {
       "owner": "dragons96",
@@ -1589,7 +1537,8 @@
         "browser automation",
         "chromedriver automates",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "dylangroos--patchright-mcp-lite": {
       "owner": "dylangroos",
@@ -1612,7 +1561,8 @@
         "browser automation",
         "automation web",
         "stealth browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "eat-pray-ai--yutu": {
       "owner": "eat-pray-ai",
@@ -1635,7 +1585,8 @@
         "automate youtube",
         "browser automation",
         "youtube automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "everford--fetcher-mcp": {
       "owner": "everford",
@@ -1658,7 +1609,8 @@
         "browser automation",
         "web scraping",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "executeautomation--mcp-playwright": {
       "owner": "executeautomation",
@@ -1681,7 +1633,8 @@
         "browser automation",
         "automation web",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "executeautomation--playwright-mcp-server": {
       "owner": "executeautomation",
@@ -1704,7 +1657,8 @@
         "browser automation",
         "automation web",
         "automation webscrapping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "eyalzh--browser-control-mcp": {
       "owner": "eyalzh",
@@ -1727,7 +1681,8 @@
         "browser automation",
         "automation web",
         "integrate browsing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "fradser--mcp-server-apple-reminders": {
       "owner": "fradser",
@@ -1750,7 +1705,8 @@
         "browser automation",
         "automation web",
         "reminders macos"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "fstandhartinger--smooth-operator-client-python": {
       "owner": "fstandhartinger",
@@ -1773,7 +1729,8 @@
         "browser automation",
         "automation web",
         "browsers integrates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "getrupt--ashra-mcp": {
       "owner": "getrupt",
@@ -1796,7 +1753,8 @@
         "browser automation",
         "automation web",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "gojue--moling": {
       "owner": "gojue",
@@ -1819,7 +1777,8 @@
         "gojue moling",
         "moling moling",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "heehee365--MediaCrawler": {
       "owner": "heehee365",
@@ -1842,7 +1801,8 @@
         "mediacrawler scrapes",
         "browser automation",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "hetaoBackend--mcp-pyautogui-server": {
       "owner": "hetaoBackend",
@@ -1865,7 +1825,8 @@
         "browser automation",
         "automation web",
         "automated gui"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "htlin222--claude-chatgpt-mcp": {
       "owner": "htlin222",
@@ -1888,7 +1849,8 @@
         "browser automation",
         "automation web",
         "interact chatgpt"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "iiiusky--mcp-playwright": {
       "owner": "iiiusky",
@@ -1911,7 +1873,8 @@
         "browser automation",
         "automates browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "imprvhub--mcp-browser-agent": {
       "owner": "imprvhub",
@@ -1934,7 +1897,8 @@
         "browser automation",
         "browser agent",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jae-jae--fetcher-mcp": {
       "owner": "jae-jae",
@@ -1957,7 +1921,8 @@
         "browser automation",
         "automation web",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jae-jae--g-search-mcp": {
       "owner": "jae-jae",
@@ -1980,7 +1945,8 @@
         "browser automation",
         "automation web",
         "searching scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "janspoerer--mcp_browser_use": {
       "owner": "janspoerer",
@@ -2003,7 +1969,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jkawamoto--mcp-bear": {
       "owner": "jkawamoto",
@@ -2026,7 +1993,8 @@
         "browser automation",
         "automation web",
         "bear api"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "jonnyhoff--mcp-browser-use": {
       "owner": "jonnyhoff",
@@ -2049,7 +2017,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kazuph--mcp-browser-tabs": {
       "owner": "kazuph",
@@ -2072,7 +2041,8 @@
         "browser automation",
         "automation web",
         "mcp browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kimtaeyoon83--mcp-server-youtube-transcript": {
       "owner": "kimtaeyoon83",
@@ -2095,7 +2065,8 @@
         "automation web",
         "browser automation",
         "content ai"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kimtth--mcp-aoai-web-browsing": {
       "owner": "kimtth",
@@ -2118,7 +2089,8 @@
         "automation web",
         "browser automation",
         "browsing automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kitfactory--PyMCPAutoGUI": {
       "owner": "kitfactory",
@@ -2141,7 +2113,8 @@
         "browser automation",
         "automation web",
         "pymcpautogui automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "kkk929--browser-use": {
       "owner": "kkk929",
@@ -2164,7 +2137,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "korwabs--playwright-record-mcp": {
       "owner": "korwabs",
@@ -2187,7 +2161,8 @@
         "browser automation",
         "automation web",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lars-hagen--mcp-playwright-cdp": {
       "owner": "lars-hagen",
@@ -2210,7 +2185,8 @@
         "browser automation",
         "automation web",
         "playwright chrome"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lightpanda-io--gomcp": {
       "owner": "lightpanda-io",
@@ -2233,7 +2209,8 @@
         "browser automation",
         "automation web",
         "web automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lingxingchi--mcp-server-browserbase": {
       "owner": "lingxingchi",
@@ -2256,7 +2233,8 @@
         "browser automation",
         "automation web",
         "browserbase automates"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "lxe--chrome-mcp": {
       "owner": "lxe",
@@ -2279,7 +2257,8 @@
         "browser automation",
         "lxe chrome",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "m2rads--limetest-arch": {
       "owner": "m2rads",
@@ -2302,7 +2281,8 @@
         "browser automation",
         "automation web",
         "automate testing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "madtank--nova-act-mcp": {
       "owner": "madtank",
@@ -2325,7 +2305,8 @@
         "browser automation",
         "automation web",
         "control web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mario-andreschak--mcp-sap-gui": {
       "owner": "mario-andreschak",
@@ -2348,7 +2329,8 @@
         "automation web",
         "sap gui",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "markbustamante77--mcp": {
       "owner": "markbustamante77",
@@ -2371,7 +2353,8 @@
         "browser automation",
         "automation web",
         "web navigation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "meicanhong--translator_extension": {
       "owner": "meicanhong",
@@ -2394,7 +2377,8 @@
         "meicanhong translator_extension",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "merajmehrabi--puppeteer-mcp-server": {
       "owner": "merajmehrabi",
@@ -2417,7 +2401,8 @@
         "automation puppeteer",
         "browser automation",
         "puppeteer enables"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mfengzhishang--mcp": {
       "owner": "mfengzhishang",
@@ -2440,7 +2425,8 @@
         "browser automation",
         "automation web",
         "web scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mhazarabad--browser-use-mcp": {
       "owner": "mhazarabad",
@@ -2463,7 +2449,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "miyuren--mcp-server-browserbase": {
       "owner": "miyuren",
@@ -2486,7 +2473,8 @@
         "browser automation",
         "automation web",
         "automates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "mobile-next--mobile-mcp": {
       "owner": "mobile-next",
@@ -2509,7 +2497,8 @@
         "browser automation",
         "automates mobile",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "modelcontextprotocol--server-puppeteer": {
       "owner": "modelcontextprotocol",
@@ -2532,7 +2521,8 @@
         "browser automation",
         "automation web",
         "puppeteer browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "modelcontextprotocol--servers": {
       "owner": "modelcontextprotocol",
@@ -2555,7 +2545,8 @@
         "automation web",
         "browser automation",
         "modelcontextprotocol servers"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "monteslu--vibe-eyes": {
       "owner": "monteslu",
@@ -2578,7 +2569,8 @@
         "browser automation",
         "automation web",
         "browser game"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ndthanhdev--mcp-browser-kit": {
       "owner": "ndthanhdev",
@@ -2601,7 +2593,8 @@
         "mcp browser",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "newbeb--stealth-browser-mcp": {
       "owner": "newbeb",
@@ -2624,7 +2617,8 @@
         "browser automation",
         "stealth browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "nicholmikey--chrome-tools-MCP": {
       "owner": "nicholmikey",
@@ -2647,7 +2641,8 @@
         "browser automation",
         "chrome tools",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "operative_sh--web-eval-agent": {
       "owner": "operative_sh",
@@ -2670,7 +2665,8 @@
         "browser automation",
         "automation web",
         "browser agents"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pietrozullo--browser-use-mcp": {
       "owner": "pietrozullo",
@@ -2693,7 +2689,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pim97--mcp-server-scrappey": {
       "owner": "pim97",
@@ -2716,7 +2713,8 @@
         "scrappey web",
         "automation web",
         "browser automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pskill9--web-search": {
       "owner": "pskill9",
@@ -2739,7 +2737,8 @@
         "automation web",
         "browser automation",
         "web searching"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "pvinis--mcp-playwright-stealth": {
       "owner": "pvinis",
@@ -2762,7 +2761,8 @@
         "browser automation",
         "automation web",
         "automates browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "raccoonaihq--raccoonai-mcp-server": {
       "owner": "raccoonaihq",
@@ -2785,7 +2785,8 @@
         "browser automation",
         "automation web",
         "lam api"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "random-robbie--mcp-web-browser": {
       "owner": "random-robbie",
@@ -2808,7 +2809,8 @@
         "browser automation",
         "automation web",
         "advanced web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "rdvo--mcp-server": {
       "owner": "rdvo",
@@ -2831,7 +2833,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "recursechat--mcp-server-apple-shortcuts": {
       "owner": "recursechat",
@@ -2854,7 +2857,8 @@
         "browser automation",
         "automation web",
         "shortcuts mcp"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "robertheadley--chrome-debug-mcp": {
       "owner": "robertheadley",
@@ -2877,7 +2881,8 @@
         "browser automation",
         "automation web",
         "automation tools"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samihalawa--mcp-ai-vision-debug-ui-automation": {
       "owner": "samihalawa",
@@ -2900,7 +2905,8 @@
         "browser automation",
         "automation web",
         "ui automation"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samihalawa--visual-ui-debug-agent-mcp": {
       "owner": "samihalawa",
@@ -2923,7 +2929,8 @@
         "browser automation",
         "automation web",
         "debugging web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samuelvinay91--autospectra-mcp-server": {
       "owner": "samuelvinay91",
@@ -2946,7 +2953,8 @@
         "browser automation",
         "automation web",
         "automate browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "samuelvinay91--uniauto-mcp-server": {
       "owner": "samuelvinay91",
@@ -2969,7 +2977,8 @@
         "browser automation",
         "automation web",
         "automates web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "sethbang--mcp-screenshot-server": {
       "owner": "sethbang",
@@ -2992,7 +3001,8 @@
         "browser automation",
         "screenshots web",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "showfive--playwright-mcp-server": {
       "owner": "showfive",
@@ -3015,7 +3025,8 @@
         "browser automation",
         "automation web",
         "browsers web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "steel-dev--steel-mcp-server": {
       "owner": "steel-dev",
@@ -3038,7 +3049,8 @@
         "automation web",
         "browser automation",
         "puppeteer based"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "suthio--brave-deep-research-mcp": {
       "owner": "suthio",
@@ -3061,7 +3073,8 @@
         "browser automation",
         "searching scraping",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "tanob--mcp-desktop-automation": {
       "owner": "tanob",
@@ -3084,7 +3097,8 @@
         "browser automation",
         "automation web",
         "automation features"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "tatn--mcp-server-fetch-python": {
       "owner": "tatn",
@@ -3107,7 +3121,8 @@
         "automation web",
         "browser automation",
         "scraping processing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "theclarityproject--mcp-server": {
       "owner": "theclarityproject",
@@ -3130,7 +3145,8 @@
         "automation web",
         "browser automation",
         "automation capabilities"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "twolven--mcp-server-puppeteer-py": {
       "owner": "twolven",
@@ -3153,7 +3169,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "uui6yee--scrm": {
       "owner": "uui6yee",
@@ -3176,7 +3193,8 @@
         "browser automation",
         "browser fingerprint",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "vinayak-mehta--mcp-browser-use": {
       "owner": "vinayak-mehta",
@@ -3199,7 +3217,8 @@
         "browser automation",
         "automation web",
         "mcp browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "vinhphamai23--mcp-playwright": {
       "owner": "vinhphamai23",
@@ -3222,7 +3241,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "vinhphamai23--playwright-mcp": {
       "owner": "vinhphamai23",
@@ -3245,7 +3265,8 @@
         "browser automation",
         "automation web",
         "playwright accessibility"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "wenpingwu001--mcp-browser-use": {
       "owner": "wenpingwu001",
@@ -3268,7 +3289,8 @@
         "browser automation",
         "automation web",
         "automate web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "williamvd4--browser-use-mcp-server": {
       "owner": "williamvd4",
@@ -3291,7 +3313,8 @@
         "browser automation",
         "automation web",
         "williamvd4 browser"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "willsmith2099--open-webui": {
       "owner": "willsmith2099",
@@ -3314,7 +3337,8 @@
         "webui self",
         "hosted webui",
         "webui enhancing"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "wysh3--perplexity-mcp-zerver": {
       "owner": "wysh3",
@@ -3337,7 +3361,8 @@
         "automation web",
         "browser automation",
         "processing web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "xinzhongyouhai--mcp-server-browserbase": {
       "owner": "xinzhongyouhai",
@@ -3360,7 +3385,8 @@
         "browser automation",
         "automation web",
         "browserbase automate"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "xspadex--bilibili-mcp": {
       "owner": "xspadex",
@@ -3383,7 +3409,8 @@
         "browser automation",
         "automation web",
         "fastmcp based"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "yokingma--one-search-mcp": {
       "owner": "yokingma",
@@ -3406,7 +3433,8 @@
         "browser automation",
         "searching scraping",
         "search scraping"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ziux--playwright-plus-python-mcp": {
       "owner": "ziux",
@@ -3429,7 +3457,8 @@
         "browser automation",
         "automation web",
         "plus python"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "zmx8516104--puppeteer": {
       "owner": "zmx8516104",
@@ -3452,7 +3481,8 @@
         "puppeteer automates",
         "browser automation",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     },
     "ztobs--cline-browser-use-mcp": {
       "owner": "ztobs",
@@ -3475,7 +3505,8 @@
         "browser automation",
         "automate browser",
         "automation web"
-      ]
+      ],
+      "category": "browser-automation"
     }
   }
 }

@@ -25,7 +25,8 @@
         "job searchoor",
         "searching job",
         "job listings"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Aas-ee--open-webSearch": {
       "owner": "Aas-ee",
@@ -48,7 +49,8 @@
         "engine search",
         "websearch web",
         "web search"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Bigsy--Clojars-MCP-Server": {
       "owner": "Bigsy",
@@ -71,7 +73,8 @@
         "clojure libraries",
         "information clojure",
         "server clojars"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "ConechoAI--openai-websearch-mcp": {
       "owner": "ConechoAI",
@@ -94,7 +97,8 @@
         "openai web_search",
         "openai websearch",
         "websearch mcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "DappierAI--dappier-mcp": {
       "owner": "DappierAI",
@@ -117,7 +121,8 @@
         "agents dappier",
         "dappierai dappier",
         "dappier mcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Dumpling-AI--mcp-server-dumplingai": {
       "owner": "Dumpling-AI",
@@ -140,7 +145,8 @@
         "server dumplingai",
         "apis dumpling",
         "dumplingai access"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Himalayas-App--himalayas-mcp": {
       "owner": "Himalayas-App",
@@ -163,7 +169,8 @@
         "access himalayas",
         "himalayas mcp",
         "himalayas app"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Ihor-Sokoliuk--MCP-SearXNG": {
       "owner": "Ihor-Sokoliuk",
@@ -186,7 +193,8 @@
         "searxng model",
         "server searxng",
         "mcp searxng"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Linked-API--linkedapi-mcp": {
       "owner": "Linked-API",
@@ -209,7 +217,8 @@
         "linkedapi mcp",
         "api linkedapi",
         "linked api"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "OctagonAI--octagon-deep-research-mcp": {
       "owner": "OctagonAI",
@@ -232,7 +241,8 @@
         "octagon deep",
         "deep research",
         "extraction octagonai"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Pearch-ai--mcp_pearch": {
       "owner": "Pearch-ai",
@@ -255,7 +265,8 @@
         "talent discovery",
         "search engine",
         "people search"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "QuentinCody--catalysishub-mcp-server": {
       "owner": "QuentinCody",
@@ -278,7 +289,8 @@
         "catalysishub mcp",
         "data catalysis",
         "catalysis research"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "SecretiveShell--MCP-searxng": {
       "owner": "SecretiveShell",
@@ -301,7 +313,8 @@
         "searxng mcp",
         "mcp searxng",
         "searxng instances"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "Tomatio13--mcp-server-tavily": {
       "owner": "Tomatio13",
@@ -324,7 +337,8 @@
         "file extraction",
         "data extraction",
         "server vectorize"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "adawalli--nexus": {
       "owner": "adawalli",
@@ -347,7 +361,8 @@
         "search server",
         "web search",
         "extraction adawalli"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "ananddtyagi--webpage-screenshot-mcp": {
       "owner": "ananddtyagi",
@@ -370,7 +385,8 @@
         "screenshot mcp",
         "screenshots webpages",
         "webpage screenshot"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "blazickjp--arxiv-mcp-server": {
       "owner": "blazickjp",
@@ -393,7 +409,8 @@
         "search arxiv",
         "arxiv mcp",
         "server search"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "cameronrye--gopher-mcp": {
       "owner": "cameronrye",
@@ -416,7 +433,8 @@
         "gopher protocol",
         "gopher mcp",
         "mcp server"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "chanmeng--google-news-mcp-server": {
       "owner": "chanmeng",
@@ -439,7 +457,8 @@
         "google news",
         "news integration",
         "topics serpapi"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "deadletterq--mcp-opennutrition": {
       "owner": "deadletterq",
@@ -462,7 +481,8 @@
         "opennutrition database",
         "mcp opennutrition",
         "opennutrition local"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "dealx--mcp-server": {
       "owner": "dealx",
@@ -485,7 +505,8 @@
         "dealx mcp",
         "server dealx",
         "server mcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "devflowinc--trieve": {
       "owner": "devflowinc",
@@ -508,7 +529,8 @@
         "datasets trieve",
         "extraction devflowinc",
         "devflowinc trieve"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "emicklei--melrose-mcp": {
       "owner": "emicklei",
@@ -531,7 +553,8 @@
         "expressions midi",
         "music expressions",
         "org music"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "erithwik--mcp-hn": {
       "owner": "erithwik",
@@ -554,7 +577,8 @@
         "search hacker",
         "erithwik mcp",
         "server search"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "fatwang2--search1api-mcp": {
       "owner": "fatwang2",
@@ -577,7 +601,8 @@
         "search1api mcp",
         "fatwang2 search1api",
         "search search1api"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "format37--youtube_mcp": {
       "owner": "format37",
@@ -600,7 +625,8 @@
         "format37 youtube_mcp",
         "youtube_mcp dlp",
         "transcription youtube"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "genomoncology--biomcp": {
       "owner": "genomoncology",
@@ -623,7 +649,8 @@
         "genomoncology biomcp",
         "biomcp biomedical",
         "extraction genomoncology"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "hbg--mcp-paperswithcode": {
       "owner": "hbg",
@@ -646,7 +673,8 @@
         "paperswithcode mcp",
         "search paperswithcode",
         "mcp paperswithcode"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "hellokaton--unsplash-mcp-server": {
       "owner": "hellokaton",
@@ -669,7 +697,8 @@
         "unsplash mcp",
         "image search",
         "mcp server"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "imprvhub--mcp-claude-hackernews": {
       "owner": "imprvhub",
@@ -692,7 +721,8 @@
         "hackernews integration",
         "hacker news",
         "interact hacker"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "imprvhub--mcp-domain-availability": {
       "owner": "imprvhub",
@@ -715,7 +745,8 @@
         "mcp domain",
         "imprvhub mcp",
         "mcp server"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "imprvhub--mcp-rss-aggregator": {
       "owner": "imprvhub",
@@ -738,7 +769,8 @@
         "rss aggregator",
         "rss feeds",
         "mcp rss"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "isnow890--naver-search-mcp": {
       "owner": "isnow890",
@@ -761,7 +793,8 @@
         "naver search",
         "search mcp",
         "server naver"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "jae-jae--fetcher-mcp": {
       "owner": "jae-jae",
@@ -784,7 +817,8 @@
         "fetcher mcp",
         "mcp server",
         "fetching web"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "jae-jae--g-search-mcp": {
       "owner": "jae-jae",
@@ -807,7 +841,8 @@
         "search mcp",
         "parallel searching",
         "searching multiple"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "joelio--stocky": {
       "owner": "joelio",
@@ -830,7 +865,8 @@
         "stocky mcp",
         "stock photography",
         "search data"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "just-every--mcp-read-website-fast": {
       "owner": "just-every",
@@ -853,7 +889,8 @@
         "efficient web",
         "content extraction",
         "web content"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "just-every--mcp-screenshot-website-fast": {
       "owner": "just-every",
@@ -876,7 +913,8 @@
         "fast screenshot",
         "screenshot capture",
         "mcp screenshot"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "kagisearch--kagimcp": {
       "owner": "kagisearch",
@@ -899,7 +937,8 @@
         "extraction kagisearch",
         "json mcp",
         "kagisearch kagimcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "kimdonghwi94--Web-Analyzer-MCP": {
       "owner": "kimdonghwi94",
@@ -922,7 +961,8 @@
         "web analyzer",
         "clean web",
         "kimdonghwi94 web"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "kshern--mcp-tavily": {
       "owner": "kshern",
@@ -945,7 +985,8 @@
         "bing search",
         "search api",
         "microsoft bing"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "lfnovo--content-core": {
       "owner": "lfnovo",
@@ -968,7 +1009,8 @@
         "lfnovo content",
         "extraction lfnovo",
         "core extract"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "luminati-io--brightdata-mcp": {
       "owner": "luminati-io",
@@ -991,7 +1033,8 @@
         "io brightdata",
         "brightdata mcp",
         "data extraction"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "mikechao--brave-search-mcp": {
       "owner": "mikechao",
@@ -1014,7 +1057,8 @@
         "brave search",
         "search api",
         "search data"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "modelcontextprotocol--server-brave-search": {
       "owner": "modelcontextprotocol",
@@ -1037,7 +1081,8 @@
         "brave search",
         "search api",
         "search capabilities"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "modelcontextprotocol--server-fetch": {
       "owner": "modelcontextprotocol",
@@ -1060,7 +1105,8 @@
         "content fetching",
         "search data",
         "fetching processing"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "mzxrai--mcp-webresearch": {
       "owner": "mzxrai",
@@ -1083,7 +1129,8 @@
         "mcp webresearch",
         "web research",
         "webresearch search"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "nickclyde--duckduckgo-mcp-server": {
       "owner": "nickclyde",
@@ -1106,7 +1153,8 @@
         "duckduckgo mcp",
         "using duckduckgo",
         "nickclyde duckduckgo"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "nkapila6--mcp-local-rag": {
       "owner": "nkapila6",
@@ -1129,7 +1177,8 @@
         "web search",
         "apis needed",
         "search data"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "nyxn-ai--NyxDocs": {
       "owner": "nyxn-ai",
@@ -1152,7 +1201,8 @@
         "extraction nyxn",
         "ai nyxdocs",
         "nyxn ai"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "pragmar--mcp-server-webcrawl": {
       "owner": "pragmar",
@@ -1175,7 +1225,8 @@
         "web crawler",
         "webcrawl advanced",
         "crawler data"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "r-huijts--opentk-mcp": {
       "owner": "r-huijts",
@@ -1198,7 +1249,8 @@
         "dutch parliament",
         "structured search",
         "search data"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "reading-plus-ai--mcp-server-deep-research": {
       "owner": "reading-plus-ai",
@@ -1221,7 +1273,8 @@
         "openai perplexity",
         "providing openai",
         "server deep"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "ricocf--mcp-wolframalpha": {
       "owner": "ricocf",
@@ -1244,7 +1297,8 @@
         "mcp wolframalpha",
         "ai assistants",
         "wolframalpha mcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "sascharo--gxtract": {
       "owner": "sascharo",
@@ -1267,7 +1321,8 @@
         "gxtract provides",
         "sascharo gxtract",
         "io gxtract"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "scrapeless-ai--scrapeless-mcp-server": {
       "owner": "scrapeless-ai",
@@ -1290,7 +1345,8 @@
         "scrapeless mcp",
         "google serp",
         "serp api"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "serkan-ozal--driflyte-mcp-server": {
       "owner": "serkan-ozal",
@@ -1313,7 +1369,8 @@
         "search data",
         "data extraction",
         "driflyte mcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "shopsavvy--shopsavvy-mcp-server": {
       "owner": "shopsavvy",
@@ -1336,7 +1393,8 @@
         "pricing data",
         "shopsavvy mcp",
         "search products"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "takashiishida--arxiv-latex-mcp": {
       "owner": "takashiishida",
@@ -1359,7 +1417,8 @@
         "arxiv latex",
         "arxiv papers",
         "latex source"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "the0807--GeekNews-MCP-Server": {
       "owner": "the0807",
@@ -1382,7 +1441,8 @@
         "geeknews mcp",
         "mcp server",
         "data geeknews"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "tianqitang1--enrichr-mcp-server": {
       "owner": "tianqitang1",
@@ -1405,7 +1465,8 @@
         "enrichment analysis",
         "extraction tianqitang1",
         "using enrichr"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "tinyfish-io--agentql-mcp": {
       "owner": "tinyfish-io",
@@ -1428,7 +1489,8 @@
         "io agentql",
         "agentql mcp",
         "provides agentql"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "vitorpavinato--ncbi-mcp-server": {
       "owner": "vitorpavinato",
@@ -1451,7 +1513,8 @@
         "ncbi pubmed",
         "comprehensive ncbi",
         "biomedical research"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "webscraping-ai--webscraping-ai-mcp-server": {
       "owner": "webscraping-ai",
@@ -1474,7 +1537,8 @@
         "ai webscraping",
         "extraction webscraping",
         "webscraping ai"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "yamanoku--baseline-mcp-server": {
       "owner": "yamanoku",
@@ -1497,7 +1561,8 @@
         "searches baseline",
         "server searches",
         "server mcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "zhsama--duckduckgo-mcp-server": {
       "owner": "zhsama",
@@ -1520,7 +1585,8 @@
         "duckduckgo search",
         "duckduckgo mcp",
         "provides duckduckgo"
-      ]
+      ],
+      "category": "search--data-extraction"
     },
     "zoomeye-ai--mcp_zoomeye": {
       "owner": "zoomeye-ai",
@@ -1543,7 +1609,8 @@
         "mcp_zoomeye querying",
         "ai mcp_zoomeye",
         "zoomeye mcp"
-      ]
+      ],
+      "category": "search--data-extraction"
     }
   }
 }

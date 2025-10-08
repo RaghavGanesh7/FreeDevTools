@@ -25,7 +25,8 @@
         "simulation social",
         "fujitsu social",
         "fujitsu sdt"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "AlexKissiJr--UnrealMCP": {
       "owner": "AlexKissiJr",
@@ -48,7 +49,8 @@
         "unreal engine",
         "unrealmcp control",
         "ai tools"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "BearNetwork-BRNKC--SketchUp-MCP": {
       "owner": "BearNetwork-BRNKC",
@@ -71,7 +73,8 @@
         "brnkc sketchup",
         "sketchup mcp",
         "integrates sketchup"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "InditexTech--mcp-server-simulator-ios-idb": {
       "owner": "InditexTech",
@@ -94,7 +97,8 @@
         "ios simulators",
         "simulator ios",
         "simulators using"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "JotaDeRodriguez--Bonsai_mcp": {
       "owner": "JotaDeRodriguez",
@@ -117,7 +121,8 @@
         "ifc models",
         "simulation modeling",
         "code blender"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "PatrickPalmer--MayaMCP": {
       "owner": "PatrickPalmer",
@@ -140,7 +145,8 @@
         "mayamcp control",
         "autodesk maya",
         "maya using"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "a2888409--CSAPP": {
       "owner": "a2888409",
@@ -163,7 +169,8 @@
         "performance http",
         "http server",
         "a2888409 csapp"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "ariunbolor--nsaf-mcp-server": {
       "owner": "ariunbolor",
@@ -186,7 +193,8 @@
         "nsaf mcp",
         "agent architectures",
         "nsaf evolution"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "capoom--houdini-mcp": {
       "owner": "capoom",
@@ -209,7 +217,8 @@
         "houdini mcp",
         "houdini prompt",
         "capoom houdini"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "cwahlfeldt--blender-mcp": {
       "owner": "cwahlfeldt",
@@ -232,7 +241,8 @@
         "python scripts",
         "blender scripting",
         "scripting workflows"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "davidkingzyb--SCAST": {
       "owner": "davidkingzyb",
@@ -255,7 +265,8 @@
         "code analysis",
         "uml diagrams",
         "visualization tools"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "davidlin2k--pox-mcp-server": {
       "owner": "davidlin2k",
@@ -278,7 +289,8 @@
         "openflow devices",
         "manage openflow",
         "automate network"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "dustland--genesis-mcp": {
       "owner": "dustland",
@@ -301,7 +313,8 @@
         "dustland genesis",
         "simulations genesis",
         "modeling dustland"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "jhacksman--OpenSCAD-MCP-Server": {
       "owner": "jhacksman",
@@ -324,7 +337,8 @@
         "openscad mcp",
         "openscad facilitates",
         "jhacksman openscad"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "kimjune01--synth-mcp": {
       "owner": "kimjune01",
@@ -347,7 +361,8 @@
         "dynamic midi",
         "collaboration midi",
         "midi composition"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "lobstercare--geofs-mcp": {
       "owner": "lobstercare",
@@ -370,7 +385,8 @@
         "flight simulator",
         "geofs flight",
         "aircraft geofs"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "neka-nat--freecad-mcp": {
       "owner": "neka-nat",
@@ -393,7 +409,8 @@
         "freecad directly",
         "control freecad",
         "freecad mcp"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "parmarjh--mcp-reasoner": {
       "owner": "parmarjh",
@@ -416,7 +433,8 @@
         "mcp reasoner",
         "reasoning server",
         "search mcts"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "phuhao00--MayaMCP": {
       "owner": "phuhao00",
@@ -439,7 +457,8 @@
         "autodesk maya",
         "maya using",
         "mayamcp control"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "priyankark--a11y-mcp": {
       "owner": "priyankark",
@@ -462,7 +481,8 @@
         "accessibility audits",
         "perform accessibility",
         "accessibility issues"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "radial-hks--MCP-Unreal-Server": {
       "owner": "radial-hks",
@@ -485,7 +505,8 @@
         "unreal server",
         "unreal instances",
         "remote execution"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "tahooki--unreal-blender-mcp": {
       "owner": "tahooki",
@@ -508,7 +529,8 @@
         "unreal engine",
         "ai agents",
         "blender unreal"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "team-plask--3d-mcp": {
       "owner": "team-plask",
@@ -531,7 +553,8 @@
         "plask 3d",
         "3d mcp",
         "3d software"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "ttiimmaacc--cinema4d-mcp": {
       "owner": "ttiimmaacc",
@@ -554,7 +577,8 @@
         "cinema4d mcp",
         "ttiimmaacc cinema4d",
         "cinema 4d"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     },
     "waldzellai--waldzell-mcp": {
       "owner": "waldzellai",
@@ -577,7 +601,8 @@
         "waldzell mcp",
         "decision making",
         "stochastic algorithms"
-      ]
+      ],
+      "category": "simulation-and-modeling"
     }
   }
 }

@@ -25,7 +25,8 @@
         "cengsin fishaudio",
         "fishaudio mcp",
         "speech customizable"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "DefiBax--mcp_servers": {
       "owner": "DefiBax",
@@ -48,7 +49,8 @@
         "defibax mcp_servers",
         "ai agents",
         "synthesis defibax"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "Dosugamea--voicevox-mcp-server": {
       "owner": "Dosugamea",
@@ -71,7 +73,8 @@
         "voicevox mcp",
         "voice synthesis",
         "dosugamea voicevox"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "GongRzhe--Audio-MCP-Server": {
       "owner": "GongRzhe",
@@ -94,7 +97,8 @@
         "audio mcp",
         "computer audio",
         "audio management"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "Ichigo3766--audio-transcriber-mcp": {
       "owner": "Ichigo3766",
@@ -117,7 +121,8 @@
         "audio transcriptions",
         "audio transcriber",
         "transcribes audio"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "ImOrenge--VoiceMacroProject": {
       "owner": "ImOrenge",
@@ -140,7 +145,8 @@
         "voicemacroproject voicemacro",
         "imorenge voicemacroproject",
         "voice commands"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "Kvadratni--speech-mcp": {
       "owner": "Kvadratni",
@@ -163,7 +169,8 @@
         "kvadratni speech",
         "voice interface",
         "speech mcp"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "MatthewDailey--rime-mcp": {
       "owner": "MatthewDailey",
@@ -186,7 +193,8 @@
         "voice synthesis",
         "customize speech",
         "text speech"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "MiniMax-AI--MiniMax-MCP-JS": {
       "owner": "MiniMax-AI",
@@ -209,7 +217,8 @@
         "minimax ai",
         "ai minimax",
         "mcp js"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "OOXXXXOO--ChatTTS": {
       "owner": "OOXXXXOO",
@@ -232,7 +241,8 @@
         "chattts generates",
         "interactive conversations",
         "optimized dialogue"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "PhialsBasement--Zonos-TTS-MCP": {
       "owner": "PhialsBasement",
@@ -255,7 +265,8 @@
         "speech generation",
         "text speech",
         "speech capabilities"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "abhaybabbar--retellai-mcp-server": {
       "owner": "abhaybabbar",
@@ -278,7 +289,8 @@
         "voice services",
         "voice agent",
         "retellai voice"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "aigc17--Al-StoryLab": {
       "owner": "aigc17",
@@ -301,7 +313,8 @@
         "ai storylab",
         "storylab ai",
         "al storylab"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "anilcosaran--whisper.cpp": {
       "owner": "anilcosaran",
@@ -324,7 +337,8 @@
         "translates audio",
         "openai whisper",
         "whisper model"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "bmorphism--say-mcp-server": {
       "owner": "bmorphism",
@@ -347,7 +361,8 @@
         "say command",
         "text speech",
         "speech functionality"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "elevenlabs--elevenlabs-mcp": {
       "owner": "elevenlabs",
@@ -370,7 +385,8 @@
         "voice cloning",
         "audio transcription",
         "cloning audio"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "georgi-io--jessica": {
       "owner": "georgi-io",
@@ -393,7 +409,8 @@
         "text speech",
         "speech recognition",
         "speech capabilities"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "giannisanni--kokoro-tts-mcp": {
       "owner": "giannisanni",
@@ -416,7 +433,8 @@
         "kokoro tts",
         "text speech",
         "spoken audio"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "hammeiam--koroko-speech-mcp": {
       "owner": "hammeiam",
@@ -439,7 +457,8 @@
         "koroko speech",
         "speech customizable",
         "text speech"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "kentaro--aivis-speech-mcp": {
       "owner": "kentaro",
@@ -462,7 +481,8 @@
         "speech synthesis",
         "speech server",
         "aivis speech"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "mamertofabian--elevenlabs-mcp-server": {
       "owner": "mamertofabian",
@@ -485,7 +505,8 @@
         "mamertofabian elevenlabs",
         "speech api",
         "speech conversions"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "mrgeeko--vapi-mcp": {
       "owner": "mrgeeko",
@@ -508,7 +529,8 @@
         "voice ai",
         "voice assistants",
         "integrate voice"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "nakamurau1--tts-mcp": {
       "owner": "nakamurau1",
@@ -531,7 +553,8 @@
         "tts mcp",
         "text audio",
         "nakamurau1 tts"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "nansasuke--GarbageSorting": {
       "owner": "nansasuke",
@@ -554,7 +577,8 @@
         "classify waste",
         "waste using",
         "nansasuke garbagesorting"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "neosapience--typecast-api-mcp-server-sample": {
       "owner": "neosapience",
@@ -577,7 +601,8 @@
         "typecast api",
         "mcp interface",
         "api mcp"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "pinkpixel-dev--MCPollinations": {
       "owner": "pinkpixel-dev",
@@ -600,7 +625,8 @@
         "pinkpixel dev",
         "synthesis pinkpixel",
         "generates images"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "rsagacom--chatgpt-on-wechat": {
       "owner": "rsagacom",
@@ -623,7 +649,8 @@
         "dialogue service",
         "rsagacom chatgpt",
         "intelligent dialogue"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "scarletlabs-ai--Votars-MCP": {
       "owner": "scarletlabs-ai",
@@ -646,7 +673,8 @@
         "transcription intelligent",
         "scarletlabs ai",
         "speech recognition"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "uraoz--bouyomichan-mcp-nodejs": {
       "owner": "uraoz",
@@ -669,7 +697,8 @@
         "yukkuri voice",
         "bouyomichan yukkuri",
         "uraoz bouyomichan"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "yangsenessa--mcp_voice_identify": {
       "owner": "yangsenessa",
@@ -692,7 +721,8 @@
         "mcp_voice_identify provides",
         "yangsenessa mcp_voice_identify",
         "voice recognition"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     },
     "yuiseki--edge_tts_mcp_server": {
       "owner": "yuiseki",
@@ -715,7 +745,8 @@
         "yuiseki edge_tts_mcp_server",
         "speech conversion",
         "speech synthesis"
-      ]
+      ],
+      "category": "speech-recognition-and-synthesis"
     }
   }
 }

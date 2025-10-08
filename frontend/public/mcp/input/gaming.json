@@ -25,7 +25,8 @@
         "gaming integration",
         "integration gaming",
         "server unity3d"
-      ]
+      ],
+      "category": "gaming"
     },
     "Coding-Solo--godot-mcp": {
       "owner": "Coding-Solo",
@@ -48,7 +49,8 @@
         "godot mcp",
         "godot game",
         "mcp server"
-      ]
+      ],
+      "category": "gaming"
     },
     "IvanMurzak--Unity-MCP": {
       "owner": "IvanMurzak",
@@ -71,7 +73,8 @@
         "gaming integration",
         "unity mcp",
         "integration gaming"
-      ]
+      ],
+      "category": "gaming"
     },
     "ddsky--gamebrain-api-clients": {
       "owner": "ddsky",
@@ -94,7 +97,8 @@
         "gamebrain api",
         "ddsky gamebrain",
         "gaming integration"
-      ]
+      ],
+      "category": "gaming"
     },
     "jiayao--mcp-chess": {
       "owner": "jiayao",
@@ -117,7 +121,8 @@
         "mcp chess",
         "chess mcp",
         "integration gaming"
-      ]
+      ],
+      "category": "gaming"
     },
     "kkjdaniel--bgg-mcp": {
       "owner": "kkjdaniel",
@@ -140,7 +145,8 @@
         "boardgamegeek api",
         "gaming integration",
         "data boardgamegeek"
-      ]
+      ],
+      "category": "gaming"
     },
     "opgginc--opgg-mcp": {
       "owner": "opgginc",
@@ -163,7 +169,8 @@
         "gaming integration",
         "integration gaming",
         "gaming data"
-      ]
+      ],
+      "category": "gaming"
     },
     "pab1ito--chess-mcp": {
       "owner": "pab1ito",
@@ -186,7 +193,8 @@
         "access chess",
         "gaming integration",
         "chess information"
-      ]
+      ],
+      "category": "gaming"
     },
     "rishijatia--fantasy-pl-mcp": {
       "owner": "rishijatia",
@@ -209,7 +217,8 @@
         "gaming integration",
         "league data",
         "integration gaming"
-      ]
+      ],
+      "category": "gaming"
     },
     "sonirico--mpc-stockfish": {
       "owner": "sonirico",
@@ -232,7 +241,8 @@
         "gaming integration",
         "integration gaming",
         "chess engine"
-      ]
+      ],
+      "category": "gaming"
     },
     "stefan-xyz--mcp-server-runescape": {
       "owner": "stefan-xyz",
@@ -255,7 +265,8 @@
         "server runescape",
         "runescape mcp",
         "runescape osrs"
-      ]
+      ],
+      "category": "gaming"
     },
     "tomholford--mcp-tic-tac-toe": {
       "owner": "tomholford",
@@ -278,7 +289,8 @@
         "integration gaming",
         "gaming integration",
         "mcp tic"
-      ]
+      ],
+      "category": "gaming"
     }
   }
 }

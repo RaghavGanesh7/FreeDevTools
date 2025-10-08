@@ -25,7 +25,8 @@
         "mcp touchdesigner",
         "touchdesigner mcp",
         "touchdesigner projects"
-      ]
+      ],
+      "category": "multimodal-input-processing"
     },
     "pinkpixel-dev--MCPollinations": {
       "owner": "pinkpixel-dev",
@@ -48,7 +49,8 @@
         "pinkpixel dev",
         "processing pinkpixel",
         "generates images"
-      ]
+      ],
+      "category": "multimodal-input-processing"
     },
     "stabgan--openrouter-mcp-multimodal": {
       "owner": "stabgan",
@@ -71,7 +73,8 @@
         "multimodal conversations",
         "mcp multimodal",
         "multimodal input"
-      ]
+      ],
+      "category": "multimodal-input-processing"
     },
     "zakahan--vedit-mcp": {
       "owner": "zakahan",
@@ -94,7 +97,8 @@
         "video editing",
         "automate video",
         "multimodal input"
-      ]
+      ],
+      "category": "multimodal-input-processing"
     }
   }
 }
