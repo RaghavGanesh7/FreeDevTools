@@ -6,15 +6,12 @@ import Pagination from '@/components/Pagination.astro';
 import BottomPagination from '@/components/BottomPagination.astro';
 import { formatRepositoryName } from '@/lib/utils';
 import RepositoryCard from './_McpRepoCard.tsx';
-import { getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
+import { generateMcpCategoryPaths } from '@/lib/mcp-utils';
 
-// Generate static paths for all MCP categories
+// Generate static paths for all MCP categories using optimized utility
 export async function getStaticPaths() {
-  const categoryEntries = await getCollection('mcpCategoryData');
-  
-  return categoryEntries.map(entry => ({
-    params: { category: entry.data.category }
-  }));
+  return await generateMcpCategoryPaths();
 }
 
 // Get category from params
@@ -24,9 +21,9 @@ if (!category) {
   throw new Error('Category parameter is required');
 }
 
-// Load category data
-const categoryEntries = await getCollection('mcpCategoryData');
-const categoryEntry = categoryEntries.find(entry => entry.data.category === category);
+// Use getEntry for direct access instead of getCollection + find
+// This is more efficient as it directly accesses the specific category file
+const categoryEntry = await getEntry('mcpCategoryData', category);
 
 if (!categoryEntry) {
   throw new Error(`Category '${category}' not found`);

@@ -2,31 +2,14 @@
 import ToolContainer from '@/components/tool/ToolContainer.tsx';
 import ToolHead from '@/components/tool/ToolHead.tsx';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import { generateMcpStaticPaths } from '@/lib/mcp-utils';
 import { formatRepositoryName } from '@/lib/utils';
-import { getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
 import { marked } from 'marked';
 
-// Generate static paths for all MCP repositories
+// Generate static paths for all MCP repositories using optimized utility
 export async function getStaticPaths() {
-  const categoryEntries = await getCollection('mcpCategoryData');
-  console.log("--------------------------- categoryEntries", categoryEntries);
-  const paths = [];
-  
-  for (const entry of categoryEntries) {
-    const categoryData = entry.data;
-    const repositories = Object.keys(categoryData.repositories);
-    
-    for (const repositoryId of repositories) {
-      paths.push({
-        params: { 
-          category: categoryData.category,
-          repositoryId: repositoryId
-        }
-      });
-    }
-  }
-  
-  return paths;
+  return await generateMcpStaticPaths();
 }
 
 // Get parameters
@@ -36,9 +19,9 @@ if (!category || !repositoryId) {
   throw new Error('Category and repositoryId parameters are required');
 }
 
-// Load category data
-const categoryEntries = await getCollection('mcpCategoryData');
-const categoryEntry = categoryEntries.find(entry => entry.data.category === category);
+// Use getEntry for direct access instead of getCollection + find
+// This is more efficient as it directly accesses the specific category file
+const categoryEntry = await getEntry('mcpCategoryData', category);
 
 if (!categoryEntry) {
   throw new Error(`Category '${category}' not found`);
