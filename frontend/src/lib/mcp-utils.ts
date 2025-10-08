@@ -37,6 +37,33 @@ export async function generateMcpCategoryPaths() {
 }
 
 /**
+ * Generate paginated paths for MCP categories
+ */
+export async function generateMcpCategoryPaginatedPaths({
+  paginate,
+}: {
+  paginate: any;
+}) {
+  const categoryEntries = await getCollection('mcpCategoryData');
+  const allPaths = [];
+
+  for (const entry of categoryEntries) {
+    const categoryData = entry.data;
+    const categoryServers = Object.values(categoryData.repositories);
+
+    // Generate paginated paths for this category
+    const paginatedPaths = paginate(categoryServers, {
+      params: { category: categoryData.category },
+      pageSize: 30, // Default 20 items per page
+    });
+
+    allPaths.push(paginatedPaths);
+  }
+
+  return allPaths.flat();
+}
+
+/**
  * Create a category-to-repository mapping for efficient lookups
  * This can be used to avoid multiple queries in getStaticPaths
  */
