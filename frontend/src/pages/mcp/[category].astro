@@ -315,13 +315,13 @@ const breadcrumbItems = [
         </div>
       `;
     } else {
-      // Get the IDs of repositories that should be visible on current page
-      const visibleRepoIds = new Set(paginatedRepositories.map(repo => repo.id));
+      // Get the names of repositories that should be visible on current page
+      const visibleRepoNames = new Set(paginatedRepositories.map(repo => repo.name));
       
       // Show/hide cards based on whether they're in the current page
       repositoryCards.forEach((card) => {
-        const repoId = card.dataset.repoId;
-        if (repoId && visibleRepoIds.has(repoId)) {
+        const repoName = card.dataset.repoName;
+        if (repoName && visibleRepoNames.has(repoName)) {
           card.classList.remove('hidden');
         } else {
           card.classList.add('hidden');

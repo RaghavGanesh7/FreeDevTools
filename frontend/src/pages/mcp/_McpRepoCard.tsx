@@ -31,6 +31,7 @@ const RepositoryCard = ({ server, formattedName, category, repositoryId }: { ser
       data-repo-name={server.name}
       data-repo-description={server.description}
       data-repo-license={server.license}
+      suppressHydrationWarning
     >
       <div className="space-y-6">
         {/* First Row: Title */}
