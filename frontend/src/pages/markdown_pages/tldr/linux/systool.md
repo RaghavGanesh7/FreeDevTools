@@ -1,7 +1,7 @@
 ---
 title: "Systool - View System Devices | Online Free DevTools by Hexmos"
 name: systool
-path: /freedevtools/tldr/linux/systool
+path: "/freedevtools/tldr/linux/systool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systool/"
 description: "View system device information with Systool.  Inspect device attributes by bus and class, including drivers. Free online tool, no registration required."
 category: linux

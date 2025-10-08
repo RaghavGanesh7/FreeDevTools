@@ -1,7 +1,7 @@
 ---
 title: "List Drivers - Display Device Driver Info | Online Free DevTools by Hexmos"
 name: driverquery
-path: /freedevtools/tldr/windows/driverquery
+path: "/freedevtools/tldr/windows/driverquery/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/driverquery/"
 description: "Display driver information with Driverquery on Windows. Examine device driver properties and system configurations. Free online tool, no registration required."
 category: windows

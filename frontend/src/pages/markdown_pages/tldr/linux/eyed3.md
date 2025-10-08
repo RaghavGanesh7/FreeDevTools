@@ -1,7 +1,7 @@
 ---
 title: "eyeD3 - Control MP3 Metadata | Online Free DevTools by Hexmos"
 name: eyed3
-path: /freedevtools/tldr/linux/eyed3
+path: "/freedevtools/tldr/linux/eyed3/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eyed3/"
 description: "Control MP3 metadata with eyeD3. Set titles, albums, and cover art for your audio files. Free online tool, no registration required."
 category: linux

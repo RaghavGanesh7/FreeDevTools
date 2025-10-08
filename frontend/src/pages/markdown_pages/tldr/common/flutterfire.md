@@ -1,7 +1,7 @@
 ---
 title: "Configure Flutterfire - Setup Firebase Projects | Online Free DevTools by Hexmos"
 name: flutterfire
-path: "/freedevtools/tldr/common/flutterfire"
+path: "/freedevtools/tldr/common/flutterfire/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flutterfire/"
 description: "Configure Firebase projects easily with Flutterfire. Setup your Flutter app with necessary Firebase integrations and platforms. Free online tool, no registration required."
 category: common

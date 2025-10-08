@@ -1,7 +1,7 @@
 ---
 title: "Apachectl - Control Apache Server on macOS | Online Free DevTools by Hexmos"
 name: apachectl
-path: /freedevtools/tldr/osx/apachectl
+path: "/freedevtools/tldr/osx/apachectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/apachectl/"
 description: "Control Apache server easily with Apachectl on macOS. Manage Apache's start, stop, and restart functionalities. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Dump exFAT - Format Data with exFAT Dumper | Online Free DevTools by Hexmos"
 name: dump.exfat
-path: /freedevtools/tldr/linux/dump-exfat
+path: "/freedevtools/tldr/linux/dump-exfat/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/dump-exfat/"
 description: "Format data with Dump exFAT, a powerful exFAT file system information tool. Analyze and validate exFAT partitions with ease. Free online tool, no registration required."
 category: linux

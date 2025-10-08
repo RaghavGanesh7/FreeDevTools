@@ -1,7 +1,7 @@
 ---
 title: "XDG Settings - Manage Desktop Environment Settings | Online Free DevTools by Hexmos"
 name: xdg-settings
-path: /freedevtools/tldr/linux/xdg-settings
+path: "/freedevtools/tldr/linux/xdg-settings/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xdg-settings/"
 description: "Manage XDG desktop environment settings with xdg-settings. Configure default applications, URL handlers and more on Linux. Free online tool, no registration required."
 category: linux

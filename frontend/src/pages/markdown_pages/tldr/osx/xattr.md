@@ -1,7 +1,7 @@
 ---
 title: "Xattr - Control File Attributes | Online Free DevTools by Hexmos"
 name: xattr
-path: /freedevtools/tldr/osx/xattr
+path: "/freedevtools/tldr/osx/xattr/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xattr/"
 description: "Control file attributes with Xattr on macOS. Easily manage extended filesystem attributes, set quarantine flags, and clear metadata. Free online tool, no registration required."
 category: osx

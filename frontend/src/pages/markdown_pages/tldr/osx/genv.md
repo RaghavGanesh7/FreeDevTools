@@ -1,7 +1,7 @@
 ---
 title: "Env - Control Environment Variables on OSX | Online Free DevTools by Hexmos"
 name: genv
-path: /freedevtools/tldr/osx/genv
+path: "/freedevtools/tldr/osx/genv/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/genv/"
 description: "Control environment variables on OSX with Env. Easily manage process environments, set variables, and execute commands within a defined context. Free online tool, no registration required."
 category: osx

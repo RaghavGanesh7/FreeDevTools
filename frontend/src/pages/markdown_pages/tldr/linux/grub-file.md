@@ -1,7 +1,7 @@
 ---
 title: "GRUB File Check - Validate Bootable Image Type | Online Free DevTools by Hexmos"
 name: grub-file
-path: /freedevtools/tldr/linux/grub-file
+path: "/freedevtools/tldr/linux/grub-file/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/grub-file/"
 description: "Validate bootable image types with GRUB file, a Linux command to verify image architectures like EFI and XNU. Free online tool, no registration required."
 category: linux

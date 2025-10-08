@@ -1,7 +1,7 @@
 ---
 title: "SSL Scan - Check SSL/TLS Protocols | Online Free DevTools by Hexmos"
 name: sslscan
-path: /freedevtools/tldr/common/sslscan
+path: "/freedevtools/tldr/common/sslscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sslscan/"
 description: "Check SSL/TLS protocols with SSL Scan. Analyze server configurations and identify vulnerabilities with ease. Free online tool, no registration required."
 category: common

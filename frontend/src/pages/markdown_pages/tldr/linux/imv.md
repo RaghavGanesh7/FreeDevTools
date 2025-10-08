@@ -1,7 +1,7 @@
 ---
 title: "Image Viewer - View Images in CLI | Online Free DevTools by Hexmos"
 name: imv
-path: /freedevtools/tldr/linux/imv
+path: "/freedevtools/tldr/linux/imv/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/imv/"
 description: "View images instantly with imv, a command-line image viewer for Linux. Supports multiple image formats and tiling window managers. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Monodis Disassembler - Analyze CIL Assemblies | Online Free DevTools by Hexmos"
 name: monodis
-path: /freedevtools/tldr/common/monodis
+path: "/freedevtools/tldr/common/monodis/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/monodis/"
 description: "Analyze CIL assemblies with Monodis Disassembler. Inspect .NET bytecode and extract resources. Free online tool, no registration required."
 category: common

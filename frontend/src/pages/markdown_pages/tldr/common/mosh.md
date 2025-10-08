@@ -1,7 +1,7 @@
 ---
 title: "Mosh Shell - Connect Securely to Remote Servers | Online Free DevTools by Hexmos"
 name: mosh
-path: /freedevtools/tldr/common/mosh
+path: "/freedevtools/tldr/common/mosh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mosh/"
 description: "Connect securely with Mosh Shell, a robust SSH replacement. Persist connections, even while roaming. Free online tool, no registration required."
 category: common

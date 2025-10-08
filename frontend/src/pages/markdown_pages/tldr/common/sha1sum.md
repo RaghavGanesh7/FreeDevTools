@@ -1,7 +1,7 @@
 ---
 title: "Calculate SHA1 Checksum - Verify File Integrity | Online Free DevTools by Hexmos"
 name: sha1sum
-path: /freedevtools/tldr/common/sha1sum
+path: "/freedevtools/tldr/common/sha1sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sha1sum/"
 description: "Calculate SHA1 checksum with sha1sum, verify file integrity using this checksum generator, ensuring data authenticity. Free online tool, no registration required."
 category: common

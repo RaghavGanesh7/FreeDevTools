@@ -1,7 +1,7 @@
 ---
 title: "Create ODPS Table - Manage Data Storage | Online Free DevTools by Hexmos"
 name: odps-table
-path: /freedevtools/tldr/odps/odps-table
+path: "/freedevtools/tldr/odps/odps-table/"
 canonical: "https://hexmos.com/freedevtools/tldr/odps/odps-table/"
 description: "Create ODPS tables with ODPS Table command. Manage data storage, define partitions, and set lifecycle policies in Alibaba Cloud's Open Data Processing Service. Free online tool, no registration required."
 category: common

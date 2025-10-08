@@ -1,7 +1,7 @@
 ---
 title: "Systemd-nspawn - Create Linux Containers | Online Free DevTools by Hexmos"
 name: systemd-nspawn
-path: /freedevtools/tldr/linux/systemd-nspawn
+path: "/freedevtools/tldr/linux/systemd-nspawn/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-nspawn/"
 description: "Create Linux containers with systemd-nspawn. Easily spawn commands and OS in lightweight containers. Free online tool, no registration required."
 category: linux

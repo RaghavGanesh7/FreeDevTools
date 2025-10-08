@@ -1,7 +1,7 @@
 ---
 title: "Network Control - Manage Network Links | Online Free DevTools by Hexmos"
 name: networkctl
-path: /freedevtools/tldr/linux/networkctl
+path: "/freedevtools/tldr/linux/networkctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/networkctl/"
 description: "Network control with networkctl. Manage network links and configurations using systemd-networkd on Linux. Free online tool, no registration required."
 category: linux

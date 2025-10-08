@@ -1,7 +1,7 @@
 ---
 title: "Convolve PNM Image - Process Images | Online Free DevTools by Hexmos"
 name: pnmconvol
-path: /freedevtools/tldr/pnm/pnmconvol
+path: "/freedevtools/tldr/pnm/pnmconvol/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmconvol/"
 description: "Process images with PNMConvol, a powerful image convolution tool. Enhance, blur, or sharpen images with custom matrices. Free online tool, no registration required."
 category: common

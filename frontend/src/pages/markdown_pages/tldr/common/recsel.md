@@ -1,7 +1,7 @@
 ---
 title: "Extract Recfile Records - Print Data | Online Free DevTools by Hexmos"
 name: recsel
-path: /freedevtools/tldr/common/recsel
+path: "/freedevtools/tldr/common/recsel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/recsel/"
 description: "Extract recfile records with recsel. Select, filter, and print data from recfile databases. Free online tool, no registration required."
 category: common

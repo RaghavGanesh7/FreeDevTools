@@ -1,7 +1,7 @@
 ---
 title: "Chkrootkit - Scan System for Rootkits | Online Free DevTools by Hexmos"
 name: chkrootkit
-path: /freedevtools/tldr/common/chkrootkit
+path: "/freedevtools/tldr/common/chkrootkit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chkrootkit/"
 description: "Scan system for rootkits with chkrootkit. Detect security threats and vulnerabilities on Linux systems. Free online tool, no registration required."
 category: common

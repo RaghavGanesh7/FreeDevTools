@@ -1,7 +1,7 @@
 ---
 title: "Sui Command - Interact with Sui Network | Online Free DevTools by Hexmos"
 name: sui
-path: /freedevtools/tldr/sui/sui
+path: "/freedevtools/tldr/sui/sui/"
 canonical: "https://hexmos.com/freedevtools/tldr/sui/sui/"
 description: "Interact with the Sui Network using Sui Command. Publish smart contracts, execute transactions, and manage your Sui blockchain. Free online tool, no registration required."
 category: common

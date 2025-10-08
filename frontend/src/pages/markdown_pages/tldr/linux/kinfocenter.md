@@ -1,7 +1,7 @@
 ---
 title: "Kinfocenter - Show System Information | Online Free DevTools by Hexmos"
 name: kinfocenter
-path: /freedevtools/tldr/linux/kinfocenter
+path: "/freedevtools/tldr/linux/kinfocenter/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kinfocenter/"
 description: "Show system information with Kinfocenter. Explore hardware details and software configuration using this KDE information tool on Linux. Free online tool, no registration required."
 category: linux

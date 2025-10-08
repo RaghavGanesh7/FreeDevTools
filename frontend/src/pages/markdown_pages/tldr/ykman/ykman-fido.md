@@ -1,7 +1,7 @@
 ---
 title: "Manage YubiKey FIDO - Secure Authentication | Online Free DevTools by Hexmos"
 name: ykman-fido
-path: /freedevtools/tldr/ykman/ykman-fido
+path: "/freedevtools/tldr/ykman/ykman-fido/"
 canonical: "https://hexmos.com/freedevtools/tldr/ykman/ykman-fido/"
 description: "Secure FIDO authentication with YubiKey FIDO Manager. Manage credentials, PINs, and fingerprints for enhanced security. Free online tool, no registration required."
 category: common

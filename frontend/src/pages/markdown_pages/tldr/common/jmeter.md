@@ -1,7 +1,7 @@
 ---
 title: "JMeter Load Testing - Measure Performance | Online Free DevTools by Hexmos"
 name: jmeter
-path: /freedevtools/tldr/common/jmeter
+path: "/freedevtools/tldr/common/jmeter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jmeter/"
 description: "Measure performance with JMeter load testing tool. Analyze web application performance and identify bottlenecks effortlessly. Free online tool, no registration required."
 category: common

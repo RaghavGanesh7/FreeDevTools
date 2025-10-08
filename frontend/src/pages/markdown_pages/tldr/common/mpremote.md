@@ -1,7 +1,7 @@
 ---
 title: "mpremote - Control MicroPython Devices | Online Free DevTools by Hexmos"
 name: mpremote
-path: /freedevtools/tldr/common/mpremote
+path: "/freedevtools/tldr/common/mpremote/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpremote/"
 description: "Control MicroPython devices remotely with mpremote. Manage connected devices, run scripts, and install packages easily. Free online tool, no registration required."
 category: common

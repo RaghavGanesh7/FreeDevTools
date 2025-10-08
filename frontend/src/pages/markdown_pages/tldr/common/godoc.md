@@ -1,7 +1,7 @@
 ---
 title: "Godoc - View Go Package Documentation | Online Free DevTools by Hexmos"
 name: godoc
-path: "/freedevtools/tldr/common/godoc"
+path: "/freedevtools/tldr/common/godoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/godoc/"
 description: "View Go package documentation with Godoc. Explore package details, function definitions, and serve documentation locally. Free online tool, no registration required."
 category: common

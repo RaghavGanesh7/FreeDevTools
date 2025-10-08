@@ -1,7 +1,7 @@
 ---
 title: "Display Keys - Control Screenkey | Online Free DevTools by Hexmos"
 name: screenkey
-path: /freedevtools/tldr/linux/screenkey
+path: "/freedevtools/tldr/linux/screenkey/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/screenkey/"
 description: "Display pressed keys with Screenkey on Linux. Show keystrokes and mouse clicks on screen for screencasting and presentations. Free online tool, no registration required."
 category: linux

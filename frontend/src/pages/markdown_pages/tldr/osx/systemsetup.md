@@ -1,7 +1,7 @@
 ---
 title: "Systemsetup - Configure macOS Settings | Online Free DevTools by Hexmos"
 name: systemsetup
-path: /freedevtools/tldr/osx/systemsetup
+path: "/freedevtools/tldr/osx/systemsetup/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/systemsetup/"
 description: "Configure macOS system settings with Systemsetup. Control timezone, sleep settings, and startup disks easily with this command line tool. Free online tool, no registration required."
 category: osx

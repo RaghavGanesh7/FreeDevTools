@@ -1,7 +1,7 @@
 ---
 title: "Encrypt Files - Secure Files with Rage | Online Free DevTools by Hexmos"
 name: rage
-path: /freedevtools/tldr/common/rage
+path: "/freedevtools/tldr/common/rage/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rage/"
 description: "Encrypt files securely with Rage. Protect sensitive data using modern encryption. Simple, secure, and composable file encryption tool. Free online tool, no registration required."
 category: common

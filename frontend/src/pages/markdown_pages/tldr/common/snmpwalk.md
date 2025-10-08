@@ -1,7 +1,7 @@
 ---
 title: "SNMP Query - Control Network Devices | Online Free DevTools by Hexmos"
 name: snmpwalk
-path: /freedevtools/tldr/common/snmpwalk
+path: "/freedevtools/tldr/common/snmpwalk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snmpwalk/"
 description: "Query network devices with SNMPwalk. Retrieve system information, monitor device health, and troubleshoot network issues. Free online tool, no registration required."
 category: common

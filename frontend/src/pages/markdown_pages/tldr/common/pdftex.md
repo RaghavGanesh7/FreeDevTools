@@ -1,7 +1,7 @@
 ---
 title: "Create PDF Documents - Compile TeX Files | Online Free DevTools by Hexmos"
 name: pdftex
-path: /freedevtools/tldr/common/pdftex
+path: "/freedevtools/tldr/common/pdftex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdftex/"
 description: "Create PDF documents with pdftex. Compile TeX source files to PDF output with this command-line tool. Free online tool, no registration required."
 category: common

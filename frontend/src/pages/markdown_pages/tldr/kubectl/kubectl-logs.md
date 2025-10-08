@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Logs - Show Pod Logs | Online Free DevTools by Hexmos"
 name: kubectl-logs
-path: /freedevtools/tldr/kubectl/kubectl-logs
+path: "/freedevtools/tldr/kubectl/kubectl-logs/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-logs/"
 description: "Show Pod logs instantly with Kubectl Logs. Monitor container output, debug application issues, and troubleshoot deployments. Free online tool, no registration required."
 category: common

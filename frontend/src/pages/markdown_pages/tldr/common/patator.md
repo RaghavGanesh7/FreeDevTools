@@ -1,7 +1,7 @@
 ---
 title: "Brute Force Passwords - Control Access with Patator | Online Free DevTools by Hexmos"
 name: patator
-path: /freedevtools/tldr/common/patator
+path: "/freedevtools/tldr/common/patator/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/patator/"
 description: "Brute force passwords with Patator, a versatile and modular brute-forcing tool. Automate password cracking and security testing for various protocols. Free online tool, no registration required."
 category: common

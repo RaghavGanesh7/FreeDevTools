@@ -1,7 +1,7 @@
 ---
 title: "Convert PNM to UIL - Generate Motif Icon Files | Online Free DevTools by Hexmos"
 name: pamtouil
-path: /freedevtools/tldr/common/pamtouil
+path: "/freedevtools/tldr/common/pamtouil/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtouil/"
 description: "Generate Motif UIL icon files with pamtouil from PNM or PAM images. A command line image converter for developers. Free online tool, no registration required."
 category: common

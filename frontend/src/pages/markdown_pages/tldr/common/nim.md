@@ -1,7 +1,7 @@
 ---
 title: "Nim Compiler - Compile Nim Code | Online Free DevTools by Hexmos"
 name: nim
-path: /freedevtools/tldr/common/nim
+path: "/freedevtools/tldr/common/nim/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nim/"
 description: "Compile code with Nim Compiler. Build optimized binaries and generate documentation for Nim modules effortlessly. Free online tool, no registration required."
 category: common

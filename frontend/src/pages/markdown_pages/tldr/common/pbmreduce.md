@@ -1,7 +1,7 @@
 ---
 title: "Reduce PBM Image - Proportionally Shrink Images | Online Free DevTools by Hexmos"
 name: pbmreduce
-path: /freedevtools/tldr/common/pbmreduce
+path: "/freedevtools/tldr/common/pbmreduce/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmreduce/"
 description: "Reduce PBM images proportionally with pbmreduce. Optimize image sizes while maintaining aspect ratio with this simple command-line tool. Free online tool, no registration required."
 category: common

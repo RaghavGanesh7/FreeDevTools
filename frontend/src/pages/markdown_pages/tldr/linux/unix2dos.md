@@ -1,7 +1,7 @@
 ---
 title: "Unix2dos - Convert Line Endings to DOS | Online Free DevTools by Hexmos"
 name: unix2dos
-path: "/freedevtools/tldr/linux/unix2dos"
+path: "/freedevtools/tldr/linux/unix2dos/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unix2dos/"
 description: "Convert line endings to DOS format with Unix2dos. Easily change LF to CRLF on Linux files. Free online tool, no registration required."
 category: linux

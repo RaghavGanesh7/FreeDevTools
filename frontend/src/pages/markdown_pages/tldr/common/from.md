@@ -1,7 +1,7 @@
 ---
 title: "Print Mail Headers - Inspect Mailbox Details | Online Free DevTools by Hexmos"
 name: from
-path: /freedevtools/tldr/common/from
+path: "/freedevtools/tldr/common/from/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/from/"
 description: "Print mail headers with From command. Display mailbox summaries, filter by sender, and access specific mail directories effortlessly. Free online tool, no registration required."
 category: common

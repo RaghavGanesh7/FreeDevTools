@@ -1,7 +1,7 @@
 ---
 title: "Run Nextflow Pipelines - Execute Bioinformatics Workflows | Online Free DevTools by Hexmos"
 name: nextflow
-path: /freedevtools/tldr/common/nextflow
+path: "/freedevtools/tldr/common/nextflow/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nextflow/"
 description: "Execute computational pipelines with Nextflow. Run bioinformatics workflows, manage dependencies, and track results efficiently. Free online tool, no registration required."
 category: common

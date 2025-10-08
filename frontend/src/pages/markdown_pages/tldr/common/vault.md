@@ -1,7 +1,7 @@
 ---
 title: "Vault Control - Secure Data Storage | Online Free DevTools by Hexmos"
 name: vault
-path: /freedevtools/tldr/common/vault
+path: "/freedevtools/tldr/common/vault/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vault/"
 description: "Control secure data storage with Vault. Encrypt, store, and manage sensitive information using command-line secrets management. Free online tool, no registration required."
 category: common

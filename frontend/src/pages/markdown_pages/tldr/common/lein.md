@@ -1,7 +1,7 @@
 ---
 title: "Manage Clojure Projects - With Lein | Online Free DevTools by Hexmos"
 name: lein
-path: /freedevtools/tldr/common/lein
+path: "/freedevtools/tldr/common/lein/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lein/"
 description: "Manage Clojure projects efficiently with Lein, the declarative configuration tool. Generate scaffolding, run tests, and package applications with ease. Free online tool, no registration required."
 category: common

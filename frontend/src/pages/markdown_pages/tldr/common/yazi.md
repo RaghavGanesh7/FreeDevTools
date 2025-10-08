@@ -1,7 +1,7 @@
 ---
 title: "Yazi File Manager - Control Terminal Files | Online Free DevTools by Hexmos"
 name: yazi
-path: /freedevtools/tldr/common/yazi
+path: "/freedevtools/tldr/common/yazi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yazi/"
 description: "Control terminal files instantly with Yazi File Manager. Manage files efficiently, navigate quickly, and customize your terminal experience. Free online tool, no registration required."
 category: common

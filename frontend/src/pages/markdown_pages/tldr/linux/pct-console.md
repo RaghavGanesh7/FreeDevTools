@@ -1,7 +1,7 @@
 ---
 title: "Control Container TTY - PCT Console Access | Online Free DevTools by Hexmos"
 name: pct-console
-path: /freedevtools/tldr/linux/pct-console
+path: "/freedevtools/tldr/linux/pct-console/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-console/"
 description: "Control container TTY access with PCT Console. Attach, detach, and manage container terminals from the command line. Free online tool, no registration required."
 category: linux

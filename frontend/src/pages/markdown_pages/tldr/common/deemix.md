@@ -1,7 +1,7 @@
 ---
 title: "Deezer Downloader - Download Music | Online Free DevTools by Hexmos"
 name: deemix
-path: /freedevtools/tldr/common/deemix
+path: "/freedevtools/tldr/common/deemix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/deemix/"
 description: "Download Deezer music easily with Deemix. Download tracks, playlists, and albums in FLAC or MP3. Free online tool, no registration required."
 category: common

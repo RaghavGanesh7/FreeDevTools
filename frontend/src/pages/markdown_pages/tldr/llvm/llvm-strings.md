@@ -1,7 +1,7 @@
 ---
 title: "Strings Command - Extract Text | Online Free DevTools by Hexmos"
 name: llvm-strings
-path: /freedevtools/tldr/llvm/llvm-strings
+path: "/freedevtools/tldr/llvm/llvm-strings/"
 canonical: "https://hexmos.com/freedevtools/tldr/llvm/llvm-strings/"
 description: "Extract strings from binary files with the Strings Command. Analyze text patterns and identify hidden information with this free online tool, no registration required."
 category: common

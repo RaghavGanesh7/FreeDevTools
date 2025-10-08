@@ -1,7 +1,7 @@
 ---
 title: "Docker Diff - Inspect Container File Changes | Online Free DevTools by Hexmos"
 name: docker-diff
-path: /freedevtools/tldr/docker/docker-diff
+path: "/freedevtools/tldr/docker/docker-diff/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-diff/"
 description: "Inspect Docker container file changes with Docker Diff. View modifications, additions, and deletions in container filesystems using the command line. Free online tool, no registration required."
 category: common

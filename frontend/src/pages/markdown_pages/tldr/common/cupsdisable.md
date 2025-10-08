@@ -1,7 +1,7 @@
 ---
 title: "CUPS Disable - Stop Printers & Classes | Online Free DevTools by Hexmos"
 name: cupsdisable
-path: /freedevtools/tldr/common/cupsdisable
+path: "/freedevtools/tldr/common/cupsdisable/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cupsdisable/"
 description: "Disable CUPS printers with CUPS Disable. Quickly stop printers and classes via the command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Remove Unused Python Imports - Autoflake | Online Free DevTools by Hexmos"
 name: autoflake
-path: /freedevtools/tldr/common/autoflake
+path: "/freedevtools/tldr/common/autoflake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/autoflake/"
 description: "Remove unused Python imports and variables with Autoflake. Clean your code automatically and improve readability for easier maintenance. Free online tool, no registration required."
 category: common

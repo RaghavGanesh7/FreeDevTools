@@ -1,7 +1,7 @@
 ---
 title: "Format Go Code - Format Go Source Code | Online Free DevTools by Hexmos"
 name: gofmt
-path: /freedevtools/tldr/common/gofmt
+path: "/freedevtools/tldr/common/gofmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gofmt/"
 description: "Format Go source code with gofmt. Quickly format, simplify, and improve the readability of your Go programs. Free online tool, no registration required."
 category: common

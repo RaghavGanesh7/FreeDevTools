@@ -1,7 +1,7 @@
 ---
 title: "Control SELinux - Set Enforcing Mode | Online Free DevTools by Hexmos"
 name: setenforce
-path: /freedevtools/tldr/linux/setenforce
+path: "/freedevtools/tldr/linux/setenforce/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setenforce/"
 description: "Control SELinux mode with the setenforce command.  Switch between enforcing and permissive modes easily for enhanced security. Free online tool, no registration required."
 category: linux

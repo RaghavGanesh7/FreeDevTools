@@ -1,7 +1,7 @@
 ---
 title: "Create Java Programs - Run Source Code with Jbang | Online Free DevTools by Hexmos"
 name: jbang
-path: /freedevtools/tldr/common/jbang
+path: "/freedevtools/tldr/common/jbang/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jbang/"
 description: "Create Java programs instantly with Jbang. Run self-contained source code directly without compiling. Free online tool, no registration required."
 category: common

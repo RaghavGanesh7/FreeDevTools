@@ -1,7 +1,7 @@
 ---
 title: "Automate Git Workflow - Magic Add, Commit, Push | Online Free DevTools by Hexmos"
 name: git-magic
-path: /freedevtools/tldr/git/git-magic
+path: "/freedevtools/tldr/git/git-magic/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-magic/"
 description: "Automate Git workflow with Git Magic. Streamline adding, committing, and pushing changes with ease. Free online tool, no registration required."
 category: common

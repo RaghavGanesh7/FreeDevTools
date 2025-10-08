@@ -1,7 +1,7 @@
 ---
 title: "Create Laravel Projects - Lambo New Command | Online Free DevTools by Hexmos"
 name: lambo-new
-path: /freedevtools/tldr/common/lambo-new
+path: "/freedevtools/tldr/common/lambo-new/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lambo-new/"
 description: "Create Laravel applications quickly with Lambo New. Scaffold new projects, install dependencies, and configure databases easily. Free online tool, no registration required."
 category: common

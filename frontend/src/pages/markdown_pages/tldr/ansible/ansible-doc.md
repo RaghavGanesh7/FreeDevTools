@@ -1,7 +1,7 @@
 ---
 title: "Ansible-Doc - Display Ansible Module Info | Online Free DevTools by Hexmos"
 name: ansible-doc
-path: /freedevtools/tldr/ansible/ansible-doc
+path: "/freedevtools/tldr/ansible/ansible-doc/"
 canonical: "https://hexmos.com/freedevtools/tldr/ansible/ansible-doc/"
 description: "Display Ansible module information with ansible-doc. Explore module details, examples, and playbook snippets. Free online tool, no registration required."
 category: common

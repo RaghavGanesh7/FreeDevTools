@@ -1,7 +1,7 @@
 ---
 title: "Xvfb-run - Run Commands in Virtual X Server | Online Free DevTools by Hexmos"
 name: xvfb-run
-path: /freedevtools/tldr/linux/xvfb-run
+path: "/freedevtools/tldr/linux/xvfb-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xvfb-run/"
 description: "Run commands virtually with Xvfb-run, creating a virtual X server environment. Execute graphical applications without a display using this Linux command. Free online tool, no registration required."
 category: linux

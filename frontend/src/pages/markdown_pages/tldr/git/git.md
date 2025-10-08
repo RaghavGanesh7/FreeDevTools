@@ -1,7 +1,7 @@
 ---
 title: "Git Control - Manage Versions with Git Commands | Online Free DevTools by Hexmos"
 name: git
-path: /freedevtools/tldr/git/git
+path: "/freedevtools/tldr/git/git/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git/"
 description: "Manage software versions efficiently with Git Control. Streamline collaboration and track changes seamlessly. Free online tool, no registration required."
 category: common

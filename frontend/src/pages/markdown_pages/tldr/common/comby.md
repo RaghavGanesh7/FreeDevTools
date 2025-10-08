@@ -1,7 +1,7 @@
 ---
 title: "Rewrite Code - Structure Search and Replace with Comby | Online Free DevTools by Hexmos"
 name: comby
-path: /freedevtools/tldr/common/comby
+path: "/freedevtools/tldr/common/comby/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/comby/"
 description: "Rewrite code structurally with Comby. Search and replace code patterns across multiple languages efficiently. Free online tool, no registration required."
 category: common

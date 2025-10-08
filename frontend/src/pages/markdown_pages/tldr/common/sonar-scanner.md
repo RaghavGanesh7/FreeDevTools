@@ -1,7 +1,7 @@
 ---
 title: "Sonar Scanner - Analyze Code | Online Free DevTools by Hexmos"
 name: sonar-scanner
-path: /freedevtools/tldr/common/sonar-scanner
+path: "/freedevtools/tldr/common/sonar-scanner/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sonar-scanner/"
 description: "Analyze code with Sonar Scanner. Scan projects for bugs, vulnerabilities, and code smells using a generic scanner. Free online tool, no registration required."
 category: common

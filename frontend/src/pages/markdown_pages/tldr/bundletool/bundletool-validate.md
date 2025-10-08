@@ -1,7 +1,7 @@
 ---
 title: "Bundletool Validate - Verify Android Bundles | Online Free DevTools by Hexmos"
 name: bundletool-validate
-path: /freedevtools/tldr/bundletool/bundletool-validate
+path: "/freedevtools/tldr/bundletool/bundletool-validate/"
 canonical: "https://hexmos.com/freedevtools/tldr/bundletool/bundletool-validate/"
 description: "Validate Android Application Bundles with Bundletool. Analyze and verify AAB files to ensure compatibility and proper formatting. Free online tool, no registration required."
 category: common

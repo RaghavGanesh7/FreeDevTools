@@ -1,7 +1,7 @@
 ---
 title: "Control rbash Shell - Restrict Bash Commands | Online Free DevTools by Hexmos"
 name: rbash
-path: /freedevtools/tldr/common/rbash
+path: "/freedevtools/tldr/common/rbash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rbash/"
 description: "Control shell commands with rbash. Restrict user access to Bash environment and enhance system security. Free online tool, no registration required."
 category: common

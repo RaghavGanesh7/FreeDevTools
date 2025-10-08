@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM to PNM - Format Images | Online Free DevTools by Hexmos"
 name: pamnoraw
-path: /freedevtools/tldr/common/pamnoraw
+path: "/freedevtools/tldr/common/pamnoraw/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamnoraw/"
 description: "Convert PAM images to PNM format with pamnoraw. Quickly process and format image files using this command line tool. Free online tool, no registration required."
 category: common

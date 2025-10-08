@@ -1,7 +1,7 @@
 ---
 title: "Assoc - Manage File Associations | Online Free DevTools by Hexmos"
 name: assoc
-path: /freedevtools/tldr/windows/assoc
+path: "/freedevtools/tldr/windows/assoc/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/assoc/"
 description: "Manage file associations with Assoc. Configure file extension associations and control file type mappings with this Windows command. Free online tool, no registration required."
 category: windows

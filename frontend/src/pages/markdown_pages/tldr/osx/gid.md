@@ -1,7 +1,7 @@
 ---
 title: "GID - View User Group ID | Online Free DevTools by Hexmos"
 name: gid
-path: /freedevtools/tldr/osx/gid
+path: "/freedevtools/tldr/osx/gid/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gid/"
 description: "View user group ID with GID, an alias for GNU id on macOS. Check user groups and manage user identification quickly. Free online tool, no registration required."
 category: osx

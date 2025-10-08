@@ -1,7 +1,7 @@
 ---
 title: "QM Terminal - Control VM Serial Console | Online Free DevTools by Hexmos"
 name: qm-terminal
-path: /freedevtools/tldr/linux/qm-terminal
+path: "/freedevtools/tldr/linux/qm-terminal/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-terminal/"
 description: "Control VM serial consoles with QM Terminal. Access and manage virtual machine terminals directly from the command line. Free online tool, no registration required."
 category: linux

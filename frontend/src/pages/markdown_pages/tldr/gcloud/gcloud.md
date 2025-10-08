@@ -1,7 +1,7 @@
 ---
 title: "Control Google Cloud - Manage GCP Resources | Online Free DevTools by Hexmos"
 name: gcloud
-path: /freedevtools/tldr/gcloud/gcloud
+path: "/freedevtools/tldr/gcloud/gcloud/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcloud/gcloud/"
 description: "Control Google Cloud resources with gcloud. Manage projects, instances, and deployments. Free online tool, no registration required. Simplify GCP management."
 category: common

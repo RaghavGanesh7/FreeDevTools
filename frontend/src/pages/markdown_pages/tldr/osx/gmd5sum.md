@@ -1,7 +1,7 @@
 ---
 title: "MD5 Checksum - Generate File Hashes | Online Free DevTools by Hexmos"
 name: gmd5sum
-path: /freedevtools/tldr/osx/gmd5sum
+path: "/freedevtools/tldr/osx/gmd5sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gmd5sum/"
 description: "Generate MD5 checksums with gmd5sum, an alias for GNU md5sum on macOS. Verify file integrity and ensure data security. Free online tool, no registration required."
 category: osx

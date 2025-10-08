@@ -1,7 +1,7 @@
 ---
 title: "IEx Shell - Control Elixir Interactions | Online Free DevTools by Hexmos"
 name: iex
-path: /freedevtools/tldr/common/iex
+path: "/freedevtools/tldr/common/iex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/iex/"
 description: "Control Elixir code interactions with IEx Shell. Start interactive sessions, load projects, and manage history. Free online tool, no registration required."
 category: common

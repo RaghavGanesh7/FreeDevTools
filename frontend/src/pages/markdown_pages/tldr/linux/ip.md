@@ -1,7 +1,7 @@
 ---
 title: "Control Network with ip Command - Manage Routing | Online Free DevTools by Hexmos"
 name: ip
-path: /freedevtools/tldr/linux/ip
+path: "/freedevtools/tldr/linux/ip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ip/"
 description: "Manage network interfaces and routing tables with the ip command.  Configure IP addresses, routes, and network devices efficiently. Free online tool, no registration required."
 category: linux

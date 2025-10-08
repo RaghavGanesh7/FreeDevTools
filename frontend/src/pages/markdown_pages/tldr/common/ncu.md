@@ -1,7 +1,7 @@
 ---
 title: "Check Package Updates - Update npm Packages with ncu | Online Free DevTools by Hexmos"
 name: ncu
-path: /freedevtools/tldr/common/ncu
+path: "/freedevtools/tldr/common/ncu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ncu/"
 description: "Check npm package updates with ncu. Find and upgrade outdated dependencies in your package.json. Free online tool, no registration required."
 category: common

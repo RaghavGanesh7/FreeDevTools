@@ -1,7 +1,7 @@
 ---
 title: "LVM Logical Volumes - Display LVM Information | Online Free DevTools by Hexmos"
 name: lvs
-path: /freedevtools/tldr/linux/lvs
+path: "/freedevtools/tldr/linux/lvs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lvs/"
 description: "Display LVM logical volume information with the lvs command.  Manage and view your logical volumes efficiently. Free online tool, no registration required."
 category: linux

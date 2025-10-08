@@ -1,7 +1,7 @@
 ---
 title: "Plesk Control Panel - Manage Hosting | Online Free DevTools by Hexmos"
 name: plesk
-path: /freedevtools/tldr/common/plesk
+path: "/freedevtools/tldr/common/plesk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/plesk/"
 description: "Control hosting environments with Plesk Control Panel. Manage domains, databases, and server settings efficiently using command-line. Free online tool, no registration required."
 category: common

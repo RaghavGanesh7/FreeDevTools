@@ -1,7 +1,7 @@
 ---
 title: "DVC Add - Control Data Versions | Online Free DevTools by Hexmos"
 name: dvc-add
-path: /freedevtools/tldr/dvc/dvc-add
+path: "/freedevtools/tldr/dvc/dvc-add/"
 canonical: "https://hexmos.com/freedevtools/tldr/dvc/dvc-add/"
 description: "Control data versions with DVC Add. Track changes, manage datasets, and maintain reproducible data pipelines. Free online tool, no registration required."
 category: common

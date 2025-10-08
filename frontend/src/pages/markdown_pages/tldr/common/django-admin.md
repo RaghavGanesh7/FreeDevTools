@@ -1,7 +1,7 @@
 ---
 title: "Django-admin - Control Django Projects | Online Free DevTools by Hexmos"
 name: django-admin
-path: /freedevtools/tldr/common/django-admin
+path: "/freedevtools/tldr/common/django-admin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/django-admin/"
 description: "Control Django projects and apps with django-admin. Quickly create, manage, and debug your Django applications from the command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "CDRDAO - Create CD Images | Online Free DevTools by Hexmos"
 name: cdrdao
-path: /freedevtools/tldr/linux/cdrdao
+path: "/freedevtools/tldr/linux/cdrdao/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cdrdao/"
 description: "Create CD images with CDRDAO, a powerful command-line tool for reading and writing CDs.  Manage disc data efficiently and accurately. Free online tool, no registration required."
 category: linux

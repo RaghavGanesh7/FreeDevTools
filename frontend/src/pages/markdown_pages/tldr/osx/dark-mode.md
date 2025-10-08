@@ -1,7 +1,7 @@
 ---
 title: "Dark Mode - Control macOS Appearance | Online Free DevTools by Hexmos"
 name: dark-mode
-path: /freedevtools/tldr/osx/dark-mode
+path: "/freedevtools/tldr/osx/dark-mode/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/dark-mode/"
 description: "Control macOS dark mode appearance with Dark Mode tool. Easily toggle, enable, disable, and check dark mode status. Free online tool, no registration required."
 category: osx

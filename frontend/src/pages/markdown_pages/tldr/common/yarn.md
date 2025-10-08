@@ -1,7 +1,7 @@
 ---
 title: "Manage Yarn Packages - Install, Remove | Online Free DevTools by Hexmos"
 name: yarn
-path: /freedevtools/tldr/common/yarn
+path: "/freedevtools/tldr/common/yarn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yarn/"
 description: "Manage dependencies with Yarn. Install, remove, and update JavaScript packages for your projects. Free online tool, no registration required."
 category: common

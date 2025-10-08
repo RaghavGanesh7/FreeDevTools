@@ -1,7 +1,7 @@
 ---
 title: "BZEgrep - Search Compressed Files with Regex | Online Free DevTools by Hexmos"
 name: bzegrep
-path: /freedevtools/tldr/common/bzegrep
+path: "/freedevtools/tldr/common/bzegrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bzegrep/"
 description: "Search compressed files with BZEgrep, find extended regex patterns in bzip2 archives. Efficient file searching without unzipping. Free online tool, no registration required."
 category: common

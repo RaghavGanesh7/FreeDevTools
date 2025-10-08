@@ -1,7 +1,7 @@
 ---
 title: "Disk Free - View Disk Space | Online Free DevTools by Hexmos"
 name: gdf
-path: /freedevtools/tldr/osx/gdf
+path: "/freedevtools/tldr/osx/gdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gdf/"
 description: "View disk space utilization with Disk Free (gdf) on macOS. Monitor available storage, identify large files, and manage disk resources. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Control Tetris Game - Play Bastet in Terminal | Online Free DevTools by Hexmos"
 name: bastet
-path: /freedevtools/tldr/common/bastet
+path: "/freedevtools/tldr/common/bastet/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bastet/"
 description: "Play terminal-based Tetris with Bastet. Control game pieces, rotate blocks, and pause or quit the game. Free online tool, no registration required. Enjoy retro gaming on any system."
 category: common

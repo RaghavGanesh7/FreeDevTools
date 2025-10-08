@@ -1,7 +1,7 @@
 ---
 title: "Java Compiler - Compile Java Code | Online Free DevTools by Hexmos"
 name: javac
-path: /freedevtools/tldr/common/javac
+path: "/freedevtools/tldr/common/javac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/javac/"
 description: "Compile Java code with javac. Easily create executable Java programs from source code with this online tool. Free online tool, no registration required."
 category: common

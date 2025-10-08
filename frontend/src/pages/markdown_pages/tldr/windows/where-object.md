@@ -1,7 +1,7 @@
 ---
 title: "Where-Object - Filter Objects | Online Free DevTools by Hexmos"
 name: where-object
-path: /freedevtools/tldr/windows/where-object
+path: "/freedevtools/tldr/windows/where-object/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/where-object/"
 description: "Filter objects with Where-Object on Windows. Quickly select data based on properties. Free online tool, no registration required."
 category: windows

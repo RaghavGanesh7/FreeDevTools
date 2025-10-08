@@ -1,7 +1,7 @@
 ---
 title: "LFTP File Transfer - Manage Remote Files | Online Free DevTools by Hexmos"
 name: lftp
-path: /freedevtools/tldr/linux/lftp
+path: "/freedevtools/tldr/linux/lftp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lftp/"
 description: "Manage remote files easily with LFTP File Transfer, a command-line file transfer program. Securely transfer files, update directories and rename files. Free online tool, no registration required."
 category: linux

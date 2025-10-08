@@ -1,7 +1,7 @@
 ---
 title: "Route Traffic with Torsocks - Anonymize Connections | Online Free DevTools by Hexmos"
 name: torsocks
-path: /freedevtools/tldr/linux/torsocks
+path: "/freedevtools/tldr/linux/torsocks/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/torsocks/"
 description: "Anonymize connections with Torsocks, route application traffic through the Tor network for enhanced security. Free online tool, no registration required."
 category: linux

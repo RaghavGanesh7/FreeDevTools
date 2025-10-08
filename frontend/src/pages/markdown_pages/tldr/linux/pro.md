@@ -1,7 +1,7 @@
 ---
 title: "Manage Ubuntu Pro Services - Secure and Optimize | Online Free DevTools by Hexmos"
 name: pro
-path: /freedevtools/tldr/linux/pro
+path: "/freedevtools/tldr/linux/pro/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pro/"
 description: "Manage Ubuntu Pro services effectively. Enhance system security and optimize performance with Ubuntu Pro command-line tools. Free online tool, no registration required."
 category: linux

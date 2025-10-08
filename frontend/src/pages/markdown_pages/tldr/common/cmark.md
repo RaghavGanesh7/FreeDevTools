@@ -1,7 +1,7 @@
 ---
 title: "Format Markdown - Convert CommonMark to HTML | Online Free DevTools by Hexmos"
 name: cmark
-path: /freedevtools/tldr/common/cmark
+path: "/freedevtools/tldr/common/cmark/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cmark/"
 description: "Format Markdown documents with cmark. Convert CommonMark to HTML, LaTeX, and more. Validate UTF-8 encoding. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Git Check-Attr - Inspect File Attributes | Online Free DevTools by Hexmos"
 name: git-check-attr
-path: /freedevtools/tldr/git/git-check-attr
+path: "/freedevtools/tldr/git/git-check-attr/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-check-attr/"
 description: "Inspect file attributes with Git Check-Attr. Quickly determine if attributes are unspecified, set, or unset on your files. Free online tool, no registration required."
 category: common

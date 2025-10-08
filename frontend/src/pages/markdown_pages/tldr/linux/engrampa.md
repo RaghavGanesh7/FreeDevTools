@@ -1,7 +1,7 @@
 ---
 title: "Create Archives - Package Files with Engrampa | Online Free DevTools by Hexmos"
 name: engrampa
-path: /freedevtools/tldr/linux/engrampa
+path: "/freedevtools/tldr/linux/engrampa/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/engrampa/"
 description: "Create archives with Engrampa, a package management tool for Linux. Compress and extract files using various formats. Free online tool, no registration required."
 category: linux

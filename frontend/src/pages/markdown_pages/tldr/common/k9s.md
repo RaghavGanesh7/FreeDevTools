@@ -1,7 +1,7 @@
 ---
 title: "Manage Kubernetes Clusters - k9s | Online Free DevTools by Hexmos"
 name: k9s
-path: /freedevtools/tldr/common/k9s
+path: "/freedevtools/tldr/common/k9s/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/k9s/"
 description: "Manage Kubernetes clusters effectively with k9s. Monitor cluster resources and troubleshoot issues instantly using the terminal. Free online tool, no registration required."
 category: common

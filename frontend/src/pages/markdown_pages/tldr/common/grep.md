@@ -1,7 +1,7 @@
 ---
 title: "Grep - Find Text Patterns with Regex | Online Free DevTools by Hexmos"
 name: grep
-path: "/freedevtools/tldr/common/grep"
+path: "/freedevtools/tldr/common/grep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/grep/"
 description: "Find text patterns with Grep, the powerful command-line tool for searching files using regular expressions. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Zstdcat - Decompress Zstd Files | Online Free DevTools by Hexmos"
 name: zstdcat
-path: /freedevtools/tldr/common/zstdcat
+path: "/freedevtools/tldr/common/zstdcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zstdcat/"
 description: "Decompress Zstd files with Zstdcat. Extract compressed data easily and quickly using this command line tool. Free online tool, no registration required."
 category: common

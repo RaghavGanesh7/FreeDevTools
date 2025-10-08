@@ -1,7 +1,7 @@
 ---
 title: "Monitor System - Analyze System Performance with Glances | Online Free DevTools by Hexmos"
 name: glances
-path: /freedevtools/tldr/common/glances
+path: "/freedevtools/tldr/common/glances/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/glances/"
 description: "Analyze system performance metrics with Glances, a cross-platform system monitoring tool. Monitor CPU, memory, disk I/O, and network usage in real-time. Free online tool, no registration required."
 category: common

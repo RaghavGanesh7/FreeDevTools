@@ -1,7 +1,7 @@
 ---
 title: "Flatten Image - Generate Single Layer Images | Online Free DevTools by Hexmos"
 name: crane-flatten
-path: /freedevtools/tldr/crane/crane-flatten
+path: "/freedevtools/tldr/crane/crane-flatten/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-flatten/"
 description: "Flatten images with Crane Flatten, merging layers into a single layer. Optimize container image size and reduce complexity. Free online tool, no registration required."
 category: common

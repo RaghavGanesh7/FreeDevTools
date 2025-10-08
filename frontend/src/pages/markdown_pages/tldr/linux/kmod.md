@@ -1,7 +1,7 @@
 ---
 title: "Manage Kernel Modules - Control Modules | Online Free DevTools by Hexmos"
 name: kmod
-path: /freedevtools/tldr/linux/kmod
+path: "/freedevtools/tldr/linux/kmod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kmod/"
 description: "Manage kernel modules with kmod. Load, unload, and inspect Linux kernel modules effortlessly. Free online tool, no registration required. Kernel configuration supported."
 category: linux

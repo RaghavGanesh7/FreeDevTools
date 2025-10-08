@@ -1,7 +1,7 @@
 ---
 title: "htpdate - Synchronize Time via HTTP | Online Free DevTools by Hexmos"
 name: htpdate
-path: /freedevtools/tldr/linux/htpdate
+path: "/freedevtools/tldr/linux/htpdate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/htpdate/"
 description: "Synchronize your system time with htpdate using HTTP headers.  This command-line tool offers precise time synchronization and handles clock drift. Free online tool, no registration required."
 category: linux

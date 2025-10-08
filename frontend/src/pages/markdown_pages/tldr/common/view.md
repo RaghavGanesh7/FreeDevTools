@@ -1,7 +1,7 @@
 ---
 title: "View Files - Read Files Using View Command | Online Free DevTools by Hexmos"
 name: view
-path: /freedevtools/tldr/common/view
+path: "/freedevtools/tldr/common/view/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/view/"
 description: "Read files effortlessly with View, a read-only version of Vim. Quickly inspect file contents and prevent accidental modifications. Free online tool, no registration required."
 category: common

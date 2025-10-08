@@ -1,7 +1,7 @@
 ---
 title: "Iperf - Measure Network Bandwidth | Online Free DevTools by Hexmos"
 name: iperf
-path: /freedevtools/tldr/common/iperf
+path: "/freedevtools/tldr/common/iperf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/iperf/"
 description: "Measure network bandwidth with Iperf, a powerful network performance measurement tool. Analyze TCP and UDP throughput. Free online tool, no registration required."
 category: common

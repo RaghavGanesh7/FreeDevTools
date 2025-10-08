@@ -1,7 +1,7 @@
 ---
 title: "Send Email - Send Email Messages | Online Free DevTools by Hexmos"
 name: sendmail
-path: /freedevtools/tldr/common/sendmail
+path: "/freedevtools/tldr/common/sendmail/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sendmail/"
 description: "Send email messages easily with Sendmail. Quickly compose and deliver emails from the command line. Free online tool, no registration required."
 category: common

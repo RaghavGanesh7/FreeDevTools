@@ -1,7 +1,7 @@
 ---
 title: "Format Code - Uncrustify Code | Online Free DevTools by Hexmos"
 name: uncrustify
-path: /freedevtools/tldr/common/uncrustify
+path: "/freedevtools/tldr/common/uncrustify/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/uncrustify/"
 description: "Format code with Uncrustify, a powerful source code formatter supporting C, C++, C#, D, Java, and Pawn.  Enhance code readability instantly. Free online tool, no registration required."
 category: common

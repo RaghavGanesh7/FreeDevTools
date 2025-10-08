@@ -1,7 +1,7 @@
 ---
 title: "Generate System Info - inxi Command | Online Free DevTools by Hexmos"
 name: inxi
-path: /freedevtools/tldr/linux/inxi
+path: "/freedevtools/tldr/linux/inxi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/inxi/"
 description: "Generate system information with inxi command. Quickly debug hardware and software issues on Linux. Free online tool, no registration required."
 category: linux

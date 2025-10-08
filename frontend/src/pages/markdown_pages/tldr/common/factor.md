@@ -1,7 +1,7 @@
 ---
 title: "Factor Number - Generate Prime Factors | Online Free DevTools by Hexmos"
 name: factor
-path: "/freedevtools/tldr/common/factor"
+path: "/freedevtools/tldr/common/factor/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/factor/"
 description: "Generate prime factors with Factor Number. Decompose numbers into their prime components. Free online tool, no registration required."
 category: common

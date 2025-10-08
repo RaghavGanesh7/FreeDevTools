@@ -1,7 +1,7 @@
 ---
 title: "Message Sender - Send Messages via Command Line | Online Free DevTools by Hexmos"
 name: msg
-path: /freedevtools/tldr/windows/msg
+path: "/freedevtools/tldr/windows/msg/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/msg/"
 description: "Send messages on Windows using the Message Sender (msg) command. Communicate with users and sessions easily using the command line interface. Free online tool, no registration required."
 category: windows

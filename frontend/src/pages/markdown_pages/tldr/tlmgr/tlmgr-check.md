@@ -1,7 +1,7 @@
 ---
 title: "Check TeX Live - Verify Installation Consistency | Online Free DevTools by Hexmos"
 name: tlmgr-check
-path: /freedevtools/tldr/tlmgr/tlmgr-check
+path: "/freedevtools/tldr/tlmgr/tlmgr-check/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-check/"
 description: "Check TeX Live installations for inconsistencies with Tlmgr Check. Ensure package integrity and dependency resolution. Free online tool, no registration required."
 category: common

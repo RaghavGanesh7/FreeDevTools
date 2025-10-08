@@ -1,7 +1,7 @@
 ---
 title: "Get File Hash - Generate File Hashes | Online Free DevTools by Hexmos"
 name: get-filehash
-path: /freedevtools/tldr/windows/get-filehash
+path: "/freedevtools/tldr/windows/get-filehash/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-filehash/"
 description: "Generate file hashes with Get-FileHash. Quickly verify file integrity and authenticity using various algorithms. Free online tool, no registration required."
 category: windows

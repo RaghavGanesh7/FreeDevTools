@@ -1,7 +1,7 @@
 ---
 title: "Create Logical Volumes - lvcreate Command | Online Free DevTools by Hexmos"
 name: lvcreate
-path: /freedevtools/tldr/linux/lvcreate
+path: "/freedevtools/tldr/linux/lvcreate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lvcreate/"
 description: "Create logical volumes with the lvcreate command in Linux. Manage disk space and partitions efficiently. Free online tool, no registration required."
 category: linux

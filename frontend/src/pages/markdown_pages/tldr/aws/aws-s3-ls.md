@@ -1,7 +1,7 @@
 ---
 title: "List S3 Buckets - Control S3 Objects with AWS S3 LS | Online Free DevTools by Hexmos"
 name: aws-s3-ls
-path: /freedevtools/tldr/aws/aws-s3-ls
+path: "/freedevtools/tldr/aws/aws-s3-ls/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-s3-ls/"
 description: "List S3 buckets instantly with AWS S3 LS. Control S3 objects, navigate directories, and manage file prefixes effortlessly. Free online tool, no registration required."
 category: common

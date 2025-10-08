@@ -1,7 +1,7 @@
 ---
 title: "Smooth PNM Image - Enhance Images | Online Free DevTools by Hexmos"
 name: pnmsmooth
-path: /freedevtools/tldr/pnm/pnmsmooth
+path: "/freedevtools/tldr/pnm/pnmsmooth/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmsmooth/"
 description: "Smooth PNM images quickly with pnmsmooth. Reduce noise and improve image quality easily using convolution. Free online tool, no registration required."
 category: common

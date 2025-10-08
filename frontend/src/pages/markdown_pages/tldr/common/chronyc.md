@@ -1,7 +1,7 @@
 ---
 title: "Chrony Control - Query NTP Daemon | Online Free DevTools by Hexmos"
 name: chronyc
-path: /freedevtools/tldr/common/chronyc
+path: "/freedevtools/tldr/common/chronyc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chronyc/"
 description: "Control time synchronization with Chronyc, the NTP daemon client. Query server stats, adjust clock and analyze sources. Free online tool, no registration required."
 category: common

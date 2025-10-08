@@ -1,7 +1,7 @@
 ---
 title: "Validate Pathnames - gpathchk | Online Free DevTools by Hexmos"
 name: gpathchk
-path: /freedevtools/tldr/osx/gpathchk
+path: "/freedevtools/tldr/osx/gpathchk/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gpathchk/"
 description: "Validate pathnames with gpathchk, ensuring file paths are valid and portable on your system. Free online tool, no registration required."
 category: osx

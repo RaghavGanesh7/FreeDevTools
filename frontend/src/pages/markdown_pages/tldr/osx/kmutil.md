@@ -1,7 +1,7 @@
 ---
 title: "Kext Control - Manage macOS Kernel Extensions | Online Free DevTools by Hexmos"
 name: kmutil
-path: /freedevtools/tldr/osx/kmutil
+path: "/freedevtools/tldr/osx/kmutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/kmutil/"
 description: "Control macOS kernel extensions with kmutil. Manage kexts, inspect collections, and debug kernel configurations on macOS. Free online tool, no registration required."
 category: osx

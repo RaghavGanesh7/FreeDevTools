@@ -1,7 +1,7 @@
 ---
 title: "BSPC Window Manager - Control Bspwm Windows | Online Free DevTools by Hexmos"
 name: bspc
-path: /freedevtools/tldr/linux/bspc
+path: "/freedevtools/tldr/linux/bspc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bspc/"
 description: "Control Bspwm window management with BSPC commands. Manage desktops, nodes, and monitors efficiently. Free online tool, no registration required."
 category: linux

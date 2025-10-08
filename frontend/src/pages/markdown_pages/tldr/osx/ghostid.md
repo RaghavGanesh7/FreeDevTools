@@ -1,7 +1,7 @@
 ---
 title: "Generate Host ID - Find System Host ID | Online Free DevTools by Hexmos"
 name: ghostid
-path: /freedevtools/tldr/osx/ghostid
+path: "/freedevtools/tldr/osx/ghostid/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ghostid/"
 description: "Generate host ID with ghostid, revealing the system's unique identifier. Inspect machine hardware and software serial numbers. Free online tool, no registration required."
 category: osx

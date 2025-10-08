@@ -1,7 +1,7 @@
 ---
 title: "Nslookup - Query DNS Records | Online Free DevTools by Hexmos"
 name: nslookup
-path: /freedevtools/tldr/common/nslookup
+path: "/freedevtools/tldr/common/nslookup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nslookup/"
 description: "Query DNS records with nslookup. Retrieve IP addresses, name server records, and other domain information. Free online tool, no registration required."
 category: common

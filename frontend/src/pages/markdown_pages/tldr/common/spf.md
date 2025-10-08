@@ -1,7 +1,7 @@
 ---
 title: "Superfile Manager - Control Files in Terminal | Online Free DevTools by Hexmos"
 name: spf
-path: /freedevtools/tldr/common/spf
+path: "/freedevtools/tldr/common/spf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spf/"
 description: "Control files effortlessly with Superfile Manager. Navigate, manage, and manipulate files quickly in your terminal using this modern command-line tool. Free online tool, no registration required."
 category: common

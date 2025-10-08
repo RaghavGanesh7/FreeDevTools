@@ -1,7 +1,7 @@
 ---
 title: "NASM Assembler - Assemble Code | Online Free DevTools by Hexmos"
 name: nasm
-path: /freedevtools/tldr/common/nasm
+path: "/freedevtools/tldr/common/nasm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nasm/"
 description: "Assemble code with NASM Assembler. Convert assembly source code to machine code for x86 architectures. Free online tool, no registration required."
 category: common

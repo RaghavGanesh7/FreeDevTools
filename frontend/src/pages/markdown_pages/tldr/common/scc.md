@@ -1,7 +1,7 @@
 ---
 title: "Count Lines of Code - Analyze Source Code with scc | Online Free DevTools by Hexmos"
 name: scc
-path: /freedevtools/tldr/common/scc
+path: "/freedevtools/tldr/common/scc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scc/"
 description: "Analyze lines of code with scc, a fast and accurate code counter. Get detailed source code metrics for various languages. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "ABRT - Analyze System Crashes | Online Free DevTools by Hexmos"
 name: abrt
-path: /freedevtools/tldr/linux/abrt
+path: "/freedevtools/tldr/linux/abrt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/abrt/"
 description: "Analyze Linux system crashes with ABRT. Identify, report, and debug application errors efficiently using command line. Free online tool, no registration required."
 category: linux

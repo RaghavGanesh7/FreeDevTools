@@ -1,7 +1,7 @@
 ---
 title: "ODPS Tunnel - Transfer Data | Online Free DevTools by Hexmos"
 name: odps-tunnel
-path: /freedevtools/tldr/odps/odps-tunnel
+path: "/freedevtools/tldr/odps/odps-tunnel/"
 canonical: "https://hexmos.com/freedevtools/tldr/odps/odps-tunnel/"
 description: "Transfer data with ODPS Tunnel, allowing efficient data upload and download between local systems and Alibaba Cloud ODPS. Free online tool, no registration required."
 category: common

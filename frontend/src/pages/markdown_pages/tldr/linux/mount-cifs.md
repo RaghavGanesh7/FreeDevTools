@@ -1,7 +1,7 @@
 ---
 title: "Mount CIFS - Access Network Shares on Linux | Online Free DevTools by Hexmos"
 name: mount.cifs
-path: /freedevtools/tldr/linux/mount-cifs
+path: "/freedevtools/tldr/linux/mount-cifs/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mount-cifs/"
 description: "Mount CIFS shares with mount.cifs on Linux for easy network access. Configure user credentials and permissions seamlessly. Free online tool, no registration required."
 category: linux

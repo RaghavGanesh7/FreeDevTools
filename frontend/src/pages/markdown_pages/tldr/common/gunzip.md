@@ -1,7 +1,7 @@
 ---
 title: "Gunzip - Extract GZIP Archives | Online Free DevTools by Hexmos"
 name: gunzip
-path: /freedevtools/tldr/common/gunzip
+path: "/freedevtools/tldr/common/gunzip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gunzip/"
 description: "Extract GZIP archives with Gunzip, a command-line tool for decompressing files. Unzip archives quickly and efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Nagios3 Monitoring - Legacy Network Monitor | Online Free DevTools by Hexmos"
 name: nagios3
-path: /freedevtools/tldr/common/nagios3
+path: "/freedevtools/tldr/common/nagios3/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nagios3/"
 description: "Control network and system monitoring with Nagios3. Configure service checks, manage daemon processes, and verify configuration files using Nagios3. Free online tool, no registration required."
 category: common

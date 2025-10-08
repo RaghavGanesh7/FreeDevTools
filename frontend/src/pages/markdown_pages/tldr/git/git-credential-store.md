@@ -1,7 +1,7 @@
 ---
 title: "Store Git Credentials - Secure Password Storage | Online Free DevTools by Hexmos"
 name: git-credential-store
-path: /freedevtools/tldr/git/git-credential-store
+path: "/freedevtools/tldr/git/git-credential-store/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-credential-store/"
 description: "Secure Git credentials easily with Git Credential Store. Store passwords securely on disk and streamline authentication workflows. Free online tool, no registration required."
 category: common

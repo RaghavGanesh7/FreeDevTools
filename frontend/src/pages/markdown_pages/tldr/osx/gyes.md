@@ -1,7 +1,7 @@
 ---
 title: "Yes Command - Generate Repeated Strings | Online Free DevTools by Hexmos"
 name: gyes
-path: /freedevtools/tldr/osx/gyes
+path: "/freedevtools/tldr/osx/gyes/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gyes/"
 description: "Generate repeated strings with the Yes Command. A simple utility for scripting and automation on macOS. Free online tool, no registration required."
 category: osx

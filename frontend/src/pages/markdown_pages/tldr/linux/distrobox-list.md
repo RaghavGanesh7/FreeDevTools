@@ -1,7 +1,7 @@
 ---
 title: "List Distrobox Containers - Manage Linux Containers | Online Free DevTools by Hexmos"
 name: distrobox-list
-path: /freedevtools/tldr/linux/distrobox-list
+path: "/freedevtools/tldr/linux/distrobox-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox-list/"
 description: "Manage Linux containers with Distrobox list command.  View and list all your Distrobox containers easily and efficiently. Free online tool, no registration required."
 category: linux

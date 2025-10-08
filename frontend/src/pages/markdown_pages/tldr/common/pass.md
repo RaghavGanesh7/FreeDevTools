@@ -1,7 +1,7 @@
 ---
 title: "Password Manager - Store Passwords Securely | Online Free DevTools by Hexmos"
 name: pass
-path: /freedevtools/tldr/common/pass
+path: "/freedevtools/tldr/common/pass/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pass/"
 description: "Secure passwords with Pass Password Manager. Encrypt sensitive data, manage git repositories, and generate secure passwords. Free online tool, no registration required."
 category: common

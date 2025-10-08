@@ -1,7 +1,7 @@
 ---
 title: "DNS Lookup - Perform DNS Queries with dnsx | Online Free DevTools by Hexmos"
 name: dnsx
-path: /freedevtools/tldr/common/dnsx
+path: "/freedevtools/tldr/common/dnsx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dnsx/"
 description: "Perform DNS lookup quickly with dnsx, a versatile DNS toolkit. Resolve domains, extract records, and debug DNS configurations easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Validate Git Commit Messages - Style Linter | Online Free DevTools by Hexmos"
 name: gitlint
-path: /freedevtools/tldr/git/gitlint
+path: "/freedevtools/tldr/git/gitlint/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitlint/"
 description: "Validate git commit messages with Gitlint, a powerful style linter. Improve code quality and collaboration with consistent commit messages. Free online tool, no registration required."
 category: common

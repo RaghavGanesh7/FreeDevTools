@@ -1,7 +1,7 @@
 ---
 title: "Control Mercurial Status - Track Changes | Online Free DevTools by Hexmos"
 name: hg-status
-path: /freedevtools/tldr/hg/hg-status
+path: "/freedevtools/tldr/hg/hg-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/hg/hg-status/"
 description: "Control Mercurial status efficiently with hg-status. Track file changes, identify modified files, and manage revisions easily. Free online tool, no registration required."
 category: common

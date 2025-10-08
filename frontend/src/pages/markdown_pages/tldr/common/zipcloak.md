@@ -1,7 +1,7 @@
 ---
 title: "Encrypt Zip Archives - Secure Files with Zipcloak | Online Free DevTools by Hexmos"
 name: zipcloak
-path: /freedevtools/tldr/common/zipcloak
+path: "/freedevtools/tldr/common/zipcloak/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zipcloak/"
 description: "Encrypt Zip archives quickly with Zipcloak, a powerful command-line tool. Secure sensitive data and manage encrypted files efficiently. Free online tool, no registration required."
 category: common

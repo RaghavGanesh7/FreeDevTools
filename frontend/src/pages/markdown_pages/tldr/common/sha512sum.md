@@ -1,7 +1,7 @@
 ---
 title: "Generate SHA512 Checksums - Verify File Integrity | Online Free DevTools by Hexmos"
 name: sha512sum
-path: /freedevtools/tldr/common/sha512sum
+path: "/freedevtools/tldr/common/sha512sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sha512sum/"
 description: "Generate SHA512 checksums with sha512sum for file integrity verification. Secure your data with cryptographic hashing. Free online tool, no registration required."
 category: common

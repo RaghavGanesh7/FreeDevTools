@@ -1,7 +1,7 @@
 ---
 title: "Control Terminal Sessions - mtm Multiplexer | Online Free DevTools by Hexmos"
 name: mtm
-path: /freedevtools/tldr/common/mtm
+path: "/freedevtools/tldr/common/mtm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mtm/"
 description: "Control multiple terminal sessions with mtm, a minimal terminal multiplexer. Manage windows, split panes, and navigate easily within your terminal. Free online tool, no registration required."
 category: common

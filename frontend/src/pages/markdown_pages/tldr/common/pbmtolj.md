@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to LaserJet - Format Images | Online Free DevTools by Hexmos"
 name: pbmtolj
-path: "/freedevtools/tldr/common/pbmtolj"
+path: "/freedevtools/tldr/common/pbmtolj/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtolj/"
 description: "Format PBM images to HP LaserJet format with pbmtolj. Achieve desired resolution and compression. Free online tool, no registration required."
 category: common

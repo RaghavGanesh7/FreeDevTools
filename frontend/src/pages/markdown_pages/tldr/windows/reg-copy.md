@@ -1,7 +1,7 @@
 ---
 title: "Reg Copy - Copy Registry Keys | Online Free DevTools by Hexmos"
 name: reg-copy
-path: /freedevtools/tldr/windows/reg-copy
+path: "/freedevtools/tldr/windows/reg-copy/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-copy/"
 description: "Copy Registry keys easily with Reg Copy, a command-line tool for Windows. Back up, transfer, or replicate registry data quickly. Free online tool, no registration required."
 category: windows

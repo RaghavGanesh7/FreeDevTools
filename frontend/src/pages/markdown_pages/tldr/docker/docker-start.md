@@ -1,7 +1,7 @@
 ---
 title: "Docker Start - Start Containers | Online Free DevTools by Hexmos"
 name: docker-start
-path: /freedevtools/tldr/docker/docker-start
+path: "/freedevtools/tldr/docker/docker-start/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-start/"
 description: "Start Docker containers with Docker Start. Manage container lifecycles and application deployments efficiently using command line. Free online tool, no registration required."
 category: common

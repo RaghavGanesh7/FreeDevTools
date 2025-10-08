@@ -1,7 +1,7 @@
 ---
 title: "STM32 Debug - Control ARM Cortex Microcontrollers | Online Free DevTools by Hexmos"
 name: st-util
-path: /freedevtools/tldr/st/st-util
+path: "/freedevtools/tldr/st/st-util/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/st-util/"
 description: "Debug STM32 microcontrollers with st-util. Connect to, write firmware, and control your ARM Cortex-M devices using GDB. Free online tool, no registration required."
 category: common

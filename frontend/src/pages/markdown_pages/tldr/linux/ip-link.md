@@ -1,7 +1,7 @@
 ---
 title: "IP Link - Manage Network Interfaces | Online Free DevTools by Hexmos"
 name: ip-link
-path: /freedevtools/tldr/linux/ip-link
+path: "/freedevtools/tldr/linux/ip-link/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ip-link/"
 description: "Manage network interfaces with IP Link. Configure interface states, MAC addresses, and MTU settings with ease. Free online tool, no registration required."
 category: linux

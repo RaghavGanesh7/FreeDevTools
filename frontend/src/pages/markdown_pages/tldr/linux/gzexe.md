@@ -1,7 +1,7 @@
 ---
 title: "Compress Executable - Reduce File Size | Online Free DevTools by Hexmos"
 name: gzexe
-path: /freedevtools/tldr/linux/gzexe
+path: "/freedevtools/tldr/linux/gzexe/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gzexe/"
 description: "Compress executable files with gzexe to save disk space using efficient algorithms. Reduce file size and keep executables functional. Free online tool, no registration required."
 category: linux

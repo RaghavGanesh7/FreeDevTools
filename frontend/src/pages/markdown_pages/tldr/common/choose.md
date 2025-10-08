@@ -1,7 +1,7 @@
 ---
 title: "Choose - Extract Text Columns | Online Free DevTools by Hexmos"
 name: choose
-path: /freedevtools/tldr/common/choose
+path: "/freedevtools/tldr/common/choose/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/choose/"
 description: "Extract text columns efficiently with Choose, a human-friendly alternative to cut and awk. Quickly parse data from the command line. Free online tool, no registration required."
 category: common

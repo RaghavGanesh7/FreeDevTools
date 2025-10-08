@@ -1,7 +1,7 @@
 ---
 title: "Create Btrfs Subvolumes - Manage Linux Filesystems | Online Free DevTools by Hexmos"
 name: btrfs
-path: /freedevtools/tldr/linux/btrfs
+path: "/freedevtools/tldr/linux/btrfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrfs/"
 description: "Create Btrfs subvolumes with Btrfs. Manage Linux filesystems efficiently using copy-on-write. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Git For-Each-Ref - Format Git References | Online Free DevTools by Hexmos"
 name: git-for-each-ref
-path: /freedevtools/tldr/git/git-for-each-ref
+path: "/freedevtools/tldr/git/git-for-each-ref/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-for-each-ref/"
 description: "Format Git references with Git For-Each-Ref. List, sort, and filter branches and tags in your Git repository. Free online tool, no registration required."
 category: common

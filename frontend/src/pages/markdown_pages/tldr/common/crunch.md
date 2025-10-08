@@ -1,7 +1,7 @@
 ---
 title: "Crunch - Generate Wordlists | Online Free DevTools by Hexmos"
 name: crunch
-path: "/freedevtools/tldr/common/crunch"
+path: "/freedevtools/tldr/common/crunch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/crunch/"
 description: "Generate wordlists with Crunch. Create custom wordlists based on character sets, patterns and lengths. Free online tool, no registration required."
 category: common

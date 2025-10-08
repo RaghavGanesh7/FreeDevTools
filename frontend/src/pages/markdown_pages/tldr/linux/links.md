@@ -1,7 +1,7 @@
 ---
 title: "Links Browser - Control Web Navigation | Online Free DevTools by Hexmos"
 name: links
-path: /freedevtools/tldr/linux/links
+path: "/freedevtools/tldr/linux/links/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/links/"
 description: "Control web navigation with Links Browser. Access websites, restrict accounts, and manage cookies using this text-based command-line browser. Free online tool, no registration required."
 category: linux

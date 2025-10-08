@@ -1,7 +1,7 @@
 ---
 title: "Transfer Data with Curl - Command-Line Tool | Online Free DevTools by Hexmos"
 name: curl
-path: /freedevtools/tldr/common/curl
+path: "/freedevtools/tldr/common/curl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/curl/"
 description: "Transfer data effortlessly with Curl, a versatile command-line tool for various protocols. Supports HTTP, HTTPS, FTP, SCP, and more. Free online tool, no registration required."
 category: common

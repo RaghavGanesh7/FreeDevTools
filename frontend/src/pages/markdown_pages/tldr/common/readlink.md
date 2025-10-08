@@ -1,7 +1,7 @@
 ---
 title: "Readlink - Follow Symlinks and Get Information | Online Free DevTools by Hexmos"
 name: readlink
-path: /freedevtools/tldr/common/readlink
+path: "/freedevtools/tldr/common/readlink/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/readlink/"
 description: "Follow symlinks with Readlink. Get the actual file path or the absolute path of symbolic links. Free online tool, no registration required."
 category: common

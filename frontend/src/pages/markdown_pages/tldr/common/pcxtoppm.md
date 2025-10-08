@@ -1,7 +1,7 @@
 ---
 title: "Convert PCX to PPM - Image Converter | Online Free DevTools by Hexmos"
 name: pcxtoppm
-path: /freedevtools/tldr/common/pcxtoppm
+path: "/freedevtools/tldr/common/pcxtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pcxtoppm/"
 description: "Convert PCX image files to PPM format with pcxtoppm. A powerful image conversion tool for managing graphic files. Free online tool, no registration required."
 category: common

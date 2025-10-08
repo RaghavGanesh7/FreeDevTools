@@ -1,7 +1,7 @@
 ---
 title: "Git Credential - Retrieve Credentials | Online Free DevTools by Hexmos"
 name: git-credential
-path: /freedevtools/tldr/git/git-credential
+path: "/freedevtools/tldr/git/git-credential/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-credential/"
 description: "Retrieve user credentials with Git Credential. Store, approve, and reject credential information using Git's configured helpers. Free online tool, no registration required."
 category: common

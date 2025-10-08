@@ -4,9 +4,9 @@ import AdBanner from '../../components/banner/AdBanner';
 import Pagination from '../../components/Pagination.astro';
 import BottomPagination from '../../components/BottomPagination.astro';
 import { getCollection } from 'astro:content';
-import type { CollectionEntry } from 'astro:content';
 
 const ITEMS_PER_PAGE = 20;
+
 
 async function getAllCommands() {
   const tldrEntries = await (getCollection as any)('tldr');
@@ -140,7 +140,7 @@ const platformIconMap = {
         ←  Back to Free DevTools
         </a>
         <a 
-        href="/freedevtools/tldr/creditsTLDR"
+        href="/freedevtools/tldr/creditsTLDR/"
         class="inline-flex items-center px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
       >
         Credits & Acknowledgments
@@ -226,7 +226,7 @@ const platformIconMap = {
     const iconUrl = platformIcons[platform] || 'https://cdn-icons-png.flaticon.com/512/5515/5515389.png';
     
     const commandsHtml = platformCommands.slice(0, 5).map(command => 
-      `<a href="/freedevtools/tldr/${platform}/${command.name}" class="block text-sm text-blue-600 dark:text-blue-300 hover:text-black dark:hover:text-white hover:font-bold">${command.name}</a>`
+      `<a href="/freedevtools/tldr/${platform}/${command.name}/" class="block text-sm text-blue-600 dark:text-blue-300 hover:text-black dark:hover:text-white hover:font-bold">${command.name}</a>`
     ).join('');
     
     const moreCommandsHtml = platformCommands.length > 5 ? 
@@ -244,7 +244,7 @@ const platformIconMap = {
             />
           </div>
           <a 
-            href="/freedevtools/tldr/${platform}"
+            href="/freedevtools/tldr/${platform}/"
             class="text-xl font-semibold text-black dark:text-neon-light capitalize hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
           >
             ${platform.replace('-', ' ')}
@@ -262,7 +262,7 @@ const platformIconMap = {
         
         <div class="mt-4 pt-4 border-t border-slate-200 dark:border-slate-900">
           <a 
-            href="/freedevtools/tldr/${platform}"
+            href="/freedevtools/tldr/${platform}/"
             class="text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300"
           >
             View all ${platform} commands →

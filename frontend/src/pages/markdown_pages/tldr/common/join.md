@@ -1,7 +1,7 @@
 ---
 title: "Join Files - Merge Data with Common Fields | Online Free DevTools by Hexmos"
 name: join
-path: /freedevtools/tldr/common/join
+path: "/freedevtools/tldr/common/join/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/join/"
 description: "Merge data with Join command using common fields. Combine information from multiple files based on shared data. Free online tool, no registration required."
 category: common

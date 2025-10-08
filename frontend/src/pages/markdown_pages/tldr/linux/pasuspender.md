@@ -1,7 +1,7 @@
 ---
 title: "Control PulseAudio with pasuspender | Online Free DevTools by Hexmos"
 name: pasuspender
-path: /freedevtools/tldr/linux/pasuspender
+path: "/freedevtools/tldr/linux/pasuspender/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pasuspender/"
 description: "Control PulseAudio using pasuspender to temporarily suspend it while running other commands like jackd.  Access ALSA audio devices seamlessly. Free online tool, no registration required."
 category: linux

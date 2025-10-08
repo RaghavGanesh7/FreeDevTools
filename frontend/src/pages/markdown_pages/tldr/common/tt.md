@@ -1,7 +1,7 @@
 ---
 title: "Terminal Typing Test - Improve Typing Skills | Online Free DevTools by Hexmos"
 name: tt
-path: /freedevtools/tldr/common/tt
+path: "/freedevtools/tldr/common/tt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tt/"
 description: "Improve typing skills with Terminal Typing Test (tt). Practice your typing, track your WPM, and customize your experience. Free online tool, no registration required."
 category: common

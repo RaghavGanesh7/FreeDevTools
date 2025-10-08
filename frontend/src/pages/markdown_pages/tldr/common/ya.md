@@ -1,7 +1,7 @@
 ---
 title: "Yazi Package Manager - Manage Packages | Online Free DevTools by Hexmos"
 name: ya
-path: /freedevtools/tldr/common/ya
+path: "/freedevtools/tldr/common/ya/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ya/"
 description: "Manage Yazi packages efficiently with Yazi Package Manager. Add, upgrade, and publish messages using the command line. Free online tool, no registration required."
 category: common

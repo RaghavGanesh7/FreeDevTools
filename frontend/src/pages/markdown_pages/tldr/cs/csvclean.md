@@ -1,7 +1,7 @@
 ---
 title: "CSV Clean - Validate CSV Syntax | Online Free DevTools by Hexmos"
 name: csvclean
-path: /freedevtools/tldr/cs/csvclean
+path: "/freedevtools/tldr/cs/csvclean/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/csvclean/"
 description: "Validate CSV file syntax with CSV Clean. Find and fix errors, list error locations, and ensure data integrity. Free online tool, no registration required."
 category: common

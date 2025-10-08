@@ -1,7 +1,7 @@
 ---
 title: "Ripgrep All - Search Files Easily | Online Free DevTools by Hexmos"
 name: rga
-path: /freedevtools/tldr/common/rga
+path: "/freedevtools/tldr/common/rga/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rga/"
 description: "Search files quickly with Ripgrep All, a ripgrep wrapper supporting diverse file types. Easily find text within documents, archives, and media. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Check Updates - List Pending Updates in Linux | Online Free DevTools by Hexmos"
 name: checkupdates
-path: /freedevtools/tldr/linux/checkupdates
+path: "/freedevtools/tldr/linux/checkupdates/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/checkupdates/"
 description: "List pending updates with checkupdates, a command-line tool for Arch Linux. Monitor package updates without syncing, and manage cached packages. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control MozillaVPN - Secure Your Connection | Online Free DevTools by Hexmos"
 name: mozillavpn
-path: /freedevtools/tldr/common/mozillavpn
+path: "/freedevtools/tldr/common/mozillavpn/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mozillavpn/"
 description: "Secure your connection with MozillaVPN using command line. Manage your VPN, connect to servers, and protect your privacy. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Sacct Command - Display Slurm Accounting Data | Online Free DevTools by Hexmos"
 name: sacct
-path: /freedevtools/tldr/linux/sacct
+path: "/freedevtools/tldr/linux/sacct/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sacct/"
 description: "Display and manage Slurm job accounting data with the sacct command.  Filter jobs by time, state, and resource usage. Free online tool, no registration required."
 category: linux

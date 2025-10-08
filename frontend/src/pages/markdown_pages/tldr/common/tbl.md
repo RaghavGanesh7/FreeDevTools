@@ -1,7 +1,7 @@
 ---
 title: "Format Tables - Process Groff Tables | Online Free DevTools by Hexmos"
 name: tbl
-path: /freedevtools/tldr/common/tbl
+path: "/freedevtools/tldr/common/tbl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tbl/"
 description: "Format tables with tbl, the Groff table preprocessor. Convert tabular data into troff markup for document typesetting. Free online tool, no registration required."
 category: common

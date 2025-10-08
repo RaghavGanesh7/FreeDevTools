@@ -1,7 +1,7 @@
 ---
 title: "End Case Statement - Control Shell Flow | Online Free DevTools by Hexmos"
 name: esac
-path: /freedevtools/tldr/common/esac
+path: "/freedevtools/tldr/common/esac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/esac/"
 description: "Control shell script execution with End Case Statement (esac). Terminate `case` statements and manage conditional logic. Free online tool, no registration required."
 category: common

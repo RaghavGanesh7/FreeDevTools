@@ -1,7 +1,7 @@
 ---
 title: "Ansible Inventory - Display Ansible Inventory | Online Free DevTools by Hexmos"
 name: ansible-inventory
-path: /freedevtools/tldr/ansible/ansible-inventory
+path: "/freedevtools/tldr/ansible/ansible-inventory/"
 canonical: "https://hexmos.com/freedevtools/tldr/ansible/ansible-inventory/"
 description: "Display Ansible inventories easily with Ansible Inventory. Inspect hosts, groups, and variables using the command line. Free online tool, no registration required."
 category: common

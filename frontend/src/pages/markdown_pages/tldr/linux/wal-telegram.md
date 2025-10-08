@@ -1,7 +1,7 @@
 ---
 title: "Generate Telegram Themes - wal-telegram | Online Free DevTools by Hexmos"
 name: wal-telegram
-path: /freedevtools/tldr/linux/wal-telegram
+path: "/freedevtools/tldr/linux/wal-telegram/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wal-telegram/"
 description: "Generate Telegram themes with wal-telegram, using colors from pywal. Customize Telegram appearance and create unique themes. Free online tool, no registration required."
 category: linux

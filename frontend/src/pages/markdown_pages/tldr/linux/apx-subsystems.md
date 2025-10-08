@@ -1,7 +1,7 @@
 ---
 title: "APX Subsystems - Manage Containers | Online Free DevTools by Hexmos"
 name: apx-subsystems
-path: /freedevtools/tldr/linux/apx-subsystems
+path: "/freedevtools/tldr/linux/apx-subsystems/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apx-subsystems/"
 description: "Manage Linux subsystems with APX. Create, list, reset, and remove containerized environments for customized development. Free online tool, no registration required."
 category: linux

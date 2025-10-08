@@ -1,7 +1,7 @@
 ---
 title: "Analyze Disk Usage - ncdu | Online Free DevTools by Hexmos"
 name: ncdu
-path: /freedevtools/tldr/common/ncdu
+path: "/freedevtools/tldr/common/ncdu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ncdu/"
 description: "Analyze disk usage efficiently with ncdu. Identify large files and directories, and reclaim disk space. Free online tool, no registration required."
 category: common

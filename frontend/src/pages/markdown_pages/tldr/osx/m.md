@@ -1,7 +1,7 @@
 ---
 title: "macOS Control - Manage System Settings with m | Online Free DevTools by Hexmos"
 name: m
-path: /freedevtools/tldr/osx/m
+path: "/freedevtools/tldr/osx/m/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/m/"
 description: "Manage macOS system settings efficiently with m. Control battery status, bluetooth, disk formatting, and firewall using the command line. Free online tool, no registration required."
 category: osx

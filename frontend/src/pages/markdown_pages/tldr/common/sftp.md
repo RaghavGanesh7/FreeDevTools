@@ -1,7 +1,7 @@
 ---
 title: "Secure File Transfer - Transfer Files Securely with SFTP | Online Free DevTools by Hexmos"
 name: sftp
-path: /freedevtools/tldr/common/sftp
+path: "/freedevtools/tldr/common/sftp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sftp/"
 description: "Transfer files securely with SFTP. Securely copy files between hosts over SSH. A versatile command for secure file transfers. Free online tool, no registration required."
 category: common

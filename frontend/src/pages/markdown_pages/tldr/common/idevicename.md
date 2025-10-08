@@ -1,7 +1,7 @@
 ---
 title: "iDevice Name - Control Device Name | Online Free DevTools by Hexmos"
 name: idevicename
-path: /freedevtools/tldr/common/idevicename
+path: "/freedevtools/tldr/common/idevicename/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicename/"
 description: "Control device name easily with iDevice Name. Rename your iOS device from the command line and manage device identifiers. Free online tool, no registration required."
 category: common

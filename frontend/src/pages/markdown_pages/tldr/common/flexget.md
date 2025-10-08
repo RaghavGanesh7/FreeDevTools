@@ -1,7 +1,7 @@
 ---
 title: "Automate Content with FlexGet - Automation Tool | Online Free DevTools by Hexmos"
 name: flexget
-path: /freedevtools/tldr/common/flexget
+path: "/freedevtools/tldr/common/flexget/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flexget/"
 description: "Automate content management with FlexGet. Schedule tasks, download torrents, manage podcasts, and organize media files. Free online tool, no registration required."
 category: common

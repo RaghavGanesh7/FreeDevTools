@@ -1,7 +1,7 @@
 ---
 title: "Create Linux Containers with lxc-create | Online Free DevTools by Hexmos"
 name: lxc-create
-path: /freedevtools/tldr/linux/lxc-create
+path: "/freedevtools/tldr/linux/lxc-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-create/"
 description: "Create Linux containers easily with lxc-create.  Manage container creation, specifying templates and options for customized deployments. Free online tool, no registration required."
 category: linux

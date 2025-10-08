@@ -1,7 +1,7 @@
 ---
 title: "GH Config - Change GitHub CLI Settings | Online Free DevTools by Hexmos"
 name: gh-config
-path: /freedevtools/tldr/gh/gh-config
+path: "/freedevtools/tldr/gh/gh-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-config/"
 description: "Change GitHub CLI configuration with gh config. Manage git protocol, set text editor, disable prompts, and customize settings. Free online tool, no registration required."
 category: common

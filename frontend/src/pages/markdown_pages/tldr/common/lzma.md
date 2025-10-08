@@ -1,7 +1,7 @@
 ---
 title: "Format LZMA Files - Compress and Decompress | Online Free DevTools by Hexmos"
 name: lzma
-path: /freedevtools/tldr/common/lzma
+path: "/freedevtools/tldr/common/lzma/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzma/"
 description: "Format files with LZMA using this online alias of xz. Easily compress and decompress files on Linux and MacOS. Free online tool, no registration required."
 category: common

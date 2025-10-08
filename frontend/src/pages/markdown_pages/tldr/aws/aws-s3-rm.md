@@ -1,7 +1,7 @@
 ---
 title: "Delete S3 Objects - Remove Data on AWS S3 | Online Free DevTools by Hexmos"
 name: aws-s3-rm
-path: /freedevtools/tldr/aws/aws-s3-rm
+path: "/freedevtools/tldr/aws/aws-s3-rm/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-s3-rm/"
 description: "Delete S3 objects with AWS S3 rm. Manage and remove data efficiently using command-line interface. Free online tool, no registration required."
 category: common

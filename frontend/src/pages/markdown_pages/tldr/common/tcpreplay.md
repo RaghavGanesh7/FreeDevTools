@@ -1,7 +1,7 @@
 ---
 title: "Replay Network Traffic - Control Network Traffic with tcpreplay | Online Free DevTools by Hexmos"
 name: tcpreplay
-path: /freedevtools/tldr/common/tcpreplay
+path: "/freedevtools/tldr/common/tcpreplay/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tcpreplay/"
 description: "Control network traffic replay with tcpreplay. Analyze and simulate network behavior using pcap files on Linux. Free online tool, no registration required."
 category: common

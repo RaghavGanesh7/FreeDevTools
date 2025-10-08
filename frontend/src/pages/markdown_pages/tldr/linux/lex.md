@@ -1,7 +1,7 @@
 ---
 title: "Lex Grammar Generator - Create Scanners with Lex | Online Free DevTools by Hexmos"
 name: lex
-path: /freedevtools/tldr/linux/lex
+path: "/freedevtools/tldr/linux/lex/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lex/"
 description: "Generate scanners with Lex, a lexical analyzer generator. Define token patterns and automate lexical analysis. Free online tool, no registration required."
 category: linux

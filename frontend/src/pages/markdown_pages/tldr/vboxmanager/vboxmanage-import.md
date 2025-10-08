@@ -1,7 +1,7 @@
 ---
 title: "VBoxManage Import - Import VMs | Online Free DevTools by Hexmos"
 name: vboxmanage-import
-path: /freedevtools/tldr/vboxmanager/vboxmanage-import
+path: "/freedevtools/tldr/vboxmanager/vboxmanage-import/"
 canonical: "https://hexmos.com/freedevtools/tldr/vboxmanager/vboxmanage-import/"
 description: "Import VMs with VBoxManage. Manage virtual machines, set memory, CPUs, and guest OS types with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Ubus Control - Interact with OpenWrt Ubus Daemon | Online Free DevTools by Hexmos"
 name: ubus
-path: /freedevtools/tldr/linux/ubus
+path: "/freedevtools/tldr/linux/ubus/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ubus/"
 description: "Control ubus daemons with Ubus Control, a command-line tool for interacting with OpenWrt's ubusd.  List objects, retrieve system info in JSON. Free online tool, no registration required."
 category: linux

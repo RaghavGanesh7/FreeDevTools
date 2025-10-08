@@ -1,7 +1,7 @@
 ---
 title: "ST Command - View Linux Documentation | Online Free DevTools by Hexmos"
 name: st
-path: /freedevtools/tldr/linux/st
+path: "/freedevtools/tldr/linux/st/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/st/"
 description: "View documentation with ST command. Quickly access tldr pages for both the terminal emulator and statistics tool on Linux. Free online tool, no registration required."
 category: linux

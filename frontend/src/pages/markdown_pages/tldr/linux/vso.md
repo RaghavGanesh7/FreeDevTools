@@ -1,7 +1,7 @@
 ---
 title: "Control Vanilla OS - System Operator with VSO | Online Free DevTools by Hexmos"
 name: vso
-path: /freedevtools/tldr/linux/vso
+path: "/freedevtools/tldr/linux/vso/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vso/"
 description: "Control Vanilla OS system operations with VSO. Update packages, manage the Pico subsystem, and automate tasks. Free online tool, no registration required."
 category: linux

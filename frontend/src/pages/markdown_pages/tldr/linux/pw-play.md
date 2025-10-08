@@ -1,7 +1,7 @@
 ---
 title: "PW-Play - Play Audio with PipeWire | Online Free DevTools by Hexmos"
 name: pw-play
-path: /freedevtools/tldr/linux/pw-play
+path: "/freedevtools/tldr/linux/pw-play/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-play/"
 description: "Play audio easily with PW-Play, a PipeWire playback command alias. Stream audio, control volume, and manage audio devices efficiently. Free online tool, no registration required."
 category: linux

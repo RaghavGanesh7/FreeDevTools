@@ -1,7 +1,7 @@
 ---
 title: "RSS to Email - Forward Feeds | Online Free DevTools by Hexmos"
 name: r2e
-path: "/freedevtools/tldr/common/r2e"
+path: "/freedevtools/tldr/common/r2e/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/r2e/"
 description: "Forward RSS feeds to email with r2e. Automate email delivery of news and updates from your favorite websites. Free online tool, no registration required."
 category: common

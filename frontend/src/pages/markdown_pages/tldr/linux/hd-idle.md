@@ -1,7 +1,7 @@
 ---
 title: "HD-Idle - Control Disk Spin Down | Online Free DevTools by Hexmos"
 name: hd-idle
-path: /freedevtools/tldr/linux/hd-idle
+path: "/freedevtools/tldr/linux/hd-idle/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hd-idle/"
 description: "Control hard drive spin down with HD-Idle.  Manage power consumption and improve disk lifespan with this simple command-line tool. Free online tool, no registration required."
 category: linux

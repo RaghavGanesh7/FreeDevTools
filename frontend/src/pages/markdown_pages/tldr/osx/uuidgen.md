@@ -1,7 +1,7 @@
 ---
 title: "Generate UUID - Create Unique Identifiers | Online Free DevTools by Hexmos"
 name: uuidgen
-path: /freedevtools/tldr/osx/uuidgen
+path: "/freedevtools/tldr/osx/uuidgen/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/uuidgen/"
 description: "Generate UUID strings instantly with uuidgen. Create universally unique identifiers for various applications and systems on macOS. Free online tool, no registration required."
 category: osx

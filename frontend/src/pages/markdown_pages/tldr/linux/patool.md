@@ -1,7 +1,7 @@
 ---
 title: "Create Archive Files - Manage Files with patool | Online Free DevTools by Hexmos"
 name: patool
-path: /freedevtools/tldr/linux/patool
+path: "/freedevtools/tldr/linux/patool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/patool/"
 description: "Create archive files easily with patool on Linux. Manage various archive formats and manipulate files with this versatile command-line tool. Free online tool, no registration required."
 category: linux

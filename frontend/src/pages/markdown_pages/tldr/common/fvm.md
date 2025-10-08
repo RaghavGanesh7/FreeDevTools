@@ -1,7 +1,7 @@
 ---
 title: "FVM - Manage Flutter Versions | Online Free DevTools by Hexmos"
 name: fvm
-path: /freedevtools/tldr/common/fvm
+path: "/freedevtools/tldr/common/fvm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fvm/"
 description: "Manage Flutter versions with FVM for consistent development environments. Quickly install, use, and remove specific Flutter SDK versions. Free online tool, no registration required."
 category: common

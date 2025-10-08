@@ -1,7 +1,7 @@
 ---
 title: "Sails Generate - Create MVC Apps | Online Free DevTools by Hexmos"
 name: sails
-path: /freedevtools/tldr/common/sails
+path: "/freedevtools/tldr/common/sails/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sails/"
 description: "Generate MVC applications with Sails. Quickly create APIs, controllers, and models. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM Images - Create Crater Visualizations | Online Free DevTools by Hexmos"
 name: pgmcrater
-path: /freedevtools/tldr/common/pgmcrater
+path: "/freedevtools/tldr/common/pgmcrater/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmcrater/"
 description: "Create crater visualizations with PGM images. Convert PGM to shaded relief using the pgmcrater command, or use alternatives. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "ASCII Animation - Generate CACA Art with Cacademo | Online Free DevTools by Hexmos"
 name: cacademo
-path: /freedevtools/tldr/linux/cacademo
+path: "/freedevtools/tldr/linux/cacademo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cacademo/"
 description: "Generate ASCII art animation with Cacademo. Display random animations from the command line, supporting multiple codecs. Free online tool, no registration required."
 category: linux

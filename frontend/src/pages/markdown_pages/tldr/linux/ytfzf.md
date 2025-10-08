@@ -1,7 +1,7 @@
 ---
 title: "ytfzf - Find YouTube Videos and Music | Online Free DevTools by Hexmos"
 name: ytfzf
-path: /freedevtools/tldr/linux/ytfzf
+path: "/freedevtools/tldr/linux/ytfzf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ytfzf/"
 description: "Find videos and music with ytfzf, a command-line YouTube search tool. Quickly download, play audio, and explore trending content. Free online tool, no registration required."
 category: linux

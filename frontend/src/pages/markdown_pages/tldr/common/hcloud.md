@@ -1,7 +1,7 @@
 ---
 title: "HCloud Control - Manage Hetzner Cloud Resources | Online Free DevTools by Hexmos"
 name: hcloud
-path: /freedevtools/tldr/common/hcloud
+path: "/freedevtools/tldr/common/hcloud/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hcloud/"
 description: "Control HCloud resources easily with HCloud CLI. Manage servers, volumes, networks, and firewalls effectively. Free online tool, no registration required."
 category: common

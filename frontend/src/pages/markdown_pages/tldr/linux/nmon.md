@@ -1,7 +1,7 @@
 ---
 title: "Control System Stats - Monitor Linux with nmon | Online Free DevTools by Hexmos"
 name: nmon
-path: /freedevtools/tldr/linux/nmon
+path: "/freedevtools/tldr/linux/nmon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmon/"
 description: "Monitor system statistics with nmon on Linux. Analyze CPU, memory, disk I/O, and network performance effectively. Free online tool, no registration required."
 category: linux

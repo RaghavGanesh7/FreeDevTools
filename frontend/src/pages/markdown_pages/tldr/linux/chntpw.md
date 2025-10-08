@@ -1,7 +1,7 @@
 ---
 title: "chntpw - Reset Windows Passwords | Online Free DevTools by Hexmos"
 name: chntpw
-path: /freedevtools/tldr/linux/chntpw
+path: "/freedevtools/tldr/linux/chntpw/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chntpw/"
 description: "Reset Windows passwords easily with chntpw.  Manage user accounts and elevate privileges using command-line interface. Free online tool, no registration required."
 category: linux

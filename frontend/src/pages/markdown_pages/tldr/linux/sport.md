@@ -1,7 +1,7 @@
 ---
 title: "Search SlackBuilds - Install Packages with Sport | Online Free DevTools by Hexmos"
 name: sport
-path: /freedevtools/tldr/linux/sport
+path: "/freedevtools/tldr/linux/sport/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sport/"
 description: "Search and install SlackBuilds with Sport. Quickly find, check, and install packages on your Slackware system. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "QM Status - Control Virtual Machines | Online Free DevTools by Hexmos"
 name: qm-status
-path: /freedevtools/tldr/linux/qm-status
+path: "/freedevtools/tldr/linux/qm-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-status/"
 description: "Control virtual machine status with QM Status. Monitor performance and manage virtual machines effectively via the command line. Free online tool, no registration required."
 category: linux

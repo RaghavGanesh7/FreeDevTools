@@ -1,7 +1,7 @@
 ---
 title: "Control Git REPL - Interactive Git Shell | Online Free DevTools by Hexmos"
 name: git-repl
-path: /freedevtools/tldr/git/git-repl
+path: "/freedevtools/tldr/git/git-repl/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-repl/"
 description: "Control Git workflow with Git REPL, an interactive Git shell. Execute commands, run external programs, and manage repositories efficiently. Free online tool, no registration required."
 category: common

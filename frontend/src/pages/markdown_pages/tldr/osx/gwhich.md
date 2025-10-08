@@ -1,7 +1,7 @@
 ---
 title: "Which Command - Locate Executables on macOS | Online Free DevTools by Hexmos"
 name: gwhich
-path: /freedevtools/tldr/osx/gwhich
+path: "/freedevtools/tldr/osx/gwhich/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gwhich/"
 description: "Locate executables easily with Which Command on macOS. Find the full path of commands in your shell environment, simplifying scripting. Free online tool, no registration required."
 category: osx

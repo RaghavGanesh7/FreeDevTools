@@ -1,7 +1,7 @@
 ---
 title: "Create Linux Swap - Set Up Swap Space | Online Free DevTools by Hexmos"
 name: mkswap
-path: /freedevtools/tldr/linux/mkswap
+path: "/freedevtools/tldr/linux/mkswap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mkswap/"
 description: "Create Linux swap partitions quickly with mkswap. Format drives and enable memory management on your Linux system. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Extract Zip Hashes - Crack Passwords | Online Free DevTools by Hexmos"
 name: zip2john
-path: /freedevtools/tldr/common/zip2john
+path: "/freedevtools/tldr/common/zip2john/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zip2john/"
 description: "Extract Zip archive hashes with zip2john for password cracking. Recover lost passwords and test security. Free online tool, no registration required."
 category: common

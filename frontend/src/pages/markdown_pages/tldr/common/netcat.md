@@ -1,7 +1,7 @@
 ---
 title: "Netcat - Control Network Connections | Online Free DevTools by Hexmos"
 name: netcat
-path: /freedevtools/tldr/common/netcat
+path: "/freedevtools/tldr/common/netcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/netcat/"
 description: "Control network connections with Netcat. Inspect and manipulate network data using command-line. Analyze network traffic. Free online tool, no registration required."
 category: common

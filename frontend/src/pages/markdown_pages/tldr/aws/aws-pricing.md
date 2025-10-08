@@ -1,7 +1,7 @@
 ---
 title: "AWS Pricing - Query AWS Prices | Online Free DevTools by Hexmos"
 name: aws-pricing
-path: /freedevtools/tldr/aws/aws-pricing
+path: "/freedevtools/tldr/aws/aws-pricing/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-pricing/"
 description: "Query AWS prices with the AWS Pricing tool. Get service details, product information, and pricing data from Amazon Web Services. Free online tool, no registration required."
 category: common

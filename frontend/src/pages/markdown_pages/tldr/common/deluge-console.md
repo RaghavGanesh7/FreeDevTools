@@ -1,7 +1,7 @@
 ---
 title: "Deluge Console - Control BitTorrent Client | Online Free DevTools by Hexmos"
 name: deluge-console
-path: /freedevtools/tldr/common/deluge-console
+path: "/freedevtools/tldr/common/deluge-console/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/deluge-console/"
 description: "Control your BitTorrent client with Deluge Console. Manage torrents, connect to daemons, and view torrent info. Free online tool, no registration required."
 category: common

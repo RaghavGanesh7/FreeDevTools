@@ -1,7 +1,7 @@
 ---
 title: "Xonsh Shell - Execute Python Commands | Online Free DevTools by Hexmos"
 name: xonsh
-path: /freedevtools/tldr/common/xonsh
+path: "/freedevtools/tldr/common/xonsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xonsh/"
 description: "Execute Python commands with Xonsh shell. Automate tasks and combine shell commands with Python scripts in a cross-platform environment. Free online tool, no registration required."
 category: common

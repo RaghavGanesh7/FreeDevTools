@@ -1,7 +1,7 @@
 ---
 title: "Find Files - Locate Files on macOS | Online Free DevTools by Hexmos"
 name: gfind
-path: /freedevtools/tldr/osx/gfind
+path: "/freedevtools/tldr/osx/gfind/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gfind/"
 description: "Locate files with Find on macOS, using gfind, a GNU find alias. Easily search directories, filter by name, and manage your file system. Free online tool, no registration required."
 category: osx

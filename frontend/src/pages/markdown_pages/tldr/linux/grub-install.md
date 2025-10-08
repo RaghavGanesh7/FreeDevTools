@@ -1,7 +1,7 @@
 ---
 title: "Install GRUB - Bootloader Configuration | Online Free DevTools by Hexmos"
 name: grub-install
-path: /freedevtools/tldr/linux/grub-install
+path: "/freedevtools/tldr/linux/grub-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/grub-install/"
 description: "Install GRUB bootloader with grub-install. Configure boot options and install to different systems, including BIOS and UEFI. Free online tool, no registration required."
 category: linux

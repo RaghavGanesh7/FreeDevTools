@@ -1,7 +1,7 @@
 ---
 title: "Chmem - Modify Memory Blocks in Linux | Online Free DevTools by Hexmos"
 name: chmem
-path: /freedevtools/tldr/linux/chmem
+path: "/freedevtools/tldr/linux/chmem/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chmem/"
 description: "Modify memory blocks with Chmem, a Linux memory management tool. Control memory hotplug in virtualized environments. Free online tool, no registration required."
 category: linux

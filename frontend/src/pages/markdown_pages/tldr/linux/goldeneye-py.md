@@ -1,7 +1,7 @@
 ---
 title: "GoldenEye - HTTP DoS Test | Online Free DevTools by Hexmos"
 name: goldeneye.py
-path: /freedevtools/tldr/linux/goldeneye-py
+path: "/freedevtools/tldr/linux/goldeneye-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/goldeneye-py/"
 description: "Test HTTP DoS attacks with GoldenEye, a powerful denial-of-service tool. Simulate high-volume requests and stress-test web servers. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Disk Space Usage - Analyze Filesystem with df | Online Free DevTools by Hexmos"
 name: df
-path: /freedevtools/tldr/netbsd/df
+path: "/freedevtools/tldr/netbsd/df/"
 canonical: "https://hexmos.com/freedevtools/tldr/netbsd/df/"
 description: "Analyze disk space usage with df, a NetBSD command line tool. Monitor filesystem utilization and storage capacity reporting. Free online tool, no registration required."
 category: netbsd

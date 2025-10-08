@@ -1,7 +1,7 @@
 ---
 title: "Event Monitor - Control System Events | Online Free DevTools by Hexmos"
 name: emond
-path: /freedevtools/tldr/osx/emond
+path: "/freedevtools/tldr/osx/emond/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/emond/"
 description: "Control system events with emond, the Event Monitor daemon. Configure rules to trigger actions based on events, such as running commands or sending notifications. Free online tool, no registration required."
 category: osx

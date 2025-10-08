@@ -1,7 +1,7 @@
 ---
 title: "Pyflakes - Validate Python Code | Online Free DevTools by Hexmos"
 name: pyflakes
-path: /freedevtools/tldr/common/pyflakes
+path: "/freedevtools/tldr/common/pyflakes/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pyflakes/"
 description: "Validate Python code with Pyflakes. Find errors and potential problems in your Python source files. Free online tool, no registration required."
 category: common

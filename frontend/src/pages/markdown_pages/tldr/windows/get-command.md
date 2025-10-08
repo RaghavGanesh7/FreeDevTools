@@ -1,7 +1,7 @@
 ---
 title: "Get-Command - List Commands in PowerShell | Online Free DevTools by Hexmos"
 name: get-command
-path: /freedevtools/tldr/windows/get-command
+path: "/freedevtools/tldr/windows/get-command/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-command/"
 description: "List commands easily with Get-Command in PowerShell. Discover cmdlets, functions, and aliases for Windows automation tasks. Free online tool, no registration required."
 category: windows

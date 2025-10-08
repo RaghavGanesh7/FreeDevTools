@@ -1,7 +1,7 @@
 ---
 title: "Display Metadata - Manage File Attributes with mdls | Online Free DevTools by Hexmos"
 name: mdls
-path: /freedevtools/tldr/osx/mdls
+path: "/freedevtools/tldr/osx/mdls/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mdls/"
 description: "Display metadata with mdls. Extract file attributes and manage data using the command line tool. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Control Uptime - Monitor System Uptime | Online Free DevTools by Hexmos"
 name: uptime
-path: /freedevtools/tldr/common/uptime
+path: "/freedevtools/tldr/common/uptime/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/uptime/"
 description: "Control system uptime with Uptime. Monitor system boot time, logged-in users, and average load. Free online tool, no registration required."
 category: common

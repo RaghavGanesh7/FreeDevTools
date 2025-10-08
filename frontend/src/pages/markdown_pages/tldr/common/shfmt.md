@@ -1,7 +1,7 @@
 ---
 title: "Format Shell Script - shfmt Formatter | Online Free DevTools by Hexmos"
 name: shfmt
-path: /freedevtools/tldr/common/shfmt
+path: "/freedevtools/tldr/common/shfmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shfmt/"
 description: "Format shell scripts easily with shfmt. Enhance code readability and enforce consistent style using this powerful shell parser and formatter. Free online tool, no registration required."
 category: common

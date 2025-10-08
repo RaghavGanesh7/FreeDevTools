@@ -1,7 +1,7 @@
 ---
 title: "Repair PCAP Files - Fix Corrupted Captures | Online Free DevTools by Hexmos"
 name: pcapfix
-path: /freedevtools/tldr/common/pcapfix
+path: "/freedevtools/tldr/common/pcapfix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pcapfix/"
 description: "Repair corrupted PCAP files with Pcapfix. Recover and fix damaged packet captures and PcapNG files. Free online tool, no registration required."
 category: common

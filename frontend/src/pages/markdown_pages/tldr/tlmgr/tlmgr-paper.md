@@ -1,7 +1,7 @@
 ---
 title: "Manage TeX Paper Size - Control Paper Settings | Online Free DevTools by Hexmos"
 name: tlmgr-paper
-path: /freedevtools/tldr/tlmgr/tlmgr-paper
+path: "/freedevtools/tldr/tlmgr/tlmgr-paper/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-paper/"
 description: "Control TeX paper size settings with tlmgr-paper. Configure paper sizes for different TeX Live programs using the command line interface. Free online tool, no registration required."
 category: common

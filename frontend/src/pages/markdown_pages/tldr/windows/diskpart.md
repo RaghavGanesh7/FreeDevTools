@@ -1,7 +1,7 @@
 ---
 title: "Diskpart - Manage Disks, Volumes, and Partitions | Online Free DevTools by Hexmos"
 name: diskpart
-path: /freedevtools/tldr/windows/diskpart
+path: "/freedevtools/tldr/windows/diskpart/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/diskpart/"
 description: "Manage disks and volumes efficiently with Diskpart. Create partitions, assign drive letters, and format volumes using this powerful command-line tool. Free online tool, no registration required."
 category: windows

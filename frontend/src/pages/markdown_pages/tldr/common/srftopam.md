@@ -1,7 +1,7 @@
 ---
 title: "Convert SRF to PAM - Format Images | Online Free DevTools by Hexmos"
 name: srftopam
-path: /freedevtools/tldr/common/srftopam
+path: "/freedevtools/tldr/common/srftopam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/srftopam/"
 description: "Format SRF to PAM images with srftopam. Convert Single Raster Format to Portable Arbitrary Map quickly. Free online tool, no registration required."
 category: common

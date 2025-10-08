@@ -1,7 +1,7 @@
 ---
 title: "sfdisk - Manage Disk Partitions | Online Free DevTools by Hexmos"
 name: sfdisk
-path: /freedevtools/tldr/linux/sfdisk
+path: "/freedevtools/tldr/linux/sfdisk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sfdisk/"
 description: "Manage disk partitions with sfdisk.  Easily create, delete, and modify partitions using command-line instructions. Free online tool, no registration required."
 category: linux

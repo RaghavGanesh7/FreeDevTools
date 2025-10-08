@@ -1,7 +1,7 @@
 ---
 title: "Create User - Manage Linux Users | Online Free DevTools by Hexmos"
 name: useradd
-path: /freedevtools/tldr/linux/useradd
+path: "/freedevtools/tldr/linux/useradd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/useradd/"
 description: "Create Linux users effortlessly with useradd. Manage user accounts, assign groups, and configure home directories. Free online tool, no registration required."
 category: linux

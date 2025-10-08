@@ -1,7 +1,7 @@
 ---
 title: "Open Zstd Files - Read Compressed Files | Online Free DevTools by Hexmos"
 name: zstdless
-path: /freedevtools/tldr/common/zstdless
+path: "/freedevtools/tldr/common/zstdless/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zstdless/"
 description: "Open Zstd files with zstdless for interactive reading of compressed archives. Quickly scroll, search and browse .zst files online. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Rails Server - Run App with Puma | Online Free DevTools by Hexmos"
 name: rails-server
-path: /freedevtools/tldr/rails/rails-server
+path: "/freedevtools/tldr/rails/rails-server/"
 canonical: "https://hexmos.com/freedevtools/tldr/rails/rails-server/"
 description: "Control Rails server instances with this command. Easily manage ports and environments for development or testing. Free online tool, no registration required."
 category: common

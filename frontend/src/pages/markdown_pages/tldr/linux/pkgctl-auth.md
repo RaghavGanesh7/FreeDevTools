@@ -1,7 +1,7 @@
 ---
 title: "pkgctl Auth - Authenticate GitLab | Online Free DevTools by Hexmos"
 name: pkgctl-auth
-path: /freedevtools/tldr/linux/pkgctl-auth
+path: "/freedevtools/tldr/linux/pkgctl-auth/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgctl-auth/"
 description: "Authenticate with pkgctl using GitLab instances. Securely manage authentication and view status with this Linux command. Free online tool, no registration required."
 category: linux

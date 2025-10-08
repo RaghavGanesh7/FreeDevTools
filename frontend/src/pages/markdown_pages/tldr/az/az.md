@@ -1,7 +1,7 @@
 ---
 title: "Azure CLI - Manage Cloud Resources | Online Free DevTools by Hexmos"
 name: az
-path: /freedevtools/tldr/az/az
+path: "/freedevtools/tldr/az/az/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az/"
 description: "Manage cloud resources with Azure CLI. Control Azure services, VMs, and network configurations through the command line. Free online tool, no registration required."
 category: common

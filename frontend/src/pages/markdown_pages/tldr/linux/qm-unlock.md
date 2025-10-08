@@ -1,7 +1,7 @@
 ---
 title: "QM Unlock - Control VMs on Linux | Online Free DevTools by Hexmos"
 name: qm-unlock
-path: /freedevtools/tldr/linux/qm-unlock
+path: "/freedevtools/tldr/linux/qm-unlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-unlock/"
 description: "Control virtual machines with QM Unlock on Linux. Securely unlock VMs managed by QEMU/KVM. Free online tool, no registration required."
 category: linux

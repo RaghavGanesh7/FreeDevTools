@@ -1,7 +1,7 @@
 ---
 title: "Control twm - X Window Manager | Online Free DevTools by Hexmos"
 name: twm
-path: /freedevtools/tldr/common/twm
+path: "/freedevtools/tldr/common/twm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/twm/"
 description: "Control windows with twm, the X Window Manager. Configure X server connections, manage screens, and customize startup files. Free online tool, no registration required."
 category: common

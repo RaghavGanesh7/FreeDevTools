@@ -1,7 +1,7 @@
 ---
 title: "Control CUPS Printers - Accept Print Jobs | Online Free DevTools by Hexmos"
 name: cupsaccept
-path: /freedevtools/tldr/common/cupsaccept
+path: "/freedevtools/tldr/common/cupsaccept/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cupsaccept/"
 description: "Accept print jobs with CUPS accept. Control CUPS printer queues and manage destination printers. Free online tool, no registration required."
 category: common

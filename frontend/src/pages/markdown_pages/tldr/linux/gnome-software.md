@@ -1,7 +1,7 @@
 ---
 title: "Manage Software - Update and Install Apps | Online Free DevTools by Hexmos"
 name: gnome-software
-path: /freedevtools/tldr/linux/gnome-software
+path: "/freedevtools/tldr/linux/gnome-software/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gnome-software/"
 description: "Manage software effortlessly with gnome-software on Linux. Update system packages, install new applications, and browse the app store. Free online tool, no registration required."
 category: linux

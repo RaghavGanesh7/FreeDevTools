@@ -1,7 +1,7 @@
 ---
 title: "Shards - Manage Crystal Dependencies | Online Free DevTools by Hexmos"
 name: shards
-path: /freedevtools/tldr/common/shards
+path: "/freedevtools/tldr/common/shards/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shards/"
 description: "Manage Crystal dependencies effortlessly with Shards. Install, update, and list dependencies in your Crystal projects with this command-line tool. Free online tool, no registration required."
 category: common

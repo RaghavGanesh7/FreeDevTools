@@ -1,7 +1,7 @@
 ---
 title: "Build JavaScript - Control Projects with Turbo | Online Free DevTools by Hexmos"
 name: turbo
-path: /freedevtools/tldr/common/turbo
+path: "/freedevtools/tldr/common/turbo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/turbo/"
 description: "Control JavaScript build projects instantly with Turbo. Optimize builds, enable remote caching, and generate dependency graphs. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Go Install - Compile and Install Go Packages | Online Free DevTools by Hexmos"
 name: go-install
-path: /freedevtools/tldr/go/go-install
+path: "/freedevtools/tldr/go/go-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-install/"
 description: "Compile Go packages instantly with Go Install. Easily manage dependencies and install specific versions of programs using the go command. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "iptables-restore - Restore Linux Firewall | Online Free DevTools by Hexmos"
 name: iptables-restore
-path: /freedevtools/tldr/linux/iptables-restore
+path: "/freedevtools/tldr/linux/iptables-restore/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iptables-restore/"
 description: "Restore iptables configurations with iptables-restore, a Linux command-line tool. Manage firewall rules and persist settings effectively. Free online tool, no registration required."
 category: linux

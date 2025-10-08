@@ -1,7 +1,7 @@
 ---
 title: "Chattr - Control File Attributes on Linux | Online Free DevTools by Hexmos"
 name: chattr
-path: /freedevtools/tldr/linux/chattr
+path: "/freedevtools/tldr/linux/chattr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chattr/"
 description: "Control file attributes with Chattr on Linux. Manage file immutability and append-only modes for enhanced security. Free online tool, no registration required."
 category: linux

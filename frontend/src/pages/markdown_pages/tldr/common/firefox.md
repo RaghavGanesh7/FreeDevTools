@@ -1,7 +1,7 @@
 ---
 title: "Control Firefox - Browse the Web | Online Free DevTools by Hexmos"
 name: firefox
-path: /freedevtools/tldr/common/firefox
+path: "/freedevtools/tldr/common/firefox/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/firefox/"
 description: "Control browsing with Firefox using command-line options. Launch, search, and debug with this open-source browser. Free online tool, no registration required."
 category: common

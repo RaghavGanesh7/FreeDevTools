@@ -1,7 +1,7 @@
 ---
 title: "Install Binaries - Download Prebuilt Executables | Online Free DevTools by Hexmos"
 name: eget
-path: /freedevtools/tldr/common/eget
+path: "/freedevtools/tldr/common/eget/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eget/"
 description: "Download binaries easily with Eget. Install prebuilt executables from GitHub repositories. Free online tool, no registration required."
 category: common

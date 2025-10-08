@@ -1,7 +1,7 @@
 ---
 title: "Windows Update Control - Manage Updates with PowerShell | Online Free DevTools by Hexmos"
 name: pswindowsupdate
-path: /freedevtools/tldr/windows/pswindowsupdate
+path: "/freedevtools/tldr/windows/pswindowsupdate/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pswindowsupdate/"
 description: "Control Windows Updates with PSWindowsUpdate. Automate update installation, manage reboot settings, and retrieve update information. Free online tool, no registration required."
 category: windows

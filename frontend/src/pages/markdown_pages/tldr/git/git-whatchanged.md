@@ -1,7 +1,7 @@
 ---
 title: "Git Whatchanged - Track Recent Commits | Online Free DevTools by Hexmos"
 name: git-whatchanged
-path: /freedevtools/tldr/git/git-whatchanged
+path: "/freedevtools/tldr/git/git-whatchanged/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-whatchanged/"
 description: "Track recent commits with Git Whatchanged and analyze file changes efficiently. Improve code review and debugging workflows using this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Proxmox Control - Manage VE Cluster | Online Free DevTools by Hexmos"
 name: pvecm
-path: /freedevtools/tldr/linux/pvecm
+path: "/freedevtools/tldr/linux/pvecm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pvecm/"
 description: "Control Proxmox VE Clusters with pvecm. Manage nodes, display status, and generate configurations with ease. Free online tool, no registration required."
 category: linux

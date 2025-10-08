@@ -1,7 +1,7 @@
 ---
 title: "Enumerate Subdomains - Amass Enum | Online Free DevTools by Hexmos"
 name: amass-enum
-path: /freedevtools/tldr/amass/amass-enum
+path: "/freedevtools/tldr/amass/amass-enum/"
 canonical: "https://hexmos.com/freedevtools/tldr/amass/amass-enum/"
 description: "Enumerate subdomains quickly with Amass Enum. Discover subdomains, verify them actively and perform brute-force searches. Free online tool, no registration required."
 category: common

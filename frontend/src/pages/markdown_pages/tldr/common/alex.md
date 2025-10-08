@@ -1,7 +1,7 @@
 ---
 title: "Analyze Inclusivity - Check Text with Alex | Online Free DevTools by Hexmos"
 name: alex
-path: /freedevtools/tldr/common/alex
+path: "/freedevtools/tldr/common/alex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/alex/"
 description: "Analyze text inclusivity with Alex, a command-line tool for identifying insensitive writing. Detect gender-biased and unequal phrasing in your documents. Free online tool, no registration required."
 category: common

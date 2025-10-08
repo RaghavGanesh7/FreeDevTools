@@ -1,7 +1,7 @@
 ---
 title: "Bash Test System - Automate Bash Tests | Online Free DevTools by Hexmos"
 name: bats
-path: /freedevtools/tldr/common/bats
+path: "/freedevtools/tldr/common/bats/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bats/"
 description: "Automate Bash tests effortlessly with Bats, a TAP-compliant framework. Enhance testing efficiency and streamline your shell scripting workflows. Free online tool, no registration required."
 category: common

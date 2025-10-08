@@ -1,7 +1,7 @@
 ---
 title: "Alpine Email Client - Manage Emails via Command Line | Online Free DevTools by Hexmos"
 name: alpine
-path: /freedevtools/tldr/linux/alpine
+path: "/freedevtools/tldr/linux/alpine/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/alpine/"
 description: "Manage emails efficiently with Alpine email client.  Compose, read, and send emails using a simple command-line interface. Free online tool, no registration required."
 category: linux

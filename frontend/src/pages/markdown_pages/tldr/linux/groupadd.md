@@ -1,7 +1,7 @@
 ---
 title: "Create Linux Groups - Manage User Groups | Online Free DevTools by Hexmos"
 name: groupadd
-path: /freedevtools/tldr/linux/groupadd
+path: "/freedevtools/tldr/linux/groupadd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/groupadd/"
 description: "Create Linux user groups easily with groupadd. Add groups, specify group IDs, and manage system groups efficiently. Free online tool, no registration required."
 category: linux

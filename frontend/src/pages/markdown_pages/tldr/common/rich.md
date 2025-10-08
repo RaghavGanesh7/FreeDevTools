@@ -1,7 +1,7 @@
 ---
 title: "Format Terminal Output - Rich CLI | Online Free DevTools by Hexmos"
 name: rich
-path: /freedevtools/tldr/common/rich
+path: "/freedevtools/tldr/common/rich/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rich/"
 description: "Format terminal output with Rich, enhancing readability and debugging.  Syntax highlight code, add line numbers and use themes easily. Free online tool, no registration required."
 category: common

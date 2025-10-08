@@ -1,7 +1,7 @@
 ---
 title: "OpenSSL X.509 - Manage Certificates | Online Free DevTools by Hexmos"
 name: openssl-x509
-path: /freedevtools/tldr/openssl/openssl-x509
+path: "/freedevtools/tldr/openssl/openssl-x509/"
 canonical: "https://hexmos.com/freedevtools/tldr/openssl/openssl-x509/"
 description: "Manage X.509 certificates with OpenSSL X.509. Convert formats, display information, and extract public keys effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Elasticsearch Users - Create & Delete Users | Online Free DevTools by Hexmos"
 name: elasticsearch-users
-path: /freedevtools/tldr/elasticsearch/elasticsearch-users
+path: "/freedevtools/tldr/elasticsearch/elasticsearch-users/"
 canonical: "https://hexmos.com/freedevtools/tldr/elasticsearch/elasticsearch-users/"
 description: "Manage Elasticsearch users with elasticsearch-users. Secure your cluster by creating, updating, and deleting native realm users. Free online tool, no registration required."
 category: common

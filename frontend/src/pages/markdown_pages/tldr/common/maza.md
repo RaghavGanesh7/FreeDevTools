@@ -1,7 +1,7 @@
 ---
 title: "Control Ad Blocking - Maza Local Ad Blocker | Online Free DevTools by Hexmos"
 name: maza
-path: /freedevtools/tldr/common/maza
+path: "/freedevtools/tldr/common/maza/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/maza/"
 description: "Control ad blocking with Maza, a local ad blocker utilizing your operating system, similar to Pi-hole. Free online tool, no registration required."
 category: common

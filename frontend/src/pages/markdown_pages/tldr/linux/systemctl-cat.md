@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Cat - Show Unit File Contents | Online Free DevTools by Hexmos"
 name: systemctl-cat
-path: /freedevtools/tldr/linux/systemctl-cat
+path: "/freedevtools/tldr/linux/systemctl-cat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-cat/"
 description: "Show Unit file contents with Systemctl Cat. View configurations, templates, and user units with this command. Free online tool, no registration required."
 category: linux

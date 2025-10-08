@@ -1,7 +1,7 @@
 ---
 title: "Extract RAR - Manage RAR Archives | Online Free DevTools by Hexmos"
 name: unrar
-path: /freedevtools/tldr/common/unrar
+path: "/freedevtools/tldr/common/unrar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unrar/"
 description: "Extract RAR archives with UnRAR. Easily manage compressed files and access their contents efficiently. Free online tool, no registration required."
 category: common

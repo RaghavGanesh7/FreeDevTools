@@ -1,7 +1,7 @@
 ---
 title: "YAML Processor - Format YAML Data with YQ | Online Free DevTools by Hexmos"
 name: yq
-path: /freedevtools/tldr/common/yq
+path: "/freedevtools/tldr/common/yq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yq/"
 description: "Format YAML data with YQ. Parse, update, and manipulate YAML files seamlessly from the command line. Free online tool, no registration required."
 category: common

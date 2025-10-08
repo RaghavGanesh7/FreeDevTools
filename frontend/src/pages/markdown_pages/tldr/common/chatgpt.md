@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT - Generate Text & Images | Online Free DevTools by Hexmos"
 name: chatgpt
-path: /freedevtools/tldr/common/chatgpt
+path: "/freedevtools/tldr/common/chatgpt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chatgpt/"
 description: "Generate text and images with ChatGPT command line tool. Use AI models like GPT-4 for natural language tasks and DALL-E for image creation. Free online tool, no registration required."
 category: common

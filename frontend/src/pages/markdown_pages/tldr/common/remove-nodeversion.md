@@ -1,7 +1,7 @@
 ---
 title: "Remove Node.js Version - Uninstall Node Runtimes | Online Free DevTools by Hexmos"
 name: remove-nodeversion
-path: /freedevtools/tldr/common/remove-nodeversion
+path: "/freedevtools/tldr/common/remove-nodeversion/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/remove-nodeversion/"
 description: "Uninstall Node.js versions efficiently with Remove-NodeVersion. Manage Node.js runtimes easily, and ensure compatibility with your projects. Free online tool, no registration required."
 category: common

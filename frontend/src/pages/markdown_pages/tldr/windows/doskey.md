@@ -1,7 +1,7 @@
 ---
 title: "Doskey - Manage Windows Commands | Online Free DevTools by Hexmos"
 name: doskey
-path: /freedevtools/tldr/windows/doskey
+path: "/freedevtools/tldr/windows/doskey/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/doskey/"
 description: "Manage Windows commands with Doskey. Create macros, manage command-lines, and recall commands. Free online tool, no registration required."
 category: windows

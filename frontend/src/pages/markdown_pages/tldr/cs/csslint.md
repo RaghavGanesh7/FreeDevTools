@@ -1,7 +1,7 @@
 ---
 title: "CSS Lint - Validate CSS Code | Online Free DevTools by Hexmos"
 name: csslint
-path: /freedevtools/tldr/cs/csslint
+path: "/freedevtools/tldr/cs/csslint/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/csslint/"
 description: "Validate CSS code with CSS Lint. Identify errors and warnings in your stylesheets to improve code quality. Free online tool, no registration required."
 category: common

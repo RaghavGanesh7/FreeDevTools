@@ -1,7 +1,7 @@
 ---
 title: "Edit Text with Nvim - Text Editing | Online Free DevTools by Hexmos"
 name: nvim
-path: /freedevtools/tldr/common/nvim
+path: "/freedevtools/tldr/common/nvim/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nvim/"
 description: "Edit text quickly with Nvim. Manipulate and manage text files using this versatile command-line tool. Free online tool, no registration required."
 category: common

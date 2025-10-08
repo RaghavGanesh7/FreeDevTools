@@ -1,7 +1,7 @@
 ---
 title: "Query User Sessions - Display Processes | Online Free DevTools by Hexmos"
 name: query
-path: /freedevtools/tldr/windows/query
+path: "/freedevtools/tldr/windows/query/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/query/"
 description: "Display user sessions with Query command. Retrieve information about running processes and user sessions. Free online tool, no registration required."
 category: windows

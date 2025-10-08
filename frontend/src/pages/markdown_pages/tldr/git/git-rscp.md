@@ -1,7 +1,7 @@
 ---
 title: "Copy Git Files - Transfer Files from Remote Repositories | Online Free DevTools by Hexmos"
 name: git-rscp
-path: /freedevtools/tldr/git/git-rscp
+path: "/freedevtools/tldr/git/git-rscp/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-rscp/"
 description: "Transfer Git files securely with Git RSCP. Copy files from remote repositories to your local machine with ease. Free online tool, no registration required."
 category: common

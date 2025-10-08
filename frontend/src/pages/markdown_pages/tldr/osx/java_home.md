@@ -1,7 +1,7 @@
 ---
 title: "Java Home - Control Java Versions on macOS | Online Free DevTools by Hexmos"
 name: java_home
-path: /freedevtools/tldr/osx/java_home
+path: "/freedevtools/tldr/osx/java_home/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/java_home/"
 description: "Control Java versions on macOS with Java Home. List JVMs, specify architecture, and format output in XML. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Vinmap Scanner - Parallel Network Scanning | Online Free DevTools by Hexmos"
 name: vinmap
-path: /freedevtools/tldr/common/vinmap
+path: "/freedevtools/tldr/common/vinmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vinmap/"
 description: "Perform parallel network scanning with Vinmap, speeding up Nmap scans on large networks. Optimize network discovery with this free online tool, no registration required."
 category: common

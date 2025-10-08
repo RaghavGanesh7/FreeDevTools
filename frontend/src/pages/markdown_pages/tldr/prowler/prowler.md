@@ -1,7 +1,7 @@
 ---
 title: "Audit Security - Prowler Compliance Checks | Online Free DevTools by Hexmos"
 name: prowler
-path: /freedevtools/tldr/prowler/prowler
+path: "/freedevtools/tldr/prowler/prowler/"
 canonical: "https://hexmos.com/freedevtools/tldr/prowler/prowler/"
 description: "Audit security best practices with Prowler across AWS, Azure, GCP and Kubernetes. Perform compliance checks and generate security assessments. Free online tool, no registration required."
 category: common

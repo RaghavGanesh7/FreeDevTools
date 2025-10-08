@@ -1,7 +1,7 @@
 ---
 title: "Password Changer - Modify User Passwords | Online Free DevTools by Hexmos"
 name: ypchfn
-path: /freedevtools/tldr/freebsd/ypchfn
+path: "/freedevtools/tldr/freebsd/ypchfn/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/ypchfn/"
 description: "Modify user passwords with Password Changer, a command alias for chpass on FreeBSD. Update credentials and manage authentication information easily. Free online tool, no registration required."
 category: freebsd

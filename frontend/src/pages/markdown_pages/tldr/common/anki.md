@@ -1,7 +1,7 @@
 ---
 title: "Create Flashcards - Manage Knowledge with Anki | Online Free DevTools by Hexmos"
 name: anki
-path: /freedevtools/tldr/common/anki
+path: "/freedevtools/tldr/common/anki/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/anki/"
 description: "Create flashcards with Anki to enhance learning and memory retention. Manage spaced repetition and improve recall. Free online tool, no registration required."
 category: common

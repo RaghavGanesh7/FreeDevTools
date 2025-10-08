@@ -1,7 +1,7 @@
 ---
 title: "Create Debian Systems - debootstrap Command | Online Free DevTools by Hexmos"
 name: debootstrap
-path: /freedevtools/tldr/linux/debootstrap
+path: "/freedevtools/tldr/linux/debootstrap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/debootstrap/"
 description: "Create Debian systems quickly with the debootstrap command.  Bootstrap minimal or full systems, specify releases, and manage dependencies effortlessly. Free online tool, no registration required."
 category: linux

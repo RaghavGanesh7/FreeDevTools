@@ -1,7 +1,7 @@
 ---
 title: "Tesseract OCR - Extract Text from Images | Online Free DevTools by Hexmos"
 name: tesseract
-path: /freedevtools/tldr/common/tesseract
+path: "/freedevtools/tldr/common/tesseract/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tesseract/"
 description: "Extract text from images with Tesseract OCR. Quickly convert image to text using command-line interface for various languages and formats. Free online tool, no registration required."
 category: common

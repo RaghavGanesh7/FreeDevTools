@@ -1,7 +1,7 @@
 ---
 title: "Enable Apache Config - a2enconf Command | Online Free DevTools by Hexmos"
 name: a2enconf
-path: /freedevtools/tldr/linux/a2enconf
+path: "/freedevtools/tldr/linux/a2enconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/a2enconf/"
 description: "Enable Apache configuration files easily with the a2enconf command. Manage Apache modules and virtual hosts efficiently on Debian-based systems. Free online tool, no registration required."
 category: linux

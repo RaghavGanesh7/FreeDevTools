@@ -1,7 +1,7 @@
 ---
 title: "Run Go Tool - Execute Go Programs | Online Free DevTools by Hexmos"
 name: go-tool
-path: /freedevtools/tldr/go/go-tool
+path: "/freedevtools/tldr/go/go-tool/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-tool/"
 description: "Execute Go programs with Go Tool, a powerful debugging and execution tool. Easily test and debug Go code with this free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Analyze Binary Files - Inspect with Rabin2 | Online Free DevTools by Hexmos"
 name: rabin2
-path: /freedevtools/tldr/common/rabin2
+path: "/freedevtools/tldr/common/rabin2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rabin2/"
 description: "Analyze binary files with Rabin2, a powerful tool for extracting information such as symbols, sections, and linked libraries. Free online tool, no registration required."
 category: common

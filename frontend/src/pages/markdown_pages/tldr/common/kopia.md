@@ -1,7 +1,7 @@
 ---
 title: "Kopia Backup - Create Secure Snapshots | Online Free DevTools by Hexmos"
 name: kopia
-path: /freedevtools/tldr/common/kopia
+path: "/freedevtools/tldr/common/kopia/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kopia/"
 description: "Create backups with Kopia, a fast and secure snapshot tool. Supports encryption, deduplication, and compression for efficient storage. Free online tool, no registration required."
 category: common

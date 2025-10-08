@@ -1,7 +1,7 @@
 ---
 title: "JSON Processor - Format JSON Data with jq | Online Free DevTools by Hexmos"
 name: jq
-path: /freedevtools/tldr/common/jq
+path: "/freedevtools/tldr/common/jq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jq/"
 description: "Format JSON data effortlessly with jq, a powerful JSON processor. Transform, filter, and extract data with ease. Free online tool, no registration required."
 category: common

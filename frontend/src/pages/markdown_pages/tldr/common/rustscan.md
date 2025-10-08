@@ -1,7 +1,7 @@
 ---
 title: "Scan Ports - Analyze Network Ports with Rustscan | Online Free DevTools by Hexmos"
 name: rustscan
-path: /freedevtools/tldr/common/rustscan
+path: "/freedevtools/tldr/common/rustscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rustscan/"
 description: "Analyze network ports efficiently with Rustscan. Quickly identify open ports and potential vulnerabilities on your network. Free online tool, no registration required."
 category: common

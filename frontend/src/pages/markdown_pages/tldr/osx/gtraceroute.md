@@ -1,7 +1,7 @@
 ---
 title: "Traceroute Command - Diagnose Network Paths | Online Free DevTools by Hexmos"
 name: gtraceroute
-path: /freedevtools/tldr/osx/gtraceroute
+path: "/freedevtools/tldr/osx/gtraceroute/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtraceroute/"
 description: "Diagnose network routes with Traceroute Command. Identify network bottlenecks and latency issues using this GNU traceroute alias. Free online tool, no registration required."
 category: osx

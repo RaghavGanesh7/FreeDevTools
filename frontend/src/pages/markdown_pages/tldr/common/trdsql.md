@@ -1,7 +1,7 @@
 ---
 title: "Execute SQL on Data - trdsql Query Tool | Online Free DevTools by Hexmos"
 name: trdsql
-path: "/freedevtools/tldr/common/trdsql"
+path: "/freedevtools/tldr/common/trdsql/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trdsql/"
 description: "Execute SQL queries on various data formats with trdsql. Convert JSON, CSV, YAML & more to SQL databases. Free online tool, no registration required."
 category: common

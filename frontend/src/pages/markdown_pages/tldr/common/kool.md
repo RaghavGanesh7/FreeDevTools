@@ -1,7 +1,7 @@
 ---
 title: "Control Development Environments - Kool | Online Free DevTools by Hexmos"
 name: kool
-path: /freedevtools/tldr/common/kool
+path: "/freedevtools/tldr/common/kool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kool/"
 description: "Control software development environments with Kool. Build, run, and manage your development stack with ease using this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Git Diff Files - Compare File Changes | Online Free DevTools by Hexmos"
 name: git-diff-files
-path: /freedevtools/tldr/git/git-diff-files
+path: "/freedevtools/tldr/git/git-diff-files/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-diff-files/"
 description: "Compare file changes with Git Diff Files. Quickly identify differences using SHA1 hashes and modes. Free online tool, no registration required."
 category: common

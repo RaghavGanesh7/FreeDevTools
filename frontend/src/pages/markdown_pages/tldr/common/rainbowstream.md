@@ -1,7 +1,7 @@
 ---
 title: "Control Twitter Stream - Rainbowstream | Online Free DevTools by Hexmos"
 name: rainbowstream
-path: /freedevtools/tldr/common/rainbowstream
+path: "/freedevtools/tldr/common/rainbowstream/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rainbowstream/"
 description: "Control your Twitter stream easily with Rainbowstream, a command-line Twitter client. Manage tweets, search trends, and user profiles. Free online tool, no registration required."
 category: common

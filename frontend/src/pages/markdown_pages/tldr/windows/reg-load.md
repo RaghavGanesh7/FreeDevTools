@@ -1,7 +1,7 @@
 ---
 title: "Reg Load - Manage Registry Keys | Online Free DevTools by Hexmos"
 name: reg-load
-path: /freedevtools/tldr/windows/reg-load
+path: "/freedevtools/tldr/windows/reg-load/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-load/"
 description: "Manage registry keys with Reg Load. Load and unload saved registry hives for troubleshooting and temporary key management. Free online tool, no registration required."
 category: windows

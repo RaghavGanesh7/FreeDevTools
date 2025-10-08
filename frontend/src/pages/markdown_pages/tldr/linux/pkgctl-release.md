@@ -1,7 +1,7 @@
 ---
 title: "Release Control - Commit, Tag, and Upload with pkgctl | Online Free DevTools by Hexmos"
 name: pkgctl-release
-path: /freedevtools/tldr/linux/pkgctl-release
+path: "/freedevtools/tldr/linux/pkgctl-release/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgctl-release/"
 description: "Control release artifacts with pkgctl, automating commits, tagging, and uploads for streamlined development. Free online tool, no registration required. Simplify version control."
 category: linux

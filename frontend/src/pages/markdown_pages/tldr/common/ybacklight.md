@@ -1,7 +1,7 @@
 ---
 title: "Control Backlight - Manage Screen Brightness with ybacklight | Online Free DevTools by Hexmos"
 name: ybacklight
-path: /freedevtools/tldr/common/ybacklight
+path: "/freedevtools/tldr/common/ybacklight/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ybacklight/"
 description: "Control screen brightness with ybacklight. Adjust backlight levels and manage display settings using command line. Free online tool, no registration required."
 category: common

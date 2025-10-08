@@ -1,7 +1,7 @@
 ---
 title: "wifivelocityd - Manage WiFi on macOS | Online Free DevTools by Hexmos"
 name: wifivelocityd
-path: /freedevtools/tldr/osx/wifivelocityd
+path: "/freedevtools/tldr/osx/wifivelocityd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/wifivelocityd/"
 description: "Manage WiFi connections on macOS with wifivelocityd. Configure network settings and optimize wireless performance using system context actions. Free online tool, no registration required."
 category: osx

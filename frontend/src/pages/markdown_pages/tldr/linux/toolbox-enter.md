@@ -1,7 +1,7 @@
 ---
 title: "Toolbox Enter - Enter Containers Interactively | Online Free DevTools by Hexmos"
 name: toolbox-enter
-path: "/freedevtools/tldr/linux/toolbox-enter"
+path: "/freedevtools/tldr/linux/toolbox-enter/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox-enter/"
 description: "Enter Linux containers interactively with Toolbox Enter. Access different distributions and releases with ease. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Serve Files - Control HTTP Server with Updog | Online Free DevTools by Hexmos"
 name: updog
-path: /freedevtools/tldr/common/updog
+path: "/freedevtools/tldr/common/updog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/updog/"
 description: "Serve files with Updog, a lightweight HTTP server for uploads and downloads. Quickly share files and directories with basic auth and SSL support. Free online tool, no registration required."
 category: common

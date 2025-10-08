@@ -1,7 +1,7 @@
 ---
 title: "Create Home Directory - Manage User Profiles | Online Free DevTools by Hexmos"
 name: mkhomedir_helper
-path: /freedevtools/tldr/linux/mkhomedir_helper
+path: "/freedevtools/tldr/linux/mkhomedir_helper/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mkhomedir_helper/"
 description: "Create user home directories efficiently with mkhomedir_helper. Manage user profiles and set permissions from the command line. Free online tool, no registration required."
 category: linux

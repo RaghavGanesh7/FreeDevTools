@@ -1,7 +1,7 @@
 ---
 title: "i3-scrot Screenshot - Capture Screen on i3 | Online Free DevTools by Hexmos"
 name: i3-scrot
-path: /freedevtools/tldr/linux/i3-scrot
+path: "/freedevtools/tldr/linux/i3-scrot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/i3-scrot/"
 description: "Capture screenshots with i3-scrot, a wrapper for scrot. Take full-screen, window, or selection screenshots and copy to clipboard. Free online tool, no registration required."
 category: linux

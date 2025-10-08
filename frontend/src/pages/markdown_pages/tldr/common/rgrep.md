@@ -1,7 +1,7 @@
 ---
 title: "Search Files with rgrep - Find Patterns Recursively | Online Free DevTools by Hexmos"
 name: rgrep
-path: /freedevtools/tldr/common/rgrep
+path: "/freedevtools/tldr/common/rgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rgrep/"
 description: "Search files with rgrep command across directories. Find patterns, regular expressions, and exact strings recursively. Free online tool, no registration required."
 category: common

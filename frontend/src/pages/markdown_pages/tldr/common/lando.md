@@ -1,7 +1,7 @@
 ---
 title: "Control Lando Apps - Local Development Environment | Online Free DevTools by Hexmos"
 name: lando
-path: /freedevtools/tldr/common/lando
+path: "/freedevtools/tldr/common/lando/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lando/"
 description: "Control local development environments with Lando. Manage, start, stop, and rebuild your apps easily using Docker-based development workflows. Free online tool, no registration required."
 category: common

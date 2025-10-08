@@ -1,7 +1,7 @@
 ---
 title: "Generate SHA Checksums - Verify File Integrity | Online Free DevTools by Hexmos"
 name: shasum
-path: /freedevtools/tldr/common/shasum
+path: "/freedevtools/tldr/common/shasum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shasum/"
 description: "Generate SHA checksums with Shasum. Quickly calculate and verify file integrity using various SHA algorithms. Free online tool, no registration required."
 category: common

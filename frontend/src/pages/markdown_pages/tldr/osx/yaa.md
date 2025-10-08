@@ -1,7 +1,7 @@
 ---
 title: "Create YAA Archives - Compress Files | Online Free DevTools by Hexmos"
 name: yaa
-path: /freedevtools/tldr/osx/yaa
+path: "/freedevtools/tldr/osx/yaa/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/yaa/"
 description: "Create YAA archives with YAA. Quickly compress and extract files for efficient storage and transfer. Free online tool, no registration required."
 category: osx

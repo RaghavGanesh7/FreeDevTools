@@ -1,7 +1,7 @@
 ---
 title: "Filter Network Traffic - Control Packets with ngrep | Online Free DevTools by Hexmos"
 name: ngrep
-path: /freedevtools/tldr/common/ngrep
+path: "/freedevtools/tldr/common/ngrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ngrep/"
 description: "Filter network traffic with ngrep, a powerful tool for analyzing packets using regular expressions. Capture, inspect, and debug network communications. Free online tool, no registration required."
 category: common

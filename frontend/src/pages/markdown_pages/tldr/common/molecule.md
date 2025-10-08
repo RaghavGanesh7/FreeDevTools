@@ -1,7 +1,7 @@
 ---
 title: "Molecule - Test Ansible Roles | Online Free DevTools by Hexmos"
 name: molecule
-path: /freedevtools/tldr/common/molecule
+path: "/freedevtools/tldr/common/molecule/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/molecule/"
 description: "Test Ansible roles efficiently with Molecule. Ensure your Ansible infrastructure code is robust and reliable using automated testing. Free online tool, no registration required."
 category: common

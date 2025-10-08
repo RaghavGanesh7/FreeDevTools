@@ -1,7 +1,7 @@
 ---
 title: "Collectd System Stats - Monitor System Metrics | Online Free DevTools by Hexmos"
 name: collectd
-path: /freedevtools/tldr/linux/collectd
+path: "/freedevtools/tldr/linux/collectd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/collectd/"
 description: "Monitor system metrics efficiently with Collectd.  Collect and analyze system performance data for proactive maintenance. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "QM Guest Exec Status - Monitor Processes | Online Free DevTools by Hexmos"
 name: qm-guest-exec-status
-path: /freedevtools/tldr/linux/qm-guest-exec-status
+path: "/freedevtools/tldr/linux/qm-guest-exec-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-guest-exec-status/"
 description: "Monitor guest process status with QM Guest Exec Status on Proxmox. Track PID execution within virtual machines. Free online tool, no registration required."
 category: linux

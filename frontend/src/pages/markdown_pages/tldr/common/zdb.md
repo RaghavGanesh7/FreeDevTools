@@ -1,7 +1,7 @@
 ---
 title: "ZFS Debugger - Analyze ZFS Pools | Online Free DevTools by Hexmos"
 name: zdb
-path: /freedevtools/tldr/common/zdb
+path: "/freedevtools/tldr/common/zdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zdb/"
 description: "Analyze ZFS pools with ZFS Debugger (zdb). Troubleshoot storage issues, recover data, and examine pool configurations effectively. Free online tool, no registration required."
 category: common

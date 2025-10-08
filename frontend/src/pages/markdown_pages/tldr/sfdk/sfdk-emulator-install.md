@@ -1,7 +1,7 @@
 ---
 title: "SFDK Emulator - Install Emulators for SailfishOS | Online Free DevTools by Hexmos"
 name: sfdk-emulator-install
-path: /freedevtools/tldr/sfdk/sfdk-emulator-install
+path: "/freedevtools/tldr/sfdk/sfdk-emulator-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-emulator-install/"
 description: "Install SailfishOS emulators with SFDK Emulator. Manage emulator installation and removal for application testing. Free online tool, no registration required."
 category: common

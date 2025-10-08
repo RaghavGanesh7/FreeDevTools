@@ -1,7 +1,7 @@
 ---
 title: "Crack ZIP Passwords - fcrackzip Password Cracker | Online Free DevTools by Hexmos"
 name: fcrackzip
-path: /freedevtools/tldr/linux/fcrackzip
+path: "/freedevtools/tldr/linux/fcrackzip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fcrackzip/"
 description: "Crack ZIP archive passwords quickly with fcrackzip.  This powerful command-line utility supports brute-force attacks and dictionary attacks. Free online tool, no registration required."
 category: linux

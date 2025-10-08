@@ -1,7 +1,7 @@
 ---
 title: "WSL - Manage Linux Subsystems on Windows | Online Free DevTools by Hexmos"
 name: wsl
-path: /freedevtools/tldr/windows/wsl
+path: "/freedevtools/tldr/windows/wsl/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/wsl/"
 description: "Manage Linux subsystems on Windows with WSL. Control distributions, execute commands, and interact with Linux environments. Free online tool, no registration required."
 category: windows

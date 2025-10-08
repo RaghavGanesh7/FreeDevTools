@@ -1,7 +1,7 @@
 ---
 title: "Create PlatformIO Organizations - Manage Users | Online Free DevTools by Hexmos"
 name: pio-org
-path: /freedevtools/tldr/pio/pio-org
+path: "/freedevtools/tldr/pio/pio-org/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-org/"
 description: "Create and manage PlatformIO organizations with pio org. Control user access, list organizations, and update organization details. Free online tool, no registration required."
 category: common

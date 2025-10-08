@@ -1,7 +1,7 @@
 ---
 title: "Evaluate Ruby Code - IRB Interactive Shell | Online Free DevTools by Hexmos"
 name: irb
-path: /freedevtools/tldr/common/irb
+path: "/freedevtools/tldr/common/irb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/irb/"
 description: "Evaluate Ruby code easily with IRB interactive shell. Execute Ruby commands, test code snippets, and debug applications quickly. Free online tool, no registration required."
 category: common

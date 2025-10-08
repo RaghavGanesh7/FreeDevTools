@@ -1,7 +1,7 @@
 ---
 title: "Perf - Analyze Linux Performance | Online Free DevTools by Hexmos"
 name: perf
-path: /freedevtools/tldr/linux/perf
+path: "/freedevtools/tldr/linux/perf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/perf/"
 description: "Analyze Linux performance with perf, a powerful command-line profiling tool. Collect metrics, diagnose bottlenecks, and optimize your applications. Free online tool, no registration required."
 category: linux

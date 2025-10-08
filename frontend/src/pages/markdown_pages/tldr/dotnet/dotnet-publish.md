@@ -1,7 +1,7 @@
 ---
 title: "Publish .NET - Deploy Applications with Dotnet Publish | Online Free DevTools by Hexmos"
 name: dotnet-publish
-path: /freedevtools/tldr/dotnet/dotnet-publish
+path: "/freedevtools/tldr/dotnet/dotnet-publish/"
 canonical: "https://hexmos.com/freedevtools/tldr/dotnet/dotnet-publish/"
 description: "Publish .NET applications easily with Dotnet Publish. Create deployment packages, control runtime environments, and optimize for size. Free online tool, no registration required."
 category: common

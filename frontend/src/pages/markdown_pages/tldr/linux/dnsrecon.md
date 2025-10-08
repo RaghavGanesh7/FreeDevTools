@@ -1,7 +1,7 @@
 ---
 title: "DNSrecon - Enumerate DNS Records | Online Free DevTools by Hexmos"
 name: dnsrecon
-path: /freedevtools/tldr/linux/dnsrecon
+path: "/freedevtools/tldr/linux/dnsrecon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnsrecon/"
 description: "Enumerate DNS records effectively with DNSrecon.  Perform zone transfers, brute-force attacks, and reverse lookups. Free online tool, no registration required."
 category: linux

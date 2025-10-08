@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages with apt-get - Linux Package Management | Online Free DevTools by Hexmos"
 name: apt-get
-path: /freedevtools/tldr/linux/apt-get
+path: "/freedevtools/tldr/linux/apt-get/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apt-get/"
 description: "Manage Linux packages efficiently with apt-get.  Install, update, remove, and upgrade packages easily. Free online tool, no registration required."
 category: linux

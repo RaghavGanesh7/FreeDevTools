@@ -1,7 +1,7 @@
 ---
 title: "Index Crane Images - Modify Container Registries | Online Free DevTools by Hexmos"
 name: crane-index
-path: /freedevtools/tldr/crane/crane-index
+path: "/freedevtools/tldr/crane/crane-index/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-index/"
 description: "Index Crane images easily to modify container registries with crane-index. Append or filter images within your index for improved efficiency. Free online tool, no registration required."
 category: common

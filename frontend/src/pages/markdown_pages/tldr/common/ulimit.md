@@ -1,7 +1,7 @@
 ---
 title: "Ulimit - Control User Resource Limits | Online Free DevTools by Hexmos"
 name: ulimit
-path: /freedevtools/tldr/common/ulimit
+path: "/freedevtools/tldr/common/ulimit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ulimit/"
 description: "Control user resource limits with Ulimit. Manage open files, processes, and memory usage. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create Azure Web Apps - Manage Cloud Services | Online Free DevTools by Hexmos"
 name: az-webapp
-path: /freedevtools/tldr/az/az-webapp
+path: "/freedevtools/tldr/az/az-webapp/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-webapp/"
 description: "Create Azure Web Apps with az-webapp. Easily manage, list, and delete web applications hosted in Azure Cloud. Free online tool, no registration required."
 category: common

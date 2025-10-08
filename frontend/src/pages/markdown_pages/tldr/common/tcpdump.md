@@ -1,7 +1,7 @@
 ---
 title: "Tcpdump - Capture Network Traffic | Online Free DevTools by Hexmos"
 name: tcpdump
-path: "/freedevtools/tldr/common/tcpdump"
+path: "/freedevtools/tldr/common/tcpdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tcpdump/"
 description: "Capture network traffic with Tcpdump. Analyze packets, filter by host, port, and interface, and troubleshoot network issues. Free online tool, no registration required."
 category: common

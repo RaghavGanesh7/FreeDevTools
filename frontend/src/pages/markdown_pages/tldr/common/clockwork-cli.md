@@ -1,7 +1,7 @@
 ---
 title: "Clockwork CLI - Monitor PHP Debugging | Online Free DevTools by Hexmos"
 name: clockwork-cli
-path: /freedevtools/tldr/common/clockwork-cli
+path: "/freedevtools/tldr/common/clockwork-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clockwork-cli/"
 description: "Monitor Clockwork logs with clockwork-cli, a PHP debugging interface. Analyze application performance and track requests in real-time. Free online tool, no registration required."
 category: common

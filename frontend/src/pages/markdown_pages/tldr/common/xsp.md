@@ -1,7 +1,7 @@
 ---
 title: "Control ASP.NET Server - Launch Web Apps with xsp | Online Free DevTools by Hexmos"
 name: xsp
-path: /freedevtools/tldr/common/xsp
+path: "/freedevtools/tldr/common/xsp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xsp/"
 description: "Launch ASP.NET web applications easily with xsp. Control your Mono web server configuration and specify address and port. Free online tool, no registration required."
 category: common

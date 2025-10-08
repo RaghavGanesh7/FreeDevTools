@@ -1,7 +1,7 @@
 ---
 title: "Number Lines - Format Text Files with nl | Online Free DevTools by Hexmos"
 name: nl
-path: /freedevtools/tldr/common/nl
+path: "/freedevtools/tldr/common/nl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nl/"
 description: "Format text files with Number Lines (nl). Add line numbers to your files, customize numbering and separators. Free online tool, no registration required."
 category: common

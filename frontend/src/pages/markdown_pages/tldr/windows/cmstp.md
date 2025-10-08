@@ -1,7 +1,7 @@
 ---
 title: "CMSTP - Manage Connection Profiles | Online Free DevTools by Hexmos"
 name: cmstp
-path: /freedevtools/tldr/windows/cmstp
+path: "/freedevtools/tldr/windows/cmstp/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/cmstp/"
 description: "Manage connection profiles with CMSTP. Install, uninstall, and configure connection service profiles on Windows easily. Free online tool, no registration required."
 category: windows

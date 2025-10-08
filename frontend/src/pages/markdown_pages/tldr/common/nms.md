@@ -1,7 +1,7 @@
 ---
 title: "Decrypt Text - Reveal Hidden Data with nms | Online Free DevTools by Hexmos"
 name: nms
-path: /freedevtools/tldr/common/nms
+path: "/freedevtools/tldr/common/nms/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nms/"
 description: "Decrypt text instantly with nms, a data decryption tool mimicking the 'Sneakers' effect. Reveal hidden messages from standard input. Free online tool, no registration required."
 category: common

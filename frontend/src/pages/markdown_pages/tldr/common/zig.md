@@ -1,7 +1,7 @@
 ---
 title: "Zig Compiler - Build and Format Code | Online Free DevTools by Hexmos"
 name: zig
-path: /freedevtools/tldr/common/zig
+path: "/freedevtools/tldr/common/zig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zig/"
 description: "Build and format your projects with Zig Compiler. Compile, test, and translate C files to Zig code. Free online tool, no registration required."
 category: common

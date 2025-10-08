@@ -1,7 +1,7 @@
 ---
 title: "Guniq - Remove Duplicate Lines | Online Free DevTools by Hexmos"
 name: guniq
-path: /freedevtools/tldr/osx/guniq
+path: "/freedevtools/tldr/osx/guniq/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/guniq/"
 description: "Remove duplicate lines quickly with Guniq, the GNU uniq alias. Filter repeated lines in text files, streamlining data processing on macOS. Free online tool, no registration required."
 category: osx

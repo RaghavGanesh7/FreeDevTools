@@ -1,7 +1,7 @@
 ---
 title: "Head Command - Output File Parts | Online Free DevTools by Hexmos"
 name: head
-path: /freedevtools/tldr/linux/head
+path: "/freedevtools/tldr/linux/head/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/head/"
 description: "Output file parts with Head Command. Extract initial lines or bytes. Control file content easily with this command line tool. Free online tool, no registration required."
 category: linux

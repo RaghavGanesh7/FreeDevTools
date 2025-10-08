@@ -1,7 +1,7 @@
 ---
 title: "GitHub Browser - Open GitHub Repositories | Online Free DevTools by Hexmos"
 name: gh-browse
-path: /freedevtools/tldr/gh/gh-browse
+path: "/freedevtools/tldr/gh/gh-browse/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-browse/"
 description: "Open GitHub repositories directly from your terminal with GitHub Browser. Effortlessly browse repos, issues, and wikis using the gh CLI tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "IPP Find - Discover IPP Printers | Online Free DevTools by Hexmos"
 name: ippfind
-path: /freedevtools/tldr/common/ippfind
+path: "/freedevtools/tldr/common/ippfind/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ippfind/"
 description: "Discover IPP printers on your network with IPP Find. Locate printers, send test documents, and manage printing jobs. Free online tool, no registration required."
 category: common

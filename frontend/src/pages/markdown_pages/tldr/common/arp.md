@@ -1,7 +1,7 @@
 ---
 title: "ARP Cache - Control Network Interfaces | Online Free DevTools by Hexmos"
 name: arp
-path: /freedevtools/tldr/common/arp
+path: "/freedevtools/tldr/common/arp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/arp/"
 description: "Control network interfaces with ARP Cache Manager. Show, delete, and set entries in the ARP table for network troubleshooting. Free online tool, no registration required."
 category: common

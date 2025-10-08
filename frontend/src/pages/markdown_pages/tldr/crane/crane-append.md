@@ -1,7 +1,7 @@
 ---
 title: "Crane Append - Create Container Images | Online Free DevTools by Hexmos"
 name: crane-append
-path: /freedevtools/tldr/crane/crane-append
+path: "/freedevtools/tldr/crane/crane-append/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-append/"
 description: "Create container images easily with Crane Append, by adding layers and managing tags. Build and push container images from tarballs. Free online tool, no registration required."
 category: common

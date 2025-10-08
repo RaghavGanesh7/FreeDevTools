@@ -1,7 +1,7 @@
 ---
 title: "Control Lock Screen - Betterlockscreen Command | Online Free DevTools by Hexmos"
 name: betterlockscreen
-path: /freedevtools/tldr/linux/betterlockscreen
+path: "/freedevtools/tldr/linux/betterlockscreen/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/betterlockscreen/"
 description: "Control lock screen appearance with Betterlockscreen. Customize background images, display custom text, and set monitor timeout with ease. Free online tool, no registration required."
 category: linux

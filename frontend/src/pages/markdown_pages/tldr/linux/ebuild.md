@@ -1,7 +1,7 @@
 ---
 title: "Ebuild - Manage Gentoo Packages | Online Free DevTools by Hexmos"
 name: ebuild
-path: /freedevtools/tldr/linux/ebuild
+path: "/freedevtools/tldr/linux/ebuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ebuild/"
 description: "Manage Gentoo packages efficiently with the ebuild command.  Build, install, and update packages using simple commands. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Download Files - Control Files with Gdown | Online Free DevTools by Hexmos"
 name: gdown
-path: /freedevtools/tldr/common/gdown
+path: "/freedevtools/tldr/common/gdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdown/"
 description: "Download files easily with Gdown. Control and retrieve files from Google Drive and URLs using command-line. Free online tool, no registration required."
 category: common

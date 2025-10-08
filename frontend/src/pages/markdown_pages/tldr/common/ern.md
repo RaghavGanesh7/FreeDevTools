@@ -1,7 +1,7 @@
 ---
 title: "ERN - Create Native Apps and Containers | Online Free DevTools by Hexmos"
 name: ern
-path: /freedevtools/tldr/common/ern
+path: "/freedevtools/tldr/common/ern/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ern/"
 description: "Create native applications and manage containers with ERN. Streamline your iOS and Android app development process using the command line. Free online tool, no registration required."
 category: common

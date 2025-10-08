@@ -1,7 +1,7 @@
 ---
 title: "Validate Conda Environment - Conda Doctor | Online Free DevTools by Hexmos"
 name: conda-doctor
-path: /freedevtools/tldr/conda/conda-doctor
+path: "/freedevtools/tldr/conda/conda-doctor/"
 canonical: "https://hexmos.com/freedevtools/tldr/conda/conda-doctor/"
 description: "Validate Conda environments easily with Conda Doctor. Diagnose issues, check dependencies, and ensure environment health using command-line interface. Free online tool, no registration required."
 category: common

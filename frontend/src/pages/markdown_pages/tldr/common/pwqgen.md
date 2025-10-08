@@ -1,7 +1,7 @@
 ---
 title: "Generate Passphrases - Create Secure Passwords | Online Free DevTools by Hexmos"
 name: pwqgen
-path: /freedevtools/tldr/common/pwqgen
+path: "/freedevtools/tldr/common/pwqgen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pwqgen/"
 description: "Generate secure passphrases with pwqgen. Create random, strong passwords with configurable bit sizes. Free online tool, no registration required."
 category: common

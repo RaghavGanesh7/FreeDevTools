@@ -1,7 +1,7 @@
 ---
 title: "NPM Package Manager - Manage Node.js Projects | Online Free DevTools by Hexmos"
 name: npm
-path: /freedevtools/tldr/npm/npm
+path: "/freedevtools/tldr/npm/npm/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm/"
 description: "Manage Node.js packages efficiently with NPM Package Manager. Simplify dependency management, install, uninstall and list packages. Free online tool, no registration required."
 category: common

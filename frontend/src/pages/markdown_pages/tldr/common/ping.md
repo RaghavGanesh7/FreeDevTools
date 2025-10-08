@@ -1,7 +1,7 @@
 ---
 title: "Ping Network Host - Test Network Connectivity | Online Free DevTools by Hexmos"
 name: ping
-path: /freedevtools/tldr/common/ping
+path: "/freedevtools/tldr/common/ping/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ping/"
 description: "Test network connectivity with Ping Network Host.  Check network latency and packet loss using this command-line tool. Free online tool, no registration required."
 category: common

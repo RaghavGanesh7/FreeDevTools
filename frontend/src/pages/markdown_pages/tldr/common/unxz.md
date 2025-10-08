@@ -1,7 +1,7 @@
 ---
 title: "Uncompress XZ - Decompress Files Easily | Online Free DevTools by Hexmos"
 name: unxz
-path: /freedevtools/tldr/common/unxz
+path: "/freedevtools/tldr/common/unxz/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unxz/"
 description: "Decompress XZ files effortlessly with Unxz. Extract archives quickly and efficiently on any system using this command alias. Free online tool, no registration required."
 category: common

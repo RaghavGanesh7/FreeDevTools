@@ -1,7 +1,7 @@
 ---
 title: "Control stdin with pee - Pipe stdin to Commands | Online Free DevTools by Hexmos"
 name: pee
-path: /freedevtools/tldr/common/pee
+path: "/freedevtools/tldr/common/pee/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pee/"
 description: "Control stdin output with pee. Pipe standard input to multiple commands simultaneously for parallel processing. Free online tool, no registration required."
 category: common

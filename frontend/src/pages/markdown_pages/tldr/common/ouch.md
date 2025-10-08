@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - Archive and Decompress with Ouch | Online Free DevTools by Hexmos"
 name: ouch
-path: /freedevtools/tldr/common/ouch
+path: "/freedevtools/tldr/common/ouch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ouch/"
 description: "Compress files easily with Ouch. Archive and decompress files and directories with this command-line utility. Free online tool, no registration required."
 category: common

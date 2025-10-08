@@ -1,7 +1,7 @@
 ---
 title: "Trash Manager - Control Recycling Bin | Online Free DevTools by Hexmos"
 name: trash
-path: /freedevtools/tldr/linux/trash
+path: "/freedevtools/tldr/linux/trash/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trash/"
 description: "Control trash management with Trash Manager on Linux. Effortlessly manage, restore, and empty your trash, reclaiming disk space easily. Free online tool, no registration required."
 category: linux

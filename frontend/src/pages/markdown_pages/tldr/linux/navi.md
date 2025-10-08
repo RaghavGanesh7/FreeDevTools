@@ -1,7 +1,7 @@
 ---
 title: "Navi Cheatsheet - Browse Commands Interactively | Online Free DevTools by Hexmos"
 name: navi
-path: /freedevtools/tldr/linux/navi
+path: "/freedevtools/tldr/linux/navi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/navi/"
 description: "Browse commands interactively with Navi cheatsheet. Quickly access and execute commands from your terminal. Free online tool, no registration required."
 category: linux

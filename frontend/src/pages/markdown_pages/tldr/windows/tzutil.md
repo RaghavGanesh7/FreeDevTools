@@ -1,7 +1,7 @@
 ---
 title: "TimeZone Control - Configure System Time Zones | Online Free DevTools by Hexmos"
 name: tzutil
-path: /freedevtools/tldr/windows/tzutil
+path: "/freedevtools/tldr/windows/tzutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/tzutil/"
 description: "Control system time zones with tzutil on Windows. Configure, list, and manage time zone settings through the command line. Free online tool, no registration required."
 category: windows

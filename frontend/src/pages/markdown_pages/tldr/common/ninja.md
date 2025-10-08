@@ -1,7 +1,7 @@
 ---
 title: "Generate Ninja Builds - Fast Compilation | Online Free DevTools by Hexmos"
 name: ninja
-path: /freedevtools/tldr/common/ninja
+path: "/freedevtools/tldr/common/ninja/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ninja/"
 description: "Generate optimized builds with Ninja, a fast and lightweight build system. Accelerate your software compilation process and improve development workflow. Free online tool, no registration required."
 category: common

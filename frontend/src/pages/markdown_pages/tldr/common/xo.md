@@ -1,7 +1,7 @@
 ---
 title: "Lint JavaScript - Validate Code with XO | Online Free DevTools by Hexmos"
 name: xo
-path: /freedevtools/tldr/common/xo
+path: "/freedevtools/tldr/common/xo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xo/"
 description: "Validate JavaScript code with XO, a pluggable and zero-configuration linter. Improve code quality and find errors easily. Free online tool, no registration required."
 category: common

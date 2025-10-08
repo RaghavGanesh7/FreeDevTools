@@ -1,7 +1,7 @@
 ---
 title: "Azure Functions - Create & Run Apps Locally | Online Free DevTools by Hexmos"
 name: func
-path: /freedevtools/tldr/common/func
+path: "/freedevtools/tldr/common/func/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/func/"
 description: "Create Azure Functions with func, a powerful command-line tool for local development and deployment. Test, debug, and publish your serverless applications to Azure effortlessly. Free online tool, no registration required."
 category: common

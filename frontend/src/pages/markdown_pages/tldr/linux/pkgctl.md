@@ -1,7 +1,7 @@
 ---
 title: "Pkgctl - Control Arch Devtools | Online Free DevTools by Hexmos"
 name: pkgctl
-path: /freedevtools/tldr/linux/pkgctl
+path: "/freedevtools/tldr/linux/pkgctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgctl/"
 description: "Control Arch Linux development tools with Pkgctl. Manage packages, build artifacts, and update binary repositories easily. Free online tool, no registration required."
 category: linux

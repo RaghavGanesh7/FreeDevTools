@@ -1,7 +1,7 @@
 ---
 title: "Transpile JavaScript - Babel ES6 to ES5 | Online Free DevTools by Hexmos"
 name: babel
-path: /freedevtools/tldr/common/babel
+path: "/freedevtools/tldr/common/babel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/babel/"
 description: "Transpile JavaScript code with Babel. Convert ES6/ES7 syntax to ES5 for broader browser compatibility. Free online tool, no registration required."
 category: common

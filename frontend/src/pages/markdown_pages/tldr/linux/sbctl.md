@@ -1,7 +1,7 @@
 ---
 title: "SBCTL - Control Secure Boot Keys | Online Free DevTools by Hexmos"
 name: sbctl
-path: "/freedevtools/tldr/linux/sbctl"
+path: "/freedevtools/tldr/linux/sbctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sbctl/"
 description: "Control secure boot keys with SBCTL. Manage UEFI keys and certificates effortlessly. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Octave Script Execution - Run Scientific Programs | Online Free DevTools by Hexmos"
 name: octave
-path: /freedevtools/tldr/common/octave
+path: "/freedevtools/tldr/common/octave/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/octave/"
 description: "Execute Octave scripts efficiently with Octave. Run scientific programs and perform numerical computations. Free online tool, no registration required."
 category: common

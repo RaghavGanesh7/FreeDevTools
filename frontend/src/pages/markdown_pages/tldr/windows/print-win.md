@@ -1,7 +1,7 @@
 ---
 title: "Print File - Output Text to Printer | Online Free DevTools by Hexmos"
 name: print.win
-path: /freedevtools/tldr/windows/print-win
+path: "/freedevtools/tldr/windows/print-win/"
 canonical: "https://hexmos-com/freedevtools/tldr/windows/print-win/"
 description: "Output text files to a printer with Print. Quickly send documents and code to physical media using command-line. Free online tool, no registration required."
 category: windows

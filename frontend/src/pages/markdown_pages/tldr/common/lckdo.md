@@ -1,7 +1,7 @@
 ---
 title: "Control lckdo - File Locking Utility | Online Free DevTools by Hexmos"
 name: lckdo
-path: /freedevtools/tldr/common/lckdo
+path: "/freedevtools/tldr/common/lckdo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lckdo/"
 description: "Control file locking with lckdo. Prevent concurrent access and manage file synchronization in shell scripts. Free online tool, no registration required."
 category: common

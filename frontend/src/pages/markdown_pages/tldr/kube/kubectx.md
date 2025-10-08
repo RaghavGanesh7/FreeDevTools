@@ -1,7 +1,7 @@
 ---
 title: "Control Kubernetes Contexts - Switch Contexts | Online Free DevTools by Hexmos"
 name: kubectx
-path: /freedevtools/tldr/kube/kubectx
+path: "/freedevtools/tldr/kube/kubectx/"
 canonical: "https://hexmos.com/freedevtools/tldr/kube/kubectx/"
 description: "Control Kubernetes contexts instantly with kubectx. Easily switch, rename, and delete contexts to manage your Kubernetes clusters. Free online tool, no registration required."
 category: common

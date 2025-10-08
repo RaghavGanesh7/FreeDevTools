@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to PGM - Pixel Averaging | Online Free DevTools by Hexmos"
 name: pbmtopgm
-path: /freedevtools/tldr/common/pbmtopgm
+path: "/freedevtools/tldr/common/pbmtopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtopgm/"
 description: "Convert PBM images to PGM format with pbmtopgm, averaging pixels for smoother output. Easy image format conversion. Free online tool, no registration required."
 category: common

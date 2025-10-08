@@ -1,7 +1,7 @@
 ---
 title: "Execute Netpbm Command - Process Images | Online Free DevTools by Hexmos"
 name: pamexec
-path: /freedevtools/tldr/common/pamexec
+path: "/freedevtools/tldr/common/pamexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamexec/"
 description: "Process images with Netpbm Command, executing shell commands on each image in a Netpbm file. Use for image manipulation and batch processing. Free online tool, no registration required."
 category: common

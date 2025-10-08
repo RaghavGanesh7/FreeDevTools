@@ -1,7 +1,7 @@
 ---
 title: "Box Phar Manager - Create Phars | Online Free DevTools by Hexmos"
 name: box
-path: /freedevtools/tldr/common/box
+path: "/freedevtools/tldr/common/box/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/box/"
 description: "Create PHP Phar archives with Box Phar Manager. Build, compile, and validate Phars easily using the command line. Free online tool, no registration required."
 category: common

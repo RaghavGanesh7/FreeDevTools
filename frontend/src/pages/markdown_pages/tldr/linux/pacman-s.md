@@ -1,7 +1,7 @@
 ---
 title: "Pacman Sync - Manage Packages on Linux | Online Free DevTools by Hexmos"
 name: pacman-s
-path: /freedevtools/tldr/linux/pacman-s
+path: "/freedevtools/tldr/linux/pacman-s/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-s/"
 description: "Manage Linux packages efficiently with Pacman Sync. Synchronize repositories, install, and update software on your system. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Printer Jobs - lpmove Command | Online Free DevTools by Hexmos"
 name: lpmove
-path: /freedevtools/tldr/common/lpmove
+path: "/freedevtools/tldr/common/lpmove/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lpmove/"
 description: "Control printer jobs with lpmove. Move print jobs between printers, manage print queues, and troubleshoot printing issues. Free online tool, no registration required."
 category: common

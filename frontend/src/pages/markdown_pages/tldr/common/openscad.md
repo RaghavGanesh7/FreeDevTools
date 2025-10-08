@@ -1,7 +1,7 @@
 ---
 title: "Create 3D Models - OpenSCAD | Online Free DevTools by Hexmos"
 name: openscad
-path: /freedevtools/tldr/common/openscad
+path: "/freedevtools/tldr/common/openscad/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/openscad/"
 description: "Create 3D models with OpenSCAD. Generate solid CAD objects and convert them to various formats like STL or PNG. Free online tool, no registration required."
 category: common

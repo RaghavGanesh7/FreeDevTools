@@ -1,7 +1,7 @@
 ---
 title: "Immich Upload Tool - Upload Photos to Immich | Online Free DevTools by Hexmos"
 name: immich-go
-path: /freedevtools/tldr/common/immich-go
+path: "/freedevtools/tldr/common/immich-go/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/immich-go/"
 description: "Upload photos easily with Immich-Go. Streamline your self-hosted Immich server by efficiently uploading large photo collections. Free online tool, no registration required."
 category: common

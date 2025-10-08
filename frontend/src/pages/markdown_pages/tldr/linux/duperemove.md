@@ -1,7 +1,7 @@
 ---
 title: "Deduplicate Files - Find and Remove Duplicates with duperemove | Online Free DevTools by Hexmos"
 name: duperemove
-path: /freedevtools/tldr/linux/duperemove
+path: "/freedevtools/tldr/linux/duperemove/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/duperemove/"
 description: "Deduplicate files with duperemove, a powerful Linux tool for finding and removing duplicate file extents. Optimize storage space effortlessly. Free online tool, no registration required."
 category: linux

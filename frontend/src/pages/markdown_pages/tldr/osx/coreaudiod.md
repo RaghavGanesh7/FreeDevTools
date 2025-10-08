@@ -1,7 +1,7 @@
 ---
 title: "Core Audio Daemon - Control Audio Services | Online Free DevTools by Hexmos"
 name: coreaudiod
-path: /freedevtools/tldr/osx/coreaudiod
+path: "/freedevtools/tldr/osx/coreaudiod/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/coreaudiod/"
 description: "Control audio services with Core Audio Daemon on macOS. Manage audio inputs, outputs, and devices. Free online tool, no registration required."
 category: osx

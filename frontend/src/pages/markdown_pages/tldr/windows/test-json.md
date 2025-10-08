@@ -1,7 +1,7 @@
 ---
 title: "Validate JSON - Test JSON Syntax Online | Online Free DevTools by Hexmos"
 name: test-json
-path: /freedevtools/tldr/windows/test-json
+path: "/freedevtools/tldr/windows/test-json/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/test-json/"
 description: "Validate JSON syntax with Test-Json. Verify JSON format & schema for errors. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Create Sheet Music - Edit Scores with MuseScore | Online Free DevTools by Hexmos"
 name: musescore
-path: /freedevtools/tldr/common/musescore
+path: "/freedevtools/tldr/common/musescore/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/musescore/"
 description: "Create sheet music with MuseScore command line. Edit scores, export to various formats, and debug music notations effectively. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Balena Control - Manage IoT Devices | Online Free DevTools by Hexmos"
 name: balena
-path: /freedevtools/tldr/common/balena
+path: "/freedevtools/tldr/common/balena/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/balena/"
 description: "Control IoT devices with Balena. Manage applications, devices, and flash OS images to connected drives. Free online tool, no registration required."
 category: common

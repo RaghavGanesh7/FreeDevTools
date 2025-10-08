@@ -1,7 +1,7 @@
 ---
 title: "Ember CLI - Create Ember.js Apps | Online Free DevTools by Hexmos"
 name: ember
-path: /freedevtools/tldr/common/ember
+path: "/freedevtools/tldr/common/ember/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ember/"
 description: "Create Ember.js applications easily with Ember CLI. Generate projects, build for production, and run tests effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Optimize JPEG Images - Reduce File Size | Online Free DevTools by Hexmos"
 name: jpegoptim
-path: /freedevtools/tldr/common/jpegoptim
+path: "/freedevtools/tldr/common/jpegoptim/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jpegoptim/"
 description: "Optimize JPEG images with jpegoptim. Reduce file size and improve website performance. Free online tool, no registration required."
 category: common

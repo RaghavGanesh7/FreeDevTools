@@ -1,7 +1,7 @@
 ---
 title: "Format Text - Control Text Layout with GPR | Online Free DevTools by Hexmos"
 name: gpr
-path: /freedevtools/tldr/osx/gpr
+path: "/freedevtools/tldr/osx/gpr/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gpr/"
 description: "Format text files with GPR, the GNU pr alias. Control page layout, columns, and headers for refined text presentation. Free online tool, no registration required."
 category: osx

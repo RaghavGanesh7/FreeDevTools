@@ -1,7 +1,7 @@
 ---
 title: "Pkcon Package Manager - Manage Linux Packages | Online Free DevTools by Hexmos"
 name: pkcon
-path: /freedevtools/tldr/linux/pkcon
+path: "/freedevtools/tldr/linux/pkcon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkcon/"
 description: "Manage Linux packages efficiently with Pkcon Package Manager. Install, remove, update, and search for packages easily via command line. Free online tool, no registration required."
 category: linux

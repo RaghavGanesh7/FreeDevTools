@@ -1,7 +1,7 @@
 ---
 title: "Generate Code with sgpt - OpenAI Command Line Tool | Online Free DevTools by Hexmos"
 name: sgpt
-path: /freedevtools/tldr/common/sgpt
+path: "/freedevtools/tldr/common/sgpt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sgpt/"
 description: "Generate code with sgpt using OpenAI models from your command line interface. Solve problems, execute commands, and start chat sessions. Free online tool, no registration required."
 category: common

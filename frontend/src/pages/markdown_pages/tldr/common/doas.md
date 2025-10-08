@@ -1,7 +1,7 @@
 ---
 title: "Execute Command as User - Control Privileges with doas | Online Free DevTools by Hexmos"
 name: doas
-path: /freedevtools/tldr/common/doas
+path: "/freedevtools/tldr/common/doas/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/doas/"
 description: "Execute commands as user with doas. Control user privileges and manage system access with this versatile command. Free online tool, no registration required."
 category: common

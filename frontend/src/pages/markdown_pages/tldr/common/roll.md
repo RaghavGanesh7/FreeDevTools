@@ -1,7 +1,7 @@
 ---
 title: "Generate Dice Rolls - Custom Dice Sequences | Online Free DevTools by Hexmos"
 name: roll
-path: /freedevtools/tldr/common/roll
+path: "/freedevtools/tldr/common/roll/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/roll/"
 description: "Generate random dice rolls with Roll, a versatile dice roller. Simulate complex dice sequences and probabilities easily. Free online tool, no registration required."
 category: common

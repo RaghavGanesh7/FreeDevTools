@@ -1,7 +1,7 @@
 ---
 title: "Convert QRT to PPM - Format Image Files | Online Free DevTools by Hexmos"
 name: qrttoppm
-path: /freedevtools/tldr/common/qrttoppm
+path: "/freedevtools/tldr/common/qrttoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qrttoppm/"
 description: "Format QRT files to PPM images with qrttoppm. Easily convert ray tracer output to a standard image format. Free online tool, no registration required."
 category: common

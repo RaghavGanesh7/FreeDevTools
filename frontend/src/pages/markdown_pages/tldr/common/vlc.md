@@ -1,7 +1,7 @@
 ---
 title: "VLC Player - Play Multimedia Files | Online Free DevTools by Hexmos"
 name: vlc
-path: /freedevtools/tldr/common/vlc
+path: "/freedevtools/tldr/common/vlc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vlc/"
 description: "Play multimedia files with VLC Media Player. Control video playback, audio settings, and stream online content. Free online tool, no registration required."
 category: common

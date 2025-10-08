@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM to ICO - Create Windows Icons | Online Free DevTools by Hexmos"
 name: pamtowinicon
-path: /freedevtools/tldr/common/pamtowinicon
+path: "/freedevtools/tldr/common/pamtowinicon/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtowinicon/"
 description: "Convert PAM images to ICO format with pamtowinicon. Create Windows icons from PAM files with custom PNG threshold and transparency. Free online tool, no registration required."
 category: common

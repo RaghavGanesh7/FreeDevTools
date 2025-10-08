@@ -1,7 +1,7 @@
 ---
 title: "SVN Changelist - Control File Lists | Online Free DevTools by Hexmos"
 name: svn-changelist
-path: /freedevtools/tldr/common/svn-changelist
+path: "/freedevtools/tldr/common/svn-changelist/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/svn-changelist/"
 description: "Control file lists with SVN Changelist. Easily manage and organize changes within your Subversion repository. Free online tool, no registration required."
 category: common

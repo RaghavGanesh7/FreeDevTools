@@ -1,7 +1,7 @@
 ---
 title: "Generate UPC PBM Image - Create Barcodes | Online Free DevTools by Hexmos"
 name: pbmupc
-path: /freedevtools/tldr/common/pbmupc
+path: "/freedevtools/tldr/common/pbmupc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmupc/"
 description: "Generate UPC barcode images with pbmupc. Create PBM format barcodes for products using command-line. Free online tool, no registration required."
 category: common

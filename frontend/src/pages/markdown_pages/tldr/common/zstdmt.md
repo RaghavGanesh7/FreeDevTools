@@ -1,7 +1,7 @@
 ---
 title: "Zstdmt - Compress Files with Multiple Threads | Online Free DevTools by Hexmos"
 name: zstdmt
-path: /freedevtools/tldr/common/zstdmt
+path: "/freedevtools/tldr/common/zstdmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zstdmt/"
 description: "Compress files rapidly with Zstdmt, leveraging multi-threading for faster compression. Optimize storage and improve data transfer speeds. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - Generate Plot Files | Online Free DevTools by Hexmos"
 name: pbmtoplot
-path: /freedevtools/tldr/common/pbmtoplot
+path: "/freedevtools/tldr/common/pbmtoplot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoplot/"
 description: "Convert PBM images to plot files with pbmtoplot. Create UNIX plot files from PBM images effortlessly. Free online tool, no registration required."
 category: common

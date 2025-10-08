@@ -1,7 +1,7 @@
 ---
 title: "Manage Virtual Environments - Control Python Env with VF | Online Free DevTools by Hexmos"
 name: vf
-path: /freedevtools/tldr/common/vf
+path: "/freedevtools/tldr/common/vf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vf/"
 description: "Manage Python virtual environments with VF. Create, activate, deactivate, and remove environments effortlessly. Free online tool, no registration required."
 category: common

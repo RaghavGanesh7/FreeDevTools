@@ -1,7 +1,7 @@
 ---
 title: "Display Image - Show Images on Command Line | Online Free DevTools by Hexmos"
 name: imgcat
-path: /freedevtools/tldr/common/imgcat
+path: "/freedevtools/tldr/common/imgcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/imgcat/"
 description: "Display images quickly with imgcat. Show images directly in your terminal using command-line tools for faster workflows. Free online tool, no registration required."
 category: common

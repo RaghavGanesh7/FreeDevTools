@@ -1,7 +1,7 @@
 ---
 title: "Reboot System - Control System Restarts | Online Free DevTools by Hexmos"
 name: reboot
-path: /freedevtools/tldr/osx/reboot
+path: "/freedevtools/tldr/osx/reboot/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/reboot/"
 description: "Control system restarts with Reboot. Quickly reboot or shutdown your macOS device using the command line. Free online tool, no registration required."
 category: osx

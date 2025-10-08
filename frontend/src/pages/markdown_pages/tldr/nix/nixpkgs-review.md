@@ -1,7 +1,7 @@
 ---
 title: "Review Nix Packages - Build PR Changes | Online Free DevTools by Hexmos"
 name: nixpkgs-review
-path: /freedevtools/tldr/nix/nixpkgs-review
+path: "/freedevtools/tldr/nix/nixpkgs-review/"
 canonical: "https://hexmos.com/freedevtools/tldr/nix/nixpkgs-review/"
 description: "Review Nix packages with nixpkgs-review. Build pull request changes and start a nix-shell environment to test modifications. Free online tool, no registration required."
 category: common

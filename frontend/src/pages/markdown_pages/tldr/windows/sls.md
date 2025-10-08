@@ -1,7 +1,7 @@
 ---
 title: "Select-String - Search Text | Online Free DevTools by Hexmos"
 name: sls
-path: /freedevtools/tldr/windows/sls
+path: "/freedevtools/tldr/windows/sls/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sls/"
 description: "Search text with Select-String. Find patterns, filter results, and extract data using this powerful command-line tool for Windows. Free online tool, no registration required."
 category: windows

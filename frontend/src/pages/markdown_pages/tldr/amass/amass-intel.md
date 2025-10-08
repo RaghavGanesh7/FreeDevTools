@@ -1,7 +1,7 @@
 ---
 title: "Gather Intel - Amass Intel | Online Free DevTools by Hexmos"
 name: amass-intel
-path: /freedevtools/tldr/amass/amass-intel
+path: "/freedevtools/tldr/amass/amass-intel/"
 canonical: "https://hexmos.com/freedevtools/tldr/amass/amass-intel/"
 description: "Gather open-source intel with Amass Intel. Discover root domains and ASNs related to organizations and IP addresses. Free online tool, no registration required."
 category: common

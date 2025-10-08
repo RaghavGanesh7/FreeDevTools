@@ -1,7 +1,7 @@
 ---
 title: "Ngrok Tunnel - Create Secure Tunnels | Online Free DevTools by Hexmos"
 name: ngrok
-path: /freedevtools/tldr/common/ngrok
+path: "/freedevtools/tldr/common/ngrok/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ngrok/"
 description: "Create secure tunnels with Ngrok, reverse proxy for exposing local servers. Quickly expose web services and TCP ports. Free online tool, no registration required."
 category: common

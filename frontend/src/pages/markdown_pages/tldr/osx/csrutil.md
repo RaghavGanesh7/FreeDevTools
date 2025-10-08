@@ -1,7 +1,7 @@
 ---
 title: "CSRUtil - Control System Integrity Protection | Online Free DevTools by Hexmos"
 name: csrutil
-path: /freedevtools/tldr/osx/csrutil
+path: "/freedevtools/tldr/osx/csrutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/csrutil/"
 description: "Control System Integrity Protection with CSRUtil on macOS. Enable, disable, check status, and manage NetBoot settings. Free online tool, no registration required."
 category: osx

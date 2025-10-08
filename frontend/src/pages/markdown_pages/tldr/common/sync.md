@@ -1,7 +1,7 @@
 ---
 title: "Sync Command - Flush Disk Writes | Online Free DevTools by Hexmos"
 name: sync
-path: /freedevtools/tldr/common/sync
+path: "/freedevtools/tldr/common/sync/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sync/"
 description: "Flush pending write operations with Sync Command, ensuring data integrity and preventing data loss on all platforms. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate SELinux Rules - audit2allow | Online Free DevTools by Hexmos"
 name: audit2allow
-path: /freedevtools/tldr/common/audit2allow
+path: "/freedevtools/tldr/common/audit2allow/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/audit2allow/"
 description: "Generate SELinux type enforcement rules with audit2allow from audit logs. Identify and resolve permission issues. Free online tool, no registration required."
 category: common

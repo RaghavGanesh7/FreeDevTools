@@ -1,7 +1,7 @@
 ---
 title: "Cmatrix - Generate Matrix Effect Terminal | Online Free DevTools by Hexmos"
 name: cmatrix
-path: /freedevtools/tldr/common/cmatrix
+path: "/freedevtools/tldr/common/cmatrix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cmatrix/"
 description: "Generate Matrix effect terminal display with Cmatrix. Customize color, speed, and scrolling mode for a visually stunning output. Free online tool, no registration required."
 category: common

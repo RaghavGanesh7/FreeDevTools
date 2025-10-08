@@ -1,7 +1,7 @@
 ---
 title: "Homectl - Control Home Directories on Linux | Online Free DevTools by Hexmos"
 name: homectl
-path: /freedevtools/tldr/linux/homectl
+path: "/freedevtools/tldr/linux/homectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/homectl/"
 description: "Control home directories on Linux with Homectl. Manage user accounts, passwords, and disk space effortlessly using command line. Free online tool, no registration required."
 category: linux

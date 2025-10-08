@@ -1,7 +1,7 @@
 ---
 title: "Edit Text with Pico - Command-Line Editor | Online Free DevTools by Hexmos"
 name: pico
-path: /freedevtools/tldr/common/pico
+path: "/freedevtools/tldr/common/pico/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pico/"
 description: "Edit text with Pico, a simple command-line text editor based on Alpine Composer. Create and modify files directly from your terminal. Free online tool, no registration required."
 category: common

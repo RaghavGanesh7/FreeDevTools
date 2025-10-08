@@ -1,7 +1,7 @@
 ---
 title: "dconf - Manage dconf Databases | Online Free DevTools by Hexmos"
 name: dconf
-path: /freedevtools/tldr/linux/dconf
+path: "/freedevtools/tldr/linux/dconf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dconf/"
 description: "Manage dconf databases with dconf command. Inspect, modify, and reset dconf settings on Linux systems. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Graph Acyclic - Generate Acyclic Graphs | Online Free DevTools by Hexmos"
 name: acyclic
-path: /freedevtools/tldr/common/acyclic
+path: "/freedevtools/tldr/common/acyclic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/acyclic/"
 description: "Generate acyclic graphs with Graph Acyclic. Reverse edges in directed graphs for cycle removal using this graphviz filter. Free online tool, no registration required."
 category: common

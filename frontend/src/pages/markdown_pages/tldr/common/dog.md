@@ -1,7 +1,7 @@
 ---
 title: "DNS Lookup - Query DNS Records | Online Free DevTools by Hexmos"
 name: dog
-path: /freedevtools/tldr/common/dog
+path: "/freedevtools/tldr/common/dog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dog/"
 description: "Lookup DNS records with dog, a command-line DNS lookup utility. Supports DNS-over-TLS and DNS-over-HTTPS. Free online tool, no registration required."
 category: common

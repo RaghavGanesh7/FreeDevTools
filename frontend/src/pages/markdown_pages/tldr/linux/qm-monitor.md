@@ -1,7 +1,7 @@
 ---
 title: "QEMU Monitor - Control Virtual Machines | Online Free DevTools by Hexmos"
 name: qm-monitor
-path: /freedevtools/tldr/linux/qm-monitor
+path: "/freedevtools/tldr/linux/qm-monitor/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-monitor/"
 description: "Control QEMU virtual machines with QEMU Monitor. Manage VM state, debug issues, and access advanced settings directly. Free online tool, no registration required."
 category: linux

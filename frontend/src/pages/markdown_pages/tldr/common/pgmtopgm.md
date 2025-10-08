@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM - Transform Image Files | Online Free DevTools by Hexmos"
 name: pgmtopgm
-path: /freedevtools/tldr/common/pgmtopgm
+path: "/freedevtools/tldr/common/pgmtopgm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmtopgm/"
 description: "Transform image files with PGMtopgm. Convert PGM image format to other PGM types. Free online tool, no registration required."
 category: common

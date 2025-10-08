@@ -1,7 +1,7 @@
 ---
 title: "Create Block Maps - Intelligently Copy Images | Online Free DevTools by Hexmos"
 name: bmaptool
-path: /freedevtools/tldr/common/bmaptool
+path: "/freedevtools/tldr/common/bmaptool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bmaptool/"
 description: "Create block maps intelligently with bmaptool, designed to copy images faster than traditional methods. Optimize image deployments and reduce write operations. Free online tool, no registration required."
 category: common

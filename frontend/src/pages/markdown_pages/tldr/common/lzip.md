@@ -1,7 +1,7 @@
 ---
 title: "Compress Data - Lzip Archive and Compress Files | Online Free DevTools by Hexmos"
 name: lzip
-path: /freedevtools/tldr/common/lzip
+path: "/freedevtools/tldr/common/lzip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzip/"
 description: "Compress data with Lzip, create and manage lz archives with this powerful command-line tool. Free online tool, no registration required. Optimize storage and transfer files efficiently."
 category: common

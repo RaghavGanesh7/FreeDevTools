@@ -1,7 +1,7 @@
 ---
 title: "Assess Kubernetes Security - Prowler Kubernetes | Online Free DevTools by Hexmos"
 name: prowler-kubernetes
-path: /freedevtools/tldr/prowler/prowler-kubernetes
+path: "/freedevtools/tldr/prowler/prowler-kubernetes/"
 canonical: "https://hexmos.com/freedevtools/tldr/prowler/prowler-kubernetes/"
 description: "Assess Kubernetes security configurations with Prowler Kubernetes. Identify vulnerabilities and ensure best practices. Free online tool, no registration required."
 category: common

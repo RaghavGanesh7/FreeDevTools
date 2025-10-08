@@ -1,7 +1,7 @@
 ---
 title: "OpenStack Port - Manage Network Ports | Online Free DevTools by Hexmos"
 name: openstack-port
-path: /freedevtools/tldr/openstack/openstack-port
+path: "/freedevtools/tldr/openstack/openstack-port/"
 canonical: "https://hexmos.com/freedevtools/tldr/openstack/openstack-port/"
 description: "Manage network ports with OpenStack Port. Configure virtual network interfaces and control IP address assignments. Free online tool, no registration required."
 category: common

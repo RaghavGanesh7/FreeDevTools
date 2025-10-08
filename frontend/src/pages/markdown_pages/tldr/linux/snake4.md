@@ -1,7 +1,7 @@
 ---
 title: "Control Snake Game - Terminal Game | Online Free DevTools by Hexmos"
 name: snake4
-path: /freedevtools/tldr/linux/snake4
+path: "/freedevtools/tldr/linux/snake4/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/snake4/"
 description: "Control snake game on Linux with Snake4. Play terminal-based snake, adjust levels and navigate using arrow keys. Free online tool, no registration required."
 category: linux

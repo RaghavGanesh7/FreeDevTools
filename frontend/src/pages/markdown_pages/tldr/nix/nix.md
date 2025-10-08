@@ -1,7 +1,7 @@
 ---
 title: "Nix Package Manager - Control Packages Declaratively | Online Free DevTools by Hexmos"
 name: nix
-path: /freedevtools/tldr/nix/nix
+path: "/freedevtools/tldr/nix/nix/"
 canonical: "https://hexmos.com/freedevtools/tldr/nix/nix/"
 description: "Control packages reliably with Nix Package Manager. Manage dependencies, create reproducible builds, and simplify software deployments. Free online tool, no registration required."
 category: common

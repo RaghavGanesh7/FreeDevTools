@@ -1,7 +1,7 @@
 ---
 title: "List Block Devices - Control Disk Info with lsblk | Online Free DevTools by Hexmos"
 name: lsblk
-path: /freedevtools/tldr/linux/lsblk
+path: "/freedevtools/tldr/linux/lsblk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsblk/"
 description: "List block devices and control disk information with lsblk on Linux. Analyze storage devices, partitions, and file systems using this command-line utility. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Ludusavi Backup - Save Game Data | Online Free DevTools by Hexmos"
 name: ludusavi
-path: /freedevtools/tldr/common/ludusavi
+path: "/freedevtools/tldr/common/ludusavi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ludusavi/"
 description: "Backup video game save data with Ludusavi, ensuring your progress is safe. Restore games easily with this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Run Language Models - Control with Ollama | Online Free DevTools by Hexmos"
 name: ollama
-path: /freedevtools/tldr/common/ollama
+path: "/freedevtools/tldr/common/ollama/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ollama/"
 description: "Run large language models with Ollama. Download, manage, and interact with various LLMs directly from your terminal. Free online tool, no registration required."
 category: common

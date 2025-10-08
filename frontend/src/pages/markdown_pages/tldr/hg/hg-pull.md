@@ -1,7 +1,7 @@
 ---
 title: "Hg Pull - Retrieve Remote Repository Changes | Online Free DevTools by Hexmos"
 name: hg-pull
-path: /freedevtools/tldr/hg/hg-pull
+path: "/freedevtools/tldr/hg/hg-pull/"
 canonical: "https://hexmos.com/freedevtools/tldr/hg/hg-pull/"
 description: "Retrieve Mercurial repository changes with Hg Pull. Sync your local repository with remote branches and revisions. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Debman - Read Man Pages Offline | Online Free DevTools by Hexmos"
 name: debman
-path: /freedevtools/tldr/linux/debman
+path: "/freedevtools/tldr/linux/debman/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/debman/"
 description: "Read man pages offline with Debman. Access documentation for uninstalled Debian packages easily and quickly. Free online tool, no registration required."
 category: linux

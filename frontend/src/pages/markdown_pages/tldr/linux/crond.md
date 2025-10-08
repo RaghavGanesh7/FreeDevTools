@@ -1,7 +1,7 @@
 ---
 title: "Control Crontab Schedules - Execute Commands | Online Free DevTools by Hexmos"
 name: crond
-path: /freedevtools/tldr/linux/crond
+path: "/freedevtools/tldr/linux/crond/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/crond/"
 description: "Control scheduled command execution with crond. Manage crontab files to automate tasks on Linux and Unix systems. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Pgrep - Find Processes by Name | Online Free DevTools by Hexmos"
 name: pgrep
-path: /freedevtools/tldr/common/pgrep
+path: "/freedevtools/tldr/common/pgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgrep/"
 description: "Find processes by name with Pgrep. Quickly locate and signal running programs using command line. Free online tool, no registration required."
 category: common

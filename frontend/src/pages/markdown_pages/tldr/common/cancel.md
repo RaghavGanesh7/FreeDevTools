@@ -1,7 +1,7 @@
 ---
 title: "Cancel Print Jobs - Control Print Queue | Online Free DevTools by Hexmos"
 name: cancel
-path: /freedevtools/tldr/common/cancel
+path: "/freedevtools/tldr/common/cancel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cancel/"
 description: "Control print jobs with Cancel. Manage your print queue, cancel specific print jobs or all jobs. Free online tool, no registration required."
 category: common

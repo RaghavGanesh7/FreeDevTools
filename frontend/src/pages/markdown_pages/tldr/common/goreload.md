@@ -1,7 +1,7 @@
 ---
 title: "Reload Go Programs - Live Reload with Goreload | Online Free DevTools by Hexmos"
 name: goreload
-path: /freedevtools/tldr/common/goreload
+path: "/freedevtools/tldr/common/goreload/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/goreload/"
 description: "Live reload Go programs with Goreload. Automate server restarts and speed up development with hot reloading. Free online tool, no registration required."
 category: common

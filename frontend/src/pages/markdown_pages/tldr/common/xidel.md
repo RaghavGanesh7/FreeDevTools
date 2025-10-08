@@ -1,7 +1,7 @@
 ---
 title: "Extract Data with Xidel - HTML/XML Parser | Online Free DevTools by Hexmos"
 name: xidel
-path: /freedevtools/tldr/common/xidel
+path: "/freedevtools/tldr/common/xidel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xidel/"
 description: "Extract data easily with Xidel, a powerful HTML/XML parser. Scrape web pages and APIs efficiently. Free online tool, no registration required."
 category: common

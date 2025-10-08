@@ -1,7 +1,7 @@
 ---
 title: "Show Last Command - Track User Activity | Online Free DevTools by Hexmos"
 name: lastcomm
-path: /freedevtools/tldr/common/lastcomm
+path: "/freedevtools/tldr/common/lastcomm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lastcomm/"
 description: "Track user activity with Last Command. Audit system activity, monitor command execution, and identify user behavior. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compile Go Programs - Cross-Compile with Gox | Online Free DevTools by Hexmos"
 name: gox
-path: /freedevtools/tldr/common/gox
+path: "/freedevtools/tldr/common/gox/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gox/"
 description: "Cross-compile Go programs with Gox. Effortlessly build for multiple operating systems and architectures. Free online tool, no registration required."
 category: common

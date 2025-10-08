@@ -1,7 +1,7 @@
 ---
 title: "Subtitles Downloader - Find Subtitles with Subliminal | Online Free DevTools by Hexmos"
 name: subliminal
-path: /freedevtools/tldr/common/subliminal
+path: "/freedevtools/tldr/common/subliminal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/subliminal/"
 description: "Find subtitles for your videos with Subliminal subtitle downloader. Quickly download subtitles in multiple languages for all your media files. Free online tool, no registration required."
 category: common

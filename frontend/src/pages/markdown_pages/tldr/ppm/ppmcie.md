@@ -1,7 +1,7 @@
 ---
 title: "Generate PPM Image - Create CIE Color Chart | Online Free DevTools by Hexmos"
 name: ppmcie
-path: /freedevtools/tldr/ppm/ppmcie
+path: "/freedevtools/tldr/ppm/ppmcie/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmcie/"
 description: "Create PPM images from CIE color charts with ppmcie. Adjust color systems and illuminant locations. Free online tool, no registration required."
 category: common

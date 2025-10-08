@@ -1,7 +1,7 @@
 ---
 title: "Archive Manager - Manage Files with Atool | Online Free DevTools by Hexmos"
 name: atool
-path: /freedevtools/tldr/common/atool
+path: "/freedevtools/tldr/common/atool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/atool/"
 description: "Manage file archives easily with Atool. Extract, create, and list files within archives using a consistent command-line interface. Free online tool, no registration required."
 category: common

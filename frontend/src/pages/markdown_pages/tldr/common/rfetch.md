@@ -1,7 +1,7 @@
 ---
 title: "Fetch System Info - Control System Details | Online Free DevTools by Hexmos"
 name: rfetch
-path: /freedevtools/tldr/common/rfetch
+path: "/freedevtools/tldr/common/rfetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rfetch/"
 description: "Fetch system information easily with rfetch. Display OS details and system uptime using the command line. Free online tool, no registration required."
 category: common

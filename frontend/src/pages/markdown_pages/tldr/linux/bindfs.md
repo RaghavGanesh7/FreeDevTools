@@ -1,7 +1,7 @@
 ---
 title: "Bindfs - Mount Directory Permissions | Online Free DevTools by Hexmos"
 name: bindfs
-path: "/freedevtools/tldr/linux/bindfs"
+path: "/freedevtools/tldr/linux/bindfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bindfs/"
 description: "Mount directories with Bindfs and manage permissions on Linux systems.  Securely share files and control access using different user mappings. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Kernel Install - Add/Remove Kernels | Online Free DevTools by Hexmos"
 name: kernel-install
-path: /freedevtools/tldr/linux/kernel-install
+path: "/freedevtools/tldr/linux/kernel-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kernel-install/"
 description: "Manage kernel images with Kernel Install. Add, remove, and inspect kernel and initrd images in /boot. Free online tool, no registration required."
 category: linux

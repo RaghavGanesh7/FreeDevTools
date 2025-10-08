@@ -1,7 +1,7 @@
 ---
 title: "SC Create - Control Windows Services | Online Free DevTools by Hexmos"
 name: sc-create
-path: /freedevtools/tldr/windows/sc-create
+path: "/freedevtools/tldr/windows/sc-create/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sc-create/"
 description: "Control Windows services with SC Create. Create, start, stop, and configure system services using the command line. Free online tool, no registration required."
 category: windows

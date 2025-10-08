@@ -1,7 +1,7 @@
 ---
 title: "Aircrack-ng Crack WEP/WPA Keys | Online Free DevTools by Hexmos"
 name: aircrack-ng
-path: /freedevtools/tldr/aircrack/aircrack-ng
+path: "/freedevtools/tldr/aircrack/aircrack-ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/aircrack/aircrack-ng/"
 description: "Crack WEP and WPA keys with Aircrack-ng. Recover wireless passwords from captured network packets effectively. Free online tool, no registration required."
 category: common

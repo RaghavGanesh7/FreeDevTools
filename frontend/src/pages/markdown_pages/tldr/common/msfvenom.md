@@ -1,7 +1,7 @@
 ---
 title: "Generate Metasploit Payloads - Create Exploit Code | Online Free DevTools by Hexmos"
 name: msfvenom
-path: /freedevtools/tldr/common/msfvenom
+path: "/freedevtools/tldr/common/msfvenom/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/msfvenom/"
 description: "Generate Metasploit payloads with msfvenom. Create reverse shells, executable files and raw code for penetration testing. Free online tool, no registration required."
 category: common

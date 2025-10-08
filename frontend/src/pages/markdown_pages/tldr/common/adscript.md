@@ -1,7 +1,7 @@
 ---
 title: "Adscript Compiler - Generate Executables | Online Free DevTools by Hexmos"
 name: adscript
-path: /freedevtools/tldr/common/adscript
+path: "/freedevtools/tldr/common/adscript/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/adscript/"
 description: "Generate code with Adscript Compiler. Create executables and object files from Adscript source. Free online tool, no registration required."
 category: common

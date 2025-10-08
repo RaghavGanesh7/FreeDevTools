@@ -1,7 +1,7 @@
 ---
 title: "Flyctl Control - Manage Fly.io Apps | Online Free DevTools by Hexmos"
 name: flyctl
-path: /freedevtools/tldr/common/flyctl
+path: "/freedevtools/tldr/common/flyctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flyctl/"
 description: "Control Fly.io applications easily with Flyctl. Deploy, monitor, and manage your applications using command-line interface. Free online tool, no registration required."
 category: common

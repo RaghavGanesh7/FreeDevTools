@@ -1,7 +1,7 @@
 ---
 title: "Generate Bonsai Trees - Beautiful ASCII Art with cbonsai | Online Free DevTools by Hexmos"
 name: cbonsai
-path: /freedevtools/tldr/common/cbonsai
+path: "/freedevtools/tldr/common/cbonsai/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cbonsai/"
 description: "Generate Bonsai trees with cbonsai, a command-line ASCII art generator. Create unique and beautiful random trees on Linux or macOS. Free online tool, no registration required."
 category: common

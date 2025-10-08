@@ -1,7 +1,7 @@
 ---
 title: "MQTT Check - Verify MQTT Broker Security | Online Free DevTools by Hexmos"
 name: impacket-mqtt_check
-path: /freedevtools/tldr/impacket/impacket-mqtt_check
+path: "/freedevtools/tldr/impacket/impacket-mqtt_check/"
 canonical: "https://hexmos.com/freedevtools/tldr/impacket/impacket-mqtt_check/"
 description: "Verify MQTT broker security with MQTT Check. Enumerate topics, test credentials, and identify vulnerabilities in MQTT implementations. Free online tool, no registration required."
 category: common

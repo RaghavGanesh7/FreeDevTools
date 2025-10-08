@@ -1,7 +1,7 @@
 ---
 title: "Wait Process - Control Process Execution | Online Free DevTools by Hexmos"
 name: wait-process
-path: /freedevtools/tldr/windows/wait-process
+path: "/freedevtools/tldr/windows/wait-process/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/wait-process/"
 description: "Control process execution with Wait-Process. Monitor and wait for process completion in PowerShell. Free online tool, no registration required."
 category: windows

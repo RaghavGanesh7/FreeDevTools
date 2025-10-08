@@ -1,7 +1,7 @@
 ---
 title: "Expose Localhost - Tunnel Local Port | Online Free DevTools by Hexmos"
 name: lt
-path: "/freedevtools/tldr/common/lt"
+path: "/freedevtools/tldr/common/lt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lt/"
 description: "Tunnel your localhost with Localtunnel, exposing your local port for easy testing and sharing. Share local websites and APIs instantly. Free online tool, no registration required."
 category: common

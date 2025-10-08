@@ -1,7 +1,7 @@
 ---
 title: "Create Device Files - Control Devices with mknod | Online Free DevTools by Hexmos"
 name: mknod
-path: "/freedevtools/tldr/linux/mknod"
+path: "/freedevtools/tldr/linux/mknod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mknod/"
 description: "Create device files with mknod. Easily manage device nodes, create block and character devices. Free online tool, no registration required."
 category: linux

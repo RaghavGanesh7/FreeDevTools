@@ -1,7 +1,7 @@
 ---
 title: "Run Mailcap - Execute Mail Programs | Online Free DevTools by Hexmos"
 name: run-mailcap
-path: /freedevtools/tldr/linux/run-mailcap
+path: "/freedevtools/tldr/linux/run-mailcap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/run-mailcap/"
 description: "Execute mailcap programs with run-mailcap.  Control mail actions like view, edit, and compose using command-line arguments. Free online tool, no registration required."
 category: linux

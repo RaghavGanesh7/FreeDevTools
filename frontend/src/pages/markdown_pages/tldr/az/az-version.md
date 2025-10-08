@@ -1,7 +1,7 @@
 ---
 title: "Azure Version - Show CLI Versions | Online Free DevTools by Hexmos"
 name: az-version
-path: /freedevtools/tldr/az/az-version
+path: "/freedevtools/tldr/az/az-version/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-version/"
 description: "Show Azure CLI versions with Az Version. Display module and extension versions for Azure development. Free online tool, no registration required."
 category: common

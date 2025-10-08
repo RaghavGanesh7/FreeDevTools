@@ -1,7 +1,7 @@
 ---
 title: "Control Dropbox Sync - Maestral Client | Online Free DevTools by Hexmos"
 name: maestral
-path: /freedevtools/tldr/common/maestral
+path: "/freedevtools/tldr/common/maestral/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/maestral/"
 description: "Control your Dropbox sync with Maestral. Manage sync status, pause/resume syncing, and check file status effortlessly. Free online tool, no registration required."
 category: common

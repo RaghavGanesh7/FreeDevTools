@@ -1,7 +1,7 @@
 ---
 title: "Create Shell Archive - Package Files | Online Free DevTools by Hexmos"
 name: shar
-path: /freedevtools/tldr/linux/shar
+path: "/freedevtools/tldr/linux/shar/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/shar/"
 description: "Create shell archive with shar for easy file packaging. Compress archives and handle binary/text files efficiently. Free online tool, no registration required."
 category: linux

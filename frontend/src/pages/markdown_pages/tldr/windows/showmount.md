@@ -1,7 +1,7 @@
 ---
 title: "Showmount - Control NFS Mounts | Online Free DevTools by Hexmos"
 name: showmount
-path: "/freedevtools/tldr/windows/showmount"
+path: "/freedevtools/tldr/windows/showmount/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/showmount/"
 description: "Control NFS mounts with Showmount. Display shared resources and manage network file systems on Windows. Free online tool, no registration required."
 category: windows

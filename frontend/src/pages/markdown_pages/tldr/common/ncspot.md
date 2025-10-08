@@ -1,7 +1,7 @@
 ---
 title: "Control Spotify Music - ncspot TUI Client | Online Free DevTools by Hexmos"
 name: ncspot
-path: /freedevtools/tldr/common/ncspot
+path: "/freedevtools/tldr/common/ncspot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ncspot/"
 description: "Control Spotify music with ncspot, a cross-platform terminal user interface client. Manage playlists, search songs, and enjoy ad-free listening. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create Gists - Share Code Snippets Online | Online Free DevTools by Hexmos"
 name: gist
-path: /freedevtools/tldr/common/gist
+path: "/freedevtools/tldr/common/gist/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gist/"
 description: "Create online Gists easily with gist. Share code snippets and collaborate with others. Free online tool, no registration required. Use the command line for efficient Gist creation."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Traefik - HTTP Reverse Proxy | Online Free DevTools by Hexmos"
 name: traefik
-path: /freedevtools/tldr/common/traefik
+path: "/freedevtools/tldr/common/traefik/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/traefik/"
 description: "Control HTTP reverse proxy with Traefik. Load balance traffic, configure routes, and manage certificates with this free online tool, no registration required."
 category: common

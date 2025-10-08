@@ -1,7 +1,7 @@
 ---
 title: "Create Symbolic Links - mklink | Online Free DevTools by Hexmos"
 name: mklink
-path: /freedevtools/tldr/windows/mklink
+path: "/freedevtools/tldr/windows/mklink/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mklink/"
 description: "Create symbolic links with mklink. Generate file and directory links, including hard links and directory junctions. Free online tool, no registration required."
 category: windows

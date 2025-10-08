@@ -1,7 +1,7 @@
 ---
 title: "Screenshot Capture - Create Linux Screenshots | Online Free DevTools by Hexmos"
 name: maim
-path: /freedevtools/tldr/linux/maim
+path: "/freedevtools/tldr/linux/maim/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/maim/"
 description: "Capture screenshots with maim, a lightweight Linux screenshot utility. Easily save screen captures to files or the clipboard. Free online tool, no registration required."
 category: linux

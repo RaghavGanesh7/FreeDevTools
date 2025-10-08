@@ -1,7 +1,7 @@
 ---
 title: "Watchdog Control - Display Watchdog Status | Online Free DevTools by Hexmos"
 name: wdctl
-path: /freedevtools/tldr/linux/wdctl
+path: "/freedevtools/tldr/linux/wdctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wdctl/"
 description: "Display watchdog status with wdctl. Monitor system health and identify hardware issues easily using command-line interface. Free online tool, no registration required."
 category: linux

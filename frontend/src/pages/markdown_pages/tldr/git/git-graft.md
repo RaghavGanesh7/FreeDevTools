@@ -1,7 +1,7 @@
 ---
 title: "Graft Git Branch - Merge and Delete Branches | Online Free DevTools by Hexmos"
 name: git-graft
-path: /freedevtools/tldr/git/git-graft
+path: "/freedevtools/tldr/git/git-graft/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-graft/"
 description: "Merge commits with Git Graft. Easily integrate changes and remove the source branch. Free online tool, no registration required. Simplify branching workflows."
 category: common

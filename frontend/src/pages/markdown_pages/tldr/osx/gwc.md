@@ -1,7 +1,7 @@
 ---
 title: "GWC - Count Words Quickly | Online Free DevTools by Hexmos"
 name: gwc
-path: /freedevtools/tldr/osx/gwc
+path: "/freedevtools/tldr/osx/gwc/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gwc/"
 description: "Count words quickly with GWC, the word count tool. Analyze text files and standard input with this fast command line interface. Free online tool, no registration required."
 category: osx

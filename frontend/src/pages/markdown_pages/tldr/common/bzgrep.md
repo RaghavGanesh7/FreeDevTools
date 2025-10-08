@@ -1,7 +1,7 @@
 ---
 title: "Bzgrep - Search Bzip2 Files with Grep | Online Free DevTools by Hexmos"
 name: bzgrep
-path: /freedevtools/tldr/common/bzgrep
+path: "/freedevtools/tldr/common/bzgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bzgrep/"
 description: "Search bzip2 compressed files with Bzgrep. Quickly find patterns and extract relevant information from archived data. Free online tool, no registration required."
 category: common

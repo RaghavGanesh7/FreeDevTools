@@ -1,7 +1,7 @@
 ---
 title: "Defragment Ext4 Filesystem - e4defrag Command | Online Free DevTools by Hexmos"
 name: e4defrag
-path: /freedevtools/tldr/linux/e4defrag
+path: "/freedevtools/tldr/linux/e4defrag/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/e4defrag/"
 description: "Defragment ext4 filesystems easily with the e4defrag command.  Check filesystem fragmentation and optimize performance for faster read/write speeds. Free online tool, no registration required."
 category: linux

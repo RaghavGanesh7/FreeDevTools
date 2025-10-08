@@ -1,7 +1,7 @@
 ---
 title: "Create Scala Builds - Manage Java Projects with sbt | Online Free DevTools by Hexmos"
 name: sbt
-path: /freedevtools/tldr/common/sbt
+path: "/freedevtools/tldr/common/sbt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sbt/"
 description: "Create Scala builds effortlessly with sbt, the build tool for Scala and Java projects. Manage dependencies, compile code, and run tests efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Package Utility - Query macOS Installer Packages | Online Free DevTools by Hexmos"
 name: pkgutil
-path: /freedevtools/tldr/osx/pkgutil
+path: "/freedevtools/tldr/osx/pkgutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/pkgutil/"
 description: "Query macOS installer packages with Package Utility (pkgutil). List installed packages, verify signatures, and extract content. Free online tool, no registration required."
 category: osx

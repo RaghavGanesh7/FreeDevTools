@@ -1,7 +1,7 @@
 ---
 title: "PDF Info - Generate PDF Information | Online Free DevTools by Hexmos"
 name: pdfinfo
-path: /freedevtools/tldr/common/pdfinfo
+path: "/freedevtools/tldr/common/pdfinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfinfo/"
 description: "Generate PDF information with PDF Info. Extract metadata and analyze PDF documents including version, size, and security settings. Free online tool, no registration required."
 category: common

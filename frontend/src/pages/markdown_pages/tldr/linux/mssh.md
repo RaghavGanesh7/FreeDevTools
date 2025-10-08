@@ -1,7 +1,7 @@
 ---
 title: "Control SSH Servers - mssh | Online Free DevTools by Hexmos"
 name: mssh
-path: /freedevtools/tldr/linux/mssh
+path: "/freedevtools/tldr/linux/mssh/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mssh/"
 description: "Control multiple SSH servers with mssh. Manage connections, execute commands across multiple hosts. Free online tool, no registration required."
 category: linux

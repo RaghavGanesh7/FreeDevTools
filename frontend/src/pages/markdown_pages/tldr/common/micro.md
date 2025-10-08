@@ -1,7 +1,7 @@
 ---
 title: "Micro Editor - Control Text Editing in Terminal | Online Free DevTools by Hexmos"
 name: micro
-path: /freedevtools/tldr/common/micro
+path: "/freedevtools/tldr/common/micro/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/micro/"
 description: "Control text editing efficiently with Micro Editor. Navigate and manipulate text using keyboard shortcuts or mouse. Free online tool, no registration required."
 category: common

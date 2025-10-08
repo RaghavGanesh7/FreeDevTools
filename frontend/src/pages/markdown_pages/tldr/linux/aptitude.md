@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages with Aptitude - Debian/Ubuntu Package Manager | Online Free DevTools by Hexmos"
 name: aptitude
-path: /freedevtools/tldr/linux/aptitude
+path: "/freedevtools/tldr/linux/aptitude/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aptitude/"
 description: "Manage Debian and Ubuntu packages efficiently with Aptitude.  Install, remove, update, and search for packages easily. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Kitty Terminal - Control Terminal Sessions | Online Free DevTools by Hexmos"
 name: kitty
-path: /freedevtools/tldr/common/kitty
+path: "/freedevtools/tldr/common/kitty/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kitty/"
 description: "Control terminal sessions easily with Kitty Terminal. Launch new windows, display images, and copy to clipboard using simple commands. Free online tool, no registration required."
 category: common

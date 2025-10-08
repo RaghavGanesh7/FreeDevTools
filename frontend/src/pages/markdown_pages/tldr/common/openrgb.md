@@ -1,7 +1,7 @@
 ---
 title: "Control RGB Lighting - OpenRGB Command | Online Free DevTools by Hexmos"
 name: openrgb
-path: /freedevtools/tldr/common/openrgb
+path: "/freedevtools/tldr/common/openrgb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/openrgb/"
 description: "Control RGB lighting devices with OpenRGB command. Manage colors, modes, and effects on your computer hardware. Free online tool, no registration required."
 category: common

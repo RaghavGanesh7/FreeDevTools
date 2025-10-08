@@ -1,7 +1,7 @@
 ---
 title: "ArchWiki Reader - Search and Read ArchWiki Pages | Online Free DevTools by Hexmos"
 name: archwiki-rs
-path: /freedevtools/tldr/common/archwiki-rs
+path: "/freedevtools/tldr/common/archwiki-rs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/archwiki-rs/"
 description: "Search ArchWiki pages efficiently with ArchWiki-rs. Read, search, and download content. Access up-to-date information on Arch Linux. Free online tool, no registration required."
 category: common

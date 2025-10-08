@@ -1,7 +1,7 @@
 ---
 title: "SNMP Status - Fetch MIB Status Values | Online Free DevTools by Hexmos"
 name: snmpstatus
-path: /freedevtools/tldr/common/snmpstatus
+path: "/freedevtools/tldr/common/snmpstatus/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snmpstatus/"
 description: "Fetch MIB status values with SNMP Status. Monitor network devices and retrieve device information using simple network management protocol. Free online tool, no registration required."
 category: common

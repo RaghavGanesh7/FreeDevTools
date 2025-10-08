@@ -1,7 +1,7 @@
 ---
 title: "Git Push - Send Commits to Remote Repository | Online Free DevTools by Hexmos"
 name: git-push
-path: /freedevtools/tldr/git/git-push
+path: "/freedevtools/tldr/git/git-push/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-push/"
 description: "Push Git commits with Git Push. Transfer changes from local to remote repositories, manage branches, and update remote origins. Free online tool, no registration required."
 category: common

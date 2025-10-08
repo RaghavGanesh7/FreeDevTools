@@ -1,7 +1,7 @@
 ---
 title: "Build OS Images - Kiwi-ng Appliance Builder | Online Free DevTools by Hexmos"
 name: kiwi-ng
-path: /freedevtools/tldr/common/kiwi-ng
+path: "/freedevtools/tldr/common/kiwi-ng/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kiwi-ng/"
 description: "Build OS images with Kiwi-ng appliance builder. Create and customize operating system images using command-line tools. Free online tool, no registration required."
 category: common

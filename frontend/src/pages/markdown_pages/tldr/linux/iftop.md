@@ -1,7 +1,7 @@
 ---
 title: "Control Bandwidth Usage - iftop | Online Free DevTools by Hexmos"
 name: iftop
-path: /freedevtools/tldr/linux/iftop
+path: "/freedevtools/tldr/linux/iftop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iftop/"
 description: "Control bandwidth usage with iftop, a network traffic monitor. Analyze interface activity, identify top bandwidth consumers, and optimize network performance. Free online tool, no registration required."
 category: linux

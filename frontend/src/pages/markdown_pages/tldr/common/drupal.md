@@ -1,7 +1,7 @@
 ---
 title: "Drupal - Generate Drupal Code | Online Free DevTools by Hexmos"
 name: drupal
-path: /freedevtools/tldr/common/drupal
+path: "/freedevtools/tldr/common/drupal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/drupal/"
 description: "Generate Drupal code with Drupal Command. Build, interact, and debug Drupal projects effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Cups Reject - Control Printer Jobs | Online Free DevTools by Hexmos"
 name: cupsreject
-path: /freedevtools/tldr/common/cupsreject
+path: "/freedevtools/tldr/common/cupsreject/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cupsreject/"
 description: "Control printer jobs with Cups Reject. Manage printer queues, reject print requests, and specify rejection reasons. Free online tool, no registration required."
 category: common

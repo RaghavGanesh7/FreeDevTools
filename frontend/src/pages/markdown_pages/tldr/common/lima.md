@@ -1,7 +1,7 @@
 ---
 title: "Lima - Shell into Default VM | Online Free DevTools by Hexmos"
 name: lima
-path: /freedevtools/tldr/common/lima
+path: "/freedevtools/tldr/common/lima/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lima/"
 description: "Shell into your default VM instance with Lima. Access and manage virtualized environments directly from your terminal. Free online tool, no registration required."
 category: common

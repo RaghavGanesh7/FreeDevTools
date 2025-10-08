@@ -1,7 +1,7 @@
 ---
 title: "Nodemon - Restart Node.js Apps | Online Free DevTools by Hexmos"
 name: nodemon
-path: /freedevtools/tldr/common/nodemon
+path: "/freedevtools/tldr/common/nodemon/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nodemon/"
 description: "Restart Node.js apps automatically with Nodemon. Monitor file changes and execute custom scripts. Free online tool, no registration required."
 category: common

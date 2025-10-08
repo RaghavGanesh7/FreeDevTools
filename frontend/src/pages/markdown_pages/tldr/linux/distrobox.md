@@ -1,7 +1,7 @@
 ---
 title: "Create Distrobox Containers - Linux Environment | Online Free DevTools by Hexmos"
 name: distrobox
-path: /freedevtools/tldr/linux/distrobox
+path: "/freedevtools/tldr/linux/distrobox/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox/"
 description: "Create containers with Distrobox. Isolate environments and manage Linux distributions. Free online tool, no registration required."
 category: linux

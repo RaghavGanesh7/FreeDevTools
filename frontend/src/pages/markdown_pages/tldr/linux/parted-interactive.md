@@ -1,7 +1,7 @@
 ---
 title: "Parted - Manage Partitions | Online Free DevTools by Hexmos"
 name: parted.interactive
-path: /freedevtools/tldr/linux/parted-interactive
+path: "/freedevtools/tldr/linux/parted-interactive/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/parted-interactive/"
 description: "Manage disk partitions with the powerful parted command. Create, resize, and delete partitions with ease using this Linux command-line tool. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Check npm Name - Verify Package Availability | Online Free DevTools by Hexmos"
 name: npm-name
-path: /freedevtools/tldr/npm/npm-name
+path: "/freedevtools/tldr/npm/npm-name/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-name/"
 description: "Check npm package availability instantly with npm-name. Verify if a package name is taken or find similar names. Free online tool, no registration required."
 category: common

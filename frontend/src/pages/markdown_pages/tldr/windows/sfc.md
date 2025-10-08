@@ -1,7 +1,7 @@
 ---
 title: "System File Check - Scan & Repair Windows System Files | Online Free DevTools by Hexmos"
 name: sfc
-path: /freedevtools/tldr/windows/sfc
+path: "/freedevtools/tldr/windows/sfc/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sfc/"
 description: "Scan Windows system files for integrity issues with System File Check. Repair corrupted files to ensure system stability. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "TGA to PPM - Convert Targa Files | Online Free DevTools by Hexmos"
 name: tgatoppm
-path: /freedevtools/tldr/common/tgatoppm
+path: "/freedevtools/tldr/common/tgatoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tgatoppm/"
 description: "Convert Targa files to PPM format with tgatoppm. Easily transform .tga images for Netpbm compatibility. Free online tool, no registration required."
 category: common

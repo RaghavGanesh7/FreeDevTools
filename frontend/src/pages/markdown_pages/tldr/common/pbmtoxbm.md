@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to XBM - Generate Bitmap Images | Online Free DevTools by Hexmos"
 name: pbmtoxbm
-path: /freedevtools/tldr/common/pbmtoxbm
+path: "/freedevtools/tldr/common/pbmtoxbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoxbm/"
 description: "Convert PBM to XBM with pbmtoxbm. Generate X11 and X10 bitmap images from PBM files with this Netpbm tool. Free online tool, no registration required."
 category: common

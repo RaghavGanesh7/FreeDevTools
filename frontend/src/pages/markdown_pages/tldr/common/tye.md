@@ -1,7 +1,7 @@
 ---
 title: "Tye - Deploy Microservices Easily | Online Free DevTools by Hexmos"
 name: tye
-path: /freedevtools/tldr/common/tye
+path: "/freedevtools/tldr/common/tye/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tye/"
 description: "Deploy microservices efficiently with Tye. Build, push, and deploy .NET applications to Kubernetes with ease. Free online tool, no registration required."
 category: common

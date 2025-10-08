@@ -1,7 +1,7 @@
 ---
 title: "Wall Command - Send Messages to Users | Online Free DevTools by Hexmos"
 name: wall
-path: /freedevtools/tldr/linux/wall
+path: "/freedevtools/tldr/linux/wall/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wall/"
 description: "Send system messages with Wall command on Linux. Broadcast to logged-in users and manage group communications efficiently. Free online tool, no registration required."
 category: linux

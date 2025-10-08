@@ -1,7 +1,7 @@
 ---
 title: "Bpython Interpreter - Enhance Python REPL | Online Free DevTools by Hexmos"
 name: bpython
-path: /freedevtools/tldr/common/bpython
+path: "/freedevtools/tldr/common/bpython/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bpython/"
 description: "Enhance your Python REPL with Bpython Interpreter. Improve productivity with syntax highlighting and auto-completion in interactive Python sessions. Free online tool, no registration required."
 category: common

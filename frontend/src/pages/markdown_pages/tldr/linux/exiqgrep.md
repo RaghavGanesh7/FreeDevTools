@@ -1,7 +1,7 @@
 ---
 title: "Exiqgrep - Filter Exim Queue Output | Online Free DevTools by Hexmos"
 name: exiqgrep
-path: /freedevtools/tldr/linux/exiqgrep
+path: "/freedevtools/tldr/linux/exiqgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/exiqgrep/"
 description: "Filter Exim queue output easily with Exiqgrep. Quickly find emails and messages by sender or recipient. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Pixterm Image Printer - Render Images in Terminal | Online Free DevTools by Hexmos"
 name: pixterm
-path: /freedevtools/tldr/common/pixterm
+path: "/freedevtools/tldr/common/pixterm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pixterm/"
 description: "Render images directly in your terminal with Pixterm Image Printer. Convert images to terminal art using advanced dither and aspect ratio controls. Free online tool, no registration required."
 category: common

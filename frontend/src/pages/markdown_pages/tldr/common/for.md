@@ -1,7 +1,7 @@
 ---
 title: "For Loop - Execute Commands Repeatedly | Online Free DevTools by Hexmos"
 name: for
-path: /freedevtools/tldr/common/for
+path: "/freedevtools/tldr/common/for/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/for/"
 description: "Execute shell commands repeatedly with For Loop. Automate tasks, iterate through files/directories, and streamline workflows. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Eww Widget Manager - Control Window Manager Widgets | Online Free DevTools by Hexmos"
 name: eww
-path: /freedevtools/tldr/linux/eww
+path: "/freedevtools/tldr/linux/eww/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eww/"
 description: "Control custom widgets in your window manager with Eww.  Manage and customize widgets easily using command-line interface. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Manage Files - Browse Directories with Filebrowser | Online Free DevTools by Hexmos"
 name: filebrowser
-path: /freedevtools/tldr/common/filebrowser
+path: "/freedevtools/tldr/common/filebrowser/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/filebrowser/"
 description: "Manage files with Filebrowser, a simple HTTP web server. Browse directories, upload and download files easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Finder Favorites - Control Sidebar Items | Online Free DevTools by Hexmos"
 name: mysides
-path: /freedevtools/tldr/osx/mysides
+path: "/freedevtools/tldr/osx/mysides/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mysides/"
 description: "Manage Finder favorites with mysides. Add, list, and remove sidebar items quickly and easily on macOS. Free online tool, no registration required."
 category: osx

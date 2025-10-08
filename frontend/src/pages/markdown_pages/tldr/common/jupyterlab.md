@@ -1,7 +1,7 @@
 ---
 title: "JupyterLab - Launch Interactive Computing | Online Free DevTools by Hexmos"
 name: jupyterlab
-path: /freedevtools/tldr/common/jupyterlab
+path: "/freedevtools/tldr/common/jupyterlab/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jupyterlab/"
 description: "Launch JupyterLab for interactive computing with ease. Create notebooks, edit code, and analyze data using this command-line shortcut. Free online tool, no registration required."
 category: common

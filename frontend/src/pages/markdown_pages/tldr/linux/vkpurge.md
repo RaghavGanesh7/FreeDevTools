@@ -1,7 +1,7 @@
 ---
 title: "Vkpurge - Remove Old Kernels | Online Free DevTools by Hexmos"
 name: vkpurge
-path: /freedevtools/tldr/linux/vkpurge
+path: "/freedevtools/tldr/linux/vkpurge/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vkpurge/"
 description: "Remove old kernel versions with Vkpurge, reclaiming disk space and ensuring system stability. Manage kernel versions effectively. Free online tool, no registration required."
 category: linux

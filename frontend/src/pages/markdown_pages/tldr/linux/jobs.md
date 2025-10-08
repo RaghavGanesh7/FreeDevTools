@@ -1,7 +1,7 @@
 ---
 title: "View Jobs - Manage Shell Processes | Online Free DevTools by Hexmos"
 name: jobs
-path: /freedevtools/tldr/linux/jobs
+path: "/freedevtools/tldr/linux/jobs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/jobs/"
 description: "Manage shell processes instantly with the jobs command. View, control, and list process information with ease. Free online tool, no registration required."
 category: linux

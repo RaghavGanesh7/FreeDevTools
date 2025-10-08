@@ -1,7 +1,7 @@
 ---
 title: "Search Man Pages - Find Commands by Keyword | Online Free DevTools by Hexmos"
 name: apropos
-path: /freedevtools/tldr/common/apropos
+path: "/freedevtools/tldr/common/apropos/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/apropos/"
 description: "Search man pages effortlessly with Apropos. Quickly find commands and descriptions using keywords for Linux, macOS, and other Unix-like systems. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Disk Space - Display Disk Usage with df Command | Online Free DevTools by Hexmos"
 name: df
-path: /freedevtools/tldr/common/df
+path: "/freedevtools/tldr/common/df/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/df/"
 description: "Display disk space usage with the df command. Monitor file system space, identify large files, and troubleshoot storage issues. Free online tool, no registration required."
 category: common

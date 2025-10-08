@@ -1,7 +1,7 @@
 ---
 title: "Format PNM to TIFF - Convert Images | Online Free DevTools by Hexmos"
 name: pnmtotiff
-path: /freedevtools/tldr/pnm/pnmtotiff
+path: "/freedevtools/tldr/pnm/pnmtotiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmtotiff/"
 description: "Format PNM images to TIFF with pnmtotiff. Convert Netpbm images to Tagged Image File Format. Free online tool, no registration required."
 category: common

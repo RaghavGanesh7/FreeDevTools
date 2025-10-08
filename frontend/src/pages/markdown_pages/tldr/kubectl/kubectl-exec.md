@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Exec - Execute Commands in Containers | Online Free DevTools by Hexmos"
 name: kubectl-exec
-path: /freedevtools/tldr/kubectl/kubectl-exec
+path: "/freedevtools/tldr/kubectl/kubectl-exec/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-exec/"
 description: "Execute commands within containers using Kubectl Exec. Run interactive shells, debug applications, and manage container processes remotely. Free online tool, no registration required."
 category: common

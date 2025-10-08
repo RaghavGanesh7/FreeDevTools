@@ -1,7 +1,7 @@
 ---
 title: "DTrace - Trace System Events | Online Free DevTools by Hexmos"
 name: dtrace
-path: /freedevtools/tldr/osx/dtrace
+path: "/freedevtools/tldr/osx/dtrace/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/dtrace/"
 description: "Trace system events with DTrace. Analyze kernel activity, debug applications, and monitor performance on macOS. Free online tool, no registration required."
 category: osx

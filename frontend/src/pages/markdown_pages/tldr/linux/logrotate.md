@@ -1,7 +1,7 @@
 ---
 title: "Rotate Logs - Control System Logs with Logrotate | Online Free DevTools by Hexmos"
 name: logrotate
-path: /freedevtools/tldr/linux/logrotate
+path: "/freedevtools/tldr/linux/logrotate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/logrotate/"
 description: "Control system logs easily with Logrotate. Rotate, compress, and mail logs based on your configuration. Free online tool, no registration required."
 category: linux

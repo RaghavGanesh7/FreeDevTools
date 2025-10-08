@@ -1,7 +1,7 @@
 ---
 title: "Browse SSH - Discover SSH/VNC Servers | Online Free DevTools by Hexmos"
 name: bssh
-path: /freedevtools/tldr/common/bssh
+path: "/freedevtools/tldr/common/bssh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bssh/"
 description: "Browse SSH servers easily with bssh. Discover local SSH and VNC servers on your network with this simple command-line tool. Free online tool, no registration required."
 category: common

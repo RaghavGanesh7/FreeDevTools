@@ -1,7 +1,7 @@
 ---
 title: "Create IP Aggregate Stats - Analyze Network Traffic | Online Free DevTools by Hexmos"
 name: ipaggcreate
-path: /freedevtools/tldr/common/ipaggcreate
+path: "/freedevtools/tldr/common/ipaggcreate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipaggcreate/"
 description: "Create IP aggregate statistics with ipaggcreate. Analyze network traffic from PCAP files and network interfaces using command-line. Free online tool, no registration required."
 category: common

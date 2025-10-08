@@ -1,7 +1,7 @@
 ---
 title: "Generate Graph Image - Render Radial Network with Twopi | Online Free DevTools by Hexmos"
 name: twopi
-path: /freedevtools/tldr/common/twopi
+path: "/freedevtools/tldr/common/twopi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/twopi/"
 description: "Generate graph images with Twopi, a radial network graph layout tool. Convert Graphviz files to PNG, SVG, and other formats. Free online tool, no registration required."
 category: common

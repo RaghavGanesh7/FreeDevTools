@@ -1,7 +1,7 @@
 ---
 title: "Generate Horizontal Rule - Terminal Divider | Online Free DevTools by Hexmos"
 name: hr
-path: /freedevtools/tldr/common/hr
+path: "/freedevtools/tldr/common/hr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hr/"
 description: "Generate a horizontal rule with hr. Create terminal dividers, customize line appearance, and enhance command-line readability. Free online tool, no registration required."
 category: common

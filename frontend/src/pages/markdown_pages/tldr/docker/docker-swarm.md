@@ -1,7 +1,7 @@
 ---
 title: "Docker Swarm - Control Container Clusters | Online Free DevTools by Hexmos"
 name: docker-swarm
-path: /freedevtools/tldr/docker/docker-swarm
+path: "/freedevtools/tldr/docker/docker-swarm/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-swarm/"
 description: "Control Docker Swarm clusters effortlessly with this online tool. Manage nodes, tokens, and certificates with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PGM Bentleyize - Format PGM Images | Online Free DevTools by Hexmos"
 name: pgmbentley
-path: /freedevtools/tldr/common/pgmbentley
+path: "/freedevtools/tldr/common/pgmbentley/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmbentley/"
 description: "Format images with PGM Bentleyize to apply the Bentley Effect on PGM files. Enhance your images with this command-line tool. Free online tool, no registration required."
 category: common

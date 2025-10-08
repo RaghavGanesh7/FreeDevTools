@@ -1,7 +1,7 @@
 ---
 title: "Encode Files - Convert Binary to ASCII with uuencode | Online Free DevTools by Hexmos"
 name: uuencode
-path: /freedevtools/tldr/common/uuencode
+path: "/freedevtools/tldr/common/uuencode/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/uuencode/"
 description: "Encode binary files efficiently with uuencode. Convert to ASCII format for reliable data transport across diverse mediums. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Brightness Control - Manage Display Brightness | Online Free DevTools by Hexmos"
 name: brightnessctl
-path: /freedevtools/tldr/linux/brightnessctl
+path: "/freedevtools/tldr/linux/brightnessctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/brightnessctl/"
 description: "Control display brightness with brightnessctl on Linux. Adjust screen luminosity and manage multiple displays from the command line. Free online tool, no registration required."
 category: linux

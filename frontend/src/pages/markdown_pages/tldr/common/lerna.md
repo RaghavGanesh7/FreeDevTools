@@ -1,7 +1,7 @@
 ---
 title: "Manage JavaScript Projects - Lerna | Online Free DevTools by Hexmos"
 name: lerna
-path: /freedevtools/tldr/common/lerna
+path: "/freedevtools/tldr/common/lerna/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lerna/"
 description: "Manage JavaScript projects with Lerna, easily handling multi-package repositories and dependencies. Automate versioning, publishing, and boosting development workflows. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Control Directory - Shell Directory Changer | Online Free DevTools by Hexmos"
 name: scd
-path: /freedevtools/tldr/common/scd
+path: "/freedevtools/tldr/common/scd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scd/"
 description: "Control your Shell Directory with scd, a command-line tool for fast navigation. Quickly jump to recent or aliased directories. Free online tool, no registration required."
 category: common

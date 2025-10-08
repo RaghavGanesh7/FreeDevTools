@@ -1,7 +1,7 @@
 ---
 title: "Search Code with Platinum Searcher | Online Free DevTools by Hexmos"
 name: pt
-path: /freedevtools/tldr/common/pt
+path: "/freedevtools/tldr/common/pt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pt/"
 description: "Search code efficiently with Platinum Searcher. Find files and match patterns in your codebase quickly using this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Fgconsole - Print Terminal Number | Online Free DevTools by Hexmos"
 name: fgconsole
-path: /freedevtools/tldr/linux/fgconsole
+path: "/freedevtools/tldr/linux/fgconsole/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fgconsole/"
 description: "Print current terminal number with Fgconsole. Quickly identify the foreground virtual terminal and manage virtual terminals using Linux command line. Free online tool, no registration required."
 category: linux

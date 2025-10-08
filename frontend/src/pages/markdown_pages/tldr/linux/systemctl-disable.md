@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Disable - Control Services | Online Free DevTools by Hexmos"
 name: systemctl-disable
-path: /freedevtools/tldr/linux/systemctl-disable
+path: "/freedevtools/tldr/linux/systemctl-disable/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-disable/"
 description: "Control systemd services with systemctl disable. Stop services from running on boot and manage user services. Free online tool, no registration required."
 category: linux

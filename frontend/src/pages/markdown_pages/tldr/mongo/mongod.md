@@ -1,7 +1,7 @@
 ---
 title: "Control MongoDB Server - Manage Database Instances | Online Free DevTools by Hexmos"
 name: mongod
-path: /freedevtools/tldr/mongo/mongod
+path: "/freedevtools/tldr/mongo/mongod/"
 canonical: "https://hexmos.com/freedevtools/tldr/mongo/mongod/"
 description: "Control MongoDB server instances with mongod. Configure database paths, ports, and profiling levels using command line. Free online tool, no registration required."
 category: common

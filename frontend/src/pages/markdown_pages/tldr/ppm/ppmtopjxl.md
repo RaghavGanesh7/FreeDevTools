@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to PJXL - Image Conversion | Online Free DevTools by Hexmos"
 name: ppmtopjxl
-path: /freedevtools/tldr/ppm/ppmtopjxl
+path: "/freedevtools/tldr/ppm/ppmtopjxl/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtopjxl/"
 description: "Convert PPM to PJXL format with ppmtopjxl. Resize and shift images easily. Free online tool, no registration required. Optimize images quickly."
 category: common

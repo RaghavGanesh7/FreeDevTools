@@ -1,7 +1,7 @@
 ---
 title: "Debugfs - Debug Linux Filesystems | Online Free DevTools by Hexmos"
 name: debugfs
-path: /freedevtools/tldr/linux/debugfs
+path: "/freedevtools/tldr/linux/debugfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/debugfs/"
 description: "Debug Linux ext2/ext3/ext4 filesystems with Debugfs. Inspect file system metadata, recover deleted files, and troubleshoot file system issues. Free online tool, no registration required."
 category: linux

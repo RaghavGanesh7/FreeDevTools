@@ -1,7 +1,7 @@
 ---
 title: "Control npm Stop - Manage Scripts | Online Free DevTools by Hexmos"
 name: npm-stop
-path: /freedevtools/tldr/npm/npm-stop
+path: "/freedevtools/tldr/npm/npm-stop/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-stop/"
 description: "Control npm stop scripts with this command alias.  Run, terminate, and manage Node.js processes efficiently. Free online tool, no registration required."
 category: common

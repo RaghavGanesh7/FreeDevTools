@@ -1,7 +1,7 @@
 ---
 title: "QM Move Disk - Migrate VM Storage | Online Free DevTools by Hexmos"
 name: qm-move_disk
-path: /freedevtools/tldr/linux/qm-move_disk
+path: "/freedevtools/tldr/linux/qm-move_disk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-move_disk/"
 description: "Migrate VM storage easily with QM Move Disk. Transfer virtual machine disks between storage pools on Proxmox. Free online tool, no registration required."
 category: linux

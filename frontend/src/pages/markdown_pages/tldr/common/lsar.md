@@ -1,7 +1,7 @@
 ---
 title: "List Archive - View Archive Contents | Online Free DevTools by Hexmos"
 name: lsar
-path: /freedevtools/tldr/common/lsar
+path: "/freedevtools/tldr/common/lsar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lsar/"
 description: "List archive file contents with Lsar. Inspect, test integrity, and view archive contents in JSON. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compile XeTeX - Generate PDF Documents | Online Free DevTools by Hexmos"
 name: xetex
-path: /freedevtools/tldr/common/xetex
+path: "/freedevtools/tldr/common/xetex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xetex/"
 description: "Compile PDF documents with XeTeX. Generate professional-quality documents from LaTeX source. Free online tool, no registration required."
 category: common

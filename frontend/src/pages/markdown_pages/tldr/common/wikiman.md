@@ -1,7 +1,7 @@
 ---
 title: "Search Documentation Offline - wikiman Search Tool | Online Free DevTools by Hexmos"
 name: wikiman
-path: /freedevtools/tldr/common/wikiman
+path: "/freedevtools/tldr/common/wikiman/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wikiman/"
 description: "Search documentation offline with wikiman. Quickly find information in manual pages, Arch Wiki, and other sources using a command-line interface. Free online tool, no registration required."
 category: common

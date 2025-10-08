@@ -1,7 +1,7 @@
 ---
 title: "Control Travis CI - Interface with CLI | Online Free DevTools by Hexmos"
 name: travis
-path: /freedevtools/tldr/common/travis
+path: "/freedevtools/tldr/common/travis/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/travis/"
 description: "Control Travis CI with the command-line interface. Authenticate, manage repositories, encrypt values, and initialize projects quickly. Free online tool, no registration required."
 category: common

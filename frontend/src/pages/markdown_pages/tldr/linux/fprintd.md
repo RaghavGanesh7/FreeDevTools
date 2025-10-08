@@ -1,7 +1,7 @@
 ---
 title: "Manage Fingerprints - fprintd Control | Online Free DevTools by Hexmos"
 name: fprintd
-path: /freedevtools/tldr/linux/fprintd
+path: "/freedevtools/tldr/linux/fprintd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fprintd/"
 description: "Manage fingerprints with fprintd, a powerful command-line tool for fingerprint authentication.  Enroll, verify, and delete fingerprints easily. Free online tool, no registration required."
 category: linux

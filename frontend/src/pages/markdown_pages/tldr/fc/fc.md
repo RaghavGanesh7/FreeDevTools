@@ -1,7 +1,7 @@
 ---
 title: "FC - Edit and Run Commands | Online Free DevTools by Hexmos"
 name: fc
-path: /freedevtools/tldr/fc/fc
+path: "/freedevtools/tldr/fc/fc/"
 canonical: "https://hexmos.com/freedevtools/tldr/fc/fc/"
 description: "Edit and run commands from your command history with FC. Quickly modify previous shell commands and execute them in Bash. Free online tool, no registration required."
 category: common

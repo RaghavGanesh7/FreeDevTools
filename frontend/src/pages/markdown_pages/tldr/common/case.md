@@ -1,7 +1,7 @@
 ---
 title: "Control Case Statements - Bash Multi-Choice | Online Free DevTools by Hexmos"
 name: case
-path: /freedevtools/tldr/common/case
+path: "/freedevtools/tldr/common/case/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/case/"
 description: "Control branching logic with Case statements in Bash. Enhance shell scripting with multi-choice conditional execution. Free online tool, no registration required."
 category: common

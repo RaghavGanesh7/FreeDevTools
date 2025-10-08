@@ -1,7 +1,7 @@
 ---
 title: "Helm Install - Deploy Charts | Online Free DevTools by Hexmos"
 name: helm-install
-path: /freedevtools/tldr/common/helm-install
+path: "/freedevtools/tldr/common/helm-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/helm-install/"
 description: "Install Helm charts with Helm Install. Streamline Kubernetes deployments using package manager commands. Free online tool, no registration required."
 category: common

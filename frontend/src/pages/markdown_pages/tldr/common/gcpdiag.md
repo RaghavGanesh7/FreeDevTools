@@ -1,7 +1,7 @@
 ---
 title: "GCP Diagnostics - Troubleshoot Google Cloud with gcpdiag | Online Free DevTools by Hexmos"
 name: gcpdiag
-path: /freedevtools/tldr/common/gcpdiag
+path: "/freedevtools/tldr/common/gcpdiag/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gcpdiag/"
 description: "Troubleshoot your GCP infrastructure with gcpdiag. Analyze logs, metrics, and configurations to identify and resolve issues quickly. Free online tool, no registration required."
 category: common

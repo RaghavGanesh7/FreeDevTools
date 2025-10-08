@@ -1,7 +1,7 @@
 ---
 title: "DC Calculator - Precise Calculations with RPN | Online Free DevTools by Hexmos"
 name: dc
-path: /freedevtools/tldr/common/dc
+path: "/freedevtools/tldr/common/dc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dc/"
 description: "Perform precise calculations with DC Calculator using Reverse Polish Notation. Execute scripts, calculate expressions and manage decimal precision with ease. Free online tool, no registration required."
 category: common

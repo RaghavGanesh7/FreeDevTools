@@ -1,7 +1,7 @@
 ---
 title: "Retrieve NPM Funding - Manage Package Funding | Online Free DevTools by Hexmos"
 name: npm-fund
-path: /freedevtools/tldr/npm/npm-fund
+path: "/freedevtools/tldr/npm/npm-fund/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-fund/"
 description: "Retrieve NPM package funding information with npm-fund. Discover package funding URLs and open them directly in your browser. Free online tool, no registration required."
 category: common

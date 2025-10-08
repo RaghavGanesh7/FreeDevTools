@@ -1,7 +1,7 @@
 ---
 title: "Change Password - Update User Passwords | Online Free DevTools by Hexmos"
 name: passwd
-path: /freedevtools/tldr/common/passwd
+path: "/freedevtools/tldr/common/passwd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/passwd/"
 description: "Change password on Linux or macOS systems with passwd command. Secure user accounts, manage password policies, and update credentials easily. Free online tool, no registration required."
 category: common

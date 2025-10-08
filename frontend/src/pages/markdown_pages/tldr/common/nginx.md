@@ -1,7 +1,7 @@
 ---
 title: "Nginx Web Server - Control Configuration | Online Free DevTools by Hexmos"
 name: nginx
-path: /freedevtools/tldr/common/nginx
+path: "/freedevtools/tldr/common/nginx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nginx/"
 description: "Control Nginx web server configuration with ease. Configure, test, and reload your server setup without downtime. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pwlauncher - Manage Windows To Go Startup | Online Free DevTools by Hexmos"
 name: pwlauncher
-path: /freedevtools/tldr/windows/pwlauncher
+path: "/freedevtools/tldr/windows/pwlauncher/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pwlauncher/"
 description: "Manage Windows To Go startup options with pwlauncher. Enable or disable Windows To Go, control boot behavior. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Inputattach - Attach Devices to Input System | Online Free DevTools by Hexmos"
 name: inputattach
-path: /freedevtools/tldr/linux/inputattach
+path: "/freedevtools/tldr/linux/inputattach/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/inputattach/"
 description: "Attach devices to the Linux input system with Inputattach. Configure and manage input devices using the command line interface. Free online tool, no registration required."
 category: linux

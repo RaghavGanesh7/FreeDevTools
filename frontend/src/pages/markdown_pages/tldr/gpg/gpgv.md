@@ -1,7 +1,7 @@
 ---
 title: "GPGV Signature Verify - Validate OpenPGP Signatures | Online Free DevTools by Hexmos"
 name: gpgv
-path: /freedevtools/tldr/gpg/gpgv
+path: "/freedevtools/tldr/gpg/gpgv/"
 canonical: "https://hexmos.com/freedevtools/tldr/gpg/gpgv/"
 description: "Verify OpenPGP signatures with GPGV, ensuring data integrity. Validate detached signatures and manage keyrings using the command line. Free online tool, no registration required."
 category: common

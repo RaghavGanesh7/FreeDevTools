@@ -1,7 +1,7 @@
 ---
 title: "LXC Info - Control Linux Containers | Online Free DevTools by Hexmos"
 name: lxc-info
-path: /freedevtools/tldr/linux/lxc-info
+path: "/freedevtools/tldr/linux/lxc-info/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-info/"
 description: "Control Linux containers with LXC Info. Query container configurations and retrieve vital system data. Free online tool, no registration required."
 category: linux

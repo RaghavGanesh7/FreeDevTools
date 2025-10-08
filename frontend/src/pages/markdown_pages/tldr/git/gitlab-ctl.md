@@ -1,7 +1,7 @@
 ---
 title: "Gitlab Control - Manage GitLab Services | Online Free DevTools by Hexmos"
 name: gitlab-ctl
-path: /freedevtools/tldr/git/gitlab-ctl
+path: "/freedevtools/tldr/git/gitlab-ctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitlab-ctl/"
 description: "Control GitLab services effectively with gitlab-ctl. Manage, restart, and monitor GitLab components efficiently. Free online tool, no registration required."
 category: common

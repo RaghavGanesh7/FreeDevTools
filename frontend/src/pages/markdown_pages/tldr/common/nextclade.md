@@ -1,7 +1,7 @@
 ---
 title: "Nextclade - Analyze Virus Genomes | Online Free DevTools by Hexmos"
 name: nextclade
-path: /freedevtools/tldr/common/nextclade
+path: "/freedevtools/tldr/common/nextclade/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nextclade/"
 description: "Analyze virus genomes with Nextclade. Perform sequence alignment, clade assignment, and QC checks. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compile Pascal Code - Pabcnetcclear Compiler | Online Free DevTools by Hexmos"
 name: pabcnetcclear
-path: /freedevtools/tldr/windows/pabcnetcclear
+path: "/freedevtools/tldr/windows/pabcnetcclear/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pabcnetcclear/"
 description: "Compile Pascal code with Pabcnetcclear. Preprocess and compile PascalABC.NET source files into executables, with debug options. Free online tool, no registration required."
 category: windows

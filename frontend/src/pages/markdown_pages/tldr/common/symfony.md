@@ -1,7 +1,7 @@
 ---
 title: "Create Symfony Projects - Manage Apps | Online Free DevTools by Hexmos"
 name: symfony
-path: /freedevtools/tldr/common/symfony
+path: "/freedevtools/tldr/common/symfony/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/symfony/"
 description: "Create Symfony projects and manage your apps effortlessly with Symfony. Check security vulnerabilities, and run local servers with ease. Free online tool, no registration required."
 category: common

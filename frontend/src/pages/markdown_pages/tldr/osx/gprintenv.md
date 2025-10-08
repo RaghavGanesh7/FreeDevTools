@@ -1,7 +1,7 @@
 ---
 title: "Printenv - Display Environment Variables | Online Free DevTools by Hexmos"
 name: gprintenv
-path: /freedevtools/tldr/osx/gprintenv
+path: "/freedevtools/tldr/osx/gprintenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gprintenv/"
 description: "Display system environment variables with Printenv. View, manage, and troubleshoot your environment settings using this command line tool. Free online tool, no registration required."
 category: osx

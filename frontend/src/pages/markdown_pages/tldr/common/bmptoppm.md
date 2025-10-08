@@ -1,7 +1,7 @@
 ---
 title: "BMP to PPM - Format Bitmap Images | Online Free DevTools by Hexmos"
 name: bmptoppm
-path: /freedevtools/tldr/common/bmptoppm
+path: "/freedevtools/tldr/common/bmptoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bmptoppm/"
 description: "Format BMP images with bmptoppm. Convert bitmap images to PPM format for easy manipulation. Free online tool, no registration required."
 category: common

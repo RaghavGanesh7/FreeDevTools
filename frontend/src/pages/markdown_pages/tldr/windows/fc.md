@@ -1,7 +1,7 @@
 ---
 title: "Compare Files - Find File Differences with FC | Online Free DevTools by Hexmos"
 name: fc
-path: /freedevtools/tldr/windows/fc
+path: "/freedevtools/tldr/windows/fc/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/fc/"
 description: "Find file differences instantly with FC. Compare file content and identify changes across various file types. Free online tool, no registration required."
 category: windows

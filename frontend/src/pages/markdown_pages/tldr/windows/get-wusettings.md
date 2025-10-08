@@ -1,7 +1,7 @@
 ---
 title: "Get Windows Update Settings - Control WUA Configuration | Online Free DevTools by Hexmos"
 name: get-wusettings
-path: /freedevtools/tldr/windows/get-wusettings
+path: "/freedevtools/tldr/windows/get-wusettings/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-wusettings/"
 description: "Get Windows Update settings with Get-WUSettings. Easily control Windows Update Agent configuration and retrieve current settings using PowerShell. Free online tool, no registration required."
 category: windows

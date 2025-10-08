@@ -1,7 +1,7 @@
 ---
 title: "Chroot Command - Control Root Directory | Online Free DevTools by Hexmos"
 name: chroot
-path: /freedevtools/tldr/common/chroot
+path: "/freedevtools/tldr/common/chroot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chroot/"
 description: "Control root directory with Chroot Command. Isolate processes and enhance system security. Free online tool, no registration required."
 category: common

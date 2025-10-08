@@ -1,7 +1,7 @@
 ---
 title: "Mingle - Bundle Graph Edges | Online Free DevTools by Hexmos"
 name: mingle
-path: /freedevtools/tldr/common/mingle
+path: "/freedevtools/tldr/common/mingle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mingle/"
 description: "Bundle graph edges with Mingle. Optimize graph layouts and create cleaner visualizations by grouping related edges. Free online tool, no registration required."
 category: common

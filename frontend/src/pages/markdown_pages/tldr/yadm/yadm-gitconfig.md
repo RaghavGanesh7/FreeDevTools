@@ -1,7 +1,7 @@
 ---
 title: "YADM Gitconfig - Control Repository Config | Online Free DevTools by Hexmos"
 name: yadm-gitconfig
-path: /freedevtools/tldr/yadm/yadm-gitconfig
+path: "/freedevtools/tldr/yadm/yadm-gitconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/yadm/yadm-gitconfig/"
 description: "Control repository configurations with YADM Gitconfig. Manage local Git configurations within YADM managed repositories using command-line interface. Free online tool, no registration required."
 category: common

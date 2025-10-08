@@ -1,7 +1,7 @@
 ---
 title: "YPCHPASS - Manage NIS Passwords | Online Free DevTools by Hexmos"
 name: ypchpass
-path: /freedevtools/tldr/freebsd/ypchpass
+path: "/freedevtools/tldr/freebsd/ypchpass/"
 canonical: "https://hexmos.com/freedevtools/tldr/freebsd/ypchpass/"
 description: "Manage NIS passwords easily with YPCHPASS. A streamlined interface for updating user credentials in your network information service domain. Free online tool, no registration required."
 category: freebsd

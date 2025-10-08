@@ -1,7 +1,7 @@
 ---
 title: "Copy Files - Manage Docker Filesystems with Docker CP | Online Free DevTools by Hexmos"
 name: docker-cp
-path: /freedevtools/tldr/docker/docker-cp
+path: "/freedevtools/tldr/docker/docker-cp/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-cp/"
 description: "Manage Docker filesystems effortlessly with Docker CP. Transfer files between host and container, ensuring seamless data movement. Free online tool, no registration required."
 category: common

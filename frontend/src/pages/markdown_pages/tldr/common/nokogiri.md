@@ -1,7 +1,7 @@
 ---
 title: "Nokogiri Parser - Parse XML and HTML | Online Free DevTools by Hexmos"
 name: nokogiri
-path: /freedevtools/tldr/common/nokogiri
+path: "/freedevtools/tldr/common/nokogiri/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nokogiri/"
 description: "Parse XML and HTML documents with Nokogiri Parser. Validate XML, parse HTML, and handle SAX events with this versatile tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pacman Query - Search Packages | Online Free DevTools by Hexmos"
 name: pacman-q
-path: /freedevtools/tldr/linux/pacman-q
+path: "/freedevtools/tldr/linux/pacman-q/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-q/"
 description: "Search packages with Pacman Query. Find package information, dependencies, and installed versions easily using the command line. Free online tool, no registration required."
 category: linux

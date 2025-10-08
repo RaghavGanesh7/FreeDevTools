@@ -1,7 +1,7 @@
 ---
 title: "Keyctl - Control Linux Kernel Keyrings | Online Free DevTools by Hexmos"
 name: keyctl
-path: /freedevtools/tldr/linux/keyctl
+path: "/freedevtools/tldr/linux/keyctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/keyctl/"
 description: "Control Linux kernel keyrings with Keyctl. Manage, add, timeout and revoke kernel keys. Free online tool, no registration required."
 category: linux

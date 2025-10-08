@@ -1,7 +1,7 @@
 ---
 title: "Convert TIFF to PNM - Create PNM Images | Online Free DevTools by Hexmos"
 name: tifftopnm
-path: /freedevtools/tldr/common/tifftopnm
+path: "/freedevtools/tldr/common/tifftopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tifftopnm/"
 description: "Convert TIFF images to PNM format with tifftopnm. Generate PNM images from TIFF files, including alpha channel extraction. Free online tool, no registration required."
 category: common

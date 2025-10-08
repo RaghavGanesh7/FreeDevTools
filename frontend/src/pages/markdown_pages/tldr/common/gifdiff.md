@@ -1,7 +1,7 @@
 ---
 title: "GIF Diff - Compare Images Visually | Online Free DevTools by Hexmos"
 name: gifdiff
-path: /freedevtools/tldr/common/gifdiff
+path: "/freedevtools/tldr/common/gifdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gifdiff/"
 description: "Compare GIF images visually with GIF Diff. Identify differences between GIFs quickly and easily. Free online tool, no registration required."
 category: common

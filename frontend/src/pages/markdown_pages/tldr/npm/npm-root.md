@@ -1,7 +1,7 @@
 ---
 title: "NPM Root - Display NPM Module Path | Online Free DevTools by Hexmos"
 name: npm-root
-path: /freedevtools/tldr/npm/npm-root
+path: "/freedevtools/tldr/npm/npm-root/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-root/"
 description: "Display NPM module paths with NPM Root. Quickly find local and global node_modules directories. Free online tool, no registration required."
 category: common

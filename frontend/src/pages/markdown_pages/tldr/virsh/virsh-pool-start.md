@@ -1,7 +1,7 @@
 ---
 title: "Virsh Pool Start - Create Storage Pools | Online Free DevTools by Hexmos"
 name: virsh-pool-start
-path: /freedevtools/tldr/virsh/virsh-pool-start
+path: "/freedevtools/tldr/virsh/virsh-pool-start/"
 canonical: "https://hexmos.com/freedevtools/tldr/virsh/virsh-pool-start/"
 description: "Create virtual machine storage pools with Virsh Pool Start. Manage and build storage systems using the virsh command line tool. Free online tool, no registration required."
 category: common

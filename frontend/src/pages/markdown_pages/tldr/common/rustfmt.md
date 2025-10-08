@@ -1,7 +1,7 @@
 ---
 title: "Format Rust Code - Instantly Improve Code Style | Online Free DevTools by Hexmos"
 name: rustfmt
-path: /freedevtools/tldr/common/rustfmt
+path: "/freedevtools/tldr/common/rustfmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rustfmt/"
 description: "Format Rust code quickly with Rustfmt, ensuring consistent style across projects. Improve readability and maintainability of Rust projects. Free online tool, no registration required."
 category: common

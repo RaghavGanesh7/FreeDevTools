@@ -1,7 +1,7 @@
 ---
 title: "Convert HTML to PDF - wkhtmltopdf | Online Free DevTools by Hexmos"
 name: wkhtmltopdf
-path: /freedevtools/tldr/common/wkhtmltopdf
+path: "/freedevtools/tldr/common/wkhtmltopdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wkhtmltopdf/"
 description: "Convert HTML documents to PDF with wkhtmltopdf. Generate professional-quality PDFs from web pages or HTML files with customizable options. Free online tool, no registration required."
 category: common

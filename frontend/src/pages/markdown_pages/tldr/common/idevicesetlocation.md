@@ -1,7 +1,7 @@
 ---
 title: "iDevice Location Setter - Simulate iOS Device Location | Online Free DevTools by Hexmos"
 name: idevicesetlocation
-path: /freedevtools/tldr/common/idevicesetlocation
+path: "/freedevtools/tldr/common/idevicesetlocation/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevicesetlocation/"
 description: "Simulate iOS device location with iDevice Location Setter. Adjust latitude and longitude to test location-based features. Free online tool, no registration required."
 category: common

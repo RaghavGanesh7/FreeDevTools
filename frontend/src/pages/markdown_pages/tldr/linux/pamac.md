@@ -1,7 +1,7 @@
 ---
 title: "Pamac Package Manager - Manage Linux Packages | Online Free DevTools by Hexmos"
 name: pamac
-path: /freedevtools/tldr/linux/pamac
+path: "/freedevtools/tldr/linux/pamac/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pamac/"
 description: "Manage Linux packages efficiently with Pamac. Install, remove, search, update, and upgrade packages using the command line. Free online tool, no registration required."
 category: linux

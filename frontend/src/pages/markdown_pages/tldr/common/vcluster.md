@@ -1,7 +1,7 @@
 ---
 title: "vcluster - Create Virtual Kubernetes Clusters | Online Free DevTools by Hexmos"
 name: vcluster
-path: /freedevtools/tldr/common/vcluster
+path: "/freedevtools/tldr/common/vcluster/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vcluster/"
 description: "Create lightweight Kubernetes clusters with vcluster. Manage isolated development environments and improve resource utilization using namespaces. Free online tool, no registration required."
 category: common

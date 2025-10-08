@@ -1,7 +1,7 @@
 ---
 title: "VGChange - Control LVM Volume Groups | Online Free DevTools by Hexmos"
 name: vgchange
-path: /freedevtools/tldr/linux/vgchange
+path: "/freedevtools/tldr/linux/vgchange/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vgchange/"
 description: "Control Linux LVM volume groups with VGChange. Activate/deactivate logical volumes and manage disk space allocation efficiently. Free online tool, no registration required."
 category: linux

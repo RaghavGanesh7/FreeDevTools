@@ -1,7 +1,7 @@
 ---
 title: "PWD Command - Determine Current Directory | Online Free DevTools by Hexmos"
 name: pwd
-path: /freedevtools/tldr/windows/pwd
+path: "/freedevtools/tldr/windows/pwd/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pwd/"
 description: "Determine current directory with the PWD command. Find the absolute path of your present working directory across various systems. Free online tool, no registration required."
 category: windows

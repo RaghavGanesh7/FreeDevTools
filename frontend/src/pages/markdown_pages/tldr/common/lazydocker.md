@@ -1,7 +1,7 @@
 ---
 title: "Control Docker Containers - lazydocker Management | Online Free DevTools by Hexmos"
 name: lazydocker
-path: /freedevtools/tldr/common/lazydocker
+path: "/freedevtools/tldr/common/lazydocker/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lazydocker/"
 description: "Control Docker containers effortlessly with lazydocker. Manage images, volumes, and networks through a terminal UI. Free online tool, no registration required."
 category: common

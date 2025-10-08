@@ -1,7 +1,7 @@
 ---
 title: "Pacman Game - Play Pacman4Console in Linux | Online Free DevTools by Hexmos"
 name: pacman4console
-path: /freedevtools/tldr/linux/pacman4console
+path: "/freedevtools/tldr/linux/pacman4console/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman4console/"
 description: "Play retro games with Pacman4Console on Linux. Enjoy classic Pacman gameplay in your terminal and customize levels. Free online tool, no registration required."
 category: linux

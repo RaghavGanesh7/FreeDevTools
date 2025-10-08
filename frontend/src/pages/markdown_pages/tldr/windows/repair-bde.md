@@ -1,7 +1,7 @@
 ---
 title: "Repair BDE - Decrypt Damaged Volumes | Online Free DevTools by Hexmos"
 name: repair-bde
-path: /freedevtools/tldr/windows/repair-bde
+path: "/freedevtools/tldr/windows/repair-bde/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/repair-bde/"
 description: "Decrypt damaged BitLocker volumes with Repair BDE. Recover data from encrypted drives using command line interface. Free online tool, no registration required."
 category: windows

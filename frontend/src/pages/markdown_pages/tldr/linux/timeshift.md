@@ -1,7 +1,7 @@
 ---
 title: "Timeshift - Restore System Snapshots | Online Free DevTools by Hexmos"
 name: timeshift
-path: /freedevtools/tldr/linux/timeshift
+path: "/freedevtools/tldr/linux/timeshift/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/timeshift/"
 description: "Restore system snapshots with Timeshift. Back up and recover your Linux system with ease using this powerful utility. Free online tool, no registration required."
 category: linux

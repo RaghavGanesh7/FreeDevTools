@@ -1,7 +1,7 @@
 ---
 title: "Cryptsetup - Manage Encrypted Volumes | Online Free DevTools by Hexmos"
 name: cryptsetup
-path: /freedevtools/tldr/linux/cryptsetup
+path: "/freedevtools/tldr/linux/cryptsetup/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cryptsetup/"
 description: "Manage encrypted volumes with Cryptsetup, a powerful command-line tool for Linux.  Format, open, and manage LUKS encrypted partitions easily. Free online tool, no registration required."
 category: linux

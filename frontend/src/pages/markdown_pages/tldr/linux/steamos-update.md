@@ -1,7 +1,7 @@
 ---
 title: "SteamOS Update - Manage Operating System Updates | Online Free DevTools by Hexmos"
 name: steamos-update
-path: /freedevtools/tldr/linux/steamos-update
+path: "/freedevtools/tldr/linux/steamos-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/steamos-update/"
 description: "Manage SteamOS updates effortlessly with steamos-update. Update your operating system and check for available updates through the command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "List iOS Devices - Control Device IDs | Online Free DevTools by Hexmos"
 name: idevice_id
-path: /freedevtools/tldr/common/idevice_id
+path: "/freedevtools/tldr/common/idevice_id/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idevice_id/"
 description: "List iOS devices with idevice_id. Retrieve UDIDs and manage connected Apple devices through command line. Free online tool, no registration required."
 category: common

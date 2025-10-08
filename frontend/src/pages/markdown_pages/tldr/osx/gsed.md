@@ -1,7 +1,7 @@
 ---
 title: "GSed - Stream Edit Text | Online Free DevTools by Hexmos"
 name: gsed
-path: /freedevtools/tldr/osx/gsed
+path: "/freedevtools/tldr/osx/gsed/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsed/"
 description: "Stream edit text with GSed on MacOS. Perform find and replace, filter lines, and automate text transformations. Free online tool, no registration required."
 category: osx

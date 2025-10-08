@@ -1,7 +1,7 @@
 ---
 title: "Prolog Interpreter - Execute Prolog Code | Online Free DevTools by Hexmos"
 name: swipl
-path: /freedevtools/tldr/common/swipl
+path: "/freedevtools/tldr/common/swipl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swipl/"
 description: "Execute Prolog code with SWI-Prolog Interpreter. Run scripts, display runtime variables, and debug Prolog applications. Free online tool, no registration required."
 category: common

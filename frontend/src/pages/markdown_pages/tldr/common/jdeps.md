@@ -1,7 +1,7 @@
 ---
 title: "Analyze Java Dependencies - With jdeps | Online Free DevTools by Hexmos"
 name: jdeps
-path: /freedevtools/tldr/common/jdeps
+path: "/freedevtools/tldr/common/jdeps/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jdeps/"
 description: "Analyze Java dependencies with jdeps. Identify class dependencies, generate summaries, and create DOT files for visualization. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Create Delta Patches - xdelta File Differencing | Online Free DevTools by Hexmos"
 name: xdelta
-path: /freedevtools/tldr/common/xdelta
+path: "/freedevtools/tldr/common/xdelta/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xdelta/"
 description: "Create delta patches with xdelta for efficient file differencing. Reduce file sizes by generating compact patches for software updates. Free online tool, no registration required."
 category: common

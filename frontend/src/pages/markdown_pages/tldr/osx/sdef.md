@@ -1,7 +1,7 @@
 ---
 title: "Generate sdef - Create Scripting Definitions | Online Free DevTools by Hexmos"
 name: sdef
-path: /freedevtools/tldr/osx/sdef
+path: "/freedevtools/tldr/osx/sdef/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/sdef/"
 description: "Generate scripting definitions with sdef, a powerful command line interface for macOS. Automate application scripting. Free online tool, no registration required."
 category: osx

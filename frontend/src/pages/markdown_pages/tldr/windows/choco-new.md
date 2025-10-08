@@ -1,7 +1,7 @@
 ---
 title: "Generate Chocolatey Packages - choco-new | Online Free DevTools by Hexmos"
 name: choco-new
-path: /freedevtools/tldr/windows/choco-new
+path: "/freedevtools/tldr/windows/choco-new/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/choco-new/"
 description: "Generate Chocolatey package specification files quickly with choco-new. Streamline package creation, define versions, and customize output directories. Free online tool, no registration required."
 category: windows

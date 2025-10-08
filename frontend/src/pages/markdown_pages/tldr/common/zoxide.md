@@ -1,7 +1,7 @@
 ---
 title: "Control Directories - Zoxide Directory Jumper | Online Free DevTools by Hexmos"
 name: zoxide
-path: /freedevtools/tldr/common/zoxide
+path: "/freedevtools/tldr/common/zoxide/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zoxide/"
 description: "Control directories quickly with Zoxide, a smart directory jumper for command line. Navigate efficiently based on ranking algorithm. Free online tool, no registration required."
 category: common

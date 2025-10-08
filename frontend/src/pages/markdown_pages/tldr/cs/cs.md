@@ -1,7 +1,7 @@
 ---
 title: "Control Scala Apps - Manage Artifacts with cs | Online Free DevTools by Hexmos"
 name: cs
-path: /freedevtools/tldr/cs/cs
+path: "/freedevtools/tldr/cs/cs/"
 canonical: "https://hexmos.com/freedevtools/tldr/cs/cs/"
 description: "Manage Scala apps instantly with cs, the Scala artifact manager. Install, update, and setup Scala development environments quickly. Free online tool, no registration required."
 category: common

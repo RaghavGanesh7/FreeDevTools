@@ -1,7 +1,7 @@
 ---
 title: "Restore QemuServer - Recover VM Backups | Online Free DevTools by Hexmos"
 name: qmrestore
-path: /freedevtools/tldr/linux/qmrestore
+path: "/freedevtools/tldr/linux/qmrestore/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qmrestore/"
 description: "Restore QemuServer backups with qmrestore. Easily recover virtual machines from vzdump archives on Proxmox, force overwrites, and live-restore. Free online tool, no registration required."
 category: linux

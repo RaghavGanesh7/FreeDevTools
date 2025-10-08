@@ -1,7 +1,7 @@
 ---
 title: "Times - Print CPU Usage | Online Free DevTools by Hexmos"
 name: times
-path: /freedevtools/tldr/common/times
+path: "/freedevtools/tldr/common/times/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/times/"
 description: "Print CPU usage with Times, a powerful command line tool for monitoring system performance. Analyze process times and optimize resource allocation. Free online tool, no registration required."
 category: common

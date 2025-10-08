@@ -1,7 +1,7 @@
 ---
 title: "Impacket SMB Server - Create SMB Shares | Online Free DevTools by Hexmos"
 name: impacket-smbserver
-path: /freedevtools/tldr/impacket/impacket-smbserver
+path: "/freedevtools/tldr/impacket/impacket-smbserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/impacket/impacket-smbserver/"
 description: "Create SMB shares easily with Impacket SMB Server. Quickly setup file sharing on your network for easy file transfers. Free online tool, no registration required."
 category: common

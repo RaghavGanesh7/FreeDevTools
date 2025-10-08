@@ -1,7 +1,7 @@
 ---
 title: "CHCPU - Control CPU States on Linux | Online Free DevTools by Hexmos"
 name: chcpu
-path: /freedevtools/tldr/linux/chcpu
+path: "/freedevtools/tldr/linux/chcpu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chcpu/"
 description: "Control CPU states on Linux with CHCPU. Enable, disable, and manage CPU cores efficiently using this command-line tool. Free online tool, no registration required."
 category: linux

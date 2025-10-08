@@ -1,7 +1,7 @@
 ---
 title: "DNS Lookup - Query DNS Records with Doggo | Online Free DevTools by Hexmos"
 name: doggo
-path: /freedevtools/tldr/common/doggo
+path: "/freedevtools/tldr/common/doggo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/doggo/"
 description: "Perform DNS lookup with Doggo, a fast DNS client for querying DNS records and resolving domains. Free online tool, no registration required."
 category: common

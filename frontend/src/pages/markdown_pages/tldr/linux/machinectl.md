@@ -1,7 +1,7 @@
 ---
 title: "Control Machines with machinectl | Online Free DevTools by Hexmos"
 name: machinectl
-path: /freedevtools/tldr/linux/machinectl
+path: "/freedevtools/tldr/linux/machinectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/machinectl/"
 description: "Control systemd machine manager with machinectl. Manage virtual machines, containers, and images using simple commands. Free online tool, no registration required."
 category: linux

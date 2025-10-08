@@ -1,7 +1,7 @@
 ---
 title: "yt-dlp - Download YouTube Videos and Playlists | Online Free DevTools by Hexmos"
 name: yt-dlp
-path: /freedevtools/tldr/common/yt-dlp
+path: "/freedevtools/tldr/common/yt-dlp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yt-dlp/"
 description: "Download YouTube videos and playlists easily with yt-dlp. Extract audio, specify formats, and download specific playlist items. Free online tool, no registration required."
 category: common

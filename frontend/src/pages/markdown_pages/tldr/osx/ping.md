@@ -1,7 +1,7 @@
 ---
 title: "Ping - Test Network Connectivity on OSX | Online Free DevTools by Hexmos"
 name: ping
-path: /freedevtools/tldr/osx/ping
+path: "/freedevtools/tldr/osx/ping/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ping/"
 description: "Test network connectivity with Ping on OSX. Diagnose network issues and verify host reachability using ICMP packets. Free online tool, no registration required."
 category: osx

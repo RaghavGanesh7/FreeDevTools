@@ -1,7 +1,7 @@
 ---
 title: "IFS Control - Manage Shell Delimiters | Online Free DevTools by Hexmos"
 name: ifs
-path: /freedevtools/tldr/common/ifs
+path: "/freedevtools/tldr/common/ifs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ifs/"
 description: "Control shell delimiters with IFS (Internal Field Separator). Customize word splitting in shell scripts for precise data manipulation. Free online tool, no registration required."
 category: common

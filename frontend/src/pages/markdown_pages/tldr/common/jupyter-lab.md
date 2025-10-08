@@ -1,7 +1,7 @@
 ---
 title: "JupyterLab - Develop Interactive Notebooks | Online Free DevTools by Hexmos"
 name: jupyter-lab
-path: /freedevtools/tldr/common/jupyter-lab
+path: "/freedevtools/tldr/common/jupyter-lab/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jupyter-lab/"
 description: "Develop interactive notebooks with JupyterLab. Create, edit, and run Jupyter notebooks seamlessly using this development environment. Free online tool, no registration required."
 category: common

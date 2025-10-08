@@ -1,7 +1,7 @@
 ---
 title: "Sox - Convert Audio Files | Online Free DevTools by Hexmos"
 name: sox
-path: /freedevtools/tldr/common/sox
+path: "/freedevtools/tldr/common/sox/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sox/"
 description: "Convert audio files easily with Sox. Modify, normalize, and reverse audio using command line interface. Free online tool, no registration required."
 category: common

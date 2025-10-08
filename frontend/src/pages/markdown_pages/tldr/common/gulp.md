@@ -1,7 +1,7 @@
 ---
 title: "Gulp - Automate JavaScript Tasks | Online Free DevTools by Hexmos"
 name: gulp
-path: /freedevtools/tldr/common/gulp
+path: "/freedevtools/tldr/common/gulp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gulp/"
 description: "Automate JavaScript tasks with Gulp. Streamline your build process, minify files, and optimize web performance. Free online tool, no registration required."
 category: common

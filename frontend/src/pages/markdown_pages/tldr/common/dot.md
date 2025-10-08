@@ -1,7 +1,7 @@
 ---
 title: "Generate Graphviz Images - DOT Render Online | Online Free DevTools by Hexmos"
 name: dot
-path: "/freedevtools/tldr/common/dot"
+path: "/freedevtools/tldr/common/dot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dot/"
 description: "Generate graphviz images instantly with DOT render online. Create directed graphs, control layout, and export to various formats with this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Uniq Command - Filter Unique Lines | Online Free DevTools by Hexmos"
 name: uniq
-path: /freedevtools/tldr/common/uniq
+path: "/freedevtools/tldr/common/uniq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/uniq/"
 description: "Filter duplicate lines with Uniq Command, enabling easy data cleaning and analysis. Identify unique entries from files. Free online tool, no registration required."
 category: common

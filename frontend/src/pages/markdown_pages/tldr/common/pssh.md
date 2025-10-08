@@ -1,7 +1,7 @@
 ---
 title: "PSSH Control - Parallel SSH Execution | Online Free DevTools by Hexmos"
 name: pssh
-path: /freedevtools/tldr/common/pssh
+path: "/freedevtools/tldr/common/pssh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pssh/"
 description: "Control parallel SSH connections with PSSH. Execute commands on multiple servers simultaneously for efficient system administration. Free online tool, no registration required."
 category: common

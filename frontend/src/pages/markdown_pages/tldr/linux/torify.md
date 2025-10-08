@@ -1,7 +1,7 @@
 ---
 title: "Torify - Route Network Traffic Through Tor | Online Free DevTools by Hexmos"
 name: torify
-path: /freedevtools/tldr/linux/torify
+path: "/freedevtools/tldr/linux/torify/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/torify/"
 description: "Route network traffic securely with Torify.  This command-line tool provides anonymous browsing and enhances privacy. Free online tool, no registration required."
 category: linux

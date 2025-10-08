@@ -1,7 +1,7 @@
 ---
 title: "Firmware Update Tool - Update Device Firmware | Online Free DevTools by Hexmos"
 name: fwupdtool
-path: /freedevtools/tldr/linux/fwupdtool
+path: "/freedevtools/tldr/linux/fwupdtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fwupdtool/"
 description: "Update device firmware with fwupdtool. Manage device firmware installation and discovery on Linux systems. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Create Git Stacks - Manage Code Changes | Online Free DevTools by Hexmos"
 name: gt
-path: /freedevtools/tldr/common/gt
+path: "/freedevtools/tldr/common/gt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gt/"
 description: "Create git stacks with Graphite's 'gt' command. Manage dependent code changes and streamline your GitHub workflow. Free online tool, no registration required."
 category: common

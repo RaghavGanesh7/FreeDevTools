@@ -1,7 +1,7 @@
 ---
 title: "Create Docker Secrets - Manage Swarm Secrets | Online Free DevTools by Hexmos"
 name: docker-secret
-path: /freedevtools/tldr/docker/docker-secret
+path: "/freedevtools/tldr/docker/docker-secret/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-secret/"
 description: "Create Docker secrets securely with Docker Secret manager. Manage swarm secrets, store sensitive data, and improve container security. Free online tool, no registration required."
 category: common

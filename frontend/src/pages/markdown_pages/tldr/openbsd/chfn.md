@@ -1,7 +1,7 @@
 ---
 title: "Control User Info - chfn Command on OpenBSD | Online Free DevTools by Hexmos"
 name: chfn
-path: /freedevtools/tldr/openbsd/chfn
+path: "/freedevtools/tldr/openbsd/chfn/"
 canonical: "https://hexmos.com/freedevtools/tldr/openbsd/chfn/"
 description: "Control OpenBSD user information with chfn (change finger information). Modify user details like real name and office location via command line. Free online tool, no registration required."
 category: openbsd

@@ -1,7 +1,7 @@
 ---
 title: "Convert GEM to PBM - Format Image Files | Online Free DevTools by Hexmos"
 name: gemtopbm
-path: /freedevtools/tldr/common/gemtopbm
+path: "/freedevtools/tldr/common/gemtopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gemtopbm/"
 description: "Convert GEM image files to PBM format with gemtopbm. Process and transform legacy image formats easily. Free online tool, no registration required."
 category: common

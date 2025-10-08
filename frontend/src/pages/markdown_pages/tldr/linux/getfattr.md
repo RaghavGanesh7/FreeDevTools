@@ -1,7 +1,7 @@
 ---
 title: "Retrieve File Attributes - getfattr | Online Free DevTools by Hexmos"
 name: getfattr
-path: /freedevtools/tldr/linux/getfattr
+path: "/freedevtools/tldr/linux/getfattr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/getfattr/"
 description: "Retrieve file attributes with getfattr. Inspect extended attributes, filenames, and file metadata efficiently. Free online tool, no registration required."
 category: linux

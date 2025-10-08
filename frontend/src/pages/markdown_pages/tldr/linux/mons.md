@@ -1,7 +1,7 @@
 ---
 title: "Manage Displays - Control Linux Monitors with Mons | Online Free DevTools by Hexmos"
 name: mons
-path: /freedevtools/tldr/linux/mons
+path: "/freedevtools/tldr/linux/mons/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mons/"
 description: "Manage displays easily with Mons, a lightweight Linux monitor control tool. Configure screen mirroring, enable/disable monitors, and adjust resolutions. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Manage Packages - Control Yay, Flatpak, and Snap | Online Free DevTools by Hexmos"
 name: paxs
-path: /freedevtools/tldr/linux/paxs
+path: "/freedevtools/tldr/linux/paxs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/paxs/"
 description: "Manage packages across Yay, Flatpak, and Snap with paxs.  Search, install, remove, and upgrade packages effortlessly. Free online tool, no registration required."
 category: linux

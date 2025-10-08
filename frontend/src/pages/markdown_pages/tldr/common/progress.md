@@ -1,7 +1,7 @@
 ---
 title: "Progress Monitor - Control Coreutils Progress | Online Free DevTools by Hexmos"
 name: progress
-path: /freedevtools/tldr/common/progress
+path: "/freedevtools/tldr/common/progress/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/progress/"
 description: "Control coreutils progress with Progress Monitor. Track running processes, estimate time remaining and monitor command execution. Free online tool, no registration required."
 category: common

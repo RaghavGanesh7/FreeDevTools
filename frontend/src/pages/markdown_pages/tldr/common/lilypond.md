@@ -1,7 +1,7 @@
 ---
 title: "Lilypond - Typeset Music & Generate MIDI | Online Free DevTools by Hexmos"
 name: lilypond
-path: /freedevtools/tldr/common/lilypond
+path: "/freedevtools/tldr/common/lilypond/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lilypond/"
 description: "Typeset music with Lilypond & generate MIDI files from your scores. Convert Lilypond files to PDF and other formats. Free online tool, no registration required."
 category: common

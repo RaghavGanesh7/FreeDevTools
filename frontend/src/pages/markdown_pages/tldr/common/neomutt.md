@@ -1,7 +1,7 @@
 ---
 title: "Control NeoMutt - Manage Emails | Online Free DevTools by Hexmos"
 name: neomutt
-path: /freedevtools/tldr/common/neomutt
+path: "/freedevtools/tldr/common/neomutt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/neomutt/"
 description: "Control emails instantly with NeoMutt, a powerful command-line email client. Manage mailboxes, compose messages, and send attachments easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - Efficient Compression Tool | Online Free DevTools by Hexmos"
 name: ect
-path: /freedevtools/tldr/common/ect
+path: "/freedevtools/tldr/common/ect/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ect/"
 description: "Compress files efficiently with Efficient Compression Tool (ECT). Optimize PNG, JPEG, gzip and Zip files seamlessly with multithreading. Free online tool, no registration required."
 category: common

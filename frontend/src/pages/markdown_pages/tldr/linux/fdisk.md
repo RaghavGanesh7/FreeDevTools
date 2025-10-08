@@ -1,7 +1,7 @@
 ---
 title: "Fdisk - Manage Disk Partitions | Online Free DevTools by Hexmos"
 name: fdisk
-path: /freedevtools/tldr/linux/fdisk
+path: "/freedevtools/tldr/linux/fdisk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fdisk/"
 description: "Manage disk partitions with Fdisk on Linux. Create, delete, and view partition tables with this command-line tool. Free online tool, no registration required."
 category: linux

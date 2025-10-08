@@ -1,7 +1,7 @@
 ---
 title: "Convert YUV to PPM - Image Format Conversion | Online Free DevTools by Hexmos"
 name: yuvtoppm
-path: /freedevtools/tldr/common/yuvtoppm
+path: "/freedevtools/tldr/common/yuvtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yuvtoppm/"
 description: "Convert YUV image to PPM format with yuvtoppm. Supports Abekas YUV conversion to portable pixmap. Free online tool, no registration required."
 category: common

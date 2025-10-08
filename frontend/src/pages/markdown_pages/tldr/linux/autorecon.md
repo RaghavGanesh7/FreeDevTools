@@ -1,7 +1,7 @@
 ---
 title: "Autorecon - Automate Network Reconnaissance | Online Free DevTools by Hexmos"
 name: autorecon
-path: /freedevtools/tldr/linux/autorecon
+path: "/freedevtools/tldr/linux/autorecon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/autorecon/"
 description: "Automate network reconnaissance with Autorecon. Perform comprehensive network scans and service enumeration quickly and efficiently. Free online tool, no registration required."
 category: linux

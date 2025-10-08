@@ -1,7 +1,7 @@
 ---
 title: "UWF Manager - Control Windows Write Filter | Online Free DevTools by Hexmos"
 name: uwfmgr
-path: /freedevtools/tldr/windows/uwfmgr
+path: "/freedevtools/tldr/windows/uwfmgr/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/uwfmgr/"
 description: "Control Windows Unified Write Filter (UWF) with UWF Manager. Protect drives by redirecting writes to a virtual overlay. Free online tool, no registration required."
 category: windows

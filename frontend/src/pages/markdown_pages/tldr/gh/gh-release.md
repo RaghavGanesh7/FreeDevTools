@@ -1,7 +1,7 @@
 ---
 title: "GitHub Release - Manage Releases | Online Free DevTools by Hexmos"
 name: gh-release
-path: /freedevtools/tldr/gh/gh-release
+path: "/freedevtools/tldr/gh/gh-release/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-release/"
 description: "Manage GitHub releases quickly with gh-release. Create, delete, download, and upload release assets directly from the command line. Free online tool, no registration required."
 category: common

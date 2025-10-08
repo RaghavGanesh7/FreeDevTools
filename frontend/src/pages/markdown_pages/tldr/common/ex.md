@@ -1,7 +1,7 @@
 ---
 title: "Text Editor - Edit Files with ex | Online Free DevTools by Hexmos"
 name: ex
-path: /freedevtools/tldr/common/ex
+path: "/freedevtools/tldr/common/ex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ex/"
 description: "Edit text files efficiently with the ex text editor. Perform regex substitutions, insert text, and switch to Vim seamlessly. Free online tool, no registration required."
 category: common

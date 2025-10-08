@@ -1,7 +1,7 @@
 ---
 title: "Translate Shell - Translate Text via CLI | Online Free DevTools by Hexmos"
 name: trans
-path: /freedevtools/tldr/common/trans
+path: "/freedevtools/tldr/common/trans/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trans/"
 description: "Translate text instantly with Translate Shell. Translate words and phrases between multiple languages using command line. Free online tool, no registration required."
 category: common

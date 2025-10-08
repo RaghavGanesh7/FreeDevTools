@@ -1,7 +1,7 @@
 ---
 title: "Control Date - Format Dates on macOS | Online Free DevTools by Hexmos"
 name: gdate
-path: /freedevtools/tldr/osx/gdate
+path: "/freedevtools/tldr/osx/gdate/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gdate/"
 description: "Control date and time formats with GDate on macOS. Format dates and times using the command line. Free online tool, no registration required."
 category: osx

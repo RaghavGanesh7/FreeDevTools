@@ -1,7 +1,7 @@
 ---
 title: "Arping - Discover Hosts on Network | Online Free DevTools by Hexmos"
 name: arping
-path: /freedevtools/tldr/common/arping
+path: "/freedevtools/tldr/common/arping/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/arping/"
 description: "Discover network hosts with Arping. Probe network devices, identify MAC addresses, and detect IP conflicts with this network diagnostic command. Free online tool, no registration required."
 category: common

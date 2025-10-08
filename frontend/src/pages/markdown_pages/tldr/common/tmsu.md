@@ -1,7 +1,7 @@
 ---
 title: "Tag Files - Organize Files with tmsu | Online Free DevTools by Hexmos"
 name: tmsu
-path: /freedevtools/tldr/common/tmsu
+path: "/freedevtools/tldr/common/tmsu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tmsu/"
 description: "Tag files efficiently with tmsu. Organize your files using multiple tags and boolean expressions for advanced searching. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Haskell REPL - Create Interactive Haskell Sessions | Online Free DevTools by Hexmos"
 name: ghci
-path: /freedevtools/tldr/common/ghci
+path: "/freedevtools/tldr/common/ghci/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ghci/"
 description: "Create interactive Haskell sessions with ghci. Load source files, enable language options, and manage compiler warnings for efficient Haskell development. Free online tool, no registration required."
 category: common

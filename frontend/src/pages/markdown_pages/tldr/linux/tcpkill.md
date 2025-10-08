@@ -1,7 +1,7 @@
 ---
 title: "TCPkill - Control TCP Connections | Online Free DevTools by Hexmos"
 name: tcpkill
-path: /freedevtools/tldr/linux/tcpkill
+path: "/freedevtools/tldr/linux/tcpkill/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tcpkill/"
 description: "Control TCP connections with TCPkill, a network analysis tool for terminating specified TCP connections. Free online tool, no registration required."
 category: linux

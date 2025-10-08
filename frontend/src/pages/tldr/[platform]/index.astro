@@ -22,7 +22,7 @@ async function getCommandsByPlatform(platform: string) {
       
       return {
         name: entry.data.name || commandName,
-        url: entry.data.path || `/freedevtools/tldr/${platform}/${commandName}`,
+        url: entry.data.path || `/freedevtools/tldr/${platform}/${commandName}/`,
         description: entry.data.description || `Documentation for ${commandName} command`,
         category: entry.data.category,
       };

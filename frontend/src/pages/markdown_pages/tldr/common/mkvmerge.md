@@ -1,7 +1,7 @@
 ---
 title: "Merge Multimedia Streams - Control mkvmerge | Online Free DevTools by Hexmos"
 name: mkvmerge
-path: /freedevtools/tldr/common/mkvmerge
+path: "/freedevtools/tldr/common/mkvmerge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mkvmerge/"
 description: "Merge multimedia streams easily with mkvmerge. Combine video, audio, and subtitles into Matroska files. Free online tool, no registration required."
 category: common

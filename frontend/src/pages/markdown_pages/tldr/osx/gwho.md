@@ -1,7 +1,7 @@
 ---
 title: "GNU Who - List Users Logged in | Online Free DevTools by Hexmos"
 name: gwho
-path: /freedevtools/tldr/osx/gwho
+path: "/freedevtools/tldr/osx/gwho/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gwho/"
 description: "List users logged in with GNU Who command. Display user names, terminals, and login times for effective system administration. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Create NSIS Installer - Compile Scripts | Online Free DevTools by Hexmos"
 name: makensis
-path: /freedevtools/tldr/common/makensis
+path: "/freedevtools/tldr/common/makensis/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/makensis/"
 description: "Create Windows installers with NSIS using Makensis. Compile NSIS scripts into executable installers. Free online tool, no registration required."
 category: common

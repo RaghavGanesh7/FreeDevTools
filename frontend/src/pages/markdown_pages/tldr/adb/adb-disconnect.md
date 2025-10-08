@@ -1,7 +1,7 @@
 ---
 title: "ADB Disconnect - Control Device Connections | Online Free DevTools by Hexmos"
 name: adb-disconnect
-path: /freedevtools/tldr/adb/adb-disconnect
+path: "/freedevtools/tldr/adb/adb-disconnect/"
 canonical: "https://hexmos.com/freedevtools/tldr/adb/adb-disconnect/"
 description: "Control ADB device connections with ADB Disconnect. Quickly disconnect Android devices over TCP/IP or USB. Free online tool, no registration required."
 category: common

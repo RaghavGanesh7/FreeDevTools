@@ -1,7 +1,7 @@
 ---
 title: "Probe Linux Boot - Find OS with linux-boot-prober | Online Free DevTools by Hexmos"
 name: linux-boot-prober
-path: /freedevtools/tldr/linux/linux-boot-prober
+path: "/freedevtools/tldr/linux/linux-boot-prober/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/linux-boot-prober/"
 description: "Probe bootable operating systems with linux-boot-prober. Quickly identify and locate installed Linux distributions on your system. Free online tool, no registration required."
 category: linux

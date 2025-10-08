@@ -1,7 +1,7 @@
 ---
 title: "Convert ATK to PBM - Image Conversion | Online Free DevTools by Hexmos"
 name: atktopbm
-path: /freedevtools/tldr/common/atktopbm
+path: "/freedevtools/tldr/common/atktopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/atktopbm/"
 description: "Convert ATK raster images to PBM format with atktopbm. Optimize images for various uses and ensure compatibility. Free online tool, no registration required."
 category: common

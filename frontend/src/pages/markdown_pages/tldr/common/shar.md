@@ -1,7 +1,7 @@
 ---
 title: "Create Shell Archive - Package Files with Shar | Online Free DevTools by Hexmos"
 name: shar
-path: /freedevtools/tldr/common/shar
+path: "/freedevtools/tldr/common/shar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shar/"
 description: "Create a shell archive with Shar to package multiple files into a single executable script. Compress and share files easily on Linux and macOS. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Stormlock - Control Centralized Locks | Online Free DevTools by Hexmos"
 name: stormlock
-path: /freedevtools/tldr/st/stormlock
+path: "/freedevtools/tldr/st/stormlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/st/stormlock/"
 description: "Control centralized locks with Stormlock. Acquire, release, and check lease status using a simple CLI. Free online tool, no registration required."
 category: common

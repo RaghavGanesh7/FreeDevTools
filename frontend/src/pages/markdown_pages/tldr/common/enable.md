@@ -1,7 +1,7 @@
 ---
 title: "Enable Builtins - Control Shell Features | Online Free DevTools by Hexmos"
 name: enable
-path: /freedevtools/tldr/common/enable
+path: "/freedevtools/tldr/common/enable/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/enable/"
 description: "Enable builtins with this command-line tool. Control shell features, manage functionality, and customize your environment. Free online tool, no registration required."
 category: common

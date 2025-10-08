@@ -1,7 +1,7 @@
 ---
 title: "Groups - View User Group Memberships | Online Free DevTools by Hexmos"
 name: ggroups
-path: /freedevtools/tldr/osx/ggroups
+path: "/freedevtools/tldr/osx/ggroups/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ggroups/"
 description: "View group memberships with Groups on macOS. Inspect user's groups and manage permissions efficiently using the command line. Free online tool, no registration required."
 category: osx

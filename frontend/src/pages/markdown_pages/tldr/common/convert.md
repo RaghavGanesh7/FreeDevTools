@@ -1,7 +1,7 @@
 ---
 title: "Image Convert - Format Images | Online Free DevTools by Hexmos"
 name: convert
-path: /freedevtools/tldr/common/convert
+path: "/freedevtools/tldr/common/convert/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/convert/"
 description: "Format Images with Image Convert, easily changing file types and optimizing for web use. Convert images with this command-line tool. Free online tool, no registration required."
 category: common

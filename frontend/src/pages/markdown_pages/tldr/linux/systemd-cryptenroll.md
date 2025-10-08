@@ -1,7 +1,7 @@
 ---
 title: "Systemd-cryptenroll - Unlock LUKS2 Devices | Online Free DevTools by Hexmos"
 name: systemd-cryptenroll
-path: /freedevtools/tldr/linux/systemd-cryptenroll
+path: "/freedevtools/tldr/linux/systemd-cryptenroll/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-cryptenroll/"
 description: "Unlock LUKS2 devices with systemd-cryptenroll. Manage encryption methods, enroll FIDO2 devices, and secure TPM2 chips. Free online tool, no registration required."
 category: linux

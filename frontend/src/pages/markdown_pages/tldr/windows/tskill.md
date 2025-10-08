@@ -1,7 +1,7 @@
 ---
 title: "Tskill - Terminate Processes on Windows | Online Free DevTools by Hexmos"
 name: tskill
-path: /freedevtools/tldr/windows/tskill
+path: "/freedevtools/tldr/windows/tskill/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/tskill/"
 description: "Terminate processes with Tskill on Windows. Forcefully end processes by ID or name on remote desktop sessions. Free online tool, no registration required."
 category: windows

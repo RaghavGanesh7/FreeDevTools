@@ -1,7 +1,7 @@
 ---
 title: "Manage Wireless Interfaces - Control Airportd | Online Free DevTools by Hexmos"
 name: airportd
-path: /freedevtools/tldr/osx/airportd
+path: "/freedevtools/tldr/osx/airportd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/airportd/"
 description: "Manage wireless interfaces with Airportd. Control and monitor wireless network connections and troubleshoot network issues. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Manage DNF Modules - Control Packages with dnf-module | Online Free DevTools by Hexmos"
 name: dnf-module
-path: /freedevtools/tldr/linux/dnf-module
+path: "/freedevtools/tldr/linux/dnf-module/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf-module/"
 description: "Manage and control DNF modules with the dnf-module command.  Enable, disable, install, and list modules easily using the command line. Free online tool, no registration required."
 category: linux

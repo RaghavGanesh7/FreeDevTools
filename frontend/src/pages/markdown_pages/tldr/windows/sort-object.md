@@ -1,7 +1,7 @@
 ---
 title: "Sort Object - Control Data Output | Online Free DevTools by Hexmos"
 name: sort-object
-path: /freedevtools/tldr/windows/sort-object
+path: "/freedevtools/tldr/windows/sort-object/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/sort-object/"
 description: "Control data output with Sort-Object, a powerful PowerShell command. Order objects by properties and remove duplicates easily. Free online tool, no registration required."
 category: windows

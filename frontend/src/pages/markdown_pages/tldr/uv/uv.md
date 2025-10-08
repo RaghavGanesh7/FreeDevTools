@@ -1,7 +1,7 @@
 ---
 title: "Create Python Projects - UV Package Manager | Online Free DevTools by Hexmos"
 name: uv
-path: /freedevtools/tldr/uv/uv
+path: "/freedevtools/tldr/uv/uv/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv/"
 description: "Create Python projects with UV Package Manager. Manage dependencies, lockfiles, and environments with this fast and efficient tool. Free online tool, no registration required."
 category: common

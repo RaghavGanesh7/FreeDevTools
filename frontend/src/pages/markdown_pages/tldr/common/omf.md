@@ -1,7 +1,7 @@
 ---
 title: "OMF Package Manager - Extend Fish Shell | Online Free DevTools by Hexmos"
 name: omf
-path: /freedevtools/tldr/common/omf
+path: "/freedevtools/tldr/common/omf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/omf/"
 description: "Extend Fish shell with OMF package manager. Install themes, plugins, and customize your shell environment with ease. Free online tool, no registration required."
 category: common

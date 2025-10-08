@@ -1,7 +1,7 @@
 ---
 title: "Manage Linux Kernel - eselect Kernel Control | Online Free DevTools by Hexmos"
 name: eselect-kernel
-path: /freedevtools/tldr/linux/eselect-kernel
+path: "/freedevtools/tldr/linux/eselect-kernel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eselect-kernel/"
 description: "Control Linux kernel selection with eselect kernel.  List, set, and manage kernel symlinks easily via command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Scamper - Analyze Network Topology and Performance | Online Free DevTools by Hexmos"
 name: scamper
-path: /freedevtools/tldr/common/scamper
+path: "/freedevtools/tldr/common/scamper/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scamper/"
 description: "Analyze network topology with Scamper, a tool for actively probing the internet to analyze topology and performance. Free online tool, no registration required."
 category: common

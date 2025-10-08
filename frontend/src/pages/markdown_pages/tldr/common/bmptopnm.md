@@ -1,7 +1,7 @@
 ---
 title: "Convert BMP to PNM - Generate Image Files | Online Free DevTools by Hexmos"
 name: bmptopnm
-path: /freedevtools/tldr/common/bmptopnm
+path: "/freedevtools/tldr/common/bmptopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bmptopnm/"
 description: "Generate PNM image files with bmptopnm. Convert BMP images to PBM, PGM, or PNM formats easily. Free online tool, no registration required."
 category: common

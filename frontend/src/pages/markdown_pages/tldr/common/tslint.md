@@ -1,7 +1,7 @@
 ---
 title: "TSLint - Validate TypeScript Code | Online Free DevTools by Hexmos"
 name: tslint
-path: /freedevtools/tldr/common/tslint
+path: "/freedevtools/tldr/common/tslint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tslint/"
 description: "Validate TypeScript code effectively with TSLint. Identify errors, enforce coding standards, and improve code quality. Free online tool, no registration required."
 category: common

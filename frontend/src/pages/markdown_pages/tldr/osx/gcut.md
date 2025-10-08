@@ -1,7 +1,7 @@
 ---
 title: "Control Cut - Extract Text with GCut | Online Free DevTools by Hexmos"
 name: gcut
-path: /freedevtools/tldr/osx/gcut
+path: "/freedevtools/tldr/osx/gcut/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gcut/"
 description: "Extract text with GCut, a powerful command-line tool for manipulating text files. Quickly slice and dice data, filtering columns. Free online tool, no registration required."
 category: osx

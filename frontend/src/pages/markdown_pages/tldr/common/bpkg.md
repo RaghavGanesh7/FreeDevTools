@@ -1,7 +1,7 @@
 ---
 title: "Manage Bash Packages - Simplify Script Management | Online Free DevTools by Hexmos"
 name: bpkg
-path: /freedevtools/tldr/common/bpkg
+path: "/freedevtools/tldr/common/bpkg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bpkg/"
 description: "Manage Bash packages easily with bpkg. Install, update, and run Bash scripts with a simple command-line interface. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Chrome - Launch Browser | Online Free DevTools by Hexmos"
 name: chrome
-path: /freedevtools/tldr/windows/chrome
+path: "/freedevtools/tldr/windows/chrome/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/chrome/"
 description: "Launch Chrome browser quickly and easily with this command alias. Access Chromium documentation for more details. Free online tool, no registration required."
 category: windows

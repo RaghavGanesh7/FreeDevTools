@@ -1,7 +1,7 @@
 ---
 title: "Generate QR Codes - Command Line QR Generator | Online Free DevTools by Hexmos"
 name: qr
-path: /freedevtools/tldr/common/qr
+path: "/freedevtools/tldr/common/qr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qr/"
 description: "Generate QR codes quickly with Command Line QR Generator. Encode data into scannable images directly from your terminal. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Z Directory Jumper - Quickly Navigate Directories | Online Free DevTools by Hexmos"
 name: z
-path: /freedevtools/tldr/common/z
+path: "/freedevtools/tldr/common/z/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/z/"
 description: "Quickly jump to directories with Z Directory Jumper. Find frequently used folders using string patterns or regex, increasing command-line efficiency. Free online tool, no registration required."
 category: common

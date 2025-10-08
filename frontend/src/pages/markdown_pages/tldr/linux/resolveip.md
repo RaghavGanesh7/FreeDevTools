@@ -1,7 +1,7 @@
 ---
 title: "Resolve IP - Resolve Hostnames to IPs | Online Free DevTools by Hexmos"
 name: resolveip
-path: /freedevtools/tldr/linux/resolveip
+path: "/freedevtools/tldr/linux/resolveip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/resolveip/"
 description: "Resolve hostnames to IP addresses with Resolve IP. Quickly convert domain names to IPs and vice-versa. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Schedule Leave - Set Leave Reminders | Online Free DevTools by Hexmos"
 name: leave
-path: /freedevtools/tldr/common/leave
+path: "/freedevtools/tldr/common/leave/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/leave/"
 description: "Schedule leave alerts with Leave. Set time-based reminders to depart on time, preventing overstays. Free online tool, no registration required."
 category: common

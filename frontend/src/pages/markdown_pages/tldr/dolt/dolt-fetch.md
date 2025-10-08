@@ -1,7 +1,7 @@
 ---
 title: "Dolt Fetch - Download Repository Objects | Online Free DevTools by Hexmos"
 name: dolt-fetch
-path: /freedevtools/tldr/dolt/dolt-fetch
+path: "/freedevtools/tldr/dolt/dolt-fetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/dolt/dolt-fetch/"
 description: "Download Git repository objects with Dolt Fetch. Update your local Dolt database with changes from remote repositories and collaborate effectively. Free online tool, no registration required."
 category: common

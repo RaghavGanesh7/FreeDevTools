@@ -1,7 +1,7 @@
 ---
 title: "Kubens - Switch Kubernetes Namespaces | Online Free DevTools by Hexmos"
 name: kubens
-path: /freedevtools/tldr/kube/kubens
+path: "/freedevtools/tldr/kube/kubens/"
 canonical: "https://hexmos.com/freedevtools/tldr/kube/kubens/"
 description: "Switch Kubernetes namespaces effortlessly with Kubens. Manage your Kubernetes clusters, and streamline context switching. Free online tool, no registration required."
 category: common

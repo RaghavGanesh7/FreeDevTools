@@ -1,7 +1,7 @@
 ---
 title: "ZFS Manager - Control ZFS Filesystems | Online Free DevTools by Hexmos"
 name: zfs
-path: /freedevtools/tldr/common/zfs
+path: "/freedevtools/tldr/common/zfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zfs/"
 description: "Control ZFS filesystems with ZFS Manager. Create snapshots, enable compression, and change mountpoints for efficient data management. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Tail File - Display Last Lines | Online Free DevTools by Hexmos"
 name: tail
-path: /freedevtools/tldr/common/tail
+path: "/freedevtools/tldr/common/tail/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tail/"
 description: "Display last lines with Tail File. Monitor file changes in real-time and extract relevant data easily using command-line options. Free online tool, no registration required."
 category: common

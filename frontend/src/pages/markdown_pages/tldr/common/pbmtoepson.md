@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - PBM to Epson | Online Free DevTools by Hexmos"
 name: pbmtoepson
-path: /freedevtools/tldr/common/pbmtoepson
+path: "/freedevtools/tldr/common/pbmtoepson/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoepson/"
 description: "Convert PBM image to Epson graphic with pbmtoepson. Generate Epson printer output from PBM format, supporting DPI and protocol adjustments. Free online tool, no registration required."
 category: common

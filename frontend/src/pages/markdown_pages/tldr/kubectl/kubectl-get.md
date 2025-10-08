@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Get - Control Kubernetes Objects | Online Free DevTools by Hexmos"
 name: kubectl-get
-path: /freedevtools/tldr/kubectl/kubectl-get
+path: "/freedevtools/tldr/kubectl/kubectl-get/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-get/"
 description: "Control Kubernetes objects with Kubectl Get. Retrieve pod information, deployments and services easily. Free online tool, no registration required."
 category: common

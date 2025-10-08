@@ -1,7 +1,7 @@
 ---
 title: "Control Git History with tig - TUI Tool | Online Free DevTools by Hexmos"
 name: tig
-path: /freedevtools/tldr/common/tig
+path: "/freedevtools/tldr/common/tig/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tig/"
 description: "Control Git history interactively with tig, an ncurses-based TUI. Browse commits, blame, and stashes with ease. Free online tool, no registration required."
 category: common

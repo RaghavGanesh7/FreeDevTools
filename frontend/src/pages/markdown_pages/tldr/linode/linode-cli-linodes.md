@@ -1,7 +1,7 @@
 ---
 title: "Linode Control - Manage Instances | Online Free DevTools by Hexmos"
 name: linode-cli-linodes
-path: /freedevtools/tldr/linode/linode-cli-linodes
+path: "/freedevtools/tldr/linode/linode-cli-linodes/"
 canonical: "https://hexmos.com/freedevtools/tldr/linode/linode-cli-linodes/"
 description: "Control Linode instances with linode-cli. Manage, create, and delete Linodes. Free online tool, no registration required."
 category: common

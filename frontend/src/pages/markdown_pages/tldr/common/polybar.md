@@ -1,7 +1,7 @@
 ---
 title: "Control Polybar - Customize Status Bar | Online Free DevTools by Hexmos"
 name: polybar
-path: /freedevtools/tldr/common/polybar
+path: "/freedevtools/tldr/common/polybar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/polybar/"
 description: "Control your system status bar with Polybar. Customize appearance, display system information, and integrate with scripts. Free online tool, no registration required."
 category: common

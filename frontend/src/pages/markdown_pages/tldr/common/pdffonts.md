@@ -1,7 +1,7 @@
 ---
 title: "PDFFonts - Extract PDF Fonts Information | Online Free DevTools by Hexmos"
 name: pdffonts
-path: /freedevtools/tldr/common/pdffonts
+path: "/freedevtools/tldr/common/pdffonts/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdffonts/"
 description: "Extract PDF fonts information with PDFFonts. Get font details, location, and security information from your PDF files. Free online tool, no registration required."
 category: common

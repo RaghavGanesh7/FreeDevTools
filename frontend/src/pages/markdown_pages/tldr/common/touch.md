@@ -1,7 +1,7 @@
 ---
 title: "Create Files - Control File Timestamps with Touch | Online Free DevTools by Hexmos"
 name: touch
-path: "/freedevtools/tldr/common/touch"
+path: "/freedevtools/tldr/common/touch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/touch/"
 description: "Create files instantly with Touch and control file timestamps with ease. Manage file access and modification times with this free online tool, no registration required."
 category: common

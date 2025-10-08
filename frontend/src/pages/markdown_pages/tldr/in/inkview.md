@@ -1,7 +1,7 @@
 ---
 title: "Preview SVG - Visualize Vector Graphics with Inkview | Online Free DevTools by Hexmos"
 name: inkview
-path: /freedevtools/tldr/in/inkview
+path: "/freedevtools/tldr/in/inkview/"
 canonical: "https://hexmos.com/freedevtools/tldr/in/inkview/"
 description: "Preview SVG files seamlessly with Inkview. Quickly visualize vector graphics and manage slideshows. Free online tool, no registration required."
 category: common

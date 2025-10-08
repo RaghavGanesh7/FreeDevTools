@@ -1,7 +1,7 @@
 ---
 title: "Redirect Output - Control File Output with '>' | Online Free DevTools by Hexmos"
 name: greater-than
-path: /freedevtools/tldr/common/greater-than
+path: "/freedevtools/tldr/common/greater-than/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/greater-than/"
 description: "Control file output with Redirect Output ('>'). Manage stdout, stderr, and file descriptors using the command line. Free online tool, no registration required."
 category: common

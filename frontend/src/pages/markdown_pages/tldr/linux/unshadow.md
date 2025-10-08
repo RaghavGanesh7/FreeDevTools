@@ -1,7 +1,7 @@
 ---
 title: "Unshadow - Obtain Password File | Online Free DevTools by Hexmos"
 name: unshadow
-path: /freedevtools/tldr/linux/unshadow
+path: "/freedevtools/tldr/linux/unshadow/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/unshadow/"
 description: "Obtain password files with Unshadow. Extract password hashes for offline cracking using shadow files and the /etc/passwd file. Free online tool, no registration required."
 category: linux

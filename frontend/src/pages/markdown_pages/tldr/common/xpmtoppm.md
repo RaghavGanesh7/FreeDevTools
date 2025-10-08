@@ -1,7 +1,7 @@
 ---
 title: "Convert XPM to PPM - Image Conversion | Online Free DevTools by Hexmos"
 name: xpmtoppm
-path: /freedevtools/tldr/common/xpmtoppm
+path: "/freedevtools/tldr/common/xpmtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xpmtoppm/"
 description: "Convert XPM images to PPM format with XPMtoPPM. Utilize transparency mask handling for advanced image manipulation. Free online tool, no registration required."
 category: common

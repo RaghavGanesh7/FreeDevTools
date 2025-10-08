@@ -1,7 +1,7 @@
 ---
 title: "Virt-Manager - Manage Virtual Machines | Online Free DevTools by Hexmos"
 name: virt-manager
-path: /freedevtools/tldr/linux/virt-manager
+path: "/freedevtools/tldr/linux/virt-manager/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/virt-manager/"
 description: "Manage virtual machines with Virt-Manager. Control KVM and Xen virtual machines, plus LXC containers. Free online tool, no registration required."
 category: linux

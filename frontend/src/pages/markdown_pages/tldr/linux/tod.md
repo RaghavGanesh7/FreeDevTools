@@ -1,7 +1,7 @@
 ---
 title: "Tod - Create Todoist Tasks | Online Free DevTools by Hexmos"
 name: tod
-path: /freedevtools/tldr/linux/tod
+path: "/freedevtools/tldr/linux/tod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tod/"
 description: "Create Todoist tasks quickly with Tod, a tiny Rust client. Manage projects, add due dates, and utilize natural language processing for efficient task management. Free online tool, no registration required."
 category: linux

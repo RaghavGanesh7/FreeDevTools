@@ -1,7 +1,7 @@
 ---
 title: "D Compiler - Build D Source Code | Online Free DevTools by Hexmos"
 name: dmd
-path: /freedevtools/tldr/common/dmd
+path: "/freedevtools/tldr/common/dmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dmd/"
 description: "Build D source code with D compiler. Generate code, control bounds checking, and enable colored console output. Free online tool, no registration required."
 category: common

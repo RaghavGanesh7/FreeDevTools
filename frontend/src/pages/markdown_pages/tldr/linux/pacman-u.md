@@ -1,7 +1,7 @@
 ---
 title: "Pacman Upgrade - Update Packages | Online Free DevTools by Hexmos"
 name: pacman-u
-path: /freedevtools/tldr/linux/pacman-u
+path: "/freedevtools/tldr/linux/pacman-u/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-u/"
 description: "Upgrade packages instantly with Pacman Upgrade. Keep your Arch Linux system up-to-date with package management commands. Free online tool, no registration required."
 category: linux

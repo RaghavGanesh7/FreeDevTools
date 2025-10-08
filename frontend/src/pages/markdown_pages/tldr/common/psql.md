@@ -1,7 +1,7 @@
 ---
 title: "psql - Query PostgreSQL Databases | Online Free DevTools by Hexmos"
 name: psql
-path: /freedevtools/tldr/common/psql
+path: "/freedevtools/tldr/common/psql/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/psql/"
 description: "Query PostgreSQL databases with psql command. Execute SQL queries, connect to remote servers, and manage databases via the command line. Free online tool, no registration required."
 category: common

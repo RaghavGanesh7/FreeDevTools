@@ -1,7 +1,7 @@
 ---
 title: "ADB Reboot - Control Android Device Reboot | Online Free DevTools by Hexmos"
 name: adb-reboot
-path: /freedevtools/tldr/adb/adb-reboot
+path: "/freedevtools/tldr/adb/adb-reboot/"
 canonical: "https://hexmos.com/freedevtools/tldr/adb/adb-reboot/"
 description: "Control Android device reboot with ADB Reboot. Reboot into bootloader, recovery, or fastboot modes instantly using this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Rspamc - Control Spam Filtering | Online Free DevTools by Hexmos"
 name: rspamc
-path: /freedevtools/tldr/linux/rspamc
+path: "/freedevtools/tldr/linux/rspamc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rspamc/"
 description: "Control email spam filtering with Rspamc. Train the bayesian filter and generate spam reports using the command line. Free online tool, no registration required."
 category: linux

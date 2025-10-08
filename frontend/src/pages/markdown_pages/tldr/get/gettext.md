@@ -1,7 +1,7 @@
 ---
 title: "Gettext - Translate Strings with Domain Files | Online Free DevTools by Hexmos"
 name: gettext
-path: /freedevtools/tldr/get/gettext
+path: "/freedevtools/tldr/get/gettext/"
 canonical: "https://hexmos.com/freedevtools/tldr/get/gettext/"
 description: "Translate strings easily with Gettext, using compiled .mo files. Localize software and applications for different languages. Free online tool, no registration required."
 category: common

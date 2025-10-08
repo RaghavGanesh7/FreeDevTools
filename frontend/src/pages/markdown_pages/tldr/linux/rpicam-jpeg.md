@@ -1,7 +1,7 @@
 ---
 title: "Capture JPEG Image - Control Raspberry Pi Camera | Online Free DevTools by Hexmos"
 name: rpicam-jpeg
-path: /freedevtools/tldr/linux/rpicam-jpeg
+path: "/freedevtools/tldr/linux/rpicam-jpeg/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpicam-jpeg/"
 description: "Capture JPEG images with rpicam-jpeg on Raspberry Pi. Control camera settings like resolution and exposure. Free online tool, no registration required."
 category: linux

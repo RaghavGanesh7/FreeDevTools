@@ -1,7 +1,7 @@
 ---
 title: "IP Scanner - Network Scan with Ipcscan | Online Free DevTools by Hexmos"
 name: ipscan
-path: /freedevtools/tldr/common/ipscan
+path: "/freedevtools/tldr/common/ipscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipscan/"
 description: "Network scan with Ipcscan, a simple and fast IP Scanner. Discover connected devices and open ports on your network with this free online tool, no registration required."
 category: common

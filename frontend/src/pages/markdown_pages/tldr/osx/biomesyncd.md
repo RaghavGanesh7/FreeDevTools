@@ -1,7 +1,7 @@
 ---
 title: "Biomesyncd - Synchronize Data Between Devices | Online Free DevTools by Hexmos"
 name: biomesyncd
-path: /freedevtools/tldr/osx/biomesyncd
+path: "/freedevtools/tldr/osx/biomesyncd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/biomesyncd/"
 description: "Synchronize data securely with Biomesyncd, ensuring seamless data transfer between devices. Monitor data flow and maintain consistent data states. Free online tool, no registration required."
 category: osx

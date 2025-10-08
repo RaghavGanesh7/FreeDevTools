@@ -1,7 +1,7 @@
 ---
 title: "QM Config - Control VM Configuration | Online Free DevTools by Hexmos"
 name: qm-config
-path: /freedevtools/tldr/linux/qm-config
+path: "/freedevtools/tldr/linux/qm-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-config/"
 description: "Control VM configuration with QM Config, a powerful command-line tool for managing Proxmox virtual machines. Free online tool, no registration required."
 category: linux

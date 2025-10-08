@@ -1,7 +1,7 @@
 ---
 title: "Query DuckDB - Run SQL on Data Files | Online Free DevTools by Hexmos"
 name: duckdb
-path: /freedevtools/tldr/common/duckdb
+path: "/freedevtools/tldr/common/duckdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/duckdb/"
 description: "Query data files with DuckDB. Execute SQL commands on CSV, JSON, and Parquet files, create in-memory databases, and run SQL scripts. Free online tool, no registration required."
 category: common

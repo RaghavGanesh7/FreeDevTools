@@ -1,7 +1,7 @@
 ---
 title: "Control Command Snippets - Manage Notes with QC | Online Free DevTools by Hexmos"
 name: qc
-path: /freedevtools/tldr/common/qc
+path: "/freedevtools/tldr/common/qc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/qc/"
 description: "Control command snippets efficiently with QC. Manage, search, and execute code snippets stored in QOwnNotes for enhanced productivity. Free online tool, no registration required."
 category: common

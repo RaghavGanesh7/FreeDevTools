@@ -1,7 +1,7 @@
 ---
 title: "SFDK Prepare - Build Sailfish OS Recipes | Online Free DevTools by Hexmos"
 name: sfdk-prepare
-path: /freedevtools/tldr/sfdk/sfdk-prepare
+path: "/freedevtools/tldr/sfdk/sfdk-prepare/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-prepare/"
 description: "Prepare Sailfish OS sources with SFDK Prepare.  Generate build environments and utilize RPM SPEC files for efficient development. Free online tool, no registration required."
 category: common

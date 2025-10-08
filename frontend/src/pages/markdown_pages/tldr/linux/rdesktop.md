@@ -1,7 +1,7 @@
 ---
 title: "rdesktop Remote Desktop - Connect to Servers | Online Free DevTools by Hexmos"
 name: rdesktop
-path: /freedevtools/tldr/linux/rdesktop
+path: "/freedevtools/tldr/linux/rdesktop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rdesktop/"
 description: "Connect to remote computers with rdesktop, a powerful RDP client.  Manage remote sessions and access resources easily. Free online tool, no registration required."
 category: linux

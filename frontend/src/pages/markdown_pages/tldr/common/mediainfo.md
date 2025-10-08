@@ -1,7 +1,7 @@
 ---
 title: "MediaInfo - Extract Media Metadata | Online Free DevTools by Hexmos"
 name: mediainfo
-path: /freedevtools/tldr/common/mediainfo
+path: "/freedevtools/tldr/common/mediainfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mediainfo/"
 description: "Extract media metadata with MediaInfo. Analyze video and audio files to retrieve detailed technical information. Free online tool, no registration required."
 category: common

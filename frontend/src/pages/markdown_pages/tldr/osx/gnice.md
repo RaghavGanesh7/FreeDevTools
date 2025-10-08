@@ -1,7 +1,7 @@
 ---
 title: "Nice Command - Control Process Priority on macOS | Online Free DevTools by Hexmos"
 name: gnice
-path: /freedevtools/tldr/osx/gnice
+path: "/freedevtools/tldr/osx/gnice/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gnice/"
 description: "Control process scheduling priority with Nice Command on macOS. Adjust CPU usage and improve system responsiveness with this command line tool. Free online tool, no registration required."
 category: osx

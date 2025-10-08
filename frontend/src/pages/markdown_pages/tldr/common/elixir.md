@@ -1,7 +1,7 @@
 ---
 title: "Elixir Interpreter - Execute Code | Online Free DevTools by Hexmos"
 name: elixir
-path: /freedevtools/tldr/common/elixir
+path: "/freedevtools/tldr/common/elixir/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/elixir/"
 description: "Execute Elixir code instantly with Elixir Interpreter. Evaluate expressions, run scripts, and debug applications from the command line. Free online tool, no registration required."
 category: common

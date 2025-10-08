@@ -1,7 +1,7 @@
 ---
 title: "Compare Compressed Files - Analyze gzip Files | Online Free DevTools by Hexmos"
 name: zcmp
-path: /freedevtools/tldr/common/zcmp
+path: "/freedevtools/tldr/common/zcmp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zcmp/"
 description: "Compare compressed files easily with zcmp. Analyze gzip files and identify differences quickly. Free online tool, no registration required."
 category: common

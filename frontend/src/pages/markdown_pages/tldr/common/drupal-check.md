@@ -1,7 +1,7 @@
 ---
 title: "Check Drupal Code - Detect Deprecations | Online Free DevTools by Hexmos"
 name: drupal-check
-path: /freedevtools/tldr/common/drupal-check
+path: "/freedevtools/tldr/common/drupal-check/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/drupal-check/"
 description: "Check Drupal code for deprecations with Drupal-Check. Analyze code quality, exclude directories, and improve Drupal development. Free online tool, no registration required."
 category: common

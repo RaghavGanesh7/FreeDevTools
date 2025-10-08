@@ -1,7 +1,7 @@
 ---
 title: "Revert Changes - Apply Revisions with jj | Online Free DevTools by Hexmos"
 name: jj-revert
-path: /freedevtools/tldr/jj/jj-revert
+path: "/freedevtools/tldr/jj/jj-revert/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-revert/"
 description: "Apply revisions with jj-revert. Efficiently undo changesets and restore previous states in your repository. Free online tool, no registration required."
 category: common

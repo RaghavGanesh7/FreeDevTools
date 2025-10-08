@@ -1,7 +1,7 @@
 ---
 title: "Drop PostgreSQL Database - Remove Databases | Online Free DevTools by Hexmos"
 name: dropdb
-path: /freedevtools/tldr/common/dropdb
+path: "/freedevtools/tldr/common/dropdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dropdb/"
 description: "Remove PostgreSQL databases easily with Drop PostgreSQL Database. Quickly delete databases and terminate connections using this command-line tool. Free online tool, no registration required."
 category: common

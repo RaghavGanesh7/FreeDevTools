@@ -1,7 +1,7 @@
 ---
 title: "Brew Upgrade - Upgrade Packages on macOS and Linux | Online Free DevTools by Hexmos"
 name: brew-upgrade
-path: /freedevtools/tldr/brew/brew-upgrade
+path: "/freedevtools/tldr/brew/brew-upgrade/"
 canonical: "https://hexmos.com/freedevtools/tldr/brew/brew-upgrade/"
 description: "Upgrade outdated formulae and casks with Brew Upgrade on macOS and Linux. Manage your software packages and dependencies efficiently. Free online tool, no registration required."
 category: common

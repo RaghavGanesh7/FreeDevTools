@@ -1,7 +1,7 @@
 ---
 title: "Generate Barcodes - Zint Barcode and QR Code Tool | Online Free DevTools by Hexmos"
 name: zint
-path: /freedevtools/tldr/common/zint
+path: "/freedevtools/tldr/common/zint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zint/"
 description: "Generate barcodes and QR codes easily with Zint. Create various barcode types for diverse applications. Free online tool, no registration required."
 category: common

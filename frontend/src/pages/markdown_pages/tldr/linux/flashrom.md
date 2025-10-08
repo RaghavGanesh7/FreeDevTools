@@ -1,7 +1,7 @@
 ---
 title: "Flashrom - Manage Flash Memory | Online Free DevTools by Hexmos"
 name: flashrom
-path: /freedevtools/tldr/linux/flashrom
+path: "/freedevtools/tldr/linux/flashrom/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flashrom/"
 description: "Manage flash memory with flashrom. Read, write, verify, and erase flash chips easily using command-line interface. Free online tool, no registration required."
 category: linux

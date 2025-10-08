@@ -1,7 +1,7 @@
 ---
 title: "LLDB Debugger - Debug Executables | Online Free DevTools by Hexmos"
 name: lldb
-path: /freedevtools/tldr/common/lldb
+path: "/freedevtools/tldr/common/lldb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lldb/"
 description: "Debug executables with the LLDB debugger.  Attach to running processes, debug applications, and inspect variables using command-line interface. Free online tool, no registration required."
 category: common

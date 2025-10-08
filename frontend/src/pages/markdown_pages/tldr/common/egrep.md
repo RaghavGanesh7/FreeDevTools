@@ -1,7 +1,7 @@
 ---
 title: "Egrep Search - Find Text Patterns with Regex | Online Free DevTools by Hexmos"
 name: egrep
-path: /freedevtools/tldr/common/egrep
+path: "/freedevtools/tldr/common/egrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/egrep/"
 description: "Search text patterns quickly with Egrep. Use extended regular expressions to find strings in files and directories. Free online tool, no registration required."
 category: common

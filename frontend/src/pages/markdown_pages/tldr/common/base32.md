@@ -1,7 +1,7 @@
 ---
 title: "Encode Base32 - Encode/Decode Data | Online Free DevTools by Hexmos"
 name: base32
-path: /freedevtools/tldr/common/base32
+path: "/freedevtools/tldr/common/base32/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/base32/"
 description: "Encode data with Base32. Convert files or standard input to Base32 format for secure data transmission. Free online tool, no registration required."
 category: common

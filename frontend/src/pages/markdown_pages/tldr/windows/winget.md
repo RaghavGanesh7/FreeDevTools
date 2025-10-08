@@ -1,7 +1,7 @@
 ---
 title: "Winget - Manage Windows Packages | Online Free DevTools by Hexmos"
 name: winget
-path: /freedevtools/tldr/windows/winget
+path: "/freedevtools/tldr/windows/winget/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/winget/"
 description: "Manage Windows packages efficiently with Winget. Install, uninstall, search, and upgrade software on your Windows system. Free online tool, no registration required."
 category: windows

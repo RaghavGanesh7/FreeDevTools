@@ -1,7 +1,7 @@
 ---
 title: "Download LinkedIn Learning Videos - LLVD Downloader | Online Free DevTools by Hexmos"
 name: llvd
-path: /freedevtools/tldr/common/llvd
+path: "/freedevtools/tldr/common/llvd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/llvd/"
 description: "Download LinkedIn Learning videos with LLVD. Extract courses, captions, and specify resolutions effortlessly. Free online tool, no registration required."
 category: common

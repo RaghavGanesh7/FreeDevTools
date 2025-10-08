@@ -1,7 +1,7 @@
 ---
 title: "Generate Completion Matches - compgen | Online Free DevTools by Hexmos"
 name: compgen
-path: /freedevtools/tldr/common/compgen
+path: "/freedevtools/tldr/common/compgen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/compgen/"
 description: "Generate completion matches with compgen, a Bash built-in command. Simplify command line usage and automate complex tasks. Free online tool, no registration required."
 category: common

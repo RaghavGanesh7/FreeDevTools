@@ -1,7 +1,7 @@
 ---
 title: "Create D Projects - Manage D Packages with Dub | Online Free DevTools by Hexmos"
 name: dub
-path: /freedevtools/tldr/common/dub
+path: "/freedevtools/tldr/common/dub/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dub/"
 description: "Create D projects easily with Dub, the D package manager. Install, update, and manage your D project dependencies effortlessly. Free online tool, no registration required."
 category: common

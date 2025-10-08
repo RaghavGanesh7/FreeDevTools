@@ -1,7 +1,7 @@
 ---
 title: "Hyprctl Control - Manage Hyprland Compositor | Online Free DevTools by Hexmos"
 name: hyprctl
-path: /freedevtools/tldr/linux/hyprctl
+path: "/freedevtools/tldr/linux/hyprctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hyprctl/"
 description: "Control your Hyprland Wayland compositor with Hyprctl. Manage windows, dispatch events, and configure settings dynamically. Free online tool, no registration required."
 category: linux

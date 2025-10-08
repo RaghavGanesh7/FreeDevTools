@@ -1,7 +1,7 @@
 ---
 title: "Lxc-Attach - Attach to Linux Containers | Online Free DevTools by Hexmos"
 name: lxc-attach
-path: /freedevtools/tldr/linux/lxc-attach
+path: "/freedevtools/tldr/linux/lxc-attach/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-attach/"
 description: "Attach instantly to Linux containers with Lxc-Attach. Manage processes and interact with container environments. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Manage Cocoa Dependencies - Control Pods on OSX | Online Free DevTools by Hexmos"
 name: pod
-path: /freedevtools/tldr/osx/pod
+path: "/freedevtools/tldr/osx/pod/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/pod/"
 description: "Manage Cocoa dependencies efficiently with Pod. Install, update, and remove pods for your Swift and Objective-C projects on macOS. Free online tool, no registration required."
 category: osx

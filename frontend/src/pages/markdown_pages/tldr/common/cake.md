@@ -1,7 +1,7 @@
 ---
 title: "CakePHP Framework - Control App Building | Online Free DevTools by Hexmos"
 name: cake
-path: /freedevtools/tldr/common/cake
+path: "/freedevtools/tldr/common/cake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cake/"
 description: "Control CakePHP framework app building with Cake. Clear caches, manage routes, and start development servers. Free online tool, no registration required."
 category: common

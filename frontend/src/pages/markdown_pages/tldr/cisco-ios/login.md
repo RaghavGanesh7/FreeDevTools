@@ -1,7 +1,7 @@
 ---
 title: "Control Cisco Login - Manage Authentication | Online Free DevTools by Hexmos"
 name: login
-path: /freedevtools/tldr/cisco-ios/login
+path: "/freedevtools/tldr/cisco-ios/login/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/login/"
 description: "Control Cisco login authentication with this command. Manage console and virtual line logins securely. Free online tool, no registration required."
 category: cisco-ios

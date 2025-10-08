@@ -1,7 +1,7 @@
 ---
 title: "Pkgctl Build - Generate Packages in Chroot | Online Free DevTools by Hexmos"
 name: pkgctl-build
-path: /freedevtools/tldr/linux/pkgctl-build
+path: "/freedevtools/tldr/linux/pkgctl-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgctl-build/"
 description: "Generate Linux packages effortlessly with Pkgctl Build. Create and manage software packages in a clean chroot environment for secure and reliable distribution. Free online tool, no registration required."
 category: linux

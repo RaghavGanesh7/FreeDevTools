@@ -1,7 +1,7 @@
 ---
 title: "GitHub Run - View Workflow Runs | Online Free DevTools by Hexmos"
 name: gh-run
-path: /freedevtools/tldr/gh/gh-run
+path: "/freedevtools/tldr/gh/gh-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-run/"
 description: "View GitHub Actions workflow runs with gh run. Inspect job logs, check run statuses, and re-run workflows effortlessly. Free online tool, no registration required."
 category: common

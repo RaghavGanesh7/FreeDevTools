@@ -1,7 +1,7 @@
 ---
 title: "Verify Git Commit - Check GPG Signatures | Online Free DevTools by Hexmos"
 name: git-verify-commit
-path: /freedevtools/tldr/git/git-verify-commit
+path: "/freedevtools/tldr/git/git-verify-commit/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-verify-commit/"
 description: "Verify Git commits with git-verify-commit. Check GPG signatures and ensure commit integrity. Free online tool, no registration required."
 category: common

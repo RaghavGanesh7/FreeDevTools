@@ -1,7 +1,7 @@
 ---
 title: "Format C/C++ Code - Indent Tool | Online Free DevTools by Hexmos"
 name: indent
-path: /freedevtools/tldr/in/indent
+path: "/freedevtools/tldr/in/indent/"
 canonical: "https://hexmos.com/freedevtools/tldr/in/indent/"
 description: "Format C/C++ code with Indent Tool. Easily adjust whitespace, adhere to style guides, and improve code readability. Free online tool, no registration required."
 category: common

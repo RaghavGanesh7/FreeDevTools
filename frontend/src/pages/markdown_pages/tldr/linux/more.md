@@ -1,7 +1,7 @@
 ---
 title: "Display File - Interact and Scroll with More | Online Free DevTools by Hexmos"
 name: more
-path: /freedevtools/tldr/linux/more
+path: "/freedevtools/tldr/linux/more/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/more/"
 description: "Display a file interactively with More, allowing scrolling and searching within the file content. Easily navigate large text files using command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Typing Test - Improve Speed and Accuracy | Online Free DevTools by Hexmos"
 name: toipe
-path: /freedevtools/tldr/common/toipe
+path: "/freedevtools/tldr/common/toipe/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/toipe/"
 description: "Improve typing speed with Toipe typing test. Practice touch typing, enhance accuracy, and customize wordlists with this terminal tool. Free online tool, no registration required."
 category: common

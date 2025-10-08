@@ -1,7 +1,7 @@
 ---
 title: "HTML5 Validator - Validate HTML5 Code | Online Free DevTools by Hexmos"
 name: html5validator
-path: /freedevtools/tldr/common/html5validator
+path: "/freedevtools/tldr/common/html5validator/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/html5validator/"
 description: "Validate HTML5 code with html5validator. Find errors and improve code quality. Quick validation with directory support and custom output formats. Free online tool, no registration required."
 category: common

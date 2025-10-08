@@ -1,7 +1,7 @@
 ---
 title: "Timeout Command - Control Process Execution | Online Free DevTools by Hexmos"
 name: timeout
-path: /freedevtools/tldr/common/timeout
+path: "/freedevtools/tldr/common/timeout/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/timeout/"
 description: "Control process execution with Timeout Command. Limit execution time, send signals, and preserve exit statuses. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Git Branch - Manage Branches in Git | Online Free DevTools by Hexmos"
 name: git-branch
-path: /freedevtools/tldr/git/git-branch
+path: "/freedevtools/tldr/git/git-branch/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-branch/"
 description: "Manage Git branches efficiently with Git Branch command. Create, rename, delete and list branches locally and remotely. Free online tool, no registration required."
 category: common

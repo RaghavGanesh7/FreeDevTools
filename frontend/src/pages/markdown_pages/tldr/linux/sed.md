@@ -1,7 +1,7 @@
 ---
 title: "Sed Stream Editor - Transform Text | Online Free DevTools by Hexmos"
 name: sed
-path: /freedevtools/tldr/linux/sed
+path: "/freedevtools/tldr/linux/sed/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sed/"
 description: "Transform text efficiently with the Sed stream editor.  Perform powerful text manipulations using regular expressions. Free online tool, no registration required."
 category: linux

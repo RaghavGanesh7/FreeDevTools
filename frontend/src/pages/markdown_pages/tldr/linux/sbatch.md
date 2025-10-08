@@ -1,7 +1,7 @@
 ---
 title: "Submit Batch Jobs - Control SLURM with sbatch | Online Free DevTools by Hexmos"
 name: sbatch
-path: /freedevtools/tldr/linux/sbatch
+path: "/freedevtools/tldr/linux/sbatch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sbatch/"
 description: "Submit and control batch jobs efficiently with the sbatch command. Manage job names, time limits, and node requests easily. Free online tool, no registration required."
 category: linux

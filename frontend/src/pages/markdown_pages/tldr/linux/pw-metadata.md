@@ -1,7 +1,7 @@
 ---
 title: "PipeWire Metadata - Manage Metadata with pw-metadata | Online Free DevTools by Hexmos"
 name: pw-metadata
-path: /freedevtools/tldr/linux/pw-metadata
+path: "/freedevtools/tldr/linux/pw-metadata/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-metadata/"
 description: "Manage PipeWire metadata efficiently with pw-metadata. Monitor, set, and delete metadata on PipeWire objects easily. Free online tool, no registration required."
 category: linux

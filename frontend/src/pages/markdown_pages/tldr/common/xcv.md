@@ -1,7 +1,7 @@
 ---
 title: "Control Cut/Copy/Paste - Command-Line Editing | Online Free DevTools by Hexmos"
 name: xcv
-path: /freedevtools/tldr/common/xcv
+path: "/freedevtools/tldr/common/xcv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xcv/"
 description: "Control cut, copy, and paste operations with xcv, a command-line editing tool. Manage files efficiently using simple commands. Free online tool, no registration required."
 category: common

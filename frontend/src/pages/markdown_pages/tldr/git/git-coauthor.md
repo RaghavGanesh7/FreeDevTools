@@ -1,7 +1,7 @@
 ---
 title: "Generate Git Co-Author - Add Co-Authors to Commits | Online Free DevTools by Hexmos"
 name: git-coauthor
-path: /freedevtools/tldr/git/git-coauthor
+path: "/freedevtools/tldr/git/git-coauthor/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-coauthor/"
 description: "Generate Git co-authors with git-coauthor. Easily add multiple authors to your Git commits and maintain accurate attribution. Free online tool, no registration required."
 category: common

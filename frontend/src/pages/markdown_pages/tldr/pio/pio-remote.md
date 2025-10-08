@@ -1,7 +1,7 @@
 ---
 title: "PlatformIO Remote - Manage Remote Agents | Online Free DevTools by Hexmos"
 name: pio-remote
-path: "/freedevtools/tldr/pio/pio-remote"
+path: "/freedevtools/tldr/pio/pio-remote/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-remote/"
 description: "Manage PlatformIO Remote Agents with pio-remote. List agents, start new ones, connect to remote devices, and run tasks. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Timedatectl - Control System Time & Date | Online Free DevTools by Hexmos"
 name: timedatectl
-path: /freedevtools/tldr/linux/timedatectl
+path: "/freedevtools/tldr/linux/timedatectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/timedatectl/"
 description: "Control system time and date with timedatectl. Manage timezones and NTP synchronization using the command line. Free online tool, no registration required."
 category: linux

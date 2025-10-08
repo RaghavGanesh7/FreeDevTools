@@ -1,7 +1,7 @@
 ---
 title: "Fork GitHub Repo - Create GitHub Forks Easily | Online Free DevTools by Hexmos"
 name: git-fork
-path: /freedevtools/tldr/git/git-fork
+path: "/freedevtools/tldr/git/git-fork/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-fork/"
 description: "Create GitHub forks with git-fork. Easily fork repositories from the command line for collaboration and contribution. Free online tool, no registration required."
 category: common

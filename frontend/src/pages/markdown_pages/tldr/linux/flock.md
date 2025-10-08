@@ -1,7 +1,7 @@
 ---
 title: "Flock - Manage File Locks from Shell | Online Free DevTools by Hexmos"
 name: flock
-path: /freedevtools/tldr/linux/flock
+path: "/freedevtools/tldr/linux/flock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flock/"
 description: "Manage file locks easily with Flock. Ensure exclusive command execution and prevent conflicts in shell scripts. Free online tool, no registration required."
 category: linux

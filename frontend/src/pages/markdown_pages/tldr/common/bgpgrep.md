@@ -1,7 +1,7 @@
 ---
 title: "BGP Filter - Analyze BGP Data | Online Free DevTools by Hexmos"
 name: bgpgrep
-path: /freedevtools/tldr/common/bgpgrep
+path: "/freedevtools/tldr/common/bgpgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bgpgrep/"
 description: "Filter BGP data with bgpgrep. Analyze MRT dumps, filter by peer ASN or IP, and examine AS paths. Free online tool, no registration required."
 category: common

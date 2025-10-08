@@ -1,7 +1,7 @@
 ---
 title: "Crack Passwords - Brute-Force with Hydra | Online Free DevTools by Hexmos"
 name: hydra
-path: /freedevtools/tldr/common/hydra
+path: "/freedevtools/tldr/common/hydra/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hydra/"
 description: "Crack passwords instantly with Hydra. Identify weak credentials on various network services, supporting FTP, SSH, HTTP and more. Free online tool, no registration required."
 category: common

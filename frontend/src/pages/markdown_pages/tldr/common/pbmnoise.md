@@ -1,7 +1,7 @@
 ---
 title: "Generate PBM Noise - Create White Noise Images | Online Free DevTools by Hexmos"
 name: pbmnoise
-path: /freedevtools/tldr/common/pbmnoise
+path: "/freedevtools/tldr/common/pbmnoise/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmnoise/"
 description: "Generate PBM noise with pbmnoise. Easily create white noise images and control randomness using custom seeds and ratios. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Send Slurm Job Files - Transfer Files | Online Free DevTools by Hexmos"
 name: sbcast
-path: /freedevtools/tldr/linux/sbcast
+path: "/freedevtools/tldr/linux/sbcast/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sbcast/"
 description: "Transfer Slurm job files with sbcast. Streamline job execution by distributing necessary files to allocated nodes. Free online tool, no registration required."
 category: linux

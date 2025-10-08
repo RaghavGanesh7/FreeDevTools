@@ -1,7 +1,7 @@
 ---
 title: "Analyze Disk Usage - Manage Disk Space with dua | Online Free DevTools by Hexmos"
 name: dua
-path: /freedevtools/tldr/common/dua
+path: "/freedevtools/tldr/common/dua/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dua/"
 description: "Analyze disk usage with dua, a command-line disk space analyzer. Quickly identify large files and directories to free up disk space. Free online tool, no registration required."
 category: common

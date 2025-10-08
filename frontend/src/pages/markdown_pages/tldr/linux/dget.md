@@ -1,7 +1,7 @@
 ---
 title: "Download Debian Packages - dget Command | Online Free DevTools by Hexmos"
 name: dget
-path: /freedevtools/tldr/linux/dget
+path: "/freedevtools/tldr/linux/dget/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dget/"
 description: "Download Debian packages efficiently with the dget command.  Manage binary packages and source code effortlessly. Free online tool, no registration required."
 category: linux

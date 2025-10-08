@@ -1,7 +1,7 @@
 ---
 title: "Filesystem Information - Dump ext2/3/4 with dumpe2fs | Online Free DevTools by Hexmos"
 name: dumpe2fs
-path: /freedevtools/tldr/linux/dumpe2fs
+path: "/freedevtools/tldr/linux/dumpe2fs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dumpe2fs/"
 description: "Dump filesystem information with dumpe2fs. Analyze ext2/ext3/ext4 filesystems for debugging and recovery purposes. Free online tool, no registration required."
 category: linux

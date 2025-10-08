@@ -1,7 +1,7 @@
 ---
 title: "Picotool - Manage Raspberry Pi Pico Boards | Online Free DevTools by Hexmos"
 name: picotool
-path: /freedevtools/tldr/common/picotool
+path: "/freedevtools/tldr/common/picotool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/picotool/"
 description: "Manage Raspberry Pi Pico boards with Picotool. Load binaries, convert ELF files to UF2, and reboot devices effortlessly. Free online tool, no registration required."
 category: common

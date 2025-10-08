@@ -1,7 +1,7 @@
 ---
 title: "UCI - Manage OpenWrt Configuration | Online Free DevTools by Hexmos"
 name: uci
-path: "/freedevtools/tldr/linux/uci"
+path: "/freedevtools/tldr/linux/uci/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uci/"
 description: "Manage OpenWrt configuration files with UCI. Configure network settings, system parameters, and application configurations using command line. Free online tool, no registration required."
 category: linux

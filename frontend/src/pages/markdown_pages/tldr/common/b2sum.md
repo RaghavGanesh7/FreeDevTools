@@ -1,7 +1,7 @@
 ---
 title: "Calculate BLAKE2 Checksums - Verify File Integrity | Online Free DevTools by Hexmos"
 name: b2sum
-path: /freedevtools/tldr/common/b2sum
+path: "/freedevtools/tldr/common/b2sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/b2sum/"
 description: "Calculate BLAKE2 checksums with b2sum for robust file integrity verification. Generate and check file checksums effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "NM Classic - Access Object File Symbols | Online Free DevTools by Hexmos"
 name: nm-classic
-path: /freedevtools/tldr/common/nm-classic
+path: "/freedevtools/tldr/common/nm-classic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nm-classic/"
 description: "Access object file symbols with NM Classic, an alias of nm. Inspect symbol tables and debug compiled code using command line. Free online tool, no registration required."
 category: common

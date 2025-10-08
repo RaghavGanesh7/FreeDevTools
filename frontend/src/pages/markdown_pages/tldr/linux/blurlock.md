@@ -1,7 +1,7 @@
 ---
 title: "Blur Screen Lock - Control Screen Blurring | Online Free DevTools by Hexmos"
 name: blurlock
-path: /freedevtools/tldr/linux/blurlock
+path: "/freedevtools/tldr/linux/blurlock/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/blurlock/"
 description: "Control screen blurring with Blur Screen Lock, a simple i3lock wrapper. Secure your Linux desktop with blurred screenshots for privacy. Free online tool, no registration required."
 category: linux

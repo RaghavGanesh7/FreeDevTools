@@ -1,7 +1,7 @@
 ---
 title: "Find String - Search Files for Text | Online Free DevTools by Hexmos"
 name: find
-path: /freedevtools/tldr/windows/find
+path: "/freedevtools/tldr/windows/find/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/find/"
 description: "Search files for specific text with Find. Efficiently locate strings and display line counts in files. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Generate Buzzphrases - Create Random Phrases | Online Free DevTools by Hexmos"
 name: buzzphrase
-path: /freedevtools/tldr/common/buzzphrase
+path: "/freedevtools/tldr/common/buzzphrase/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/buzzphrase/"
 description: "Generate buzzphrases instantly with Buzzphrase. Create random, professional-sounding phrases for presentations and marketing materials. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Compute Graph Transitive Reduction - tred | Online Free DevTools by Hexmos"
 name: tred
-path: "/freedevtools/tldr/common/tred"
+path: "/freedevtools/tldr/common/tred/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tred/"
 description: "Compute graph transitive reduction with tred. Reduce directed graphs, optimize graph structure, and enhance graph visualization. Free online tool, no registration required."
 category: common

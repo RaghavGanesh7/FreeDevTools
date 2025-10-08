@@ -1,7 +1,7 @@
 ---
 title: "NTFS Fix - Repair NTFS Partitions | Online Free DevTools by Hexmos"
 name: ntfsfix
-path: /freedevtools/tldr/linux/ntfsfix
+path: "/freedevtools/tldr/linux/ntfsfix/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ntfsfix/"
 description: "Fix NTFS file system errors with ntfsfix. Repair corrupted NTFS partitions, resolve boot problems, and recover data easily. Free online tool, no registration required."
 category: linux

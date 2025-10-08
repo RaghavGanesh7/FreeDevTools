@@ -1,7 +1,7 @@
 ---
 title: "Configure ldconfig - Manage Shared Library Dependencies | Online Free DevTools by Hexmos"
 name: ldconfig
-path: /freedevtools/tldr/linux/ldconfig
+path: "/freedevtools/tldr/linux/ldconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ldconfig/"
 description: "Manage shared library dependencies with ldconfig. Update symlinks and cache for efficient library linking. Free online tool, no registration required."
 category: linux

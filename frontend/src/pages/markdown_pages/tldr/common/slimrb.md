@@ -1,7 +1,7 @@
 ---
 title: "Slim to HTML - Convert Slim Files to HTML | Online Free DevTools by Hexmos"
 name: slimrb
-path: /freedevtools/tldr/common/slimrb
+path: "/freedevtools/tldr/common/slimrb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/slimrb/"
 description: "Convert Slim files to HTML with slimrb. Effortlessly transform your Slim templates to valid HTML. Free online tool, no registration required."
 category: common

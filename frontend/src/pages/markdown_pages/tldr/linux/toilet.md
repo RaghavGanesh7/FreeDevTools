@@ -1,7 +1,7 @@
 ---
 title: "Generate ASCII Art - Create Text Art with Toilet | Online Free DevTools by Hexmos"
 name: toilet
-path: /freedevtools/tldr/linux/toilet
+path: "/freedevtools/tldr/linux/toilet/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toilet/"
 description: "Generate stunning ASCII art with the Toilet command-line tool.  Customize fonts and filters to create unique text-based images. Free online tool, no registration required."
 category: linux

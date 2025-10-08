@@ -1,7 +1,7 @@
 ---
 title: "Control npm Package Access - Manage Permissions | Online Free DevTools by Hexmos"
 name: npm-access
-path: /freedevtools/tldr/npm/npm-access
+path: "/freedevtools/tldr/npm/npm-access/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-access/"
 description: "Control npm package access and permissions with npm access. Manage collaborators, set package status, and configure two-factor authentication. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Launch Browser - Control Dillo Lightweight Browser | Online Free DevTools by Hexmos"
 name: dillo
-path: /freedevtools/tldr/common/dillo
+path: "/freedevtools/tldr/common/dillo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dillo/"
 description: "Launch browser sessions with Dillo, a lightweight web browser perfect for slow computers. Open URLs, files, and directories with ease. Free online tool, no registration required."
 category: common

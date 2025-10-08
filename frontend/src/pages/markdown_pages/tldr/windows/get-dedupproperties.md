@@ -1,7 +1,7 @@
 ---
 title: "Get-DedupProperties - Control Data Deduplication | Online Free DevTools by Hexmos"
 name: get-dedupproperties
-path: /freedevtools/tldr/windows/get-dedupproperties
+path: "/freedevtools/tldr/windows/get-dedupproperties/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-dedupproperties/"
 description: "Control data deduplication with Get-DedupProperties. Retrieve deduplication information, manage storage, and optimize disk space. Free online tool, no registration required."
 category: windows

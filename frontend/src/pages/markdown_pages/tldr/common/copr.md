@@ -1,7 +1,7 @@
 ---
 title: "COPR - Build Custom Software Repositories | Online Free DevTools by Hexmos"
 name: copr
-path: /freedevtools/tldr/common/copr
+path: "/freedevtools/tldr/common/copr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/copr/"
 description: "Build custom software repositories with COPR. Easily create and manage RPM packages, distribute software, and experiment with new technologies. Free online tool, no registration required."
 category: common

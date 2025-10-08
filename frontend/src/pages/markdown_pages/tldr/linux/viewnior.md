@@ -1,7 +1,7 @@
 ---
 title: "View Images - Display Images with Viewnior | Online Free DevTools by Hexmos"
 name: viewnior
-path: /freedevtools/tldr/linux/viewnior
+path: "/freedevtools/tldr/linux/viewnior/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/viewnior/"
 description: "Display images quickly with Viewnior, a lightweight image viewer for Linux. Browse photos, view slideshows, and manage image collections easily. Free online tool, no registration required."
 category: linux

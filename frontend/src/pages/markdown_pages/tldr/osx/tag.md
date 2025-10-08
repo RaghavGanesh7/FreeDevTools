@@ -1,7 +1,7 @@
 ---
 title: "Tag Files - Edit Tags on macOS | Online Free DevTools by Hexmos"
 name: tag
-path: /freedevtools/tldr/osx/tag
+path: "/freedevtools/tldr/osx/tag/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/tag/"
 description: "Edit tags on macOS files with Tag. Add, remove, and match file tags using command-line. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Combine Netpbm Images - Grid Layouts | Online Free DevTools by Hexmos"
 name: pamundice
-path: /freedevtools/tldr/common/pamundice
+path: "/freedevtools/tldr/common/pamundice/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamundice/"
 description: "Combine Netpbm images with pamundice, creating grid layouts. Specify grid dimensions and overlaps easily. Free online tool, no registration required."
 category: common

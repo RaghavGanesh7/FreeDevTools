@@ -1,7 +1,7 @@
 ---
 title: "Zcat - Print Gzip Files | Online Free DevTools by Hexmos"
 name: zcat
-path: "/freedevtools/tldr/common/zcat"
+path: "/freedevtools/tldr/common/zcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zcat/"
 description: "Print gzip files easily with Zcat. Decompress and view the contents of compressed archives directly in your terminal. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Capture Photos - rpicam-still | Online Free DevTools by Hexmos"
 name: rpicam-still
-path: /freedevtools/tldr/linux/rpicam-still
+path: "/freedevtools/tldr/linux/rpicam-still/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpicam-still/"
 description: "Capture photos with rpicam-still, a command-line tool for Raspberry Pi.  Control image encoding (BMP, PNG, RGB, YUV420), capture raw images, and adjust exposure. Free online tool, no registration required."
 category: linux

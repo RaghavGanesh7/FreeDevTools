@@ -1,7 +1,7 @@
 ---
 title: "Display Git Repo Info - Onefetch | Online Free DevTools by Hexmos"
 name: onefetch
-path: /freedevtools/tldr/common/onefetch
+path: "/freedevtools/tldr/common/onefetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/onefetch/"
 description: "Display Git repository information and statistics with Onefetch. Analyze code contributions and project details quickly. Free online tool, no registration required."
 category: common

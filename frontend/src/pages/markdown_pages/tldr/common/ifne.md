@@ -1,7 +1,7 @@
 ---
 title: "Control Command Execution - ifne | Online Free DevTools by Hexmos"
 name: ifne
-path: /freedevtools/tldr/common/ifne
+path: "/freedevtools/tldr/common/ifne/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ifne/"
 description: "Control command execution with ifne, a utility that executes commands based on stdin emptiness. Streamline shell scripting and automate tasks. Free online tool, no registration required."
 category: common

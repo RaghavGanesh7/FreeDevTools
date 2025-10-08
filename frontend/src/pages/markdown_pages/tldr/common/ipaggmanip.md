@@ -1,7 +1,7 @@
 ---
 title: "IP Aggregation Manipulation - Control Aggregate Stats | Online Free DevTools by Hexmos"
 name: ipaggmanip
-path: "/freedevtools/tldr/common/ipaggmanip"
+path: "/freedevtools/tldr/common/ipaggmanip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipaggmanip/"
 description: "Control IP aggregation data with IP Aggregation Manipulation. Efficiently manipulate, filter, and analyze network data. Free online tool, no registration required."
 category: common

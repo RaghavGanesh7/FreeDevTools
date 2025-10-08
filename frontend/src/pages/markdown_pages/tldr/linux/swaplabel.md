@@ -1,7 +1,7 @@
 ---
 title: "Swaplabel - Manage Swap Partitions | Online Free DevTools by Hexmos"
 name: swaplabel
-path: /freedevtools/tldr/linux/swaplabel
+path: "/freedevtools/tldr/linux/swaplabel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/swaplabel/"
 description: "Manage swap partition labels and UUIDs with swaplabel.  View, set, and change swap area identifiers easily. Free online tool, no registration required."
 category: linux

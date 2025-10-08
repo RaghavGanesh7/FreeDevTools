@@ -1,7 +1,7 @@
 ---
 title: "TTY - Returns Terminal Name | Online Free DevTools by Hexmos"
 name: tty
-path: /freedevtools/tldr/common/tty
+path: "/freedevtools/tldr/common/tty/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tty/"
 description: "Retrieve terminal name with TTY. Identify the controlling terminal associated with standard input using this command line tool. Free online tool, no registration required."
 category: common

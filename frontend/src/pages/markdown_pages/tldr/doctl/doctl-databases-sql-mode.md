@@ -1,7 +1,7 @@
 ---
 title: "Databases SQL Mode - Control MySQL SQL Modes | Online Free DevTools by Hexmos"
 name: doctl-databases-sql-mode
-path: /freedevtools/tldr/doctl/doctl-databases-sql-mode
+path: "/freedevtools/tldr/doctl/doctl-databases-sql-mode/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-databases-sql-mode/"
 description: "Control MySQL SQL Modes with doctl databases sql-mode. Configure database clusters, get and set SQL modes, and manage database settings. Free online tool, no registration required."
 category: common

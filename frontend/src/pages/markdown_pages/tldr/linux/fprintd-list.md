@@ -1,7 +1,7 @@
 ---
 title: "Fingerprint List - Manage User Fingerprints | Online Free DevTools by Hexmos"
 name: fprintd-list
-path: /freedevtools/tldr/linux/fprintd-list
+path: "/freedevtools/tldr/linux/fprintd-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fprintd-list/"
 description: "Manage user fingerprints with Fingerprint List. Quickly list enrolled fingerprints for user authentication and security. Free online tool, no registration required."
 category: linux

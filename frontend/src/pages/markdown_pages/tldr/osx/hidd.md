@@ -1,7 +1,7 @@
 ---
 title: "HID Daemon - Control macOS Devices | Online Free DevTools by Hexmos"
 name: hidd
-path: /freedevtools/tldr/osx/hidd
+path: "/freedevtools/tldr/osx/hidd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/hidd/"
 description: "Control HID devices on macOS with the HID Daemon (hidd). Manage Human Interface Devices, diagnose connectivity, and ensure proper communication. Free online tool, no registration required."
 category: osx

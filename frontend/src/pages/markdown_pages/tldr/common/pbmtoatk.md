@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - Create Andrew Toolkit Raster | Online Free DevTools by Hexmos"
 name: pbmtoatk
-path: /freedevtools/tldr/common/pbmtoatk
+path: "/freedevtools/tldr/common/pbmtoatk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoatk/"
 description: "Create Andrew Toolkit raster objects with PBMtoatk, a powerful image converter. Transform Portable Bitmap images into ATK format easily. Free online tool, no registration required."
 category: common

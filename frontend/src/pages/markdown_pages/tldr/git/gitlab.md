@@ -1,7 +1,7 @@
 ---
 title: "GitLab Control - Manage Repositories and Pipelines | Online Free DevTools by Hexmos"
 name: gitlab
-path: /freedevtools/tldr/git/gitlab
+path: "/freedevtools/tldr/git/gitlab/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitlab/"
 description: "Control GitLab repositories and CI/CD pipelines with GitLab. Automate project creation, commit inspections, and job management. Free online tool, no registration required."
 category: common

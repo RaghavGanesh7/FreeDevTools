@@ -1,7 +1,7 @@
 ---
 title: "Micromamba - Manage Conda Packages | Online Free DevTools by Hexmos"
 name: micromamba
-path: /freedevtools/tldr/common/micromamba
+path: "/freedevtools/tldr/common/micromamba/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/micromamba/"
 description: "Manage Conda packages with Micromamba, a fast and lightweight package manager. Create environments, install packages, and query dependencies efficiently. Free online tool, no registration required."
 category: common

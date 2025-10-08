@@ -1,7 +1,7 @@
 ---
 title: "Compile C Code - with CC Command | Online Free DevTools by Hexmos"
 name: cc
-path: /freedevtools/tldr/linux/cc
+path: "/freedevtools/tldr/linux/cc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cc/"
 description: "Compile C code quickly with the CC command, a Linux alias for GCC. Streamline your software development with this command line tool. Free online tool, no registration required."
 category: linux

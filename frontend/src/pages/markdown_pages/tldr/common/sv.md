@@ -1,7 +1,7 @@
 ---
 title: "SV - Control runsv Services | Online Free DevTools by Hexmos"
 name: sv
-path: /freedevtools/tldr/common/sv
+path: "/freedevtools/tldr/common/sv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sv/"
 description: "Control services with SV, a command-line tool for managing runsv services. Start, stop, reload, and check the status of your services easily. Free online tool, no registration required."
 category: common

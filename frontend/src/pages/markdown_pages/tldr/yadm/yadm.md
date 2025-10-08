@@ -1,7 +1,7 @@
 ---
 title: "Manage Dotfiles - Control Configurations with yadm | Online Free DevTools by Hexmos"
 name: yadm
-path: /freedevtools/tldr/yadm/yadm
+path: "/freedevtools/tldr/yadm/yadm/"
 canonical: "https://hexmos.com/freedevtools/tldr/yadm/yadm/"
 description: "Control dotfiles with yadm, a git-backed configuration manager. Easily track, version, and deploy your system settings across multiple machines. Free online tool, no registration required."
 category: common

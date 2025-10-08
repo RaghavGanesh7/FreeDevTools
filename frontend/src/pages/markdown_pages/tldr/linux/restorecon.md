@@ -1,7 +1,7 @@
 ---
 title: "Restore SELinux Context - Manage File Security | Online Free DevTools by Hexmos"
 name: restorecon
-path: /freedevtools/tldr/linux/restorecon
+path: "/freedevtools/tldr/linux/restorecon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/restorecon/"
 description: "Restore SELinux context with Restorecon, a command-line tool for managing file security labels. Secure your Linux system effortlessly. Free online tool, no registration required."
 category: linux

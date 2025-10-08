@@ -1,7 +1,7 @@
 ---
 title: "Summarize PCAP Dumps - Control Network Traffic | Online Free DevTools by Hexmos"
 name: ipsumdump
-path: /freedevtools/tldr/common/ipsumdump
+path: "/freedevtools/tldr/common/ipsumdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipsumdump/"
 description: "Summarize PCAP dumps with Ipsumdump and analyze network traffic data. Get human-readable ASCII summaries of TCP/IP packets. Free online tool, no registration required."
 category: common

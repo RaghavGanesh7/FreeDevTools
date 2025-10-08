@@ -1,7 +1,7 @@
 ---
 title: "Pamedge Image Edge Detection - Generate Edges | Online Free DevTools by Hexmos"
 name: pamedge
-path: /freedevtools/tldr/common/pamedge
+path: "/freedevtools/tldr/common/pamedge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamedge/"
 description: "Generate edges in images with Pamedge. Enhance images using Netpbm tools with this image processing command. Free online tool, no registration required."
 category: common

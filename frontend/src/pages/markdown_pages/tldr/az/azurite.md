@@ -1,7 +1,7 @@
 ---
 title: "Azurite - Emulate Azure Storage APIs | Online Free DevTools by Hexmos"
 name: azurite
-path: /freedevtools/tldr/az/azurite
+path: "/freedevtools/tldr/az/azurite/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/azurite/"
 description: "Emulate Azure Storage APIs with Azurite, a local Azure Storage emulator. Test blob, queue, and table services without connecting to Azure. Free online tool, no registration required."
 category: common

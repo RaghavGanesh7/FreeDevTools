@@ -1,7 +1,7 @@
 ---
 title: "PDF Attachments - Extract PDF Files | Online Free DevTools by Hexmos"
 name: pdfdetach
-path: /freedevtools/tldr/linux/pdfdetach
+path: "/freedevtools/tldr/linux/pdfdetach/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdfdetach/"
 description: "Extract PDF attachments easily with pdfdetach. Manage embedded files and list PDF contents using this command-line tool. Free online tool, no registration required."
 category: linux

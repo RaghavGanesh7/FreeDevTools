@@ -1,7 +1,7 @@
 ---
 title: "Herd List - List Herd Commands | Online Free DevTools by Hexmos"
 name: herd-list
-path: /freedevtools/tldr/osx/herd-list
+path: "/freedevtools/tldr/osx/herd-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/herd-list/"
 description: "List Herd commands quickly with Herd List. View available commands and namespaces in your Herd PHP platform. Free online tool, no registration required."
 category: osx

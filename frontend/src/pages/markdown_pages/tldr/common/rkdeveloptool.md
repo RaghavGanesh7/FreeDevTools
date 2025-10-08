@@ -1,7 +1,7 @@
 ---
 title: "Flash Rockchip Devices - Control Boot Firmware | Online Free DevTools by Hexmos"
 name: rkdeveloptool
-path: /freedevtools/tldr/common/rkdeveloptool
+path: "/freedevtools/tldr/common/rkdeveloptool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rkdeveloptool/"
 description: "Flash Rockchip devices with rkdeveloptool. Program bootloaders, update firmware, and manage partitions on Rockchip-based devices. Free online tool, no registration required."
 category: common

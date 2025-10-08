@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - Pigz Multithreaded Compression | Online Free DevTools by Hexmos"
 name: pigz
-path: /freedevtools/tldr/common/pigz
+path: "/freedevtools/tldr/common/pigz/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pigz/"
 description: "Compress files efficiently with Pigz, a multithreaded gzip implementation. Accelerate file compression and decompression on Linux and macOS. Free online tool, no registration required."
 category: common

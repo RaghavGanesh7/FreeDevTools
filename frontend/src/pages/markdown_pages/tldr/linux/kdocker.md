@@ -1,7 +1,7 @@
 ---
 title: "Dock Applications - Control System Tray Apps | Online Free DevTools by Hexmos"
 name: kdocker
-path: /freedevtools/tldr/linux/kdocker
+path: "/freedevtools/tldr/linux/kdocker/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kdocker/"
 description: "Control applications in the system tray with KDocker. Easily minimize apps to the tray and manage their visibility. Free online tool, no registration required."
 category: linux

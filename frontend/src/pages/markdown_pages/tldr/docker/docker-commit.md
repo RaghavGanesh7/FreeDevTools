@@ -1,7 +1,7 @@
 ---
 title: "Create Docker Image - Commit Container Changes | Online Free DevTools by Hexmos"
 name: docker-commit
-path: /freedevtools/tldr/docker/docker-commit
+path: "/freedevtools/tldr/docker/docker-commit/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-commit/"
 description: "Create Docker image from container changes with Docker Commit. Preserve application states and easily build new images. Free online tool, no registration required."
 category: common

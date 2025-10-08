@@ -1,7 +1,7 @@
 ---
 title: "Install Node Version - Manage Node.js Versions | Online Free DevTools by Hexmos"
 name: install-nodeversion
-path: /freedevtools/tldr/install/install-nodeversion
+path: "/freedevtools/tldr/install/install-nodeversion/"
 canonical: "https://hexmos.com/freedevtools/tldr/install/install-nodeversion/"
 description: "Manage Node.js versions effortlessly with Install-NodeVersion. Install specific versions, latest versions, and architectures. Free online tool, no registration required."
 category: common

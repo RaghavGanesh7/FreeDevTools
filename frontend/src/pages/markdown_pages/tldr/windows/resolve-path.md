@@ -1,7 +1,7 @@
 ---
 title: "Resolve Path - Display Path Contents | Online Free DevTools by Hexmos"
 name: resolve-path
-path: /freedevtools/tldr/windows/resolve-path
+path: "/freedevtools/tldr/windows/resolve-path/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/resolve-path/"
 description: "Resolve paths with Resolve-Path. Display file and directory contents, navigate UNC paths, and get relative path information. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - lrzip Large File Compression | Online Free DevTools by Hexmos"
 name: lrzip
-path: /freedevtools/tldr/linux/lrzip
+path: "/freedevtools/tldr/linux/lrzip/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lrzip/"
 description: "Compress files with lrzip, a powerful large file compression tool. Achieve optimal compression ratios and efficient data storage. Free online tool, no registration required."
 category: linux

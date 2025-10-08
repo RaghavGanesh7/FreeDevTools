@@ -1,7 +1,7 @@
 ---
 title: "Control RetroArch - Emulate Games on Linux | Online Free DevTools by Hexmos"
 name: retroarch
-path: /freedevtools/tldr/linux/retroarch
+path: "/freedevtools/tldr/linux/retroarch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/retroarch/"
 description: "Control your gaming experience with RetroArch emulator on Linux. Emulate classic games and manage configuration files easily. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Clock - Manage System Time | Online Free DevTools by Hexmos"
 name: clock
-path: /freedevtools/tldr/cisco-ios/clock
+path: "/freedevtools/tldr/cisco-ios/clock/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/clock/"
 description: "Control Cisco IOS system time with Clock, a command for setting time and configuring clock synchronization. Free online tool, no registration required."
 category: cisco-ios

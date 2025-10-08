@@ -1,7 +1,7 @@
 ---
 title: "Git Sync - Sync Local Branches | Online Free DevTools by Hexmos"
 name: git-sync
-path: /freedevtools/tldr/git/git-sync
+path: "/freedevtools/tldr/git/git-sync/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-sync/"
 description: "Sync local Git branches with remote branches using Git Sync. Streamline your workflow and keep your repositories up-to-date. Free online tool, no registration required."
 category: common

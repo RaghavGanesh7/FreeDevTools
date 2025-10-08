@@ -1,7 +1,7 @@
 ---
 title: "PDF Text Search - Find Text in PDFs | Online Free DevTools by Hexmos"
 name: pdfgrep
-path: /freedevtools/tldr/common/pdfgrep
+path: "/freedevtools/tldr/common/pdfgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pdfgrep/"
 description: "Search PDF text with pdfgrep. Quickly find specific words or phrases within PDF documents using command-line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Profile Analyzer - Visualize Profiling Data | Online Free DevTools by Hexmos"
 name: pprof
-path: /freedevtools/tldr/common/pprof
+path: "/freedevtools/tldr/common/pprof/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pprof/"
 description: "Visualize profiling data with pprof. Analyze CPU usage, memory allocation, and more. Free online tool, no registration required."
 category: common

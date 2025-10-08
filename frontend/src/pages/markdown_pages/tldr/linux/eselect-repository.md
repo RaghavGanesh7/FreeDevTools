@@ -1,7 +1,7 @@
 ---
 title: "Manage Gentoo Repositories - Control Portage with eselect | Online Free DevTools by Hexmos"
 name: eselect-repository
-path: /freedevtools/tldr/linux/eselect-repository
+path: "/freedevtools/tldr/linux/eselect-repository/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eselect-repository/"
 description: "Control Gentoo Portage ebuild repositories with eselect repository.  Manage, enable, disable, and remove repositories easily. Free online tool, no registration required."
 category: linux

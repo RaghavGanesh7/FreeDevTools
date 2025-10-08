@@ -1,7 +1,7 @@
 ---
 title: "Exoscale Storage - Manage SOS Buckets | Online Free DevTools by Hexmos"
 name: exo-storage
-path: /freedevtools/tldr/exo/exo-storage
+path: "/freedevtools/tldr/exo/exo-storage/"
 canonical: "https://hexmos.com/freedevtools/tldr/exo/exo-storage/"
 description: "Manage Exoscale SOS buckets and objects with exo storage. Upload, download, list objects, and manage metadata easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Netstat - Display Network Connections | Online Free DevTools by Hexmos"
 name: netstat
-path: /freedevtools/tldr/osx/netstat
+path: "/freedevtools/tldr/osx/netstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/netstat/"
 description: "Display network connections with Netstat, showing open ports and routing tables. Diagnose network issues and monitor traffic. Free online tool, no registration required."
 category: osx

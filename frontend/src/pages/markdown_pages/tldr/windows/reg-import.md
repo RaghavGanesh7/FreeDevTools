@@ -1,7 +1,7 @@
 ---
 title: "Reg Import - Import Registry Files | Online Free DevTools by Hexmos"
 name: reg-import
-path: /freedevtools/tldr/windows/reg-import
+path: "/freedevtools/tldr/windows/reg-import/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-import/"
 description: "Import registry files effortlessly with Reg Import. Merge .reg files into the Windows registry, streamlining configuration and customization. Free online tool, no registration required."
 category: windows

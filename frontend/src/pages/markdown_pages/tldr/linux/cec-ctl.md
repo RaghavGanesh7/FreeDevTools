@@ -1,7 +1,7 @@
 ---
 title: "Control CEC Devices with cec-ctl | Online Free DevTools by Hexmos"
 name: cec-ctl
-path: /freedevtools/tldr/linux/cec-ctl
+path: "/freedevtools/tldr/linux/cec-ctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cec-ctl/"
 description: "Control kernel CEC devices with cec-ctl. Monitor CEC traffic, list devices, and show CEC topology. Free online tool, no registration required."
 category: linux

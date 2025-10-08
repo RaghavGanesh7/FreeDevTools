@@ -1,7 +1,7 @@
 ---
 title: "Distrobox Upgrade - Control Linux Containers | Online Free DevTools by Hexmos"
 name: distrobox-upgrade
-path: /freedevtools/tldr/linux/distrobox-upgrade
+path: "/freedevtools/tldr/linux/distrobox-upgrade/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/distrobox-upgrade/"
 description: "Upgrade Linux containers effortlessly with Distrobox Upgrade. Update single or multiple containers using native package managers. Free online tool, no registration required."
 category: linux

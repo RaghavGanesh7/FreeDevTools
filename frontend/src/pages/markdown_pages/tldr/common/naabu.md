@@ -1,7 +1,7 @@
 ---
 title: "Naabu Port Scanner - Fast Network Scanning | Online Free DevTools by Hexmos"
 name: naabu
-path: /freedevtools/tldr/common/naabu
+path: "/freedevtools/tldr/common/naabu/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/naabu/"
 description: "Perform fast network scanning with Naabu Port Scanner. Identify open ports and services quickly and efficiently using command line. Free online tool, no registration required."
 category: common

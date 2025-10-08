@@ -1,7 +1,7 @@
 ---
 title: "Fossil Control - Manage Versions | Online Free DevTools by Hexmos"
 name: fossil
-path: /freedevtools/tldr/fossil/fossil
+path: "/freedevtools/tldr/fossil/fossil/"
 canonical: "https://hexmos.com/freedevtools/tldr/fossil/fossil/"
 description: "Control source code versions with Fossil, a distributed version control system. Manage repositories and track changes efficiently. Free online tool, no registration required."
 category: common

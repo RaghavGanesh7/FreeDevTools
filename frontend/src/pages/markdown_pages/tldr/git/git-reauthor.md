@@ -1,7 +1,7 @@
 ---
 title: "Reauthor Git - Change Author Identity | Online Free DevTools by Hexmos"
 name: git-reauthor
-path: /freedevtools/tldr/git/git-reauthor
+path: "/freedevtools/tldr/git/git-reauthor/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-reauthor/"
 description: "Reauthor Git commits easily with Git Reauthor. Correct author email and name across your Git repository. Free online tool, no registration required."
 category: common

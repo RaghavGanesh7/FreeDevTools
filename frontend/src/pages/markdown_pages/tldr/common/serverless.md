@@ -1,7 +1,7 @@
 ---
 title: "Create Serverless Projects - Deploy Cloud Architectures | Online Free DevTools by Hexmos"
 name: serverless
-path: /freedevtools/tldr/common/serverless
+path: "/freedevtools/tldr/common/serverless/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/serverless/"
 description: "Create Serverless projects with Serverless. Deploy serverless architectures to AWS, Azure, Google Cloud and more. Free online tool, no registration required."
 category: common

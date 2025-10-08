@@ -1,7 +1,7 @@
 ---
 title: "Control Idle Time - Manage Wayland Idle with Swayidle | Online Free DevTools by Hexmos"
 name: swayidle
-path: "/freedevtools/tldr/common/swayidle"
+path: "/freedevtools/tldr/common/swayidle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swayidle/"
 description: "Control Wayland idle state with Swayidle. Configure idle timeouts, execute commands on inactivity, and manage screen locking. Free online tool, no registration required."
 category: common

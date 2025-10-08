@@ -1,7 +1,7 @@
 ---
 title: "Autossh - Control SSH Connections and Tunnels | Online Free DevTools by Hexmos"
 name: autossh
-path: /freedevtools/tldr/common/autossh
+path: "/freedevtools/tldr/common/autossh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/autossh/"
 description: "Control SSH connections with Autossh. Auto-reconnects, manages tunnels, and keeps connections alive. Free online tool, no registration required."
 category: common

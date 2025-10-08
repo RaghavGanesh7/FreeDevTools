@@ -1,7 +1,7 @@
 ---
 title: "Argon2 Hash Generator - Create Secure Hashes | Online Free DevTools by Hexmos"
 name: argon2
-path: /freedevtools/tldr/common/argon2
+path: "/freedevtools/tldr/common/argon2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/argon2/"
 description: "Generate Argon2 cryptographic hashes with Argon2 Hash Generator. Secure your passwords and data using advanced hashing algorithms. Free online tool, no registration required."
 category: common

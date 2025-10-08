@@ -1,7 +1,7 @@
 ---
 title: "uv run - Execute Python Scripts | Online Free DevTools by Hexmos"
 name: uv-run
-path: /freedevtools/tldr/uv/uv-run
+path: "/freedevtools/tldr/uv/uv-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-run/"
 description: "Execute Python scripts with uv run. Manage project dependencies, install packages on demand, and run in isolated environments. Free online tool, no registration required."
 category: common

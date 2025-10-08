@@ -1,7 +1,7 @@
 ---
 title: "Create LKE Cluster - Manage Linode Kubernetes | Online Free DevTools by Hexmos"
 name: linode-cli-lke
-path: /freedevtools/tldr/linode/linode-cli-lke
+path: "/freedevtools/tldr/linode/linode-cli-lke/"
 canonical: "https://hexmos.com/freedevtools/tldr/linode/linode-cli-lke/"
 description: "Create LKE clusters easily with linode-cli. Manage and deploy Kubernetes clusters on Linode infrastructure efficiently using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Process MySQL Binlog - Analyze Database Logs | Online Free DevTools by Hexmos"
 name: mysqlbinlog
-path: /freedevtools/tldr/common/mysqlbinlog
+path: "/freedevtools/tldr/common/mysqlbinlog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mysqlbinlog/"
 description: "Analyze MySQL database logs with mysqlbinlog. Extract events, filter by date, position, or database. Free online tool, no registration required. Powerful data processing!"
 category: common

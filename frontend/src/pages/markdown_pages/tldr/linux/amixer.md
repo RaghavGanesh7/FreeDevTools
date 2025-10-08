@@ -1,7 +1,7 @@
 ---
 title: "Amixer - Control ALSA Sound Volume | Online Free DevTools by Hexmos"
 name: amixer
-path: /freedevtools/tldr/linux/amixer
+path: "/freedevtools/tldr/linux/amixer/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/amixer/"
 description: "Control ALSA sound volume with Amixer. Adjust sound card settings and audio levels using command-line. Free online tool, no registration required."
 category: linux

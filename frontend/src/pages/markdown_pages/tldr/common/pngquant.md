@@ -1,7 +1,7 @@
 ---
 title: "Compress PNG Images - Optimize Images | Online Free DevTools by Hexmos"
 name: pngquant
-path: /freedevtools/tldr/common/pngquant
+path: "/freedevtools/tldr/common/pngquant/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pngquant/"
 description: "Compress PNG images efficiently with pngquant. Reduce PNG file sizes using lossy compression and optimize images for the web. Free online tool, no registration required."
 category: common

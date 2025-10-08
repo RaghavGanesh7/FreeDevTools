@@ -1,7 +1,7 @@
 ---
 title: "Convert RAW Files - Image Converter | Online Free DevTools by Hexmos"
 name: ufraw-batch
-path: /freedevtools/tldr/common/ufraw-batch
+path: "/freedevtools/tldr/common/ufraw-batch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ufraw-batch/"
 description: "Convert RAW files with ufraw-batch image converter. Supports JPEG and PNG formats. Extract previews and resize images quickly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "SCC Graph Extraction - Extract Graph Components | Online Free DevTools by Hexmos"
 name: sccmap
-path: /freedevtools/tldr/common/sccmap
+path: "/freedevtools/tldr/common/sccmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sccmap/"
 description: "Extract SCC graph components with sccmap. Analyze directed graphs, identify strongly connected components, and visualize graph structure. Free online tool, no registration required."
 category: common

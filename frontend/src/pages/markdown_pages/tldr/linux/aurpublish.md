@@ -1,7 +1,7 @@
 ---
 title: "AUR Publish - Create AUR Packages for Linux | Online Free DevTools by Hexmos"
 name: aurpublish
-path: /freedevtools/tldr/linux/aurpublish
+path: "/freedevtools/tldr/linux/aurpublish/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aurpublish/"
 description: "Create AUR packages easily with aurpublish. Automate package publishing, verify integrity, and generate commit messages. Free online tool, no registration required."
 category: linux

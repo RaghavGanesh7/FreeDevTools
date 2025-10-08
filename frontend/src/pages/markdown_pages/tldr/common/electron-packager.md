@@ -1,7 +1,7 @@
 ---
 title: "Package Electron Apps - Build Cross-Platform Apps | Online Free DevTools by Hexmos"
 name: electron-packager
-path: /freedevtools/tldr/common/electron-packager
+path: "/freedevtools/tldr/common/electron-packager/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/electron-packager/"
 description: "Package Electron apps easily with electron-packager. Build cross-platform executables for Windows, Linux, and macOS. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "MQTT Broker - Manage Messages | Online Free DevTools by Hexmos"
 name: mosquitto
-path: /freedevtools/tldr/common/mosquitto
+path: "/freedevtools/tldr/common/mosquitto/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mosquitto/"
 description: "Manage messages with MQTT Broker Mosquitto. Configure, start, and daemonize your message broker. Free online tool, no registration required."
 category: common

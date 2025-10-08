@@ -1,7 +1,7 @@
 ---
 title: "Generate Code Statistics - Tokei Code Analyzer | Online Free DevTools by Hexmos"
 name: tokei
-path: /freedevtools/tldr/common/tokei
+path: "/freedevtools/tldr/common/tokei/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tokei/"
 description: "Generate code statistics with Tokei. Analyze codebase complexity, identify language distribution, and improve code quality. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Change File Flags - Control File Attributes | Online Free DevTools by Hexmos"
 name: chflags
-path: /freedevtools/tldr/osx/chflags
+path: "/freedevtools/tldr/osx/chflags/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/chflags/"
 description: "Change file flags instantly with Chflags. Modify hidden attributes and control file accessibility. Free online tool, no registration required."
 category: osx

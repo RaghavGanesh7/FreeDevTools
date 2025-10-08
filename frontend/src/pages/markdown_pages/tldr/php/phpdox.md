@@ -1,7 +1,7 @@
 ---
 title: "Generate PHP Documentation - phpDox | Online Free DevTools by Hexmos"
 name: phpdox
-path: /freedevtools/tldr/php/phpdox
+path: "/freedevtools/tldr/php/phpdox/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phpdox/"
 description: "Generate PHP documentation with phpDox. Automate the process of creating API documentation and enhance code readability. Free online tool, no registration required."
 category: common

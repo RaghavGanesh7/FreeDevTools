@@ -1,7 +1,7 @@
 ---
 title: "Network Trip - Diagnose Network Issues | Online Free DevTools by Hexmos"
 name: trip
-path: /freedevtools/tldr/common/trip
+path: "/freedevtools/tldr/common/trip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trip/"
 description: "Diagnose network issues with Network Trip, combining traceroute and ping functionality. Analyze network paths and latency with this free online tool, no registration required."
 category: common

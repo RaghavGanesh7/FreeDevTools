@@ -1,7 +1,7 @@
 ---
 title: "Ifconfig - Control Network Interfaces on MacOS | Online Free DevTools by Hexmos"
 name: gifconfig
-path: /freedevtools/tldr/osx/gifconfig
+path: "/freedevtools/tldr/osx/gifconfig/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gifconfig/"
 description: "Control network interfaces with Ifconfig on MacOS. Configure IP addresses, manage network routes, and monitor interface status instantly. Free online tool, no registration required."
 category: osx

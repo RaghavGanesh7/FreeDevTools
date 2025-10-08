@@ -1,7 +1,7 @@
 ---
 title: "Generate Gemini Server - Manage Gemini Network | Online Free DevTools by Hexmos"
 name: agate
-path: /freedevtools/tldr/common/agate
+path: "/freedevtools/tldr/common/agate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/agate/"
 description: "Generate Gemini server certificates with Agate, a simple server for the Gemini network protocol. Easily manage and deploy your Gemini capsule. Free online tool, no registration required."
 category: common

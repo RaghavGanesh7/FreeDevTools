@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to WBMP - Create Wireless Bitmaps | Online Free DevTools by Hexmos"
 name: pbmtowbmp
-path: /freedevtools/tldr/common/pbmtowbmp
+path: "/freedevtools/tldr/common/pbmtowbmp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtowbmp/"
 description: "Convert PBM images to WBMP files with pbmtowbmp. Create optimized wireless bitmaps for mobile devices using this free online tool, no registration required."
 category: common

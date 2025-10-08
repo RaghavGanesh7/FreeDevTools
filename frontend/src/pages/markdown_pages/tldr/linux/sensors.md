@@ -1,7 +1,7 @@
 ---
 title: "Sensors - Report Hardware Sensors Information | Online Free DevTools by Hexmos"
 name: sensors
-path: /freedevtools/tldr/linux/sensors
+path: "/freedevtools/tldr/linux/sensors/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sensors/"
 description: "Report hardware sensors information with Sensors, a command-line tool for Linux. Monitor temperature, voltage, and fan speed. Free online tool, no registration required."
 category: linux

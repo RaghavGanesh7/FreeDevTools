@@ -1,7 +1,7 @@
 ---
 title: "Carbonyl Terminal Viewer - View Webpages in Terminal | Online Free DevTools by Hexmos"
 name: carbonyl
-path: /freedevtools/tldr/common/carbonyl
+path: "/freedevtools/tldr/common/carbonyl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/carbonyl/"
 description: "View webpages directly in your terminal with Carbonyl Terminal Viewer. Render HTML, CSS, and JavaScript using a Chromium backend for command-line browsing. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Service Control - Manage Init Scripts | Online Free DevTools by Hexmos"
 name: service
-path: /freedevtools/tldr/linux/service
+path: "/freedevtools/tldr/linux/service/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/service/"
 description: "Manage init scripts with Service Control. Start, stop, restart, and reload system services using command line. Free online tool, no registration required."
 category: linux

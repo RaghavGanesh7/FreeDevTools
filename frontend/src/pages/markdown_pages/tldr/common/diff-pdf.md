@@ -1,7 +1,7 @@
 ---
 title: "Compare PDF - Analyze PDF Differences | Online Free DevTools by Hexmos"
 name: diff-pdf
-path: /freedevtools/tldr/common/diff-pdf
+path: "/freedevtools/tldr/common/diff-pdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/diff-pdf/"
 description: "Compare PDFs with diff-pdf. Analyze and visually highlight differences between PDF files. Free online tool, no registration required."
 category: common

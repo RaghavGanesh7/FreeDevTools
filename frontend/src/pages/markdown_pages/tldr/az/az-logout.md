@@ -1,7 +1,7 @@
 ---
 title: "Azure Logout - Manage Azure Subscriptions | Online Free DevTools by Hexmos"
 name: az-logout
-path: /freedevtools/tldr/az/az-logout
+path: "/freedevtools/tldr/az/az-logout/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-logout/"
 description: "Manage Azure subscriptions with Azure Logout. Securely disconnect from Azure accounts and subscriptions using the Azure CLI. Free online tool, no registration required."
 category: common

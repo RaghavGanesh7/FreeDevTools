@@ -1,7 +1,7 @@
 ---
 title: "Compute Image PSNR - Compare Images | Online Free DevTools by Hexmos"
 name: pnmpsnr
-path: /freedevtools/tldr/pnm/pnmpsnr
+path: "/freedevtools/tldr/pnm/pnmpsnr/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmpsnr/"
 description: "Compute Image PSNR with pnmpsnr. Analyze image differences and signal-to-noise ratio. Free online tool, no registration required."
 category: common

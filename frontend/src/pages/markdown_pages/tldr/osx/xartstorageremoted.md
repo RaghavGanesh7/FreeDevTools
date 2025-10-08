@@ -1,7 +1,7 @@
 ---
 title: "xART Storage Remote - Manage CoProcessor Data | Online Free DevTools by Hexmos"
 name: xartstorageremoted
-path: /freedevtools/tldr/osx/xartstorageremoted
+path: "/freedevtools/tldr/osx/xartstorageremoted/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xartstorageremoted/"
 description: "Manage CoProcessor data with xART Storage Remote. Control data save and fetch requests for macOS. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Cpio - Create Archive Files | Online Free DevTools by Hexmos"
 name: cpio
-path: /freedevtools/tldr/common/cpio
+path: "/freedevtools/tldr/common/cpio/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cpio/"
 description: "Create archive files with cpio. Manage archives, extract files, and copy files in and out of archives using various formats. Free online tool, no registration required."
 category: common

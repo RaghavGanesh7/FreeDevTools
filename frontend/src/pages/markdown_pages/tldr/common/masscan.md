@@ -1,7 +1,7 @@
 ---
 title: "Network Scan - Discover Open Ports | Online Free DevTools by Hexmos"
 name: masscan
-path: /freedevtools/tldr/common/masscan
+path: "/freedevtools/tldr/common/masscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/masscan/"
 description: "Perform network scanning with Masscan to quickly identify open ports and services. Discover vulnerabilities with this powerful scanner, free online, no registration needed."
 category: common

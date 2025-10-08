@@ -1,7 +1,7 @@
 ---
 title: "WebTorrent - Download and Seed Torrents | Online Free DevTools by Hexmos"
 name: webtorrent
-path: /freedevtools/tldr/common/webtorrent
+path: "/freedevtools/tldr/common/webtorrent/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/webtorrent/"
 description: "Download torrents quickly with WebTorrent. Stream torrents to VLC and DLNA devices, and seed files easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Kubectl - Control Kubernetes Clusters | Online Free DevTools by Hexmos"
 name: kubectl
-path: /freedevtools/tldr/kubectl/kubectl
+path: "/freedevtools/tldr/kubectl/kubectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl/"
 description: "Control Kubernetes clusters with Kubectl. Deploy applications, inspect resources, and manage workloads easily. Free online tool, no registration required."
 category: common

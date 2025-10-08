@@ -1,7 +1,7 @@
 ---
 title: "PAM Overlay - Compose Images with PAMCOMP | Online Free DevTools by Hexmos"
 name: pamcomp
-path: /freedevtools/tldr/common/pamcomp
+path: "/freedevtools/tldr/common/pamcomp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamcomp/"
 description: "Compose PAM images with PAMCOMP. Overlay, align, and set opacity to create complex image compositions. Free online tool, no registration required."
 category: common

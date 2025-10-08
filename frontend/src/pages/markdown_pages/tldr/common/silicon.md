@@ -1,7 +1,7 @@
 ---
 title: "Silicon - Generate Code Images | Online Free DevTools by Hexmos"
 name: silicon
-path: /freedevtools/tldr/common/silicon
+path: "/freedevtools/tldr/common/silicon/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/silicon/"
 description: "Generate source code images instantly with Silicon. Create visually appealing code snippets for presentations and documentation. Free online tool, no registration required."
 category: common

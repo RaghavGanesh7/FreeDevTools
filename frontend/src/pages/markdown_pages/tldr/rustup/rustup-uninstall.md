@@ -1,7 +1,7 @@
 ---
 title: "Rustup Uninstall - Remove Rust Toolchains | Online Free DevTools by Hexmos"
 name: rustup-uninstall
-path: /freedevtools/tldr/rustup/rustup-uninstall
+path: "/freedevtools/tldr/rustup/rustup-uninstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/rustup/rustup-uninstall/"
 description: "Uninstall Rust toolchains easily with Rustup. Remove specific Rust versions and manage your Rust environment effortlessly using the command line. Free online tool, no registration required."
 category: common

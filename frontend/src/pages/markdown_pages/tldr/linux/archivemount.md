@@ -1,7 +1,7 @@
 ---
 title: "Archive Mount - Access Archives as Filesystem | Online Free DevTools by Hexmos"
 name: archivemount
-path: /freedevtools/tldr/linux/archivemount
+path: "/freedevtools/tldr/linux/archivemount/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/archivemount/"
 description: "Access files inside archives with Archive Mount. Mount archives as filesystems for easy exploration and modification. Free online tool, no registration required."
 category: linux

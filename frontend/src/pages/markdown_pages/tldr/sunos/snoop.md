@@ -1,7 +1,7 @@
 ---
 title: "Capture Network Packets with Snoop | Online Free DevTools by Hexmos"
 name: snoop
-path: /freedevtools/tldr/sunos/snoop
+path: "/freedevtools/tldr/sunos/snoop/"
 canonical: "https://hexmos.com/freedevtools/tldr/sunos/snoop/"
 description: "Capture network packets efficiently with Snoop, the SunOS network packet sniffer. Monitor network traffic and analyze data. Free online tool, no registration required."
 category: sunos

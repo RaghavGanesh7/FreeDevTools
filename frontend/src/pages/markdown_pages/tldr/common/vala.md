@@ -1,7 +1,7 @@
 ---
 title: "Compile Vala Code - Run Vala Programs | Online Free DevTools by Hexmos"
 name: vala
-path: /freedevtools/tldr/common/vala
+path: "/freedevtools/tldr/common/vala/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vala/"
 description: "Compile Vala code effortlessly with Vala. Execute Vala programs, integrate with GTK+, and streamline your development workflow. Free online tool, no registration required."
 category: common

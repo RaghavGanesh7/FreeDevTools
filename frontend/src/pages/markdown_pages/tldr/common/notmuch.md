@@ -1,7 +1,7 @@
 ---
 title: "Notmuch - Index and Search Email | Online Free DevTools by Hexmos"
 name: notmuch
-path: /freedevtools/tldr/common/notmuch
+path: "/freedevtools/tldr/common/notmuch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/notmuch/"
 description: "Index email and perform lightning-fast email searches with Notmuch. Manage and tag large email collections with ease. Free online tool, no registration required."
 category: common

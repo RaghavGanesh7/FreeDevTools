@@ -1,7 +1,7 @@
 ---
 title: "Create Zapier Integrations - Automate Workflows | Online Free DevTools by Hexmos"
 name: zapier
-path: "/freedevtools/tldr/zapier/zapier"
+path: "/freedevtools/tldr/zapier/zapier/"
 canonical: "https://hexmos.com/freedevtools/tldr/zapier/zapier/"
 description: "Create Zapier integrations with Zapier CLI. Automate workflows and connect apps effortlessly using the command line interface. Free online tool, no registration required."
 category: common

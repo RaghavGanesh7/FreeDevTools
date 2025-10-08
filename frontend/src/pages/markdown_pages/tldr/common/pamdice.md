@@ -1,7 +1,7 @@
 ---
 title: "Slice Netpbm Image - Control Image Tiles | Online Free DevTools by Hexmos"
 name: pamdice
-path: /freedevtools/tldr/common/pamdice
+path: "/freedevtools/tldr/common/pamdice/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamdice/"
 description: "Slice Netpbm image easily with pamdice. Control image tiles by height and width. Free online tool, no registration required. Manage image segments using command line."
 category: common

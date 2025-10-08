@@ -1,7 +1,7 @@
 ---
 title: "Cut Text - Extract Fields with Tuc | Online Free DevTools by Hexmos"
 name: tuc
-path: /freedevtools/tldr/common/tuc
+path: "/freedevtools/tldr/common/tuc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tuc/"
 description: "Extract text fields quickly with Tuc. A more powerful text cutter with flexible delimiters and field selection. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Iptables Firewall - Control Linux Network Traffic | Online Free DevTools by Hexmos"
 name: iptables
-path: /freedevtools/tldr/linux/iptables
+path: "/freedevtools/tldr/linux/iptables/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iptables/"
 description: "Control Linux network traffic with Iptables Firewall. Secure your server, manage rules, and configure network settings. Free online tool, no registration required."
 category: linux

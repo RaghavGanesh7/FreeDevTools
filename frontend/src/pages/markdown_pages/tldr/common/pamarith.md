@@ -1,7 +1,7 @@
 ---
 title: "Pamarith - Apply Binary Functions on Images | Online Free DevTools by Hexmos"
 name: pamarith
-path: /freedevtools/tldr/common/pamarith
+path: "/freedevtools/tldr/common/pamarith/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamarith/"
 description: "Apply binary operations with Pamarith. Process Netpbm images by adding, subtracting, or multiplying pixels. Free online tool, no registration required."
 category: common

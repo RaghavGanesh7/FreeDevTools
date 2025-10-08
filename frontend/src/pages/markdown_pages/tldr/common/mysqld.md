@@ -1,7 +1,7 @@
 ---
 title: "Start MySQL Server - Control Database Instances | Online Free DevTools by Hexmos"
 name: mysqld
-path: /freedevtools/tldr/common/mysqld
+path: "/freedevtools/tldr/common/mysqld/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mysqld/"
 description: "Start MySQL server instances with mysqld. Manage database connections, configure logging, and customize port settings. Free online tool, no registration required."
 category: common

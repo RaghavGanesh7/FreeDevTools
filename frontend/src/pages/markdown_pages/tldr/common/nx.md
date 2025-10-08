@@ -1,7 +1,7 @@
 ---
 title: "Nx Workspace Manager - Control Builds & Tests | Online Free DevTools by Hexmos"
 name: nx
-path: /freedevtools/tldr/common/nx
+path: "/freedevtools/tldr/common/nx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nx/"
 description: "Control Nx workspace builds and tests with Nx Workspace Manager. Execute targets, manage projects, and optimize workflows using the command line. Free online tool, no registration required."
 category: common

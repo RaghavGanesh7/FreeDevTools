@@ -1,7 +1,7 @@
 ---
 title: "Pake - Create Desktop Apps from Webpages | Online Free DevTools by Hexmos"
 name: pake
-path: /freedevtools/tldr/common/pake
+path: "/freedevtools/tldr/common/pake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pake/"
 description: "Create desktop applications with Pake. Package webpages into native apps using Rust/Tauri for cross-platform development. Free online tool, no registration required."
 category: common

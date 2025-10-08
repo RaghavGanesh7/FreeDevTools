@@ -1,7 +1,7 @@
 ---
 title: "Download Files - Wget2 File Downloader | Online Free DevTools by Hexmos"
 name: wget2
-path: /freedevtools/tldr/common/wget2
+path: "/freedevtools/tldr/common/wget2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wget2/"
 description: "Download files quickly with Wget2, an enhanced command-line file downloader. Enjoy multithreaded downloads, HTTP/2 support and improved performance. Free online tool, no registration required."
 category: common

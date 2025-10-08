@@ -1,7 +1,7 @@
 ---
 title: "Chocolatey List - Manage Packages on Windows | Online Free DevTools by Hexmos"
 name: clist
-path: /freedevtools/tldr/windows/clist
+path: "/freedevtools/tldr/windows/clist/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/clist/"
 description: "Manage Windows packages with Chocolatey List. Quickly view installed software and versions using the command line. Free online tool, no registration required."
 category: windows

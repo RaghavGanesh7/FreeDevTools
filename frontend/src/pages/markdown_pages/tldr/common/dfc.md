@@ -1,7 +1,7 @@
 ---
 title: "Display Disk Usage - Monitor Filesystem Space | Online Free DevTools by Hexmos"
 name: dfc
-path: /freedevtools/tldr/common/dfc
+path: "/freedevtools/tldr/common/dfc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dfc/"
 description: "Display disk usage information with DFC. Monitor filesystem space and analyze disk space efficiently using command-line tools. Free online tool, no registration required."
 category: common

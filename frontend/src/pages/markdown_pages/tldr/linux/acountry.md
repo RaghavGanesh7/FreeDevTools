@@ -1,7 +1,7 @@
 ---
 title: "Locate Country - Identify IP Location with acountry | Online Free DevTools by Hexmos"
 name: acountry
-path: /freedevtools/tldr/linux/acountry
+path: "/freedevtools/tldr/linux/acountry/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/acountry/"
 description: "Identify IP address location with acountry. Determine the country associated with a given IP address or hostname using the command line. Free online tool, no registration required."
 category: linux

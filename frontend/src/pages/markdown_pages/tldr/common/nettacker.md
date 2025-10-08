@@ -1,7 +1,7 @@
 ---
 title: "Nettacker - Automate Vulnerability Scans | Online Free DevTools by Hexmos"
 name: nettacker
-path: /freedevtools/tldr/common/nettacker
+path: "/freedevtools/tldr/common/nettacker/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nettacker/"
 description: "Automate vulnerability scanning with Nettacker. Perform port scanning and information gathering on targets. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert PGM to PBM - Format Image Files | Online Free DevTools by Hexmos"
 name: pgmtopbm
-path: /freedevtools/tldr/common/pgmtopbm
+path: "/freedevtools/tldr/common/pgmtopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmtopbm/"
 description: "Format image files with PGM to PBM converter. Convert Portable Graymap images to Portable Bitmap images. Free online tool, no registration required."
 category: common

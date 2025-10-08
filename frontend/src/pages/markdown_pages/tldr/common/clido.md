@@ -1,7 +1,7 @@
 ---
 title: "Create Terminal TODO Lists - clido | Online Free DevTools by Hexmos"
 name: clido
-path: /freedevtools/tldr/common/clido
+path: "/freedevtools/tldr/common/clido/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clido/"
 description: "Create save-state TODO lists with clido, a terminal task management tool. Manage lists, toggle autowrite, and open in text editor. Free online tool, no registration required."
 category: common

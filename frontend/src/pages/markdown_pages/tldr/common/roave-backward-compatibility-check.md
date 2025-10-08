@@ -1,7 +1,7 @@
 ---
 title: "Check PHP Compatibility - Roave BC Verification | Online Free DevTools by Hexmos"
 name: roave-backward-compatibility-check
-path: /freedevtools/tldr/common/roave-backward-compatibility-check
+path: "/freedevtools/tldr/common/roave-backward-compatibility-check/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/roave-backward-compatibility-check/"
 description: "Verify PHP backward compatibility with Roave BackwardCompatibilityCheck. Detect breaking changes between versions of your PHP library. Free online tool, no registration required."
 category: common

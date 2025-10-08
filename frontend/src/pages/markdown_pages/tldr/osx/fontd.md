@@ -1,7 +1,7 @@
 ---
 title: "Control Fonts - Make System Fonts Available | Online Free DevTools by Hexmos"
 name: fontd
-path: /freedevtools/tldr/osx/fontd
+path: "/freedevtools/tldr/osx/fontd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/fontd/"
 description: "Control fonts with fontd to make system fonts available. Manage font loading and system integration easily with this command-line tool. Free online tool, no registration required."
 category: osx

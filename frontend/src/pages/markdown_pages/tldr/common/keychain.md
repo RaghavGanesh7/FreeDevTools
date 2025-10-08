@@ -1,7 +1,7 @@
 ---
 title: "Keychain - Manage SSH & GPG Agents | Online Free DevTools by Hexmos"
 name: keychain
-path: /freedevtools/tldr/common/keychain
+path: "/freedevtools/tldr/common/keychain/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/keychain/"
 description: "Manage SSH and GPG agents with Keychain. Reuse agents between logins for improved security and workflow. Free online tool, no registration required."
 category: common

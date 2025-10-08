@@ -1,7 +1,7 @@
 ---
 title: "List SCSI Devices - Inspect Device Attributes | Online Free DevTools by Hexmos"
 name: lsscsi
-path: /freedevtools/tldr/linux/lsscsi
+path: "/freedevtools/tldr/linux/lsscsi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsscsi/"
 description: "List SCSI devices quickly with lsscsi. Display device attributes and disk capacity. Free online tool, no registration required. Use it for disk management."
 category: linux

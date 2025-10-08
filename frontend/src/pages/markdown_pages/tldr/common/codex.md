@@ -1,7 +1,7 @@
 ---
 title: "Generate Code with Codex - Natural Language Tool | Online Free DevTools by Hexmos"
 name: codex
-path: /freedevtools/tldr/common/codex
+path: "/freedevtools/tldr/common/codex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/codex/"
 description: "Generate code with Codex, a natural language code assistant. Edit files, run commands, and get help with coding tasks. Free online tool, no registration required."
 category: common

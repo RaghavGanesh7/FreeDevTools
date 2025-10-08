@@ -1,7 +1,7 @@
 ---
 title: "Screencapture - Create Screenshots and Recordings | Online Free DevTools by Hexmos"
 name: screencapture
-path: /freedevtools/tldr/osx/screencapture
+path: "/freedevtools/tldr/osx/screencapture/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/screencapture/"
 description: "Create screenshots and screen recordings with Screencapture. Capture your screen with options for delay, cursor, and area selection. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Fetch Disk Space - Control SNMP Disk Usage | Online Free DevTools by Hexmos"
 name: snmpdf
-path: /freedevtools/tldr/common/snmpdf
+path: "/freedevtools/tldr/common/snmpdf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snmpdf/"
 description: "Fetch disk space usage with SNMPDF. Monitor disk space on network devices, troubleshoot storage issues. Free online tool, no registration required."
 category: common

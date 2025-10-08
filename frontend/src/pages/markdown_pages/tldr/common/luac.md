@@ -1,7 +1,7 @@
 ---
 title: "Lua Compiler - Generate Bytecode | Online Free DevTools by Hexmos"
 name: luac
-path: /freedevtools/tldr/common/luac
+path: "/freedevtools/tldr/common/luac/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/luac/"
 description: "Compile Lua source code into bytecode with Lua Compiler. Optimize your Lua scripts and reduce file size efficiently. Free online tool, no registration required."
 category: common

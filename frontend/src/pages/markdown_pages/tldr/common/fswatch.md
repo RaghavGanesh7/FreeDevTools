@@ -1,7 +1,7 @@
 ---
 title: "Monitor File Changes - fswatch | Online Free DevTools by Hexmos"
 name: fswatch
-path: /freedevtools/tldr/common/fswatch
+path: "/freedevtools/tldr/common/fswatch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fswatch/"
 description: "Monitor file changes with fswatch, triggering actions on updates or deletions. Cross-platform file change monitor. Free online tool, no registration required."
 category: common

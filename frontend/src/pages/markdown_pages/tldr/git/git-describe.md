@@ -1,7 +1,7 @@
 ---
 title: "Git Describe - Generate Names from Git Refs | Online Free DevTools by Hexmos"
 name: git-describe
-path: /freedevtools/tldr/git/git-describe
+path: "/freedevtools/tldr/git/git-describe/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-describe/"
 description: "Generate human-readable names from Git references with Git Describe. Identify commits and tags easily within your repository. Free online tool, no registration required."
 category: common

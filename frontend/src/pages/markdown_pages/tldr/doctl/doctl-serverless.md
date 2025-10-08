@@ -1,7 +1,7 @@
 ---
 title: "Control Serverless Functions - DigitalOcean | Online Free DevTools by Hexmos"
 name: doctl-serverless
-path: /freedevtools/tldr/doctl/doctl-serverless
+path: "/freedevtools/tldr/doctl/doctl-serverless/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-serverless/"
 description: "Control Serverless Functions instantly with doctl-serverless command. Deploy projects, get metadata, and check function status. Free online tool, no registration required."
 category: common

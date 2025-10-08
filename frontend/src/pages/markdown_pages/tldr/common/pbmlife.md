@@ -1,7 +1,7 @@
 ---
 title: "Generate PBM Life Images - Conway's Life with PBM | Online Free DevTools by Hexmos"
 name: pbmlife
-path: /freedevtools/tldr/common/pbmlife
+path: "/freedevtools/tldr/common/pbmlife/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmlife/"
 description: "Generate PBM Life images with pbmlife, applying Conway's Rules of Life to PBM image files. Manipulate image evolution and create cellular automata. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert Netpbm to Targa - Format Images | Online Free DevTools by Hexmos"
 name: pamtotga
-path: /freedevtools/tldr/common/pamtotga
+path: "/freedevtools/tldr/common/pamtotga/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtotga/"
 description: "Format Netpbm images to Truevision Targa files with pamtotga. Convert images with different colormaps using this command-line tool. Free online tool, no registration required."
 category: common

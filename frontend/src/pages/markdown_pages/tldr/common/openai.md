@@ -1,7 +1,7 @@
 ---
 title: "OpenAI CLI - Create AI Content | Online Free DevTools by Hexmos"
 name: openai
-path: /freedevtools/tldr/common/openai
+path: "/freedevtools/tldr/common/openai/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/openai/"
 description: "Create AI content with OpenAI CLI. Generate text completions, chat interactions, and DALL·E images easily from the command line. Free online tool, no registration required."
 category: common

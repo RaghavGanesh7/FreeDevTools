@@ -1,7 +1,7 @@
 ---
 title: "TypeORM - Generate Database Structures | Online Free DevTools by Hexmos"
 name: typeorm
-path: /freedevtools/tldr/common/typeorm
+path: "/freedevtools/tldr/common/typeorm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/typeorm/"
 description: "Generate database structures instantly with TypeORM. Create migrations, manage entities, and execute queries with ease. Free online tool, no registration required."
 category: common

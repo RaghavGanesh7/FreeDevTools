@@ -1,7 +1,7 @@
 ---
 title: "Generate Random Permutations with Shuf | Online Free DevTools by Hexmos"
 name: shuf
-path: /freedevtools/tldr/common/shuf
+path: "/freedevtools/tldr/common/shuf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shuf/"
 description: "Generate random permutations with Shuf. Randomize the order of lines or numbers. Command-line tool for shuffling data. Free online tool, no registration required."
 category: common

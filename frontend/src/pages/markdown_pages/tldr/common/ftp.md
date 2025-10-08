@@ -1,7 +1,7 @@
 ---
 title: "FTP Client - Control File Transfers via Command Line | Online Free DevTools by Hexmos"
 name: ftp
-path: /freedevtools/tldr/common/ftp
+path: "/freedevtools/tldr/common/ftp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ftp/"
 description: "Control file transfers with FTP Client. Connect, upload, and download files securely via command line protocol. Free online tool, no registration required."
 category: common

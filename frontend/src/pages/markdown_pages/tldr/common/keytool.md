@@ -1,7 +1,7 @@
 ---
 title: "Generate Keystore - Manage Java Certificates | Online Free DevTools by Hexmos"
 name: keytool
-path: /freedevtools/tldr/common/keytool
+path: "/freedevtools/tldr/common/keytool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/keytool/"
 description: "Generate keystores with keytool, a Java certificate management utility. Securely manage keys, change passwords, and create certificates using command line. Free online tool, no registration required."
 category: common

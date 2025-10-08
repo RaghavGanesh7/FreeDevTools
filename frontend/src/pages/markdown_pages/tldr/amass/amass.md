@@ -1,7 +1,7 @@
 ---
 title: "Amass Asset Discovery - Map Attack Surfaces | Online Free DevTools by Hexmos"
 name: amass
-path: /freedevtools/tldr/amass/amass
+path: "/freedevtools/tldr/amass/amass/"
 canonical: "https://hexmos.com/freedevtools/tldr/amass/amass/"
 description: "Map attack surfaces with Amass Asset Discovery tool. Discover subdomains, enumerate targets, and identify vulnerabilities with ease. Free online tool, no registration required."
 category: common

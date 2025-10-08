@@ -1,7 +1,7 @@
 ---
 title: "Exoscale Manage - Control Cloud Services | Online Free DevTools by Hexmos"
 name: exo
-path: /freedevtools/tldr/exo/exo
+path: "/freedevtools/tldr/exo/exo/"
 canonical: "https://hexmos.com/freedevtools/tldr/exo/exo/"
 description: "Manage Exoscale cloud services with Exo CLI. Configure instances, manage storage, and generate autocompletion scripts with ease. Free online tool, no registration required."
 category: common

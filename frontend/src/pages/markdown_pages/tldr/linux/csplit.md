@@ -1,7 +1,7 @@
 ---
 title: "Split Files - csplit Command | Online Free DevTools by Hexmos"
 name: csplit
-path: /freedevtools/tldr/linux/csplit
+path: "/freedevtools/tldr/linux/csplit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/csplit/"
 description: "Split files efficiently with the csplit command.  Manage large files, customize splits by line numbers or regex, and generate multiple output files easily. Free online tool, no registration required."
 category: linux

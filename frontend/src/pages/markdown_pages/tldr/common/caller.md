@@ -1,7 +1,7 @@
 ---
 title: "Print Function Context - Caller Command | Online Free DevTools by Hexmos"
 name: caller
-path: /freedevtools/tldr/common/caller
+path: "/freedevtools/tldr/common/caller/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/caller/"
 description: "Print function context with Caller command. Inspect bash script function calls, line numbers, and file names. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage doctl Apps - Control DigitalOcean Apps | Online Free DevTools by Hexmos"
 name: doctl-apps
-path: /freedevtools/tldr/doctl/doctl-apps
+path: "/freedevtools/tldr/doctl/doctl-apps/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-apps/"
 description: "Manage DigitalOcean apps with doctl. Control app deployments and logs instantly. Free online tool, no registration required."
 category: common

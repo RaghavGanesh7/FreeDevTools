@@ -1,7 +1,7 @@
 ---
 title: "Rank Mirrors - Prioritize Pacman Mirrors | Online Free DevTools by Hexmos"
 name: rankmirrors
-path: /freedevtools/tldr/linux/rankmirrors
+path: "/freedevtools/tldr/linux/rankmirrors/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rankmirrors/"
 description: "Prioritize Pacman mirrors with Rank Mirrors. Sort mirrorlists by connection speed for faster downloads on Arch Linux. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Vue Build - Generate Vue.js Projects with Zero Config | Online Free DevTools by Hexmos"
 name: vue-build
-path: /freedevtools/tldr/vue/vue-build
+path: "/freedevtools/tldr/vue/vue-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/vue/vue-build/"
 description: "Generate Vue.js projects quickly with Vue Build. Effortlessly prototype and build single-file components. Free online tool, no registration required."
 category: common

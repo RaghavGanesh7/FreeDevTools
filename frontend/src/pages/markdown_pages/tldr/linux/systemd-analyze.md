@@ -1,7 +1,7 @@
 ---
 title: "Systemd Analyze - Debug System Manager | Online Free DevTools by Hexmos"
 name: systemd-analyze
-path: /freedevtools/tldr/linux/systemd-analyze
+path: "/freedevtools/tldr/linux/systemd-analyze/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-analyze/"
 description: "Debug system performance with Systemd Analyze. Analyze boot process, service initialization, and unit dependencies. Free online tool, no registration required."
 category: linux

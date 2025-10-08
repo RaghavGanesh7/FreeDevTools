@@ -1,7 +1,7 @@
 ---
 title: "MPI Run - Execute Parallel Jobs | Online Free DevTools by Hexmos"
 name: mpirun
-path: /freedevtools/tldr/common/mpirun
+path: "/freedevtools/tldr/common/mpirun/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpirun/"
 description: "Execute MPI jobs efficiently with MPI Run. Launch parallel processes and manage resources for distributed computing applications. Free online tool, no registration required."
 category: common

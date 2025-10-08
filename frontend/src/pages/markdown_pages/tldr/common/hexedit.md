@@ -1,7 +1,7 @@
 ---
 title: "Hex Editor - Edit Hexadecimal Files | Online Free DevTools by Hexmos"
 name: hexedit
-path: /freedevtools/tldr/common/hexedit
+path: "/freedevtools/tldr/common/hexedit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hexedit/"
 description: "Edit hexadecimal files quickly with Hex Editor. Inspect, modify, and analyze binary data with ease. Free online tool, no registration required."
 category: common

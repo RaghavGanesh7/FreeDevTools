@@ -1,7 +1,7 @@
 ---
 title: "RDP Sign - Sign RDP Files | Online Free DevTools by Hexmos"
 name: rdpsign
-path: /freedevtools/tldr/windows/rdpsign
+path: "/freedevtools/tldr/windows/rdpsign/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/rdpsign/"
 description: "Sign RDP files instantly with RDP Sign. Secure your Remote Desktop Protocol connections by applying digital signatures. Free online tool, no registration required."
 category: windows

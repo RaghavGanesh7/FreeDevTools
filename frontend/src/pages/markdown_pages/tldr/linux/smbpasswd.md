@@ -1,7 +1,7 @@
 ---
 title: "SMB Password Control - Manage Samba User Passwords | Online Free DevTools by Hexmos"
 name: smbpasswd
-path: /freedevtools/tldr/linux/smbpasswd
+path: "/freedevtools/tldr/linux/smbpasswd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/smbpasswd/"
 description: "Control SMB passwords with smbpasswd. Manage Samba user accounts, add users, change passwords, and delete accounts effortlessly. Free online tool, no registration required."
 category: linux

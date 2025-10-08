@@ -1,7 +1,7 @@
 ---
 title: "Systemd Password Query - Ask System Passwords | Online Free DevTools by Hexmos"
 name: systemd-ask-password
-path: /freedevtools/tldr/linux/systemd-ask-password
+path: "/freedevtools/tldr/linux/systemd-ask-password/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-ask-password/"
 description: "Query system passwords with systemd-ask-password. Configure timeout, specify identifiers, and use kernel keyring for caching. Free online tool, no registration required."
 category: linux

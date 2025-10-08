@@ -1,7 +1,7 @@
 ---
 title: "Zypper Package Manager - Manage Packages | Online Free DevTools by Hexmos"
 name: zypper
-path: /freedevtools/tldr/linux/zypper
+path: "/freedevtools/tldr/linux/zypper/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/zypper/"
 description: "Manage software packages with Zypper Package Manager on Linux. Update repositories, install, remove and search packages efficiently using command line. Free online tool, no registration required."
 category: linux

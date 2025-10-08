@@ -1,7 +1,7 @@
 ---
 title: "Control FATrace - Report File Access Events | Online Free DevTools by Hexmos"
 name: fatrace
-path: /freedevtools/tldr/linux/fatrace
+path: "/freedevtools/tldr/linux/fatrace/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fatrace/"
 description: "Control file system activity with FATrace. Monitor file access events on Linux systems for debugging and performance analysis. Free online tool, no registration required."
 category: linux

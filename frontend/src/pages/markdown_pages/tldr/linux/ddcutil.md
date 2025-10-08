@@ -1,7 +1,7 @@
 ---
 title: "Control Displays - ddcutil DDC/CI Command | Online Free DevTools by Hexmos"
 name: ddcutil
-path: /freedevtools/tldr/linux/ddcutil
+path: "/freedevtools/tldr/linux/ddcutil/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ddcutil/"
 description: "Control display settings with ddcutil, a DDC/CI command-line tool.  Adjust brightness, contrast, and more. Free online tool, no registration required."
 category: linux

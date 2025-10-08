@@ -1,7 +1,7 @@
 ---
 title: "Inspect HTTP Requests - Control Wuzz Interactions | Online Free DevTools by Hexmos"
 name: wuzz
-path: /freedevtools/tldr/common/wuzz
+path: "/freedevtools/tldr/common/wuzz/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wuzz/"
 description: "Inspect HTTP requests with Wuzz. Interactively control HTTP requests and responses for debugging. Free online tool, no registration required."
 category: common

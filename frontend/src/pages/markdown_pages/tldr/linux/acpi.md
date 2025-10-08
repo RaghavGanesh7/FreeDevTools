@@ -1,7 +1,7 @@
 ---
 title: "Control ACPI - Monitor System Power and Thermal Status | Online Free DevTools by Hexmos"
 name: acpi
-path: /freedevtools/tldr/linux/acpi
+path: "/freedevtools/tldr/linux/acpi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/acpi/"
 description: "Monitor system power status with ACPI on Linux. Check battery levels, thermal conditions, and cooling devices easily. Free online tool, no registration required."
 category: linux

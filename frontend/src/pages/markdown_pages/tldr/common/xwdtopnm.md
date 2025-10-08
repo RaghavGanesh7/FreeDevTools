@@ -1,7 +1,7 @@
 ---
 title: "Convert XWD to PNM - Format Image Files | Online Free DevTools by Hexmos"
 name: xwdtopnm
-path: /freedevtools/tldr/common/xwdtopnm
+path: "/freedevtools/tldr/common/xwdtopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xwdtopnm/"
 description: "Convert XWD files to PNM format with xwdtopnm. Process image files with ease using command line. Free online tool, no registration required."
 category: common

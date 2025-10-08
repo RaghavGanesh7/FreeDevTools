@@ -1,7 +1,7 @@
 ---
 title: "Audio Player - Play Sound Files with afplay | Online Free DevTools by Hexmos"
 name: afplay
-path: /freedevtools/tldr/osx/afplay
+path: "/freedevtools/tldr/osx/afplay/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/afplay/"
 description: "Play sound files quickly with afplay on MacOS. Control playback rate and duration. Free online tool, no registration required."
 category: osx

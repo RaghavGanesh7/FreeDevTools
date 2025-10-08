@@ -1,7 +1,7 @@
 ---
 title: "Control Media Streams - MediaMTX Server & Proxy | Online Free DevTools by Hexmos"
 name: mediamtx
-path: /freedevtools/tldr/linux/mediamtx
+path: "/freedevtools/tldr/linux/mediamtx/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mediamtx/"
 description: "Control media streams with MediaMTX, a real-time media server and proxy. Streamline live broadcasts and video distribution. Free online tool, no registration required."
 category: linux

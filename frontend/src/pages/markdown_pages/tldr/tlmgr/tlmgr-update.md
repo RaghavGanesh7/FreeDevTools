@@ -1,7 +1,7 @@
 ---
 title: "TeX Live Update - Manage Packages | Online Free DevTools by Hexmos"
 name: tlmgr-update
-path: /freedevtools/tldr/tlmgr/tlmgr-update
+path: "/freedevtools/tldr/tlmgr/tlmgr-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-update/"
 description: "Manage TeX Live packages with tlmgr update. Update packages, exclude specific packages, and create backups effortlessly. Free online tool, no registration required."
 category: common

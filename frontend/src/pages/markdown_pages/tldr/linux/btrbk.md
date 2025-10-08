@@ -1,7 +1,7 @@
 ---
 title: "Create Btrfs Snapshots - Backup Btrfs Subvolumes | Online Free DevTools by Hexmos"
 name: btrbk
-path: /freedevtools/tldr/linux/btrbk
+path: "/freedevtools/tldr/linux/btrbk/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrbk/"
 description: "Create Btrfs snapshots with btrbk for reliable data backup. Manage subvolumes and schedule backups on Linux systems. Free online tool, no registration required."
 category: linux

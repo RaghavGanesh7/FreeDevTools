@@ -1,7 +1,7 @@
 ---
 title: "Manage Python Versions - uv-python | Online Free DevTools by Hexmos"
 name: uv-python
-path: /freedevtools/tldr/uv/uv-python
+path: "/freedevtools/tldr/uv/uv-python/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-python/"
 description: "Manage Python versions easily with uv-python. Install, uninstall, and pin specific Python versions for your projects. Free online tool, no registration required."
 category: common

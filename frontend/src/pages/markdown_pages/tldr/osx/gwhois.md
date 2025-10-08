@@ -1,7 +1,7 @@
 ---
 title: "Whois Lookup - Perform Domain Information Retrieval | Online Free DevTools by Hexmos"
 name: gwhois
-path: /freedevtools/tldr/osx/gwhois
+path: "/freedevtools/tldr/osx/gwhois/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gwhois/"
 description: "Perform domain information retrieval with Whois Lookup using the command line. Retrieve registration details, contact information, and nameserver records for any domain. Free online tool, no registration required."
 category: osx

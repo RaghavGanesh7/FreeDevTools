@@ -1,7 +1,7 @@
 ---
 title: "Ant - Build Java Projects | Online Free DevTools by Hexmos"
 name: ant
-path: /freedevtools/tldr/common/ant
+path: "/freedevtools/tldr/common/ant/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ant/"
 description: "Build Java projects efficiently with Ant. Automate tasks, compile code, and manage dependencies. Free online tool, no registration required."
 category: common

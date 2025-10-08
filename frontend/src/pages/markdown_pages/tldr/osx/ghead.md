@@ -1,7 +1,7 @@
 ---
 title: "Control Head Output - Tail Command Alias | Online Free DevTools by Hexmos"
 name: ghead
-path: /freedevtools/tldr/osx/ghead
+path: "/freedevtools/tldr/osx/ghead/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ghead/"
 description: "Control head output with ghead, a GNU head alias for macOS. Extract the first part of files effortlessly. Free online tool, no registration required."
 category: osx

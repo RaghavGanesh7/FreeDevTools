@@ -1,7 +1,7 @@
 ---
 title: "Create Kubernetes Clusters - Manage kops | Online Free DevTools by Hexmos"
 name: kops
-path: /freedevtools/tldr/common/kops
+path: "/freedevtools/tldr/common/kops/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kops/"
 description: "Create Kubernetes clusters instantly with kops. Provision, manage, and scale your Kubernetes infrastructure effortlessly. Free online tool, no registration required."
 category: common

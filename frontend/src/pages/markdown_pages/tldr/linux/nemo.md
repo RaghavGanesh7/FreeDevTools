@@ -1,7 +1,7 @@
 ---
 title: "Nemo File Manager - Manage Files in Cinnamon | Online Free DevTools by Hexmos"
 name: nemo
-path: /freedevtools/tldr/linux/nemo
+path: "/freedevtools/tldr/linux/nemo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nemo/"
 description: "Manage files and directories efficiently with Nemo File Manager. Open files and folders in tabs or separate windows, customize window size, and quit all windows. Free online tool, no registration required."
 category: linux

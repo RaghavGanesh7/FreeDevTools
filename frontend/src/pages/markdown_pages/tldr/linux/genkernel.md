@@ -1,7 +1,7 @@
 ---
 title: "Generate Linux Kernel - Compile Kernels | Online Free DevTools by Hexmos"
 name: genkernel
-path: /freedevtools/tldr/linux/genkernel
+path: "/freedevtools/tldr/linux/genkernel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/genkernel/"
 description: "Generate Linux kernels with genkernel. Quickly compile and install custom kernels on Gentoo Linux distributions. Free online tool, no registration required."
 category: linux

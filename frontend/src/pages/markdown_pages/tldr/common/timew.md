@@ -1,7 +1,7 @@
 ---
 title: "Time Tracker - Measure Activity Duration | Online Free DevTools by Hexmos"
 name: timew
-path: /freedevtools/tldr/common/timew
+path: "/freedevtools/tldr/common/timew/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/timew/"
 description: "Measure activity duration with Time Tracker. Track time spent on tasks, generate reports, and analyze productivity. Free online tool, no registration required."
 category: common

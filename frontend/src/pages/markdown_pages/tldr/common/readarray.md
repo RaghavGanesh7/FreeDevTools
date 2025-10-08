@@ -1,7 +1,7 @@
 ---
 title: "Read Array - Populate Arrays from Input | Online Free DevTools by Hexmos"
 name: readarray
-path: /freedevtools/tldr/common/readarray
+path: "/freedevtools/tldr/common/readarray/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/readarray/"
 description: "Read array data from stdin with Readarray, a command-line tool for populating arrays. Efficiently manage data input and streamline scripting. Free online tool, no registration required."
 category: common

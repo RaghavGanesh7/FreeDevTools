@@ -1,7 +1,7 @@
 ---
 title: "Analyze Photos - Control Photo Libraries | Online Free DevTools by Hexmos"
 name: photoanalysisd
-path: /freedevtools/tldr/osx/photoanalysisd
+path: "/freedevtools/tldr/osx/photoanalysisd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/photoanalysisd/"
 description: "Analyze photos with photoanalysisd to identify scenes and people within your photo library. Enhance image search and unlock memories. Free online tool, no registration required."
 category: osx

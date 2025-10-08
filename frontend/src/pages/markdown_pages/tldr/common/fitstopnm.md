@@ -1,7 +1,7 @@
 ---
 title: "Convert FITS to PNM - Image Conversion | Online Free DevTools by Hexmos"
 name: fitstopnm
-path: /freedevtools/tldr/common/fitstopnm
+path: "/freedevtools/tldr/common/fitstopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fitstopnm/"
 description: "Convert FITS files to PNM image format with fitstopnm. Flexible Image Transport System (FITS) file conversion made easy. Free online tool, no registration required."
 category: common

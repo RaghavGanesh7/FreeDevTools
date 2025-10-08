@@ -1,7 +1,7 @@
 ---
 title: "Execute WirePlumber Scripts - Control Lua Scripts | Online Free DevTools by Hexmos"
 name: wpexec
-path: /freedevtools/tldr/linux/wpexec
+path: "/freedevtools/tldr/linux/wpexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wpexec/"
 description: "Execute WirePlumber Lua scripts with wpexec. Control PipeWire audio and video processing graphs, and manage multimedia pipelines effectively. Free online tool, no registration required."
 category: linux

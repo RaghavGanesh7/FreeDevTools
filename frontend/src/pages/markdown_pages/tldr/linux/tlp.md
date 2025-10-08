@@ -1,7 +1,7 @@
 ---
 title: "TLP Power Manager - Control Linux Power Usage | Online Free DevTools by Hexmos"
 name: tlp
-path: /freedevtools/tldr/linux/tlp
+path: "/freedevtools/tldr/linux/tlp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tlp/"
 description: "Control Linux power management with TLP Power Manager. Optimize battery life and system performance on Linux. Free online tool, no registration required."
 category: linux

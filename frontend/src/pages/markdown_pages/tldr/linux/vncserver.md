@@ -1,7 +1,7 @@
 ---
 title: "VNC Server - Launch VNC Desktops | Online Free DevTools by Hexmos"
 name: vncserver
-path: /freedevtools/tldr/linux/vncserver
+path: "/freedevtools/tldr/linux/vncserver/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vncserver/"
 description: "Launch VNC servers and manage multiple desktop sessions with vncserver.  Control remote desktops easily and efficiently. Free online tool, no registration required."
 category: linux

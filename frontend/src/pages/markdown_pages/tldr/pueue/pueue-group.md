@@ -1,7 +1,7 @@
 ---
 title: "Pueue Group - Manage Task Groups | Online Free DevTools by Hexmos"
 name: pueue-group
-path: /freedevtools/tldr/pueue/pueue-group
+path: "/freedevtools/tldr/pueue/pueue-group/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-group/"
 description: "Manage task groups with Pueue Group. Add, remove, and display task groups for efficient task management. Free online tool, no registration required."
 category: common

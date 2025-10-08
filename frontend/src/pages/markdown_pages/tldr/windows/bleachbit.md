@@ -1,7 +1,7 @@
 ---
 title: "Bleachbit - Clean System Files | Online Free DevTools by Hexmos"
 name: bleachbit
-path: /freedevtools/tldr/windows/bleachbit
+path: "/freedevtools/tldr/windows/bleachbit/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/bleachbit/"
 description: "Clean system files with Bleachbit and optimize PC performance. Securely remove traces and free up disk space quickly. Free online tool, no registration required."
 category: windows

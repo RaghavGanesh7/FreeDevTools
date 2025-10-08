@@ -1,7 +1,7 @@
 ---
 title: "Control CVS Versions - Manage Code Revisions | Online Free DevTools by Hexmos"
 name: cvs
-path: /freedevtools/tldr/common/cvs
+path: "/freedevtools/tldr/common/cvs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cvs/"
 description: "Control code revisions with CVS (Concurrent Versions System). Manage versions, track changes, and collaborate on projects efficiently. Free online tool, no registration required."
 category: common

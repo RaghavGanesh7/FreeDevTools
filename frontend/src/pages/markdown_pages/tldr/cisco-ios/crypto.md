@@ -1,7 +1,7 @@
 ---
 title: "Generate Crypto Keys - Manage Encryption | Online Free DevTools by Hexmos"
 name: crypto
-path: /freedevtools/tldr/cisco-ios/crypto
+path: "/freedevtools/tldr/cisco-ios/crypto/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/crypto/"
 description: "Generate crypto keys for network devices with Crypto. Control encryption and security settings on Cisco IOS. Free online tool, no registration required."
 category: cisco-ios

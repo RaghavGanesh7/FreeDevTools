@@ -1,7 +1,7 @@
 ---
 title: "Create Dokku Apps - PaaS Deployment | Online Free DevTools by Hexmos"
 name: dokku
-path: /freedevtools/tldr/common/dokku
+path: "/freedevtools/tldr/common/dokku/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dokku/"
 description: "Create and manage apps with Dokku, the Docker-powered PaaS. Streamline application deployment and scaling on your server with this easy-to-use tool. Free online tool, no registration required."
 category: common

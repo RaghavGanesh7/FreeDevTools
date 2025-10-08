@@ -1,7 +1,7 @@
 ---
 title: "Convert Image to WebP - Compress Images Online | Online Free DevTools by Hexmos"
 name: cwebp
-path: /freedevtools/tldr/common/cwebp
+path: "/freedevtools/tldr/common/cwebp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cwebp/"
 description: "Convert image to WebP with cwebp. Compress images quickly and efficiently for optimal web performance. Free online tool, no registration required."
 category: common

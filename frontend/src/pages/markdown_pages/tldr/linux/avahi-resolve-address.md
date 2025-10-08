@@ -1,7 +1,7 @@
 ---
 title: "Resolve Avahi Addresses - Network Address Resolution | Online Free DevTools by Hexmos"
 name: avahi-resolve-address
-path: /freedevtools/tldr/linux/avahi-resolve-address
+path: "/freedevtools/tldr/linux/avahi-resolve-address/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/avahi-resolve-address/"
 description: "Resolve Avahi network addresses using the avahi-resolve-address command.  Quickly find IP addresses associated with network names. Free online tool, no registration required."
 category: linux

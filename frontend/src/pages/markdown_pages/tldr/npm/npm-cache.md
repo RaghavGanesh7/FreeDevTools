@@ -1,7 +1,7 @@
 ---
 title: "NPM Cache - Manage Package Cache | Online Free DevTools by Hexmos"
 name: npm-cache
-path: /freedevtools/tldr/npm/npm-cache
+path: "/freedevtools/tldr/npm/npm-cache/"
 canonical: "https://hexmos.com/freedevtools/tldr/npm/npm-cache/"
 description: "Manage NPM package cache with NPM Cache. Clear cache, add/remove packages, and verify integrity with ease. Free online tool, no registration required."
 category: common

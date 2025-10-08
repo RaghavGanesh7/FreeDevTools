@@ -1,7 +1,7 @@
 ---
 title: "Envsubst - Substitute Variables | Online Free DevTools by Hexmos"
 name: envsubst
-path: /freedevtools/tldr/common/envsubst
+path: "/freedevtools/tldr/common/envsubst/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/envsubst/"
 description: "Substitute environment variables with Envsubst. Replace variables in strings and files. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Execute Shell Builtins - Control Shell Commands | Online Free DevTools by Hexmos"
 name: builtin
-path: /freedevtools/tldr/common/builtin
+path: "/freedevtools/tldr/common/builtin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/builtin/"
 description: "Execute shell builtins with this command. Control and run commands directly within the shell environment, boosting efficiency. Free online tool, no registration required."
 category: common

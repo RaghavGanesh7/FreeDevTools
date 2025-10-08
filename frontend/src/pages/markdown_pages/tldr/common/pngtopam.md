@@ -1,7 +1,7 @@
 ---
 title: "Convert PNG to PAM - Create Netpbm Images | Online Free DevTools by Hexmos"
 name: pngtopam
-path: /freedevtools/tldr/common/pngtopam
+path: "/freedevtools/tldr/common/pngtopam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pngtopam/"
 description: "Convert PNG images to Netpbm (PAM) format with pngtopam. Create images with transparency or replace transparent colors using this free online tool, no registration required."
 category: common

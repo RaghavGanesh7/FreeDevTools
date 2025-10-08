@@ -1,7 +1,7 @@
 ---
 title: "Create uv Lockfile - Update Projects | Online Free DevTools by Hexmos"
 name: uv-lock
-path: /freedevtools/tldr/uv/uv-lock
+path: "/freedevtools/tldr/uv/uv-lock/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-lock/"
 description: "Create lockfiles with uv-lock for Python projects. Ensure consistent dependencies and reproducible builds. Free online tool, no registration required."
 category: common

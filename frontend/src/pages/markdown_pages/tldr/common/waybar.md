@@ -1,7 +1,7 @@
 ---
 title: "Waybar - Control Wayland Bar Customization | Online Free DevTools by Hexmos"
 name: waybar
-path: /freedevtools/tldr/common/waybar
+path: "/freedevtools/tldr/common/waybar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/waybar/"
 description: "Control Wayland bar customization with Waybar. Configure and style your Sway and Wlroots-based compositor bar. Free online tool, no registration required."
 category: common

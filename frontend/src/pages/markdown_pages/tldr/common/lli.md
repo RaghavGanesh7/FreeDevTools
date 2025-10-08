@@ -1,7 +1,7 @@
 ---
 title: "Execute LLVM Bitcode - Run Programs with LLI | Online Free DevTools by Hexmos"
 name: lli
-path: /freedevtools/tldr/common/lli
+path: "/freedevtools/tldr/common/lli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lli/"
 description: "Execute LLVM bitcode files with LLI. Run LLVM IR code directly and optimize performance. Free online tool, no registration required."
 category: common

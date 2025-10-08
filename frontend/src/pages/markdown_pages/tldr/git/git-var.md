@@ -1,7 +1,7 @@
 ---
 title: "Git Variable - Print Git Values | Online Free DevTools by Hexmos"
 name: git-var
-path: /freedevtools/tldr/git/git-var
+path: "/freedevtools/tldr/git/git-var/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-var/"
 description: "Print Git variables instantly with Git Var. Retrieve configuration values and list available variables easily. Free online tool, no registration required."
 category: common

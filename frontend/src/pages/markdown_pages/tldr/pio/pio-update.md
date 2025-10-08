@@ -1,7 +1,7 @@
 ---
 title: "PlatformIO Update - Control Core Packages | Online Free DevTools by Hexmos"
 name: pio-update
-path: /freedevtools/tldr/pio/pio-update
+path: "/freedevtools/tldr/pio/pio-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-update/"
 description: "Control PlatformIO core packages, platforms, and libraries with PlatformIO Update. Manage dependencies and ensure your environment is up-to-date. Free online tool, no registration required."
 category: common

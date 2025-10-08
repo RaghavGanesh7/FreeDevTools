@@ -1,7 +1,7 @@
 ---
 title: "PE File Analyzer - Inspect PE Files | Online Free DevTools by Hexmos"
 name: readpe
-path: /freedevtools/tldr/linux/readpe
+path: "/freedevtools/tldr/linux/readpe/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/readpe/"
 description: "Analyze PE files with readpe.  Inspect headers, sections, imports, and exports. Free online tool, no registration required."
 category: linux

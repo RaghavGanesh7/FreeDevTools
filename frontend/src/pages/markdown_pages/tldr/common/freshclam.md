@@ -1,7 +1,7 @@
 ---
 title: "Update ClamAV Definitions - Manage Virus Signatures | Online Free DevTools by Hexmos"
 name: freshclam
-path: /freedevtools/tldr/common/freshclam
+path: "/freedevtools/tldr/common/freshclam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/freshclam/"
 description: "Update virus definitions with freshclam. Manage ClamAV antivirus signatures to ensure up-to-date protection against malware. Free online tool, no registration required."
 category: common

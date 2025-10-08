@@ -1,7 +1,7 @@
 ---
 title: "Generate Sum - Calculate File Checksums | Online Free DevTools by Hexmos"
 name: gsum
-path: /freedevtools/tldr/osx/gsum
+path: "/freedevtools/tldr/osx/gsum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsum/"
 description: "Generate checksums with gsum on macOS using the GNU sum alias. Quickly verify file integrity and detect corruption. Free online tool, no registration required."
 category: osx

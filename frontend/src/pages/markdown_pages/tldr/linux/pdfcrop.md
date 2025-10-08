@@ -1,7 +1,7 @@
 ---
 title: "PDF Crop - Remove PDF Margins | Online Free DevTools by Hexmos"
 name: pdfcrop
-path: /freedevtools/tldr/linux/pdfcrop
+path: "/freedevtools/tldr/linux/pdfcrop/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdfcrop/"
 description: "Crop PDF margins efficiently with PDFCrop. Automatically remove or set custom margins for PDF documents. Free online tool, no registration required."
 category: linux

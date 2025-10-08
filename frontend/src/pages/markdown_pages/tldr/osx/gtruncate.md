@@ -1,7 +1,7 @@
 ---
 title: "Truncate File - Control File Size on macOS | Online Free DevTools by Hexmos"
 name: gtruncate
-path: /freedevtools/tldr/osx/gtruncate
+path: "/freedevtools/tldr/osx/gtruncate/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtruncate/"
 description: "Control file size on macOS with Gtruncate. Precisely adjust file lengths for disk space management and data manipulation. Free online tool, no registration required."
 category: osx

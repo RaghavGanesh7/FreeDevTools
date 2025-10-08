@@ -1,7 +1,7 @@
 ---
 title: "mdadm RAID Management - Create and Control RAID Arrays | Online Free DevTools by Hexmos"
 name: mdadm
-path: /freedevtools/tldr/linux/mdadm
+path: "/freedevtools/tldr/linux/mdadm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mdadm/"
 description: "Manage RAID arrays with mdadm. Create, stop, and modify RAID configurations easily using command-line instructions. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Guest Password Control - Manage VM Passwords | Online Free DevTools by Hexmos"
 name: qm-guest-passwd
-path: /freedevtools/tldr/linux/qm-guest-passwd
+path: "/freedevtools/tldr/linux/qm-guest-passwd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-guest-passwd/"
 description: "Control guest passwords for virtual machines with Guest Password Control. Set and manage user credentials using command-line tools. Free online tool, no registration required."
 category: linux

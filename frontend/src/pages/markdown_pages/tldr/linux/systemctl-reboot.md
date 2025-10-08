@@ -1,7 +1,7 @@
 ---
 title: "Systemctl Reboot - Control System Restart | Online Free DevTools by Hexmos"
 name: systemctl-reboot
-path: /freedevtools/tldr/linux/systemctl-reboot
+path: "/freedevtools/tldr/linux/systemctl-reboot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemctl-reboot/"
 description: "Control system reboot process with Systemctl Reboot. Manage system restarts and access BIOS/UEFI menu. Free online tool, no registration required."
 category: linux

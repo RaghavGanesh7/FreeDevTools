@@ -1,7 +1,7 @@
 ---
 title: "Git Stamp - Append Commit Messages | Online Free DevTools by Hexmos"
 name: git-stamp
-path: /freedevtools/tldr/git/git-stamp
+path: "/freedevtools/tldr/git/git-stamp/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-stamp/"
 description: "Append commit messages with Git Stamp, referencing issue numbers or review links. Streamline commit history management with this free online tool, no registration required."
 category: common

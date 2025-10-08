@@ -1,7 +1,7 @@
 ---
 title: "Find Secrets with TruffleHog - Scan Git Repos | Online Free DevTools by Hexmos"
 name: trufflehog
-path: /freedevtools/tldr/common/trufflehog
+path: "/freedevtools/tldr/common/trufflehog/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/trufflehog/"
 description: "Find secrets with TruffleHog, a powerful secret scanner for code repositories. Identify exposed credentials and sensitive data. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Show DNS Domain Name - Resolve Hostname | Online Free DevTools by Hexmos"
 name: dnsdomainname
-path: /freedevtools/tldr/linux/dnsdomainname
+path: "/freedevtools/tldr/linux/dnsdomainname/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnsdomainname/"
 description: "Show DNS domain name by resolving hostname with dnsdomainname. Obtain the fully qualified domain name of your system. Free online tool, no registration required."
 category: linux

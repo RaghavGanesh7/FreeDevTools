@@ -1,7 +1,7 @@
 ---
 title: "Virsh - Manage Virtual Machines | Online Free DevTools by Hexmos"
 name: virsh
-path: /freedevtools/tldr/virsh/virsh
+path: "/freedevtools/tldr/virsh/virsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/virsh/virsh/"
 description: "Manage virtual machines easily with Virsh, the command line tool for libvirt. Control VMs, start/stop domains, and edit configurations. Free online tool, no registration required."
 category: common

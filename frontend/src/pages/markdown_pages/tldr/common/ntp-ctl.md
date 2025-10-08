@@ -1,7 +1,7 @@
 ---
 title: "NTP Control - Manage Time Synchronization | Online Free DevTools by Hexmos"
 name: ntp-ctl
-path: /freedevtools/tldr/common/ntp-ctl
+path: "/freedevtools/tldr/common/ntp-ctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ntp-ctl/"
 description: "Control NTP synchronization with NTP-CTL. Manage daemon status, validate configurations, and force synchronization. Free online tool, no registration required."
 category: common

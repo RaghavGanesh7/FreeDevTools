@@ -1,7 +1,7 @@
 ---
 title: "Create Tar Archives - Compress Files with GTAR | Online Free DevTools by Hexmos"
 name: gtar
-path: /freedevtools/tldr/osx/gtar
+path: "/freedevtools/tldr/osx/gtar/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtar/"
 description: "Create compressed archives with GTAR. Manage and extract tarballs efficiently using this GNU tar alias on macOS. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Tmux - Manage Terminal Sessions with Ease | Online Free DevTools by Hexmos"
 name: tmux
-path: /freedevtools/tldr/common/tmux
+path: "/freedevtools/tldr/common/tmux/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tmux/"
 description: "Manage terminal sessions easily with Tmux. Multiplex terminals, create windows, and detach/attach sessions efficiently. Free online tool, no registration required."
 category: common

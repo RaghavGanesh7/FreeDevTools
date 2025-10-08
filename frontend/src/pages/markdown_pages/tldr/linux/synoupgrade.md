@@ -1,7 +1,7 @@
 ---
 title: "Synology DSM Upgrade - Manage Updates | Online Free DevTools by Hexmos"
 name: synoupgrade
-path: /freedevtools/tldr/linux/synoupgrade
+path: "/freedevtools/tldr/linux/synoupgrade/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/synoupgrade/"
 description: "Manage Synology DSM updates efficiently with synoupgrade. Check for updates, download, and install the latest DSM version or patches. Free online tool, no registration required."
 category: linux

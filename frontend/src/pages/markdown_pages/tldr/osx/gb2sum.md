@@ -1,7 +1,7 @@
 ---
 title: "Generate b2sum - Hash Data with gb2sum | Online Free DevTools by Hexmos"
 name: gb2sum
-path: /freedevtools/tldr/osx/gb2sum
+path: "/freedevtools/tldr/osx/gb2sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gb2sum/"
 description: "Generate data hashes with gb2sum, an alias for GNU b2sum on macOS. Verify file integrity and ensure data authenticity with this command. Free online tool, no registration required."
 category: osx

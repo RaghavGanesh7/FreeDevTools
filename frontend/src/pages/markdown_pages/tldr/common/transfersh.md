@@ -1,7 +1,7 @@
 ---
 title: "Upload Files with transfersh - Share Files | Online Free DevTools by Hexmos"
 name: transfersh
-path: /freedevtools/tldr/common/transfersh
+path: "/freedevtools/tldr/common/transfersh/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/transfersh/"
 description: "Upload files quickly with transfersh, a command-line tool for effortless file sharing. Securely transfer files with this simple and efficient command. Free online tool, no registration required."
 category: common

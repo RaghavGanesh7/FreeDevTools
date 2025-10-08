@@ -1,7 +1,7 @@
 ---
 title: "Route - Control Network Routing Tables on OSX | Online Free DevTools by Hexmos"
 name: route
-path: /freedevtools/tldr/osx/route
+path: "/freedevtools/tldr/osx/route/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/route/"
 description: "Control network routing tables with Route on OSX. Add, delete, and manage routes for efficient network communication. Free online tool, no registration required."
 category: osx

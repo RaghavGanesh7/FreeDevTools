@@ -1,7 +1,7 @@
 ---
 title: "MDK4 WiFi Attack - Exploit WiFi Networks | Online Free DevTools by Hexmos"
 name: mdk4
-path: /freedevtools/tldr/common/mdk4
+path: "/freedevtools/tldr/common/mdk4/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mdk4/"
 description: "Exploit WiFi networks with MDK4, a powerful wireless testing tool. Perform deauthentication attacks and create fake networks. Free online tool, no registration required."
 category: common

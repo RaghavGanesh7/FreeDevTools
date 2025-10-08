@@ -1,7 +1,7 @@
 ---
 title: "Generate Java Stack Traces - Control Threads | Online Free DevTools by Hexmos"
 name: jstack
-path: /freedevtools/tldr/common/jstack
+path: "/freedevtools/tldr/common/jstack/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jstack/"
 description: "Generate Java stack traces with jstack for thread analysis and debugging. Diagnose performance bottlenecks and identify deadlocks using the command line. Free online tool, no registration required."
 category: common

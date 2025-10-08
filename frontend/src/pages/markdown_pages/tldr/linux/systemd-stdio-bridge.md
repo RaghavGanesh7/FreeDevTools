@@ -1,7 +1,7 @@
 ---
 title: "Systemd STDIO Bridge - Proxy STDIO to D-Bus | Online Free DevTools by Hexmos"
 name: systemd-stdio-bridge
-path: /freedevtools/tldr/linux/systemd-stdio-bridge
+path: "/freedevtools/tldr/linux/systemd-stdio-bridge/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-stdio-bridge/"
 description: "Proxy STDIO to D-Bus with Systemd STDIO Bridge. Manage system communication and forward stdin/stdout data. Free online tool, no registration required."
 category: linux

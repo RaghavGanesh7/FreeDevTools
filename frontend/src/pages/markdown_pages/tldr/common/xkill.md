@@ -1,7 +1,7 @@
 ---
 title: "Control Window with Xkill - Kill Windows | Online Free DevTools by Hexmos"
 name: xkill
-path: /freedevtools/tldr/common/xkill
+path: "/freedevtools/tldr/common/xkill/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xkill/"
 description: "Control windows with Xkill, a graphical tool to terminate unresponsive applications. Manage X server sessions and troubleshoot GUI issues. Free online tool, no registration required."
 category: common

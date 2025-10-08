@@ -1,7 +1,7 @@
 ---
 title: "Dirsearch Scanner - Discover Web Paths | Online Free DevTools by Hexmos"
 name: dirsearch
-path: /freedevtools/tldr/common/dirsearch
+path: "/freedevtools/tldr/common/dirsearch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dirsearch/"
 description: "Discover hidden web paths with Dirsearch Scanner.  Uncover vulnerabilities and sensitive files with this powerful web enumeration tool. Free online tool, no registration required."
 category: common

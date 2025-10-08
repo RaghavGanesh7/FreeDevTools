@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Update - Deploy Infrastructure Changes | Online Free DevTools by Hexmos"
 name: pulumi-update
-path: /freedevtools/tldr/pulumi/pulumi-update
+path: "/freedevtools/tldr/pulumi/pulumi-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-update/"
 description: "Deploy infrastructure changes with Pulumi Update, an alias of `pulumi up`. Manage cloud resources and infrastructure as code efficiently. Free online tool, no registration required."
 category: common

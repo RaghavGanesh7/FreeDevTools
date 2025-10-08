@@ -1,7 +1,7 @@
 ---
 title: "Validate Disk Capacity - f3read Command | Online Free DevTools by Hexmos"
 name: f3read
-path: /freedevtools/tldr/common/f3read
+path: "/freedevtools/tldr/common/f3read/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/f3read/"
 description: "Validate disk capacity with f3read to verify storage integrity. Detect fake drives and prevent data loss on Linux and macOS. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Invoke-Item - Open Files | Online Free DevTools by Hexmos"
 name: invoke-item
-path: "/freedevtools/tldr/windows/invoke-item"
+path: "/freedevtools/tldr/windows/invoke-item/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/invoke-item/"
 description: "Open files with Invoke-Item, effortlessly accessing files using PowerShell commands. Open multiple files or specific file types quickly. Free online tool, no registration required."
 category: windows

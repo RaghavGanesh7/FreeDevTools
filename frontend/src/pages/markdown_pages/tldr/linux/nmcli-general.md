@@ -1,7 +1,7 @@
 ---
 title: "Nmcli General - Manage Network Settings | Online Free DevTools by Hexmos"
 name: nmcli-general
-path: /freedevtools/tldr/linux/nmcli-general
+path: "/freedevtools/tldr/linux/nmcli-general/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmcli-general/"
 description: "Manage network settings with Nmcli General on Linux. Control hostname, permissions, and logging levels with this powerful command-line tool. Free online tool, no registration required."
 category: linux

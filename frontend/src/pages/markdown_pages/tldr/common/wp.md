@@ -1,7 +1,7 @@
 ---
 title: "WordPress Control - Manage WP Instances | Online Free DevTools by Hexmos"
 name: wp
-path: /freedevtools/tldr/common/wp
+path: "/freedevtools/tldr/common/wp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wp/"
 description: "Control WordPress instances easily with WP-CLI. Manage plugins, update core, and interact with the database through command-line. Free online tool, no registration required."
 category: common

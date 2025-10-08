@@ -1,7 +1,7 @@
 ---
 title: "Nstat - View Network Statistics | Online Free DevTools by Hexmos"
 name: nstat
-path: "/freedevtools/tldr/linux/nstat"
+path: "/freedevtools/tldr/linux/nstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nstat/"
 description: "View network statistics with Nstat. Analyze network performance metrics, monitor packet flow, and diagnose network issues. Free online tool, no registration required."
 category: linux

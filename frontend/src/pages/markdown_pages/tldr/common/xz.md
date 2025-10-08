@@ -1,7 +1,7 @@
 ---
 title: "Compress Files - Compress & Decompress XZ Files | Online Free DevTools by Hexmos"
 name: xz
-path: /freedevtools/tldr/common/xz
+path: "/freedevtools/tldr/common/xz/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xz/"
 description: "Compress files effortlessly with XZ. Decompress XZ and LZMA archives using this command line tool. Free online tool, no registration required."
 category: common

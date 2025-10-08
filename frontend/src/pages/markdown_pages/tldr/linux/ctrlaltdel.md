@@ -1,7 +1,7 @@
 ---
 title: "Control CtrlAltDel - Manage System Reboot | Online Free DevTools by Hexmos"
 name: ctrlaltdel
-path: /freedevtools/tldr/linux/ctrlaltdel
+path: "/freedevtools/tldr/linux/ctrlaltdel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ctrlaltdel/"
 description: "Control CtrlAltDel behavior on Linux with this tool. Manage system reboots and signal handling for shutdown processes. Free online tool, no registration required."
 category: linux

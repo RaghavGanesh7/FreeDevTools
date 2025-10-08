@@ -1,7 +1,7 @@
 ---
 title: "Cryptsetup Open - Create Encrypted Mappings | Online Free DevTools by Hexmos"
 name: cryptsetup-open
-path: /freedevtools/tldr/linux/cryptsetup-open
+path: "/freedevtools/tldr/linux/cryptsetup-open/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cryptsetup-open/"
 description: "Create encrypted mappings with Cryptsetup Open, ensuring secure data storage on Linux. Enable TRIM, use keyfiles, and control disk access. Free online tool, no registration required."
 category: linux

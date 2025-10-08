@@ -1,7 +1,7 @@
 ---
 title: "DBus Interact - Control D-Bus Objects | Online Free DevTools by Hexmos"
 name: gdbus
-path: /freedevtools/tldr/linux/gdbus
+path: "/freedevtools/tldr/linux/gdbus/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gdbus/"
 description: "Interact with D-Bus objects using gdbus. Introspect interfaces, call methods, and monitor signals on the bus with this free online tool, no registration required."
 category: linux

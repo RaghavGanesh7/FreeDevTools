@@ -1,7 +1,7 @@
 ---
 title: "bcachefs Filesystem - Manage Storage with bcachefs | Online Free DevTools by Hexmos"
 name: bcachefs
-path: /freedevtools/tldr/linux/bcachefs
+path: "/freedevtools/tldr/linux/bcachefs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bcachefs/"
 description: "Manage and format bcachefs filesystems efficiently with this command-line tool. Create RAID configurations, mount and unmount partitions, and manage replicas for data redundancy. Free online tool, no registration required."
 category: linux

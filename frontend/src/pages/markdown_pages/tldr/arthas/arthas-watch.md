@@ -1,7 +1,7 @@
 ---
 title: "Arthas Watch - Observe Method Data | Online Free DevTools by Hexmos"
 name: arthas-watch
-path: /freedevtools/tldr/arthas/arthas-watch
+path: "/freedevtools/tldr/arthas/arthas-watch/"
 canonical: "https://hexmos.com/freedevtools/tldr/arthas/arthas-watch/"
 description: "Observe method invoke data with Arthas Watch. Inspect parameters, return values, and exceptions in real-time for deeper code insights. Free online tool, no registration required."
 category: common

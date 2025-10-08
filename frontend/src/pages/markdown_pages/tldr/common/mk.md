@@ -1,7 +1,7 @@
 ---
 title: "Mk Task Runner - Control Compilation Tasks | Online Free DevTools by Hexmos"
 name: mk
-path: /freedevtools/tldr/common/mk
+path: "/freedevtools/tldr/common/mk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mk/"
 description: "Control compilation tasks with Mk task runner. Automate builds, manage dependencies, and execute custom commands for efficient development. Free online tool, no registration required."
 category: common

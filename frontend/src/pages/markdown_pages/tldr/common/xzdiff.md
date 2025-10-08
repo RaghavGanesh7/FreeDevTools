@@ -1,7 +1,7 @@
 ---
 title: "Compare Compressed Files - xzdiff | Online Free DevTools by Hexmos"
 name: xzdiff
-path: /freedevtools/tldr/common/xzdiff
+path: "/freedevtools/tldr/common/xzdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xzdiff/"
 description: "Compare compressed files with xzdiff. Analyze file differences and verify data integrity across various compression formats. Free online tool, no registration required."
 category: common

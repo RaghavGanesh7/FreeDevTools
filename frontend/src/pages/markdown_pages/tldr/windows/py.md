@@ -1,7 +1,7 @@
 ---
 title: "Python Launcher - Run Python Versions | Online Free DevTools by Hexmos"
 name: py
-path: /freedevtools/tldr/windows/py
+path: "/freedevtools/tldr/windows/py/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/py/"
 description: "Run Python versions with Python Launcher for Windows. Execute scripts, start REPL sessions, and specify Python versions directly. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Output Yes - Automate Prompts with Linux 'yes' Command | Online Free DevTools by Hexmos"
 name: yes
-path: /freedevtools/tldr/common/yes
+path: "/freedevtools/tldr/common/yes/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yes/"
 description: "Automate prompts with the 'yes' command in Linux. Repeatedly output strings, bypass install prompts, and streamline command-line interactions. Free online tool, no registration required."
 category: common

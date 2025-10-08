@@ -1,7 +1,7 @@
 ---
 title: "TLMGR Pinning - Manage Package Pinning | Online Free DevTools by Hexmos"
 name: tlmgr-pinning
-path: /freedevtools/tldr/tlmgr/tlmgr-pinning
+path: "/freedevtools/tldr/tlmgr/tlmgr-pinning/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-pinning/"
 description: "Manage TLMGR package pinning with TLMGR Pinning. Add, remove, and show pinning data for package repositories. Free online tool, no registration required."
 category: common

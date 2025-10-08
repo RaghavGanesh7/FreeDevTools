@@ -1,7 +1,7 @@
 ---
 title: "Control Cisco Interface - Manage Network Interfaces | Online Free DevTools by Hexmos"
 name: interface
-path: /freedevtools/tldr/cisco-ios/interface
+path: "/freedevtools/tldr/cisco-ios/interface/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/interface/"
 description: "Control Cisco network interfaces effortlessly with this tool. Configure VLANs and manage interface status using Cisco IOS commands. Free online tool, no registration required."
 category: cisco-ios

@@ -1,7 +1,7 @@
 ---
 title: "Control OpenTTD - Manage Transport Tycoon Games | Online Free DevTools by Hexmos"
 name: openttd
-path: /freedevtools/tldr/common/openttd
+path: "/freedevtools/tldr/common/openttd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/openttd/"
 description: "Control OpenTTD with ease. Manage Transport Tycoon Deluxe games, load saves, customize configurations and start dedicated servers. Free online tool, no registration required."
 category: common

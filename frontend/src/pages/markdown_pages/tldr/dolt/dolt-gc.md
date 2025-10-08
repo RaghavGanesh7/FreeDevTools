@@ -1,7 +1,7 @@
 ---
 title: "Dolt Garbage Collection - Clean Unreferenced Data | Online Free DevTools by Hexmos"
 name: dolt-gc
-path: /freedevtools/tldr/dolt/dolt-gc
+path: "/freedevtools/tldr/dolt/dolt-gc/"
 canonical: "https://hexmos.com/freedevtools/tldr/dolt/dolt-gc/"
 description: "Clean unreferenced data with Dolt Garbage Collection. Optimize repository size and improve performance using efficient data management. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Whiptail Dialog Boxes - Create Shell Dialogs | Online Free DevTools by Hexmos"
 name: whiptail
-path: /freedevtools/tldr/linux/whiptail
+path: "/freedevtools/tldr/linux/whiptail/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/whiptail/"
 description: "Create customizable text-based dialog boxes with Whiptail for shell scripts.  Easily display messages, input fields, and menus. Free online tool, no registration required."
 category: linux

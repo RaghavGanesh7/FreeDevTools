@@ -1,7 +1,7 @@
 ---
 title: "Synchronize IMAP - Manage Mail with Offlineimap | Online Free DevTools by Hexmos"
 name: offlineimap
-path: /freedevtools/tldr/common/offlineimap
+path: "/freedevtools/tldr/common/offlineimap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/offlineimap/"
 description: "Synchronize IMAP server with Offlineimap. Manage email, and backup your important messages. Free online tool, no registration required."
 category: common

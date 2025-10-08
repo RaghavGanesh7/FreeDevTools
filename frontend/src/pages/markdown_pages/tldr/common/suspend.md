@@ -1,7 +1,7 @@
 ---
 title: "Suspend Shell - Halt Processes Quickly | Online Free DevTools by Hexmos"
 name: suspend
-path: /freedevtools/tldr/common/suspend
+path: "/freedevtools/tldr/common/suspend/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/suspend/"
 description: "Suspend execution with Shell Suspend. Pause processes and manage shell sessions using this command line tool. Free online tool, no registration required."
 category: common

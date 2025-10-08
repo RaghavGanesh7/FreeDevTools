@@ -1,7 +1,7 @@
 ---
 title: "Bluetooth Control - Manage Bluetooth Devices | Online Free DevTools by Hexmos"
 name: bluetoothctl
-path: /freedevtools/tldr/linux/bluetoothctl
+path: "/freedevtools/tldr/linux/bluetoothctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bluetoothctl/"
 description: "Manage Bluetooth devices effectively with Bluetoothctl. Control power, pair devices, and troubleshoot connections using the command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control X11 Clipboard - Xsel Clipboard Tool | Online Free DevTools by Hexmos"
 name: xsel
-path: /freedevtools/tldr/linux/xsel
+path: "/freedevtools/tldr/linux/xsel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xsel/"
 description: "Control clipboard interactions with Xsel. A powerful X11 selection and clipboard manipulation tool for Linux systems. Free online tool, no registration required."
 category: linux

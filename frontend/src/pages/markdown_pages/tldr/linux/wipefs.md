@@ -1,7 +1,7 @@
 ---
 title: "Wipe Filesystem - Remove Signatures | Online Free DevTools by Hexmos"
 name: wipefs
-path: /freedevtools/tldr/linux/wipefs
+path: "/freedevtools/tldr/linux/wipefs/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wipefs/"
 description: "Remove filesystem signatures with Wipefs, ensuring data privacy and security. Safely erase disk signatures, partitions, and RAID metadata. Free online tool, no registration required."
 category: linux

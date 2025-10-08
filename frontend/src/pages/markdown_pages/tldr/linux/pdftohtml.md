@@ -1,7 +1,7 @@
 ---
 title: "Convert PDF to HTML - Generate HTML from PDF Files | Online Free DevTools by Hexmos"
 name: pdftohtml
-path: /freedevtools/tldr/linux/pdftohtml
+path: "/freedevtools/tldr/linux/pdftohtml/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdftohtml/"
 description: "Convert PDF files to HTML with pdftohtml. Effortlessly create HTML, XML and PNG images from PDFs using this Linux command. Free online tool, no registration required."
 category: linux

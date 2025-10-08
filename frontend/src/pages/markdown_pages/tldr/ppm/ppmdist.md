@@ -1,7 +1,7 @@
 ---
 title: "Generate Grayscale PPM - Convert PPM Images | Online Free DevTools by Hexmos"
 name: ppmdist
-path: /freedevtools/tldr/ppm/ppmdist
+path: "/freedevtools/tldr/ppm/ppmdist/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmdist/"
 description: "Generate grayscale PPM images with ppmdist. Convert color PPM images to grayscale PGM format. Free online tool, no registration required."
 category: common

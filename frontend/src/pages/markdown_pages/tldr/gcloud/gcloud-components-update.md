@@ -1,7 +1,7 @@
 ---
 title: "Update gcloud Components - Manage Google Cloud SDK | Online Free DevTools by Hexmos"
 name: gcloud-components-update
-path: /freedevtools/tldr/gcloud/gcloud-components-update
+path: "/freedevtools/tldr/gcloud/gcloud-components-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcloud/gcloud-components-update/"
 description: "Update gcloud components effortlessly with this online tool. Manage your Google Cloud SDK installation, upgrade versions, and automate updates. Free online tool, no registration required."
 category: common

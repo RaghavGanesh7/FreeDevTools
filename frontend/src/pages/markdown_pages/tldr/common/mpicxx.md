@@ -1,7 +1,7 @@
 ---
 title: "MPI Compiler - Compile C++ MPI Programs | Online Free DevTools by Hexmos"
 name: mpicxx
-path: /freedevtools/tldr/common/mpicxx
+path: "/freedevtools/tldr/common/mpicxx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mpicxx/"
 description: "Compile C++ programs for parallel computing with MPI Compiler (mpicxx). Easily create distributed applications and manage message passing interfaces. Free online tool, no registration required."
 category: common

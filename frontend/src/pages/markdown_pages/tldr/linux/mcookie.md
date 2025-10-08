@@ -1,7 +1,7 @@
 ---
 title: "Generate Random Number - mcookie | Online Free DevTools by Hexmos"
 name: mcookie
-path: "/freedevtools/tldr/linux/mcookie"
+path: "/freedevtools/tldr/linux/mcookie/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mcookie/"
 description: "Generate random hexadecimal numbers with mcookie, a command-line tool for Linux. Securely create unique identifiers and seeds. Free online tool, no registration required."
 category: linux

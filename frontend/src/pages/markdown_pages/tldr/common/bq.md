@@ -1,7 +1,7 @@
 ---
 title: "BigQuery Query - Run SQL Queries | Online Free DevTools by Hexmos"
 name: bq
-path: /freedevtools/tldr/common/bq
+path: "/freedevtools/tldr/common/bq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bq/"
 description: "Run BigQuery queries efficiently with bq, Google Cloud's data warehouse tool. Analyze large datasets and manage tables easily. Free online tool, no registration required."
 category: common

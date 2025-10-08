@@ -1,7 +1,7 @@
 ---
 title: "Schroot - Control Root Directories | Online Free DevTools by Hexmos"
 name: schroot
-path: /freedevtools/tldr/linux/schroot
+path: "/freedevtools/tldr/linux/schroot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/schroot/"
 description: "Control root directories with Schroot. Easily manage chroot environments and run commands in isolated systems. Free online tool, no registration required."
 category: linux

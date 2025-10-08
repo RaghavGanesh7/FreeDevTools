@@ -1,7 +1,7 @@
 ---
 title: "RBTools Post - Manage Review Board Submissions | Online Free DevTools by Hexmos"
 name: rbt
-path: /freedevtools/tldr/common/rbt
+path: "/freedevtools/tldr/common/rbt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rbt/"
 description: "Manage Review Board submissions with RBTools Post. Submit changes, view diffs, and patch code easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "QuickLook Manager - Generate File Previews | Online Free DevTools by Hexmos"
 name: qlmanage
-path: /freedevtools/tldr/osx/qlmanage
+path: "/freedevtools/tldr/osx/qlmanage/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/qlmanage/"
 description: "Generate file previews with QuickLook Manager. View file contents and create thumbnails using this command-line tool. Free online tool, no registration required."
 category: osx

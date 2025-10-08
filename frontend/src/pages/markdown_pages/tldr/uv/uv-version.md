@@ -1,7 +1,7 @@
 ---
 title: "Version Control - Manage Project Versions | Online Free DevTools by Hexmos"
 name: uv-version
-path: /freedevtools/tldr/uv/uv-version
+path: "/freedevtools/tldr/uv/uv-version/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uv-version/"
 description: "Manage project versions with Version Control, a command line utility. Bump versions, set specific versions, and preview changes with uv. Free online tool, no registration required."
 category: common

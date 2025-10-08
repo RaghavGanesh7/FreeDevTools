@@ -1,7 +1,7 @@
 ---
 title: "Create Mosquitto Passwords - Manage Users | Online Free DevTools by Hexmos"
 name: mosquitto_passwd
-path: /freedevtools/tldr/common/mosquitto_passwd
+path: "/freedevtools/tldr/common/mosquitto_passwd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mosquitto_passwd/"
 description: "Create Mosquitto passwords securely with mosquitto_passwd. Manage MQTT user accounts, add, delete, and upgrade credentials. Free online tool, no registration required."
 category: common

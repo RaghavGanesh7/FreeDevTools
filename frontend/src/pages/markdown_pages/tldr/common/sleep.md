@@ -1,7 +1,7 @@
 ---
 title: "Delay Time - Control Sleep Time with Command | Online Free DevTools by Hexmos"
 name: sleep
-path: /freedevtools/tldr/common/sleep
+path: "/freedevtools/tldr/common/sleep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sleep/"
 description: "Control execution timing with Sleep Command. Delay script execution, schedule tasks, and manage resource usage. Free online tool, no registration required."
 category: common

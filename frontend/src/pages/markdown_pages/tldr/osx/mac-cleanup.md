@@ -1,7 +1,7 @@
 ---
 title: "mac-cleanup - Remove macOS Junk | Online Free DevTools by Hexmos"
 name: mac-cleanup
-path: /freedevtools/tldr/osx/mac-cleanup
+path: "/freedevtools/tldr/osx/mac-cleanup/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/mac-cleanup/"
 description: "Cleanup junk files with mac-cleanup, a powerful macOS utility. Reclaim disk space by removing caches and unnecessary files. Free online tool, no registration required."
 category: osx

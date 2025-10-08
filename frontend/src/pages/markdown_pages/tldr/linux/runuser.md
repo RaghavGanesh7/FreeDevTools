@@ -1,7 +1,7 @@
 ---
 title: "Runuser - Execute Commands as Different User | Online Free DevTools by Hexmos"
 name: runuser
-path: /freedevtools/tldr/linux/runuser
+path: "/freedevtools/tldr/linux/runuser/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/runuser/"
 description: "Execute commands with runuser as another user. Manage user permissions and execute specific commands using different user accounts. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Elasticsearch Node - Manage Operations | Online Free DevTools by Hexmos"
 name: elasticsearch-node
-path: /freedevtools/tldr/elasticsearch/elasticsearch-node
+path: "/freedevtools/tldr/elasticsearch/elasticsearch-node/"
 canonical: "https://hexmos.com/freedevtools/tldr/elasticsearch/elasticsearch-node/"
 description: "Control Elasticsearch node operations with elasticsearch-node. Manage node shutdown, repurpose, and view diagnostics. Free online tool, no registration required."
 category: common

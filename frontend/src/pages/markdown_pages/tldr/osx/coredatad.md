@@ -1,7 +1,7 @@
 ---
 title: "Schedule CloudKit Operations - CoreDataD | Online Free DevTools by Hexmos"
 name: coredatad
-path: /freedevtools/tldr/osx/coredatad
+path: "/freedevtools/tldr/osx/coredatad/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/coredatad/"
 description: "Schedule CloudKit operations with CoreDataD. Manage data synchronization and persistence tasks efficiently on macOS. Free online tool, no registration required."
 category: osx

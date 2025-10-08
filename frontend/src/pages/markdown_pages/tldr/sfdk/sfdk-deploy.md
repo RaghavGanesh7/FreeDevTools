@@ -1,7 +1,7 @@
 ---
 title: "SFDK Deploy - Deploy Sailfish OS Builds | Online Free DevTools by Hexmos"
 name: sfdk-deploy
-path: /freedevtools/tldr/sfdk/sfdk-deploy
+path: "/freedevtools/tldr/sfdk/sfdk-deploy/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-deploy/"
 description: "Deploy Sailfish OS builds effortlessly with SFDK Deploy. Package and transfer files to your device or emulator using various methods. Free online tool, no registration required."
 category: common

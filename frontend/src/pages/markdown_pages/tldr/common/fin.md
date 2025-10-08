@@ -1,7 +1,7 @@
 ---
 title: "Docksal Fin - Control Docksal Projects | Online Free DevTools by Hexmos"
 name: fin
-path: /freedevtools/tldr/common/fin
+path: "/freedevtools/tldr/common/fin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fin/"
 description: "Control your Docksal projects easily with Docksal Fin. Manage containers, view logs, and streamline development workflows. Free online tool, no registration required."
 category: common

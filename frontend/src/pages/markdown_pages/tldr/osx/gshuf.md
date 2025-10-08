@@ -1,7 +1,7 @@
 ---
 title: "Shuffle Lines - Generate Random Permutations with gshuf | Online Free DevTools by Hexmos"
 name: gshuf
-path: /freedevtools/tldr/osx/gshuf
+path: "/freedevtools/tldr/osx/gshuf/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gshuf/"
 description: "Generate random permutations with Shuffle Lines tool, gshuf. Create randomized lists and files on macOS. Free online tool, no registration required."
 category: osx

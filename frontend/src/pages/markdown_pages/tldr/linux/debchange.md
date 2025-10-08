@@ -1,7 +1,7 @@
 ---
 title: "Debian Changelog - Maintain Package Changelog | Online Free DevTools by Hexmos"
 name: debchange
-path: /freedevtools/tldr/linux/debchange
+path: "/freedevtools/tldr/linux/debchange/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/debchange/"
 description: "Maintain Debian package changelogs with debchange. Update versions, add entries, and close bugs in your Debian source package. Free online tool, no registration required."
 category: linux

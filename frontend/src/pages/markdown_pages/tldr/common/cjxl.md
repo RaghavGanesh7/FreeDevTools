@@ -1,7 +1,7 @@
 ---
 title: "Compress Images to JPEG XL - cjxl | Online Free DevTools by Hexmos"
 name: cjxl
-path: /freedevtools/tldr/common/cjxl
+path: "/freedevtools/tldr/common/cjxl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cjxl/"
 description: "Compress images with cjxl to JPEG XL format. Reduce image size efficiently while retaining quality. Free online tool, no registration required."
 category: common

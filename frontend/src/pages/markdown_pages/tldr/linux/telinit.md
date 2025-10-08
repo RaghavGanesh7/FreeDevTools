@@ -1,7 +1,7 @@
 ---
 title: "Telinit - Control Runlevels on Linux | Online Free DevTools by Hexmos"
 name: telinit
-path: /freedevtools/tldr/linux/telinit
+path: "/freedevtools/tldr/linux/telinit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/telinit/"
 description: "Control system runlevels with Telinit on Linux. Manage system states, initiate reboots, and power-offs from the command line. Free online tool, no registration required."
 category: linux

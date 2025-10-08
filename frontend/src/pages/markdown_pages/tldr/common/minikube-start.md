@@ -1,7 +1,7 @@
 ---
 title: "Minikube Start - Control Kubernetes Clusters | Online Free DevTools by Hexmos"
 name: minikube-start
-path: /freedevtools/tldr/common/minikube-start
+path: "/freedevtools/tldr/common/minikube-start/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minikube-start/"
 description: "Control Kubernetes clusters with Minikube Start. Configure versions, resources, and drivers for local development. Free online tool, no registration required."
 category: common

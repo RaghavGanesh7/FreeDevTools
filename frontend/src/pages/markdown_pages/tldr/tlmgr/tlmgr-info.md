@@ -1,7 +1,7 @@
 ---
 title: "TeX Live Info - Show Package Information | Online Free DevTools by Hexmos"
 name: tlmgr-info
-path: /freedevtools/tldr/tlmgr/tlmgr-info
+path: "/freedevtools/tldr/tlmgr/tlmgr-info/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-info/"
 description: "Show TeX Live package information with tlmgr info. Manage TeX distribution, list installed packages, and inspect package details easily. Free online tool, no registration required."
 category: common

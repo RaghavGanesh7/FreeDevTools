@@ -1,7 +1,7 @@
 ---
 title: "SAM - Deploy Serverless Applications | Online Free DevTools by Hexmos"
 name: sam
-path: /freedevtools/tldr/linux/sam
+path: "/freedevtools/tldr/linux/sam/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sam/"
 description: "Deploy serverless applications with SAM CLI. Package, build, and deploy AWS Lambda functions and serverless applications efficiently. Free online tool, no registration required."
 category: linux

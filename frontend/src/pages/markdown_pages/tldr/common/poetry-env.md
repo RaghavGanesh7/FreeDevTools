@@ -1,7 +1,7 @@
 ---
 title: "Poetry Env - Manage Python Virtualenvs | Online Free DevTools by Hexmos"
 name: poetry-env
-path: /freedevtools/tldr/common/poetry-env
+path: "/freedevtools/tldr/common/poetry-env/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/poetry-env/"
 description: "Manage Python virtual environments with Poetry Env. Activate, list, and remove virtualenvs associated with Poetry projects. Free online tool, no registration required."
 category: common

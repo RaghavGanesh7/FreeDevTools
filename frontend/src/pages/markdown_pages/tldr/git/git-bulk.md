@@ -1,7 +1,7 @@
 ---
 title: "Git Bulk - Manage Multiple Git Repositories | Online Free DevTools by Hexmos"
 name: git-bulk
-path: /freedevtools/tldr/git/git-bulk
+path: "/freedevtools/tldr/git/git-bulk/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-bulk/"
 description: "Manage multiple Git repositories efficiently with Git Bulk. Automate Git commands across several repositories and streamline workflow. Free online tool, no registration required."
 category: common

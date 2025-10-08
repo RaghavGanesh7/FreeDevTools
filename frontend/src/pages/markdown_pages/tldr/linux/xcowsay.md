@@ -1,7 +1,7 @@
 ---
 title: "Display Cow - Generate Cowsay Messages on Linux | Online Free DevTools by Hexmos"
 name: xcowsay
-path: /freedevtools/tldr/linux/xcowsay
+path: "/freedevtools/tldr/linux/xcowsay/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xcowsay/"
 description: "Generate Cowsay messages with Xcowsay on Linux. Display custom messages with an adorable cow image on your desktop. Free online tool, no registration required."
 category: linux

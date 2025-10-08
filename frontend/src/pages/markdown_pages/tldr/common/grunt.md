@@ -1,7 +1,7 @@
 ---
 title: "Automate JavaScript Tasks with Grunt | Online Free DevTools by Hexmos"
 name: grunt
-path: /freedevtools/tldr/common/grunt
+path: "/freedevtools/tldr/common/grunt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/grunt/"
 description: "Automate JavaScript processes with Grunt. Streamline your development workflow, build processes, and deployment. Free online tool, no registration required."
 category: common

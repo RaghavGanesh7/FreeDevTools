@@ -1,7 +1,7 @@
 ---
 title: "Benchmark System - Analyze Performance with Sysbench | Online Free DevTools by Hexmos"
 name: sysbench
-path: /freedevtools/tldr/common/sysbench
+path: "/freedevtools/tldr/common/sysbench/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sysbench/"
 description: "Analyze system performance with Sysbench. Benchmark CPU, memory, and I/O. Free online tool, no registration required."
 category: common

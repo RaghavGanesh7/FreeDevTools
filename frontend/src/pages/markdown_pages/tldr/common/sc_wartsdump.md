@@ -1,7 +1,7 @@
 ---
 title: "Warts Dump - Analyze Warts Files | Online Free DevTools by Hexmos"
 name: sc_wartsdump
-path: /freedevtools/tldr/common/sc_wartsdump
+path: "/freedevtools/tldr/common/sc_wartsdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_wartsdump/"
 description: "Analyze Warts files with sc_wartsdump. Verbose output for network data analysis. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Groups - Print User Memberships | Online Free DevTools by Hexmos"
 name: groups
-path: /freedevtools/tldr/common/groups
+path: "/freedevtools/tldr/common/groups/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/groups/"
 description: "Print user memberships with Groups command. Identify group associations and manage user access effectively using the command line. Free online tool, no registration required."
 category: common

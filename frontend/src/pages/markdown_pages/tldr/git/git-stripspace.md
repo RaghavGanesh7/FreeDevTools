@@ -1,7 +1,7 @@
 ---
 title: "Whitespace Trim - Format Git Text | Online Free DevTools by Hexmos"
 name: git-stripspace
-path: /freedevtools/tldr/git/git-stripspace
+path: "/freedevtools/tldr/git/git-stripspace/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-stripspace/"
 description: "Format Git text with git-stripspace. Clean commit messages and notes by trimming whitespace and comments. Free online tool, no registration required."
 category: common

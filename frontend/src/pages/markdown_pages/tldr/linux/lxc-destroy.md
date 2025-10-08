@@ -1,7 +1,7 @@
 ---
 title: "LXC Destroy - Delete Containers | Online Free DevTools by Hexmos"
 name: lxc-destroy
-path: /freedevtools/tldr/linux/lxc-destroy
+path: "/freedevtools/tldr/linux/lxc-destroy/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lxc-destroy/"
 description: "Delete containers easily with LXC Destroy. Manage and remove Linux containers effectively. Free online tool, no registration required."
 category: linux

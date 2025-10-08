@@ -1,7 +1,7 @@
 ---
 title: "Reg Compare - Compare Registry Keys | Online Free DevTools by Hexmos"
 name: reg-compare
-path: /freedevtools/tldr/windows/reg-compare
+path: "/freedevtools/tldr/windows/reg-compare/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-compare/"
 description: "Compare Registry Keys with Reg Compare, a powerful Windows command line tool. Analyze registry differences and matches effortlessly. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Delete User - Manage System Users | Online Free DevTools by Hexmos"
 name: deluser
-path: /freedevtools/tldr/linux/deluser
+path: "/freedevtools/tldr/linux/deluser/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/deluser/"
 description: "Delete users efficiently with deluser. Manage user accounts, remove home directories, and backup user data on Linux systems. Free online tool, no registration required."
 category: linux

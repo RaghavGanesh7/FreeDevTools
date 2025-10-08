@@ -1,7 +1,7 @@
 ---
 title: "BC Calculator - Arbitrary Precision Calculation | Online Free DevTools by Hexmos"
 name: bc
-path: /freedevtools/tldr/common/bc
+path: "/freedevtools/tldr/common/bc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bc/"
 description: "Calculate with BC arbitrary precision calculator. Perform complex math, execute scripts, and define custom functions effortlessly. Free online tool, no registration required."
 category: common

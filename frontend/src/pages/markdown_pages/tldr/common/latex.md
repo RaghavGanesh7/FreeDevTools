@@ -1,7 +1,7 @@
 ---
 title: "Compile LaTeX - Generate DVI Documents | Online Free DevTools by Hexmos"
 name: latex
-path: /freedevtools/tldr/common/latex
+path: "/freedevtools/tldr/common/latex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/latex/"
 description: "Generate DVI documents with LaTeX. Compile TeX files to DVI format using command line. Free online tool, no registration required."
 category: common

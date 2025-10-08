@@ -1,7 +1,7 @@
 ---
 title: "Control VNC Servers - Pentest with NXC VNC | Online Free DevTools by Hexmos"
 name: nxc-vnc
-path: /freedevtools/tldr/nxc/nxc-vnc
+path: "/freedevtools/tldr/nxc/nxc-vnc/"
 canonical: "https://hexmos.com/freedevtools/tldr/nxc/nxc-vnc/"
 description: "Pentest VNC servers easily with NXC VNC. Exploit vulnerabilities and assess security using credential brute-forcing. Free online tool, no registration required."
 category: common

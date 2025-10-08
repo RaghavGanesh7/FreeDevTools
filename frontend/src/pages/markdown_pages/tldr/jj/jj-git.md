@@ -1,7 +1,7 @@
 ---
 title: "JJ Git - Manage Git Repositories with JJ | Online Free DevTools by Hexmos"
 name: jj-git
-path: /freedevtools/tldr/jj/jj-git
+path: "/freedevtools/tldr/jj/jj-git/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-git/"
 description: "Manage Git repositories efficiently with JJ Git. Create, clone, fetch, and push Git repositories using the jj command line tool. Free online tool, no registration required."
 category: common

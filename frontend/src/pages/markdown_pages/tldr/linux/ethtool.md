@@ -1,7 +1,7 @@
 ---
 title: "ethtool - Control Network Interfaces | Online Free DevTools by Hexmos"
 name: ethtool
-path: /freedevtools/tldr/linux/ethtool
+path: "/freedevtools/tldr/linux/ethtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ethtool/"
 description: "Control network interface parameters with ethtool.  View network statistics, configure link settings, and troubleshoot network issues. Free online tool, no registration required."
 category: linux

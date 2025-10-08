@@ -1,7 +1,7 @@
 ---
 title: "NVM - Manage Node.js Versions | Online Free DevTools by Hexmos"
 name: nvm.fish
-path: /freedevtools/tldr/common/nvm-fish
+path: "/freedevtools/tldr/common/nvm-fish/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/nvm-fish/"
 description: "Manage Node.js versions easily with NVM. Switch between versions, install, and uninstall Node.js. Free online tool, no registration required."
 category: common

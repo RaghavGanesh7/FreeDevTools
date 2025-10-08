@@ -1,7 +1,7 @@
 ---
 title: "Download Spotify - Playlist Downloader with Spotdl | Online Free DevTools by Hexmos"
 name: spotdl
-path: /freedevtools/tldr/common/spotdl
+path: "/freedevtools/tldr/common/spotdl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spotdl/"
 description: "Download Spotify songs and playlists with Spotdl. Extract metadata and save tracks from Spotify. Free online tool, no registration required."
 category: common

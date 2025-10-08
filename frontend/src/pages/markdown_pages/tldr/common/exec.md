@@ -1,7 +1,7 @@
 ---
 title: "Execute Command - Run Shell Commands Easily | Online Free DevTools by Hexmos"
 name: exec
-path: /freedevtools/tldr/common/exec
+path: "/freedevtools/tldr/common/exec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/exec/"
 description: "Execute shell commands without creating child processes with Execute Command. Quickly run and manage system operations using command line. Free online tool, no registration required."
 category: common

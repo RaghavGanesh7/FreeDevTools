@@ -1,7 +1,7 @@
 ---
 title: "Partition Disk - Format Volumes with Diskutil on OSX | Online Free DevTools by Hexmos"
 name: diskutil-partitiondisk
-path: /freedevtools/tldr/osx/diskutil-partitiondisk
+path: "/freedevtools/tldr/osx/diskutil-partitiondisk/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/diskutil-partitiondisk/"
 description: "Format disk volumes easily with Diskutil PartitionDisk on OSX. Manage partitions using APM, MBR, or GPT schemes. Free online tool, no registration required."
 category: osx

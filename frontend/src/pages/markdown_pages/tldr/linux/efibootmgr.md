@@ -1,7 +1,7 @@
 ---
 title: "EFIBootMgr Control - Manage UEFI Boot Options | Online Free DevTools by Hexmos"
 name: efibootmgr
-path: /freedevtools/tldr/linux/efibootmgr
+path: "/freedevtools/tldr/linux/efibootmgr/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/efibootmgr/"
 description: "Control UEFI boot options with EFIBootMgr. Configure boot order and manage boot entries on Linux systems. Free online tool, no registration required."
 category: linux

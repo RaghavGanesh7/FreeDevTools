@@ -1,7 +1,7 @@
 ---
 title: "Mail Command - Send Email from Command Line | Online Free DevTools by Hexmos"
 name: mail
-path: "/freedevtools/tldr/common/mail"
+path: "/freedevtools/tldr/common/mail/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mail/"
 description: "Send email with Mail Command from your terminal. Compose messages, include attachments, and manage your mailbox quickly. Free online tool, no registration required."
 category: common

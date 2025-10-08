@@ -1,7 +1,7 @@
 ---
 title: "DM-tool - Control Display Manager | Online Free DevTools by Hexmos"
 name: dm-tool
-path: /freedevtools/tldr/linux/dm-tool
+path: "/freedevtools/tldr/linux/dm-tool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dm-tool/"
 description: "Control Display Manager with dm-tool. Switch users, lock sessions and manage seats. Free online tool, no registration required."
 category: linux

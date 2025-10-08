@@ -1,7 +1,7 @@
 ---
 title: "Create Resume - Generate JSON Resume Files | Online Free DevTools by Hexmos"
 name: resume
-path: /freedevtools/tldr/common/resume
+path: "/freedevtools/tldr/common/resume/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/resume/"
 description: "Create JSON resume files instantly with Resume. Validate, export to HTML/PDF, and serve your resume online. Free online tool, no registration required."
 category: common

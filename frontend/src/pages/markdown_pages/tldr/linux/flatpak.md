@@ -1,7 +1,7 @@
 ---
 title: "Install Flatpak Applications - Manage Packages | Online Free DevTools by Hexmos"
 name: flatpak
-path: /freedevtools/tldr/linux/flatpak
+path: "/freedevtools/tldr/linux/flatpak/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flatpak/"
 description: "Install and manage Flatpak applications with Flatpak. Update packages, add repositories, and remove unused apps on Linux. Free online tool, no registration required."
 category: linux

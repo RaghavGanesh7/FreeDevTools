@@ -1,7 +1,7 @@
 ---
 title: "Ionic CLI - Build Hybrid Mobile Apps | Online Free DevTools by Hexmos"
 name: ionic
-path: /freedevtools/tldr/common/ionic
+path: "/freedevtools/tldr/common/ionic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ionic/"
 description: "Build mobile apps faster with Ionic CLI. Create projects, serve apps, and manage components using the Ionic command-line interface. Free online tool, no registration required."
 category: common

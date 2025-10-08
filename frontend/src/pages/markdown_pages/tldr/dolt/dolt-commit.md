@@ -1,7 +1,7 @@
 ---
 title: "Dolt Commit - Save Changes in Dolt Repositories | Online Free DevTools by Hexmos"
 name: dolt-commit
-path: /freedevtools/tldr/dolt/dolt-commit
+path: "/freedevtools/tldr/dolt/dolt-commit/"
 canonical: "https://hexmos.com/freedevtools/tldr/dolt/dolt-commit/"
 description: "Commit changes with Dolt using the dolt commit command. Easily save staged changes, specify authors, and manage database versions. Free online tool, no registration required."
 category: common

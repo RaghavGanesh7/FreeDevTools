@@ -1,7 +1,7 @@
 ---
 title: "Open Browser - Launch Default Browser | Online Free DevTools by Hexmos"
 name: sensible-browser
-path: /freedevtools/tldr/linux/sensible-browser
+path: "/freedevtools/tldr/linux/sensible-browser/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sensible-browser/"
 description: "Launch default browser quickly with sensible-browser. Open URLs and new windows from the command line. Free online tool, no registration required."
 category: linux

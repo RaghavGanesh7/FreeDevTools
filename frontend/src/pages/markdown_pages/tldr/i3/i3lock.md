@@ -1,7 +1,7 @@
 ---
 title: "Lock Screen - Secure i3lock with Commands | Online Free DevTools by Hexmos"
 name: i3lock
-path: /freedevtools/tldr/i3/i3lock
+path: "/freedevtools/tldr/i3/i3lock/"
 canonical: "https://hexmos.com/freedevtools/tldr/i3/i3lock/"
 description: "Secure your i3lock screen with command-line options. Customize appearance and security settings for enhanced privacy using this simple screen locker. Free online tool, no registration required."
 category: common

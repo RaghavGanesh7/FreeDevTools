@@ -1,7 +1,7 @@
 ---
 title: "Lzmore - View Compressed Files | Online Free DevTools by Hexmos"
 name: lzmore
-path: /freedevtools/tldr/common/lzmore
+path: "/freedevtools/tldr/common/lzmore/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lzmore/"
 description: "View compressed files quickly with Lzmore, a wrapper for Xzmore. Inspect and browse compressed archives with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Figlet Fonts - List & Control FIGlet Fonts | Online Free DevTools by Hexmos"
 name: figlist
-path: /freedevtools/tldr/common/figlist
+path: "/freedevtools/tldr/common/figlist/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/figlist/"
 description: "List FIGlet fonts with figlist, the command-line font listing tool. Discover available fonts, search by keyword, and count fonts. Free online tool, no registration required."
 category: common

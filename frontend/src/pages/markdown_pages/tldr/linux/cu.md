@@ -1,7 +1,7 @@
 ---
 title: "Control Serial Ports with cu - Terminal Access & File Transfer | Online Free DevTools by Hexmos"
 name: cu
-path: /freedevtools/tldr/linux/cu
+path: "/freedevtools/tldr/linux/cu/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cu/"
 description: "Control serial port access and perform file transfers with the cu command.  This powerful Linux utility provides terminal access and data exchange capabilities. Free online tool, no registration required."
 category: linux

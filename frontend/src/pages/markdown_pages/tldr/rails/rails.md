@@ -1,7 +1,7 @@
 ---
 title: "Create Rails Projects - MVC Framework | Online Free DevTools by Hexmos"
 name: rails
-path: /freedevtools/tldr/rails/rails
+path: "/freedevtools/tldr/rails/rails/"
 canonical: "https://hexmos.com/freedevtools/tldr/rails/rails/"
 description: "Create projects instantly with Rails, the server-side MVC framework. Generate scaffolds, run migrations, and start servers easily. Free online tool, no registration required."
 category: common

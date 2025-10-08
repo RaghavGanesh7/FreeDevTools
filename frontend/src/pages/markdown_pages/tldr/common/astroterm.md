@@ -1,7 +1,7 @@
 ---
 title: "Astroterm - Render Star Maps in Terminal | Online Free DevTools by Hexmos"
 name: astroterm
-path: /freedevtools/tldr/common/astroterm
+path: "/freedevtools/tldr/common/astroterm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/astroterm/"
 description: "Render star maps with Astroterm. Visualize celestial objects and constellations in your terminal. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Trash Removal - Execute Trash Removal | Online Free DevTools by Hexmos"
 name: trash-rm
-path: /freedevtools/tldr/linux/trash-rm
+path: "/freedevtools/tldr/linux/trash-rm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/trash-rm/"
 description: "Execute trash removal with Trash-RM, a command-line tool to permanently remove files. Securely delete files and directories using the tldr command. Free online tool, no registration required."
 category: linux

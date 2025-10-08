@@ -1,7 +1,7 @@
 ---
 title: "XML List - Generate XML Directory Listings | Online Free DevTools by Hexmos"
 name: xml-list
-path: /freedevtools/tldr/xml/xml-list
+path: "/freedevtools/tldr/xml/xml-list/"
 canonical: "https://hexmos.com/freedevtools/tldr/xml/xml-list/"
 description: "Generate XML listings instantly with XML List. Convert directory content to XML format, and display directory structure. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Git Archive - Package Files into Zip | Online Free DevTools by Hexmos"
 name: git-archive-file
-path: /freedevtools/tldr/git/git-archive-file
+path: "/freedevtools/tldr/git/git-archive-file/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-archive-file/"
 description: "Generate Git archives with Git Archive-file. Compress Git repositories into ZIP files easily. Securely export project files for distribution or backup. Free online tool, no registration required."
 category: common

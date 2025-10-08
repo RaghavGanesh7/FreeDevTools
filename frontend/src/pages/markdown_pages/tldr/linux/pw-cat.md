@@ -1,7 +1,7 @@
 ---
 title: "Pw-cat - Play and Record Audio | Online Free DevTools by Hexmos"
 name: pw-cat
-path: /freedevtools/tldr/linux/pw-cat
+path: "/freedevtools/tldr/linux/pw-cat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-cat/"
 description: "Play audio files with pw-cat, a powerful PipeWire command-line tool. Control audio playback and recording on Linux systems with ease. Free online tool, no registration required."
 category: linux

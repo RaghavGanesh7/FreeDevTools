@@ -1,7 +1,7 @@
 ---
 title: "Volatility - Analyze Memory Dumps with Vol.py | Online Free DevTools by Hexmos"
 name: vol.py
-path: /freedevtools/tldr/windows/vol-py
+path: "/freedevtools/tldr/windows/vol-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/windows/vol-py/"
 description: "Analyze memory dumps quickly with Vol.py, a volatility framework for forensic analysis. Extract system information and investigate malware. Free online tool, no registration required."
 category: windows

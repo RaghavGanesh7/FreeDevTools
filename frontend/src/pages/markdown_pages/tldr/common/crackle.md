@@ -1,7 +1,7 @@
 ---
 title: "Decrypt Bluetooth - Crack BLE Encryption | Online Free DevTools by Hexmos"
 name: crackle
-path: /freedevtools/tldr/common/crackle
+path: "/freedevtools/tldr/common/crackle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/crackle/"
 description: "Crack BLE encryption with Crackle, a powerful Bluetooth Low Energy decryption tool. Recover temporary keys and decrypt recorded communications easily. Free online tool, no registration required."
 category: common

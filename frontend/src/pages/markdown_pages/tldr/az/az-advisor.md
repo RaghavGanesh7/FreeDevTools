@@ -1,7 +1,7 @@
 ---
 title: "Azure Advisor - Manage Subscriptions | Online Free DevTools by Hexmos"
 name: az-advisor
-path: /freedevtools/tldr/az/az-advisor
+path: "/freedevtools/tldr/az/az-advisor/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-advisor/"
 description: "Manage Azure subscriptions effectively with az advisor. Optimize configuration and receive recommendations to enhance your cloud environment. Free online tool, no registration required."
 category: common

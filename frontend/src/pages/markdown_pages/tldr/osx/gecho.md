@@ -1,7 +1,7 @@
 ---
 title: "Echo Command - Generate Text Output with Gecho | Online Free DevTools by Hexmos"
 name: gecho
-path: /freedevtools/tldr/osx/gecho
+path: "/freedevtools/tldr/osx/gecho/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gecho/"
 description: "Generate text output with Gecho, an alias of GNU echo on macOS. Easily display messages, variables, and arguments. Free online tool, no registration required."
 category: osx

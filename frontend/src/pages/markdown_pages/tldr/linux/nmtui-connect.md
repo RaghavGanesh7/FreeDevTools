@@ -1,7 +1,7 @@
 ---
 title: "Connect Network - Manage Network Connections with nmtui | Online Free DevTools by Hexmos"
 name: nmtui-connect
-path: /freedevtools/tldr/linux/nmtui-connect
+path: "/freedevtools/tldr/linux/nmtui-connect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmtui-connect/"
 description: "Manage network connections easily with nmtui-connect.  This command provides a text-based interface for controlling network configurations. Free online tool, no registration required."
 category: linux

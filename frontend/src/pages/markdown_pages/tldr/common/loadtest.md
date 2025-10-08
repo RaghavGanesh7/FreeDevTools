@@ -1,7 +1,7 @@
 ---
 title: "Load Test - Simulate Website Traffic | Online Free DevTools by Hexmos"
 name: loadtest
-path: /freedevtools/tldr/common/loadtest
+path: "/freedevtools/tldr/common/loadtest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/loadtest/"
 description: "Simulate website traffic with Load Test. Analyze website performance under stress and identify bottlenecks using load testing. Free online tool, no registration required."
 category: common

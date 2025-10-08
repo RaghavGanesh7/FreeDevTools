@@ -1,7 +1,7 @@
 ---
 title: "Journalctl - Query Systemd Logs | Online Free DevTools by Hexmos"
 name: journalctl
-path: /freedevtools/tldr/linux/journalctl
+path: "/freedevtools/tldr/linux/journalctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/journalctl/"
 description: "Query and manage systemd journal logs with journalctl. Filter, view, and delete logs efficiently. Free online tool, no registration required."
 category: linux

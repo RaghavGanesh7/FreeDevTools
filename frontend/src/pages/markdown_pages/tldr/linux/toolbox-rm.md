@@ -1,7 +1,7 @@
 ---
 title: "Toolbox Remove - Delete Containers | Online Free DevTools by Hexmos"
 name: toolbox-rm
-path: /freedevtools/tldr/linux/toolbox-rm
+path: "/freedevtools/tldr/linux/toolbox-rm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox-rm/"
 description: "Remove containers with Toolbox. Delete specific containers or all at once and force removal of active containers. Free online tool, no registration required."
 category: linux

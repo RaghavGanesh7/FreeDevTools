@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - Create CMUWM Bitmap | Online Free DevTools by Hexmos"
 name: pbmtocmuwm
-path: /freedevtools/tldr/common/pbmtocmuwm
+path: "/freedevtools/tldr/common/pbmtocmuwm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtocmuwm/"
 description: "Convert PBM images to CMUWM bitmaps with pbmtocmuwm. Generate bitmap files from PBM images easily using this command-line tool. Free online tool, no registration required."
 category: common

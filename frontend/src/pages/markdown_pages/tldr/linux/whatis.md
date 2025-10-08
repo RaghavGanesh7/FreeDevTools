@@ -1,7 +1,7 @@
 ---
 title: "Whatis Command - Display Man Page Descriptions | Online Free DevTools by Hexmos"
 name: whatis
-path: /freedevtools/tldr/linux/whatis
+path: "/freedevtools/tldr/linux/whatis/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/whatis/"
 description: "Quickly display man page descriptions with the whatis command.  Access concise summaries and detailed information using various options. Free online tool, no registration required."
 category: linux

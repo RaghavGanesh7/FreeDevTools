@@ -1,7 +1,7 @@
 ---
 title: "Pacstrap - Install Arch Packages | Online Free DevTools by Hexmos"
 name: pacstrap
-path: /freedevtools/tldr/linux/pacstrap
+path: "/freedevtools/tldr/linux/pacstrap/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacstrap/"
 description: "Install Arch Linux packages efficiently with Pacstrap.  Manage base systems, kernels, and specific packages using a command-line interface. Free online tool, no registration required."
 category: linux

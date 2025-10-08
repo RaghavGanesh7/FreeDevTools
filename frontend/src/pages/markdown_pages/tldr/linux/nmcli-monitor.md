@@ -1,7 +1,7 @@
 ---
 title: "Monitor NetworkManager - Track Connection Status | Online Free DevTools by Hexmos"
 name: nmcli-monitor
-path: /freedevtools/tldr/linux/nmcli-monitor
+path: "/freedevtools/tldr/linux/nmcli-monitor/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nmcli-monitor/"
 description: "Monitor NetworkManager changes with nmcli-monitor. Track network status, connection events, and device activity in real-time on Linux. Free online tool, no registration required."
 category: linux

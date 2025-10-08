@@ -1,7 +1,7 @@
 ---
 title: "Create Desktop Notifications - Notify-send | Online Free DevTools by Hexmos"
 name: notify-send
-path: /freedevtools/tldr/common/notify-send
+path: "/freedevtools/tldr/common/notify-send/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/notify-send/"
 description: "Create desktop notifications with notify-send. Customize icons, expiration times, and urgency levels. Enhance user communication. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Visudo - Safely Edit Sudoers File | Online Free DevTools by Hexmos"
 name: visudo
-path: /freedevtools/tldr/common/visudo
+path: "/freedevtools/tldr/common/visudo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/visudo/"
 description: "Safely edit the sudoers file with Visudo. Prevent configuration errors and ensure system security. Free online tool, no registration required."
 category: common

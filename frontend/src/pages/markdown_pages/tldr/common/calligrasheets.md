@@ -1,7 +1,7 @@
 ---
 title: "Create Spreadsheets - Calligra Sheets | Online Free DevTools by Hexmos"
 name: calligrasheets
-path: /freedevtools/tldr/common/calligrasheets
+path: "/freedevtools/tldr/common/calligrasheets/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/calligrasheets/"
 description: "Create spreadsheets with Calligra Sheets, a versatile spreadsheet application for data analysis and organization. Free online tool, no registration required."
 category: common

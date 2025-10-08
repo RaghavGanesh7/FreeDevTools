@@ -1,7 +1,7 @@
 ---
 title: "Wayback URL Fetcher - Find Domain URLs | Online Free DevTools by Hexmos"
 name: waymore
-path: /freedevtools/tldr/common/waymore
+path: "/freedevtools/tldr/common/waymore/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/waymore/"
 description: "Fetch domain URLs with Wayback URL Fetcher. Discover archived web pages from Wayback Machine, Common Crawl, and more. Free online tool, no registration required."
 category: common

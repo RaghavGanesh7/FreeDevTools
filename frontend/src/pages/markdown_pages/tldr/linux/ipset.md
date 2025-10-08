@@ -1,7 +1,7 @@
 ---
 title: "Ipset - Create Firewall Rules | Online Free DevTools by Hexmos"
 name: ipset
-path: /freedevtools/tldr/linux/ipset
+path: "/freedevtools/tldr/linux/ipset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ipset/"
 description: "Create firewall rules with Ipset on Linux. Manage IP sets, add/remove IP addresses, and save configurations easily. Free online tool, no registration required."
 category: linux

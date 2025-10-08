@@ -1,7 +1,7 @@
 ---
 title: "SQLite3 - Query Databases | Online Free DevTools by Hexmos"
 name: sqlite3
-path: /freedevtools/tldr/common/sqlite3
+path: "/freedevtools/tldr/common/sqlite3/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sqlite3/"
 description: "Query SQLite3 databases with this command-line interface. Execute SQL statements and manage database files efficiently. Free online tool, no registration required."
 category: common

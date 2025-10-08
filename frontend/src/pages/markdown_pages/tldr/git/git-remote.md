@@ -1,7 +1,7 @@
 ---
 title: "Git Remote - Manage Remote Repositories | Online Free DevTools by Hexmos"
 name: git-remote
-path: /freedevtools/tldr/git/git-remote
+path: "/freedevtools/tldr/git/git-remote/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-remote/"
 description: "Manage Git remote repositories with Git Remote. Control tracked repositories, add, remove, rename remotes with ease. Free online tool, no registration required."
 category: common

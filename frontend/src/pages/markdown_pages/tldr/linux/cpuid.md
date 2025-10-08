@@ -1,7 +1,7 @@
 ---
 title: "CPU Information - Display CPU Details | Online Free DevTools by Hexmos"
 name: cpuid
-path: /freedevtools/tldr/linux/cpuid
+path: "/freedevtools/tldr/linux/cpuid/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/cpuid/"
 description: "Display detailed CPU information with cpuid command. Get comprehensive CPU architecture and feature insights using this command-line tool. Free online tool, no registration required."
 category: linux

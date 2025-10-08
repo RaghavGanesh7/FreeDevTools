@@ -1,7 +1,7 @@
 ---
 title: "Recover BZ2 - Restore Damaged Archives | Online Free DevTools by Hexmos"
 name: bzip2recover
-path: /freedevtools/tldr/common/bzip2recover
+path: "/freedevtools/tldr/common/bzip2recover/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bzip2recover/"
 description: "Recover data from damaged BZ2 archives with bzip2recover. Restore intact blocks from corrupted compressed files. Free online tool, no registration required."
 category: common

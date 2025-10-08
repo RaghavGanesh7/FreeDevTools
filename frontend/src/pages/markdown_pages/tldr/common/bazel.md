@@ -1,7 +1,7 @@
 ---
 title: "Bazel Build Tool - Control Build Processes | Online Free DevTools by Hexmos"
 name: bazel
-path: /freedevtools/tldr/common/bazel
+path: "/freedevtools/tldr/common/bazel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bazel/"
 description: "Control build processes easily with Bazel build tool. Compile, test, and package software projects efficiently with dependency management. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "HTTP Command - Execute Web Requests | Online Free DevTools by Hexmos"
 name: https
-path: /freedevtools/tldr/http/https
+path: "/freedevtools/tldr/http/https/"
 canonical: "https://hexmos.com/freedevtools/tldr/http/https/"
 description: "Execute HTTP requests with this command. A shortcut to http for performing web interactions and debugging APIs. Free online tool, no registration required."
 category: common

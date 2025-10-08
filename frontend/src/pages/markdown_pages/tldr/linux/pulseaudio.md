@@ -1,7 +1,7 @@
 ---
 title: "Control PulseAudio - Manage Audio on Linux | Online Free DevTools by Hexmos"
 name: pulseaudio
-path: /freedevtools/tldr/linux/pulseaudio
+path: "/freedevtools/tldr/linux/pulseaudio/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pulseaudio/"
 description: "Control audio on Linux with PulseAudio. Manage sound servers, load modules and troubleshoot audio issues using the command line. Free online tool, no registration required."
 category: linux

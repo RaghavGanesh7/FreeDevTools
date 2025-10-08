@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Config - Manage Stack Configuration | Online Free DevTools by Hexmos"
 name: pulumi-config
-path: /freedevtools/tldr/pulumi/pulumi-config
+path: "/freedevtools/tldr/pulumi/pulumi-config/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-config/"
 description: "Manage Pulumi stack configuration efficiently with Pulumi Config. Securely store secrets and customize settings for infrastructure as code. Free online tool, no registration required."
 category: common

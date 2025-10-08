@@ -1,7 +1,7 @@
 ---
 title: "ISO Size Checker - Display ISO File Size | Online Free DevTools by Hexmos"
 name: isosize
-path: /freedevtools/tldr/linux/isosize
+path: "/freedevtools/tldr/linux/isosize/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/isosize/"
 description: "Check ISO file size quickly with the isosize command. Get detailed information including block count and size. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "List Hardware - Display Installed Devices on Linux | Online Free DevTools by Hexmos"
 name: lsdev
-path: /freedevtools/tldr/linux/lsdev
+path: "/freedevtools/tldr/linux/lsdev/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsdev/"
 description: "List hardware devices connected to your Linux system with lsdev. Identify PCI devices and view device details with this free command line tool. Free online tool, no registration required."
 category: linux

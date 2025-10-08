@@ -1,7 +1,7 @@
 ---
 title: "Docker Registry Tool - List & Dump Repositories | Online Free DevTools by Hexmos"
 name: dockdiver
-path: /freedevtools/tldr/common/dockdiver
+path: "/freedevtools/tldr/common/dockdiver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dockdiver/"
 description: "List and dump repositories with Docker Registry Tool Dockdiver. Easily manage Docker images and access registry data. Free online tool, no registration required."
 category: common

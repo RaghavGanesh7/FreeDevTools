@@ -1,7 +1,7 @@
 ---
 title: "Parallel Command - Run Commands Simultaneously | Online Free DevTools by Hexmos"
 name: parallel
-path: "/freedevtools/tldr/common/parallel"
+path: "/freedevtools/tldr/common/parallel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/parallel/"
 description: "Execute commands in parallel with Parallel Command. Accelerate workflows by running tasks on multiple cores. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Check SELinux Status - getenforce Command | Online Free DevTools by Hexmos"
 name: getenforce
-path: /freedevtools/tldr/linux/getenforce
+path: "/freedevtools/tldr/linux/getenforce/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/getenforce/"
 description: "Check SELinux status instantly with the getenforce command.  Determine if SELinux is enforcing, permissive, or disabled. Free online tool, no registration required."
 category: linux

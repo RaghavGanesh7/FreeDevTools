@@ -1,7 +1,7 @@
 ---
 title: "Generate D Code - Compile D Code with GDC | Online Free DevTools by Hexmos"
 name: gdc
-path: /freedevtools/tldr/common/gdc
+path: "/freedevtools/tldr/common/gdc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdc/"
 description: "Generate D code with GDC compiler. Compile D programming language source code using GCC backend. Free online tool, no registration required."
 category: common

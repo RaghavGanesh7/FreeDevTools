@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Websites - soupault | Online Free DevTools by Hexmos"
 name: soupault
-path: /freedevtools/tldr/common/soupault
+path: "/freedevtools/tldr/common/soupault/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/soupault/"
 description: "Generate static websites quickly with soupault. Use HTML element tree rewriting for flexible website creation and metadata extraction. Free online tool, no registration required."
 category: common

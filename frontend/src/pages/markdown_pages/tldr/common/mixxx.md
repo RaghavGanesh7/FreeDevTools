@@ -1,7 +1,7 @@
 ---
 title: "Control DJ Mixing - Free DJ Software | Online Free DevTools by Hexmos"
 name: mixxx
-path: /freedevtools/tldr/common/mixxx
+path: "/freedevtools/tldr/common/mixxx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mixxx/"
 description: "Control DJ mixing with Mixxx, the free and open-source DJ software. Fine-tune audio, use controller mappings, and debug with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Browse Web - Lynx Command-Line Browser | Online Free DevTools by Hexmos"
 name: lynx
-path: /freedevtools/tldr/common/lynx
+path: "/freedevtools/tldr/common/lynx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lynx/"
 description: "Browse the web with Lynx, a powerful command-line browser. Navigate websites and manage cookies directly from your terminal. Free online tool, no registration required."
 category: common

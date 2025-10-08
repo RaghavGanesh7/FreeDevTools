@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz LSADump - Dump Windows Secrets | Online Free DevTools by Hexmos"
 name: mimikatz-lsadump
-path: /freedevtools/tldr/windows/mimikatz-lsadump
+path: "/freedevtools/tldr/windows/mimikatz-lsadump/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-lsadump/"
 description: "Dump Windows secrets with Mimikatz LSADump. Extract SAM hashes, SECURITY hive data, and cached domain credentials. Free online tool, no registration required."
 category: windows

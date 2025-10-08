@@ -1,7 +1,7 @@
 ---
 title: "Edit Text Files - Kwrite Text Editor | Online Free DevTools by Hexmos"
 name: kwrite
-path: /freedevtools/tldr/linux/kwrite
+path: "/freedevtools/tldr/linux/kwrite/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kwrite/"
 description: "Edit text files easily with Kwrite, the KDE text editor. Open, modify, and save text files with custom encoding. Free online tool, no registration required."
 category: linux

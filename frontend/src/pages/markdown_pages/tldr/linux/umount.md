@@ -1,7 +1,7 @@
 ---
 title: "Unmount Filesystem - Control Disk Mounts | Online Free DevTools by Hexmos"
 name: umount
-path: /freedevtools/tldr/linux/umount
+path: "/freedevtools/tldr/linux/umount/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/umount/"
 description: "Control disk mounts with the umount command. Unmount filesystems, manage device access, and resolve mount issues. Free online tool, no registration required."
 category: linux

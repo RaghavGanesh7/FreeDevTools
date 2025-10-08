@@ -1,7 +1,7 @@
 ---
 title: "Create updatedb Database - Refresh File Index | Online Free DevTools by Hexmos"
 name: updatedb
-path: /freedevtools/tldr/linux/updatedb
+path: "/freedevtools/tldr/linux/updatedb/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/updatedb/"
 description: "Create and refresh updatedb file index database with updatedb. Find files quickly on Linux systems. Free online tool, no registration required."
 category: linux

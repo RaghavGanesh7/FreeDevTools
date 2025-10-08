@@ -1,7 +1,7 @@
 ---
 title: "Unexpand - Convert Spaces to Tabs | Online Free DevTools by Hexmos"
 name: gunexpand
-path: /freedevtools/tldr/osx/gunexpand
+path: "/freedevtools/tldr/osx/gunexpand/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gunexpand/"
 description: "Convert spaces to tabs with gunexpand. Efficiently reformat text files and code on macOS.  Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "SQLx - Create and Manage Databases | Online Free DevTools by Hexmos"
 name: sqlx
-path: /freedevtools/tldr/common/sqlx
+path: "/freedevtools/tldr/common/sqlx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sqlx/"
 description: "Create and manage databases with SQLx, the Rust SQL toolkit. Generate migrations, run pending updates, and revert changes. Free online tool, no registration required."
 category: common

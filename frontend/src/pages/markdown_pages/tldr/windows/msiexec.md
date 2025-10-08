@@ -1,7 +1,7 @@
 ---
 title: "MSIexec - Install Windows Packages | Online Free DevTools by Hexmos"
 name: msiexec
-path: /freedevtools/tldr/windows/msiexec
+path: "/freedevtools/tldr/windows/msiexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/msiexec/"
 description: "Install Windows packages with MSIexec. Deploy, update, and uninstall applications seamlessly using MSI and MSP files. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Generate Fake Data with Faker | Online Free DevTools by Hexmos"
 name: faker
-path: /freedevtools/tldr/common/faker
+path: "/freedevtools/tldr/common/faker/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/faker/"
 description: "Generate fake data easily with Faker. Create realistic names, addresses, and more for testing and development. Free online tool, no registration required."
 category: common

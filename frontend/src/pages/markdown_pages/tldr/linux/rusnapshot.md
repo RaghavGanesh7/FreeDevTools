@@ -1,7 +1,7 @@
 ---
 title: "Create BTRFS Snapshots - Manage Filesystems | Online Free DevTools by Hexmos"
 name: rusnapshot
-path: /freedevtools/tldr/linux/rusnapshot
+path: "/freedevtools/tldr/linux/rusnapshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rusnapshot/"
 description: "Create BTRFS snapshots with rusnapshot. Easily manage your filesystem, revert changes and backup data with this powerful command line tool. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Apachectl - Control Apache Servers | Online Free DevTools by Hexmos"
 name: apachectl
-path: /freedevtools/tldr/linux/apachectl
+path: "/freedevtools/tldr/linux/apachectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apachectl/"
 description: "Control Apache HTTP servers easily with Apachectl. Manage server processes, test configurations, and reload settings. Free online tool, no registration required."
 category: linux

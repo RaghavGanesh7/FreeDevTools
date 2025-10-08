@@ -1,7 +1,7 @@
 ---
 title: "Setfont - Control Terminal Font | Online Free DevTools by Hexmos"
 name: setfont
-path: /freedevtools/tldr/linux/setfont
+path: "/freedevtools/tldr/linux/setfont/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setfont/"
 description: "Control terminal font with Setfont, a linux command to customize TTY fonts. Enhance accessibility and personalization effortlessly. Free online tool, no registration required."
 category: linux

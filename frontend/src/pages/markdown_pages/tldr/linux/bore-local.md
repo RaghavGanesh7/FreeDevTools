@@ -1,7 +1,7 @@
 ---
 title: "Bore Local - Expose Local Ports | Online Free DevTools by Hexmos"
 name: bore-local
-path: /freedevtools/tldr/linux/bore-local
+path: "/freedevtools/tldr/linux/bore-local/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bore-local/"
 description: "Expose local ports securely with Bore Local. Easily create tunnels to remote servers for development and testing. Free online tool, no registration required."
 category: linux

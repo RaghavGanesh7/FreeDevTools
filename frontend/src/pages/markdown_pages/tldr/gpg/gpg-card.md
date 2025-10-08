@@ -1,7 +1,7 @@
 ---
 title: "GPG Card Admin - Manage Smart Cards | Online Free DevTools by Hexmos"
 name: gpg-card
-path: /freedevtools/tldr/gpg/gpg-card
+path: "/freedevtools/tldr/gpg/gpg-card/"
 canonical: "https://hexmos.com/freedevtools/tldr/gpg/gpg-card/"
 description: "Administer OpenPGP smart cards with GPG Card. Manage keys, URLs, and PINs directly from the command line. Free online tool, no registration required."
 category: common

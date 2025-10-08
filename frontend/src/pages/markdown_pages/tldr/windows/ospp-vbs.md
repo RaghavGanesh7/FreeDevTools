@@ -1,7 +1,7 @@
 ---
 title: "Office Activation - Manage Office Licenses | Online Free DevTools by Hexmos"
 name: ospp.vbs
-path: /freedevtools/tldr/windows/ospp-vbs
+path: "/freedevtools/tldr/windows/ospp-vbs/"
 canonical: "https://hexmos-com/freedevtools/tldr/windows/ospp-vbs/"
 description: "Manage Office licenses with ospp.vbs. Activate, install and uninstall product keys for volume licensed Microsoft Office products. Free online tool, no registration required."
 category: windows

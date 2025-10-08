@@ -1,7 +1,7 @@
 ---
 title: "Delete Partition - Forget Partition Tables with Linux | Online Free DevTools by Hexmos"
 name: delpart
-path: /freedevtools/tldr/linux/delpart
+path: "/freedevtools/tldr/linux/delpart/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/delpart/"
 description: "Delete partitions effectively with Delpart, a powerful Linux command. Manage disk partitions by telling the kernel to forget them. Free online tool, no registration required."
 category: linux

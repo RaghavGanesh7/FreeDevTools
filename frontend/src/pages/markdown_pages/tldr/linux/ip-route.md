@@ -1,7 +1,7 @@
 ---
 title: "Manage IP Routes - Control Network Routing | Online Free DevTools by Hexmos"
 name: ip-route
-path: /freedevtools/tldr/linux/ip-route
+path: "/freedevtools/tldr/linux/ip-route/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ip-route/"
 description: "Control network routing with the ip route command.  Add, delete, and modify static routes efficiently. Free online tool, no registration required."
 category: linux

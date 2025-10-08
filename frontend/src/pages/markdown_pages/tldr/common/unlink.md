@@ -1,7 +1,7 @@
 ---
 title: "Unlink File - Remove Links | Online Free DevTools by Hexmos"
 name: unlink
-path: /freedevtools/tldr/common/unlink
+path: "/freedevtools/tldr/common/unlink/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unlink/"
 description: "Unlink file quickly with Unlink Command. Remove file links, manage filesystem references and free up storage space. Free online tool, no registration required."
 category: common

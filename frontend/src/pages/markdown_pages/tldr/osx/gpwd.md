@@ -1,7 +1,7 @@
 ---
 title: "Get PWD - Control Current Directory Path | Online Free DevTools by Hexmos"
 name: gpwd
-path: /freedevtools/tldr/osx/gpwd
+path: "/freedevtools/tldr/osx/gpwd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gpwd/"
 description: "Control current directory path with gpwd. Retrieve the absolute path of your working directory on macOS systems using this essential command. Free online tool, no registration required."
 category: osx

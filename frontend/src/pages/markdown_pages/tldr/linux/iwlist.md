@@ -1,7 +1,7 @@
 ---
 title: "Iwlist Wireless Interface - Scan Networks | Online Free DevTools by Hexmos"
 name: iwlist
-path: /freedevtools/tldr/linux/iwlist
+path: "/freedevtools/tldr/linux/iwlist/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iwlist/"
 description: "Scan wireless networks and manage wireless interface settings with Iwlist.  Get detailed information about access points, frequencies, and security parameters. Free online tool, no registration required."
 category: linux

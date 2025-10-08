@@ -1,7 +1,7 @@
 ---
 title: "Watchexec - Control File Changes | Online Free DevTools by Hexmos"
 name: watchexec
-path: /freedevtools/tldr/common/watchexec
+path: "/freedevtools/tldr/common/watchexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/watchexec/"
 description: "Control file changes with Watchexec. Automate actions upon file modifications, triggering commands and tasks instantly. Free online tool, no registration required."
 category: common

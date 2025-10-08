@@ -1,7 +1,7 @@
 ---
 title: "Distribute C Compilation - Accelerate Builds with distcc | Online Free DevTools by Hexmos"
 name: distcc
-path: /freedevtools/tldr/common/distcc
+path: "/freedevtools/tldr/common/distcc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/distcc/"
 description: "Accelerate C/C++ builds with distcc, a distributed compilation client. Share compilation load across multiple machines for faster development. Free online tool, no registration required."
 category: common

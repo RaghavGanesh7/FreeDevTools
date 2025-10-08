@@ -1,7 +1,7 @@
 ---
 title: "Show Markdown - Render Markdown Files to Console | Online Free DevTools by Hexmos"
 name: show-markdown
-path: /freedevtools/tldr/windows/show-markdown
+path: "/freedevtools/tldr/windows/show-markdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/show-markdown/"
 description: "Render Markdown files quickly with Show-Markdown. Display Markdown content in the console or a browser. Free online tool, no registration required."
 category: windows

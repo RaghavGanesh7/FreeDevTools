@@ -1,7 +1,7 @@
 ---
 title: "Check Network Status - nm-online Command | Online Free DevTools by Hexmos"
 name: nm-online
-path: /freedevtools/tldr/linux/nm-online
+path: "/freedevtools/tldr/linux/nm-online/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nm-online/"
 description: "Check network connection status with the nm-online command.  Quickly determine network connectivity and troubleshoot issues using this simple command-line tool. Free online tool, no registration required."
 category: linux

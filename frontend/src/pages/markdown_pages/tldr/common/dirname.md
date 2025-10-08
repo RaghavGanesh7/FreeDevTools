@@ -1,7 +1,7 @@
 ---
 title: "Dirname - Calculate Parent Directory Path | Online Free DevTools by Hexmos"
 name: dirname
-path: "/freedevtools/tldr/common/dirname"
+path: "/freedevtools/tldr/common/dirname/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dirname/"
 description: "Calculate parent directory with Dirname. Extract parent paths quickly and efficiently. Free online tool, no registration required."
 category: common

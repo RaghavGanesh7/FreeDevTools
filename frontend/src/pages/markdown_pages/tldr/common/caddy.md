@@ -1,7 +1,7 @@
 ---
 title: "Caddy Server - Control Web Server with Automatic HTTPS | Online Free DevTools by Hexmos"
 name: caddy
-path: /freedevtools/tldr/common/caddy
+path: "/freedevtools/tldr/common/caddy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/caddy/"
 description: "Control your web server easily with Caddy Server. Manage HTTPS certificates automatically and reverse proxy configurations effortlessly. Free online tool, no registration required."
 category: common

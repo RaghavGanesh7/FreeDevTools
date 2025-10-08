@@ -1,7 +1,7 @@
 ---
 title: "pyATS Shell - Control Network Devices | Online Free DevTools by Hexmos"
 name: pyats-shell
-path: /freedevtools/tldr/pyats/pyats-shell
+path: "/freedevtools/tldr/pyats/pyats-shell/"
 canonical: "https://hexmos.com/freedevtools/tldr/pyats/pyats-shell/"
 description: "Control network devices with pyATS shell. Load testbeds, execute commands, and interact with network devices programmatically. Free online tool, no registration required."
 category: common

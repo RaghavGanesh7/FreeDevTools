@@ -1,7 +1,7 @@
 ---
 title: "Control Terminal Locomotive - SL Command | Online Free DevTools by Hexmos"
 name: sl
-path: /freedevtools/tldr/common/sl
+path: "/freedevtools/tldr/common/sl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sl/"
 description: "Control a terminal locomotive animation with SL. Display a fun steam locomotive or a crashed train in your terminal. Free online tool, no registration required."
 category: common

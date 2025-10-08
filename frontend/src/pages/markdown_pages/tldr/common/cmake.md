@@ -1,7 +1,7 @@
 ---
 title: "CMake - Generate Build Recipes | Online Free DevTools by Hexmos"
 name: cmake
-path: /freedevtools/tldr/common/cmake
+path: "/freedevtools/tldr/common/cmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cmake/"
 description: "Generate build recipes with CMake, a cross-platform build automation system. Simplify software development, manage dependencies, and ensure consistent builds. Free online tool, no registration required."
 category: common

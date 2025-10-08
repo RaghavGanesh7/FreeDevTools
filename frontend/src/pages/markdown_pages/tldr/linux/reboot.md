@@ -1,7 +1,7 @@
 ---
 title: "Reboot System - Control System Power | Online Free DevTools by Hexmos"
 name: reboot
-path: /freedevtools/tldr/linux/reboot
+path: "/freedevtools/tldr/linux/reboot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/reboot/"
 description: "Control system power states with the reboot command.  Shut down, halt, or force reboot your system easily. Free online tool, no registration required."
 category: linux

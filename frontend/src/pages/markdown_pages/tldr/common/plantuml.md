@@ -1,7 +1,7 @@
 ---
 title: "PlantUML - Generate UML Diagrams | Online Free DevTools by Hexmos"
 name: plantuml
-path: /freedevtools/tldr/common/plantuml
+path: "/freedevtools/tldr/common/plantuml/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/plantuml/"
 description: "Generate UML diagrams quickly with PlantUML. Create various diagram types from text descriptions and export to PNG, SVG, or PDF. Free online tool, no registration required."
 category: common

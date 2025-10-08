@@ -1,7 +1,7 @@
 ---
 title: "Zstd Command Syntax & Examples | Online Free DevTools by Hexmos"
 name: zstd
-path: /freedevtools/tldr/common/zstd
+path: "/freedevtools/tldr/common/zstd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zstd/"
 description: "Learn zstd command syntax and usage examples. Complete reference for Zstandard compression commands with practical examples for Linux, macOS, and Windows."
 category: common

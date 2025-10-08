@@ -1,7 +1,7 @@
 ---
 title: "Download Packtpub Books - Get Free Ebooks | Online Free DevTools by Hexmos"
 name: packtpub
-path: /freedevtools/tldr/common/packtpub
+path: "/freedevtools/tldr/common/packtpub/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/packtpub/"
 description: "Download free Packtpub ebooks with Packtpub CLI. Access daily offers, login, logout, and manage your account effortlessly. Free online tool, no registration required."
 category: common

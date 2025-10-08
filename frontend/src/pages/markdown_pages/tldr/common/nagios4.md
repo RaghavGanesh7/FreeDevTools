@@ -1,7 +1,7 @@
 ---
 title: "Monitor Network with Nagios4 - Control Services | Online Free DevTools by Hexmos"
 name: nagios4
-path: /freedevtools/tldr/common/nagios4
+path: "/freedevtools/tldr/common/nagios4/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nagios4/"
 description: "Monitor network services with Nagios4 for comprehensive server health checks. Validate configuration files and manage daemon processes easily. Free online tool, no registration required."
 category: common

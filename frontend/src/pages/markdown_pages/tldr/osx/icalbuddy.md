@@ -1,7 +1,7 @@
 ---
 title: "iCal Events - Control Calendar Events with iCalBuddy | Online Free DevTools by Hexmos"
 name: icalbuddy
-path: /freedevtools/tldr/osx/icalbuddy
+path: "/freedevtools/tldr/osx/icalbuddy/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/icalbuddy/"
 description: "Control calendar events easily with iCalBuddy. Manage, format, and display iCal events and tasks directly from the command line. Free online tool, no registration required."
 category: osx

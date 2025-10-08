@@ -1,7 +1,7 @@
 ---
 title: "Validate PHP Extensions - Pickle Command | Online Free DevTools by Hexmos"
 name: pickle
-path: /freedevtools/tldr/common/pickle
+path: "/freedevtools/tldr/common/pickle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pickle/"
 description: "Validate PHP extensions with Pickle. Easily manage and package PECL extensions for release. Free online tool, no registration required."
 category: common

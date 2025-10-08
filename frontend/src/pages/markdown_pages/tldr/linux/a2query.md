@@ -1,7 +1,7 @@
 ---
 title: "A2query - Retrieve Apache Configuration | Online Free DevTools by Hexmos"
 name: a2query
-path: /freedevtools/tldr/linux/a2query
+path: "/freedevtools/tldr/linux/a2query/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/a2query/"
 description: "Retrieve Apache configuration details with A2query. Inspect modules, virtual hosts, and versions for efficient server management. Free online tool, no registration required."
 category: linux

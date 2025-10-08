@@ -1,7 +1,7 @@
 ---
 title: "Format Bytes - Convert to Human-Readable Format | Online Free DevTools by Hexmos"
 name: pretty-bytes
-path: /freedevtools/tldr/common/pretty-bytes
+path: "/freedevtools/tldr/common/pretty-bytes/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pretty-bytes/"
 description: "Format byte sizes into human-readable strings with pretty-bytes. Easily convert data sizes for clear representation. Free online tool, no registration required."
 category: common

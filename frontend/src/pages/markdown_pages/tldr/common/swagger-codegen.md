@@ -1,7 +1,7 @@
 ---
 title: "Swagger Codegen - Generate REST API Code & Docs | Online Free DevTools by Hexmos"
 name: swagger-codegen
-path: /freedevtools/tldr/common/swagger-codegen
+path: "/freedevtools/tldr/common/swagger-codegen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/swagger-codegen/"
 description: "Generate REST API code and documentation with Swagger Codegen. Define APIs using OpenAPI/Swagger, automate code generation, and simplify API development. Free online tool, no registration required."
 category: common

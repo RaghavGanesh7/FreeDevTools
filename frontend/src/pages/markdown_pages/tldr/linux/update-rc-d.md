@@ -1,7 +1,7 @@
 ---
 title: "Update RC.d - Manage Init Scripts on Linux | Online Free DevTools by Hexmos"
 name: update-rc.d
-path: /freedevtools/tldr/linux/update-rc-d
+path: "/freedevtools/tldr/linux/update-rc-d/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/update-rc-d/"
 description: "Manage Linux init scripts with Update RC.d. Install, enable, disable, and remove services for system startup and shutdown processes. Free online tool, no registration required."
 category: linux

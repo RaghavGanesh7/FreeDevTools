@@ -1,7 +1,7 @@
 ---
 title: "Question Mark - Get CLI Help | Online Free DevTools by Hexmos"
 name: question-mark
-path: /freedevtools/tldr/cisco-ios/question-mark
+path: "/freedevtools/tldr/cisco-ios/question-mark/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/question-mark/"
 description: "Get CLI help with Question Mark. Discover available commands and options within the Cisco IOS CLI environment. Free online tool, no registration required."
 category: cisco-ios

@@ -1,7 +1,7 @@
 ---
 title: "Finger Lookup - Find User Information | Online Free DevTools by Hexmos"
 name: finger
-path: /freedevtools/tldr/common/finger
+path: "/freedevtools/tldr/common/finger/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/finger/"
 description: "Lookup user information with Finger. Quickly retrieve details about users on a system including login name, real name, and more. Free online tool, no registration required."
 category: common

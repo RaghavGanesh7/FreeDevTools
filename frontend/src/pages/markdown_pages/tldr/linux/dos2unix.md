@@ -1,7 +1,7 @@
 ---
 title: "Format Line Endings - dos2unix Converter | Online Free DevTools by Hexmos"
 name: dos2unix
-path: /freedevtools/tldr/linux/dos2unix
+path: "/freedevtools/tldr/linux/dos2unix/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dos2unix/"
 description: "Format line endings with dos2unix, converting DOS to Unix style.  Easily manage CRLF and LF characters in your files. Free online tool, no registration required."
 category: linux

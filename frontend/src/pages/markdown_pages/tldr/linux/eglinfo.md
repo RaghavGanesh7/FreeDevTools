@@ -1,7 +1,7 @@
 ---
 title: "EGL Info Display - View EGL Platform Details | Online Free DevTools by Hexmos"
 name: eglinfo
-path: /freedevtools/tldr/linux/eglinfo
+path: "/freedevtools/tldr/linux/eglinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eglinfo/"
 description: "View EGL platform details instantly with eglinfo.  Get comprehensive or brief information about your EGL setup. Free online tool, no registration required."
 category: linux

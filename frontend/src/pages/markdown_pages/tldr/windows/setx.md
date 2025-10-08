@@ -1,7 +1,7 @@
 ---
 title: "Set Environment Variables - Control with Setx | Online Free DevTools by Hexmos"
 name: setx
-path: /freedevtools/tldr/windows/setx
+path: "/freedevtools/tldr/windows/setx/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/setx/"
 description: "Control environment variables with Setx on Windows. Persistently set user and system variables, including remote machine configuration. Free online tool, no registration required."
 category: windows

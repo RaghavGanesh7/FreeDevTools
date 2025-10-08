@@ -1,7 +1,7 @@
 ---
 title: "Submit Qsub Scripts - Manage Jobs | Online Free DevTools by Hexmos"
 name: qsub
-path: /freedevtools/tldr/linux/qsub
+path: "/freedevtools/tldr/linux/qsub/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qsub/"
 description: "Submit scripts with Qsub and manage jobs in TORQUE queue management system. Control resource allocation and efficiently schedule tasks. Free online tool, no registration required."
 category: linux

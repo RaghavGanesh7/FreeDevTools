@@ -1,7 +1,7 @@
 ---
 title: "Pveperf Benchmark - Analyze Proxmox Server Performance | Online Free DevTools by Hexmos"
 name: pveperf
-path: /freedevtools/tldr/linux/pveperf
+path: "/freedevtools/tldr/linux/pveperf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pveperf/"
 description: "Analyze Proxmox server performance with Pveperf. Evaluate CPU and hard disk speeds, crucial for system optimization. Free online tool, no registration required."
 category: linux

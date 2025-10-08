@@ -1,7 +1,7 @@
 ---
 title: "Manage Files - Dolphin File Manager on Linux | Online Free DevTools by Hexmos"
 name: dolphin
-path: /freedevtools/tldr/linux/dolphin
+path: "/freedevtools/tldr/linux/dolphin/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dolphin/"
 description: "Manage files with Dolphin file manager on Linux. Navigate directories, select files, and open multiple windows. Free online tool, no registration required."
 category: linux

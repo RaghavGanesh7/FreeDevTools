@@ -1,7 +1,7 @@
 ---
 title: "Retry Command - Repeat Operations | Online Free DevTools by Hexmos"
 name: retry
-path: /freedevtools/tldr/common/retry
+path: "/freedevtools/tldr/common/retry/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/retry/"
 description: "Retry command operations automatically. Ensure script reliability and automate error handling with retry functionality. Free online tool, no registration required."
 category: common

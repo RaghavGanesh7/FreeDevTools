@@ -1,7 +1,7 @@
 ---
 title: "Create Audiobook Files - m4b-tool | Online Free DevTools by Hexmos"
 name: m4b-tool
-path: /freedevtools/tldr/common/m4b-tool
+path: "/freedevtools/tldr/common/m4b-tool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/m4b-tool/"
 description: "Create audiobook files with m4b-tool. Merge, split, and add chapters to audio files. Free online tool, no registration required."
 category: common

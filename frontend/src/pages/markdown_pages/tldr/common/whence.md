@@ -1,7 +1,7 @@
 ---
 title: "Interpret Command Type - Check Command Path | Online Free DevTools by Hexmos"
 name: whence
-path: /freedevtools/tldr/common/whence
+path: "/freedevtools/tldr/common/whence/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/whence/"
 description: "Interpret command type with whence. Determine location of commands, search command path and show function content. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Setfacl - Control File Access Lists on Linux | Online Free DevTools by Hexmos"
 name: setfacl
-path: /freedevtools/tldr/linux/setfacl
+path: "/freedevtools/tldr/linux/setfacl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/setfacl/"
 description: "Control file access lists with Setfacl. Manage permissions on Linux systems, set default ACLs, and remove specific user access. Free online tool, no registration required."
 category: linux

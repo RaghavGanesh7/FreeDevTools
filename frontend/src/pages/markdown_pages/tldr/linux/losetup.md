@@ -1,7 +1,7 @@
 ---
 title: "Control Loop Devices with losetup | Online Free DevTools by Hexmos"
 name: losetup
-path: /freedevtools/tldr/linux/losetup
+path: "/freedevtools/tldr/linux/losetup/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/losetup/"
 description: "Control and manage loop devices with the losetup command.  Create, attach, and detach loop devices easily and efficiently. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Manage SELinux Booleans - Control Security Settings | Online Free DevTools by Hexmos"
 name: semanage-boolean
-path: /freedevtools/tldr/linux/semanage-boolean
+path: "/freedevtools/tldr/linux/semanage-boolean/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/semanage-boolean/"
 description: "Control SELinux boolean settings with semanage-boolean.  Manage persistent security configurations using this powerful command-line tool. Free online tool, no registration required."
 category: linux

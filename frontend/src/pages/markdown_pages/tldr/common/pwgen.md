@@ -1,7 +1,7 @@
 ---
 title: "Generate Password - Generate Secure Passwords with pwgen | Online Free DevTools by Hexmos"
 name: pwgen
-path: /freedevtools/tldr/common/pwgen
+path: "/freedevtools/tldr/common/pwgen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pwgen/"
 description: "Generate secure passwords with pwgen, a powerful password generator. Customize password length and character types. Free online tool, no registration required."
 category: common

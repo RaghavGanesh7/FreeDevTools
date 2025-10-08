@@ -1,7 +1,7 @@
 ---
 title: "Shear PNM Image - Control Image Shearing | Online Free DevTools by Hexmos"
 name: pnmshear
-path: /freedevtools/tldr/pnm/pnmshear
+path: "/freedevtools/tldr/pnm/pnmshear/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmshear/"
 description: "Control image shearing with pnmshear. Precisely shear PNM images using command-line. Modify images with angle specifications and background color. Free online tool, no registration required."
 category: common

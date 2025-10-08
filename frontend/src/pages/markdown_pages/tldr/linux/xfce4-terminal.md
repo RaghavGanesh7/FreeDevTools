@@ -1,7 +1,7 @@
 ---
 title: "XFCE4 Terminal - Control Linux Terminal | Online Free DevTools by Hexmos"
 name: xfce4-terminal
-path: /freedevtools/tldr/linux/xfce4-terminal
+path: "/freedevtools/tldr/linux/xfce4-terminal/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xfce4-terminal/"
 description: "Control Linux terminal sessions with XFCE4 Terminal. Manage tabs, execute commands and customize titles with ease. Free online tool, no registration required."
 category: linux

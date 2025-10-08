@@ -1,7 +1,7 @@
 ---
 title: "Scan WordPress for Vulnerabilities - WPScan | Online Free DevTools by Hexmos"
 name: wpscan
-path: /freedevtools/tldr/common/wpscan
+path: "/freedevtools/tldr/common/wpscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wpscan/"
 description: "Scan WordPress websites for security vulnerabilities with WPScan. Detect vulnerable plugins, themes, and core versions. Free online tool, no registration required."
 category: common

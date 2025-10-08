@@ -1,7 +1,7 @@
 ---
 title: "Generate UUID - abrt-action-analyze-c | Online Free DevTools by Hexmos"
 name: abrt-action-analyze-c
-path: /freedevtools/tldr/linux/abrt-action-analyze-c
+path: "/freedevtools/tldr/linux/abrt-action-analyze-c/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/abrt-action-analyze-c/"
 description: "Generate UUIDs with abrt-action-analyze-c. Analyze coredump files and create unique identifiers for problem data directories. Free online tool, no registration required."
 category: linux

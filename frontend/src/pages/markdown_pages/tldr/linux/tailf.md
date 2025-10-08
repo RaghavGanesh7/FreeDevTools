@@ -1,7 +1,7 @@
 ---
 title: "Tail File - View Logs | Online Free DevTools by Hexmos"
 name: tailf
-path: /freedevtools/tldr/linux/tailf
+path: "/freedevtools/tldr/linux/tailf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/tailf/"
 description: "View logs with Tail File, a superseded command replaced by tail -f. Easily monitor log files for real-time updates. Free online tool, no registration required."
 category: linux

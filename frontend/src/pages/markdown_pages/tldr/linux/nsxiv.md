@@ -1,7 +1,7 @@
 ---
 title: "Control Images - View with nsxiv | Online Free DevTools by Hexmos"
 name: nsxiv
-path: /freedevtools/tldr/linux/nsxiv
+path: "/freedevtools/tldr/linux/nsxiv/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/nsxiv/"
 description: "View images instantly with nsxiv. Control image display and navigation with this simple command line tool. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Bcachefs Device - Manage Storage Devices | Online Free DevTools by Hexmos"
 name: bcachefs-device
-path: /freedevtools/tldr/linux/bcachefs-device
+path: "/freedevtools/tldr/linux/bcachefs-device/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/bcachefs-device/"
 description: "Manage storage devices with Bcachefs Device, allowing you to add, evacuate, and remove devices from your bcachefs filesystem. Free online tool, no registration required."
 category: linux

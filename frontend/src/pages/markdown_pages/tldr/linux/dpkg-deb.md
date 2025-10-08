@@ -1,7 +1,7 @@
 ---
 title: "dpkg-deb - Manage Debian Packages | Online Free DevTools by Hexmos"
 name: dpkg-deb
-path: /freedevtools/tldr/linux/dpkg-deb
+path: "/freedevtools/tldr/linux/dpkg-deb/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dpkg-deb/"
 description: "Manage Debian packages with dpkg-deb.  Create, extract, and inspect .deb files easily. Free online tool, no registration required."
 category: linux

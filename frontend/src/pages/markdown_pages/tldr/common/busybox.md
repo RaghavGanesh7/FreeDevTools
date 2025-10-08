@@ -1,7 +1,7 @@
 ---
 title: "Busybox - Control System Utilities | Online Free DevTools by Hexmos"
 name: busybox
-path: /freedevtools/tldr/common/busybox
+path: "/freedevtools/tldr/common/busybox/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/busybox/"
 description: "Control system utilities with Busybox. Manage files, processes, and network configurations with this versatile command-line tool. Free online tool, no registration required."
 category: common

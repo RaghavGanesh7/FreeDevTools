@@ -1,7 +1,7 @@
 ---
 title: "GYB - Backup Gmail Messages Locally | Online Free DevTools by Hexmos"
 name: gyb
-path: /freedevtools/tldr/common/gyb
+path: "/freedevtools/tldr/common/gyb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gyb/"
 description: "Backup Gmail messages with GYB, a Gmail backup tool. Secure your emails and restore them easily. Free online tool, no registration required."
 category: common

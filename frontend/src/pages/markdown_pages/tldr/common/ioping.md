@@ -1,7 +1,7 @@
 ---
 title: "Monitor I/O Latency - Check Disk Speed | Online Free DevTools by Hexmos"
 name: ioping
-path: /freedevtools/tldr/common/ioping
+path: "/freedevtools/tldr/common/ioping/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ioping/"
 description: "Monitor I/O latency with ioping. Analyze disk read/write performance and identify bottlenecks. Free online tool, no registration required."
 category: common

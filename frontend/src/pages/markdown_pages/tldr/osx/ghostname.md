@@ -1,7 +1,7 @@
 ---
 title: "Hostname Command - Manage Hostname on macOS | Online Free DevTools by Hexmos"
 name: ghostname
-path: /freedevtools/tldr/osx/ghostname
+path: "/freedevtools/tldr/osx/ghostname/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ghostname/"
 description: "Manage hostname on macOS with Ghostname. Quickly view, set, and control your system's hostname using the command line. Free online tool, no registration required."
 category: osx

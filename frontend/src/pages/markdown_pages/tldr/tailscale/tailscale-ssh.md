@@ -1,7 +1,7 @@
 ---
 title: "Tailscale SSH - Secure Shell Access | Online Free DevTools by Hexmos"
 name: tailscale-ssh
-path: /freedevtools/tldr/tailscale/tailscale-ssh
+path: "/freedevtools/tldr/tailscale/tailscale-ssh/"
 canonical: "https://hexmos.com/freedevtools/tldr/tailscale/tailscale-ssh/"
 description: "Secure shell access with Tailscale SSH. Easily connect to your Tailscale machines using SSH, streamlining remote access. Free online tool, no registration required."
 category: common

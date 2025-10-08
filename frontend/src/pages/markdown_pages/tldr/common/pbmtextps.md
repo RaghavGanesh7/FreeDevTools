@@ -1,7 +1,7 @@
 ---
 title: "Generate PBM Image - Text to PBM with PostScript | Online Free DevTools by Hexmos"
 name: pbmtextps
-path: /freedevtools/tldr/common/pbmtextps
+path: "/freedevtools/tldr/common/pbmtextps/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtextps/"
 description: "Generate PBM image with pbmtextps using PostScript fonts. Convert text to PBM images online effortlessly. Free online tool, no registration required."
 category: common

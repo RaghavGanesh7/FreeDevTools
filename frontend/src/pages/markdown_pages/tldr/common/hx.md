@@ -1,7 +1,7 @@
 ---
 title: "Helix Editor - Edit Code Quickly | Online Free DevTools by Hexmos"
 name: hx
-path: /freedevtools/tldr/common/hx
+path: "/freedevtools/tldr/common/hx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hx/"
 description: "Edit code quickly with Helix Editor. A modal editor with built-in language server support for faster development. Free online tool, no registration required."
 category: common

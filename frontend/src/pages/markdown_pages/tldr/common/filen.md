@@ -1,7 +1,7 @@
 ---
 title: "Filen - Control Cloud Storage | Online Free DevTools by Hexmos"
 name: filen
-path: /freedevtools/tldr/common/filen
+path: "/freedevtools/tldr/common/filen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/filen/"
 description: "Control cloud storage with Filen. Securely upload, download, and manage your files with end-to-end encryption. Free online tool, no registration required."
 category: common

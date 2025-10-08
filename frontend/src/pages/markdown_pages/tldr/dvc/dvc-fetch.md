@@ -1,7 +1,7 @@
 ---
 title: "DVC Fetch - Download DVC Tracked Files | Online Free DevTools by Hexmos"
 name: dvc-fetch
-path: /freedevtools/tldr/dvc/dvc-fetch
+path: "/freedevtools/tldr/dvc/dvc-fetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/dvc/dvc-fetch/"
 description: "Download DVC tracked files with DVC Fetch. Retrieve data artifacts, manage remote repositories, and collaborate on projects easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Render Markdown - Preview GitHub Markdown with Grip | Online Free DevTools by Hexmos"
 name: grip
-path: /freedevtools/tldr/common/grip
+path: "/freedevtools/tldr/common/grip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/grip/"
 description: "Render Markdown with Grip. Preview GitHub-flavored Markdown files locally using the command line. Free online tool, no registration required."
 category: common

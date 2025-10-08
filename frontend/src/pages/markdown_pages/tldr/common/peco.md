@@ -1,7 +1,7 @@
 ---
 title: "Filter Files - Interactive Filtering with Peco | Online Free DevTools by Hexmos"
 name: peco
-path: /freedevtools/tldr/common/peco
+path: "/freedevtools/tldr/common/peco/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/peco/"
 description: "Filter files interactively with Peco. Quickly find and select files and processes using command-line filtering. Free online tool, no registration required."
 category: common

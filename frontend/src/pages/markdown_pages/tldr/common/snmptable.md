@@ -1,7 +1,7 @@
 ---
 title: "Fetch SNMP Table - Get Network Data | Online Free DevTools by Hexmos"
 name: snmptable
-path: /freedevtools/tldr/common/snmptable
+path: "/freedevtools/tldr/common/snmptable/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snmptable/"
 description: "Fetch network data with SNMP Table. Retrieve tabular information using SNMP queries for monitoring and management. Free online tool, no registration required."
 category: common

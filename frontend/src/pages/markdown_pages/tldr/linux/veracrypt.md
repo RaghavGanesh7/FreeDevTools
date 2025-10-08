@@ -1,7 +1,7 @@
 ---
 title: "VeraCrypt Encryption - Create Secure Volumes | Online Free DevTools by Hexmos"
 name: veracrypt
-path: /freedevtools/tldr/linux/veracrypt
+path: "/freedevtools/tldr/linux/veracrypt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/veracrypt/"
 description: "Create secure volumes with VeraCrypt, a powerful disk encryption software. Encrypt and decrypt partitions with ease using this free online tool, no registration required."
 category: linux

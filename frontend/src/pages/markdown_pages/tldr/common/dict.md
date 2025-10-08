@@ -1,7 +1,7 @@
 ---
 title: "Dictionary Lookup - Search DICT Databases | Online Free DevTools by Hexmos"
 name: dict
-path: /freedevtools/tldr/common/dict
+path: "/freedevtools/tldr/common/dict/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dict/"
 description: "Search DICT databases easily with Dictionary Lookup, a command-line tool. Access definitions and information across various databases. Free online tool, no registration required."
 category: common

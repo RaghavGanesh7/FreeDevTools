@@ -1,7 +1,7 @@
 ---
 title: "Determine MIME Type - File Analyzer | Online Free DevTools by Hexmos"
 name: mimetype
-path: /freedevtools/tldr/linux/mimetype
+path: "/freedevtools/tldr/linux/mimetype/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mimetype/"
 description: "Determine file MIME types instantly with the mimetype analyzer.  Identify file formats and get detailed descriptions. Free online tool, no registration required."
 category: linux

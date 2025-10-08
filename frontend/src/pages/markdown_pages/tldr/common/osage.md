@@ -1,7 +1,7 @@
 ---
 title: "Generate Graphviz Image - Render Network Graphs | Online Free DevTools by Hexmos"
 name: osage
-path: /freedevtools/tldr/common/osage
+path: "/freedevtools/tldr/common/osage/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/osage/"
 description: "Generate Graphviz image files with Osage. Render network graphs and diagrams from dot files. Free online tool, no registration required."
 category: common

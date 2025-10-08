@@ -1,7 +1,7 @@
 ---
 title: "AppArmor Audit - Control Security Profiles | Online Free DevTools by Hexmos"
 name: aa-audit
-path: /freedevtools/tldr/linux/aa-audit
+path: "/freedevtools/tldr/linux/aa-audit/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-audit/"
 description: "Control AppArmor security profiles with aa-audit. Set profiles to audit mode, remove audit status, and manage configurations effortlessly on Linux systems. Free online tool, no registration required."
 category: linux

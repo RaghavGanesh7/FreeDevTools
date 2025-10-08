@@ -1,7 +1,7 @@
 ---
 title: "Decode DIMMs - Display RAM Data | Online Free DevTools by Hexmos"
 name: decode-dimms
-path: /freedevtools/tldr/linux/decode-dimms
+path: "/freedevtools/tldr/linux/decode-dimms/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/decode-dimms/"
 description: "Display RAM data with decode-dimms. Analyze memory module information and identify details about installed DIMMs. Free online tool, no registration required."
 category: linux

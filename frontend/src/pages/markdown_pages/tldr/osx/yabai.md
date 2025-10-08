@@ -1,7 +1,7 @@
 ---
 title: "Yabai Window Manager - Control macOS Windows | Online Free DevTools by Hexmos"
 name: yabai
-path: /freedevtools/tldr/osx/yabai
+path: "/freedevtools/tldr/osx/yabai/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/yabai/"
 description: "Control macOS window layout with Yabai Window Manager. Configure window gaps, opacity, and shadows for efficient tiling. Free online tool, no registration required."
 category: osx

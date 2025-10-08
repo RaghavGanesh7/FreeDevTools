@@ -1,7 +1,7 @@
 ---
 title: "Control Software Signals - Simplified Signal Handling | Online Free DevTools by Hexmos"
 name: signal
-path: /freedevtools/tldr/osx/signal
+path: "/freedevtools/tldr/osx/signal/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/signal/"
 description: "Control software signals with Signal, a simplified signal handling facility for macOS. Easily manage process signals and improve system stability. Free online tool, no registration required."
 category: osx

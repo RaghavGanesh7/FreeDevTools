@@ -1,7 +1,7 @@
 ---
 title: "Backup VG - Backup Volume Group Configuration | Online Free DevTools by Hexmos"
 name: vgcfgbackup
-path: /freedevtools/tldr/linux/vgcfgbackup
+path: "/freedevtools/tldr/linux/vgcfgbackup/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vgcfgbackup/"
 description: "Backup Volume Group configurations easily with vgcfgbackup. Securely manage LVM metadata and prevent data loss. Free online tool, no registration required."
 category: linux

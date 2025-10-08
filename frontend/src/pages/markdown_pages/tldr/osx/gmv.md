@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Control Files with gmv | Online Free DevTools by Hexmos"
 name: gmv
-path: /freedevtools/tldr/osx/gmv
+path: "/freedevtools/tldr/osx/gmv/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gmv/"
 description: "Control files with gmv, a powerful file renaming tool. Quickly rename multiple files with pattern matching and batch processing. Free online tool, no registration required."
 category: osx

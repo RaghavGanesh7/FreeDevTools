@@ -1,7 +1,7 @@
 ---
 title: "Execute TypeScript - Run TS Directly | Online Free DevTools by Hexmos"
 name: ts-node
-path: /freedevtools/tldr/common/ts-node
+path: "/freedevtools/tldr/common/ts-node/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ts-node/"
 description: "Execute TypeScript code directly with ts-node, bypassing compilation. Run .ts files, evaluate code literals, and transpile TypeScript easily. Free online tool, no registration required."
 category: common

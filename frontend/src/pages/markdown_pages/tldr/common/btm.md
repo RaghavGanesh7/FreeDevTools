@@ -1,7 +1,7 @@
 ---
 title: "Btm - Monitor System Resources | Online Free DevTools by Hexmos"
 name: btm
-path: /freedevtools/tldr/common/btm
+path: "/freedevtools/tldr/common/btm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/btm/"
 description: "Monitor system resources effectively with Btm. Observe CPU, memory, disk I/O, and network usage in a graphical terminal interface. Free online tool, no registration required."
 category: common

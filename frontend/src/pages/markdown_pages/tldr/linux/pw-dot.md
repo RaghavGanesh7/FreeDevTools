@@ -1,7 +1,7 @@
 ---
 title: "Generate PipeWire Graph - Create .dot Files | Online Free DevTools by Hexmos"
 name: pw-dot
-path: /freedevtools/tldr/linux/pw-dot
+path: "/freedevtools/tldr/linux/pw-dot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-dot/"
 description: "Generate .dot files visualizing the PipeWire graph using pw-dot.  Easily manage and inspect your PipeWire audio and video connections. Free online tool, no registration required."
 category: linux

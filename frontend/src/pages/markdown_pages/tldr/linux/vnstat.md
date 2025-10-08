@@ -1,7 +1,7 @@
 ---
 title: "Vnstat - Control Network Traffic | Online Free DevTools by Hexmos"
 name: vnstat
-path: /freedevtools/tldr/linux/vnstat
+path: "/freedevtools/tldr/linux/vnstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vnstat/"
 description: "Control network traffic instantly with Vnstat. Monitor bandwidth usage, track interface statistics, and analyze network performance using the command line. Free online tool, no registration required."
 category: linux

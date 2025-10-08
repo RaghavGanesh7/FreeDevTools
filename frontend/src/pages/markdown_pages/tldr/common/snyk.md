@@ -1,7 +1,7 @@
 ---
 title: "Snyk Vulnerability Scanner - Find & Remediate Risks | Online Free DevTools by Hexmos"
 name: snyk
-path: /freedevtools/tldr/common/snyk
+path: "/freedevtools/tldr/common/snyk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/snyk/"
 description: "Scan for vulnerabilities with Snyk, identify code flaws, and remediate security risks. Improve code security with this free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Set Environment Variables - Control CMD Instance | Online Free DevTools by Hexmos"
 name: set
-path: /freedevtools/tldr/windows/set
+path: "/freedevtools/tldr/windows/set/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/set/"
 description: "Control environment variables with Set Environment Variables. Quickly set and display variables for CMD instance. Free online tool, no registration required."
 category: windows

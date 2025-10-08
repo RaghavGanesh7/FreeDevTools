@@ -1,7 +1,7 @@
 ---
 title: "Control OCaml Packages - Link Libraries | Online Free DevTools by Hexmos"
 name: ocamlfind
-path: /freedevtools/tldr/common/ocamlfind
+path: "/freedevtools/tldr/common/ocamlfind/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ocamlfind/"
 description: "Control OCaml packages effortlessly with ocamlfind. Simplify linking OCaml executables with external libraries for efficient software development. Free online tool, no registration required."
 category: common

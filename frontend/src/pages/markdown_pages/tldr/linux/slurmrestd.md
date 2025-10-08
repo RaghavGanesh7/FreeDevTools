@@ -1,7 +1,7 @@
 ---
 title: "Slurm REST API - Control Slurm via REST | Online Free DevTools by Hexmos"
 name: slurmrestd
-path: /freedevtools/tldr/linux/slurmrestd
+path: "/freedevtools/tldr/linux/slurmrestd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slurmrestd/"
 description: "Control Slurm workload manager via REST API with Slurmrestd. Manage clusters, submit jobs, and monitor status. Free online tool, no registration required."
 category: linux

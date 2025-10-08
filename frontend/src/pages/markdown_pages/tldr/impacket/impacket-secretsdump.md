@@ -1,7 +1,7 @@
 ---
 title: "Secretsdump - Extract Hashes | Online Free DevTools by Hexmos"
 name: impacket-secretsdump
-path: /freedevtools/tldr/impacket/impacket-secretsdump
+path: "/freedevtools/tldr/impacket/impacket-secretsdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/impacket/impacket-secretsdump/"
 description: "Extract password hashes with secretsdump. Use Impacket secretsdump to grab credentials from Windows machines, domains, and databases. Free online tool, no registration required."
 category: common

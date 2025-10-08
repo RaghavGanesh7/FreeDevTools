@@ -1,7 +1,7 @@
 ---
 title: "Control Raspberry Pi Camera Stream - rpicam-hello | Online Free DevTools by Hexmos"
 name: rpicam-hello
-path: /freedevtools/tldr/linux/rpicam-hello
+path: "/freedevtools/tldr/linux/rpicam-hello/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rpicam-hello/"
 description: "Control Raspberry Pi camera stream with rpicam-hello. View live feeds and configure camera settings. Free online tool, no registration required."
 category: linux

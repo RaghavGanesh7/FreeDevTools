@@ -1,7 +1,7 @@
 ---
 title: "Dart Project Manager - Create & Run Dart Projects | Online Free DevTools by Hexmos"
 name: dart
-path: /freedevtools/tldr/common/dart
+path: "/freedevtools/tldr/common/dart/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dart/"
 description: "Manage Dart projects efficiently with Dart Project Manager. Initialize projects, run Dart files, and download dependencies quickly. Free online tool, no registration required."
 category: common

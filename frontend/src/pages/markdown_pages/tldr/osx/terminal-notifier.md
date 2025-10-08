@@ -1,7 +1,7 @@
 ---
 title: "Send Notifications - Control macOS Alerts | Online Free DevTools by Hexmos"
 name: terminal-notifier
-path: /freedevtools/tldr/osx/terminal-notifier
+path: "/freedevtools/tldr/osx/terminal-notifier/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/terminal-notifier/"
 description: "Send notifications with terminal-notifier. Control macOS user alerts from the command line. A simple tool for creating custom notifications. Free online tool, no registration required."
 category: osx

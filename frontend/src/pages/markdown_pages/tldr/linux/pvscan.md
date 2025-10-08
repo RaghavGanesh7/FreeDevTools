@@ -1,7 +1,7 @@
 ---
 title: "PVScan - List Physical Volumes | Online Free DevTools by Hexmos"
 name: pvscan
-path: /freedevtools/tldr/linux/pvscan
+path: "/freedevtools/tldr/linux/pvscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pvscan/"
 description: "List physical volumes with PVScan. Quickly manage Linux storage, identify volume groups, and display detailed volume information. Free online tool, no registration required."
 category: linux

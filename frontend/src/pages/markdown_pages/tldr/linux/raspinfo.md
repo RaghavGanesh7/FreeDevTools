@@ -1,7 +1,7 @@
 ---
 title: "Raspinfo - Display System Information | Online Free DevTools by Hexmos"
 name: raspinfo
-path: /freedevtools/tldr/linux/raspinfo
+path: "/freedevtools/tldr/linux/raspinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/raspinfo/"
 description: "Display system information with Raspinfo. Get detailed hardware and software insights on Raspberry Pi, diagnose issues, and optimize performance. Free online tool, no registration required."
 category: linux

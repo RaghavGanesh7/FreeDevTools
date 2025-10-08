@@ -1,7 +1,7 @@
 ---
 title: "Control DBeaver - GUI SQL Client | Online Free DevTools by Hexmos"
 name: dbeaver
-path: /freedevtools/tldr/common/dbeaver
+path: "/freedevtools/tldr/common/dbeaver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dbeaver/"
 description: "Control SQL databases with DBeaver, a versatile GUI SQL client. Connect to various databases, execute queries, and manage data. Free online tool, no registration required."
 category: common

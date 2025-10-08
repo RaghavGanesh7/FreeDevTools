@@ -1,7 +1,7 @@
 ---
 title: "C# IDE - Create C# Applications with MonoDevelop | Online Free DevTools by Hexmos"
 name: monodevelop
-path: /freedevtools/tldr/common/monodevelop
+path: "/freedevtools/tldr/common/monodevelop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/monodevelop/"
 description: "Create C# applications effortlessly with MonoDevelop IDE. Develop, debug, and manage C#, F#, and .NET projects seamlessly. Free online tool, no registration required."
 category: common

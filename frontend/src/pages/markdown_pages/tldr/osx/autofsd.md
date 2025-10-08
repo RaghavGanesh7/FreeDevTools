@@ -1,7 +1,7 @@
 ---
 title: "Automount Control - Manage OSX Filesystems | Online Free DevTools by Hexmos"
 name: autofsd
-path: /freedevtools/tldr/osx/autofsd
+path: "/freedevtools/tldr/osx/autofsd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/autofsd/"
 description: "Automount control with autofsd. Manage filesystem mounting on macOS using configuration change events. Free online tool, no registration required."
 category: osx

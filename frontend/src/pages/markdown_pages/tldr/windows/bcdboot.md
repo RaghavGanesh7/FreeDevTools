@@ -1,7 +1,7 @@
 ---
 title: "BCDboot - Create Boot Files | Online Free DevTools by Hexmos"
 name: bcdboot
-path: /freedevtools/tldr/windows/bcdboot
+path: "/freedevtools/tldr/windows/bcdboot/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/bcdboot/"
 description: "Create boot files with BCDboot. Configure and repair boot configuration data on Windows systems, ensuring a proper boot sequence. Free online tool, no registration required."
 category: windows

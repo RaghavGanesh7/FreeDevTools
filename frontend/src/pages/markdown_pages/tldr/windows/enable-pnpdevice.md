@@ -1,7 +1,7 @@
 ---
 title: "Enable PnP Device - Activate Hardware on Windows | Online Free DevTools by Hexmos"
 name: enable-pnpdevice
-path: /freedevtools/tldr/windows/enable-pnpdevice
+path: "/freedevtools/tldr/windows/enable-pnpdevice/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/enable-pnpdevice/"
 description: "Activate PnP Device with Enable-PnpDevice. Enable or disable Plug and Play devices on Windows using command line, improving system control. Free online tool, no registration required."
 category: windows

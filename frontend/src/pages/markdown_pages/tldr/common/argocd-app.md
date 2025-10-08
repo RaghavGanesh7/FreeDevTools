@@ -1,7 +1,7 @@
 ---
 title: "ArgoCD App - Manage Kubernetes Applications | Online Free DevTools by Hexmos"
 name: argocd-app
-path: /freedevtools/tldr/common/argocd-app
+path: "/freedevtools/tldr/common/argocd-app/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/argocd-app/"
 description: "Manage applications with ArgoCD App. Deploy, synchronize, and monitor your Kubernetes applications effectively. Free online tool, no registration required."
 category: common

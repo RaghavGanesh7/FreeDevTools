@@ -1,7 +1,7 @@
 ---
 title: "Fail2ban-client - Control Fail2ban Server | Online Free DevTools by Hexmos"
 name: fail2ban-client
-path: /freedevtools/tldr/linux/fail2ban-client
+path: "/freedevtools/tldr/linux/fail2ban-client/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fail2ban-client/"
 description: "Control your Fail2ban server effectively with fail2ban-client. Manage bans, check status, and ensure server health easily. Free online tool, no registration required."
 category: linux

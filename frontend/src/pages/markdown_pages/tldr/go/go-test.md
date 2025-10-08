@@ -1,7 +1,7 @@
 ---
 title: "Go Test - Test Go Packages | Online Free DevTools by Hexmos"
 name: go-test
-path: /freedevtools/tldr/go/go-test
+path: "/freedevtools/tldr/go/go-test/"
 canonical: "https://hexmos.com/freedevtools/tldr/go/go-test/"
 description: "Test Go packages easily with Go Test. Execute unit tests, run benchmarks, and analyze code coverage for your Go projects. Free online tool, no registration required."
 category: common

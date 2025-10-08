@@ -1,7 +1,7 @@
 ---
 title: "APK Leaks - Expose Secrets in APK Files | Online Free DevTools by Hexmos"
 name: apkleaks
-path: /freedevtools/tldr/common/apkleaks
+path: "/freedevtools/tldr/common/apkleaks/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/apkleaks/"
 description: "Expose secrets with APKLeaks, a powerful tool to uncover URIs, endpoints, and sensitive data within APK files. Free online tool, no registration required."
 category: common

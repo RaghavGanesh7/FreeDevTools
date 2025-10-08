@@ -1,7 +1,7 @@
 ---
 title: "Statistics Tool - Generate Descriptive Stats | Online Free DevTools by Hexmos"
 name: st.2
-path: /freedevtools/tldr/st/st-2
+path: "/freedevtools/tldr/st/st-2/"
 canonical: "https://hexmos-com/freedevtools/tldr/st/st-2/"
 description: "Generate descriptive statistics with Statistics Tool (st). Calculate mean, sum, standard deviation, and more from data. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "BloodHound Ingestor - Enumerate AD Relationships | Online Free DevTools by Hexmos"
 name: bloodhound-python
-path: /freedevtools/tldr/common/bloodhound-python
+path: "/freedevtools/tldr/common/bloodhound-python/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bloodhound-python/"
 description: "Enumerate Active Directory relationships with BloodHound Ingestor. Collect group memberships, sessions, and trusts for comprehensive security assessments. Free online tool, no registration required."
 category: common

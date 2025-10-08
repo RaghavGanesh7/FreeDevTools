@@ -1,7 +1,7 @@
 ---
 title: "W32tm - Control Windows Time Service | Online Free DevTools by Hexmos"
 name: w32tm
-path: /freedevtools/tldr/windows/w32tm
+path: "/freedevtools/tldr/windows/w32tm/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/w32tm/"
 description: "Control time synchronization with w32tm, the Windows Time service tool. Query status, force resync, and debug time issues easily. Free online tool, no registration required."
 category: windows

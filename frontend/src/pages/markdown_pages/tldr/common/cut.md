@@ -1,7 +1,7 @@
 ---
 title: "Cut Data - Extract Fields with cut | Online Free DevTools by Hexmos"
 name: cut
-path: /freedevtools/tldr/common/cut
+path: "/freedevtools/tldr/common/cut/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cut/"
 description: "Extract fields and characters with the cut command.  Process text files efficiently using various delimiters and options. Free online tool, no registration required."
 category: common

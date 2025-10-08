@@ -1,7 +1,7 @@
 ---
 title: "Crane Digest - Get Image Digest | Online Free DevTools by Hexmos"
 name: crane-digest
-path: /freedevtools/tldr/crane/crane-digest
+path: "/freedevtools/tldr/crane/crane-digest/"
 canonical: "https://hexmos.com/freedevtools/tldr/crane/crane-digest/"
 description: "Get container image digests with Crane Digest. Retrieve image references and verify image integrity effortlessly. Free online tool, no registration required."
 category: common

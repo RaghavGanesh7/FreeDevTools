@@ -1,7 +1,7 @@
 ---
 title: "APX Stacks - Create and Manage Stacks | Online Free DevTools by Hexmos"
 name: apx-stacks
-path: /freedevtools/tldr/linux/apx-stacks
+path: "/freedevtools/tldr/linux/apx-stacks/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apx-stacks/"
 description: "Create and manage application stacks with APX Stacks on Linux. Streamline application management and configuration with ease. Free online tool, no registration required."
 category: linux

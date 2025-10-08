@@ -1,7 +1,7 @@
 ---
 title: "Robo - Run PHP Tasks | Online Free DevTools by Hexmos"
 name: robo
-path: /freedevtools/tldr/common/robo
+path: "/freedevtools/tldr/common/robo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/robo/"
 description: "Run PHP tasks with Robo, a modern PHP task runner. Automate deployments, code generation, and testing with this powerful CLI tool. Free online tool, no registration required."
 category: common

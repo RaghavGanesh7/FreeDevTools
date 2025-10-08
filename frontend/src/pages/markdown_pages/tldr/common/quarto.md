@@ -1,7 +1,7 @@
 ---
 title: "Create Quarto Projects - Render Docs with Quarto | Online Free DevTools by Hexmos"
 name: quarto
-path: /freedevtools/tldr/common/quarto
+path: "/freedevtools/tldr/common/quarto/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/quarto/"
 description: "Create documents and websites with Quarto, an open-source publishing system. Render QMD, RMD, and IPYNB files to multiple formats. Free online tool, no registration required."
 category: common

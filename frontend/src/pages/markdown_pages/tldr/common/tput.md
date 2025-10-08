@@ -1,7 +1,7 @@
 ---
 title: "Control Terminal Settings - Using Tput | Online Free DevTools by Hexmos"
 name: tput
-path: /freedevtools/tldr/common/tput
+path: "/freedevtools/tldr/common/tput/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tput/"
 description: "Control terminal settings and capabilities with Tput. Modify cursor position, text colors, and terminal attributes using command line. Free online tool, no registration required."
 category: common

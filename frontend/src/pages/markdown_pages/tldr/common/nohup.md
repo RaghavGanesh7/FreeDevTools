@@ -1,7 +1,7 @@
 ---
 title: "Nohup - Execute Commands Persistently | Online Free DevTools by Hexmos"
 name: nohup
-path: /freedevtools/tldr/common/nohup
+path: "/freedevtools/tldr/common/nohup/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nohup/"
 description: "Execute commands persistently with Nohup. Prevent command termination after terminal closure and ensure background process continuation. Free online tool, no registration required."
 category: common

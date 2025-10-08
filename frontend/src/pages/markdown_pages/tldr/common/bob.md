@@ -1,7 +1,7 @@
 ---
 title: "Manage Neovim Versions - Switch Neovim Versions | Online Free DevTools by Hexmos"
 name: bob
-path: /freedevtools/tldr/common/bob
+path: "/freedevtools/tldr/common/bob/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bob/"
 description: "Manage Neovim versions easily with Bob. Install, switch, and uninstall different Neovim versions. Free online tool, no registration required."
 category: common

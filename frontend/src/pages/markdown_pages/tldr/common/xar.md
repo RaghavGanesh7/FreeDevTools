@@ -1,7 +1,7 @@
 ---
 title: "XAR Archive Manager - Create XAR Archives | Online Free DevTools by Hexmos"
 name: xar
-path: /freedevtools/tldr/common/xar
+path: "/freedevtools/tldr/common/xar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xar/"
 description: "Create XAR archives easily with XAR Archive Manager. Compress and manage files with this archive utility. Free online tool, no registration required."
 category: common

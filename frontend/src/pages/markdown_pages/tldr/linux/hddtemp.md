@@ -1,7 +1,7 @@
 ---
 title: "HDD Temperature - Display Drive Temps | Online Free DevTools by Hexmos"
 name: hddtemp
-path: /freedevtools/tldr/linux/hddtemp
+path: "/freedevtools/tldr/linux/hddtemp/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/hddtemp/"
 description: "Display HDD temperature with hddtemp, a S.M.A.R.T. monitoring tool for Linux. Monitor hard drive health and prevent overheating. Free online tool, no registration required."
 category: linux

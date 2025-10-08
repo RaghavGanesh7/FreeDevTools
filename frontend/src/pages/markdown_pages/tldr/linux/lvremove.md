@@ -1,7 +1,7 @@
 ---
 title: "Remove Logical Volumes - lvremove Command | Online Free DevTools by Hexmos"
 name: lvremove
-path: /freedevtools/tldr/linux/lvremove
+path: "/freedevtools/tldr/linux/lvremove/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lvremove/"
 description: "Remove logical volumes with the lvremove command. Manage your LVM effectively. Free online tool, no registration required."
 category: linux

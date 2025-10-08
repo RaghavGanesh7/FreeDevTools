@@ -1,7 +1,7 @@
 ---
 title: "Convert PAM to PNM - Image Conversion | Online Free DevTools by Hexmos"
 name: pamtopnm
-path: /freedevtools/tldr/common/pamtopnm
+path: "/freedevtools/tldr/common/pamtopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtopnm/"
 description: "Convert PAM images to PNM format with pamtopnm. Supports PBM, PGM, and PPM conversions. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Search DuckDuckGo - Terminal Search | Online Free DevTools by Hexmos"
 name: ddgr
-path: /freedevtools/tldr/common/ddgr
+path: "/freedevtools/tldr/common/ddgr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ddgr/"
 description: "Search DuckDuckGo from your terminal with ddgr. Efficiently find information and open results in your browser. Free online tool, no registration required."
 category: common

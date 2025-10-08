@@ -1,7 +1,7 @@
 ---
 title: "Control Terminal Sessions - Abduco | Online Free DevTools by Hexmos"
 name: abduco
-path: /freedevtools/tldr/common/abduco
+path: "/freedevtools/tldr/common/abduco/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/abduco/"
 description: "Control terminal sessions instantly with Abduco. Seamlessly manage and detach/reattach to terminal sessions for enhanced productivity. Free online tool, no registration required."
 category: common

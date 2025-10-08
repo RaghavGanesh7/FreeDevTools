@@ -1,7 +1,7 @@
 ---
 title: "Validate SemVer - Parse Semantic Version Strings | Online Free DevTools by Hexmos"
 name: semver
-path: /freedevtools/tldr/common/semver
+path: "/freedevtools/tldr/common/semver/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/semver/"
 description: "Validate semantic version strings with SemVer. Parse, coerce, and test version ranges for compatibility. Free online tool, no registration required."
 category: common

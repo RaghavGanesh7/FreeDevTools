@@ -1,7 +1,7 @@
 ---
 title: "Control IPP Printer - Simple Server | Online Free DevTools by Hexmos"
 name: ippeveprinter
-path: /freedevtools/tldr/common/ippeveprinter
+path: "/freedevtools/tldr/common/ippeveprinter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ippeveprinter/"
 description: "Control IPP Everywhere printers with ippeveprinter. Create a simple IPP server, manage print jobs, and customize printer attributes. Free online tool, no registration required."
 category: common

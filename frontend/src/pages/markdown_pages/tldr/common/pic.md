@@ -1,7 +1,7 @@
 ---
 title: "Generate Pictures - Format with Pic | Online Free DevTools by Hexmos"
 name: pic
-path: "/freedevtools/tldr/common/pic"
+path: "/freedevtools/tldr/common/pic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pic/"
 description: "Generate diagrams and graphics with Pic, a preprocessor for the groff typesetting system. Create professional-quality illustrations with this free online tool, no registration required."
 category: common

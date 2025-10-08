@@ -1,7 +1,7 @@
 ---
 title: "Crack Passwords - John the Ripper | Online Free DevTools by Hexmos"
 name: john
-path: /freedevtools/tldr/common/john
+path: "/freedevtools/tldr/common/john/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/john/"
 description: "Crack password hashes with John the Ripper, a powerful password cracking tool. Recover lost passwords, audit security, and test password strength. Free online tool, no registration required."
 category: common

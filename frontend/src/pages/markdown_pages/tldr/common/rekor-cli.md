@@ -1,7 +1,7 @@
 ---
 title: "Rekor-cli - Verify Software Supply Chain Metadata | Online Free DevTools by Hexmos"
 name: rekor-cli
-path: /freedevtools/tldr/common/rekor-cli
+path: "/freedevtools/tldr/common/rekor-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rekor-cli/"
 description: "Verify software supply chain metadata with rekor-cli. Audit artifact integrity and ensure tamper resistance using transparency logs. Free online tool, no registration required."
 category: common

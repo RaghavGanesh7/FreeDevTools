@@ -1,7 +1,7 @@
 ---
 title: "Kitex Generate - Create Go RPC Stubs | Online Free DevTools by Hexmos"
 name: kitex
-path: /freedevtools/tldr/common/kitex
+path: "/freedevtools/tldr/common/kitex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kitex/"
 description: "Generate Go RPC stubs with Kitex. Create client and server code from Thrift and Protobuf IDLs using this code generation tool. Free online tool, no registration required."
 category: common

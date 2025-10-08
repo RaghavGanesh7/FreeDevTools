@@ -1,7 +1,7 @@
 ---
 title: "Hexdump - Inspect Binary Data | Online Free DevTools by Hexmos"
 name: hexdump
-path: /freedevtools/tldr/common/hexdump
+path: "/freedevtools/tldr/common/hexdump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hexdump/"
 description: "Inspect binary data with Hexdump. Analyze file contents in hexadecimal, decimal, octal, or ASCII formats for debugging. Free online tool, no registration required."
 category: common

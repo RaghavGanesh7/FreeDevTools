@@ -1,7 +1,7 @@
 ---
 title: "Generate Certificates with certtool - Secure X.509 Management | Online Free DevTools by Hexmos"
 name: certtool
-path: /freedevtools/tldr/linux/certtool
+path: "/freedevtools/tldr/linux/certtool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/certtool/"
 description: "Generate X.509 certificates with certtool, a powerful command-line tool for managing keys and PKI structures.  Manage your digital identities easily and securely. Free online tool, no registration required."
 category: linux

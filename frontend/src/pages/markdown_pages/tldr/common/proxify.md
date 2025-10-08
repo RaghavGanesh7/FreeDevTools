@@ -1,7 +1,7 @@
 ---
 title: "Proxify - Capture HTTP/HTTPS Traffic | Online Free DevTools by Hexmos"
 name: proxify
-path: /freedevtools/tldr/common/proxify
+path: "/freedevtools/tldr/common/proxify/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/proxify/"
 description: "Capture HTTP/HTTPS traffic with Proxify. Intercept, manipulate, and replay web traffic with this versatile proxy tool. Free online tool, no registration required."
 category: common

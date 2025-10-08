@@ -1,7 +1,7 @@
 ---
 title: "Locate Files - Find Commands with whereis | Online Free DevTools by Hexmos"
 name: whereis
-path: /freedevtools/tldr/linux/whereis
+path: "/freedevtools/tldr/linux/whereis/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/whereis/"
 description: "Locate binary, source, and manual page files quickly with whereis.  Find command locations easily and efficiently. Free online tool, no registration required."
 category: linux

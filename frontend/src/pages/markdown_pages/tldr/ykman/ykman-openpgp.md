@@ -1,7 +1,7 @@
 ---
 title: "OpenPGP Manager - Control YubiKey OpenPGP Application | Online Free DevTools by Hexmos"
 name: ykman-openpgp
-path: /freedevtools/tldr/ykman/ykman-openpgp
+path: "/freedevtools/tldr/ykman/ykman-openpgp/"
 canonical: "https://hexmos.com/freedevtools/tldr/ykman/ykman-openpgp/"
 description: "Control YubiKey OpenPGP application with OpenPGP Manager. Secure your keys and manage access settings with ease. Free online tool, no registration required."
 category: common

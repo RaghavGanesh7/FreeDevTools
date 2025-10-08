@@ -1,7 +1,7 @@
 ---
 title: "Read ELF Files - Display ELF Data | Online Free DevTools by Hexmos"
 name: eu-readelf
-path: /freedevtools/tldr/linux/eu-readelf
+path: "/freedevtools/tldr/linux/eu-readelf/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eu-readelf/"
 description: "Display ELF data with eu-readelf. Analyze ELF files, extract information, and inspect notes. Free online tool, no registration required."
 category: linux

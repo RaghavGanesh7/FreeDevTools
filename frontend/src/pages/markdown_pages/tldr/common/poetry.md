@@ -1,7 +1,7 @@
 ---
 title: "Poetry - Manage Python Dependencies | Online Free DevTools by Hexmos"
 name: poetry
-path: /freedevtools/tldr/common/poetry
+path: "/freedevtools/tldr/common/poetry/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/poetry/"
 description: "Manage Python dependencies easily with Poetry. Simplify project dependency management, create virtual environments, and publish packages. Free online tool, no registration required."
 category: common

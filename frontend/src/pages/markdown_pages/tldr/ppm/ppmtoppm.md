@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM Image - Copy PPM Images | Online Free DevTools by Hexmos"
 name: ppmtoppm
-path: /freedevtools/tldr/ppm/ppmtoppm
+path: "/freedevtools/tldr/ppm/ppmtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtoppm/"
 description: "Convert PPM images with ppmtoppm, a Netpbm image converter. Copy, transform, and manipulate PBM, PGM, and PPM image formats easily. Free online tool, no registration required."
 category: common

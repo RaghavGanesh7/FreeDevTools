@@ -1,7 +1,7 @@
 ---
 title: "Compile LaTeX Files - Tectonic Engine | Online Free DevTools by Hexmos"
 name: tectonic
-path: "/freedevtools/tldr/common/tectonic"
+path: "/freedevtools/tldr/common/tectonic/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tectonic/"
 description: "Compile LaTeX documents quickly with Tectonic Engine. Generate PDFs from TeX files using this modern self-contained TeX distribution. Free online tool, no registration required."
 category: common

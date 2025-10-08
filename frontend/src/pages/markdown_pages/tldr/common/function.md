@@ -1,7 +1,7 @@
 ---
 title: "Define Function - Create Shell Functions | Online Free DevTools by Hexmos"
 name: function
-path: "/freedevtools/tldr/common/function"
+path: "/freedevtools/tldr/common/function/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/function/"
 description: "Define functions with Bash Function. Create and manage reusable shell commands quickly using shell script. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "JJ - Create New Change | Online Free DevTools by Hexmos"
 name: jj-new
-path: /freedevtools/tldr/jj/jj-new
+path: "/freedevtools/tldr/jj/jj-new/"
 canonical: "https://hexmos.com/freedevtools/tldr/jj/jj-new/"
 description: "Create new commits and merge changes with JJ. Manage revisions and insert changes before or after specified revisions. Free online tool, no registration required."
 category: common

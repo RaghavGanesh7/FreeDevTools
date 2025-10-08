@@ -1,7 +1,7 @@
 ---
 title: "Btrfs Restore - Salvage Files from Btrfs Filesystem | Online Free DevTools by Hexmos"
 name: btrfs-restore
-path: /freedevtools/tldr/linux/btrfs-restore
+path: "/freedevtools/tldr/linux/btrfs-restore/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrfs-restore/"
 description: "Salvage Btrfs data with Btrfs Restore. Recover files from corrupted or damaged Btrfs filesystems. Free online tool, no registration required."
 category: linux

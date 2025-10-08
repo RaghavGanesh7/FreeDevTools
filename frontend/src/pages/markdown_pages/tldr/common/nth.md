@@ -1,7 +1,7 @@
 ---
 title: "Name Hash - Identify Hash Types Instantly | Online Free DevTools by Hexmos"
 name: nth
-path: /freedevtools/tldr/common/nth
+path: "/freedevtools/tldr/common/nth/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nth/"
 description: "Identify hash types instantly with Name Hash, a command-line tool. Supports MD5, SHA1, SHA256, and more. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Serve Files - Live Server with Live Reload | Online Free DevTools by Hexmos"
 name: live-server
-path: /freedevtools/tldr/common/live-server
+path: "/freedevtools/tldr/common/live-server/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/live-server/"
 description: "Serve files instantly with Live Server. Develop websites with live reload functionality for faster development. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Chars - Display Unicode Characters | Online Free DevTools by Hexmos"
 name: chars
-path: "/freedevtools/tldr/common/chars"
+path: "/freedevtools/tldr/common/chars/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/chars/"
 description: "Display Unicode characters with Chars. Find character names and codes for ASCII and Unicode. Free online tool, no registration required."
 category: common

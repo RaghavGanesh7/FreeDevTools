@@ -1,7 +1,7 @@
 ---
 title: "Is-Up Check - Validate Website Status | Online Free DevTools by Hexmos"
 name: is-up
-path: /freedevtools/tldr/common/is-up
+path: "/freedevtools/tldr/common/is-up/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/is-up/"
 description: "Check website status instantly with Is-Up Check. Determine website uptime and availability using a simple command. Free online tool, no registration required."
 category: common

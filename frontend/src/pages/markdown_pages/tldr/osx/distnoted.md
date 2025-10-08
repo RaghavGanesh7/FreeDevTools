@@ -1,7 +1,7 @@
 ---
 title: "Distnoted - Manage Notifications on macOS | Online Free DevTools by Hexmos"
 name: distnoted
-path: /freedevtools/tldr/osx/distnoted
+path: "/freedevtools/tldr/osx/distnoted/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/distnoted/"
 description: "Manage macOS notifications with Distnoted. Control distributed notifications, observe changes, and debug notification issues on macOS. Free online tool, no registration required."
 category: osx

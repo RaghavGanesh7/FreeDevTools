@@ -1,7 +1,7 @@
 ---
 title: "Control Network Metrics - Ifmetric Route Priority | Online Free DevTools by Hexmos"
 name: ifmetric
-path: /freedevtools/tldr/linux/ifmetric
+path: "/freedevtools/tldr/linux/ifmetric/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ifmetric/"
 description: "Control network metrics with ifmetric. Manage IPv4 route priorities on Linux. Optimize network routing using command line. Free online tool, no registration required."
 category: linux

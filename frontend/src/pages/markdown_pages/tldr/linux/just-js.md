@@ -1,7 +1,7 @@
 ---
 title: "Just.js - Run JavaScript on Linux | Online Free DevTools by Hexmos"
 name: just.js
-path: /freedevtools/tldr/linux/just-js
+path: "/freedevtools/tldr/linux/just-js/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/just-js/"
 description: "Run JavaScript code easily with Just.js, a V8 JavaScript runtime for Linux. Execute scripts, use a REPL, and build JavaScript applications. Free online tool, no registration required."
 category: linux

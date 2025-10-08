@@ -1,7 +1,7 @@
 ---
 title: "Control CloudKit Daemon - Manage Data | Online Free DevTools by Hexmos"
 name: cloudd
-path: /freedevtools/tldr/osx/cloudd
+path: "/freedevtools/tldr/osx/cloudd/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/cloudd/"
 description: "Control data synchronization with CloudKit Daemon on macOS using Cloudd. Manage iCloud storage and background processes effortlessly. Free online tool, no registration required."
 category: osx

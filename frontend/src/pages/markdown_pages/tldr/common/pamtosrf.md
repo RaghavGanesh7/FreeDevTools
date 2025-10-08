@@ -1,7 +1,7 @@
 ---
 title: "Convert Netpbm to SRF - Format Images | Online Free DevTools by Hexmos"
 name: pamtosrf
-path: /freedevtools/tldr/common/pamtosrf
+path: "/freedevtools/tldr/common/pamtosrf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamtosrf/"
 description: "Convert Netpbm images to SRF format with pamtosrf. Transform your image files easily using this command line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PHP Extension Manager - Control PHP Versions & Extensions | Online Free DevTools by Hexmos"
 name: phpquery
-path: /freedevtools/tldr/linux/phpquery
+path: "/freedevtools/tldr/linux/phpquery/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/phpquery/"
 description: "Manage PHP extensions efficiently with phpquery.  List available versions, SAPIs, and enabled extensions with ease. Free online tool, no registration required."
 category: linux

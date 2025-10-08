@@ -1,7 +1,7 @@
 ---
 title: "Find Filesystem - Locate Mount Points | Online Free DevTools by Hexmos"
 name: findmnt
-path: /freedevtools/tldr/linux/findmnt
+path: "/freedevtools/tldr/linux/findmnt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/findmnt/"
 description: "Locate filesystems with Findmnt on Linux. Quickly identify mount points and device information. Analyze mount tables effectively. Free online tool, no registration required."
 category: linux

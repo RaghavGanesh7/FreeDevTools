@@ -1,7 +1,7 @@
 ---
 title: "Orbiton - Edit Text Files | Online Free DevTools by Hexmos"
 name: o
-path: /freedevtools/tldr/common/o
+path: "/freedevtools/tldr/common/o/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/o/"
 description: "Edit text files with Orbiton, a configuration-free text editor. Open, save, and manage text files effortlessly via command line. Free online tool, no registration required."
 category: common

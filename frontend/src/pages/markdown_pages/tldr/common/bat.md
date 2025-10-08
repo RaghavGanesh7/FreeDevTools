@@ -1,7 +1,7 @@
 ---
 title: "Highlight Files - Format Files with Bat | Online Free DevTools by Hexmos"
 name: bat
-path: "/freedevtools/tldr/common/bat"
+path: "/freedevtools/tldr/common/bat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bat/"
 description: "Format files with Bat, a syntax highlighting cat clone. Enhance readability and integrate Git info with this powerful command-line tool. Free online tool, no registration required."
 category: common

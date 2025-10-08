@@ -1,7 +1,7 @@
 ---
 title: "Android Service Manager - Control Services with CMD | Online Free DevTools by Hexmos"
 name: cmd
-path: /freedevtools/tldr/android/cmd
+path: "/freedevtools/tldr/android/cmd/"
 canonical: "https://hexmos.com/freedevtools/tldr/android/cmd/"
 description: "Control Android system services easily with CMD service manager. List services, invoke methods, and debug system processes. Free online tool, no registration required."
 category: android

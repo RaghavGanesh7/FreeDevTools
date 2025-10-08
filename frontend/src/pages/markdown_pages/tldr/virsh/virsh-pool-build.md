@@ -1,7 +1,7 @@
 ---
 title: "Build Virsh Pool - Create Storage Pools with Virsh | Online Free DevTools by Hexmos"
 name: virsh-pool-build
-path: /freedevtools/tldr/virsh/virsh-pool-build
+path: "/freedevtools/tldr/virsh/virsh-pool-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/virsh/virsh-pool-build/"
 description: "Build storage pools with Virsh pool-build. Define and create storage for virtual machines, managing disks and volumes on Linux. Free online tool, no registration required."
 category: common

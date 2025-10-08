@@ -1,7 +1,7 @@
 ---
 title: "Elif Command - Control Code Branches | Online Free DevTools by Hexmos"
 name: elif
-path: /freedevtools/tldr/common/elif
+path: "/freedevtools/tldr/common/elif/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/elif/"
 description: "Control code branches easily with Elif Command. Define conditional logic for shell scripting and automate tasks. Free online tool, no registration required."
 category: common

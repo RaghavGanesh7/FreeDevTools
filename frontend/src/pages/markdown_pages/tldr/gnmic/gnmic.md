@@ -1,7 +1,7 @@
 ---
 title: "Manage gNMI Network Configuration | Online Free DevTools by Hexmos"
 name: gnmic
-path: /freedevtools/tldr/gnmic/gnmic
+path: "/freedevtools/tldr/gnmic/gnmic/"
 canonical: "https://hexmos.com/freedevtools/tldr/gnmic/gnmic/"
 description: "Manage gNMI network configurations with gnmic. View operational data and request device capabilities easily. Free online tool, no registration required."
 category: common

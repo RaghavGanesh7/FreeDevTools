@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Console - Open Pulumi Stacks | Online Free DevTools by Hexmos"
 name: pulumi-console
-path: /freedevtools/tldr/pulumi/pulumi-console
+path: "/freedevtools/tldr/pulumi/pulumi-console/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-console/"
 description: "Open and manage Pulumi stacks directly with Pulumi Console. Inspect infrastructure, diagnose issues, and migrate stacks easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Display Printer Status - Control Printing with lpstat | Online Free DevTools by Hexmos"
 name: lpstat
-path: /freedevtools/tldr/osx/lpstat
+path: "/freedevtools/tldr/osx/lpstat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/lpstat/"
 description: "Display printer status information with lpstat. Monitor print jobs, manage printers, and diagnose printing issues efficiently. Free online tool, no registration required."
 category: osx

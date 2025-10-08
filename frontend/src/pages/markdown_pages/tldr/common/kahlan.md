@@ -1,7 +1,7 @@
 ---
 title: "Kahlan - Execute PHP Tests | Online Free DevTools by Hexmos"
 name: kahlan
-path: /freedevtools/tldr/common/kahlan
+path: "/freedevtools/tldr/common/kahlan/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kahlan/"
 description: "Execute PHP tests efficiently with Kahlan. Run specifications, generate code coverage reports, and customize testing environments easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Move Item - Rename Files with PowerShell MI | Online Free DevTools by Hexmos"
 name: mi
-path: /freedevtools/tldr/windows/mi
+path: "/freedevtools/tldr/windows/mi/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mi/"
 description: "Rename files with Move-Item using PowerShell MI. Easily transfer files and manage directory structures on Windows. Free online tool, no registration required."
 category: windows

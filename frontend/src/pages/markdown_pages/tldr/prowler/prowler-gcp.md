@@ -1,7 +1,7 @@
 ---
 title: "Prowler GCP - Assess Google Cloud Security | Online Free DevTools by Hexmos"
 name: prowler-gcp
-path: /freedevtools/tldr/prowler/prowler-gcp
+path: "/freedevtools/tldr/prowler/prowler-gcp/"
 canonical: "https://hexmos.com/freedevtools/tldr/prowler/prowler-gcp/"
 description: "Assess Google Cloud security with Prowler GCP. Audit and check compliance, identify vulnerabilities and improve cloud posture. Free online tool, no registration required."
 category: common

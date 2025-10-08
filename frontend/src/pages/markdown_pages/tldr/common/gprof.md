@@ -1,7 +1,7 @@
 ---
 title: "Gprof Profiler - Analyze Program Performance | Online Free DevTools by Hexmos"
 name: gprof
-path: /freedevtools/tldr/common/gprof
+path: "/freedevtools/tldr/common/gprof/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gprof/"
 description: "Analyze program performance with Gprof Profiler. Profile function executions and optimize your code for better efficiency. Free online tool, no registration required."
 category: common

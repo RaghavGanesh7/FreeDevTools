@@ -1,7 +1,7 @@
 ---
 title: "Simulate Keyboard Input - Control Text with wtype | Online Free DevTools by Hexmos"
 name: wtype
-path: /freedevtools/tldr/linux/wtype
+path: "/freedevtools/tldr/linux/wtype/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wtype/"
 description: "Control keyboard input with wtype. Simulate text typing and key presses on Wayland, a powerful alternative to xdotool. Free online tool, no registration required."
 category: linux

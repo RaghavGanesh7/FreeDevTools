@@ -1,7 +1,7 @@
 ---
 title: "Translate Offline - Translate Text with Argos Translate | Online Free DevTools by Hexmos"
 name: argos-translate
-path: /freedevtools/tldr/common/argos-translate
+path: "/freedevtools/tldr/common/argos-translate/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/argos-translate/"
 description: "Translate text offline with Argos Translate. Perform language translation between multiple languages without an internet connection. Free online tool, no registration required."
 category: common

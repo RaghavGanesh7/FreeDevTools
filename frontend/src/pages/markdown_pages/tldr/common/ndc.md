@@ -1,7 +1,7 @@
 ---
 title: "Name Daemon Control - Manage Name Servers | Online Free DevTools by Hexmos"
 name: ndc
-path: /freedevtools/tldr/common/ndc
+path: "/freedevtools/tldr/common/ndc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ndc/"
 description: "Control name servers effectively with Name Daemon Control (ndc). Configure DNS settings, manage zones, and ensure stable name resolution. Free online tool, no registration required."
 category: common

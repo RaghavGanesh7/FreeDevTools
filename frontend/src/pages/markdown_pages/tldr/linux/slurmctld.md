@@ -1,7 +1,7 @@
 ---
 title: "Slurmctld Control - Manage Slurm Resources | Online Free DevTools by Hexmos"
 name: slurmctld
-path: /freedevtools/tldr/linux/slurmctld
+path: "/freedevtools/tldr/linux/slurmctld/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slurmctld/"
 description: "Control Slurm resources with Slurmctld. Manage jobs, allocate resources, and monitor Slurm daemons effectively. Free online tool, no registration required."
 category: linux

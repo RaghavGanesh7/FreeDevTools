@@ -1,7 +1,7 @@
 ---
 title: "Tailscale File - Send Files Across Tailscale | Online Free DevTools by Hexmos"
 name: tailscale-file
-path: /freedevtools/tldr/tailscale/tailscale-file
+path: "/freedevtools/tldr/tailscale/tailscale-file/"
 canonical: "https://hexmos.com/freedevtools/tldr/tailscale/tailscale-file/"
 description: "Send files quickly with Tailscale File, a secure file transfer tool. Easily transfer files between devices on your Tailscale network. Free online tool, no registration required."
 category: common

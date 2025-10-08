@@ -1,7 +1,7 @@
 ---
 title: "Nix-env - Manage Packages | Online Free DevTools by Hexmos"
 name: nix-env
-path: /freedevtools/tldr/nix/nix-env
+path: "/freedevtools/tldr/nix/nix-env/"
 canonical: "https://hexmos.com/freedevtools/tldr/nix/nix-env/"
 description: "Manage packages with Nix-env. Install, uninstall, and upgrade software packages easily using the Nix package manager. Free online tool, no registration required."
 category: common

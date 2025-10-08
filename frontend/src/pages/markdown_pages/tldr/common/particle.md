@@ -1,7 +1,7 @@
 ---
 title: "Particle Control - Interact with IoT Devices | Online Free DevTools by Hexmos"
 name: particle
-path: /freedevtools/tldr/common/particle
+path: "/freedevtools/tldr/common/particle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/particle/"
 description: "Control Particle IoT devices effortlessly with Particle CLI. Compile projects, flash firmware, and execute functions remotely. Free online tool, no registration required."
 category: common

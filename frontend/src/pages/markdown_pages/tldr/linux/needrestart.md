@@ -1,7 +1,7 @@
 ---
 title: "Needrestart - Manage Outdated Processes | Online Free DevTools by Hexmos"
 name: needrestart
-path: /freedevtools/tldr/linux/needrestart
+path: "/freedevtools/tldr/linux/needrestart/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/needrestart/"
 description: "Manage outdated processes efficiently with Needrestart.  Identify and restart outdated daemons and kernel components easily. Free online tool, no registration required."
 category: linux

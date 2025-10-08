@@ -1,7 +1,7 @@
 ---
 title: "RNano Editor - Control Restricted Nano Sessions | Online Free DevTools by Hexmos"
 name: rnano
-path: /freedevtools/tldr/common/rnano
+path: "/freedevtools/tldr/common/rnano/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rnano/"
 description: "Control restricted Nano editor sessions with rnano. Securely edit files in a limited environment with command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "PHP Copy Paste Detector - Analyze Duplicate PHP Code | Online Free DevTools by Hexmos"
 name: phpcpd
-path: /freedevtools/tldr/php/phpcpd
+path: "/freedevtools/tldr/php/phpcpd/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phpcpd/"
 description: "Analyze PHP code for duplicate blocks with PHPCPD, a copy/paste detector. Improve code quality and maintainability with this command-line tool. Free online tool, no registration required."
 category: common

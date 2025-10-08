@@ -1,7 +1,7 @@
 ---
 title: "VGScan - Scan Linux Volume Groups | Online Free DevTools by Hexmos"
 name: vgscan
-path: /freedevtools/tldr/linux/vgscan
+path: "/freedevtools/tldr/linux/vgscan/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vgscan/"
 description: "Scan Linux volume groups with VGScan. Discover LVM block devices and activate volume groups with ease. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Control Bash Scripts - Manage Bash-it | Online Free DevTools by Hexmos"
 name: bash-it
-path: /freedevtools/tldr/common/bash-it
+path: "/freedevtools/tldr/common/bash-it/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bash-it/"
 description: "Control your Bash scripts with Bash-it. Update, reload, and restart your Bash environment with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Git Difftool - Show File Changes | Online Free DevTools by Hexmos"
 name: git-difftool
-path: /freedevtools/tldr/git/git-difftool
+path: "/freedevtools/tldr/git/git-difftool/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-difftool/"
 description: "Show file changes with Git Difftool, an external comparison tool. Configure your default diff tool and visualize modifications in your codebase. Free online tool, no registration required."
 category: common

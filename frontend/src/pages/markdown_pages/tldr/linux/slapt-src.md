@@ -1,7 +1,7 @@
 ---
 title: "Build Slackbuilds - Automate Builds with slapt-src | Online Free DevTools by Hexmos"
 name: slapt-src
-path: /freedevtools/tldr/linux/slapt-src
+path: "/freedevtools/tldr/linux/slapt-src/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slapt-src/"
 description: "Automate Slackbuild builds with slapt-src. Simplify package management and software installation on Slackware Linux. Free online tool, no registration required."
 category: linux

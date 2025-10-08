@@ -1,7 +1,7 @@
 ---
 title: "Control Slackware Packages - slapt-get Management | Online Free DevTools by Hexmos"
 name: slapt-get
-path: /freedevtools/tldr/linux/slapt-get
+path: "/freedevtools/tldr/linux/slapt-get/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/slapt-get/"
 description: "Control Slackware packages easily with slapt-get. Manage package installations, removals, and upgrades using the command line interface. Free online tool, no registration required."
 category: linux

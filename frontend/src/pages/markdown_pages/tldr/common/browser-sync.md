@@ -1,7 +1,7 @@
 ---
 title: "Browser Sync - Update Browser on File Changes | Online Free DevTools by Hexmos"
 name: browser-sync
-path: /freedevtools/tldr/common/browser-sync
+path: "/freedevtools/tldr/common/browser-sync/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/browser-sync/"
 description: "Sync browser updates instantly with Browser Sync. Auto-reload browser on file changes and streamline web development workflow. Free online tool, no registration required."
 category: common

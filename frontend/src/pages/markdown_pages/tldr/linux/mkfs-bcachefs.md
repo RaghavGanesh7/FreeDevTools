@@ -1,7 +1,7 @@
 ---
 title: "Create Bcachefs Filesystem - Format Disks | Online Free DevTools by Hexmos"
 name: mkfs.bcachefs
-path: /freedevtools/tldr/linux/mkfs-bcachefs
+path: "/freedevtools/tldr/linux/mkfs-bcachefs/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mkfs-bcachefs/"
 description: "Create bcachefs filesystem partitions instantly with mkfs.bcachefs. Format disks and define volume labels using the command line. Free online tool, no registration required."
 category: linux

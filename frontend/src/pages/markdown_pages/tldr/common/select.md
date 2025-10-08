@@ -1,7 +1,7 @@
 ---
 title: "Create Menu - Bash Select Command | Online Free DevTools by Hexmos"
 name: select
-path: /freedevtools/tldr/common/select
+path: "/freedevtools/tldr/common/select/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/select/"
 description: "Create bash menus with Bash Select. Generate interactive command line menus from lists and arrays. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Networksetup - Control Network Settings | Online Free DevTools by Hexmos"
 name: networksetup
-path: /freedevtools/tldr/osx/networksetup
+path: "/freedevtools/tldr/osx/networksetup/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/networksetup/"
 description: "Control network settings with networksetup. Configure network services, manage Wi-Fi connections, and get network information. Free online tool, no registration required."
 category: osx

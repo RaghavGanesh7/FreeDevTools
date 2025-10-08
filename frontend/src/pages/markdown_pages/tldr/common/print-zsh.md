@@ -1,7 +1,7 @@
 ---
 title: "Print Text - Format Text Output with Zsh | Online Free DevTools by Hexmos"
 name: print.zsh
-path: /freedevtools/tldr/common/print-zsh
+path: "/freedevtools/tldr/common/print-zsh/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/print-zsh/"
 description: "Format text output quickly with Zsh Print. Control text formatting, add newlines, and enable backslash escapes for enhanced shell scripting. Free online tool, no registration required."
 category: common

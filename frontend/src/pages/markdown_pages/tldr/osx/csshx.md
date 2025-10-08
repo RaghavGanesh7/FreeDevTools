@@ -1,7 +1,7 @@
 ---
 title: "Cluster SSH - Control Multiple Servers on macOS | Online Free DevTools by Hexmos"
 name: csshx
-path: "/freedevtools/tldr/osx/csshx"
+path: "/freedevtools/tldr/osx/csshx/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/csshx/"
 description: "Control multiple SSH servers instantly with csshX, the cluster SSH tool for macOS. Manage server clusters and execute commands simultaneously. Free online tool, no registration required."
 category: osx

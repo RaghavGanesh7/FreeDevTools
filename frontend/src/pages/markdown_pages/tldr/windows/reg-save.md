@@ -1,7 +1,7 @@
 ---
 title: "Reg Save - Backup Registry Keys to File | Online Free DevTools by Hexmos"
 name: reg-save
-path: /freedevtools/tldr/windows/reg-save
+path: "/freedevtools/tldr/windows/reg-save/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-save/"
 description: "Backup registry keys with Reg Save command. Quickly save and restore Windows registry settings to a file. Free online tool, no registration required."
 category: windows

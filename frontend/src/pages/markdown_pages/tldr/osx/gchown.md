@@ -1,7 +1,7 @@
 ---
 title: "Control gchown - Change File Owner on macOS | Online Free DevTools by Hexmos"
 name: gchown
-path: /freedevtools/tldr/osx/gchown
+path: "/freedevtools/tldr/osx/gchown/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gchown/"
 description: "Control file ownership with gchown on macOS. Easily change user and group ownership for files and directories using this alias to chown. Free online tool, no registration required."
 category: osx

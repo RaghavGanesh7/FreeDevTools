@@ -1,7 +1,7 @@
 ---
 title: "Compare Package Files - pkgctl diff | Online Free DevTools by Hexmos"
 name: pkgctl-diff
-path: /freedevtools/tldr/linux/pkgctl-diff
+path: "/freedevtools/tldr/linux/pkgctl-diff/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgctl-diff/"
 description: "Compare package files efficiently with pkgctl diff.  Utilize different comparison modes for thorough analysis. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Create Named Pipe - Make FIFOs on Linux | Online Free DevTools by Hexmos"
 name: mkfifo
-path: /freedevtools/tldr/common/mkfifo
+path: "/freedevtools/tldr/common/mkfifo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mkfifo/"
 description: "Create named pipes (FIFOs) with mkfifo on Linux and other systems. Establish inter-process communication using command line tools. Free online tool, no registration required."
 category: common

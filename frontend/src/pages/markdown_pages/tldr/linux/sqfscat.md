@@ -1,7 +1,7 @@
 ---
 title: "Concatenate Files - sqfscat Command | Online Free DevTools by Hexmos"
 name: sqfscat
-path: /freedevtools/tldr/linux/sqfscat
+path: "/freedevtools/tldr/linux/sqfscat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sqfscat/"
 description: "Concatenate files from a squashfs filesystem with sqfscat.  Extract and display file contents easily using this command-line tool. Free online tool, no registration required."
 category: linux

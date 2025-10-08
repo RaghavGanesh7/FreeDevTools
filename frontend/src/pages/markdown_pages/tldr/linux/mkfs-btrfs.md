@@ -1,7 +1,7 @@
 ---
 title: "Create BTRFS Filesystem - Format Partitions | Online Free DevTools by Hexmos"
 name: mkfs.btrfs
-path: /freedevtools/tldr/linux/mkfs-btrfs
+path: "/freedevtools/tldr/linux/mkfs-btrfs/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mkfs-btrfs/"
 description: "Create BTRFS filesystem with mkfs.btrfs. Format partitions and manage storage efficiently on Linux systems. Free online tool, no registration required."
 category: linux

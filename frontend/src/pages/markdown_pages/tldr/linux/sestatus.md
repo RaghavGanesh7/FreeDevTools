@@ -1,7 +1,7 @@
 ---
 title: "SELinux Status - Control Security Policies | Online Free DevTools by Hexmos"
 name: sestatus
-path: /freedevtools/tldr/linux/sestatus
+path: "/freedevtools/tldr/linux/sestatus/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sestatus/"
 description: "Control SELinux security policies with sestatus. Check current policy status, booleans, and contexts. Free online tool, no registration required."
 category: linux

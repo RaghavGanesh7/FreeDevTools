@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM Image - Compress Graphics with pbmtogo | Online Free DevTools by Hexmos"
 name: pbmtogo
-path: /freedevtools/tldr/common/pbmtogo
+path: "/freedevtools/tldr/common/pbmtogo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtogo/"
 description: "Compress PBM image files to GraphOn graphic format with pbmtogo. Efficiently reduce image size and optimize graphics. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Dotnet Build - Compile .NET Applications | Online Free DevTools by Hexmos"
 name: dotnet-build
-path: /freedevtools/tldr/dotnet/dotnet-build
+path: "/freedevtools/tldr/dotnet/dotnet-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/dotnet/dotnet-build/"
 description: "Compile .NET applications effortlessly with Dotnet Build. Streamline your build process and manage dependencies with this command-line tool. Free online tool, no registration required."
 category: common

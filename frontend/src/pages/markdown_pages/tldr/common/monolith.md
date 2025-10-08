@@ -1,7 +1,7 @@
 ---
 title: "Save Webpage - Convert to Single HTML | Online Free DevTools by Hexmos"
 name: monolith
-path: /freedevtools/tldr/common/monolith
+path: "/freedevtools/tldr/common/monolith/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/monolith/"
 description: "Save webpage content easily with Monolith. Create single HTML files, including or excluding assets for offline use. Free online tool, no registration required."
 category: common

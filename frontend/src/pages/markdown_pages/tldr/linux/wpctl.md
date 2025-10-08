@@ -1,7 +1,7 @@
 ---
 title: "Manage WirePlumber - Control PipeWire with wpctl | Online Free DevTools by Hexmos"
 name: wpctl
-path: /freedevtools/tldr/linux/wpctl
+path: "/freedevtools/tldr/linux/wpctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/wpctl/"
 description: "Control PipeWire audio sessions and policies with wpctl.  Manage sinks, volumes, and mute states efficiently using command-line interface. Free online tool, no registration required."
 category: linux

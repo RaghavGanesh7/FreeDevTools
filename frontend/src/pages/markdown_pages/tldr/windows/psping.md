@@ -1,7 +1,7 @@
 ---
 title: "PSPing - Measure Network Latency | Online Free DevTools by Hexmos"
 name: psping
-path: /freedevtools/tldr/windows/psping
+path: "/freedevtools/tldr/windows/psping/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/psping/"
 description: "Measure network latency with PSPing, a versatile command-line tool for TCP ping, bandwidth tests, and ICMP pinging on Windows. Free online tool, no registration required."
 category: windows

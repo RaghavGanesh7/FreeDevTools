@@ -1,7 +1,7 @@
 ---
 title: "Mega Download - Download Mega Files with megatools-dl | Online Free DevTools by Hexmos"
 name: megatools-dl
-path: /freedevtools/tldr/linux/megatools-dl
+path: "/freedevtools/tldr/linux/megatools-dl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/megatools-dl/"
 description: "Download Mega files quickly and easily with megatools-dl.  Manage downloads, select specific files, and control download speed. Free online tool, no registration required."
 category: linux

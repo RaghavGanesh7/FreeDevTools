@@ -1,7 +1,7 @@
 ---
 title: "Yadm Introspect - View Managed Data | Online Free DevTools by Hexmos"
 name: yadm-introspect
-path: /freedevtools/tldr/yadm/yadm-introspect
+path: "/freedevtools/tldr/yadm/yadm-introspect/"
 canonical: "https://hexmos.com/freedevtools/tldr/yadm/yadm-introspect/"
 description: "View managed data with Yadm Introspect. Quickly examine configurations, commands, and switches. Free online tool, no registration required."
 category: common

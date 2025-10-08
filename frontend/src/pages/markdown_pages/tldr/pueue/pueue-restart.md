@@ -1,7 +1,7 @@
 ---
 title: "Pueue Restart - Control Task Execution | Online Free DevTools by Hexmos"
 name: pueue-restart
-path: /freedevtools/tldr/pueue/pueue-restart
+path: "/freedevtools/tldr/pueue/pueue-restart/"
 canonical: "https://hexmos.com/freedevtools/tldr/pueue/pueue-restart/"
 description: "Control task execution with Pueue Restart. Manage background processes and task queuing on your system efficiently. Free online tool, no registration required."
 category: common

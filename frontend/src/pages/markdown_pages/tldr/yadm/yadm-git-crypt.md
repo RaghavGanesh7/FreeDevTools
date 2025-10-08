@@ -1,7 +1,7 @@
 ---
 title: "Encrypt Files - Control Git Crypt Encryption | Online Free DevTools by Hexmos"
 name: yadm-git-crypt
-path: /freedevtools/tldr/yadm/yadm-git-crypt
+path: "/freedevtools/tldr/yadm/yadm-git-crypt/"
 canonical: "https://hexmos.com/freedevtools/tldr/yadm/yadm-git-crypt/"
 description: "Encrypt files with YADMan Git Crypt and manage file encryption in git repositories. Secure sensitive data using GPG. Free online tool, no registration required."
 category: common

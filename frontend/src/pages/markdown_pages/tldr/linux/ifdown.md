@@ -1,7 +1,7 @@
 ---
 title: "Control Network Interfaces - ifdown Command | Online Free DevTools by Hexmos"
 name: ifdown
-path: /freedevtools/tldr/linux/ifdown
+path: "/freedevtools/tldr/linux/ifdown/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ifdown/"
 description: "Control network interfaces with ifdown. Easily disable or enable interfaces on Unix-like systems. Free online tool, no registration required."
 category: linux

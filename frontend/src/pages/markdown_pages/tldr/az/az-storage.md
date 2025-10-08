@@ -1,7 +1,7 @@
 ---
 title: "Azure Storage - Manage Cloud Resources | Online Free DevTools by Hexmos"
 name: az-storage
-path: /freedevtools/tldr/az/az-storage
+path: "/freedevtools/tldr/az/az-storage/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-storage/"
 description: "Manage Azure Storage resources efficiently with az-storage. Control storage accounts, access keys, and TLS versions. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Inspect Peer Index - Analyze MRT Data | Online Free DevTools by Hexmos"
 name: peerindex
-path: "/freedevtools/tldr/common/peerindex"
+path: "/freedevtools/tldr/common/peerindex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/peerindex/"
 description: "Analyze MRT peer index tables with PeerIndex. Extract valuable routing insights from network data efficiently. Free online tool, no registration required."
 category: common

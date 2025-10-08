@@ -1,7 +1,7 @@
 ---
 title: "OpenVPN3 Control - Manage VPN Sessions | Online Free DevTools by Hexmos"
 name: openvpn3
-path: /freedevtools/tldr/linux/openvpn3
+path: "/freedevtools/tldr/linux/openvpn3/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/openvpn3/"
 description: "Control VPN sessions with OpenVPN3. Manage configurations, start/stop sessions, and list imported VPN settings. Free online tool, no registration required."
 category: linux

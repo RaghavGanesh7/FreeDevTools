@@ -1,7 +1,7 @@
 ---
 title: "Run GUI Apps - x11docker Container Manager | Online Free DevTools by Hexmos"
 name: x11docker
-path: /freedevtools/tldr/common/x11docker
+path: "/freedevtools/tldr/common/x11docker/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/x11docker/"
 description: "Run GUI applications securely with x11docker Container Manager. Isolate graphical applications and desktop environments in Docker. Free online tool, no registration required."
 category: common

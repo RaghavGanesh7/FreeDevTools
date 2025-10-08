@@ -1,7 +1,7 @@
 ---
 title: "Links2 Browser - Navigate Websites via Command Line | Online Free DevTools by Hexmos"
 name: links2
-path: /freedevtools/tldr/linux/links2
+path: "/freedevtools/tldr/linux/links2/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/links2/"
 description: "Browse websites effortlessly with Links2 command-line browser.  Access web pages quickly and efficiently using the command line interface. Free online tool, no registration required."
 category: linux

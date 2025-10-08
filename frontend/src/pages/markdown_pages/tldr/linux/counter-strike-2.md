@@ -1,7 +1,7 @@
 ---
 title: "Control CS2 Server - Host Dedicated Server | Online Free DevTools by Hexmos"
 name: counter-strike-2
-path: /freedevtools/tldr/linux/counter-strike-2
+path: "/freedevtools/tldr/linux/counter-strike-2/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/counter-strike-2/"
 description: "Control a Counter-Strike 2 server with CS2 Server Manager. Host dedicated servers, configure maps, and manage player limits. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Image to Text - Convert Images to ASCII Art | Online Free DevTools by Hexmos"
 name: img2txt
-path: /freedevtools/tldr/linux/img2txt
+path: "/freedevtools/tldr/linux/img2txt/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/img2txt/"
 description: "Convert images to ASCII art with img2txt. Transform images into color ASCII characters and output to text files. Free online tool, no registration required."
 category: linux

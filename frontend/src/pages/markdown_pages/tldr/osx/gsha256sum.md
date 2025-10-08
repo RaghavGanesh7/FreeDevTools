@@ -1,7 +1,7 @@
 ---
 title: "Generate SHA256 Checksum - Verify File Integrity | Online Free DevTools by Hexmos"
 name: gsha256sum
-path: /freedevtools/tldr/osx/gsha256sum
+path: "/freedevtools/tldr/osx/gsha256sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsha256sum/"
 description: "Generate SHA256 checksums with gsha256sum for verifying file integrity. Validate data authenticity and ensure file consistency easily. Free online tool, no registration required."
 category: osx

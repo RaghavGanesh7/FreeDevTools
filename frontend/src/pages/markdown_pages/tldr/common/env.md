@@ -1,7 +1,7 @@
 ---
 title: "Environment Variables - Control Env Settings | Online Free DevTools by Hexmos"
 name: env
-path: /freedevtools/tldr/common/env
+path: "/freedevtools/tldr/common/env/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/env/"
 description: "Control environment variables with env. Easily manage and modify environment settings for programs. Free online tool, no registration required."
 category: common

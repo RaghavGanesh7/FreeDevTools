@@ -1,7 +1,7 @@
 ---
 title: "Convert Zeiss to PNM - Format Image Files | Online Free DevTools by Hexmos"
 name: zeisstopnm
-path: /freedevtools/tldr/common/zeisstopnm
+path: "/freedevtools/tldr/common/zeisstopnm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zeisstopnm/"
 description: "Convert Zeiss confocal microscope images to PNM (Portable Network Graphics) with Zeisstopnm. Easily format image files using command line. Free online tool, no registration required."
 category: common

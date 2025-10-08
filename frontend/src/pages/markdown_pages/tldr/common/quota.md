@@ -1,7 +1,7 @@
 ---
 title: "Quota - Control Disk Space Usage | Online Free DevTools by Hexmos"
 name: quota
-path: /freedevtools/tldr/common/quota
+path: "/freedevtools/tldr/common/quota/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/quota/"
 description: "Control disk space usage with Quota. Manage allocated limits and monitor storage for users and groups across different file systems. Free online tool, no registration required."
 category: common

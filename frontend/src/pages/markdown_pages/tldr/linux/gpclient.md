@@ -1,7 +1,7 @@
 ---
 title: "GlobalProtect VPN Client - Connect to VPN with gpclient | Online Free DevTools by Hexmos"
 name: gpclient
-path: /freedevtools/tldr/linux/gpclient
+path: "/freedevtools/tldr/linux/gpclient/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gpclient/"
 description: "Connect to GlobalProtect VPNs easily with the gpclient command-line tool. Manage your VPN connections, troubleshoot issues, and optimize your connection. Free online tool, no registration required."
 category: linux

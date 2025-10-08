@@ -1,7 +1,7 @@
 ---
 title: "Manage Files with Ranger - VI Key Bindings | Online Free DevTools by Hexmos"
 name: ranger
-path: "/freedevtools/tldr/common/ranger"
+path: "/freedevtools/tldr/common/ranger/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ranger/"
 description: "Manage files effectively with Ranger, the console file manager using VI key bindings. Navigate directories, copy files, and execute commands. Free online tool, no registration required."
 category: common

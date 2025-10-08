@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz Crypto - Manipulate Certificates | Online Free DevTools by Hexmos"
 name: mimikatz-crypto
-path: /freedevtools/tldr/windows/mimikatz-crypto
+path: "/freedevtools/tldr/windows/mimikatz-crypto/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-crypto/"
 description: "Manipulate Windows cryptographic services with Mimikatz Crypto. Export certificates, list providers and keys. Free online tool, no registration required."
 category: windows

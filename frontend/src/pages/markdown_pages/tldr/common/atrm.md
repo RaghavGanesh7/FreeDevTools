@@ -1,7 +1,7 @@
 ---
 title: "Atrm - Remove Scheduled Jobs | Online Free DevTools by Hexmos"
 name: atrm
-path: /freedevtools/tldr/common/atrm
+path: "/freedevtools/tldr/common/atrm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/atrm/"
 description: "Remove scheduled jobs with Atrm. Manage and delete jobs created using the `at` command, ensuring efficient system resource management. Free online tool, no registration required."
 category: common

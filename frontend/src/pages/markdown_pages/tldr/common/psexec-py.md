@@ -1,7 +1,7 @@
 ---
 title: "PsExec Execute - Control Remote Windows Processes | Online Free DevTools by Hexmos"
 name: psexec.py
-path: /freedevtools/tldr/common/psexec-py
+path: "/freedevtools/tldr/common/psexec-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/psexec-py/"
 description: "Execute remote commands with PsExec, a powerful tool to manage Windows processes remotely using RemComSvc. Free online tool, no registration required."
 category: common

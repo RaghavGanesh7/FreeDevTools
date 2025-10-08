@@ -1,7 +1,7 @@
 ---
 title: "Reg Delete - Delete Registry Keys | Online Free DevTools by Hexmos"
 name: reg-delete
-path: /freedevtools/tldr/windows/reg-delete
+path: "/freedevtools/tldr/windows/reg-delete/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/reg-delete/"
 description: "Delete registry keys with Reg Delete. Remove specific keys, values, and subkeys from the Windows registry using this command-line tool. Free online tool, no registration required."
 category: windows

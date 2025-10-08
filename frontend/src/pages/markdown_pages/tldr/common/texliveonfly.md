@@ -1,7 +1,7 @@
 ---
 title: "Compile LaTeX - Download Packages with texliveonfly | Online Free DevTools by Hexmos"
 name: texliveonfly
-path: /freedevtools/tldr/common/texliveonfly
+path: "/freedevtools/tldr/common/texliveonfly/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/texliveonfly/"
 description: "Compile LaTeX documents and automatically download missing packages with texliveonfly. Streamline your LaTeX workflow and resolve dependencies on-the-fly. Free online tool, no registration required."
 category: common

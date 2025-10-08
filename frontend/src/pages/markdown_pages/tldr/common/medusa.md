@@ -1,7 +1,7 @@
 ---
 title: "Medusa Brute-forcer - Control Login Attempts | Online Free DevTools by Hexmos"
 name: medusa
-path: /freedevtools/tldr/common/medusa
+path: "/freedevtools/tldr/common/medusa/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/medusa/"
 description: "Control login attempts with Medusa, a modular brute-force tool. Efficiently crack passwords for various protocols. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Btrfs Device Manager - Control Filesystem Devices | Online Free DevTools by Hexmos"
 name: btrfs-device
-path: /freedevtools/tldr/linux/btrfs-device
+path: "/freedevtools/tldr/linux/btrfs-device/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrfs-device/"
 description: "Manage btrfs filesystem devices efficiently with the btrfs-device command. Add, remove, and scan devices; view detailed usage statistics. Free online tool, no registration required."
 category: linux

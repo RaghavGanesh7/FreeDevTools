@@ -1,7 +1,7 @@
 ---
 title: "Ansible - Manage Remote Hosts | Online Free DevTools by Hexmos"
 name: ansible
-path: /freedevtools/tldr/ansible/ansible
+path: "/freedevtools/tldr/ansible/ansible/"
 canonical: "https://hexmos.com/freedevtools/tldr/ansible/ansible/"
 description: "Manage remote hosts easily with Ansible. Automate tasks and configurations across multiple machines via SSH. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Ropper - Find ROP Gadgets in Binaries | Online Free DevTools by Hexmos"
 name: ropper
-path: /freedevtools/tldr/common/ropper
+path: "/freedevtools/tldr/common/ropper/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ropper/"
 description: "Find ROP gadgets in binary files with Ropper, an efficient tool for reverse engineering. Analyze binaries for security vulnerabilities. Free online tool, no registration required."
 category: common

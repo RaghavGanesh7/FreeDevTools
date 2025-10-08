@@ -1,7 +1,7 @@
 ---
 title: "Shift Command - Move Positional Parameters | Online Free DevTools by Hexmos"
 name: shift
-path: /freedevtools/tldr/common/shift
+path: "/freedevtools/tldr/common/shift/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shift/"
 description: "Move positional parameters with Shift Command. Streamline script execution and manipulate command-line arguments efficiently. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Extract Archive - Unpack Files with dtrx | Online Free DevTools by Hexmos"
 name: dtrx
-path: /freedevtools/tldr/common/dtrx
+path: "/freedevtools/tldr/common/dtrx/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dtrx/"
 description: "Extract archives easily with dtrx. Unpack various file formats automatically by guessing the tool from extension. Free online tool, no registration required."
 category: common

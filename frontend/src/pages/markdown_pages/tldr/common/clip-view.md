@@ -1,7 +1,7 @@
 ---
 title: "Clip-view - Render CLI Pages | Online Free DevTools by Hexmos"
 name: clip-view
-path: "/freedevtools/tldr/common/clip-view"
+path: "/freedevtools/tldr/common/clip-view/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/clip-view/"
 description: "Render CLI pages easily with clip-view. Display tldr-like documentation, customize themes, and clear caches effortlessly. Free online tool, no registration required."
 category: common

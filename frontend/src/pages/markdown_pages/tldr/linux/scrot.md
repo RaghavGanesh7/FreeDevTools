@@ -1,7 +1,7 @@
 ---
 title: "Scrot Screenshot - Capture Screens Easily | Online Free DevTools by Hexmos"
 name: scrot
-path: /freedevtools/tldr/linux/scrot
+path: "/freedevtools/tldr/linux/scrot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/scrot/"
 description: "Capture screenshots easily with scrot.  Take full-screen, region-specific, or window-focused screenshots with simple commands. Free online tool, no registration required."
 category: linux

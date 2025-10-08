@@ -1,7 +1,7 @@
 ---
 title: "Git Clone - Download Repositories | Online Free DevTools by Hexmos"
 name: git-clone
-path: /freedevtools/tldr/git/git-clone
+path: "/freedevtools/tldr/git/git-clone/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-clone/"
 description: "Download repositories with Git Clone. Easily copy remote Git repositories to your local machine for offline access and modification. Free online tool, no registration required."
 category: common

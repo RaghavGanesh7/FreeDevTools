@@ -1,7 +1,7 @@
 ---
 title: "Generate RSA Private Keys with OpenSSL | Online Free DevTools by Hexmos"
 name: openssl-genrsa
-path: /freedevtools/tldr/openssl/openssl-genrsa
+path: "/freedevtools/tldr/openssl/openssl-genrsa/"
 canonical: "https://hexmos.com/freedevtools/tldr/openssl/openssl-genrsa/"
 description: "Generate RSA private keys securely with OpenSSL. Manage key sizes and encryption using command line. Free online tool, no registration required."
 category: common

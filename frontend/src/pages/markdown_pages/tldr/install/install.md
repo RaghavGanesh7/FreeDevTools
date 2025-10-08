@@ -1,7 +1,7 @@
 ---
 title: "Install - Copy Files & Set Attributes | Online Free DevTools by Hexmos"
 name: install
-path: /freedevtools/tldr/install/install
+path: "/freedevtools/tldr/install/install/"
 canonical: "https://hexmos.com/freedevtools/tldr/install/install/"
 description: "Copy files efficiently with Install command. Set file ownership, permissions, and timestamps. Free online tool, no registration required."
 category: common

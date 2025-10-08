@@ -1,7 +1,7 @@
 ---
 title: "Convert MDA to PBM - Image Converter | Online Free DevTools by Hexmos"
 name: mdatopbm
-path: /freedevtools/tldr/common/mdatopbm
+path: "/freedevtools/tldr/common/mdatopbm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mdatopbm/"
 description: "Convert MDA image files with mdatopbm, an image converter. Easily convert and manipulate image formats. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert Gould to PPM - Image Conversion | Online Free DevTools by Hexmos"
 name: gouldtoppm
-path: /freedevtools/tldr/common/gouldtoppm
+path: "/freedevtools/tldr/common/gouldtoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gouldtoppm/"
 description: "Convert Gould scanner files to PPM images with gouldtoppm. Easily transform image formats for wider compatibility. Free online tool, no registration required."
 category: common

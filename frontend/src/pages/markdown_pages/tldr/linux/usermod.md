@@ -1,7 +1,7 @@
 ---
 title: "Usermod Command - Manage Linux Users | Online Free DevTools by Hexmos"
 name: usermod
-path: /freedevtools/tldr/linux/usermod
+path: "/freedevtools/tldr/linux/usermod/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/usermod/"
 description: "Manage Linux user accounts with the usermod command. Modify usernames, UIDs, groups, home directories, and account status. Free online tool, no registration required."
 category: linux

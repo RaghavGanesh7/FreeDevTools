@@ -1,7 +1,7 @@
 ---
 title: "Charm Account Manager - Control SSH Keys | Online Free DevTools by Hexmos"
 name: charm
-path: /freedevtools/tldr/common/charm
+path: "/freedevtools/tldr/common/charm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/charm/"
 description: "Control SSH keys and manage your Charm account with Charm Account Manager. Securely backup, import, and manage your keys for terminal-based apps. Free online tool, no registration required."
 category: common

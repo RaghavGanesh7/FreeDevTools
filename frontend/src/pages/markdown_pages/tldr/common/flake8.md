@@ -1,7 +1,7 @@
 ---
 title: "Validate Python Code - Flake8 Code Linter | Online Free DevTools by Hexmos"
 name: flake8
-path: /freedevtools/tldr/common/flake8
+path: "/freedevtools/tldr/common/flake8/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flake8/"
 description: "Validate Python code style with Flake8. Ensure code quality and consistency effortlessly using command-line options. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Scrontab - Manage Slurm Crontab Files | Online Free DevTools by Hexmos"
 name: scrontab
-path: /freedevtools/tldr/linux/scrontab
+path: "/freedevtools/tldr/linux/scrontab/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/scrontab/"
 description: "Manage Slurm crontab files with Scrontab, a powerful scheduling tool. Edit, remove, and list crontabs easily. Free online tool, no registration required."
 category: linux

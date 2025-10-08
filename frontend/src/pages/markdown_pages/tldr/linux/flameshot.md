@@ -1,7 +1,7 @@
 ---
 title: "Create Screenshots - Flameshot GUI | Online Free DevTools by Hexmos"
 name: flameshot
-path: /freedevtools/tldr/linux/flameshot
+path: "/freedevtools/tldr/linux/flameshot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flameshot/"
 description: "Create screenshots with Flameshot screenshot utility. Capture screen regions and annotate images directly. Free online tool, no registration required."
 category: linux

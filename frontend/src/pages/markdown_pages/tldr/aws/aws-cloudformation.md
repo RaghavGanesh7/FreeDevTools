@@ -1,7 +1,7 @@
 ---
 title: "Create AWS CloudFormation Stacks - Manage Infrastructure as Code | Online Free DevTools by Hexmos"
 name: aws-cloudformation
-path: /freedevtools/tldr/aws/aws-cloudformation
+path: "/freedevtools/tldr/aws/aws-cloudformation/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-cloudformation/"
 description: "Create AWS CloudFormation stacks and manage infrastructure as code with this CLI tool. Automate provisioning and updates of your resources. Free online tool, no registration required."
 category: common

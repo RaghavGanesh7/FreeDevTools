@@ -1,7 +1,7 @@
 ---
 title: "Detect Steganography - Analyze Images with zsteg | Online Free DevTools by Hexmos"
 name: zsteg
-path: /freedevtools/tldr/common/zsteg
+path: "/freedevtools/tldr/common/zsteg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zsteg/"
 description: "Detect Steganography with zsteg. Analyze PNG and BMP images for hidden data and reveal secret messages using various steganographic techniques. Free online tool, no registration required."
 category: common

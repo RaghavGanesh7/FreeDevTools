@@ -1,7 +1,7 @@
 ---
 title: "Kubectl Auth - Control Kubernetes Access | Online Free DevTools by Hexmos"
 name: kubectl-auth
-path: /freedevtools/tldr/kubectl/kubectl-auth
+path: "/freedevtools/tldr/kubectl/kubectl-auth/"
 canonical: "https://hexmos.com/freedevtools/tldr/kubectl/kubectl-auth/"
 description: "Control Kubernetes access with Kubectl Auth. Verify permissions and manage authorizations in your cluster. Free online tool, no registration required."
 category: common

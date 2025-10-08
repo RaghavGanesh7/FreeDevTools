@@ -1,7 +1,7 @@
 ---
 title: "Install TeX Live - Cross-Platform Installation | Online Free DevTools by Hexmos"
 name: install-tl
-path: /freedevtools/tldr/install/install-tl
+path: "/freedevtools/tldr/install/install-tl/"
 canonical: "https://hexmos.com/freedevtools/tldr/install/install-tl/"
 description: "Install TeX Live seamlessly with install-tl. Perform cross-platform installation and customize your TeX distribution effortlessly. Free online tool, no registration required."
 category: common

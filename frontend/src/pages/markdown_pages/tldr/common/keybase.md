@@ -1,7 +1,7 @@
 ---
 title: "Manage Keybase Identities - Control Key Directory | Online Free DevTools by Hexmos"
 name: keybase
-path: /freedevtools/tldr/common/keybase
+path: "/freedevtools/tldr/common/keybase/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/keybase/"
 description: "Manage Keybase identities and control your key directory with this free online tool. Securely map social media accounts to encryption keys, ensuring auditable proof. Free online tool, no registration required."
 category: common

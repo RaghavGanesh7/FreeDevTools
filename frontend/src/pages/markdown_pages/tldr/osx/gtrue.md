@@ -1,7 +1,7 @@
 ---
 title: "GNU True - Execute True Command on macOS | Online Free DevTools by Hexmos"
 name: gtrue
-path: /freedevtools/tldr/osx/gtrue
+path: "/freedevtools/tldr/osx/gtrue/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtrue/"
 description: "Execute the True command with GNU True on macOS.  Simulate boolean true values in shell scripts and automate command execution. Free online tool, no registration required."
 category: osx

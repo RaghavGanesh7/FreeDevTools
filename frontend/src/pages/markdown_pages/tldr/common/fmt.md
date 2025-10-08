@@ -1,7 +1,7 @@
 ---
 title: "Format Text - Reformat Text Files with fmt | Online Free DevTools by Hexmos"
 name: fmt
-path: /freedevtools/tldr/common/fmt
+path: "/freedevtools/tldr/common/fmt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fmt/"
 description: "Reformat text with fmt. Efficiently adjust line widths and paragraph spacing for improved readability. Free online tool, no registration required."
 category: common

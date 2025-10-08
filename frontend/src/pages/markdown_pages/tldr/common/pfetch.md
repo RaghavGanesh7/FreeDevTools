@@ -1,7 +1,7 @@
 ---
 title: "Display System Information - pfetch | Online Free DevTools by Hexmos"
 name: pfetch
-path: /freedevtools/tldr/common/pfetch
+path: "/freedevtools/tldr/common/pfetch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pfetch/"
 description: "Display system information with pfetch. Quickly retrieve OS details, kernel version, uptime, and memory usage. Free online tool, no registration required."
 category: common

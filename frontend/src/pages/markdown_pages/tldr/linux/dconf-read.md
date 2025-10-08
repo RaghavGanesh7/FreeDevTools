@@ -1,7 +1,7 @@
 ---
 title: "Read Dconf Keys - Access Config Values | Online Free DevTools by Hexmos"
 name: dconf-read
-path: /freedevtools/tldr/linux/dconf-read
+path: "/freedevtools/tldr/linux/dconf-read/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dconf-read/"
 description: "Access and read Dconf key values with ease using dconf-read.  Retrieve configuration settings and default values directly from the command line. Free online tool, no registration required."
 category: linux

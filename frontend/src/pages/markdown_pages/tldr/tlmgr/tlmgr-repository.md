@@ -1,7 +1,7 @@
 ---
 title: "Control TeX Live Repositories - Manage TLMGR Config | Online Free DevTools by Hexmos"
 name: tlmgr-repository
-path: /freedevtools/tldr/tlmgr/tlmgr-repository
+path: "/freedevtools/tldr/tlmgr/tlmgr-repository/"
 canonical: "https://hexmos.com/freedevtools/tldr/tlmgr/tlmgr-repository/"
 description: "Manage TeX Live software repositories with TLMGR Repository. Configure, add, and remove repositories for package updates. Free online tool, no registration required."
 category: common

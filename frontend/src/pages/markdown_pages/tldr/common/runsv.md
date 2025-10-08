@@ -1,7 +1,7 @@
 ---
 title: "Control Runit Service - Start & Manage with runsv | Online Free DevTools by Hexmos"
 name: runsv
-path: /freedevtools/tldr/common/runsv
+path: "/freedevtools/tldr/common/runsv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/runsv/"
 description: "Control Runit services with runsv. Easily start, stop, and manage services using the command line in a runit environment. Free online tool, no registration required."
 category: common

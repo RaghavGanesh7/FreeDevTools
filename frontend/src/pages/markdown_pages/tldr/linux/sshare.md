@@ -1,7 +1,7 @@
 ---
 title: "Sshare - Control Slurm Shares | Online Free DevTools by Hexmos"
 name: sshare
-path: /freedevtools/tldr/linux/sshare
+path: "/freedevtools/tldr/linux/sshare/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sshare/"
 description: "Control Slurm shares efficiently with Sshare. List shares, format output, and display specific user information. Free online tool, no registration required."
 category: linux

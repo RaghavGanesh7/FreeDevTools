@@ -1,7 +1,7 @@
 ---
 title: "SPF Query - Validate Email Senders | Online Free DevTools by Hexmos"
 name: spfquery
-path: /freedevtools/tldr/common/spfquery
+path: "/freedevtools/tldr/common/spfquery/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/spfquery/"
 description: "Validate email senders with SPF Query. Check IP addresses against SPF records for improved email security. Free online tool, no registration required."
 category: common

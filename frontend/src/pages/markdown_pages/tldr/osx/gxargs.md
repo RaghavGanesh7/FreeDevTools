@@ -1,7 +1,7 @@
 ---
 title: "Xargs Command - Execute Commands in Parallel | Online Free DevTools by Hexmos"
 name: gxargs
-path: /freedevtools/tldr/osx/gxargs
+path: "/freedevtools/tldr/osx/gxargs/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gxargs/"
 description: "Execute commands in parallel with Xargs Command. Chain commands and process inputs efficiently, enhancing command-line productivity. Free online tool, no registration required."
 category: osx

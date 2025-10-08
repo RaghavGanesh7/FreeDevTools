@@ -1,7 +1,7 @@
 ---
 title: "Einfo - Retrieve Entrez Database Information | Online Free DevTools by Hexmos"
 name: einfo
-path: /freedevtools/tldr/linux/einfo
+path: "/freedevtools/tldr/linux/einfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/einfo/"
 description: "Retrieve Entrez database information with einfo. Explore database fields, links, and update dates using the command line tool. Free online tool, no registration required."
 category: linux

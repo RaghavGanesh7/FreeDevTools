@@ -1,7 +1,7 @@
 ---
 title: "Get WUApiVersion - Control Windows Update Agent | Online Free DevTools by Hexmos"
 name: get-wuapiversion
-path: /freedevtools/tldr/windows/get-wuapiversion
+path: "/freedevtools/tldr/windows/get-wuapiversion/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/get-wuapiversion/"
 description: "Control the Windows Update Agent version with Get-WUApiVersion. Retrieve the currently installed version and send configuration reports via email. Free online tool, no registration required."
 category: windows

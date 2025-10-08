@@ -1,7 +1,7 @@
 ---
 title: "Run Hive Queries - Execute HiveQL with CLI | Online Free DevTools by Hexmos"
 name: hive
-path: /freedevtools/tldr/common/hive
+path: "/freedevtools/tldr/common/hive/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hive/"
 description: "Execute Hive queries efficiently with HiveQL CLI. Analyze big data, perform ETL operations, and manage data warehouses seamlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Alacritty Terminal - Control Terminal Emulation | Online Free DevTools by Hexmos"
 name: alacritty
-path: /freedevtools/tldr/common/alacritty
+path: "/freedevtools/tldr/common/alacritty/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/alacritty/"
 description: "Control terminal emulation with Alacritty Terminal Emulator. Manage windows, execute commands, and configure profiles easily. Free online tool, no registration required."
 category: common

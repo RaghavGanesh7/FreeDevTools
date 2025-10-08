@@ -1,7 +1,7 @@
 ---
 title: "Schedule Crontab Jobs - Manage Cron Tasks | Online Free DevTools by Hexmos"
 name: crontab
-path: /freedevtools/tldr/common/crontab
+path: "/freedevtools/tldr/common/crontab/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/crontab/"
 description: "Schedule Cron jobs with crontab. Manage scheduled tasks, edit crontab files, and automate commands on Linux and Unix-like systems. Free online tool, no registration required."
 category: common

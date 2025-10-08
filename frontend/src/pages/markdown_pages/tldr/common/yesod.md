@@ -1,7 +1,7 @@
 ---
 title: "Yesod Scaffolding - Create Haskell Web Apps | Online Free DevTools by Hexmos"
 name: yesod
-path: /freedevtools/tldr/common/yesod
+path: "/freedevtools/tldr/common/yesod/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/yesod/"
 description: "Create Yesod web applications quickly with Yesod scaffolding. Generate project templates and manage deployments easily using the command line. Free online tool, no registration required."
 category: common

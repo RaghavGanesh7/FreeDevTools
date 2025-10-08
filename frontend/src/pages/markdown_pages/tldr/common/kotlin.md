@@ -1,7 +1,7 @@
 ---
 title: "Kotlin Launcher - Execute Kotlin Applications | Online Free DevTools by Hexmos"
 name: kotlin
-path: /freedevtools/tldr/common/kotlin
+path: "/freedevtools/tldr/common/kotlin/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kotlin/"
 description: "Execute Kotlin applications with Kotlin Launcher. Compile and run Kotlin code directly from the command line, and manage versions effortlessly. Free online tool, no registration required."
 category: common

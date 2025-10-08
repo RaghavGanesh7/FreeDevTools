@@ -1,7 +1,7 @@
 ---
 title: "Inhibit Desktop Idle - Control with Caffeine Indicator | Online Free DevTools by Hexmos"
 name: caffeine-indicator
-path: /freedevtools/tldr/linux/caffeine-indicator
+path: "/freedevtools/tldr/linux/caffeine-indicator/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/caffeine-indicator/"
 description: "Control desktop idle behavior effortlessly with Caffeine Indicator on Linux. Prevent screen locking and system suspension with this simple command-line tool. Free online tool, no registration required."
 category: linux

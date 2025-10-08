@@ -1,7 +1,7 @@
 ---
 title: "Change User Shell - Control Login Shell | Online Free DevTools by Hexmos"
 name: chsh
-path: /freedevtools/tldr/linux/chsh
+path: "/freedevtools/tldr/linux/chsh/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/chsh/"
 description: "Change user's shell with chsh. Modify login shell configurations securely and easily. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Slurm Attach - Control Job Steps | Online Free DevTools by Hexmos"
 name: sattach
-path: /freedevtools/tldr/linux/sattach
+path: "/freedevtools/tldr/linux/sattach/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sattach/"
 description: "Control Slurm job steps effortlessly with Slurm Attach. Monitor, debug, and interact with running jobs. Free online tool, no registration required."
 category: linux

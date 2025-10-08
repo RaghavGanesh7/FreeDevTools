@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Modify Filenames Easily | Online Free DevTools by Hexmos"
 name: perl-rename
-path: /freedevtools/tldr/common/perl-rename
+path: "/freedevtools/tldr/common/perl-rename/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/perl-rename/"
 description: "Modify filenames with rename using Perl expressions. Quickly rename multiple files at once. Free online tool, no registration required."
 category: common

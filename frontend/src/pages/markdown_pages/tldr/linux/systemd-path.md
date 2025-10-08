@@ -1,7 +1,7 @@
 ---
 title: "Control System Paths - Query Paths with systemd-path | Online Free DevTools by Hexmos"
 name: systemd-path
-path: /freedevtools/tldr/linux/systemd-path
+path: "/freedevtools/tldr/linux/systemd-path/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-path/"
 description: "Control system paths efficiently with systemd-path. Query, list, and manage system and user paths on Linux systems. Free online tool, no registration required."
 category: linux

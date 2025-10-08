@@ -1,7 +1,7 @@
 ---
 title: "MSSQL Client - Execute SQL Queries | Online Free DevTools by Hexmos"
 name: mssqlclient.py
-path: /freedevtools/tldr/common/mssqlclient-py
+path: "/freedevtools/tldr/common/mssqlclient-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/mssqlclient-py/"
 description: "Execute SQL queries with MSSQL Client. Connect to Microsoft SQL Server instances using various authentication methods. Free online tool, no registration required."
 category: common

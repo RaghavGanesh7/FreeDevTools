@@ -1,7 +1,7 @@
 ---
 title: "Create Volume Groups - vgcreate Command | Online Free DevTools by Hexmos"
 name: vgcreate
-path: /freedevtools/tldr/linux/vgcreate
+path: "/freedevtools/tldr/linux/vgcreate/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vgcreate/"
 description: "Create volume groups with the vgcreate command. Combine multiple mass-storage devices efficiently using this Linux command-line tool. Free online tool, no registration required."
 category: linux

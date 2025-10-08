@@ -1,7 +1,7 @@
 ---
 title: "Sc Analysis Dump - Format Traceroute Data | Online Free DevTools by Hexmos"
 name: sc_analysis_dump
-path: /freedevtools/tldr/common/sc_analysis_dump
+path: "/freedevtools/tldr/common/sc_analysis_dump/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sc_analysis_dump/"
 description: "Format traceroute data with Sc Analysis Dump. Convert warts files to easy-to-parse formats for network analysis. Free online tool, no registration required."
 category: common

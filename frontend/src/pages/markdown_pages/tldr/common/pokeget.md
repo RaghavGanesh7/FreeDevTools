@@ -1,7 +1,7 @@
 ---
 title: "Pokemon Sprite Display - Pokeget Terminal Sprites | Online Free DevTools by Hexmos"
 name: pokeget
-path: /freedevtools/tldr/common/pokeget
+path: "/freedevtools/tldr/common/pokeget/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pokeget/"
 description: "Display Pokemon sprites instantly with Pokeget. Show sprites in terminal, customize appearance, and get random Pokemon with this command-line tool. Free online tool, no registration required."
 category: common

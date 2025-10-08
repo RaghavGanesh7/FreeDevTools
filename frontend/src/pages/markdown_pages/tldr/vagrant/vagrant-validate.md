@@ -1,7 +1,7 @@
 ---
 title: "Vagrant Validate - Check Vagrantfile Syntax | Online Free DevTools by Hexmos"
 name: vagrant-validate
-path: /freedevtools/tldr/vagrant/vagrant-validate
+path: "/freedevtools/tldr/vagrant/vagrant-validate/"
 canonical: "https://hexmos.com/freedevtools/tldr/vagrant/vagrant-validate/"
 description: "Validate Vagrantfile syntax with Vagrant Validate. Quickly check your Vagrantfile for errors and proper structure using this command-line tool. Free online tool, no registration required."
 category: common

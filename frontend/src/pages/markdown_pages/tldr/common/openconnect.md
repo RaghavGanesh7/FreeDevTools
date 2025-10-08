@@ -1,7 +1,7 @@
 ---
 title: "OpenConnect VPN - Connect to VPN Servers | Online Free DevTools by Hexmos"
 name: openconnect
-path: /freedevtools/tldr/common/openconnect
+path: "/freedevtools/tldr/common/openconnect/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/openconnect/"
 description: "Connect to VPN servers securely with OpenConnect VPN client. Establish secure connections, manage configurations, and authenticate with certificates. Free online tool, no registration required."
 category: common

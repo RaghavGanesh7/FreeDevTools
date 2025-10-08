@@ -1,7 +1,7 @@
 ---
 title: "Manage CouchDB - Control Database Server | Online Free DevTools by Hexmos"
 name: couchdb
-path: /freedevtools/tldr/common/couchdb
+path: "/freedevtools/tldr/common/couchdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/couchdb/"
 description: "Manage your CouchDB database server with CouchDB command-line tool. Start, stop, and configure the server easily. Free online tool, no registration required."
 category: common

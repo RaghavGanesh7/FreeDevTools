@@ -1,7 +1,7 @@
 ---
 title: "Control Cat - Concatenate Files | Online Free DevTools by Hexmos"
 name: gcat
-path: /freedevtools/tldr/osx/gcat
+path: "/freedevtools/tldr/osx/gcat/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gcat/"
 description: "Control files with Cat, a powerful concatenation utility. View and merge files quickly on macOS using the command line. Free online tool, no registration required."
 category: osx

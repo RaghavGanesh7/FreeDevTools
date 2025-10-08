@@ -1,7 +1,7 @@
 ---
 title: "Sysctl - Control Kernel Variables | Online Free DevTools by Hexmos"
 name: sysctl
-path: /freedevtools/tldr/linux/sysctl
+path: "/freedevtools/tldr/linux/sysctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/sysctl/"
 description: "Control kernel runtime variables with Sysctl. Manage system parameters and optimize performance using command-line configurations. Free online tool, no registration required."
 category: linux

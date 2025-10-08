@@ -1,7 +1,7 @@
 ---
 title: "Expand - Convert Tabs to Spaces | Online Free DevTools by Hexmos"
 name: expand
-path: /freedevtools/tldr/common/expand
+path: "/freedevtools/tldr/common/expand/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/expand/"
 description: "Convert tabs to spaces with Expand. Adjust tab spacing and format text easily for code and documents. Free online tool, no registration required."
 category: common

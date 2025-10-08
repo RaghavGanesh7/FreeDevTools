@@ -1,7 +1,7 @@
 ---
 title: "iDevice Image Mount - Mount iOS Images | Online Free DevTools by Hexmos"
 name: ideviceimagemounter
-path: /freedevtools/tldr/common/ideviceimagemounter
+path: "/freedevtools/tldr/common/ideviceimagemounter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ideviceimagemounter/"
 description: "Mount iOS disk images with iDevice Image Mounter. Manage device storage, debug applications and access filesystem. Free online tool, no registration required."
 category: common

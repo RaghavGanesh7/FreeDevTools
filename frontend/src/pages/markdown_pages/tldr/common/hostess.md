@@ -1,7 +1,7 @@
 ---
 title: "Host File Manager - Control Host Names with Hostess | Online Free DevTools by Hexmos"
 name: hostess
-path: /freedevtools/tldr/common/hostess
+path: "/freedevtools/tldr/common/hostess/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hostess/"
 description: "Control host names easily with Hostess. Manage your /etc/hosts file to map domains to IP addresses. Free online tool, no registration required."
 category: common

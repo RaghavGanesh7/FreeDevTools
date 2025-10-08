@@ -1,7 +1,7 @@
 ---
 title: "Edit Plain Text - Control Files with CotEditor | Online Free DevTools by Hexmos"
 name: cot
-path: /freedevtools/tldr/osx/cot
+path: "/freedevtools/tldr/osx/cot/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/cot/"
 description: "Control plain text files with CotEditor on macOS. Open, edit, and manage text files directly from the command line. Free online tool, no registration required."
 category: osx

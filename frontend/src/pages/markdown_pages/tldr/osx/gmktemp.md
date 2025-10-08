@@ -1,7 +1,7 @@
 ---
 title: "Generate Temporary File - gmktemp Command | Online Free DevTools by Hexmos"
 name: gmktemp
-path: /freedevtools/tldr/osx/gmktemp
+path: "/freedevtools/tldr/osx/gmktemp/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gmktemp/"
 description: "Generate temporary files quickly with gmktemp. Create unique and secure temporary files using command line on macOS. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "AWS STS - Generate Temporary Credentials | Online Free DevTools by Hexmos"
 name: aws-sts
-path: /freedevtools/tldr/aws/aws-sts
+path: "/freedevtools/tldr/aws/aws-sts/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-sts/"
 description: "Generate temporary AWS credentials with AWS STS for secure access. Use Security Token Service for IAM roles and federated users. Free online tool, no registration required."
 category: common

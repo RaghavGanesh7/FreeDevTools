@@ -1,7 +1,7 @@
 ---
 title: "xplr - Explore File Systems | Online Free DevTools by Hexmos"
 name: xplr
-path: /freedevtools/tldr/common/xplr
+path: "/freedevtools/tldr/common/xplr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xplr/"
 description: "Explore file systems with xplr. Navigate directories, focus on specific files, and select multiple items efficiently. Free online tool, no registration required."
 category: common

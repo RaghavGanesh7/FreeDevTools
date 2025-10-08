@@ -1,7 +1,7 @@
 ---
 title: "zsync Downloader - Download Files Efficiently | Online Free DevTools by Hexmos"
 name: zsync
-path: /freedevtools/tldr/linux/zsync
+path: "/freedevtools/tldr/linux/zsync/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/zsync/"
 description: "Download files efficiently with zsync, leveraging partial downloads for faster transfers and resuming interrupted downloads.  Supports HTTP URLs. Free online tool, no registration required."
 category: linux

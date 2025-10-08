@@ -1,7 +1,7 @@
 ---
 title: "Edit Images - Edit and Draw Images with Pinta | Online Free DevTools by Hexmos"
 name: pinta
-path: /freedevtools/tldr/common/pinta
+path: "/freedevtools/tldr/common/pinta/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pinta/"
 description: "Edit images with Pinta, a free and open-source image editor. Easily create stunning visuals and manipulate photos. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "STUN Client - Perform STUN Requests | Online Free DevTools by Hexmos"
 name: pystun3
-path: /freedevtools/tldr/common/pystun3
+path: "/freedevtools/tldr/common/pystun3/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pystun3/"
 description: "Perform STUN requests with pystun3. Discover your external IP address and NAT type effortlessly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "DHCP Client - Control IP Addresses | Online Free DevTools by Hexmos"
 name: dhclient
-path: /freedevtools/tldr/common/dhclient
+path: "/freedevtools/tldr/common/dhclient/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dhclient/"
 description: "Control IP address assignments with DHCP Client. Obtain or release IP configurations using the command line interface. Free online tool, no registration required."
 category: common

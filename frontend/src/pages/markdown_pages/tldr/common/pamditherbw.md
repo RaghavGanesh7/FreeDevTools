@@ -1,7 +1,7 @@
 ---
 title: "Dither Greyscale Image - Convert to Black & White | Online Free DevTools by Hexmos"
 name: pamditherbw
-path: /freedevtools/tldr/common/pamditherbw
+path: "/freedevtools/tldr/common/pamditherbw/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamditherbw/"
 description: "Dither greyscale images with pamditherbw, converting them to black and white patterns. Reduce image size and optimize visual representation. Free online tool, no registration required."
 category: common

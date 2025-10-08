@@ -1,7 +1,7 @@
 ---
 title: "Detect Secrets with Gitleaks - Find Leaks | Online Free DevTools by Hexmos"
 name: gitleaks
-path: /freedevtools/tldr/git/gitleaks
+path: "/freedevtools/tldr/git/gitleaks/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitleaks/"
 description: "Detect secrets with Gitleaks. Find API keys and credentials leaked in Git repositories. Free online tool, no registration required."
 category: common

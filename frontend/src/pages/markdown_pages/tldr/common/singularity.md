@@ -1,7 +1,7 @@
 ---
 title: "Singularity - Manage Containers | Online Free DevTools by Hexmos"
 name: singularity
-path: /freedevtools/tldr/common/singularity
+path: "/freedevtools/tldr/common/singularity/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/singularity/"
 description: "Manage Singularity containers with Singularity command. Build, run, and execute commands within containers effortlessly. Free online tool, no registration required."
 category: common

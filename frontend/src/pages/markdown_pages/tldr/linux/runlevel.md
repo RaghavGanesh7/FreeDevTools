@@ -1,7 +1,7 @@
 ---
 title: "Runlevel Control - Check SysV Runlevel | Online Free DevTools by Hexmos"
 name: runlevel
-path: /freedevtools/tldr/linux/runlevel
+path: "/freedevtools/tldr/linux/runlevel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/runlevel/"
 description: "Check and display the current and previous SysV runlevel with the runlevel command.  Get instant insights into your system's runlevel status. Free online tool, no registration required."
 category: linux

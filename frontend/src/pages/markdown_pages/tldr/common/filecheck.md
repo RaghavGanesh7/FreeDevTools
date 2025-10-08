@@ -1,7 +1,7 @@
 ---
 title: "File Check - Validate Files with Patterns | Online Free DevTools by Hexmos"
 name: filecheck
-path: /freedevtools/tldr/common/filecheck
+path: "/freedevtools/tldr/common/filecheck/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/filecheck/"
 description: "Validate files with FileCheck using flexible pattern matching. Check input file content, customize prefixes, and verify LLVM code. Free online tool, no registration required."
 category: common

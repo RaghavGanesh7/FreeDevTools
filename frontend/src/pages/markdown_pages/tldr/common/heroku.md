@@ -1,7 +1,7 @@
 ---
 title: "Heroku Manager - Manage Heroku Apps | Online Free DevTools by Hexmos"
 name: heroku
-path: /freedevtools/tldr/common/heroku
+path: "/freedevtools/tldr/common/heroku/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/heroku/"
 description: "Manage Heroku apps effortlessly with Heroku Manager. Deploy, monitor, and scale your applications directly from the command line. Free online tool, no registration required."
 category: common

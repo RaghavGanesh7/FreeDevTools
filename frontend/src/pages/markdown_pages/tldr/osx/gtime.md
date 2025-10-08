@@ -1,7 +1,7 @@
 ---
 title: "Gtime - Measure Command Execution Time | Online Free DevTools by Hexmos"
 name: gtime
-path: /freedevtools/tldr/osx/gtime
+path: "/freedevtools/tldr/osx/gtime/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtime/"
 description: "Measure command execution time with Gtime on macOS. Analyze system performance and optimize scripts with this command alias for GNU Time. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Control Screen Temperature with wlsunset | Online Free DevTools by Hexmos"
 name: wlsunset
-path: /freedevtools/tldr/common/wlsunset
+path: "/freedevtools/tldr/common/wlsunset/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wlsunset/"
 description: "Control screen temperature with wlsunset to adjust color based on sunrise/sunset times. Optimize eye comfort and reduce blue light. Free online tool, no registration required."
 category: common

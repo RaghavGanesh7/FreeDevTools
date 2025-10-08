@@ -1,7 +1,7 @@
 ---
 title: "Generate OpenPGP Key Archive - Paperkey | Online Free DevTools by Hexmos"
 name: paperkey
-path: /freedevtools/tldr/common/paperkey
+path: "/freedevtools/tldr/common/paperkey/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/paperkey/"
 description: "Generate OpenPGP key archives with Paperkey. Securely export and reconstruct secret keys for backup and recovery. Free online tool, no registration required."
 category: common

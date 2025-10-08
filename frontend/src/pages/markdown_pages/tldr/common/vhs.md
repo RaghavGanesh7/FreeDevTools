@@ -1,7 +1,7 @@
 ---
 title: "Generate Terminal GIFs - VHS Tape Recorder | Online Free DevTools by Hexmos"
 name: vhs
-path: /freedevtools/tldr/common/vhs
+path: "/freedevtools/tldr/common/vhs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vhs/"
 description: "Generate animated GIFs from terminal recordings with VHS. Create high-quality GIFs for documentation, tutorials, or presentations with this tape recorder. Free online tool, no registration required."
 category: common

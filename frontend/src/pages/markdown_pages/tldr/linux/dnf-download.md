@@ -1,7 +1,7 @@
 ---
 title: "Download Packages - Download RPM Packages with DNF | Online Free DevTools by Hexmos"
 name: dnf-download
-path: /freedevtools/tldr/linux/dnf-download
+path: "/freedevtools/tldr/linux/dnf-download/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dnf-download/"
 description: "Download RPM packages instantly with DNF download command on Linux.  Retrieve specific package versions and manage dependencies effortlessly. Free online tool, no registration required."
 category: linux

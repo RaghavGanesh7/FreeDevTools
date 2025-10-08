@@ -1,7 +1,7 @@
 ---
 title: "Debug with GDB - Debug Executables | Online Free DevTools by Hexmos"
 name: gdb
-path: /freedevtools/tldr/common/gdb
+path: "/freedevtools/tldr/common/gdb/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdb/"
 description: "Debug executables with GDB, the GNU Debugger. Analyze core dumps and control execution flow for effective troubleshooting. Free online tool, no registration required."
 category: common

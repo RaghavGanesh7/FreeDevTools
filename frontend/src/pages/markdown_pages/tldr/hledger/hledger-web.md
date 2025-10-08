@@ -1,7 +1,7 @@
 ---
 title: "Hledger-web - Manage Accounts | Online Free DevTools by Hexmos"
 name: hledger-web
-path: /freedevtools/tldr/hledger/hledger-web
+path: "/freedevtools/tldr/hledger/hledger-web/"
 canonical: "https://hexmos.com/freedevtools/tldr/hledger/hledger-web/"
 description: "Manage accounts easily with hledger-web, a powerful accounting tool. View financial data, track expenses, and create insightful reports. Free online tool, no registration required."
 category: common

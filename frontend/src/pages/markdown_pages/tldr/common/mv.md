@@ -1,7 +1,7 @@
 ---
 title: "File Move - Rename Files & Directories | Online Free DevTools by Hexmos"
 name: mv
-path: /freedevtools/tldr/common/mv
+path: "/freedevtools/tldr/common/mv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mv/"
 description: "Move files and directories with the mv command. Easily rename files, move them to different locations, and manage file operations. Free online tool, no registration required."
 category: common

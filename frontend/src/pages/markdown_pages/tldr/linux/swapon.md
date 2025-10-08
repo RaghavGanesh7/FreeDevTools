@@ -1,7 +1,7 @@
 ---
 title: "Enable Swapping - Manage Swap Space with Swapon | Online Free DevTools by Hexmos"
 name: swapon
-path: /freedevtools/tldr/linux/swapon
+path: "/freedevtools/tldr/linux/swapon/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/swapon/"
 description: "Enable swap space with Swapon on Linux. Manage virtual memory and improve system performance by enabling devices and files for swapping. Free online tool, no registration required."
 category: linux

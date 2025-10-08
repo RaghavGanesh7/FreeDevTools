@@ -1,7 +1,7 @@
 ---
 title: "Logread - Read System Logs | Online Free DevTools by Hexmos"
 name: logread
-path: /freedevtools/tldr/linux/logread
+path: "/freedevtools/tldr/linux/logread/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/logread/"
 description: "Read system logs easily with Logread. Analyze and filter system messages for troubleshooting and monitoring. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Generate PPM TV Effect - Simulate American TV Look | Online Free DevTools by Hexmos"
 name: ppmtv
-path: /freedevtools/tldr/ppm/ppmtv
+path: "/freedevtools/tldr/ppm/ppmtv/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtv/"
 description: "Generate a realistic American TV effect with Ppmtv. Dim every other row of a PPM image to simulate scanlines. Free online tool, no registration required."
 category: common

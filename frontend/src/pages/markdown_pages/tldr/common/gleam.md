@@ -1,7 +1,7 @@
 ---
 title: "Gleam Compiler - Build Typesafe Systems | Online Free DevTools by Hexmos"
 name: gleam
-path: /freedevtools/tldr/common/gleam
+path: "/freedevtools/tldr/common/gleam/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gleam/"
 description: "Build systems with Gleam Compiler, a type-safe language solution. Compile, format, and manage dependencies easily with this command-line tool. Free online tool, no registration required."
 category: common

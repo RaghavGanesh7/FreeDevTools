@@ -1,7 +1,7 @@
 ---
 title: "JSON Converter - Format JSON Data | Online Free DevTools by Hexmos"
 name: jc
-path: /freedevtools/tldr/common/jc
+path: "/freedevtools/tldr/common/jc/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jc/"
 description: "Format JSON data with JSON Converter for multiple platforms. Parse complex JSON files, validate syntax, and transform data structures quickly. Free online tool, no registration required."
 category: common

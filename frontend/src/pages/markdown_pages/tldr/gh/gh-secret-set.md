@@ -1,7 +1,7 @@
 ---
 title: "GitHub Secret Set - Create Secrets | Online Free DevTools by Hexmos"
 name: gh-secret-set
-path: /freedevtools/tldr/gh/gh-secret-set
+path: "/freedevtools/tldr/gh/gh-secret-set/"
 canonical: "https://hexmos.com/freedevtools/tldr/gh/gh-secret-set/"
 description: "Create GitHub secrets with gh-secret-set. Securely store sensitive information for repositories and organizations with ease. Free online tool, no registration required."
 category: common

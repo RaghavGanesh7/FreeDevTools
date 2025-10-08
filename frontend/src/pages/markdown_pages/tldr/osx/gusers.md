@@ -1,7 +1,7 @@
 ---
 title: "Users - List Logged-in Users | Online Free DevTools by Hexmos"
 name: gusers
-path: /freedevtools/tldr/osx/gusers
+path: "/freedevtools/tldr/osx/gusers/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gusers/"
 description: "List logged-in users with gusers on macOS. Identify active user accounts and manage system access using command line. Free online tool, no registration required."
 category: osx

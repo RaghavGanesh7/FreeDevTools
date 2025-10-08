@@ -1,7 +1,7 @@
 ---
 title: "Generate Raster Overviews - gdaladdo | Online Free DevTools by Hexmos"
 name: gdaladdo
-path: /freedevtools/tldr/common/gdaladdo
+path: "/freedevtools/tldr/common/gdaladdo/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gdaladdo/"
 description: "Generate raster image overviews with gdaladdo. Resample raster data for faster viewing and analysis. Free online tool, no registration required."
 category: common

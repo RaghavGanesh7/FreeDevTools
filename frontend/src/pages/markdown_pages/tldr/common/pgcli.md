@@ -1,7 +1,7 @@
 ---
 title: "PostgreSQL CLI - Connect to PostgreSQL Databases | Online Free DevTools by Hexmos"
 name: pgcli
-path: /freedevtools/tldr/common/pgcli
+path: "/freedevtools/tldr/common/pgcli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgcli/"
 description: "Connect to PostgreSQL databases with pgcli, a modern CLI tool. Enhance your database interactions with autocompletion and syntax highlighting. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Crystal Compiler - Manage Crystal Source Code | Online Free DevTools by Hexmos"
 name: crystal
-path: /freedevtools/tldr/common/crystal
+path: "/freedevtools/tldr/common/crystal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/crystal/"
 description: "Compile Crystal code easily with Crystal Compiler. Build executables, generate documentation, and run specs using command line. Free online tool, no registration required."
 category: common

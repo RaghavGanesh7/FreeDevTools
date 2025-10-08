@@ -1,7 +1,7 @@
 ---
 title: "Gtouch - Create Files | Online Free DevTools by Hexmos"
 name: gtouch
-path: /freedevtools/tldr/osx/gtouch
+path: "/freedevtools/tldr/osx/gtouch/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gtouch/"
 description: "Create files with Gtouch, a command-line utility for updating access and modification times. Free online tool, no registration required."
 category: osx

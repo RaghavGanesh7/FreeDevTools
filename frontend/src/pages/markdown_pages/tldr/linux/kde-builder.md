@@ -1,7 +1,7 @@
 ---
 title: "KDE Builder - Build KDE Components from Source | Online Free DevTools by Hexmos"
 name: kde-builder
-path: /freedevtools/tldr/linux/kde-builder
+path: "/freedevtools/tldr/linux/kde-builder/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/kde-builder/"
 description: "Build KDE components from source with KDE Builder. Compile Plasma desktop, manage dependencies, and refresh build directories using command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Toolbox Run - Execute Commands in Linux Containers | Online Free DevTools by Hexmos"
 name: toolbox-run
-path: /freedevtools/tldr/linux/toolbox-run
+path: "/freedevtools/tldr/linux/toolbox-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/toolbox-run/"
 description: "Execute commands in Linux containers with Toolbox Run. Manage containerized applications, development environments, and system utilities easily. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "HTTP Probe - Scan Hosts with HTTPX | Online Free DevTools by Hexmos"
 name: httpx
-path: /freedevtools/tldr/http/httpx
+path: "/freedevtools/tldr/http/httpx/"
 canonical: "https://hexmos.com/freedevtools/tldr/http/httpx/"
 description: "Probe hosts quickly with HTTPX. Perform HTTP scans and analyze server responses using this versatile Go-based tool. Free online tool, no registration required."
 category: common

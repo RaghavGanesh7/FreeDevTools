@@ -1,7 +1,7 @@
 ---
 title: "Extract MIME Attachments - Rip Email Content | Online Free DevTools by Hexmos"
 name: ripmime
-path: /freedevtools/tldr/linux/ripmime
+path: "/freedevtools/tldr/linux/ripmime/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ripmime/"
 description: "Extract MIME attachments with ripmime.  Unpack email content, recover lost files, and analyze email structure effortlessly. Free online tool, no registration required."
 category: linux

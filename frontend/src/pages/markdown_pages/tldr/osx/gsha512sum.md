@@ -1,7 +1,7 @@
 ---
 title: "Generate SHA512 Checksum - Verify File Integrity | Online Free DevTools by Hexmos"
 name: gsha512sum
-path: /freedevtools/tldr/osx/gsha512sum
+path: "/freedevtools/tldr/osx/gsha512sum/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gsha512sum/"
 description: "Generate SHA512 checksum with gsha512sum to verify file integrity and ensure data security. Free online tool, no registration required."
 category: osx

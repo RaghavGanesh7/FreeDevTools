@@ -1,7 +1,7 @@
 ---
 title: "Scan Dependencies - osv-scanner Vulnerability Check | Online Free DevTools by Hexmos"
 name: osv-scanner
-path: /freedevtools/tldr/common/osv-scanner
+path: "/freedevtools/tldr/common/osv-scanner/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/osv-scanner/"
 description: "Scan dependencies for vulnerabilities with osv-scanner. Detect software vulnerabilities in your projects and SBOMs quickly and easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Psgrep - Search Processes with Grep | Online Free DevTools by Hexmos"
 name: psgrep
-path: /freedevtools/tldr/common/psgrep
+path: "/freedevtools/tldr/common/psgrep/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/psgrep/"
 description: "Search processes with psgrep, utilizing grep to filter results. Find running processes quickly and efficiently. Free online tool, no registration required."
 category: common

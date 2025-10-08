@@ -1,7 +1,7 @@
 ---
 title: "Tail - Display Last Lines of Files | Online Free DevTools by Hexmos"
 name: tail
-path: /freedevtools/tldr/osx/tail
+path: "/freedevtools/tldr/osx/tail/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/tail/"
 description: "Display last part of files with Tail. Analyze log files, monitor changes, and extract specific data from end of text. Free online tool, no registration required."
 category: osx

@@ -1,7 +1,7 @@
 ---
 title: "Darwin Rebuild - Generate macOS System Configuration | Online Free DevTools by Hexmos"
 name: darwin-rebuild
-path: /freedevtools/tldr/osx/darwin-rebuild
+path: "/freedevtools/tldr/osx/darwin-rebuild/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/darwin-rebuild/"
 description: "Generate macOS system configuration with Darwin Rebuild. Easily switch and build Nix-based configurations for your macOS system. Free online tool, no registration required."
 category: osx

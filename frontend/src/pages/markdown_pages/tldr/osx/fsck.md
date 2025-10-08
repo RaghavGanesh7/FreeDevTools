@@ -1,7 +1,7 @@
 ---
 title: "Check Filesystem - Inspect and Repair Disks | Online Free DevTools by Hexmos"
 name: fsck
-path: /freedevtools/tldr/osx/fsck
+path: "/freedevtools/tldr/osx/fsck/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/fsck/"
 description: "Check filesystem integrity with fsck. Inspect disks for errors and repair damaged filesystems on macOS. Free online tool, no registration required."
 category: osx

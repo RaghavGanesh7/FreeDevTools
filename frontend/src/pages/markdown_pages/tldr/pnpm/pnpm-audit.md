@@ -1,7 +1,7 @@
 ---
 title: "PNPM Audit - Scan Dependencies for Vulnerabilities | Online Free DevTools by Hexmos"
 name: pnpm-audit
-path: /freedevtools/tldr/pnpm/pnpm-audit
+path: "/freedevtools/tldr/pnpm/pnpm-audit/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnpm/pnpm-audit/"
 description: "Scan dependencies for vulnerabilities with PNPM Audit. Secure your project by identifying security issues in packages. Free online tool, no registration required."
 category: common

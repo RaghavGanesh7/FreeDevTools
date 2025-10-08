@@ -1,7 +1,7 @@
 ---
 title: "OrbStack - Control Linux VMs on macOS | Online Free DevTools by Hexmos"
 name: orb
-path: /freedevtools/tldr/osx/orb
+path: "/freedevtools/tldr/osx/orb/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/orb/"
 description: "Control Linux virtual machines on macOS with OrbStack. Create, manage, and execute commands in VMs directly from your terminal. Free online tool, no registration required."
 category: osx

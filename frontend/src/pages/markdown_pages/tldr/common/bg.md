@@ -1,7 +1,7 @@
 ---
 title: "Control Background Jobs - Resume Processes | Online Free DevTools by Hexmos"
 name: bg
-path: /freedevtools/tldr/common/bg
+path: "/freedevtools/tldr/common/bg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bg/"
 description: "Control background jobs with bg. Resume suspended processes and keep them running in the background using this command-line tool. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Documentation with Sphinx-build | Online Free DevTools by Hexmos"
 name: sphinx-build
-path: /freedevtools/tldr/common/sphinx-build
+path: "/freedevtools/tldr/common/sphinx-build/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sphinx-build/"
 description: "Generate documentation with Sphinx-build. Build HTML, LaTeX, and more from reStructuredText sources. Free online tool, no registration required."
 category: common

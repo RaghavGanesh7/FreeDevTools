@@ -1,7 +1,7 @@
 ---
 title: "Vgextend - Extend Volume Groups | Online Free DevTools by Hexmos"
 name: vgextend
-path: /freedevtools/tldr/linux/vgextend
+path: "/freedevtools/tldr/linux/vgextend/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/vgextend/"
 description: "Extend volume groups easily with Vgextend, manage physical volumes. Add storage and expand logical volumes with this command. Free online tool, no registration required."
 category: linux

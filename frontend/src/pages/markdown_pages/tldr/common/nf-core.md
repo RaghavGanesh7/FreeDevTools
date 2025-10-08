@@ -1,7 +1,7 @@
 ---
 title: "nf-core - Create Nextflow Pipelines | Online Free DevTools by Hexmos"
 name: nf-core
-path: /freedevtools/tldr/common/nf-core
+path: "/freedevtools/tldr/common/nf-core/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nf-core/"
 description: "Create Nextflow pipelines easily with nf-core. Lint pipeline code, bump software versions, and launch pipelines. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pacman -T - Manage Packages with Pacman | Online Free DevTools by Hexmos"
 name: pacman-t
-path: /freedevtools/tldr/linux/pacman-t
+path: "/freedevtools/tldr/linux/pacman-t/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pacman-t/"
 description: "Manage packages efficiently with Pacman -T.  This command provides a simple way to test package dependencies. Free online tool, no registration required."
 category: linux

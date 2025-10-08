@@ -1,7 +1,7 @@
 ---
 title: "Mount Disk Images - Control DDI Mounts | Online Free DevTools by Hexmos"
 name: mount.ddi
-path: /freedevtools/tldr/linux/mount-ddi
+path: "/freedevtools/tldr/linux/mount-ddi/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mount-ddi/"
 description: "Mount disk images easily with mount.ddi.  Manage and access discoverable disk images (DDI) using this command-line tool. Free online tool, no registration required."
 category: linux

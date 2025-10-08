@@ -1,7 +1,7 @@
 ---
 title: "Control Polybar - Manage Bar Instances | Online Free DevTools by Hexmos"
 name: polybar-msg
-path: /freedevtools/tldr/common/polybar-msg
+path: "/freedevtools/tldr/common/polybar-msg/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/polybar-msg/"
 description: "Control Polybar using inter-process-messaging (IPC). Manage bar instances and toggle visibility. Free online tool, no registration required."
 category: common

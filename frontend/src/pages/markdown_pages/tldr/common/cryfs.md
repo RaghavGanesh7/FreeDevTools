@@ -1,7 +1,7 @@
 ---
 title: "Create Encrypted Filesystem - CryFS | Online Free DevTools by Hexmos"
 name: cryfs
-path: /freedevtools/tldr/common/cryfs
+path: "/freedevtools/tldr/common/cryfs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cryfs/"
 description: "Create encrypted filesystem with CryFS. Secure cloud storage with enhanced data protection and privacy. Free online tool, no registration required."
 category: common

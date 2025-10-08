@@ -1,7 +1,7 @@
 ---
 title: "Phive - Securely Install PHP Packages | Online Free DevTools by Hexmos"
 name: phive
-path: "/freedevtools/tldr/common/phive"
+path: "/freedevtools/tldr/common/phive/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/phive/"
 description: "Securely install PHP packages with Phive, the Phar Installation and Verification Environment. Manage dependencies and ensure secure PHP application deployment. Free online tool, no registration required."
 category: common

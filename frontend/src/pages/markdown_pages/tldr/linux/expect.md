@@ -1,7 +1,7 @@
 ---
 title: "Execute Expect Scripts - Automate Program Interactions | Online Free DevTools by Hexmos"
 name: expect
-path: /freedevtools/tldr/linux/expect
+path: "/freedevtools/tldr/linux/expect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/expect/"
 description: "Execute Expect scripts with Expect for automated program interactions. Control terminal sessions and streamline command-line tasks efficiently. Free online tool, no registration required."
 category: linux

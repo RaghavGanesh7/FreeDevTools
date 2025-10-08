@@ -1,7 +1,7 @@
 ---
 title: "Generate Presentations - TPP Command Line Tool | Online Free DevTools by Hexmos"
 name: tpp
-path: /freedevtools/tldr/common/tpp
+path: "/freedevtools/tldr/common/tpp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tpp/"
 description: "Generate presentations with TPP command line tool. Create slide decks from the terminal and output to various formats. Free online tool, no registration required."
 category: common

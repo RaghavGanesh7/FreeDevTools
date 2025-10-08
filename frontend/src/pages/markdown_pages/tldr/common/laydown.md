@@ -1,7 +1,7 @@
 ---
 title: "Standup Preparation - Manage Daily Tasks | Online Free DevTools by Hexmos"
 name: laydown
-path: /freedevtools/tldr/common/laydown
+path: "/freedevtools/tldr/common/laydown/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/laydown/"
 description: "Prepare for your daily standup with Laydown. Track your 'did' and 'doing' items efficiently using this command-line tool. Free online tool, no registration required."
 category: common

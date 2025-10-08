@@ -1,7 +1,7 @@
 ---
 title: "Minecraft Server - Run Headless Minecraft Server | Online Free DevTools by Hexmos"
 name: minecraft
-path: /freedevtools/tldr/common/minecraft
+path: "/freedevtools/tldr/common/minecraft/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/minecraft/"
 description: "Run a headless Minecraft server with Minecraft Server tool. Easily manage game server settings and start/stop server instances. Free online tool, no registration required."
 category: common

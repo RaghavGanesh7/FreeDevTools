@@ -1,7 +1,7 @@
 ---
 title: "Virsh Help - Display Command Information | Online Free DevTools by Hexmos"
 name: virsh-help
-path: /freedevtools/tldr/virsh/virsh-help
+path: "/freedevtools/tldr/virsh/virsh-help/"
 canonical: "https://hexmos.com/freedevtools/tldr/virsh/virsh-help/"
 description: "Display command information with Virsh Help. Explore command categories, get detailed help for specific commands. Free online tool, no registration required."
 category: common

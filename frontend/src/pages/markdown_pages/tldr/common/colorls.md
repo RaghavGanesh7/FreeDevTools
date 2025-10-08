@@ -1,7 +1,7 @@
 ---
 title: "Beautify ls - Format Directory Listings with Colorls | Online Free DevTools by Hexmos"
 name: colorls
-path: "/freedevtools/tldr/common/colorls"
+path: "/freedevtools/tldr/common/colorls/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/colorls/"
 description: "Format directory listings with Colorls to enhance readability, offering colorful output and Font Awesome icons. Free online tool, no registration required."
 category: common

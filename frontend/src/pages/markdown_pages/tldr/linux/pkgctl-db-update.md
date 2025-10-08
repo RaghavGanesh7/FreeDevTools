@@ -1,7 +1,7 @@
 ---
 title: "Update Pacman Database - Control Package Releases | Online Free DevTools by Hexmos"
 name: pkgctl-db-update
-path: /freedevtools/tldr/linux/pkgctl-db-update
+path: "/freedevtools/tldr/linux/pkgctl-db-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkgctl-db-update/"
 description: "Update Pacman database instantly with pkgctl db update. Manage package releases and synchronize with Arch Linux repositories efficiently. Free online tool, no registration required."
 category: linux

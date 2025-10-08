@@ -1,7 +1,7 @@
 ---
 title: "Blender - Render 3D Graphics via Command Line | Online Free DevTools by Hexmos"
 name: blender
-path: /freedevtools/tldr/common/blender
+path: "/freedevtools/tldr/common/blender/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/blender/"
 description: "Render 3D graphics with Blender using command line arguments. Control animation output, frame rendering, and scene settings effortlessly. Free online tool, no registration required."
 category: common

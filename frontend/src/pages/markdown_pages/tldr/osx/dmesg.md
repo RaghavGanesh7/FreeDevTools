@@ -1,7 +1,7 @@
 ---
 title: "Dmesg - Display Kernel Messages | Online Free DevTools by Hexmos"
 name: dmesg
-path: /freedevtools/tldr/osx/dmesg
+path: "/freedevtools/tldr/osx/dmesg/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/dmesg/"
 description: "Display kernel messages with Dmesg. Diagnose hardware issues, debug kernel errors, and monitor system events on macOS. Free online tool, no registration required."
 category: osx

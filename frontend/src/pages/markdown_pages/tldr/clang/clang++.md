@@ -1,7 +1,7 @@
 ---
 title: "Compile C++ Code - Create Executables with clang++ | Online Free DevTools by Hexmos"
 name: clang++
-path: /freedevtools/tldr/clang/clang++
+path: "/freedevtools/tldr/clang/clang++/"
 canonical: "https://hexmos.com/freedevtools/tldr/clang/clang++/"
 description: "Compile C++ source code with clang++. Create executables, optimize for performance and debug applications using this command line tool. Free online tool, no registration required."
 category: common

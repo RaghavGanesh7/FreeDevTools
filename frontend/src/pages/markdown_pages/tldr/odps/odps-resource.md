@@ -1,7 +1,7 @@
 ---
 title: "ODPS Resource Manager - Manage Data Resources | Online Free DevTools by Hexmos"
 name: odps-resource
-path: /freedevtools/tldr/odps/odps-resource
+path: "/freedevtools/tldr/odps/odps-resource/"
 canonical: "https://hexmos.com/freedevtools/tldr/odps/odps-resource/"
 description: "Manage ODPS resources with ODPS Resource Manager. Upload files, archives, JARs, and Python scripts for data processing. Free online tool, no registration required."
 category: common

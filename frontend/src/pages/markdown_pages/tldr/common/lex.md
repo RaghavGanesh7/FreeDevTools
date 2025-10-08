@@ -1,7 +1,7 @@
 ---
 title: "Generate Lexical Analyzers - Lex | Online Free DevTools by Hexmos"
 name: lex
-path: /freedevtools/tldr/common/lex
+path: "/freedevtools/tldr/common/lex/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lex/"
 description: "Generate lexical analyzers with Lex, a powerful compiler construction tool.  Create parsers and automate lexical analysis. Free online tool, no registration required."
 category: common

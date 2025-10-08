@@ -1,7 +1,7 @@
 ---
 title: "FastAPI Runner - Control Uvicorn Apps | Online Free DevTools by Hexmos"
 name: fastapi
-path: /freedevtools/tldr/common/fastapi
+path: "/freedevtools/tldr/common/fastapi/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fastapi/"
 description: "Run FastAPI apps instantly with Uvicorn web server. Control host, port, and app directory for development and production. Free online tool, no registration required."
 category: common

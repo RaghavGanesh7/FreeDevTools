@@ -1,7 +1,7 @@
 ---
 title: "Format Copyright - Adjust MATLAB/Octave Headers | Online Free DevTools by Hexmos"
 name: mh_copyright
-path: /freedevtools/tldr/common/mh_copyright
+path: "/freedevtools/tldr/common/mh_copyright/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mh_copyright/"
 description: "Format copyright headers automatically with mh_copyright. Update year ranges in MATLAB/Octave code files. Free online tool, no registration required."
 category: common

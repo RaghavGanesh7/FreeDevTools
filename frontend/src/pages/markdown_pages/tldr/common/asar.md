@@ -1,7 +1,7 @@
 ---
 title: "ASAR Archiver - Package Files for Electron | Online Free DevTools by Hexmos"
 name: asar
-path: /freedevtools/tldr/common/asar
+path: "/freedevtools/tldr/common/asar/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/asar/"
 description: "Package Electron app files with ASAR Archiver. Create, extract, and manage archives to optimize your application. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Configure UPnP Ports - Control Router Ports with upnpc | Online Free DevTools by Hexmos"
 name: upnpc
-path: /freedevtools/tldr/linux/upnpc
+path: "/freedevtools/tldr/linux/upnpc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/upnpc/"
 description: "Configure UPnP router ports easily with upnpc. Forward ports, delete redirections, and manage your network's port configuration via command line. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Extract Tables - Tabula PDF Extractor | Online Free DevTools by Hexmos"
 name: tabula
-path: /freedevtools/tldr/common/tabula
+path: "/freedevtools/tldr/common/tabula/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tabula/"
 description: "Extract tables from PDF files with Tabula PDF Extractor. Convert PDF tables to CSV, JSON, or other formats effortlessly. Free online tool, no registration required."
 category: common

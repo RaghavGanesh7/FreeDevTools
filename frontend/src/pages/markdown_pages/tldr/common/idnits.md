@@ -1,7 +1,7 @@
 ---
 title: "IDNits Validator - Check Internet-Drafts | Online Free DevTools by Hexmos"
 name: idnits
-path: /freedevtools/tldr/common/idnits
+path: "/freedevtools/tldr/common/idnits/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/idnits/"
 description: "Validate Internet-Drafts with IDNits Validator, ensuring compliance with IETF requirements. Check for submission errors and nits. Free online tool, no registration required."
 category: common

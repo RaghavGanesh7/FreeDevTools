@@ -1,7 +1,7 @@
 ---
 title: "PDF to PPM - Convert PDF Pages to Images | Online Free DevTools by Hexmos"
 name: pdftoppm
-path: /freedevtools/tldr/linux/pdftoppm
+path: "/freedevtools/tldr/linux/pdftoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pdftoppm/"
 description: "Convert PDF pages to PPM images with pdftoppm. Transform PDF documents into portable pixmap files using this command-line tool. Free online tool, no registration required."
 category: linux

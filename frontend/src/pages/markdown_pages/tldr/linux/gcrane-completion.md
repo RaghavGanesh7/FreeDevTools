@@ -1,7 +1,7 @@
 ---
 title: "Generate gcrane Completion Scripts | Online Free DevTools by Hexmos"
 name: gcrane-completion
-path: /freedevtools/tldr/linux/gcrane-completion
+path: "/freedevtools/tldr/linux/gcrane-completion/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gcrane-completion/"
 description: "Generate shell completion scripts with gcrane. Simplify command-line interactions and improve productivity using autocompletion. Free online tool, no registration required."
 category: linux

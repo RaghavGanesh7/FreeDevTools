@@ -1,7 +1,7 @@
 ---
 title: "VMtouch - Manage Filesystem Cache | Online Free DevTools by Hexmos"
 name: vmtouch
-path: /freedevtools/tldr/common/vmtouch
+path: "/freedevtools/tldr/common/vmtouch/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/vmtouch/"
 description: "Manage filesystem cache with Vmtouch. Evict, load, or lock files into memory, optimizing performance and controlling memory usage. Free online tool, no registration required."
 category: common

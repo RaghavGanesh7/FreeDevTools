@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Cluster - Control DigitalOcean Clusters | Online Free DevTools by Hexmos"
 name: doctl-kubernetes-cluster
-path: /freedevtools/tldr/doctl/doctl-kubernetes-cluster
+path: "/freedevtools/tldr/doctl/doctl-kubernetes-cluster/"
 canonical: "https://hexmos.com/freedevtools/tldr/doctl/doctl-kubernetes-cluster/"
 description: "Control DigitalOcean Kubernetes clusters with doctl. Easily create, manage, upgrade, and delete clusters using the command line. Free online tool, no registration required."
 category: common

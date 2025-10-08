@@ -1,7 +1,7 @@
 ---
 title: "Convert PDF Files - Mutool PDF Converter | Online Free DevTools by Hexmos"
 name: mutool
-path: /freedevtools/tldr/common/mutool
+path: "/freedevtools/tldr/common/mutool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mutool/"
 description: "Convert PDF files easily with Mutool. Query information, extract data, and manipulate PDF content with this command-line utility. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Convert PNM to RAST - Image Conversion | Online Free DevTools by Hexmos"
 name: pnmtorast
-path: /freedevtools/tldr/pnm/pnmtorast
+path: "/freedevtools/tldr/pnm/pnmtorast/"
 canonical: "https://hexmos.com/freedevtools/tldr/pnm/pnmtorast/"
 description: "Convert PNM image to RAST with pnmtorast. This powerful image converter supports various raster formats. Free online tool, no registration required."
 category: common

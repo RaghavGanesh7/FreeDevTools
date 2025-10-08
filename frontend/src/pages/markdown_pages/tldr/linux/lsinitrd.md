@@ -1,7 +1,7 @@
 ---
 title: "List Initramfs - Inspect Image Contents | Online Free DevTools by Hexmos"
 name: lsinitrd
-path: /freedevtools/tldr/linux/lsinitrd
+path: "/freedevtools/tldr/linux/lsinitrd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lsinitrd/"
 description: "Inspect initramfs image contents with lsinitrd. Analyze kernel modules, file structure, and unpack images. Free online tool, no registration required."
 category: linux

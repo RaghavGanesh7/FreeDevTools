@@ -1,7 +1,7 @@
 ---
 title: "Duplicacy Backup - Manage Cloud Storage Backups | Online Free DevTools by Hexmos"
 name: duplicacy
-path: /freedevtools/tldr/common/duplicacy
+path: "/freedevtools/tldr/common/duplicacy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/duplicacy/"
 description: "Manage cloud storage backups with Duplicacy. Efficiently deduplicate data, encrypt snapshots, and restore files with ease. Free online tool, no registration required."
 category: common

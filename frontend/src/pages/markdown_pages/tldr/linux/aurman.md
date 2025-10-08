@@ -1,7 +1,7 @@
 ---
 title: "Control AUR Packages - Manage AUR with aurman | Online Free DevTools by Hexmos"
 name: aurman
-path: /freedevtools/tldr/linux/aurman
+path: "/freedevtools/tldr/linux/aurman/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aurman/"
 description: "Control AUR packages efficiently with aurman. Build, install, and manage packages from the Arch User Repository. Free online tool, no registration required."
 category: linux

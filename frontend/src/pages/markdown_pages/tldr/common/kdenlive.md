@@ -1,7 +1,7 @@
 ---
 title: "Kdenlive - Edit Videos Nondestructively | Online Free DevTools by Hexmos"
 name: kdenlive
-path: /freedevtools/tldr/common/kdenlive
+path: "/freedevtools/tldr/common/kdenlive/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kdenlive/"
 description: "Edit videos nondestructively with Kdenlive, KDE's powerful non-linear video editor. Create professional-quality videos with advanced editing tools. Free online tool, no registration required."
 category: common

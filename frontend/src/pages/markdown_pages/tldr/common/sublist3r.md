@@ -1,7 +1,7 @@
 ---
 title: "Find Subdomains - Enumerate Subdomains with Sublist3r | Online Free DevTools by Hexmos"
 name: sublist3r
-path: /freedevtools/tldr/common/sublist3r
+path: "/freedevtools/tldr/common/sublist3r/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sublist3r/"
 description: "Find subdomains efficiently with Sublist3r. Discover and enumerate subdomains for penetration testing, enhancing your security assessments. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Generate Satis Repository - Static Composer Output | Online Free DevTools by Hexmos"
 name: satis
-path: /freedevtools/tldr/common/satis
+path: "/freedevtools/tldr/common/satis/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/satis/"
 description: "Generate static Composer repositories with Satis. Build optimized package distributions, manage dependencies, and streamline deployments. Free online tool, no registration required."
 category: common

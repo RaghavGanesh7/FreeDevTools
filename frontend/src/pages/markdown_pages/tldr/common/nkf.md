@@ -1,7 +1,7 @@
 ---
 title: "Convert Kanji - Format Text Encodings | Online Free DevTools by Hexmos"
 name: nkf
-path: /freedevtools/tldr/common/nkf
+path: "/freedevtools/tldr/common/nkf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nkf/"
 description: "Convert Kanji encodings with nkf. Reformat text between UTF-8, SHIFT_JIS, and other formats. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Execute Commands as User - Control Privileges | Online Free DevTools by Hexmos"
 name: pkexec
-path: /freedevtools/tldr/linux/pkexec
+path: "/freedevtools/tldr/linux/pkexec/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pkexec/"
 description: "Execute commands with pkexec. Control user privileges and run commands as another user with this utility. Free online tool, no registration required."
 category: linux

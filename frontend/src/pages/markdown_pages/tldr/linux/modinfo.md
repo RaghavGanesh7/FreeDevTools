@@ -1,7 +1,7 @@
 ---
 title: "Modinfo - Extract Kernel Module Info | Online Free DevTools by Hexmos"
 name: modinfo
-path: /freedevtools/tldr/linux/modinfo
+path: "/freedevtools/tldr/linux/modinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/modinfo/"
 description: "Extract Linux kernel module information with Modinfo. Inspect module attributes, versions, and dependencies for effective system management. Free online tool, no registration required."
 category: linux

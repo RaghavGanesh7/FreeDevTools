@@ -1,7 +1,7 @@
 ---
 title: "Decode AppArmor Logs - Analyze Audit Trails | Online Free DevTools by Hexmos"
 name: aa-decode
-path: /freedevtools/tldr/linux/aa-decode
+path: "/freedevtools/tldr/linux/aa-decode/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-decode/"
 description: "Decode AppArmor logs with aa-decode. Analyze security audit trails and enhance system security on Linux using human-readable formats. Free online tool, no registration required."
 category: linux

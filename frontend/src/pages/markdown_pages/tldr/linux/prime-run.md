@@ -1,7 +1,7 @@
 ---
 title: "Run Program on GPU - Prime-run | Online Free DevTools by Hexmos"
 name: prime-run
-path: /freedevtools/tldr/linux/prime-run
+path: "/freedevtools/tldr/linux/prime-run/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/prime-run/"
 description: "Run programs using Nvidia GPU with Prime-run. Offload rendering tasks and improve performance using dedicated graphics. Free online tool, no registration required."
 category: linux

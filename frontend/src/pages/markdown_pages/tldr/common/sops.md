@@ -1,7 +1,7 @@
 ---
 title: "SOPS Secrets Manager - Encrypt and Decrypt Secrets | Online Free DevTools by Hexmos"
 name: sops
-path: "/freedevtools/tldr/common/sops"
+path: "/freedevtools/tldr/common/sops/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sops/"
 description: "Encrypt secrets with SOPS Secrets Manager. Securely manage sensitive data using encryption, decryption, and rotation keys. Free online tool, no registration required."
 category: common

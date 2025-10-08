@@ -1,7 +1,7 @@
 ---
 title: "Convert WebP - Decompress WebP Images | Online Free DevTools by Hexmos"
 name: dwebp
-path: /freedevtools/tldr/common/dwebp
+path: "/freedevtools/tldr/common/dwebp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dwebp/"
 description: "Convert WebP images quickly with dwebp. Decompress WebP files to PNG, PAM, or PPM formats. Free online tool, no registration required."
 category: common

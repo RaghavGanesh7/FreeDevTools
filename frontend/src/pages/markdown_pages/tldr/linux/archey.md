@@ -1,7 +1,7 @@
 ---
 title: "Archey System Info - Display System Details Stylishly | Online Free DevTools by Hexmos"
 name: archey
-path: /freedevtools/tldr/linux/archey
+path: "/freedevtools/tldr/linux/archey/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/archey/"
 description: "Display system information stylishly with Archey.  Quickly visualize key system details for efficient troubleshooting and system overview. Free online tool, no registration required."
 category: linux

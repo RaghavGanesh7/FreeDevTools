@@ -1,7 +1,7 @@
 ---
 title: "Git Mergetool - Resolve Merge Conflicts | Online Free DevTools by Hexmos"
 name: git-mergetool
-path: /freedevtools/tldr/git/git-mergetool
+path: "/freedevtools/tldr/git/git-mergetool/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-mergetool/"
 description: "Resolve merge conflicts with Git Mergetool. Launch and manage merge tools to fix code conflicts efficiently. Free online tool, no registration required."
 category: common

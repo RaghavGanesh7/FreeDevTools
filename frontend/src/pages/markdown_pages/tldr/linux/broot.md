@@ -1,7 +1,7 @@
 ---
 title: "Broot - Navigate Directories Interactively | Online Free DevTools by Hexmos"
 name: broot
-path: /freedevtools/tldr/linux/broot
+path: "/freedevtools/tldr/linux/broot/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/broot/"
 description: "Navigate directory trees interactively with broot.  This powerful command-line tool offers a visual and intuitive way to browse files and folders. Free online tool, no registration required."
 category: linux

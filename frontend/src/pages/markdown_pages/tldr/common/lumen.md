@@ -1,7 +1,7 @@
 ---
 title: "Lumen Installer - Create Micro-framework Projects | Online Free DevTools by Hexmos"
 name: lumen
-path: /freedevtools/tldr/common/lumen
+path: "/freedevtools/tldr/common/lumen/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lumen/"
 description: "Create Lumen micro-framework projects effortlessly with Lumen Installer. Quickly scaffold new applications and manage dependencies for efficient development. Free online tool, no registration required."
 category: common

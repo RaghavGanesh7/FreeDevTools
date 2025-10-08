@@ -1,7 +1,7 @@
 ---
 title: "Generate License Files - Licensor | Online Free DevTools by Hexmos"
 name: licensor
-path: /freedevtools/tldr/common/licensor
+path: "/freedevtools/tldr/common/licensor/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/licensor/"
 description: "Generate license files effortlessly with Licensor. Quickly create MIT, Apache, and other open-source licenses. Free online tool, no registration required."
 category: common

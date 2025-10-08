@@ -1,7 +1,7 @@
 ---
 title: "SMB Client - Interact with SMB Servers | Online Free DevTools by Hexmos"
 name: smbclient.py
-path: /freedevtools/tldr/common/smbclient-py
+path: "/freedevtools/tldr/common/smbclient-py/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/smbclient-py/"
 description: "Interact with SMB servers using SMB Client. Perform authentication, file transfer, and command execution. Free online tool, no registration required."
 category: common

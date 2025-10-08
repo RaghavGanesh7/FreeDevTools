@@ -1,7 +1,7 @@
 ---
 title: "Benchmark HTTP - Analyze Server Performance with AB | Online Free DevTools by Hexmos"
 name: ab
-path: /freedevtools/tldr/common/ab
+path: "/freedevtools/tldr/common/ab/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ab/"
 description: "Analyze HTTP server performance with AB. Measure response times, concurrency, and overall efficiency using this command-line benchmarking tool. Free online tool, no registration required."
 category: common

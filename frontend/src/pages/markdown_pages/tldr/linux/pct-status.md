@@ -1,7 +1,7 @@
 ---
 title: "PCT Status - Control Container Status | Online Free DevTools by Hexmos"
 name: pct-status
-path: /freedevtools/tldr/linux/pct-status
+path: "/freedevtools/tldr/linux/pct-status/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-status/"
 description: "Control container status with PCT Status. Monitor resource usage, identify problems, and manage Proxmox containers. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Issue IPP Requests - Control Printer Responses | Online Free DevTools by Hexmos"
 name: ipptool
-path: /freedevtools/tldr/common/ipptool
+path: "/freedevtools/tldr/common/ipptool/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ipptool/"
 description: "Issue IPP requests with ipptool. Control printer responses and manage print jobs. Free online tool, no registration required. Simplified printing management!"
 category: common

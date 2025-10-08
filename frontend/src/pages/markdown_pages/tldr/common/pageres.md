@@ -1,7 +1,7 @@
 ---
 title: "Generate Website Screenshots - Pageres | Online Free DevTools by Hexmos"
 name: pageres
-path: /freedevtools/tldr/common/pageres
+path: "/freedevtools/tldr/common/pageres/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pageres/"
 description: "Generate website screenshots with Pageres. Capture responsive designs across various resolutions and devices. Free online tool, no registration required."
 category: common

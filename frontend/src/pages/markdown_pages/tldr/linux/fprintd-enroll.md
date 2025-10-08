@@ -1,7 +1,7 @@
 ---
 title: "Enroll Fingerprints - fprintd-enroll Management | Online Free DevTools by Hexmos"
 name: fprintd-enroll
-path: /freedevtools/tldr/linux/fprintd-enroll
+path: "/freedevtools/tldr/linux/fprintd-enroll/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/fprintd-enroll/"
 description: "Enroll fingerprints with fprintd-enroll command. Manage fingerprint database entries for user authentication. Free online tool, no registration required."
 category: linux

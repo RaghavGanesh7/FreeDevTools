@@ -1,7 +1,7 @@
 ---
 title: "Share Files - Send Files via Airpaste | Online Free DevTools by Hexmos"
 name: airpaste
-path: /freedevtools/tldr/common/airpaste
+path: "/freedevtools/tldr/common/airpaste/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/airpaste/"
 description: "Share files quickly with Airpaste. Transfer files and messages across a local network using mDNS. Free online tool, no registration required."
 category: common

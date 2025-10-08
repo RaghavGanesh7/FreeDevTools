@@ -1,7 +1,7 @@
 ---
 title: "Control Xauth - Manage X Server Authorizations | Online Free DevTools by Hexmos"
 name: xauth
-path: /freedevtools/tldr/linux/xauth
+path: "/freedevtools/tldr/linux/xauth/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xauth/"
 description: "Control X server authorizations with Xauth. Manage access, list entries, and extract authentication tokens. Free online tool, no registration required."
 category: linux

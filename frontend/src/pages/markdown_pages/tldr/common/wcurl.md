@@ -1,7 +1,7 @@
 ---
 title: "Download Files - wcurl Wrapper for Curl | Online Free DevTools by Hexmos"
 name: wcurl
-path: /freedevtools/tldr/common/wcurl
+path: "/freedevtools/tldr/common/wcurl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wcurl/"
 description: "Download files easily with wcurl, a simple curl wrapper. Retrieve web resources and save them locally. Free online tool, no registration required."
 category: common

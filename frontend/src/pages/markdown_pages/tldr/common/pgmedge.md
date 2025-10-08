@@ -1,7 +1,7 @@
 ---
 title: "PGM Edge Detection - Find Image Edges | Online Free DevTools by Hexmos"
 name: pgmedge
-path: /freedevtools/tldr/common/pgmedge
+path: "/freedevtools/tldr/common/pgmedge/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmedge/"
 description: "Detect image edges with PGM Edge Detection. Analyze grayscale image gradients and identify boundaries. Free online tool, no registration required."
 category: common

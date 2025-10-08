@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection Exploit - Detect SQL Flaws | Online Free DevTools by Hexmos"
 name: sqlmap
-path: /freedevtools/tldr/common/sqlmap
+path: "/freedevtools/tldr/common/sqlmap/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/sqlmap/"
 description: "Detect SQL injection flaws and vulnerabilities with SQLmap. Quickly exploit database vulnerabilities using this free online tool, no registration required."
 category: common

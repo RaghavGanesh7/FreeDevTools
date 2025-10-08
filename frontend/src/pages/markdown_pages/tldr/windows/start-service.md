@@ -1,7 +1,7 @@
 ---
 title: "Start Service - Control Windows Services | Online Free DevTools by Hexmos"
 name: start-service
-path: /freedevtools/tldr/windows/start-service
+path: "/freedevtools/tldr/windows/start-service/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/start-service/"
 description: "Control Windows Services with Start-Service. Easily manage and start stopped services using PowerShell. Free online tool, no registration required."
 category: windows

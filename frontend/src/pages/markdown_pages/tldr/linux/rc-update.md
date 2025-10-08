@@ -1,7 +1,7 @@
 ---
 title: "Control OpenRC Services - Manage Runlevels | Online Free DevTools by Hexmos"
 name: rc-update
-path: /freedevtools/tldr/linux/rc-update
+path: "/freedevtools/tldr/linux/rc-update/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/rc-update/"
 description: "Control OpenRC services and manage runlevels with rc-update. Add, delete, and list services for efficient system administration. Free online tool, no registration required."
 category: linux

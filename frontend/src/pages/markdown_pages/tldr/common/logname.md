@@ -1,7 +1,7 @@
 ---
 title: "Show User Login - Display User Name with Logname | Online Free DevTools by Hexmos"
 name: logname
-path: /freedevtools/tldr/common/logname
+path: "/freedevtools/tldr/common/logname/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/logname/"
 description: "Display user login name with Logname. Easily identify the currently logged-in user on Linux and macOS systems. Free online tool, no registration required."
 category: common

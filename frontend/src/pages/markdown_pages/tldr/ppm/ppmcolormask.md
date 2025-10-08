@@ -1,7 +1,7 @@
 ---
 title: "PPM Color Mask - Generate Mask from Color | Online Free DevTools by Hexmos"
 name: ppmcolormask
-path: /freedevtools/tldr/ppm/ppmcolormask
+path: "/freedevtools/tldr/ppm/ppmcolormask/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmcolormask/"
 description: "Generate color masks with PPM Color Mask. Easily extract regions of a specific color from PPM images. Free online tool, no registration required."
 category: common

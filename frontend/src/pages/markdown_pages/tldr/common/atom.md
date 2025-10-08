@@ -1,7 +1,7 @@
 ---
 title: "Edit Text - Control Files with Atom Editor | Online Free DevTools by Hexmos"
 name: atom
-path: /freedevtools/tldr/common/atom
+path: "/freedevtools/tldr/common/atom/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/atom/"
 description: "Edit text files quickly with Atom Editor, a versatile cross-platform text editor. Open files, create new documents, and customize your editing environment. Free online tool, no registration required."
 category: common

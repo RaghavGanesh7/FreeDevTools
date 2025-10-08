@@ -1,7 +1,7 @@
 ---
 title: "Unzstd - Decompress Zstandard Files | Online Free DevTools by Hexmos"
 name: unzstd
-path: /freedevtools/tldr/common/unzstd
+path: "/freedevtools/tldr/common/unzstd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unzstd/"
 description: "Decompress Zstandard files with Unzstd, an alias for the powerful Zstandard compression tool. Streamline your data workflows with this free online tool, no registration required."
 category: common

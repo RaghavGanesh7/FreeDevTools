@@ -1,7 +1,7 @@
 ---
 title: "Control Loop Execution - `done` Keyword | Online Free DevTools by Hexmos"
 name: done
-path: /freedevtools/tldr/common/done
+path: "/freedevtools/tldr/common/done/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/done/"
 description: "Control loop execution with the `done` keyword. Terminate `for`, `while`, `select`, and `until` loops precisely in shell scripts. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Azure Network - Manage Network Resources | Online Free DevTools by Hexmos"
 name: az-network
-path: /freedevtools/tldr/az/az-network
+path: "/freedevtools/tldr/az/az-network/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-network/"
 description: "Manage Azure Network resources with az-network. Create virtual networks, update NICs, and list usages efficiently. Free online tool, no registration required."
 category: common

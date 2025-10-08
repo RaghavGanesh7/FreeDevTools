@@ -1,7 +1,7 @@
 ---
 title: "Xdg-Open - Open Files and URLs | Online Free DevTools by Hexmos"
 name: xdg-open
-path: /freedevtools/tldr/linux/xdg-open
+path: "/freedevtools/tldr/linux/xdg-open/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xdg-open/"
 description: "Open files easily with Xdg-Open, a powerful URL opener for Linux. Launch documents, images, and web pages from the command line. Free online tool, no registration required."
 category: linux

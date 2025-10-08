@@ -1,7 +1,7 @@
 ---
 title: "Btrfs Scrub - Verify Filesystem Data Integrity | Online Free DevTools by Hexmos"
 name: btrfs-scrub
-path: /freedevtools/tldr/linux/btrfs-scrub
+path: "/freedevtools/tldr/linux/btrfs-scrub/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/btrfs-scrub/"
 description: "Verify filesystem integrity with Btrfs Scrub. Scan for and correct errors on Btrfs volumes for data protection. Free online tool, no registration required."
 category: linux

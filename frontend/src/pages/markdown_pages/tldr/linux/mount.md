@@ -1,7 +1,7 @@
 ---
 title: "Mount Filesystem - Access Filesystems | Online Free DevTools by Hexmos"
 name: mount
-path: /freedevtools/tldr/linux/mount
+path: "/freedevtools/tldr/linux/mount/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mount/"
 description: "Access filesystems instantly with the mount command. Manage devices, directories, and permissions with ease. Free online tool, no registration required."
 category: linux

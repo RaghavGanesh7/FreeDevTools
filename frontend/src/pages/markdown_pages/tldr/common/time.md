@@ -1,7 +1,7 @@
 ---
 title: "Time Command - Measure Execution Time | Online Free DevTools by Hexmos"
 name: time
-path: "/freedevtools/tldr/common/time"
+path: "/freedevtools/tldr/common/time/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/time/"
 description: "Measure execution time with the Time command, a powerful system resource monitor. Analyze command performance and optimize scripts. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Font Diff - Compare Font Differences with ftxdiff | Online Free DevTools by Hexmos"
 name: ftxdiff
-path: /freedevtools/tldr/osx/ftxdiff
+path: "/freedevtools/tldr/osx/ftxdiff/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/ftxdiff/"
 description: "Compare font differences instantly with ftxdiff. Analyze glyph variations and character set changes between font files on macOS. Free online tool, no registration required."
 category: osx

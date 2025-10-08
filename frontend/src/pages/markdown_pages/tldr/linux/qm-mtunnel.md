@@ -1,7 +1,7 @@
 ---
 title: "QM Mtunnel - Migrate VMs Quickly | Online Free DevTools by Hexmos"
 name: qm-mtunnel
-path: /freedevtools/tldr/linux/qm-mtunnel
+path: "/freedevtools/tldr/linux/qm-mtunnel/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-mtunnel/"
 description: "Migrate virtual machines quickly with QM Mtunnel. Transfer VM data efficiently across hosts and ensure seamless migration. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "GetFileInfo - Display File Information on macOS | Online Free DevTools by Hexmos"
 name: getfileinfo
-path: /freedevtools/tldr/osx/getfileinfo
+path: "/freedevtools/tldr/osx/getfileinfo/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/getfileinfo/"
 description: "Display file information with GetFileInfo on macOS. Retrieve creation date, modification date, and creator information using this command-line tool. Free online tool, no registration required."
 category: osx

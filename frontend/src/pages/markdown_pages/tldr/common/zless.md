@@ -1,7 +1,7 @@
 ---
 title: "View Compressed Files - zless | Online Free DevTools by Hexmos"
 name: zless
-path: /freedevtools/tldr/common/zless
+path: "/freedevtools/tldr/common/zless/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zless/"
 description: "View compressed files instantly with zless. Inspect gzipped or xz files without decompressing them. Free online tool, no registration required."
 category: common

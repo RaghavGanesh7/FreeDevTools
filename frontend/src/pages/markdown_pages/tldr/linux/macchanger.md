@@ -1,7 +1,7 @@
 ---
 title: "MAC Address Changer - Control Network Interface MAC | Online Free DevTools by Hexmos"
 name: macchanger
-path: /freedevtools/tldr/linux/macchanger
+path: "/freedevtools/tldr/linux/macchanger/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/macchanger/"
 description: "Control network interface MAC address with MAC Address Changer. Spoof MAC addresses and enhance network security. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Search Files - Find Files with MATE Search Tool | Online Free DevTools by Hexmos"
 name: mate-search-tool
-path: /freedevtools/tldr/linux/mate-search-tool
+path: "/freedevtools/tldr/linux/mate-search-tool/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mate-search-tool/"
 description: "Find files efficiently with MATE Search Tool. Locate documents and directories using name, regex, and other filters. Free online tool, no registration required."
 category: linux

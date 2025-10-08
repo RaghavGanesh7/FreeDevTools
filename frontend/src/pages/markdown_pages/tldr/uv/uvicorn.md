@@ -1,7 +1,7 @@
 ---
 title: "Uvicorn Server - Run Python ASGI Apps | Online Free DevTools by Hexmos"
 name: uvicorn
-path: /freedevtools/tldr/uv/uvicorn
+path: "/freedevtools/tldr/uv/uvicorn/"
 canonical: "https://hexmos.com/freedevtools/tldr/uv/uvicorn/"
 description: "Run asynchronous Python ASGI applications with Uvicorn Server. Deploy web apps, enable live reload, and configure worker processes. Free online tool, no registration required."
 category: common

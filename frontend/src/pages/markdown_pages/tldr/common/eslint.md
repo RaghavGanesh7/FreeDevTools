@@ -1,7 +1,7 @@
 ---
 title: "ESLint - Validate JavaScript and JSX | Online Free DevTools by Hexmos"
 name: eslint
-path: /freedevtools/tldr/common/eslint
+path: "/freedevtools/tldr/common/eslint/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/eslint/"
 description: "Validate JavaScript with ESLint. Identify and fix code style and formatting errors in your JavaScript and JSX code. Free online tool, no registration required."
 category: common

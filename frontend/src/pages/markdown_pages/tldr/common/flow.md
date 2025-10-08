@@ -1,7 +1,7 @@
 ---
 title: "Flow Type Checker - Validate JavaScript Code | Online Free DevTools by Hexmos"
 name: flow
-path: /freedevtools/tldr/common/flow
+path: "/freedevtools/tldr/common/flow/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flow/"
 description: "Validate JavaScript code with Flow Type Checker. Enhance code quality and catch errors early with static typing. Free online tool, no registration required."
 category: common

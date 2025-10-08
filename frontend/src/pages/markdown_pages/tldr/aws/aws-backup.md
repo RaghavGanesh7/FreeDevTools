@@ -1,7 +1,7 @@
 ---
 title: "AWS Backup - Control Cloud Data Backups | Online Free DevTools by Hexmos"
 name: aws-backup
-path: /freedevtools/tldr/aws/aws-backup
+path: "/freedevtools/tldr/aws/aws-backup/"
 canonical: "https://hexmos.com/freedevtools/tldr/aws/aws-backup/"
 description: "Control cloud data backups with AWS Backup. Schedule backups, manage recovery points, and protect your Amazon Web Services data. Free online tool, no registration required."
 category: common

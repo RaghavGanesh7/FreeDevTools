@@ -1,7 +1,7 @@
 ---
 title: "Popd Command - Manage Directory Stack | Online Free DevTools by Hexmos"
 name: popd
-path: /freedevtools/tldr/common/popd
+path: "/freedevtools/tldr/common/popd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/popd/"
 description: "Manage directory stack with popd command. Navigate file system efficiently by removing and changing directories using shell built-in features. Free online tool, no registration required."
 category: common

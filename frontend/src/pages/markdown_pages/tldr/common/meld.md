@@ -1,7 +1,7 @@
 ---
 title: "Compare Files - Meld Graphical Diff Tool | Online Free DevTools by Hexmos"
 name: meld
-path: /freedevtools/tldr/common/meld
+path: "/freedevtools/tldr/common/meld/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/meld/"
 description: "Compare files with Meld, a graphical diff and merge tool for developers. Visualize differences, resolve conflicts, and track changes. Free online tool, no registration required."
 category: common

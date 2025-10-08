@@ -1,7 +1,7 @@
 ---
 title: "Create Disk Images - Mount and Convert with Xmount | Online Free DevTools by Hexmos"
 name: xmount
-path: /freedevtools/tldr/linux/xmount
+path: "/freedevtools/tldr/linux/xmount/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/xmount/"
 description: "Create disk images with Xmount, convert between image formats like raw, DMG, EWF, and VHD. Efficient disk imaging tool for Linux. Free online tool, no registration required."
 category: linux

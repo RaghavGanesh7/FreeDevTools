@@ -1,7 +1,7 @@
 ---
 title: "Authenticate Kerberos - Get Tickets with kinit | Online Free DevTools by Hexmos"
 name: kinit
-path: /freedevtools/tldr/common/kinit
+path: "/freedevtools/tldr/common/kinit/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/kinit/"
 description: "Authenticate Kerberos principals with kinit. Obtain and renew tickets for users, services, and applications easily. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Scrcpy - Control Android Device on Desktop | Online Free DevTools by Hexmos"
 name: scrcpy
-path: /freedevtools/tldr/common/scrcpy
+path: "/freedevtools/tldr/common/scrcpy/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scrcpy/"
 description: "Control your Android device with Scrcpy. Mirror your screen and interact with your phone via desktop, using ADB for seamless connectivity. Free online tool, no registration required."
 category: common

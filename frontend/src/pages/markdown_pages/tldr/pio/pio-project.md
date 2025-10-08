@@ -1,7 +1,7 @@
 ---
 title: "PIO Project - Manage PlatformIO Projects | Online Free DevTools by Hexmos"
 name: pio-project
-path: /freedevtools/tldr/pio/pio-project
+path: "/freedevtools/tldr/pio/pio-project/"
 canonical: "https://hexmos.com/freedevtools/tldr/pio/pio-project/"
 description: "Manage PlatformIO projects with PIO Project. Initialize projects, configure boards, and customize project settings for seamless embedded development. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "lnav - Analyze Log Files | Online Free DevTools by Hexmos"
 name: lnav
-path: /freedevtools/tldr/linux/lnav
+path: "/freedevtools/tldr/linux/lnav/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/lnav/"
 description: "Analyze log files with lnav, an advanced log viewer for Linux. Quickly troubleshoot issues and identify patterns in your logs. Free online tool, no registration required."
 category: linux

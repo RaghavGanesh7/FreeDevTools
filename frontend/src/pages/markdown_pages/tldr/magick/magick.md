@@ -1,7 +1,7 @@
 ---
 title: "Magick - Convert Image Formats | Online Free DevTools by Hexmos"
 name: magick
-path: /freedevtools/tldr/magick/magick
+path: "/freedevtools/tldr/magick/magick/"
 canonical: "https://hexmos.com/freedevtools/tldr/magick/magick/"
 description: "Convert image formats with Magick. Resize, create GIFs, and generate patterns with this powerful command-line image manipulation tool. Free online tool, no registration required."
 category: common

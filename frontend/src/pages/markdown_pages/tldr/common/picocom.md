@@ -1,7 +1,7 @@
 ---
 title: "Picocom - Control Serial Ports | Online Free DevTools by Hexmos"
 name: picocom
-path: /freedevtools/tldr/common/picocom
+path: "/freedevtools/tldr/common/picocom/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/picocom/"
 description: "Control serial ports with Picocom. Connect to devices, configure baud rates, and map special characters for efficient serial communication. Free online tool, no registration required."
 category: common

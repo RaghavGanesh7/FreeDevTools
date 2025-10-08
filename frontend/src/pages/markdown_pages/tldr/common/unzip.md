@@ -1,7 +1,7 @@
 ---
 title: "Unzip Archive - Extract Files From Zip | Online Free DevTools by Hexmos"
 name: unzip
-path: /freedevtools/tldr/common/unzip
+path: "/freedevtools/tldr/common/unzip/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/unzip/"
 description: "Extract files from zip archives with Unzip command. Decompress and manage zipped files quickly and efficiently. Free online tool, no registration required."
 category: common

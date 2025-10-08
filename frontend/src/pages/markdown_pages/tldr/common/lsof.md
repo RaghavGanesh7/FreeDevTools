@@ -1,7 +1,7 @@
 ---
 title: "Lsof - List Open Files | Online Free DevTools by Hexmos"
 name: lsof
-path: /freedevtools/tldr/common/lsof
+path: "/freedevtools/tldr/common/lsof/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/lsof/"
 description: "List open files instantly with Lsof. Identify processes using files, ports, or users with ease. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Set-Location - Change Directory | Online Free DevTools by Hexmos"
 name: set-location
-path: /freedevtools/tldr/windows/set-location
+path: "/freedevtools/tldr/windows/set-location/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/set-location/"
 description: "Change current directory with Set-Location. Navigate file system paths, move between drives, and manage working directories in PowerShell. Free online tool, no registration required."
 category: windows

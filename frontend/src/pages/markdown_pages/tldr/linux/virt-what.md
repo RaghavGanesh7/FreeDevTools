@@ -1,7 +1,7 @@
 ---
 title: "Virt-What - Detect Virtual Machines | Online Free DevTools by Hexmos"
 name: virt-what
-path: /freedevtools/tldr/linux/virt-what
+path: "/freedevtools/tldr/linux/virt-what/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/virt-what/"
 description: "Detect virtual machines instantly with virt-what. Identify virtualization technologies and improve system security. Free online tool, no registration required."
 category: linux

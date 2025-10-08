@@ -1,7 +1,7 @@
 ---
 title: "Cotton - Validate Markdown Test Specifications | Online Free DevTools by Hexmos"
 name: cotton
-path: /freedevtools/tldr/common/cotton
+path: "/freedevtools/tldr/common/cotton/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cotton/"
 description: "Validate markdown test specifications with Cotton. Quickly run tests, check assertions, and automate documentation testing. Free online tool, no registration required."
 category: common

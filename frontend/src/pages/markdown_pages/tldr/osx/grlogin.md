@@ -1,7 +1,7 @@
 ---
 title: "Rlogin Control - Access Remote Systems | Online Free DevTools by Hexmos"
 name: grlogin
-path: /freedevtools/tldr/osx/grlogin
+path: "/freedevtools/tldr/osx/grlogin/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/grlogin/"
 description: "Control remote system access with Rlogin. Securely connect to remote machines, manage user sessions and execute commands remotely. Free online tool, no registration required."
 category: osx

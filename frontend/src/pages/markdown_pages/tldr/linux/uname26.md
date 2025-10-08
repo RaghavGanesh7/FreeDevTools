@@ -1,7 +1,7 @@
 ---
 title: "Uname26 Command - System Info Retrieval | Online Free DevTools by Hexmos"
 name: uname26
-path: /freedevtools/tldr/linux/uname26
+path: "/freedevtools/tldr/linux/uname26/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uname26/"
 description: "Retrieve system information quickly with the uname26 command.  Access kernel and system details efficiently. Free online tool, no registration required."
 category: linux

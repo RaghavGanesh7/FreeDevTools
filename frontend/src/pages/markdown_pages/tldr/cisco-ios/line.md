@@ -1,7 +1,7 @@
 ---
 title: "Cisco Line Control - Manage IOS Lines | Online Free DevTools by Hexmos"
 name: line
-path: "/freedevtools/tldr/cisco-ios/line"
+path: "/freedevtools/tldr/cisco-ios/line/"
 canonical: "https://hexmos.com/freedevtools/tldr/cisco-ios/line/"
 description: "Control Cisco IOS device lines with Line Control. Configure virtual terminal lines (VTY) for secure access and manage user sessions. Free online tool, no registration required."
 category: cisco-ios

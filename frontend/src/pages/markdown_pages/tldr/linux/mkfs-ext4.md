@@ -1,7 +1,7 @@
 ---
 title: "Create ext4 Filesystem - Format Partitions | Online Free DevTools by Hexmos"
 name: mkfs.ext4
-path: /freedevtools/tldr/linux/mkfs-ext4
+path: "/freedevtools/tldr/linux/mkfs-ext4/"
 canonical: "https://hexmos-com/freedevtools/tldr/linux/mkfs-ext4/"
 description: "Create ext4 filesystem with mkfs.ext4. Format partitions and manage volume labels easily with this Linux command. Free online tool, no registration required."
 category: linux

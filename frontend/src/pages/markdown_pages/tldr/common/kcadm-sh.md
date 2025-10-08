@@ -1,7 +1,7 @@
 ---
 title: "Keycloak Admin - Control Keycloak Server | Online Free DevTools by Hexmos"
 name: kcadm.sh
-path: /freedevtools/tldr/common/kcadm-sh
+path: "/freedevtools/tldr/common/kcadm-sh/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/kcadm-sh/"
 description: "Control Keycloak server administration with Keycloak Admin CLI. Manage users, realms, and configurations using the command line. Free online tool, no registration required."
 category: common

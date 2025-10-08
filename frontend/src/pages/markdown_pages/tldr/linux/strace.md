@@ -1,7 +1,7 @@
 ---
 title: "strace - Trace System Calls | Online Free DevTools by Hexmos"
 name: strace
-path: /freedevtools/tldr/linux/strace
+path: "/freedevtools/tldr/linux/strace/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/strace/"
 description: "Trace system calls with strace, a powerful debugging and troubleshooting command-line utility. Analyze process behavior and identify issues efficiently. Free online tool, no registration required."
 category: linux

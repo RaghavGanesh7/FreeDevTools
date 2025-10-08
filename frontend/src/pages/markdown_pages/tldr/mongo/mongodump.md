@@ -1,7 +1,7 @@
 ---
 title: "Create MongoDB Backups - mongodump | Online Free DevTools by Hexmos"
 name: mongodump
-path: /freedevtools/tldr/mongo/mongodump
+path: "/freedevtools/tldr/mongo/mongodump/"
 canonical: "https://hexmos.com/freedevtools/tldr/mongo/mongodump/"
 description: "Create MongoDB backups with mongodump. Export entire databases or specific collections for safekeeping. Free online tool, no registration required."
 category: common

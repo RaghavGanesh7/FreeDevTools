@@ -1,7 +1,7 @@
 ---
 title: "Monop - Inspect .NET Assemblies | Online Free DevTools by Hexmos"
 name: monop
-path: /freedevtools/tldr/common/monop
+path: "/freedevtools/tldr/common/monop/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/monop/"
 description: "Inspect .NET assemblies with Monop. Analyze types, methods, and dependencies of .NET assemblies. Free online tool, no registration required."
 category: common

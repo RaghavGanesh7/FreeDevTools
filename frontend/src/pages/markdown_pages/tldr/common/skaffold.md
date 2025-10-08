@@ -1,7 +1,7 @@
 ---
 title: "Skaffold - Develop Kubernetes Applications | Online Free DevTools by Hexmos"
 name: skaffold
-path: /freedevtools/tldr/common/skaffold
+path: "/freedevtools/tldr/common/skaffold/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/skaffold/"
 description: "Develop Kubernetes applications easily with Skaffold. Build, deploy, and manage Kubernetes apps continuously with automatic code updates. Free online tool, no registration required."
 category: common

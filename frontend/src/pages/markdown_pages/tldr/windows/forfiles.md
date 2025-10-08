@@ -1,7 +1,7 @@
 ---
 title: "Forfiles - Control Files with Windows Command | Online Free DevTools by Hexmos"
 name: forfiles
-path: /freedevtools/tldr/windows/forfiles
+path: "/freedevtools/tldr/windows/forfiles/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/forfiles/"
 description: "Control files effectively with Forfiles, the Windows command-line utility. Automate file processing and batch operations. Free online tool, no registration required."
 category: windows

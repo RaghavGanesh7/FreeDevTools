@@ -1,7 +1,7 @@
 ---
 title: "Convert Container - Create Template | Online Free DevTools by Hexmos"
 name: pct-template
-path: /freedevtools/tldr/linux/pct-template
+path: "/freedevtools/tldr/linux/pct-template/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pct-template/"
 description: "Create container templates with pct-template. Easily convert existing containers into reusable templates for rapid deployment. Free online tool, no registration required."
 category: linux

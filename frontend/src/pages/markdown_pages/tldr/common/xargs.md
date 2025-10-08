@@ -1,7 +1,7 @@
 ---
 title: "Xargs - Control Command Arguments | Online Free DevTools by Hexmos"
 name: xargs
-path: /freedevtools/tldr/common/xargs
+path: "/freedevtools/tldr/common/xargs/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xargs/"
 description: "Control command arguments with Xargs. Execute commands with piped input, process files in parallel, and manage command-line workflows. Free online tool, no registration required."
 category: common

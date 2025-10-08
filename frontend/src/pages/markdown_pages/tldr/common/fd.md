@@ -1,7 +1,7 @@
 ---
 title: "Find Files - Search Files Quickly with fd | Online Free DevTools by Hexmos"
 name: fd
-path: /freedevtools/tldr/common/fd
+path: "/freedevtools/tldr/common/fd/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/fd/"
 description: "Search files quickly with fd. Find files by name, extension, or directory recursively. A faster and easier alternative to find. Free online tool, no registration required."
 category: common

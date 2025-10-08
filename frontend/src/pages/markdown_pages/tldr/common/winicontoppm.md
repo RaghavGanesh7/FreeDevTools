@@ -1,7 +1,7 @@
 ---
 title: "Convert WinIcon to PPM - Format Icon Files | Online Free DevTools by Hexmos"
 name: winicontoppm
-path: /freedevtools/tldr/common/winicontoppm
+path: "/freedevtools/tldr/common/winicontoppm/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/winicontoppm/"
 description: "Convert WinIcon files to PPM format with Winicontoppm. Transform Windows icons to portable pixmap for cross-platform compatibility. Free online tool, no registration required."
 category: common

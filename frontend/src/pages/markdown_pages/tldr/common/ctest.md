@@ -1,7 +1,7 @@
 ---
 title: "CTest - Generate Test Reports | Online Free DevTools by Hexmos"
 name: ctest
-path: /freedevtools/tldr/common/ctest
+path: "/freedevtools/tldr/common/ctest/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ctest/"
 description: "Generate test reports with CTest. Automate software testing, manage test suites, and analyze results using CMake's test driver. Free online tool, no registration required."
 category: common

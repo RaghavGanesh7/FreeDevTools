@@ -1,7 +1,7 @@
 ---
 title: "Generate Greyscale Map - pgmramp | Online Free DevTools by Hexmos"
 name: pgmramp
-path: /freedevtools/tldr/common/pgmramp
+path: "/freedevtools/tldr/common/pgmramp/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pgmramp/"
 description: "Generate a greyscale image map with pgmramp. Create various greyscale gradients and patterns using command-line options. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "AppArmor Parser - Manage Security Profiles | Online Free DevTools by Hexmos"
 name: apparmor_parser
-path: /freedevtools/tldr/linux/apparmor_parser
+path: "/freedevtools/tldr/linux/apparmor_parser/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/apparmor_parser/"
 description: "Manage security profiles with AppArmor Parser. Control profile loading, replacement, and removal for enhanced system security on Linux. Free online tool, no registration required."
 category: linux

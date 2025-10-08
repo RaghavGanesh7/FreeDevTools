@@ -1,7 +1,7 @@
 ---
 title: "Git Update Ref - Create Git Refs | Online Free DevTools by Hexmos"
 name: git-update-ref
-path: /freedevtools/tldr/git/git-update-ref
+path: "/freedevtools/tldr/git/git-update-ref/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-update-ref/"
 description: "Create Git refs easily with Git Update Ref. Manage Git branches and tags, delete refs, and update Git repository references. Free online tool, no registration required."
 category: common

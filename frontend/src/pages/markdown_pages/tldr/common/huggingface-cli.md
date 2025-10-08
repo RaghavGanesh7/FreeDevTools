@@ -1,7 +1,7 @@
 ---
 title: "Control Hugging Face Hub - Manage Models and Data | Online Free DevTools by Hexmos"
 name: huggingface-cli
-path: /freedevtools/tldr/common/huggingface-cli
+path: "/freedevtools/tldr/common/huggingface-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/huggingface-cli/"
 description: "Control Hugging Face Hub easily with huggingface-cli. Manage models, datasets, and login credentials effortlessly using command line. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Haxelib - Manage Haxe Libraries | Online Free DevTools by Hexmos"
 name: haxelib
-path: /freedevtools/tldr/common/haxelib
+path: "/freedevtools/tldr/common/haxelib/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/haxelib/"
 description: "Manage Haxe libraries easily with Haxelib. Install, upgrade, and search for Haxe packages. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Todo.sh - Manage Todo Lists | Online Free DevTools by Hexmos"
 name: todo.sh
-path: /freedevtools/tldr/common/todo-sh
+path: "/freedevtools/tldr/common/todo-sh/"
 canonical: "https://hexmos-com/freedevtools/tldr/common/todo-sh/"
 description: "Manage your todo lists efficiently with Todo.sh. Add, remove, and prioritize tasks using a simple shell script. Free online tool, no registration required."
 category: common

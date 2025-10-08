@@ -1,7 +1,7 @@
 ---
 title: "Godot Game Engine - Create 2D/3D Games | Online Free DevTools by Hexmos"
 name: godot
-path: /freedevtools/tldr/common/godot
+path: "/freedevtools/tldr/common/godot/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/godot/"
 description: "Create games with Godot game engine. Build 2D and 3D games, export for multiple platforms, and use GDScript. Free online tool, no registration required."
 category: common

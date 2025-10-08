@@ -1,7 +1,7 @@
 ---
 title: "Logwatch - Summarize Logs | Online Free DevTools by Hexmos"
 name: logwatch
-path: /freedevtools/tldr/linux/logwatch
+path: "/freedevtools/tldr/linux/logwatch/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/logwatch/"
 description: "Summarize logs efficiently with Logwatch. Analyze system logs and generate concise reports for security auditing and troubleshooting. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to PCX - Image Format Conversion | Online Free DevTools by Hexmos"
 name: ppmtopcx
-path: /freedevtools/tldr/ppm/ppmtopcx
+path: "/freedevtools/tldr/ppm/ppmtopcx/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtopcx/"
 description: "Convert PPM images to PCX files using ppmtopcx for seamless image format conversion. Control color depth and ensure compatibility. Free online tool, no registration required."
 category: common

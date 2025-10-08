@@ -1,7 +1,7 @@
 ---
 title: "TSV Filter - Control TSV Data | Online Free DevTools by Hexmos"
 name: tsv-filter
-path: /freedevtools/tldr/common/tsv-filter
+path: "/freedevtools/tldr/common/tsv-filter/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tsv-filter/"
 description: "Filter TSV data easily with TSV Filter. Control and manipulate TSV files based on field values. Free online tool, no registration required."
 category: common

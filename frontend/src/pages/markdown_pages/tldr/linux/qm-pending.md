@@ -1,7 +1,7 @@
 ---
 title: "QM Pending - Get VM Configuration | Online Free DevTools by Hexmos"
 name: qm-pending
-path: /freedevtools/tldr/linux/qm-pending
+path: "/freedevtools/tldr/linux/qm-pending/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/qm-pending/"
 description: "Get virtual machine configuration with QM Pending. Display current and pending values to manage VMs efficiently. Free online tool, no registration required."
 category: linux

@@ -1,7 +1,7 @@
 ---
 title: "Azcopy - Upload Files to Azure Cloud Storage | Online Free DevTools by Hexmos"
 name: azcopy
-path: /freedevtools/tldr/windows/azcopy
+path: "/freedevtools/tldr/windows/azcopy/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/azcopy/"
 description: "Upload files instantly with Azcopy, the Azure cloud storage transfer tool. Securely transfer data to Azure Blob storage, files, and disks. Free online tool, no registration required."
 category: windows

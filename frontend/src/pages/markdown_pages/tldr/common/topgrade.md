@@ -1,7 +1,7 @@
 ---
 title: "Topgrade - Update System Applications | Online Free DevTools by Hexmos"
 name: topgrade
-path: /freedevtools/tldr/common/topgrade
+path: "/freedevtools/tldr/common/topgrade/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/topgrade/"
 description: "Update system applications easily with Topgrade. Streamline software updates and system maintenance across multiple platforms. Free online tool, no registration required."
 category: common

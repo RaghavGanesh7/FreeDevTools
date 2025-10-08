@@ -1,7 +1,7 @@
 ---
 title: "iostat Command - Monitor Disk & CPU | Online Free DevTools by Hexmos"
 name: iostat
-path: /freedevtools/tldr/linux/iostat
+path: "/freedevtools/tldr/linux/iostat/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/iostat/"
 description: "Monitor disk and CPU performance with the iostat command.  View detailed statistics, including I/O operations and CPU usage. Free online tool, no registration required."
 category: linux

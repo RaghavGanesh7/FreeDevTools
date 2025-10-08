@@ -1,7 +1,7 @@
 ---
 title: "Typeset - Alias Command Declaration | Online Free DevTools by Hexmos"
 name: typeset
-path: /freedevtools/tldr/common/typeset
+path: "/freedevtools/tldr/common/typeset/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/typeset/"
 description: "Declare variables easily with Typeset, an alias for the declare command. Define variable attributes and data types with this command. Free online tool, no registration required."
 category: common

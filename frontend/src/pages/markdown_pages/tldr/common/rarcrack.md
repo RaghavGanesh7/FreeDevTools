@@ -1,7 +1,7 @@
 ---
 title: "RAR Password Cracker - Recover RAR Passwords | Online Free DevTools by Hexmos"
 name: rarcrack
-path: /freedevtools/tldr/common/rarcrack
+path: "/freedevtools/tldr/common/rarcrack/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/rarcrack/"
 description: "Crack RAR passwords instantly with Rarcrack. Recover forgotten RAR, Zip, and 7z archive passwords using brute-force techniques. Free online tool, no registration required."
 category: common

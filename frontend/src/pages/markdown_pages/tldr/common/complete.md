@@ -1,7 +1,7 @@
 ---
 title: "Complete - Autocomplete Shell Commands | Online Free DevTools by Hexmos"
 name: complete
-path: /freedevtools/tldr/common/complete
+path: "/freedevtools/tldr/common/complete/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/complete/"
 description: "Autocomplete shell commands with Complete. Configure command completion in Bash and improve your command-line efficiency. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Goenv Manager - Control Go Versions | Online Free DevTools by Hexmos"
 name: goenv
-path: /freedevtools/tldr/common/goenv
+path: "/freedevtools/tldr/common/goenv/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/goenv/"
 description: "Control Golang versions with Goenv Manager. Install, uninstall, and switch between Go versions effortlessly. Free online tool, no registration required."
 category: common

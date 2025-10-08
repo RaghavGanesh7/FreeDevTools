@@ -1,7 +1,7 @@
 ---
 title: "SCIM Spreadsheet - Calculate Data in Terminal | Online Free DevTools by Hexmos"
 name: scim
-path: /freedevtools/tldr/common/scim
+path: "/freedevtools/tldr/common/scim/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/scim/"
 description: "Calculate data in terminal with SCIM, a curses-based spreadsheet calculator. Edit cells, align content, and perform calculations effortlessly. Free online tool, no registration required."
 category: common

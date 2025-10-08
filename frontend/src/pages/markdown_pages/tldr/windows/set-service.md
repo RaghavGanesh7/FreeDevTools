@@ -1,7 +1,7 @@
 ---
 title: "Set-Service - Control Windows Services | Online Free DevTools by Hexmos"
 name: set-service
-path: /freedevtools/tldr/windows/set-service
+path: "/freedevtools/tldr/windows/set-service/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/set-service/"
 description: "Control Windows services with Set-Service. Modify service properties like startup type and description using PowerShell. Free online tool, no registration required."
 category: windows

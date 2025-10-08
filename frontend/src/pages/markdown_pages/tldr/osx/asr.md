@@ -1,7 +1,7 @@
 ---
 title: "Restore Disk Image - Copy Volume on OSX | Online Free DevTools by Hexmos"
 name: asr
-path: /freedevtools/tldr/osx/asr
+path: "/freedevtools/tldr/osx/asr/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/asr/"
 description: "Restore disk images with ASR on macOS. Copy volumes, erase disks, and clone partitions quickly using command-line. Free online tool, no registration required."
 category: osx

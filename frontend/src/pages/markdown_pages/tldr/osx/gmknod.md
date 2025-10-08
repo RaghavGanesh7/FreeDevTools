@@ -1,7 +1,7 @@
 ---
 title: "Create File Node - gmknod Command | Online Free DevTools by Hexmos"
 name: gmknod
-path: /freedevtools/tldr/osx/gmknod
+path: "/freedevtools/tldr/osx/gmknod/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gmknod/"
 description: "Create file nodes with gmknod on macOS. Manage device files and special files. Free online tool, no registration required. Simplify system administration."
 category: osx

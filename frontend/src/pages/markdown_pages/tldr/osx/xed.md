@@ -1,7 +1,7 @@
 ---
 title: "Xcode Editor - Open Files for Editing | Online Free DevTools by Hexmos"
 name: xed
-path: /freedevtools/tldr/osx/xed
+path: "/freedevtools/tldr/osx/xed/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/xed/"
 description: "Open files for editing with Xcode Editor. Quickly launch and modify code files on your macOS system using the command line. Free online tool, no registration required."
 category: osx

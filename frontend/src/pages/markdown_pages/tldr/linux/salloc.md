@@ -1,7 +1,7 @@
 ---
 title: "Salloc - Allocate Nodes | Online Free DevTools by Hexmos"
 name: salloc
-path: /freedevtools/tldr/linux/salloc
+path: "/freedevtools/tldr/linux/salloc/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/salloc/"
 description: "Allocate nodes on a Linux cluster with Salloc. Manage resources and execute commands on allocated nodes seamlessly. Free online tool, no registration required."
 category: linux

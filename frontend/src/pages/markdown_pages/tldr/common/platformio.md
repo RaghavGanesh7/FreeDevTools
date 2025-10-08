@@ -1,7 +1,7 @@
 ---
 title: "PlatformIO - Build Embedded Projects | Online Free DevTools by Hexmos"
 name: platformio
-path: /freedevtools/tldr/common/platformio
+path: "/freedevtools/tldr/common/platformio/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/platformio/"
 description: "Build embedded system projects with PlatformIO. Easily manage libraries, compile code, and upload firmware to various boards. Free online tool, no registration required."
 category: common

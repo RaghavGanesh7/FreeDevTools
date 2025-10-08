@@ -1,7 +1,7 @@
 ---
 title: "Download Accelerator - Accelerate Downloads with Axel | Online Free DevTools by Hexmos"
 name: axel
-path: /freedevtools/tldr/common/axel
+path: "/freedevtools/tldr/common/axel/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/axel/"
 description: "Accelerate file downloads with Axel Download Accelerator. Download files quickly and efficiently via HTTP, HTTPS, and FTP. Free online tool, no registration required."
 category: common

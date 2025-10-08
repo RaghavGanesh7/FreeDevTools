@@ -1,7 +1,7 @@
 ---
 title: "Pi-hole Manager - Control Ad-Blocking DNS | Online Free DevTools by Hexmos"
 name: pihole
-path: /freedevtools/tldr/linux/pihole
+path: "/freedevtools/tldr/linux/pihole/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pihole/"
 description: "Control ad-blocking DNS server with Pi-hole Manager. Update lists, flush cache, and manage domains. Free online tool, no registration required."
 category: linux

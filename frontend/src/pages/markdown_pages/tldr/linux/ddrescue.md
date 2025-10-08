@@ -1,7 +1,7 @@
 ---
 title: "Data Recovery with ddrescue - Recover Damaged Devices | Online Free DevTools by Hexmos"
 name: ddrescue
-path: /freedevtools/tldr/linux/ddrescue
+path: "/freedevtools/tldr/linux/ddrescue/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ddrescue/"
 description: "Recover data with ddrescue, a powerful command-line data recovery tool for damaged block devices.  Clone disks, create images, and manage recovery processes efficiently. Free online tool, no registration required."
 category: linux

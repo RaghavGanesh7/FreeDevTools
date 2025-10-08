@@ -1,7 +1,7 @@
 ---
 title: "AFConvert - Convert AFF Files | Online Free DevTools by Hexmos"
 name: afconvert
-path: /freedevtools/tldr/common/afconvert
+path: "/freedevtools/tldr/common/afconvert/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/afconvert/"
 description: "Convert AFF files with AFConvert. Effortlessly transform audio and raw file formats using command-line interface. Free online tool, no registration required."
 category: common

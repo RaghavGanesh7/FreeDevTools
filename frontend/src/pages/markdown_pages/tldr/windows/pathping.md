@@ -1,7 +1,7 @@
 ---
 title: "Trace Route - Analyze Network Paths with Pathping | Online Free DevTools by Hexmos"
 name: pathping
-path: /freedevtools/tldr/windows/pathping
+path: "/freedevtools/tldr/windows/pathping/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pathping/"
 description: "Analyze network paths with Pathping. Troubleshoot network latency and identify problematic hops with this powerful command-line tool. Free online tool, no registration required."
 category: windows

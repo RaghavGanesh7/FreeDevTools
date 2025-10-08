@@ -1,7 +1,7 @@
 ---
 title: "Entr - Control File Change Actions | Online Free DevTools by Hexmos"
 name: entr
-path: /freedevtools/tldr/common/entr
+path: "/freedevtools/tldr/common/entr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/entr/"
 description: "Control actions on file changes with Entr. Execute commands automatically when files are modified. Free online tool, no registration required."
 category: common

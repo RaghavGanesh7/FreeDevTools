@@ -1,7 +1,7 @@
 ---
 title: "Convert PPM to JPEG - Image Conversion | Online Free DevTools by Hexmos"
 name: ppmtojpeg
-path: /freedevtools/tldr/ppm/ppmtojpeg
+path: "/freedevtools/tldr/ppm/ppmtojpeg/"
 canonical: "https://hexmos.com/freedevtools/tldr/ppm/ppmtojpeg/"
 description: "Convert PPM image files to JPEG with ppmtojpeg. Optimize images for web using this simple command-line tool. Free online tool, no registration required."
 category: common

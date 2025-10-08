@@ -1,7 +1,7 @@
 ---
 title: "Coreautha - Control Local Authentication | Online Free DevTools by Hexmos"
 name: coreautha
-path: /freedevtools/tldr/osx/coreautha
+path: "/freedevtools/tldr/osx/coreautha/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/coreautha/"
 description: "Control local authentication with Coreautha. Manage authentication prompts and secure user access on macOS systems. Free online tool, no registration required."
 category: osx

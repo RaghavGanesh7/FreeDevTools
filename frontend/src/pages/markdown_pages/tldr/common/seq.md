@@ -1,7 +1,7 @@
 ---
 title: "Sequence Generator - Output Number Sequences | Online Free DevTools by Hexmos"
 name: seq
-path: /freedevtools/tldr/common/seq
+path: "/freedevtools/tldr/common/seq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/seq/"
 description: "Generate number sequences with seq. Create custom number lists, format output, and control spacing. Free online tool, no registration required."
 category: common

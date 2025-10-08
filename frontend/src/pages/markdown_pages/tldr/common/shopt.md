@@ -1,7 +1,7 @@
 ---
 title: "Shopt - Manage Bash Shell Options | Online Free DevTools by Hexmos"
 name: shopt
-path: /freedevtools/tldr/common/shopt
+path: "/freedevtools/tldr/common/shopt/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shopt/"
 description: "Manage Bash shell options with Shopt. Configure shell behavior and customize your environment using simple commands. Free online tool, no registration required."
 category: common

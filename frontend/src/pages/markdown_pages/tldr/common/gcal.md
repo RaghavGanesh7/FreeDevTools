@@ -1,7 +1,7 @@
 ---
 title: "Calendar Display - View Calendar with gcal | Online Free DevTools by Hexmos"
 name: gcal
-path: /freedevtools/tldr/common/gcal
+path: "/freedevtools/tldr/common/gcal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gcal/"
 description: "Display Calendar information with gcal command. Quickly view current or specific months and years. Free online tool, no registration required."
 category: common

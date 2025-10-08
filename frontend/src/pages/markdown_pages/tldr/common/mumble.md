@@ -1,7 +1,7 @@
 ---
 title: "Control Mumble - Low Latency Voice Chat | Online Free DevTools by Hexmos"
 name: mumble
-path: /freedevtools/tldr/common/mumble
+path: "/freedevtools/tldr/common/mumble/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mumble/"
 description: "Control voice chat with Mumble. Connect to servers, mute audio, and configure settings via the command line. Free online tool, no registration required."
 category: common

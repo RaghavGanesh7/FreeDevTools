@@ -1,7 +1,7 @@
 ---
 title: "Brew Install - Install Packages on macOS | Online Free DevTools by Hexmos"
 name: brew-install
-path: /freedevtools/tldr/brew/brew-install
+path: "/freedevtools/tldr/brew/brew-install/"
 canonical: "https://hexmos.com/freedevtools/tldr/brew/brew-install/"
 description: "Install packages with Brew Install on macOS. Effortlessly manage software dependencies and install applications using command-line interface. Free online tool, no registration required."
 category: common

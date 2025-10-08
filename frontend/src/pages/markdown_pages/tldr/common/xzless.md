@@ -1,7 +1,7 @@
 ---
 title: "View XZ Compressed Files - Display Content | Online Free DevTools by Hexmos"
 name: xzless
-path: /freedevtools/tldr/common/xzless
+path: "/freedevtools/tldr/common/xzless/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/xzless/"
 description: "View XZ compressed files easily with xzless. Display content from xz and lzma archives using a command-line pager. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Gentoo with eselect - Control System Configurations | Online Free DevTools by Hexmos"
 name: eselect
-path: /freedevtools/tldr/linux/eselect
+path: "/freedevtools/tldr/linux/eselect/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/eselect/"
 description: "Control Gentoo system configurations with eselect, a versatile command-line tool for managing various modules.  Easily manage packages and system settings. Free online tool, no registration required."
 category: linux

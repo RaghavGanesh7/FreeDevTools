@@ -1,7 +1,7 @@
 ---
 title: "PW-Record - Record Audio Streams | Online Free DevTools by Hexmos"
 name: pw-record
-path: /freedevtools/tldr/linux/pw-record
+path: "/freedevtools/tldr/linux/pw-record/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pw-record/"
 description: "Record audio streams effortlessly with PW-Record. Capture audio from various sources and save recordings with this command-line tool. Free online tool, no registration required."
 category: linux

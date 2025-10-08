@@ -1,7 +1,7 @@
 ---
 title: "Display Git Commits - Find Author Commits | Online Free DevTools by Hexmos"
 name: git-contrib
-path: /freedevtools/tldr/git/git-contrib
+path: "/freedevtools/tldr/git/git-contrib/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-contrib/"
 description: "Display Git commits easily with git-contrib to find author contributions. Analyze code history and track changes by author. Free online tool, no registration required."
 category: common

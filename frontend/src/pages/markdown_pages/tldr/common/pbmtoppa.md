@@ -1,7 +1,7 @@
 ---
 title: "Convert PBM to PPA - Generate HP Printer Files | Online Free DevTools by Hexmos"
 name: pbmtoppa
-path: /freedevtools/tldr/common/pbmtoppa
+path: "/freedevtools/tldr/common/pbmtoppa/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pbmtoppa/"
 description: "Convert PBM images to PPA files with pbmtoppa. Generate printer-ready files for HP printers using this command-line tool. Free online tool, no registration required."
 category: common

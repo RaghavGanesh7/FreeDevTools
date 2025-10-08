@@ -1,7 +1,7 @@
 ---
 title: "Dunst Control - Manage Desktop Notifications | Online Free DevTools by Hexmos"
 name: dunstctl
-path: /freedevtools/tldr/common/dunstctl
+path: "/freedevtools/tldr/common/dunstctl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dunstctl/"
 description: "Control Dunst notifications with Dunstctl. Pause, close, and manage your desktop notifications easily using the command line. Free online tool, no registration required."
 category: common

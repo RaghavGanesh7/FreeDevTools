@@ -1,7 +1,7 @@
 ---
 title: "Remove AppArmor Profiles - Manage Linux Security | Online Free DevTools by Hexmos"
 name: aa-remove-unknown
-path: /freedevtools/tldr/linux/aa-remove-unknown
+path: "/freedevtools/tldr/linux/aa-remove-unknown/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/aa-remove-unknown/"
 description: "Remove AppArmor profiles safely with aa-remove-unknown. Secure your Linux system by cleaning up unused profiles. Free online tool, no registration required."
 category: linux

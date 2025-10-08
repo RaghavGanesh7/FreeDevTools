@@ -1,7 +1,7 @@
 ---
 title: "Checkov - Validate Infrastructure as Code | Online Free DevTools by Hexmos"
 name: checkov
-path: /freedevtools/tldr/common/checkov
+path: "/freedevtools/tldr/common/checkov/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/checkov/"
 description: "Validate infrastructure as code with Checkov, a powerful static analysis tool. Detect misconfigurations and security vulnerabilities in your IaC. Free online tool, no registration required."
 category: common

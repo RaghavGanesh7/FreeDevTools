@@ -1,7 +1,7 @@
 ---
 title: "Find Duplicate Files - Deduplicate Files with jdupes | Online Free DevTools by Hexmos"
 name: jdupes
-path: /freedevtools/tldr/common/jdupes
+path: "/freedevtools/tldr/common/jdupes/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jdupes/"
 description: "Deduplicate files with jdupes, an enhanced duplicate file finder. Quickly identify and remove duplicate files to free up disk space. Free online tool, no registration required."
 category: common

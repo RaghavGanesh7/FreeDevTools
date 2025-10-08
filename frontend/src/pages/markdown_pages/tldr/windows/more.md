@@ -1,7 +1,7 @@
 ---
 title: "Display Paged Output - Control Text Output with More | Online Free DevTools by Hexmos"
 name: more
-path: /freedevtools/tldr/windows/more
+path: "/freedevtools/tldr/windows/more/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/more/"
 description: "Control paged output with More. Display content from files or stdin and format text output. Free online tool, no registration required."
 category: windows

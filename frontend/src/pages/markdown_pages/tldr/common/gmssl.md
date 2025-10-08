@@ -1,7 +1,7 @@
 ---
 title: "Generate GmSSL Crypto - SM2, SM3, SM4 | Online Free DevTools by Hexmos"
 name: gmssl
-path: /freedevtools/tldr/common/gmssl
+path: "/freedevtools/tldr/common/gmssl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/gmssl/"
 description: "Generate GmSSL crypto with SM2, SM3, SM4. Secure your data using Chinese national cryptographic algorithms, online and free! Free online tool, no registration required."
 category: common

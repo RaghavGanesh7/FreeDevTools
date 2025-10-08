@@ -1,7 +1,7 @@
 ---
 title: "Create Docker Machines - Manage Containers | Online Free DevTools by Hexmos"
 name: docker-machine
-path: /freedevtools/tldr/docker/docker-machine
+path: "/freedevtools/tldr/docker/docker-machine/"
 canonical: "https://hexmos.com/freedevtools/tldr/docker/docker-machine/"
 description: "Create Docker machines effortlessly with Docker-Machine. Quickly manage containers on virtual hosts and orchestrate deployments. Free online tool, no registration required."
 category: common

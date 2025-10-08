@@ -1,7 +1,7 @@
 ---
 title: "Khal Calendar - Schedule Events with Command Line | Online Free DevTools by Hexmos"
 name: khal
-path: /freedevtools/tldr/common/khal
+path: "/freedevtools/tldr/common/khal/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/khal/"
 description: "Schedule events with Khal, a powerful command-line calendar. Manage appointments, lists, and calendars seamlessly from your terminal. Free online tool, no registration required."
 category: common

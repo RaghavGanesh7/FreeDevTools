@@ -1,7 +1,7 @@
 ---
 title: "Generate UUIDs - UUID Generator Command | Online Free DevTools by Hexmos"
 name: uuidd
-path: /freedevtools/tldr/linux/uuidd
+path: "/freedevtools/tldr/linux/uuidd/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/uuidd/"
 description: "Generate UUIDs with the uuidd command-line tool.  Create random or time-based UUIDs easily and efficiently. Free online tool, no registration required."
 category: linux

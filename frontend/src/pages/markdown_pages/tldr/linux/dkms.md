@@ -1,7 +1,7 @@
 ---
 title: "DKMS - Build Kernel Modules Dynamically | Online Free DevTools by Hexmos"
 name: dkms
-path: /freedevtools/tldr/linux/dkms
+path: "/freedevtools/tldr/linux/dkms/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/dkms/"
 description: "Build kernel modules dynamically with DKMS. Manage kernel module versions and rebuild modules. Free online tool, no registration required."
 category: linux

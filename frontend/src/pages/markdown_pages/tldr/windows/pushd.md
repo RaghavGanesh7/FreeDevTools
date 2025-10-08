@@ -1,7 +1,7 @@
 ---
 title: "Manage Directory Stack - Control Directory Changes | Online Free DevTools by Hexmos"
 name: pushd
-path: /freedevtools/tldr/windows/pushd
+path: "/freedevtools/tldr/windows/pushd/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/pushd/"
 description: "Control directory changes with pushd, a command to manage directory stacks. Quickly switch and track directories in command line. Free online tool, no registration required."
 category: windows

@@ -1,7 +1,7 @@
 ---
 title: "Cargo Uninstall - Remove Rust Packages | Online Free DevTools by Hexmos"
 name: cargo-uninstall
-path: /freedevtools/tldr/cargo/cargo-uninstall
+path: "/freedevtools/tldr/cargo/cargo-uninstall/"
 canonical: "https://hexmos.com/freedevtools/tldr/cargo/cargo-uninstall/"
 description: "Uninstall Rust packages efficiently with Cargo Uninstall. Manage your Rust toolchain by removing globally installed binaries. Free online tool, no registration required."
 category: common

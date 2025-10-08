@@ -1,7 +1,7 @@
 ---
 title: "Truffle - Develop Ethereum Smart Contracts | Online Free DevTools by Hexmos"
 name: truffle
-path: /freedevtools/tldr/common/truffle
+path: "/freedevtools/tldr/common/truffle/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/truffle/"
 description: "Develop blockchain smart contracts with Truffle. Compile, test, and deploy contracts on the Ethereum blockchain with ease. Free online tool, no registration required."
 category: common

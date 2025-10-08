@@ -1,7 +1,7 @@
 ---
 title: "Multipass - Manage Ubuntu VMs | Online Free DevTools by Hexmos"
 name: multipass
-path: /freedevtools/tldr/common/multipass
+path: "/freedevtools/tldr/common/multipass/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/multipass/"
 description: "Manage Ubuntu virtual machines easily with Multipass. Create, start, and delete VMs on your local machine using native hypervisors. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Flatpak Mask - Control Updates with Flatpak | Online Free DevTools by Hexmos"
 name: flatpak-mask
-path: /freedevtools/tldr/linux/flatpak-mask
+path: "/freedevtools/tldr/linux/flatpak-mask/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/flatpak-mask/"
 description: "Control Flatpak updates easily with Flatpak Mask. Manage application updates and prevent automatic installations using simple commands. Free online tool, no registration required."
 category: linux

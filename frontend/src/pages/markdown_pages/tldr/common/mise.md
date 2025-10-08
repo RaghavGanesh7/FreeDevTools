@@ -1,7 +1,7 @@
 ---
 title: "Runtime Manager - Control Language Versions with Mise | Online Free DevTools by Hexmos"
 name: mise
-path: /freedevtools/tldr/common/mise
+path: "/freedevtools/tldr/common/mise/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/mise/"
 description: "Control language runtime versions with Mise. Install, manage, and switch between Node.js, Python, Ruby, and Go versions easily. Free online tool, no registration required."
 category: common

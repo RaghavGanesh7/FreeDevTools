@@ -1,7 +1,7 @@
 ---
 title: "SRun - Create Slurm Jobs | Online Free DevTools by Hexmos"
 name: srun
-path: /freedevtools/tldr/linux/srun
+path: "/freedevtools/tldr/linux/srun/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/srun/"
 description: "Create Slurm jobs and manage resources with SRun. Submit interactive jobs and connect to worker nodes on Linux systems. Free online tool, no registration required."
 category: linux

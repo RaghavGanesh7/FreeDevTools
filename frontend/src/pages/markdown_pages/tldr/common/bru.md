@@ -1,7 +1,7 @@
 ---
 title: "Bruno CLI - Run API Requests | Online Free DevTools by Hexmos"
 name: bru
-path: /freedevtools/tldr/common/bru
+path: "/freedevtools/tldr/common/bru/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/bru/"
 description: "Run API requests efficiently with Bruno CLI. Execute API tests, manage environments, and generate output reports. Free online tool, no registration required."
 category: common

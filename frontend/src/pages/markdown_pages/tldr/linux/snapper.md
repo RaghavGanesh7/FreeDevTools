@@ -1,7 +1,7 @@
 ---
 title: "Snapshot Manager - Create File System Snapshots | Online Free DevTools by Hexmos"
 name: snapper
-path: /freedevtools/tldr/linux/snapper
+path: "/freedevtools/tldr/linux/snapper/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/snapper/"
 description: "Create file system snapshots with Snapper. Manage snapshots for data recovery and versioning using command line. Free online tool, no registration required."
 category: linux

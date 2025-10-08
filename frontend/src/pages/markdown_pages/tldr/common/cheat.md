@@ -1,7 +1,7 @@
 ---
 title: "Cheat Sheet - Create Interactive Cheat Sheets | Online Free DevTools by Hexmos"
 name: cheat
-path: /freedevtools/tldr/common/cheat
+path: "/freedevtools/tldr/common/cheat/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/cheat/"
 description: "Create and view interactive cheat sheets with Cheat. Quickly access command examples and edit cheat sheets for efficient command-line usage. Free online tool, no registration required."
 category: common

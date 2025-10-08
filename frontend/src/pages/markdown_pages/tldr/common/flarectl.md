@@ -1,7 +1,7 @@
 ---
 title: "Flarectl - Control Cloudflare Services | Online Free DevTools by Hexmos"
 name: flarectl
-path: /freedevtools/tldr/common/flarectl
+path: "/freedevtools/tldr/common/flarectl/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/flarectl/"
 description: "Control Cloudflare services with Flarectl, the official CLI tool. Automate DNS record management, firewall rule creation, and IP range listing. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Anime Browser - Watch Anime from Command Line | Online Free DevTools by Hexmos"
 name: ani-cli
-path: /freedevtools/tldr/common/ani-cli
+path: "/freedevtools/tldr/common/ani-cli/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/ani-cli/"
 description: "Browse anime instantly with ani-cli. Download episodes and watch anime from the command line on Linux and macOS. Free online tool, no registration required."
 category: common

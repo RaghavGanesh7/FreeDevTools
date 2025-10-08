@@ -1,7 +1,7 @@
 ---
 title: "Analyze PHP Code - phploc Code Metrics | Online Free DevTools by Hexmos"
 name: phploc
-path: /freedevtools/tldr/php/phploc
+path: "/freedevtools/tldr/php/phploc/"
 canonical: "https://hexmos.com/freedevtools/tldr/php/phploc/"
 description: "Analyze PHP code with phploc, a code metrics tool. Measure project size and structure quickly. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Pulumi Environment - Generate Information | Online Free DevTools by Hexmos"
 name: pulumi-about
-path: /freedevtools/tldr/pulumi/pulumi-about
+path: "/freedevtools/tldr/pulumi/pulumi-about/"
 canonical: "https://hexmos.com/freedevtools/tldr/pulumi/pulumi-about/"
 description: "Generate Pulumi environment information with pulumi about. Inspect the Pulumi CLI configuration and stack settings with ease. Free online tool, no registration required."
 category: common

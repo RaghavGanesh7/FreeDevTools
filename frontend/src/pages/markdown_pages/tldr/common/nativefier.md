@@ -1,7 +1,7 @@
 ---
 title: "Create Desktop Apps - Nativefier Websites | Online Free DevTools by Hexmos"
 name: nativefier
-path: /freedevtools/tldr/common/nativefier
+path: "/freedevtools/tldr/common/nativefier/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/nativefier/"
 description: "Create cross-platform desktop apps effortlessly with Nativefier. Convert any website into a native-like application with custom icons and names. Free online tool, no registration required."
 category: common

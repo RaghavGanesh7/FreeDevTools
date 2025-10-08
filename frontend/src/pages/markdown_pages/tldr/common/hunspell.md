@@ -1,7 +1,7 @@
 ---
 title: "Check Spelling - Hunspell Spell Checker | Online Free DevTools by Hexmos"
 name: hunspell
-path: /freedevtools/tldr/common/hunspell
+path: "/freedevtools/tldr/common/hunspell/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/hunspell/"
 description: "Check spelling with Hunspell, a powerful command-line spell checker. Identify misspellings and suggest corrections effortlessly. Free online tool, no registration required."
 category: common

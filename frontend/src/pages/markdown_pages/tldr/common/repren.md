@@ -1,7 +1,7 @@
 ---
 title: "Rename Files - Replace Strings with Repren | Online Free DevTools by Hexmos"
 name: repren
-path: /freedevtools/tldr/common/repren
+path: "/freedevtools/tldr/common/repren/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/repren/"
 description: "Replace strings to rename files easily with Repren. Perform batch file renaming and text substitution with regular expressions. Free online tool, no registration required."
 category: common

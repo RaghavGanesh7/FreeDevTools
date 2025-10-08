@@ -1,7 +1,7 @@
 ---
 title: "Create ZPAQ Archives - Incremental Backup | Online Free DevTools by Hexmos"
 name: zpaq
-path: /freedevtools/tldr/common/zpaq
+path: "/freedevtools/tldr/common/zpaq/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/zpaq/"
 description: "Create ZPAQ archives with ZPAQ. Compress files incrementally, enabling efficient backups and storage. Free online tool, no registration required."
 category: common

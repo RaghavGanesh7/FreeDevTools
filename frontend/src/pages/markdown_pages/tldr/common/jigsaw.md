@@ -1,7 +1,7 @@
 ---
 title: "Create Static Sites - Jigsaw Builder for PHP | Online Free DevTools by Hexmos"
 name: jigsaw
-path: /freedevtools/tldr/common/jigsaw
+path: "/freedevtools/tldr/common/jigsaw/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jigsaw/"
 description: "Create static websites easily with Jigsaw, a PHP-based static site generator. Build blazing-fast, modern sites with Laravel's templating engine. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "GetADUsers - Control Active Directory Users | Online Free DevTools by Hexmos"
 name: impacket-getadusers
-path: /freedevtools/tldr/impacket/impacket-getadusers
+path: "/freedevtools/tldr/impacket/impacket-getadusers/"
 canonical: "https://hexmos.com/freedevtools/tldr/impacket/impacket-getadusers/"
 description: "Control Active Directory users with GetADUsers. Extract user attributes, filter users, and manage accounts effortlessly using this command line tool. Free online tool, no registration required."
 category: common

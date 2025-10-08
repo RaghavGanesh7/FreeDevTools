@@ -1,7 +1,7 @@
 ---
 title: "Guile Interpreter - Run Scheme Code | Online Free DevTools by Hexmos"
 name: guile
-path: /freedevtools/tldr/common/guile
+path: "/freedevtools/tldr/common/guile/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/guile/"
 description: "Run Scheme code with Guile Interpreter. Execute scripts, expressions, and start interactive shells using command-line options. Free online tool, no registration required."
 category: common

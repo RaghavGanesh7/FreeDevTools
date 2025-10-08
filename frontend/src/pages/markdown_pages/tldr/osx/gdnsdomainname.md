@@ -1,7 +1,7 @@
 ---
 title: "DNS Domain Name - Retrieve Domain Name with gdnsdomainname | Online Free DevTools by Hexmos"
 name: gdnsdomainname
-path: /freedevtools/tldr/osx/gdnsdomainname
+path: "/freedevtools/tldr/osx/gdnsdomainname/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/gdnsdomainname/"
 description: "Retrieve your DNS domain name with gdnsdomainname. Quickly identify your network's domain information using this command alias. Free online tool, no registration required."
 category: osx

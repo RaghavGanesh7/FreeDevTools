@@ -1,7 +1,7 @@
 ---
 title: "Systemd Creds - Manage Service Credentials | Online Free DevTools by Hexmos"
 name: systemd-creds
-path: /freedevtools/tldr/linux/systemd-creds
+path: "/freedevtools/tldr/linux/systemd-creds/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/systemd-creds/"
 description: "Manage service credentials with Systemd Creds. Encrypt, decrypt, and control access to sensitive data using this powerful command-line tool. Free online tool, no registration required."
 category: linux

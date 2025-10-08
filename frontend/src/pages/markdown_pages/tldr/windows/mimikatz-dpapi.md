@@ -1,7 +1,7 @@
 ---
 title: "Mimikatz DPAPI - Decrypt Windows Data | Online Free DevTools by Hexmos"
 name: mimikatz-dpapi
-path: /freedevtools/tldr/windows/mimikatz-dpapi
+path: "/freedevtools/tldr/windows/mimikatz-dpapi/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/mimikatz-dpapi/"
 description: "Decrypt Windows data with Mimikatz DPAPI. Securely manage and extract sensitive information using DPAPI. Free online tool, no registration required."
 category: windows

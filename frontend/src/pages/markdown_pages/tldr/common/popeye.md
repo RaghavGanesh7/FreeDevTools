@@ -1,7 +1,7 @@
 ---
 title: "Popeye - Validate Kubernetes Manifests | Online Free DevTools by Hexmos"
 name: popeye
-path: /freedevtools/tldr/common/popeye
+path: "/freedevtools/tldr/common/popeye/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/popeye/"
 description: "Validate Kubernetes manifests with Popeye. Identify potential issues and vulnerabilities in your deployments, ensuring best practices. Free online tool, no registration required."
 category: common

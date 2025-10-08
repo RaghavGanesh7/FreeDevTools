@@ -1,7 +1,7 @@
 ---
 title: "SFDK CMake - Execute Build Steps | Online Free DevTools by Hexmos"
 name: sfdk-cmake
-path: /freedevtools/tldr/sfdk/sfdk-cmake
+path: "/freedevtools/tldr/sfdk/sfdk-cmake/"
 canonical: "https://hexmos.com/freedevtools/tldr/sfdk/sfdk-cmake/"
 description: "Execute build steps with SFDK CMake. Build Sailfish OS applications and manage CMake projects efficiently using the command line. Free online tool, no registration required."
 category: common

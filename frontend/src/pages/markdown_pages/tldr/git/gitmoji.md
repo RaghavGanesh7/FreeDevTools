@@ -1,7 +1,7 @@
 ---
 title: "Generate Gitmojis - Enhance Commits | Online Free DevTools by Hexmos"
 name: gitmoji
-path: /freedevtools/tldr/git/gitmoji
+path: "/freedevtools/tldr/git/gitmoji/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/gitmoji/"
 description: "Generate commit messages with Gitmojis using Gitmoji command line tool. Add emojis to your commits for better communication and organization. Free online tool, no registration required."
 category: common

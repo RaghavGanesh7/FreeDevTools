@@ -1,7 +1,7 @@
 ---
 title: "Fix PAM Images - Repair Netpbm Files | Online Free DevTools by Hexmos"
 name: pamfix
-path: /freedevtools/tldr/common/pamfix
+path: "/freedevtools/tldr/common/pamfix/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/pamfix/"
 description: "Repair corrupted Netpbm images with pamfix. Quickly fix PAM, PBM, PGM, and PPM files, handle missing data, and adjust pixel values. Free online tool, no registration required."
 category: common

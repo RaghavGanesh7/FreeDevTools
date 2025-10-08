@@ -1,7 +1,7 @@
 ---
 title: "OpenStack Image - Manage Cloud Images | Online Free DevTools by Hexmos"
 name: openstack-image
-path: /freedevtools/tldr/openstack/openstack-image
+path: "/freedevtools/tldr/openstack/openstack-image/"
 canonical: "https://hexmos.com/freedevtools/tldr/openstack/openstack-image/"
 description: "Manage cloud images efficiently with OpenStack Image command. Upload, delete, list, and download images for your OpenStack cloud infrastructure. Free online tool, no registration required."
 category: common

@@ -1,7 +1,7 @@
 ---
 title: "Manage Bookmarks - Shiori Bookmark Manager | Online Free DevTools by Hexmos"
 name: shiori
-path: /freedevtools/tldr/common/shiori
+path: "/freedevtools/tldr/common/shiori/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/shiori/"
 description: "Manage bookmarks easily with Shiori Bookmark Manager. Import, save, list, and open bookmarks using the command line. Free online tool, no registration required."
 category: common

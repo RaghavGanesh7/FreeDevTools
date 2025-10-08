@@ -1,7 +1,7 @@
 ---
 title: "Run Graphical Sudo - Execute Commands with Root | Online Free DevTools by Hexmos"
 name: gksudo
-path: /freedevtools/tldr/linux/gksudo
+path: "/freedevtools/tldr/linux/gksudo/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/gksudo/"
 description: "Execute commands with graphical sudo. Run graphical applications requiring root privileges securely and easily. Free online tool, no registration required."
 category: linux

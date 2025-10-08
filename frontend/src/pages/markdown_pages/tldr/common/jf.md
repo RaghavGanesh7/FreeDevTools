@@ -1,7 +1,7 @@
 ---
 title: "JFrog Control - Manage Artifactory & Xray with JF | Online Free DevTools by Hexmos"
 name: jf
-path: /freedevtools/tldr/common/jf
+path: "/freedevtools/tldr/common/jf/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/jf/"
 description: "Control JFrog products instantly with JFrog CLI. Manage Artifactory, Xray, and Pipelines using command-line interface. Free online tool, no registration required."
 category: common

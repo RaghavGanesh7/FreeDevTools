@@ -1,7 +1,7 @@
 ---
 title: "TLDR - Display Command Help Pages | Online Free DevTools by Hexmos"
 name: tldr
-path: /freedevtools/tldr/common/tldr
+path: "/freedevtools/tldr/common/tldr/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/tldr/"
 description: "Display command help with TLDR. Access concise, community-maintained command documentation instantly. Free online tool, no registration required. Get quick shell documentation."
 category: common

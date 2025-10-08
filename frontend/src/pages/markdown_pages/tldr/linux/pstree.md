@@ -1,7 +1,7 @@
 ---
 title: "Pstree - Control Process Trees in Linux | Online Free DevTools by Hexmos"
 name: pstree
-path: /freedevtools/tldr/linux/pstree
+path: "/freedevtools/tldr/linux/pstree/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/pstree/"
 description: "Control Linux process trees with pstree. Visualize process relationships and identify parent-child processes easily. Free online tool, no registration required."
 category: linux

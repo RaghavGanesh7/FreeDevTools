@@ -1,7 +1,7 @@
 ---
 title: "Taskset - Control CPU Affinity | Online Free DevTools by Hexmos"
 name: taskset
-path: /freedevtools/tldr/linux/taskset
+path: "/freedevtools/tldr/linux/taskset/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/taskset/"
 description: "Control CPU affinity with Taskset. Easily manage process CPU assignments for optimal performance and resource allocation. Free online tool, no registration required."
 category: linux

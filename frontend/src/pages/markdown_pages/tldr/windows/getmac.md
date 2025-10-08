@@ -1,7 +1,7 @@
 ---
 title: "Getmac - Display MAC Addresses | Online Free DevTools by Hexmos"
 name: getmac
-path: "/freedevtools/tldr/windows/getmac"
+path: "/freedevtools/tldr/windows/getmac/"
 canonical: "https://hexmos.com/freedevtools/tldr/windows/getmac/"
 description: "Display MAC addresses with Getmac, a command-line tool for Windows. Quickly retrieve network interface MAC addresses for system configuration. Free online tool, no registration required."
 category: windows

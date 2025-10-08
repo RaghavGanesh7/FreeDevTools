@@ -1,7 +1,7 @@
 ---
 title: "Reverse Engineer - Analyze Binaries with Radare2 | Online Free DevTools by Hexmos"
 name: radare2
-path: /freedevtools/tldr/common/radare2
+path: "/freedevtools/tldr/common/radare2/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/radare2/"
 description: "Reverse engineer binaries with Radare2, a powerful reverse engineering framework. Analyze executables, debug programs, and script automation tasks with ease. Free online tool, no registration required."
 category: common

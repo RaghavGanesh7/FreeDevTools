@@ -1,7 +1,7 @@
 ---
 title: "Create Azure VMs - Manage Virtual Machines | Online Free DevTools by Hexmos"
 name: az-vm
-path: /freedevtools/tldr/az/az-vm
+path: "/freedevtools/tldr/az/az-vm/"
 canonical: "https://hexmos.com/freedevtools/tldr/az/az-vm/"
 description: "Create and manage Azure Virtual Machines with az vm. Deploy, start, stop, and deallocate VMs using command line. Free online tool, no registration required."
 category: common

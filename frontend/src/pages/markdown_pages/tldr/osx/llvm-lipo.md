@@ -1,7 +1,7 @@
 ---
 title: "Lipo - Create Universal Binaries | Online Free DevTools by Hexmos"
 name: llvm-lipo
-path: /freedevtools/tldr/osx/llvm-lipo
+path: "/freedevtools/tldr/osx/llvm-lipo/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/llvm-lipo/"
 description: "Create universal binaries with Lipo. Build multi-architecture executables and libraries for macOS. Free online tool, no registration required."
 category: osx

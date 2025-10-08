@@ -1,7 +1,7 @@
 ---
 title: "Gcloud KMS Decrypt - Decrypt Files Securely | Online Free DevTools by Hexmos"
 name: gcloud-kms-decrypt
-path: /freedevtools/tldr/gcloud/gcloud-kms-decrypt
+path: "/freedevtools/tldr/gcloud/gcloud-kms-decrypt/"
 canonical: "https://hexmos.com/freedevtools/tldr/gcloud/gcloud-kms-decrypt/"
 description: "Decrypt files easily with Gcloud KMS Decrypt. Utilize Cloud KMS keys to protect sensitive data using command-line decryption. Free online tool, no registration required."
 category: common

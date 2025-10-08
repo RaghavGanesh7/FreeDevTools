@@ -1,7 +1,7 @@
 ---
 title: "Control Music with Termusic - Terminal Player | Online Free DevTools by Hexmos"
 name: termusic
-path: /freedevtools/tldr/linux/termusic
+path: "/freedevtools/tldr/linux/termusic/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/termusic/"
 description: "Control music playback directly from your terminal with Termusic, a Rust-based terminal music player. Manage your music library and playlists efficiently. Free online tool, no registration required."
 category: linux

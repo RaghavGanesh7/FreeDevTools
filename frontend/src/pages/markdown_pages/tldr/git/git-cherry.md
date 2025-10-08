@@ -1,7 +1,7 @@
 ---
 title: "Git Cherry - Find Upstream Commits | Online Free DevTools by Hexmos"
 name: git-cherry
-path: /freedevtools/tldr/git/git-cherry
+path: "/freedevtools/tldr/git/git-cherry/"
 canonical: "https://hexmos.com/freedevtools/tldr/git/git-cherry/"
 description: "Find upstream commits with Git Cherry. Identify unmerged changes and maintain code integrity. Free online tool, no registration required."
 category: common

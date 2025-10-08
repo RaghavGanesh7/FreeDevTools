@@ -1,7 +1,7 @@
 ---
 title: "Shell Script Executor - Run Shell Scripts with Dash | Online Free DevTools by Hexmos"
 name: dash
-path: /freedevtools/tldr/common/dash
+path: "/freedevtools/tldr/common/dash/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/dash/"
 description: "Execute shell scripts quickly with Dash, a POSIX-compliant shell. Debug, run, and test your shell scripts efficiently using this free online tool, no registration required."
 category: common

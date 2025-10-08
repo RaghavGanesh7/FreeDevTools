@@ -1,7 +1,7 @@
 ---
 title: "Sed - Edit Text Scriptably | Online Free DevTools by Hexmos"
 name: sed
-path: /freedevtools/tldr/osx/sed
+path: "/freedevtools/tldr/osx/sed/"
 canonical: "https://hexmos.com/freedevtools/tldr/osx/sed/"
 description: "Edit text scriptably with Sed. Streamline text transformations and automate repetitive tasks using command-line scripting. Free online tool, no registration required."
 category: osx

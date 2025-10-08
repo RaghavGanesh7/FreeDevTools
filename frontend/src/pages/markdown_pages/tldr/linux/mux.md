@@ -1,7 +1,7 @@
 ---
 title: "Mux Streams - Intercept and Multiplex Data | Online Free DevTools by Hexmos"
 name: mux
-path: /freedevtools/tldr/linux/mux
+path: "/freedevtools/tldr/linux/mux/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/mux/"
 description: "Multiplex data streams with Mux. Intercept and route input events across multiple outputs. Streamline data flow management with this free online tool, no registration required."
 category: linux

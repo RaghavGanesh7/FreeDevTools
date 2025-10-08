@@ -1,7 +1,7 @@
 ---
 title: "Underline Text - Format Text with UL Command | Online Free DevTools by Hexmos"
 name: ul
-path: /freedevtools/tldr/linux/ul
+path: "/freedevtools/tldr/linux/ul/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ul/"
 description: "Format text with the UL command, creating underlined output in Linux. Enhance readability with this text formatting tool. Free online tool, no registration required."
 category: linux

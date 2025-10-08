@@ -1,7 +1,7 @@
 ---
 title: "Wrk - Generate HTTP Benchmarks | Online Free DevTools by Hexmos"
 name: wrk
-path: /freedevtools/tldr/common/wrk
+path: "/freedevtools/tldr/common/wrk/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/wrk/"
 description: "Generate HTTP benchmarks with Wrk, a powerful command-line tool. Measure website performance and optimize server configurations. Free online tool, no registration required."
 category: common

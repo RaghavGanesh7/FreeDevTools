@@ -1,7 +1,7 @@
 ---
 title: "IMAP Sync - Migrate Email Mailboxes | Online Free DevTools by Hexmos"
 name: imapsync
-path: /freedevtools/tldr/common/imapsync
+path: "/freedevtools/tldr/common/imapsync/"
 canonical: "https://hexmos.com/freedevtools/tldr/common/imapsync/"
 description: "Synchronize email mailboxes with IMAP Sync. Copy, migrate, and backup email data between IMAP servers, preventing duplicates. Free online tool, no registration required."
 category: common

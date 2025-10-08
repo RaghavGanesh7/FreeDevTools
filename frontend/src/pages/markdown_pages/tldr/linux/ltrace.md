@@ -1,7 +1,7 @@
 ---
 title: "ltrace - Trace Library Calls | Online Free DevTools by Hexmos"
 name: ltrace
-path: /freedevtools/tldr/linux/ltrace
+path: "/freedevtools/tldr/linux/ltrace/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/ltrace/"
 description: "Trace library calls with ltrace, a powerful command-line tool for debugging and analyzing program behavior.  Analyze dynamic library calls easily. Free online tool, no registration required."
 category: linux

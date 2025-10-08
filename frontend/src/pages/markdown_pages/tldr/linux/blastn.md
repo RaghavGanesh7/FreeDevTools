@@ -1,7 +1,7 @@
 ---
 title: "BLASTN - Align Nucleotide Sequences | Online Free DevTools by Hexmos"
 name: blastn
-path: /freedevtools/tldr/linux/blastn
+path: "/freedevtools/tldr/linux/blastn/"
 canonical: "https://hexmos.com/freedevtools/tldr/linux/blastn/"
 description: "Align nucleotide sequences with BLASTN using command-line interface. Perform sequence similarity searches and identify homologous genes. Free online tool, no registration required."
 category: linux
