@@ -10,6 +10,7 @@ export default defineConfig({
   site: 'https://hexmos.com/freedevtools',
   output: 'static',
   base: "/freedevtools",
+  trailingSlash: 'always',
   integrations: [
     react(),
     tailwind(),
