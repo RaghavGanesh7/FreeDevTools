@@ -86,41 +86,8 @@ const breadcrumbItems = [
 
     <!-- Pagination Info - Top -->
     <div class="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-6">
-      <div class="flex items-center justify-between">
-        <div class="text-sm text-slate-600 dark:text-slate-400">
-          Showing {page.data.length} of {page.total} repositories (Page {page.currentPage} of {page.lastPage})
-        </div>
-        <div class="flex items-center gap-2">
-          {page.url.prev ? (
-            <a 
-              href={page.url.prev}
-              class="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-            >
-              ← Previous
-            </a>
-          ) : (
-            <span class="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-              ← Previous
-            </span>
-          )}
-          
-          <span class="text-sm text-slate-600 dark:text-slate-400 font-medium">
-            {page.currentPage} / {page.lastPage}
-          </span>
-          
-          {page.url.next ? (
-            <a 
-              href={page.url.next}
-              class="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-            >
-              Next →
-            </a>
-          ) : (
-            <span class="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-              Next →
-            </span>
-          )}
-        </div>
+      <div class="text-sm text-slate-600 dark:text-slate-400 text-center">
+        Showing {page.data.length} of {page.total} repositories (Page {page.currentPage} of {page.lastPage})
       </div>
     </div>
 
@@ -147,18 +114,20 @@ const breadcrumbItems = [
     <div class="mt-8 pt-6 border-t border-slate-200 dark:border-slate-700">
       <!-- Middle section with page numbers -->
       <div class="flex items-center justify-center gap-2 mb-4">
-        {page.url.prev ? (
-          <a 
-            href={page.url.prev}
-            class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-          >
-            ← Previous
-          </a>
-        ) : (
-          <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-            ← Previous
-          </span>
-        )}
+        <div class="hidden sm:block">
+          {page.url.prev ? (
+            <a 
+              href={page.url.prev}
+              class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+            >
+              ← Previous
+            </a>
+          ) : (
+            <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
+              ← Previous
+            </span>
+          )}
+        </div>
         
         <!-- Page Numbers -->
         {page.url.first && page.currentPage > 3 && (
@@ -208,18 +177,20 @@ const breadcrumbItems = [
           </>
         )}
         
-        {page.url.next ? (
-          <a 
-            href={page.url.next}
-            class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-          >
-            Next →
-          </a>
-        ) : (
-          <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-            Next →
-          </span>
-        )}
+        <div class="hidden sm:block">
+          {page.url.next ? (
+            <a 
+              href={page.url.next}
+              class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+            >
+              Next →
+            </a>
+          ) : (
+            <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
+              Next →
+            </span>
+          )}
+        </div>
       </div>
       
       <!-- Bottom section with go to page and info -->

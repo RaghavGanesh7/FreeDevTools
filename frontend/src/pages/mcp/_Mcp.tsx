@@ -137,41 +137,8 @@ const Mcp: React.FC<McpProps> = ({
 
       {/* Pagination Info */}
       <div className="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-6">
-        <div className="flex items-center justify-between">
-          <div className="text-sm text-slate-600 dark:text-slate-400">
-            Showing {paginatedCategories.length} of {categoriesCount} categories (Page {currentPage} of {lastPage})
-          </div>
-          <div className="flex items-center gap-2">
-            {pageUrl?.prev ? (
-              <a
-                href={pageUrl.prev}
-                className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-              >
-                ← Previous
-              </a>
-            ) : (
-              <span className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-                ← Previous
-              </span>
-            )}
-
-            <span className="text-sm text-slate-600 dark:text-slate-400 font-medium">
-              {currentPage} / {lastPage}
-            </span>
-
-            {pageUrl?.next ? (
-              <a
-                href={pageUrl.next}
-                className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-              >
-                Next →
-              </a>
-            ) : (
-              <span className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-                Next →
-              </span>
-            )}
-          </div>
+        <div className="text-sm text-slate-600 dark:text-slate-400 text-center">
+          Showing {paginatedCategories.length} of {categoriesCount} categories (Page {currentPage} of {lastPage})
         </div>
       </div>
 
