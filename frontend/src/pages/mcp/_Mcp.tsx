@@ -87,6 +87,7 @@ const Mcp: React.FC<McpProps> = ({
 
   useEffect(() => {
     const timer = setTimeout(() => {
+
       setLoaded(true);
     }, 100);
     return () => clearTimeout(timer);

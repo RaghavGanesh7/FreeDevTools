@@ -7,6 +7,7 @@ export const GET: APIRoute = async ({ site }) => {
 
   const urls: string[] = [];
   // Add main freedevtools URL
+
   urls.push(
     `  <url>\n    <loc>${site}/</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>`
   );
