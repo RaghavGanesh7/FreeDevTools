@@ -34,7 +34,7 @@ const RepositoryCard = ({ server, formattedName, category, repositoryId }: { ser
       suppressHydrationWarning
     >
       <div className="space-y-6">
-        {/* First Row: Title */}
+        {/* First Row: Title  */}
         <div>
           <div className="flex items-center justify-between">
             <h3 className="text-xl font-semibold text-blue-600 dark:text-blue-400">

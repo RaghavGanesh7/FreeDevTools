@@ -1,14 +1,11 @@
-import BottomPagination from "@/components/BottomPagination";
-import Pagination from "@/components/Pagination";
 import ToolContainer from "@/components/tool/ToolContainer";
 import ToolContentCardWrapper from "@/components/tool/ToolContentCardWrapper";
 import ToolHead from "@/components/tool/ToolHead";
 import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
-import { scrollToHeadTitle } from "@/lib/scroll-utils";
 import { formatNumber } from "@/lib/utils";
 import { Filter, Star } from "lucide-react";
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import McpSkeleton from "./_McpSkeleton";
 
 // Helper function to convert category icons to emojis
@@ -62,14 +59,31 @@ interface McpProps {
   categoriesCount: number;
   categories: Category[];
   breadcrumbItems?: BreadcrumbItem[];
+  currentPage?: number;
+  lastPage?: number;
+  totalPages?: number;
+  pageUrl?: {
+    current: string;
+    prev?: string;
+    next?: string;
+    first?: string;
+    last?: string;
+  };
 }
 
-const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categoriesCount, categories, breadcrumbItems }) => {
+const Mcp: React.FC<McpProps> = ({
+  serversCount,
+  toolsCount,
+  clientsCount,
+  categoriesCount,
+  categories,
+  breadcrumbItems,
+  currentPage = 1,
+  lastPage = 1,
+  totalPages = 1,
+  pageUrl
+}) => {
   const [loaded, setLoaded] = useState(false);
-
-  // Pagination state 
-  const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(30);
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -78,67 +92,8 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
     return () => clearTimeout(timer);
   }, []);
 
-  // Get current page from URL on mount
-  useEffect(() => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const page = parseInt(urlParams.get('page') || '1', 10);
-    const items = parseInt(urlParams.get('items') || '30', 10);
-
-    setCurrentPage(Math.max(1, page));
-    setItemsPerPage(items);
-  }, []);
-
-  // Get paginated categories
-  const filteredCategories = categories;
-  const totalPages = Math.ceil(filteredCategories.length / itemsPerPage);
-  const startIndex = (currentPage - 1) * itemsPerPage;
-  const endIndex = startIndex + itemsPerPage;
-  const paginatedCategories = filteredCategories.slice(startIndex, endIndex);
-
-  // Update URL without page reload
-  const updateURL = useCallback((page: number, items?: number) => {
-    const url = new URL(window.location.href);
-    if (page === 1) {
-      url.searchParams.delete('page');
-    } else {
-      url.searchParams.set('page', page.toString());
-    }
-
-    const currentItems = items || itemsPerPage;
-    if (currentItems !== 30) {
-      url.searchParams.set('items', currentItems.toString());
-    } else {
-      url.searchParams.delete('items');
-    }
-
-    window.history.pushState({}, '', url.toString());
-  }, [itemsPerPage]);
-
-  // Navigate to page
-  const goToPage = useCallback((page: number) => {
-    if (page < 1 || page > totalPages || page === currentPage) {
-      return;
-    }
-
-    setCurrentPage(page);
-    updateURL(page);
-
-    // Scroll to head-title element
-    scrollToHeadTitle();
-  }, [currentPage, totalPages, updateURL]);
-
-  // Handle items per page change
-  const handleItemsPerPageChange = useCallback((newItemsPerPage: number) => {
-    const newTotalPages = Math.ceil(filteredCategories.length / newItemsPerPage);
-    const newCurrentPage = Math.min(currentPage, newTotalPages);
-
-    setItemsPerPage(newItemsPerPage);
-    setCurrentPage(newCurrentPage);
-    updateURL(newCurrentPage, newItemsPerPage);
-
-    // Scroll to head-title element
-    scrollToHeadTitle();
-  }, [currentPage, filteredCategories.length, updateURL]);
+  // Use categories directly from props (already paginated by Astro)
+  const paginatedCategories = categories;
 
 
 
@@ -169,7 +124,7 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
       <div className="text-center">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
           <div className="text-center">
-            <div className="text-3xl font-bold text-orange-600">{filteredCategories.length}</div>
+            <div className="text-3xl font-bold text-orange-600">{categoriesCount}</div>
             <div className="text-sm text-gray-600 dark:text-gray-400">Categories</div>
           </div>
           <div className="text-center">
@@ -179,17 +134,45 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
         </div>
       </div>
 
+      {/* Pagination Info */}
+      <div className="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-6">
+        <div className="flex items-center justify-between">
+          <div className="text-sm text-slate-600 dark:text-slate-400">
+            Showing {paginatedCategories.length} of {categoriesCount} categories (Page {currentPage} of {lastPage})
+          </div>
+          <div className="flex items-center gap-2">
+            {pageUrl?.prev ? (
+              <a
+                href={pageUrl.prev}
+                className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+              >
+                ← Previous
+              </a>
+            ) : (
+              <span className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
+                ← Previous
+              </span>
+            )}
 
-      {/* Pagination */}
-      <Pagination
-        totalItems={filteredCategories.length}
-        itemsPerPage={itemsPerPage}
-        currentPage={currentPage}
-        totalPages={totalPages}
-        itemsLabel="categories"
-        onPageChange={goToPage}
-        onItemsPerPageChange={handleItemsPerPageChange}
-      />
+            <span className="text-sm text-slate-600 dark:text-slate-400 font-medium">
+              {currentPage} / {lastPage}
+            </span>
+
+            {pageUrl?.next ? (
+              <a
+                href={pageUrl.next}
+                className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+              >
+                Next →
+              </a>
+            ) : (
+              <span className="inline-flex items-center px-3 py-1 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
+                Next →
+              </span>
+            )}
+          </div>
+        </div>
+      </div>
 
       {/* Categories Grid */}
       <div className="mt-10 mb-6">
@@ -218,13 +201,91 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
       </div>
 
       {/* Bottom Pagination */}
-      <BottomPagination
-        totalItems={filteredCategories.length}
-        currentPage={currentPage}
-        totalPages={totalPages}
-        itemsLabel="categories"
-        onPageChange={goToPage}
-      />
+      <div className="mt-8 pt-6 border-t border-slate-200 dark:border-slate-700">
+        {/* Middle section with page numbers */}
+        <div className="flex items-center justify-center gap-2 mb-4">
+          {pageUrl?.prev ? (
+            <a
+              href={pageUrl.prev}
+              className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+            >
+              ← Previous
+            </a>
+          ) : (
+            <span className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
+              ← Previous
+            </span>
+          )}
+
+          {/* Page Numbers */}
+          {pageUrl?.first && currentPage > 3 && (
+            <>
+              <a
+                href={pageUrl.first}
+                className="px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+              >
+                1
+              </a>
+              <span className="px-2 text-slate-400">...</span>
+            </>
+          )}
+
+          {Array.from({ length: Math.min(5, lastPage) }, (_, i) => {
+            const pageNum = Math.max(1, Math.min(lastPage - 4, currentPage - 2)) + i;
+            if (pageNum > lastPage) return null;
+
+            const isCurrentPage = pageNum === currentPage;
+            const pageUrl = pageNum === 1
+              ? `/freedevtools/mcp/`
+              : `/freedevtools/mcp/${pageNum}/`;
+
+            return (
+              <a
+                key={pageNum}
+                href={pageUrl}
+                className={`px-3 py-2 text-sm font-medium rounded transition-colors ${isCurrentPage
+                    ? 'text-white bg-blue-600 border border-blue-600'
+                    : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
+                  }`}
+              >
+                {pageNum}
+              </a>
+            );
+          })}
+
+          {pageUrl?.last && currentPage < lastPage - 2 && (
+            <>
+              <span className="px-2 text-slate-400">...</span>
+              <a
+                href={pageUrl.last}
+                className="px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+              >
+                {lastPage}
+              </a>
+            </>
+          )}
+
+          {pageUrl?.next ? (
+            <a
+              href={pageUrl.next}
+              className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+            >
+              Next →
+            </a>
+          ) : (
+            <span className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
+              Next →
+            </span>
+          )}
+        </div>
+
+        {/* Bottom section with info */}
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <div className="text-sm text-slate-600 dark:text-slate-400">
+            Page {currentPage} of {lastPage} • {categoriesCount} total categories
+          </div>
+        </div>
+      </div>
 
 
       {/* Features */}

@@ -70,6 +70,51 @@ export async function generateMcpCategoryPaginatedPaths({
 }
 
 /**
+ * Generate paginated paths for MCP directory (all categories)
+ */
+export async function generateMcpDirectoryPaginatedPaths({
+  paginate,
+}: {
+  paginate: any;
+}) {
+  const metadataEntries = await getCollection('mcpMetadata');
+  const metadata = metadataEntries[0]?.data;
+
+  if (!metadata) {
+    throw new Error('MCP metadata not found');
+  }
+
+  // Get all categories from metadata
+  const categories = Object.entries(metadata.categories).map(
+    ([id, categoryData]) => ({
+      id,
+      name: categoryData.categoryDisplay,
+      description: '',
+      icon: `/freedevtools/svg_icons/automation/mcp-server-stroke-rounded.svg`,
+      serverCount: categoryData.totalRepositories,
+      url: `/freedevtools/mcp/${id}/`,
+    })
+  );
+
+  // Add descriptions from category data
+  const categoryEntries = await getCollection('mcpCategoryData');
+  categoryEntries.forEach((entry) => {
+    const category = categories.find((c) => c.id === entry.data.category);
+    if (category) {
+      category.description = entry.data.description || '';
+    }
+  });
+
+  // Generate paginated paths for all categories
+  const paginatedPaths = paginate(categories, {
+    params: {},
+    pageSize: 30, // 30 categories per page
+  });
+
+  return paginatedPaths;
+}
+
+/**
  * Create a category-to-repository mapping for efficient lookups
  * This can be used to avoid multiple queries in getStaticPaths
  */

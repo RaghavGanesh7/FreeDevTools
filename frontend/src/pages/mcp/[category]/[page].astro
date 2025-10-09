@@ -8,7 +8,7 @@ import { getEntry } from 'astro:content';
 import { generateMcpCategoryPaginatedPaths } from '@/lib/mcp-utils';
 
 
-// Generate static paths for all MCP categories with pagination
+// Generate static paths for all MCP categories with pagination 
 export async function getStaticPaths({ paginate }) {
   return await generateMcpCategoryPaginatedPaths({ paginate });
 }
