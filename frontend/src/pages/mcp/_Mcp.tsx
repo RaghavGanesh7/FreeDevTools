@@ -67,7 +67,7 @@ interface McpProps {
 const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categoriesCount, categories, breadcrumbItems }) => {
   const [loaded, setLoaded] = useState(false);
 
-  // Pagination state
+  // Pagination state 
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage, setItemsPerPage] = useState(30);
   const [searchQuery, setSearchQuery] = useState('');
