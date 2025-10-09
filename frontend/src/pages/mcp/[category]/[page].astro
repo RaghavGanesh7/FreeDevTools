@@ -50,15 +50,15 @@ const keywords = [
 // Breadcrumb data
 const breadcrumbItems = [
   { label: 'Free DevTools', href: '/freedevtools/' },
-  { label: 'MCP Directory', href: '/freedevtools/mcp/' },
-  { label: categoryName }
+  { label: 'MCP Directory', href: '/freedevtools/mcp/1/' },
+  { label: categoryName, href: `/freedevtools/mcp/${category}/1/` }
 ];
 ---
 
 <BaseLayout 
   name={`${categoryName} MCP Repositories`}
   title={title}
-  path={`/freedevtools/mcp/${category}/`}
+  path={`/freedevtools/mcp/${category}/1/`}
   description={description}
   canonical={`https://hexmos.com/freedevtools/mcp/${category}/${page.currentPage}/`}
   themeColor="#3b82f6"
@@ -147,9 +147,7 @@ const breadcrumbItems = [
           if (pageNum > page.lastPage) return null;
           
           const isCurrentPage = pageNum === page.currentPage;
-          const pageUrl = pageNum === 1 
-            ? `/freedevtools/mcp/${category}/`
-            : `/freedevtools/mcp/${category}/${pageNum}/`;
+          const pageUrl = `/freedevtools/mcp/${category}/${pageNum}/`;
           
           return (
             <a 
@@ -227,7 +225,7 @@ const breadcrumbItems = [
     <div class="mt-10 pt-6 mb-8 border-t border-slate-200 dark:border-slate-700">
       <div class="flex flex-wrap gap-4">
         <a 
-          href="/freedevtools/mcp/" 
+          href="/freedevtools/mcp/1/" 
           class="inline-flex items-center px-4 py-2 text-sm font-medium text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/20 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors"
         >
           ←  Back to MCP Directory
@@ -260,9 +258,7 @@ const breadcrumbItems = [
       console.log('Page number:', pageNum, 'Last page:', lastPage);
       
       if (pageNum >= 1 && pageNum <= lastPage) {
-        const url = pageNum === 1 
-          ? `/freedevtools/mcp/${category}/`
-          : `/freedevtools/mcp/${category}/${pageNum}/`;
+        const url = `/freedevtools/mcp/${category}/${pageNum}/`;
         console.log('Navigating to:', url);
         window.location.href = url;
       } else {
@@ -300,9 +296,7 @@ const breadcrumbItems = [
           console.log('Page number:', pageNum, 'Last page:', lastPage);
           
           if (pageNum >= 1 && pageNum <= lastPage) {
-            const url = pageNum === 1 
-              ? `/freedevtools/mcp/${category}/`
-              : `/freedevtools/mcp/${category}/${pageNum}/`;
+            const url = `/freedevtools/mcp/${category}/${pageNum}/`;
             console.log('Navigating to:', url);
             window.location.href = url;
           } else {

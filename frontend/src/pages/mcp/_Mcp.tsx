@@ -203,9 +203,7 @@ const Mcp: React.FC<McpProps> = ({
             if (pageNum > lastPage) return null;
 
             const isCurrentPage = pageNum === currentPage;
-            const pageUrl = pageNum === 1
-              ? `/freedevtools/mcp/`
-              : `/freedevtools/mcp/${pageNum}/`;
+            const pageUrl = `/freedevtools/mcp/${pageNum}/`;
 
             return (
               <a

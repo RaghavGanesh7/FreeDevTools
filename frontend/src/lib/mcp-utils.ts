@@ -92,7 +92,7 @@ export async function generateMcpDirectoryPaginatedPaths({
       description: '',
       icon: `/freedevtools/svg_icons/automation/mcp-server-stroke-rounded.svg`,
       serverCount: categoryData.totalRepositories,
-      url: `/freedevtools/mcp/${id}/`,
+      url: `/freedevtools/mcp/${id}/1/`,
     })
   );
 
