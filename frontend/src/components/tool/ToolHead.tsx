@@ -17,7 +17,7 @@ const ToolHead: React.FC<ToolHeadProps> = ({ name, description, breadcrumbItems 
   return (
     <>
       {/* Ad Banner */}
-      <div className="mb-10 mt-10">
+      <div className="mb-16 mt-[74px]">
         <AdBanner />
       </div>
       {breadcrumbItems && (

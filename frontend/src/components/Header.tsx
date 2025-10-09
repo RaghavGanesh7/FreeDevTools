@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import ThemeSwitcher from "./theme/ThemeSwitcher";
 import SearchBar from "./SearchBar";
+import ThemeSwitcher from "./theme/ThemeSwitcher";
 
 const Header: React.FC = () => {
   // Listen for cmd+k
@@ -29,7 +29,7 @@ const Header: React.FC = () => {
           <div className="py-3 px-0 flex items-center justify-between gap-4">
             {/* Logo */}
             <a
-              href="/freedevtools"
+              href="/freedevtools/"
               className="flex items-center space-x-3 hover:opacity-80 transition-opacity duration-200 flex-shrink-0"
             >
               <img
