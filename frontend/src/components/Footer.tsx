@@ -43,7 +43,7 @@ const LeftColumn: React.FC = () => {
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">Terms of Use</p>
         </a>
         <a
-          href="https://discord.gg/pURjdmj5"
+          href="https://discord.gg/mUCfyDQg3G"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 "
