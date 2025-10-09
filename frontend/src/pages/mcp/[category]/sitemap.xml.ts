@@ -59,10 +59,10 @@ export const GET: APIRoute = async ({ site, params }) => {
       </url>`;
   });
 
-  // Add the category page itself
+  // Add the category page itself (redirects to page 1)
   urls.unshift(`
     <url>
-      <loc>${site}/mcp/${category}/</loc>
+      <loc>${site}/mcp/${category}/1/</loc>
       <lastmod>${now}</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.9</priority>
