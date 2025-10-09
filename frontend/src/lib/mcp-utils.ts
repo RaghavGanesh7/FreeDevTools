@@ -49,7 +49,13 @@ export async function generateMcpCategoryPaginatedPaths({
 
   for (const entry of categoryEntries) {
     const categoryData = entry.data;
-    const categoryServers = Object.values(categoryData.repositories);
+    // Include repository ID in each server object
+    const categoryServers = Object.entries(categoryData.repositories).map(
+      ([repositoryId, server]) => ({
+        ...server,
+        repositoryId: repositoryId,
+      })
+    );
 
     // Generate paginated paths for this category
     const paginatedPaths = paginate(categoryServers, {

@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 import { scrollToHeadTitle } from "@/lib/scroll-utils";
 import { formatNumber } from "@/lib/utils";
-import { Filter, Search, Star } from "lucide-react";
+import { Filter, Star } from "lucide-react";
 import React, { useCallback, useEffect, useState } from "react";
 import McpSkeleton from "./_McpSkeleton";
 
@@ -70,7 +70,6 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
   // Pagination state 
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage, setItemsPerPage] = useState(30);
-  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -89,24 +88,8 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
     setItemsPerPage(items);
   }, []);
 
-  // Filter categories based on search query
-  const filterCategories = useCallback((categories: Category[], query: string) => {
-    let filtered = categories;
-
-    // Apply search filter
-    if (query.trim()) {
-      const searchLower = query.toLowerCase();
-      filtered = categories.filter(category =>
-        category.name.toLowerCase().includes(searchLower) ||
-        category.description.toLowerCase().includes(searchLower)
-      );
-    }
-
-    return filtered;
-  }, []);
-
-  // Get filtered and paginated categories
-  const filteredCategories = filterCategories(categories, searchQuery);
+  // Get paginated categories
+  const filteredCategories = categories;
   const totalPages = Math.ceil(filteredCategories.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
@@ -157,11 +140,6 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
     scrollToHeadTitle();
   }, [currentPage, filteredCategories.length, updateURL]);
 
-  // Handle search
-  const handleSearch = useCallback((query: string) => {
-    setSearchQuery(query);
-    setCurrentPage(1);
-  }, []);
 
 
 
@@ -201,22 +179,6 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
         </div>
       </div>
 
-      {/* Search Bar */}
-      <div className="max-w-md mb-6 mt-6">
-        <div className="relative">
-          <input
-            type="text"
-            id="category-search"
-            placeholder="Search categories by name or description..."
-            value={searchQuery}
-            onChange={(e) => handleSearch(e.target.value)}
-            className="w-full px-4 py-2 pl-10 pr-4 text-sm border border-slate-300 dark:border-slate-600 rounded-lg bg-white dark:bg-slate-800 text-slate-900 dark:text-slate-100 placeholder-slate-500 dark:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-          />
-          <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-            <Search className="h-5 w-5 text-slate-400" />
-          </div>
-        </div>
-      </div>
 
       {/* Pagination */}
       <Pagination
@@ -272,10 +234,10 @@ const Mcp: React.FC<McpProps> = ({ serversCount, toolsCount, clientsCount, categ
             <h2 className="text-xl font-semibold mb-6 text-center">Why Use Our MCP Directory?</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="text-center space-y-2">
-                <Search className="h-8 w-8 text-blue-600 mx-auto" />
-                <h3 className="font-semibold">Powerful Search</h3>
+                <Filter className="h-8 w-8 text-blue-600 mx-auto" />
+                <h3 className="font-semibold">Smart Categories</h3>
                 <p className="text-sm text-gray-600 dark:text-gray-400">
-                  Find exactly what you need with our advanced search and filtering capabilities.
+                  Browse organized categories to find the perfect MCP servers for your needs.
                 </p>
               </div>
               <div className="text-center space-y-2">
