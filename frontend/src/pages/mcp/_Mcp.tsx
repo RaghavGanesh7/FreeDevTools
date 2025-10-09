@@ -92,7 +92,7 @@ const Mcp: React.FC<McpProps> = ({
     return () => clearTimeout(timer);
   }, []);
 
-  // Use categories directly from props (already paginated by Astro)
+  // Use categories directly from props (already paginated by Astro) a
   const paginatedCategories = categories;
 
 
@@ -244,8 +244,8 @@ const Mcp: React.FC<McpProps> = ({
                 key={pageNum}
                 href={pageUrl}
                 className={`px-3 py-2 text-sm font-medium rounded transition-colors ${isCurrentPage
-                    ? 'text-white bg-blue-600 border border-blue-600'
-                    : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
+                  ? 'text-white bg-blue-600 border border-blue-600'
+                  : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
                   }`}
               >
                 {pageNum}

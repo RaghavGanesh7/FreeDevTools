@@ -15,7 +15,7 @@ export const GET: APIRoute = async ({ site }) => {
   // Get all categories from the metadata
   const categories = Object.keys(metadata.categories);
 
-  // Calculate total pages for MCP directory pagination
+  // Calculate total pages for MCP directory pagination as
   const totalCategories = categories.length;
   const itemsPerPage = 30;
   const totalPages = Math.ceil(totalCategories / itemsPerPage);
