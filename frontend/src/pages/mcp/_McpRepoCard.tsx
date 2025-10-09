@@ -26,11 +26,12 @@ const RepositoryCard = ({ server, formattedName, category, repositoryId }: { ser
   <TooltipProvider>
     <a
       href={category && repositoryId ? `/freedevtools/mcp/${category}/${repositoryId}/` : `/freedevtools/mcp/${server.name}/`}
-      className="block bg-white dark:bg-slate-900 border border-slate-200 rounded-lg p-6 hover:shadow-md transition-all duration-300 hover:-translate-y-1 cursor-pointer"
+      className="block bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-900 rounded-lg p-6 hover:shadow-md transition-all duration-300 hover:-translate-y-1 cursor-pointer"
       data-repo-id={repositoryId || server.name}
       data-repo-name={server.name}
       data-repo-description={server.description}
       data-repo-license={server.license}
+      suppressHydrationWarning
     >
       <div className="space-y-6">
         {/* First Row: Title */}
@@ -88,7 +89,7 @@ const RepositoryCard = ({ server, formattedName, category, repositoryId }: { ser
           {/* Left side: Last updated */}
           <div className="flex items-center space-x-1 text-sm text-gray-500 dark:text-gray-400">
             <Clock className="w-4 h-4 text-gray-900 dark:text-gray-400" />
-            <span>Last Updated {new Date(server.updated_at).toLocaleDateString()}</span>
+            <span>Last Updated {new Date(server.updated_at).toLocaleDateString('en-US', { year: 'numeric', month: '2-digit', day: '2-digit' })}</span>
           </div>
 
           {/* Right side: Other stats */}

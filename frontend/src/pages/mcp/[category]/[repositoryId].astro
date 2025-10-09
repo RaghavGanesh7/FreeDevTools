@@ -1,11 +1,11 @@
 ---
-import ToolContainer from '@/components/tool/ToolContainer.tsx';
-import ToolHead from '@/components/tool/ToolHead.tsx';
-import BaseLayout from '@/layouts/BaseLayout.astro';
-import { generateMcpStaticPaths } from '@/lib/mcp-utils';
-import { formatRepositoryName } from '@/lib/utils';
 import { getEntry } from 'astro:content';
 import { marked } from 'marked';
+import ToolContainer from '../../../components/tool/ToolContainer';
+import ToolHead from '../../../components/tool/ToolHead';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { generateMcpStaticPaths } from '../../../lib/mcp-utils';
+import { formatRepositoryName } from '../../../lib/utils';
 
 // Generate static paths for all MCP repositories using optimized utility
 export async function getStaticPaths() {
