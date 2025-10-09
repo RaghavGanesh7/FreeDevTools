@@ -251,6 +251,7 @@ const breadcrumbItems = [
             id="go-to-page-btn"
             class="px-3 py-1 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded transition-colors"
             type="button"
+            onclick="handleGoToPage()"
           >
             GO
           </button>
@@ -284,35 +285,72 @@ const breadcrumbItems = [
   </ToolContainer>
 </BaseLayout>
 
-<script define:vars={{ 
-  categoryServers: page.data,
-  currentPage: page.currentPage,
-  lastPage: page.lastPage,
-  category: category
-}}>
+  <script define:vars={{
+    categoryServers: page.data,
+    currentPage: page.currentPage,
+    lastPage: page.lastPage,
+    category: category
+  }}>
+    console.log('Script loaded on client side!');
+
+    // Global function for go to page
+    window.handleGoToPage = function() {
+      const pageInput = document.getElementById('go-to-page');
+      const pageNum = parseInt(pageInput.value);
+      
+      console.log('Page number:', pageNum, 'Last page:', lastPage);
+      
+      if (pageNum >= 1 && pageNum <= lastPage) {
+        const url = pageNum === 1 
+          ? `/freedevtools/mcp/${category}/`
+          : `/freedevtools/mcp/${category}/${pageNum}/`;
+        console.log('Navigating to:', url);
+        window.location.href = url;
+      } else {
+        alert(`Please enter a page number between 1 and ${lastPage}`);
+      }
+    }
+  
   // Wait for DOM to be ready
   document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM loaded in Astro pagination!');
     // Items per page is static in Astro pagination
 
     // Handle go to page
     const goToPageBtn = document.getElementById('go-to-page-btn');
+    console.log('GO button element:', goToPageBtn);
+    
+    // Test if button exists and add a simple click handler
     if (goToPageBtn) {
+      console.log('GO button found, adding event listener');
+      
+      // Simple test click handler
+      goToPageBtn.addEventListener('click', function(e) {
+        console.log('SIMPLE CLICK HANDLER TRIGGERED!');
+        alert('Button clicked!');
+      });
       // Handle go to page click
       goToPageBtn.addEventListener('click', (e) => {
+        console.log('GO button clicked in Astro!');
         e.preventDefault();
         e.stopPropagation();
         const pageInput = document.getElementById('go-to-page');
+        console.log('Page input element:', pageInput);
         if (pageInput) {
           const pageNum = parseInt(pageInput.value);
+          console.log('Page number:', pageNum, 'Last page:', lastPage);
           
           if (pageNum >= 1 && pageNum <= lastPage) {
             const url = pageNum === 1 
               ? `/freedevtools/mcp/${category}/`
               : `/freedevtools/mcp/${category}/${pageNum}/`;
+            console.log('Navigating to:', url);
             window.location.href = url;
           } else {
             alert(`Please enter a page number between 1 and ${lastPage}`);
           }
+        } else {
+          console.log('Page input not found!');
         }
       });
       

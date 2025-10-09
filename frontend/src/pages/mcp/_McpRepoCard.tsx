@@ -26,7 +26,7 @@ const RepositoryCard = ({ server, formattedName, category, repositoryId }: { ser
   <TooltipProvider>
     <a
       href={category && repositoryId ? `/freedevtools/mcp/${category}/${repositoryId}/` : `/freedevtools/mcp/${server.name}/`}
-      className="block bg-white dark:bg-slate-900 border border-slate-200 rounded-lg p-6 hover:shadow-md transition-all duration-300 hover:-translate-y-1 cursor-pointer"
+      className="block bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-900 rounded-lg p-6 hover:shadow-md transition-all duration-300 hover:-translate-y-1 cursor-pointer"
       data-repo-id={repositoryId || server.name}
       data-repo-name={server.name}
       data-repo-description={server.description}

@@ -59,8 +59,11 @@ export default function McpPagination({
 
   // Handle go to page
   const handleGoToPage = (pageInput: string) => {
+    console.log('handleGoToPage called with:', pageInput);
     const pageNum = parseInt(pageInput);
+    console.log('Parsed page number:', pageNum, 'Total pages:', totalPages);
     if (pageNum >= 1 && pageNum <= totalPages) {
+      console.log('Setting current page to:', pageNum);
       setCurrentPage(pageNum);
     } else {
       alert(`Please enter a page number between 1 and ${totalPages}`);
@@ -83,61 +86,33 @@ export default function McpPagination({
   return (
     <div>
       {/* Pagination Info and Controls - Top */}
-      <div className="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6">
-        <div className="text-sm text-slate-600 dark:text-slate-400">
-          <span className="font-medium">Page {currentPage} of {totalPages}</span>
-          <span className="mx-2">•</span>
-          <span>Showing {startIndex + 1}-{Math.min(endIndex, filteredServers.length)} of {filteredServers.length} repositories</span>
-          <span className="mx-2">•</span>
-          <span>(30 items per page)</span>
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-6 p-4 bg-slate-50 dark:bg-slate-800 rounded-lg">
+        <div className="text-sm text-slate-900 dark:text-slate-400 mb-2 sm:mb-0">
+          Showing {startIndex + 1}-{Math.min(endIndex, filteredServers.length)} of {filteredServers.length} repositories (Page {currentPage} of {totalPages})
         </div>
 
-        {/* Navigation Controls - Top */}
-        <div className="flex items-center justify-between mt-4">
-          <div className="flex items-center gap-2">
+        {/* Pagination Controls */}
+        <div className="flex flex-col sm:flex-row items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-2">
+          {/* Pagination buttons */}
+          <div className="flex items-center space-x-2">
             <button
               onClick={() => handlePageChange(currentPage - 1)}
               disabled={currentPage === 1}
-              className={`inline-flex items-center px-3 py-2 text-sm font-medium rounded-lg transition-colors ${currentPage === 1
-                ? 'text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 cursor-not-allowed'
-                : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
-                }`}
+              className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
             >
               ← Previous
             </button>
 
+            <span className="text-sm text-slate-500 dark:text-slate-400">
+              {currentPage} / {totalPages}
+            </span>
+
             <button
               onClick={() => handlePageChange(currentPage + 1)}
               disabled={currentPage === totalPages}
-              className={`inline-flex items-center px-3 py-2 text-sm font-medium rounded-lg transition-colors ${currentPage === totalPages
-                ? 'text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 cursor-not-allowed'
-                : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
-                }`}
+              className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
             >
               Next →
-            </button>
-          </div>
-
-          {/* Go to page input */}
-          <div className="flex items-center gap-2">
-            <label htmlFor="go-to-page" className="text-sm text-slate-600 dark:text-slate-400">Go to page:</label>
-            <input
-              type="number"
-              id="go-to-page"
-              min="1"
-              max={totalPages}
-              value={currentPage}
-              onChange={(e) => setCurrentPage(parseInt(e.target.value) || 1)}
-              className="w-16 px-2 py-1 text-sm border border-slate-300 dark:border-slate-600 rounded bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100"
-            />
-            <button
-              onClick={() => {
-                const input = document.getElementById('go-to-page') as HTMLInputElement;
-                handleGoToPage(input.value);
-              }}
-              className="px-3 py-1 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded transition-colors"
-            >
-              GO
             </button>
           </div>
         </div>
@@ -192,17 +167,25 @@ export default function McpPagination({
         )}
       </div>
 
-      {/* Pagination Controls - Bottom */}
+      {/* Bottom Pagination */}
       {totalPages > 1 && (
-        <div className="mt-8 pt-6 border-t border-slate-200 dark:border-slate-700">
-          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+        <div className="mt-8 flex flex-col items-center">
+          <div className="flex items-center space-x-1">
+            <button
+              onClick={() => handlePageChange(currentPage - 1)}
+              disabled={currentPage === 1}
+              className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              ← Previous
+            </button>
+
             {/* Page Numbers */}
-            <div className="flex items-center gap-1">
+            <div className="flex items-center space-x-1">
               {currentPage > 3 && (
                 <>
                   <button
                     onClick={() => handlePageChange(1)}
-                    className="px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+                    className="px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
                   >
                     1
                   </button>
@@ -214,9 +197,9 @@ export default function McpPagination({
                 <button
                   key={pageNum}
                   onClick={() => handlePageChange(pageNum)}
-                  className={`px-3 py-2 text-sm font-medium rounded-lg transition-colors ${pageNum === currentPage
+                  className={`px-3 py-2 text-sm font-medium rounded-md transition-colors ${pageNum === currentPage
                     ? 'text-white bg-blue-600 border border-blue-600'
-                    : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
+                    : 'text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
                     }`}
                 >
                   {pageNum}
@@ -228,7 +211,7 @@ export default function McpPagination({
                   <span className="px-2 text-slate-400">...</span>
                   <button
                     onClick={() => handlePageChange(totalPages)}
-                    className="px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
+                    className="px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
                   >
                     {totalPages}
                   </button>
@@ -236,30 +219,55 @@ export default function McpPagination({
               )}
             </div>
 
-            {/* Navigation buttons */}
-            <div className="flex items-center gap-2">
-              <button
-                onClick={() => handlePageChange(currentPage - 1)}
-                disabled={currentPage === 1}
-                className={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-lg transition-colors ${currentPage === 1
-                  ? 'text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 cursor-not-allowed'
-                  : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
-                  }`}
-              >
-                ← Previous
-              </button>
+            <button
+              onClick={() => handlePageChange(currentPage + 1)}
+              disabled={currentPage === totalPages}
+              className="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              Next →
+            </button>
+          </div>
 
-              <button
-                onClick={() => handlePageChange(currentPage + 1)}
-                disabled={currentPage === totalPages}
-                className={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-lg transition-colors ${currentPage === totalPages
-                  ? 'text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 cursor-not-allowed'
-                  : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
-                  }`}
-              >
-                Next →
-              </button>
-            </div>
+          {/* Page Input Box */}
+          <div className="mt-4 flex items-center space-x-2">
+            <label htmlFor="page-input" className="text-sm text-slate-700 dark:text-slate-300">
+              Go to page:
+            </label>
+            <input
+              id="page-input"
+              type="number"
+              min="1"
+              max={totalPages}
+              value={currentPage}
+              placeholder={currentPage.toString()}
+              onChange={(e) => setCurrentPage(parseInt(e.target.value) || 1)}
+              onKeyPress={(e) => {
+                if (e.key === 'Enter') {
+                  handleGoToPage(e.currentTarget.value);
+                }
+              }}
+              className="w-20 px-3 py-2 text-sm border border-slate-300 dark:border-slate-600 rounded-md bg-white dark:bg-slate-700 text-slate-700 dark:text-slate-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-center"
+            />
+            <button
+              onClick={() => {
+                console.log('GO button clicked!');
+                const input = document.getElementById('page-input') as HTMLInputElement;
+                console.log('Input element:', input);
+                if (input) {
+                  console.log('Input value:', input.value);
+                  handleGoToPage(input.value);
+                } else {
+                  console.log('Input element not found!');
+                }
+              }}
+              className="px-3 py-2 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded-md transition-colors"
+            >
+              Go
+            </button>
+          </div>
+
+          <div className="mt-4 text-sm text-slate-500 dark:text-slate-400">
+            Page {currentPage} of {totalPages} • {filteredServers.length} total repositories
           </div>
         </div>
       )}
