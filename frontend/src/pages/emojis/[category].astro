@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdBanner from '../../components/banner/AdBanner';
 import Pagination from '../../components/Pagination.astro';
 import BottomPagination from '../../components/BottomPagination.astro';
+import CreditsButton from '../../components/buttons/CreditsButton';
 import { getEmojisByCategory, getEmojiCategories } from '../../lib/emojis';
 
 const ITEMS_PER_PAGE = 24;
@@ -170,12 +171,7 @@ const categoryIconMap: Record<string, string> = {
         >
           ←  Back to Emojis
         </a>
-        <a 
-          href="/freedevtools/emojis/credits/"
-          class="inline-flex items-center px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
-        >
-          Credits & Acknowledgments
-        </a>
+        <CreditsButton href="/freedevtools/emojis/credits/" />
       </div>
     </div>
   </div>
