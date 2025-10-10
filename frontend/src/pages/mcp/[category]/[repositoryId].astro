@@ -59,19 +59,20 @@ const stats = {
 };
 
 // SEO data
-const title = `${formattedName} - ${categoryName} MCP Repository`;
-const description = server.description || `MCP repository for ${formattedName} in the ${categoryName} category.`;
-const keywords = [
+const title = `${formattedName} – ${categoryName} MCP Server by ${server.owner.charAt(0).toUpperCase() + server.owner.slice(1)} Model Context Protocol Tool | Free DevTools by Hexmos`;
+
+const description = server.description || `${server.owner.charAt(0).toUpperCase() + server.owner.slice(1)}'s ${formattedName} MCP server helps your AI generate more accurate and context-aware responses. Supported in Copilot Agent, Cursor, Claude Code, Windsurf, and Cline – free, open source, and ready to integrate.`;
+
+let keywords = [
   'MCP',
   'Model Context Protocol',
   formattedName,
   categoryName,
-  'MCP server',
-  'AI tools',
-  'developer tools',
-  'open source',
-  'repository'
 ];
+
+if (server.keywords && server.keywords.length > 0 ){
+  keywords = [...keywords, ...server.keywords];
+}
 
 // Breadcrumb data
 const breadcrumbItems = [
