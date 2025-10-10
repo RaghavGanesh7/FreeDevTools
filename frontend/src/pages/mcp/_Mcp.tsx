@@ -121,7 +121,7 @@ const Mcp: React.FC<McpProps> = ({
         breadcrumbItems={breadcrumbItems}
       />
 
-      {/* Overview Stats */}
+      {/* Overview Stats  */}
       <div className="text-center">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
           <div className="text-center">
@@ -134,6 +134,7 @@ const Mcp: React.FC<McpProps> = ({
           </div>
         </div>
       </div>
+
 
       {/* Pagination Info */}
       <div className="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-6">
