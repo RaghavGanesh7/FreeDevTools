@@ -7,10 +7,8 @@ on:
 
 jobs:
   build-and-deploy:
-    # Prod
-    # runs-on: ubuntu-latest
-    # Self hosted
-    runs-on: self-hosted
+    # Use ubuntu-latest first, fallback to self-hosted
+    runs-on: [ubuntu-latest, self-hosted]
     environment: production # This tells GitHub to use the production environment secrets
 
     steps:
