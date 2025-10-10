@@ -165,7 +165,7 @@ async function main() {
     }
   }
 
-  console.log(`Total URLs to check: ${urls.length}`);
+  console.log(`Total URLs to check: ${urls.length} (including 1 test URL)`);
 
   const limit = pLimit(concurrency);
   const seenHashes = new Map();
