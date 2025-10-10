@@ -185,8 +185,10 @@ jobs:
         run: |
           echo "🔨 Building project..."
           cd frontend
-          NODE_OPTIONS="--max-old-space-size=8192" npx astro build
+          npx astro build
         env:
+          NODE_OPTIONS: '--max-old-space-size=16384'
+          UV_THREADPOOL_SIZE: '16'
           PUBLIC_GA_ID: ${{ secrets.PUBLIC_GA_ID }}
           MEILISEARCH_API_KEY: ${{ secrets.MEILISEARCH_API_KEY }}
 
