@@ -148,7 +148,7 @@ const Mcp: React.FC<McpProps> = ({
           {paginatedCategories.map((category) => (
             <a
               key={category.id}
-              href={category.url + "/"}
+              href={category.url}
               className="block p-6 bg-white dark:bg-slate-900 border border-slate-200 dark:border-transparent rounded-lg text-inherit no-underline transition-all duration-300 ease-in-out hover:shadow-md  hover:-translate-y-1"
             >
               <div className="text-center space-y-3">
