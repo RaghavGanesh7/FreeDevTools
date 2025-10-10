@@ -13,6 +13,7 @@ for (const cat of categories) {
   emojisByCategory[cat] = emojis.filter((e) => (e.fluentui_metadata?.group || e.emoji_net_data?.category || (e as any).given_category || 'Other') === cat);
 }
 
+
 // Sort categories and emojis within categories
 const sortedCategories = Object.keys(emojisByCategory).sort();
 for (const category of sortedCategories) {
