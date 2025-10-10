@@ -4,6 +4,7 @@ import CopyPngButton from '../../../components/buttons/CopyPngButton.tsx';
 import CopySvgButton from '../../../components/buttons/CopySvgButton.tsx';
 import DownloadPngButton from '../../../components/buttons/DownloadPngButton.tsx';
 import DownloadSvgButton from '../../../components/buttons/DownloadSvgButton.tsx';
+import CreditsButton from '../../../components/buttons/CreditsButton';
 import ToastProvider from '../../../components/ToastProvider';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 // SVG processing moved to client-side for better performance
@@ -294,12 +295,7 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
       >
         ← Back to PNG Icons
       </a>
-      <a 
-        href="/freedevtools/png_icons/credits/" 
-        class="inline-flex items-center px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
-      >
-        Credits & Acknowledgments
-      </a>
+      <CreditsButton href="/freedevtools/png_icons/credits/" />
     </div>
   </div>
 </ToastProvider>

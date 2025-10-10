@@ -1,3 +1,4 @@
+import CreditsButton from "@/components/buttons/CreditsButton";
 import ToolContainer from "@/components/tool/ToolContainer";
 import ToolContentCardWrapper from "@/components/tool/ToolContentCardWrapper";
 import ToolHead from "@/components/tool/ToolHead";
@@ -296,12 +297,7 @@ const Mcp: React.FC<McpProps> = ({
           >
             ←  Back to Free DevTools
           </a>
-          <a
-            href="/freedevtools/mcp/credits/"
-            className="inline-flex items-center px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-slate-50 dark:bg-slate-800 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
-          >
-            Credits & Acknowledgments
-          </a>
+          <CreditsButton href="/freedevtools/mcp/credits/" />
         </div>
       </div>
     </ToolContainer>
