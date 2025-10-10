@@ -22,8 +22,8 @@ async function getAllCommands() {
   > = {};
 
   for (const entry of tldrEntries) {
+
     // Extract platform and command name from path
-    
     const pathParts = (entry as any).id.split("/");
     const platform = pathParts[pathParts.length - 2]; // e.g., 'android' 
     const fileName = pathParts[pathParts.length - 1]; // e.g., 'am.md'

@@ -1,15 +1,15 @@
-import type { APIRoute } from "astro";
-import type { CollectionEntry } from "astro:content";
-import { getCollection } from "astro:content";
+import type { APIRoute } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 
 async function getCommandsByPlatform() {
-  const entries: CollectionEntry<"tldr">[] = await getCollection("tldr");
+  const entries: CollectionEntry<'tldr'>[] = await getCollection('tldr');
   const byPlatform: Record<string, { url: string }[]> = {};
   for (const entry of entries) {
-    const parts = entry.id.split("/");
+    const parts = entry.id.split('/');
     const platform = parts[parts.length - 2];
     const fileName = parts[parts.length - 1];
-    const name = fileName.replace(/\.md$/i, "");
+    const name = fileName.replace(/\.md$/i, '');
     if (!byPlatform[platform]) byPlatform[platform] = [];
     byPlatform[platform].push({
       url: entry.data.path || `/freedevtools/tldr/${platform}/${name}`,
@@ -21,6 +21,10 @@ async function getCommandsByPlatform() {
 export const GET: APIRoute = async ({ site }) => {
   const now = new Date().toISOString();
   const byPlatform = await getCommandsByPlatform();
+
+  if (!site) {
+    throw new Error('Site is not defined');
+  }
 
   const urls: string[] = [];
   // Category landing
@@ -36,18 +40,24 @@ export const GET: APIRoute = async ({ site }) => {
   // Individual command pages
   for (const [platform, commands] of Object.entries(byPlatform)) {
     for (const cmd of commands) {
+      // Remove /freedevtools prefix and ensure proper URL construction
+      const cleanUrl = cmd.url.replace('/freedevtools', '');
+      // Convert site URL to string and ensure proper URL construction
+      const siteStr = site.toString();
+      const baseUrl = siteStr.endsWith('/') ? siteStr.slice(0, -1) : siteStr;
+      const finalUrl = cleanUrl.startsWith('/') ? cleanUrl : `/${cleanUrl}`;
       urls.push(
-        `  <url>\n    <loc>${site}${cmd.url.replace("/freedevtools", "")}/</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.7</priority>\n  </url>`
+        `  <url>\n    <loc>${baseUrl}${finalUrl}/</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.7</priority>\n  </url>`
       );
     }
   }
 
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="/freedevtools/sitemap.xsl"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>`;
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="/freedevtools/sitemap.xsl"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join('\n')}\n</urlset>`;
 
   return new Response(xml, {
     headers: {
-      "Content-Type": "application/xml",
-      "Cache-Control": "public, max-age=3600",
+      'Content-Type': 'application/xml',
+      'Cache-Control': 'public, max-age=3600',
     },
   });
 };
