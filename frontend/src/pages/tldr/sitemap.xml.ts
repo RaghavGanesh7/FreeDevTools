@@ -45,9 +45,10 @@ export const GET: APIRoute = async ({ site }) => {
       // Convert site URL to string and ensure proper URL construction
       const siteStr = site.toString();
       const baseUrl = siteStr.endsWith('/') ? siteStr.slice(0, -1) : siteStr;
+      // Don't add extra slash - cleanUrl already has the correct path
       const finalUrl = cleanUrl.startsWith('/') ? cleanUrl : `/${cleanUrl}`;
       urls.push(
-        `  <url>\n    <loc>${baseUrl}${finalUrl}/</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.7</priority>\n  </url>`
+        `  <url>\n    <loc>${baseUrl}${finalUrl}</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.7</priority>\n  </url>`
       );
     }
   }
