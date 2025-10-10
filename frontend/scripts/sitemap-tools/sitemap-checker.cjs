@@ -90,7 +90,20 @@ async function checkUrl(url, seenHashes) {
       }
 
       const bodyText = $("body").text().trim();
-      if (bodyText.length < 200 || /not found|error 404/i.test(bodyText)) {
+
+      // Check for soft 404 indicators
+      const isSoft404 = bodyText.length < 200 || /not found|error 404/i.test(bodyText);
+
+      // But exclude valid repository pages and other content pages
+      const hasValidContent =
+        $('h1').length > 0 || // Has headings
+        $('main').length > 0 || // Has main content area
+        $('.container, .content, .page-content').length > 0 || // Has content containers
+        $('article, section').length > 0 || // Has semantic content
+        $('meta[name="description"]').length > 0 || // Has meta description
+        $('title').text().length > 10; // Has meaningful title
+
+      if (isSoft404 && !hasValidContent) {
         indexable = "No";
         issues.push("Soft 404 suspected");
       }
@@ -130,8 +143,25 @@ async function main() {
     for (const sm of parsed.sitemapindex.sitemap) {
       const sub = await axios.get(sm.loc[0]).then(r => r.data).catch(() => null);
       if (!sub) continue;
-      const subParsed = await parseStringPromise(sub);
-      subParsed.urlset.url.forEach(u => urls.push(u.loc[0]));
+
+      // Check if the response is XML (sitemap) or HTML (web page)
+      if (sub.includes('<?xml') && sub.includes('<urlset')) {
+        // It's a proper XML sitemap
+        try {
+          const subParsed = await parseStringPromise(sub);
+          if (subParsed.urlset && subParsed.urlset.url) {
+            subParsed.urlset.url.forEach(u => urls.push(u.loc[0]));
+          }
+        } catch (e) {
+          console.log(`Warning: Failed to parse sitemap ${sm.loc[0]}: ${e.message}`);
+        }
+      } else if (sub.includes('<!DOCTYPE html') || sub.includes('<html')) {
+        // It's an HTML page, add the URL directly
+        console.log(`Adding HTML page as URL: ${sm.loc[0]}`);
+        urls.push(sm.loc[0]);
+      } else {
+        console.log(`Warning: Unknown content type for ${sm.loc[0]}`);
+      }
     }
   }
 
@@ -154,121 +184,121 @@ async function main() {
 }
 
 function generatePDF(results, pdfName) {
-    const doc = new PDFDocument({ margin: 20, size: 'A4', layout: 'portrait' });
-    doc.pipe(fs.createWriteStream(pdfName));
-  
-    // --- Summary Page ---
-    const total = results.length;
-    const failed = results.filter(r => r.indexable === "No").length;
-    const passed = total - failed;
-    const percentPassed = ((passed / total) * 100).toFixed(2);
-    const percentFailed = ((failed / total) * 100).toFixed(2);
-  
-    doc.fontSize(20).text('Sitemap Indexability Report', { align: 'center' });
-    doc.moveDown(2);
-  
-    // Summary table
-    const tableCols = [
-      { header: 'Metric', width: 200 },
-      { header: 'Count', width: 100 },
-      { header: 'Percentage', width: 100 },
-    ];
-    const rowHeight = 40;
-    const startX = 100;
-    let y = doc.y;
-  
-    // Draw table header
-    let x = startX;
-    doc.fontSize(12).fillColor('white').font('Helvetica-Bold');
+  const doc = new PDFDocument({ margin: 20, size: 'A4', layout: 'portrait' });
+  doc.pipe(fs.createWriteStream(pdfName));
+
+  // --- Summary Page ---
+  const total = results.length;
+  const failed = results.filter(r => r.indexable === "No").length;
+  const passed = total - failed;
+  const percentPassed = ((passed / total) * 100).toFixed(2);
+  const percentFailed = ((failed / total) * 100).toFixed(2);
+
+  doc.fontSize(20).text('Sitemap Indexability Report', { align: 'center' });
+  doc.moveDown(2);
+
+  // Summary table
+  const tableCols = [
+    { header: 'Metric', width: 200 },
+    { header: 'Count', width: 100 },
+    { header: 'Percentage', width: 100 },
+  ];
+  const rowHeight = 40;
+  const startX = 100;
+  let y = doc.y;
+
+  // Draw table header
+  let x = startX;
+  doc.fontSize(12).fillColor('white').font('Helvetica-Bold');
+  tableCols.forEach(col => {
+    doc.rect(x, y, col.width, rowHeight).fill('#333').stroke('black');
+    doc.fillColor('white').text(col.header, x + 5, y + 12, { width: col.width - 10 });
+    x += col.width;
+  });
+
+  y += rowHeight;
+
+  // Draw summary rows
+  const summaryRows = [
+    { Metric: 'Total URLs tested', Count: total, Percentage: '100%' },
+    { Metric: 'Passed (indexable)', Count: passed, Percentage: `${percentPassed}%` },
+    { Metric: 'Failed (non-indexable)', Count: failed, Percentage: `${percentFailed}%` },
+  ];
+
+  doc.font('Helvetica').fillColor('black');
+  summaryRows.forEach(row => {
+    x = startX;
+    const fillColor = row.Metric.includes('Failed') ? '#f8d9d9' : '#d9f0d9';
+
     tableCols.forEach(col => {
-      doc.rect(x, y, col.width, rowHeight).fill('#333').stroke('black');
-      doc.fillColor('white').text(col.header, x + 5, y + 12, { width: col.width - 10 });
+      doc.rect(x, y, col.width, rowHeight).fill(fillColor).stroke('black');
       x += col.width;
     });
-  
+
+    x = startX;
+    doc.fillColor('black')
+      .text(row.Metric, x + 5, y + 12, { width: tableCols[0].width - 10 });
+    x += tableCols[0].width;
+    doc.text(row.Count.toString(), x + 5, y + 12, { width: tableCols[1].width - 10 });
+    x += tableCols[1].width;
+    doc.text(row.Percentage, x + 5, y + 12, { width: tableCols[2].width - 10 });
+
     y += rowHeight;
-  
-    // Draw summary rows
-    const summaryRows = [
-      { Metric: 'Total URLs tested', Count: total, Percentage: '100%' },
-      { Metric: 'Passed (indexable)', Count: passed, Percentage: `${percentPassed}%` },
-      { Metric: 'Failed (non-indexable)', Count: failed, Percentage: `${percentFailed}%` },
-    ];
-  
-    doc.font('Helvetica').fillColor('black');
-    summaryRows.forEach(row => {
-      x = startX;
-      const fillColor = row.Metric.includes('Failed') ? '#f8d9d9' : '#d9f0d9';
-  
-      tableCols.forEach(col => {
-        doc.rect(x, y, col.width, rowHeight).fill(fillColor).stroke('black');
-        x += col.width;
-      });
-  
-      x = startX;
-      doc.fillColor('black')
-        .text(row.Metric, x + 5, y + 12, { width: tableCols[0].width - 10 });
-      x += tableCols[0].width;
-      doc.text(row.Count.toString(), x + 5, y + 12, { width: tableCols[1].width - 10 });
-      x += tableCols[1].width;
-      doc.text(row.Percentage, x + 5, y + 12, { width: tableCols[2].width - 10 });
-  
-      y += rowHeight;
-    });
-  
-    doc.addPage();
-  
-    // --- Detailed URLs Table ---
-    const cols = [
-      { header: 'URL', width: 220 },
-      { header: 'Status', width: 60 },
-      { header: 'Indexable', width: 60 },
-      { header: 'Issues', width: 200 }
-    ];
-    const rowHeightDetail = 40;
-    y = doc.y;
-  
-    let xDetail = 20;
-    doc.fontSize(10).fillColor('white').font('Helvetica-Bold');
+  });
+
+  doc.addPage();
+
+  // --- Detailed URLs Table ---
+  const cols = [
+    { header: 'URL', width: 220 },
+    { header: 'Status', width: 60 },
+    { header: 'Indexable', width: 60 },
+    { header: 'Issues', width: 200 }
+  ];
+  const rowHeightDetail = 40;
+  y = doc.y;
+
+  let xDetail = 20;
+  doc.fontSize(10).fillColor('white').font('Helvetica-Bold');
+  cols.forEach(col => {
+    doc.rect(xDetail, y, col.width, rowHeightDetail).fill('#333').stroke('black');
+    doc.fillColor('white').text(col.header, xDetail + 5, y + 12, { width: col.width - 10 });
+    xDetail += col.width;
+  });
+
+  y += rowHeightDetail;
+  doc.font('Helvetica').fillColor('black');
+
+  results.forEach(r => {
+    xDetail = 20;
+    const fillColor = r.indexable === "Yes" ? '#d9f0d9' : '#f8d9d9';
+
     cols.forEach(col => {
-      doc.rect(xDetail, y, col.width, rowHeightDetail).fill('#333').stroke('black');
-      doc.fillColor('white').text(col.header, xDetail + 5, y + 12, { width: col.width - 10 });
+      doc.rect(xDetail, y, col.width, rowHeightDetail).fill(fillColor).stroke('black');
       xDetail += col.width;
     });
-  
+
+    xDetail = 20;
+    doc.fillColor('black')
+      .text(r.url, xDetail + 5, y + 12, { width: cols[0].width - 10, ellipsis: true });
+    xDetail += cols[0].width;
+    doc.text(r.status, xDetail + 5, y + 12, { width: cols[1].width - 10 });
+    xDetail += cols[1].width;
+    doc.text(r.indexable, xDetail + 5, y + 12, { width: cols[2].width - 10 });
+    xDetail += cols[2].width;
+    doc.text(r.issues, xDetail + 5, y + 12, { width: cols[3].width - 10, ellipsis: true });
+
     y += rowHeightDetail;
-    doc.font('Helvetica').fillColor('black');
-  
-    results.forEach(r => {
-      xDetail = 20;
-      const fillColor = r.indexable === "Yes" ? '#d9f0d9' : '#f8d9d9';
-  
-      cols.forEach(col => {
-        doc.rect(xDetail, y, col.width, rowHeightDetail).fill(fillColor).stroke('black');
-        xDetail += col.width;
-      });
-  
-      xDetail = 20;
-      doc.fillColor('black')
-        .text(r.url, xDetail + 5, y + 12, { width: cols[0].width - 10, ellipsis: true });
-      xDetail += cols[0].width;
-      doc.text(r.status, xDetail + 5, y + 12, { width: cols[1].width - 10 });
-      xDetail += cols[1].width;
-      doc.text(r.indexable, xDetail + 5, y + 12, { width: cols[2].width - 10 });
-      xDetail += cols[2].width;
-      doc.text(r.issues, xDetail + 5, y + 12, { width: cols[3].width - 10, ellipsis: true });
-  
-      y += rowHeightDetail;
-      if (y > doc.page.height - 50) {
-        doc.addPage();
-        y = 50;
-      }
-    });
-  
-    doc.end();
-    console.log(`✅ PDF report saved as ${pdfName}`);
-  }
-  
+    if (y > doc.page.height - 50) {
+      doc.addPage();
+      y = 50;
+    }
+  });
+
+  doc.end();
+  console.log(`✅ PDF report saved as ${pdfName}`);
+}
+
 
 main().catch(err => {
   console.error(err);
