@@ -108,6 +108,7 @@ const Mcp: React.FC<McpProps> = ({
           name="MCP Directory"
           description={`Browse ${formatNumber(serversCount)}+ MCP repositories instantly with our comprehensive directory. Find Model Context Protocol servers, tools, and clients by category. Free, no registration required.`}
           breadcrumbItems={breadcrumbItems}
+          client:visible
         />
         <McpSkeleton />
       </ToolContainer>
@@ -120,6 +121,7 @@ const Mcp: React.FC<McpProps> = ({
         name="MCP Directory"
         description={`Browse ${formatNumber(serversCount)}+ MCP repositories instantly with our comprehensive directory. Find Model Context Protocol servers, tools, and clients by category. Free, no registration required.`}
         breadcrumbItems={breadcrumbItems}
+        client:visible
       />
 
       {/* Overview Stats  */}
