@@ -29,7 +29,7 @@ const ToolHead: React.FC<ToolHeadProps> = ({ name, description, breadcrumbItems 
         <h1 id="head-title" className="text-2xl font-medium mb-2 text-black dark:text-slate-300">
           {name}
         </h1>
-        <p className="text-muted-foreground text-sm md:text-lg lg:text-lg font-normal ">
+        <p className="text-muted-foreground">
           {description}
         </p>
       </div>
