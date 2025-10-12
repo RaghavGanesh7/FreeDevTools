@@ -2072,7 +2072,7 @@
       "owner": "ngoiyaeric",
       "name": "osm-mcp",
       "url": "https://github.com/ngoiyaeric/osm-mcp",
-      "imageUrl": "https://github.com/ngoiyaeric.png",
+      "imageUrl": "/freedevtools/mcp/pfp/ngoiyaeric.webp",
       "description": "Query and visualize map data using a web interface with real-time map interactions. Integrates PostgreSQL/PostGIS for OpenStreetMap data management and supports server-to-client communication.",
       "stars": 0,
       "forks": 0,

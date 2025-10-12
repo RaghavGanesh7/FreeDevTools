@@ -1328,7 +1328,7 @@
       "owner": "mcp2everything",
       "name": "mcp2tcp",
       "url": "https://github.com/mcp2everything/mcp2tcp",
-      "imageUrl": "https://github.com/mcp2everything.png",
+      "imageUrl": "/freedevtools/mcp/pfp/mcp2everything.webp",
       "description": "Connects hardware devices with AI models using natural language commands, enabling real-time control and understanding of complex instructions. Integrates seamlessly with the Model Context Protocol (MCP) for resource management and tool invocation.",
       "stars": 6,
       "forks": 3,
