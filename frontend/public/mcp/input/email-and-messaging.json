@@ -258,14 +258,7 @@
       "readme_content": "# Hunter.io MCP Server\n\nThis is a Model Context Protocol (MCP) server that integrates with the Hunter.io API to provide email finding and verification capabilities.\n\n## Features\n\n- Find email addresses using domain and name information\n- Verify email addresses for deliverability and validity\n\n## Setup\n\n### Local Setup\n\n1. Clone this repository\n2. Install dependencies:\n   ```\n   npm install\n   ```\n3. Create a `.env` file based on `.env.example` and add your Hunter.io API key:\n   ```\n   HUNTER_API_KEY=your_api_key_here\n   ```\n4. Build the server:\n   ```\n   npm run build\n   ```\n5. Start the server:\n   ```\n   npm start\n   ```\n\n### Docker Setup\n\n1. Clone this repository\n2. Create a `.env` file with your Hunter.io API key\n3. Build and run using Docker Compose:\n   ```\n   docker-compose up -d\n   ```\n\n## MCP Configuration\n\nTo use this server with an MCP client, add the following configuration to your MCP settings file:\n\n```json\n{\n  \"mcpServers\": {\n    \"hunter.io\": {\n      \"command\": \"node\",\n      \"args\": [\"path/to/hunter.io/dist/index.js\"],\n      \"env\": {\n        \"HUNTER_API_KEY\": \"your_api_key_here\"\n      },\n      \"disabled\": false,\n      \"autoApprove\": []\n    }\n  }\n}\n```\n\n## Available Tools\n\n- `hunter_find_email`: Find an email address using domain and name information\n- `hunter_verify_email`: Verify if an email address is valid and deliverable\n\n## License\n\nISC\n",
       "npm_url": "",
       "npm_downloads": 0,
-      "keywords": [
-        "hunter",
-        "io",
-        "email",
-        "hunter io",
-        "ai hunter",
-        "io api"
-      ],
+      "keywords": ["hunter", "io", "email", "hunter io", "ai hunter", "io api"],
       "category": "email-and-messaging"
     },
     "Meerkats-Ai--prospeo-mcp-server": {
@@ -1722,14 +1715,7 @@
       "readme_content": "# aws-ses-mcp 📧\n\n[![smithery badge](https://smithery.ai/badge/@omd01/aws-ses-mcp)](https://smithery.ai/server/@omd01/aws-ses-mcp)\n\n\nThis is a simple MCP server that sends emails using AWS SES (Simple Email Service). Perfect for integrating with Cursor or Claude Desktop to compose and send emails directly without copy-pasting. The service supports both plain text and HTML emails with advanced features like CC, BCC, and reply-to functionality.\n\n## Features ✨\n\n- Send plain text and HTML emails\n- Support for CC and BCC recipients\n- Configurable reply-to addresses\n- Customizable sender email (requires AWS SES verification)\n- Full request/response logging for debugging\n- Email scheduling capability\n\n## Prerequisites 📋\n\nBefore you begin, ensure you have:\n\n1. AWS SES account set up and configured\n2. Verified email domain or individual email addresses in AWS SES\n3. AWS credentials (Access Key ID and Secret Access Key) with SES permissions\n4. Node.js installed on your system\n\n## Installation 🚀\n\n### Installing via Smithery\n\nTo install aws-ses-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@omd01/aws-ses-mcp):\n\n```bash\nnpx -y @smithery/cli install @omd01/aws-ses-mcp --client claude\n```\n\n### Manual Installation\n1. Clone this repository:\n```bash\ngit clone https://github.com/omd01/aws-ses-mcp.git\ncd aws-ses-mcp\n```\n\n2. Install dependencies:\n```bash\nnpm install\n```\n\n3. Build the project:\n```bash\nnpm run build\n```\n\n## Configuration ⚙️\n\n### Example Email Format (email.md)\n```json\n{\n  \"to\": \"example@gmail.com\",\n  \"subject\": \"Test!\",\n  \"text\": \"This is a test email.\",\n  \"cc\": [\"cc-recipient@example.com\"],\n  \"bcc\": [\"bcc-recipient@example.com\"]\n}\n```\n\n## Setup Instructions 🔧\n\n### For Cursor\n\n1. Go to Cursor Settings -> MCP -> Add new MCP server\n\n2. Configure the server with these settings:\n   - Name: `aws-ses-mcp` (or your preferred name)\n   - Type: `command`\n   - Command: \n   ```bash\n   node ABSOLUTE_PATH_TO_MCP_SERVER/build/index.js \\\n   --aws-access-key-id=YOUR_AWS_ACCESS_KEY_ID \\\n   --aws-secret-access-key=YOUR_AWS_SECRET_ACCESS_KEY \\\n   --aws-region=YOUR_AWS_REGION \\\n   --sender=YOUR_SENDER_EMAIL \\\n   --reply-to=REPLY_TO_EMAIL\n   ```\n\n### For Claude Desktop\n\nAdd the following configuration to your MCP config:\n\n```json\n{\n  \"mcpServers\": {\n    \"aws-ses-mcp\": {\n      \"command\": \"node\",\n      \"args\": [\"ABSOLUTE_PATH_TO_MCP_SERVER/build/index.js\"],\n      \"env\": {\n        \"AWS_ACCESS_KEY_ID\": \"YOUR_AWS_ACCESS_KEY_ID\",\n        \"AWS_SECRET_ACCESS_KEY\": \"YOUR_AWS_SECRET_ACCESS_KEY\",\n        \"AWS_REGION\": \"YOUR_AWS_REGION\",\n        \"SENDER_EMAIL_ADDRESS\": \"YOUR_SENDER_EMAIL\",\n        \"REPLY_TO_EMAIL_ADDRESSES\": \"REPLY_TO_EMAILS_COMMA_SEPARATED\"\n      }\n    }\n  }\n}\n```\n\n## Usage 📝\n\n1. Create or edit `email.md` with your email content\n2. In Cursor:\n   - Open the email.md file\n   - Select the content\n   - Press cmd+l (or ctrl+l)\n   - Tell Cursor to \"send this as an email\"\n   - Ensure Cursor chat is in Agent mode\n\n## Development 👩‍💻\n\n```bash\nnpm install    # Install dependencies\nnpm run build  # Build the project\n```\n\n## Troubleshooting 🔍\n\n- Check the console logs for detailed request/response information\n- Verify your AWS credentials and permissions\n- Ensure your sender email is verified in AWS SES\n- Review the AWS SES console for any bounces or complaints\n\n## Contributing 🤝\n\nContributions are welcome! Please feel free to submit a Pull Request.\n\n## License 📄\n\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n\nThe MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable.\n",
       "npm_url": "",
       "npm_downloads": 0,
-      "keywords": [
-        "aws",
-        "emails",
-        "ses",
-        "aws ses",
-        "omd01 aws",
-        "mcp send"
-      ],
+      "keywords": ["aws", "emails", "ses", "aws ses", "omd01 aws", "mcp send"],
       "category": "email-and-messaging"
     },
     "paso0129--Messenger": {

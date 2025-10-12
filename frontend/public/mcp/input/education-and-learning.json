@@ -642,14 +642,7 @@
       "readme_content": "# NBA MCP Server\n\n## Description\nAn MCP server for Anthropic's Claude LLM that allows the model to fetch recent NBA games and stats that it struggles to currently. It does this using the opensource [nba_api](https://pypi.org/project/nba_api/)\n\n## Installation\nRun these steps in the directory where you have cloned the repo\n```bash\nuv venv\n.venv\\Scripts\\activate\nuv pip install -e .\n```\n\nThen add the configuration to your Claude config as you would for any other MCP Server. \n\n## Features\n- Fetch the fetch the final score for all game(s) that happened yesterday / in the past\n- Fetch the basic P/R/A breakdown for all players that played in game(s) that happened yesterday / in the past\n- Fetch the full PTS/REB/AST/STL/BLK/TO/PLUS_MINUS/MIN that happened yesterday / in the past\n- Fetch the four factors for all the game(s) that happened yesterday / in the past \n",
       "npm_url": "",
       "npm_downloads": 0,
-      "keywords": [
-        "nba",
-        "mcp",
-        "ai",
-        "nba data",
-        "nba mcp",
-        "nba game"
-      ],
+      "keywords": ["nba", "mcp", "ai", "nba data", "nba mcp", "nba game"],
       "category": "education-and-learning"
     },
     "Tanner253--ComedyMcpServer": {

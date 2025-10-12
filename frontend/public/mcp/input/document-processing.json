@@ -906,14 +906,7 @@
       "readme_content": "# Jina AI MCP Server\n[![smithery badge](https://smithery.ai/badge/jina-ai-mcp-server)](https://smithery.ai/server/jina-ai-mcp)\n[![smithery badge](https://smithery.ai/badge/jina-ai-mcp-server)](https://smithery.ai/server/jina-ai-mcp-server)\n\nAn MCP server that provides access to Jina AI's powerful web services through Claude. This server implements three main tools:\n\n- Web page reading and content extraction\n- Web search\n- Fact checking/grounding\n\n<a href=\"https://glama.ai/mcp/servers/c1l6ib2j49\"><img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/c1l6ib2j49/badge\" alt=\"mcp-jina-ai MCP server\" /></a>\n\n## Features\n\n### Tools\n\n#### `read_webpage`\n- Extract content from web pages in a format optimized for LLMs\n- Supports multiple output formats (Default, Markdown, HTML, Text, Screenshot, Pageshot)\n- Options for including links and images\n- Ability to generate alt text for images\n- Cache control options\n\n#### `search_web`\n- Search the web using Jina AI's search API\n- Configurable number of results (default: 5)\n- Support for image retention and alt text generation\n- Multiple return formats (markdown, text, html)\n- Returns structured results with titles, descriptions, and content\n\n#### `fact_check`\n- Fact-check statements using Jina AI's grounding engine\n- Provides factuality scores and supporting evidence \n- Optional deep-dive mode for more thorough analysis\n- Returns references with key quotes and supportive/contradictory classification\n\n## Setup\n\n### Prerequisites\n\nYou'll need a Jina AI API key to use this server. Get one for free at https://jina.ai/\n\n### Installation\n\nThere are two ways to use this server:\n\n#### Installing via Smithery\n\nTo install Jina AI for Claude Desktop automatically via [Smithery](https://smithery.ai/server/jina-ai-mcp-server):\n\n```bash\nnpx -y @smithery/cli install jina-ai-mcp-server --client claude\n```\n\n#### Option 1: NPX (Recommended)\nAdd this configuration to your Claude Desktop config file:\n\n```json\n{\n  \"mcpServers\": {\n    \"jina-ai-mcp-server\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"jina-ai-mcp-server\"\n      ],\n      \"env\": {\n        \"JINA_API_KEY\": \"<YOUR_KEY>\"\n      }\n    }\n  }\n}\n```\n\n#### Option 2: Local Installation\n1. Clone the repository\n2. Install dependencies:\n```bash\nnpm install\n```\n\n3. Build the server:\n```bash\nnpm run build\n```\n\n4. Add this configuration to your Claude Desktop config:\n```json\n{\n  \"mcpServers\": {\n    \"jina-ai-mcp-server\": {\n      \"command\": \"node\",\n      \"args\": [\n        \"/path/to/jina-ai-mcp-server/dist/index.js\"\n      ],\n      \"env\": {\n        \"JINA_API_KEY\": \"<YOUR_KEY>\"\n      }\n    }\n  }\n}\n```\n\n### Config File Location\n\nOn MacOS:\n```bash\n~/Library/Application Support/Claude/claude_desktop_config.json\n```\n\nOn Windows:\n```bash\n%APPDATA%/Claude/claude_desktop_config.json\n```\n\n### Debugging\n\nSince MCP servers communicate over stdio, debugging can be challenging. We recommend using the [MCP Inspector](https://github.com/modelcontextprotocol/inspector):\n\n```bash\nnpm run inspector\n```\n\nThe Inspector will provide a URL to access debugging tools in your browser.\n\n## API Response Types\n\nAll tools return structured JSON responses that include:\n\n- Status codes and metadata\n- Formatted content based on the requested output type\n- Usage information (token counts)\n- When applicable: images, links, and additional metadata\n\nFor detailed schema information, see `schemas.ts`.\n\n\n## Running evals\n\nThe evals package loads an mcp client that then runs the index.ts file, so there is no need to rebuild between tests. You can load environment variables by prefixing the npx command. Full documentation can be found [here](https://www.mcpevals.io/docs).\n\n```bash\nOPENAI_API_KEY=your-key  npx mcp-eval evals.ts index.ts\n```",
       "npm_url": "",
       "npm_downloads": 0,
-      "keywords": [
-        "web",
-        "jina",
-        "pages",
-        "mcp jina",
-        "ai web",
-        "access jina"
-      ],
+      "keywords": ["web", "jina", "pages", "mcp jina", "ai web", "access jina"],
       "category": "document-processing"
     },
     "JustasMonkev--mcp-accessibility-scanner": {
@@ -2898,14 +2891,7 @@
       "readme_content": "# esa-mcp-server\n\n[![smithery badge](https://smithery.ai/badge/@d-kimuson/esa-mcp-server)](https://smithery.ai/server/@d-kimuson/esa-mcp-server)\n\nesa-mcp-server は、[esa.io](https://esa.io) の API を [Model Context Protocol (MCP)](https://github.com/microsoft/model-context-protocol) を介して利用できるようにするサーバーです。\n\n<a href=\"https://glama.ai/mcp/servers/undwqgwbtd\"><img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/undwqgwbtd/badge\" alt=\"ESA Server MCP server\" /></a>\n\n## 機能\n\n- get_search_query_document: esa.io の記事を検索するためのドキュメンテーションの提供\n- search_esa_posts: esa.io の記事検索\n- read_esa_post, read_esa_multiple_posts: 記事の詳細取得（単一・複数）\n- create_esa_post: 記事の作成\n- update_esa_post: 記事の更新\n- delete_esa_post: 記事の削除\n\n## Usage\n\n利用するツールに合わせて以下のように設定ファイルを準備してください。\n\n```json\n{\n  \"mcpServers\": {\n    \"esa-mcp-server\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"esa-mcp-server@latest\"],\n      \"env\": {\n        \"ESA_API_KEY\": \"your api key here\",\n        \"DEFAULT_ESA_TEAM\": \"your default esa team\"\n      }\n    }\n  }\n}\n```\n\n## プロンプト例\n\n```markdown\n## Using esa tools\n\nesa の情報を検索するために esa 以下のツールを利用できます。\n\n- 記事の検索には search_esa_posts ツールを利用します。複雑なクエリを利用する場合は get_search_query_document ツールで正確なクエリの記述方法を理解してから利用します。\n- 記事本文を取得するには read_esa_post, read_esa_multiple_posts ツールを利用します。複数の記事を取得する必要がある場合は read_esa_multiple_posts でまとめて取得することを推奨します。\n- 記事を作成/更新/削除するにはそれぞれ create_esa_post, update_esa_post, delete_esa_post ツールを利用します。\n```\n\n## 利用可能なツール\n\n[src/server.ts](./src/server.ts) を確認してください。\n\n## Contribution\n\n歓迎します。\n",
       "npm_url": "",
       "npm_downloads": 0,
-      "keywords": [
-        "esa",
-        "io",
-        "api",
-        "esa mcp",
-        "io api",
-        "access esa"
-      ],
+      "keywords": ["esa", "io", "api", "esa mcp", "io api", "access esa"],
       "category": "document-processing"
     },
     "danielpodrazka--editor-mcp": {

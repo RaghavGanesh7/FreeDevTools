@@ -9,8 +9,11 @@ from urllib.parse import urlparse
 import requests
 from PIL import Image
 
+# GitHub Personal Access Tokens
+GITHUB_TOKENS = []
 
-def process_image_url(image_url, output_dir):
+
+def process_image_url(image_url, output_dir, github_token):
     """Download, process and save image, return the new URL"""
     try:
         # Extract filename from URL
@@ -19,8 +22,15 @@ def process_image_url(image_url, output_dir):
         name_without_ext = os.path.splitext(filename)[0]
         output_filename = f"{name_without_ext}.webp"
 
-        # Download image
-        response = requests.get(image_url, stream=True, timeout=10)
+        # Setup GitHub headers for API requests
+        headers = {
+            "Authorization": f"token {github_token}",
+            "Accept": "application/vnd.github.v3+json",
+            "User-Agent": "MCP-Data-Collector",
+        }
+
+        # Download image with GitHub token
+        response = requests.get(image_url, headers=headers, stream=True, timeout=10)
         response.raise_for_status()
 
         # Process image
@@ -40,7 +50,7 @@ def process_image_url(image_url, output_dir):
         return image_url  # Return original URL if processing fails
 
 
-def process_json_file(file_path, output_dir):
+def process_json_file(file_path, output_dir, github_token):
     """Process a single JSON file"""
     print(f"Processing {os.path.basename(file_path)}...")
 
@@ -67,8 +77,8 @@ def process_json_file(file_path, output_dir):
                         unique_urls.add(image_url)
                         print(f"  Processing image: {image_url}")
 
-                        # Process the image
-                        new_url = process_image_url(image_url, output_dir)
+                        # Process the image with GitHub token
+                        new_url = process_image_url(image_url, output_dir, github_token)
 
                         if new_url != image_url:
                             # Update all occurrences of this URL in the repo
@@ -93,8 +103,8 @@ def process_json_file(file_path, output_dir):
 
 def process_single_file(args):
     """Wrapper function for multiprocessing"""
-    file_path, output_dir = args
-    return process_json_file(file_path, output_dir)
+    file_path, output_dir, github_token = args
+    return process_json_file(file_path, output_dir, github_token)
 
 
 def main():
@@ -109,14 +119,18 @@ def main():
     json_files = [f for f in os.listdir(input_dir) if f.endswith(".json")]
     print(f"Found {len(json_files)} JSON files to process...")
 
-    # Prepare arguments for multiprocessing
-    file_args = [
-        (os.path.join(input_dir, json_file), output_dir) for json_file in json_files
-    ]
+    # Prepare arguments for multiprocessing with token distribution
+    file_args = []
+    for i, json_file in enumerate(json_files):
+        # Distribute tokens across processes
+        token_index = i % len(GITHUB_TOKENS)
+        github_token = GITHUB_TOKENS[token_index]
+        file_args.append((os.path.join(input_dir, json_file), output_dir, github_token))
 
     # Determine number of processes (use all CPU cores, but cap at number of files)
     num_processes = min(cpu_count(), len(json_files))
     print(f"Using {num_processes} processes to process {len(json_files)} files...")
+    print(f"Distributing {len(GITHUB_TOKENS)} GitHub tokens across processes...")
 
     start_time = time.time()
 
