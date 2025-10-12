@@ -458,13 +458,13 @@ const GA_MEASUREMENT_ID = 'G-WXSDF484XZ';
     <link rel="icon" type="image/png" href="/freedevtools/t/favicon.webp" />
     
     <!-- Fonts -->
-    <!-- Preconnect to font origins -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-    <!-- Load fonts directly without preload to avoid unused resource warnings -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" crossorigin="anonymous">
+    <!-- Preload critical fonts for faster loading -->
+    <link rel="preload" href="/freedevtools/fonts/Cal_Sans/CalSans-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/freedevtools/fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/freedevtools/fonts/Lora/Lora-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
+    
+    <!-- Load local fonts CSS -->
+    <link rel="stylesheet" href="/freedevtools/fonts/fonts.css">
 
     <!-- Google Analytics-->
    
