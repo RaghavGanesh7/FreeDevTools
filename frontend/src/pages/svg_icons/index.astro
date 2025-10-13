@@ -4,6 +4,7 @@ import AdBanner from '../../components/banner/AdBanner';
 import Pagination from '../../components/Pagination.astro';
 import BottomPagination from '../../components/BottomPagination.astro';
 import CreditsButton from '../../components/buttons/CreditsButton';
+import Breadcrumb from '../../components/Breadcrumb';
 
 const ITEMS_PER_PAGE = 30;
 
@@ -65,6 +66,12 @@ const allCategories = Object.keys(allIcons).sort();
 const totalCategories = allCategories.length;
 const totalPages = Math.ceil(totalCategories / ITEMS_PER_PAGE);
 
+// Breadcrumb data
+const breadcrumbItems = [
+  { label: 'Free DevTools', href: '/freedevtools/' },
+  { label: 'SVG Icons' }
+];
+
 ---
 
 <BaseLayout 
@@ -87,11 +94,7 @@ const totalPages = Math.ceil(totalCategories / ITEMS_PER_PAGE);
       <AdBanner client:visible />
     </div>
     <div class="mb-8">
-      <nav class="text-sm mb-4 flex items-center">
-        <a href="/freedevtools/svg_icons/credits/" class="text-blue-600 dark:text-blue-400 hover:font-semibold w-28">Credits</a>
-        <span class="mx-2 mr-4">/</span>
-        <span class="text-slate-600 dark:text-slate-400">SVG Icons</span>
-      </nav>
+      <Breadcrumb items={breadcrumbItems} client:load />
       
       <div>
         <h1 id="head-title" class="text-2xl font-medium mb-2 text-black dark:text-slate-300">

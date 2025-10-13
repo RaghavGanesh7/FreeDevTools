@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdBanner from '../../components/banner/AdBanner';
 import CreditsButton from '../../components/buttons/CreditsButton';
+import Breadcrumb from '../../components/Breadcrumb';
 import { getCollection } from 'astro:content';
 import { Tooltips } from 'astro-tooltips';
 
@@ -75,6 +76,13 @@ const categoryIconMap = {
 };
 
 const categoryIcon = categoryIconMap[category as keyof typeof categoryIconMap] || categoryIconMap.general;
+
+// Breadcrumb data
+const breadcrumbItems = [
+  { label: 'Free DevTools', href: '/freedevtools/' },
+  { label: 'SVG Icons', href: '/freedevtools/svg_icons/' },
+  { label: category }
+];
 ---
 
 <BaseLayout 
@@ -101,13 +109,7 @@ const categoryIcon = categoryIconMap[category as keyof typeof categoryIconMap] |
       </div>
     
     <div class="mb-8">
-      <nav class="text-sm mb-4 flex items-center">
-        <a href="/freedevtools/svg_icons/credits/" class="text-blue-600 dark:text-blue-400 hover:font-semibold w-28">Credits</a>
-        <span class="mx-2 mr-4">/</span>
-        <a href="/freedevtools/svg_icons/" class="text-blue-600 dark:text-blue-400 hover:font-semibold w-20">SVG Icons</a>
-        <span class="mx-2 mr-4">/</span>
-        <span class="capitalize">{category}</span>
-      </nav>
+      <Breadcrumb items={breadcrumbItems} client:load />
       
       <div class="flex items-center mb-4">
         <div class="w-12 h-12 bg-white dark:bg-slate-800 rounded-lg flex items-center justify-center mr-4 border border-slate-200 dark:border-slate-700">

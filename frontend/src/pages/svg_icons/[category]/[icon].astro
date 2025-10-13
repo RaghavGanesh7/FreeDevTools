@@ -5,6 +5,7 @@ import CopySvgButton from '../../../components/buttons/CopySvgButton.tsx';
 import DownloadPngButton from '../../../components/buttons/DownloadPngButton.tsx';
 import DownloadSvgButton from '../../../components/buttons/DownloadSvgButton.tsx';
 import CreditsButton from '../../../components/buttons/CreditsButton';
+import Breadcrumb from '../../../components/Breadcrumb';
 import ToastProvider from '../../../components/ToastProvider';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 // SVG processing moved to client-side for better performance
@@ -74,6 +75,14 @@ const { iconData } = Astro.props as {
     emotional_cues: string;
   };
 };
+
+// Breadcrumb data
+const breadcrumbItems = [
+  { label: 'Free DevTools', href: '/freedevtools/' },
+  { label: 'SVG Icons', href: '/freedevtools/svg_icons/' },
+  { label: category, href: `/freedevtools/svg_icons/${category}/` },
+  { label: iconData.name }
+];
 
 
 // Generate SEO-friendly title and description
@@ -179,15 +188,7 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
     </div>
 
     {/* Breadcrumb Navigation */}
-    <nav class="text-sm mb-6 flex flex-wrap items-center gap-2">
-      <a href="/freedevtools/svg_icons/credits/" class="text-blue-600 dark:text-blue-400 hover:font-semibold">Credits</a>
-      <span>/</span>
-      <a href="/freedevtools/svg_icons/" class="text-blue-600 dark:text-blue-400 hover:font-semibold">SVG Icons</a>
-      <span>/</span>
-      <a href={`/freedevtools/svg_icons/${category}/`} class="text-blue-600 dark:text-blue-400 hover:font-semibold">{category}</a>
-      <span>/</span>
-      <span class="text-slate-600 dark:text-slate-400">{iconData.name}</span>
-    </nav>
+    <Breadcrumb items={breadcrumbItems} client:load />
 
     {/* Title & Description */}
     <header class="mb-10">
