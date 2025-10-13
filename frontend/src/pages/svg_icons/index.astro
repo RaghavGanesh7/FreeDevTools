@@ -5,23 +5,15 @@ import Pagination from '../../components/Pagination.astro';
 import BottomPagination from '../../components/BottomPagination.astro';
 import CreditsButton from '../../components/buttons/CreditsButton';
 import Breadcrumb from '../../components/Breadcrumb';
+import { getCollection } from 'astro:content';
 
 const ITEMS_PER_PAGE = 30;
 
-
+// Use content collection instead of manual file reading
 async function getAllIcons() {
-  const fs = await import('fs/promises');
-  const path = await import('path');
-
-  // Load lightweight cluster first
-  const lightClusterPath = path.join('./src/pages/svg_icons', 'cluster-light.json');
-  console.time('Read cluster-light.json');
-  const lightContent = await fs.readFile(lightClusterPath, 'utf-8');
-  console.timeEnd('Read cluster-light.json');
-
-  console.time('Parse cluster-light.json');
-  const clustorData = JSON.parse(lightContent);
-  console.timeEnd('Parse cluster-light.json');
+  // This loads the full data once during build and caches it
+  const svgIcons = await getCollection('svgIconsMetadata');
+  const iconsData = svgIcons[0].data; // Get the first (and only) entry
 
   const iconsByCategory: Record<
     string,
@@ -36,7 +28,7 @@ async function getAllIcons() {
   > = {};
 
   // Process each cluster (category) - NO SVG loading
-  for (const [clusterKey, clusterData] of Object.entries(clustorData.clusters)) {
+  for (const [clusterKey, clusterData] of Object.entries(iconsData.clusters)) {
     const cluster = clusterData as any;
     const categoryName = cluster.name;
 
@@ -44,12 +36,21 @@ async function getAllIcons() {
 
     for (let i = 0; i < cluster.fileNames.length; i++) {
       const fileObj = cluster.fileNames[i];
-      const iconName = fileObj.fileName.replace('.svg', '');
+      let iconName: string;
+      let description = '';
+
+      // Handle both string filenames and detailed objects
+      if (typeof fileObj === 'string') {
+        iconName = fileObj.replace('.svg', '');
+      } else {
+        iconName = fileObj.fileName.replace('.svg', '');
+        description = fileObj.description || '';
+      }
 
       iconsByCategory[categoryName].push({
         name: iconName,
         url: `/freedevtools/svg_icons/${categoryName}/${iconName}/`,
-        description: '', // skip metadata for light cluster
+        description: description,
         category: categoryName,
         iconCount: cluster.fileNames.length,
         previewSvg: '' // will be loaded client-side
