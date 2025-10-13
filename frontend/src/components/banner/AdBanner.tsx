@@ -172,10 +172,10 @@ const AdBanner: React.FC = () => {
       >
         <div className="px-4 py-2 h-full flex flex-col justify-center md:px-2 md:py-2 xl:px-6 xl:py-0 xl:w-full xl:min-w-96">
           <div className="text-left mb-4 xl:mb-0">
-            <p className="text-red-700 mb-2 leading-tight tracking-wide font-semibold text-5xl md:mb-3">
+            <p className="text-red-700 mb-2 leading-tight tracking-wide font-semibold text-3xl md:text-5xl md:mb-3">
               {currentAd.title}
             </p>
-            <p className="text-gray-800 leading-relaxed font-medium text-xl md:text-2xl xl:hidden">
+            <p className="text-gray-800 leading-relaxed font-medium text-lg md:text-2xl xl:hidden">
               {currentAd.description}
             </p>
           </div>
