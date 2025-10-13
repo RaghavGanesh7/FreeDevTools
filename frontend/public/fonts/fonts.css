@@ -44,7 +44,7 @@
 }
 
 /* EB Garamond - Static Fonts (fallback for older browsers) */
-@font-face {
+/* @font-face {
   font-family: 'EB Garamond';
   src: url('./EB_Garamond/static/EBGaramond-Regular.ttf') format('truetype');
   font-weight: 400;
@@ -125,4 +125,4 @@
   font-weight: 800;
   font-style: italic;
   font-display: swap;
-}
+} */
