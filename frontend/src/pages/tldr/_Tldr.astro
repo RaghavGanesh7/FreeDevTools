@@ -190,29 +190,62 @@ const getPlatformEmoji = (platformName: string): string => {
 };
 
 // Helper function to render platform card
-function renderPlatformCard(platform: any): string {
+function renderPlatformCard(platform: any, platformCommands: any[]): string {
+  const commandsHtml = platformCommands.slice(0, 5).map(command => 
+    `<a href="/freedevtools/tldr/${platform.name}/${command.name}/" class="block text-sm text-blue-600 dark:text-blue-300 hover:text-black dark:hover:text-white hover:font-bold">${command.name}</a>`
+  ).join('');
+  
+  const moreCommandsHtml = platformCommands.length > 5 ? 
+    `<p class="text-xs text-slate-500 dark:text-slate-400">+${platformCommands.length - 5} more commands</p>` : '';
+  
   return `
-    <a
-      href="${platform.url}"
-      class="block bg-white dark:bg-slate-900 dark:border-slate-900 border border-slate-200 rounded-xl p-6 pb-20 shadow-sm hover:shadow-md transition-all duration-200"
-    >
-      <div class="flex justify-between items-center mb-4">
-        <h3 class="text-lg font-bold text-slate-900 dark:text-white capitalize">
-          ${platform.name}
-        </h3>
-        <span class="text-sm text-slate-500 font-medium">
-          ${platform.count} COMMANDS
-        </span>
+    <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-900 rounded-xl p-4 md:p-4 lg:p-8 transition-all duration-300 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-xl hover:border-border">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 bg-white dark:bg-slate-800 rounded-lg flex items-center justify-center mr-3 border border-slate-200 dark:border-slate-700">
+          <div class="text-2xl">
+            ${getPlatformEmoji(platform.name)}
+          </div>
+        </div>
+        <a 
+          href="${platform.url}"
+          class="text-xl font-semibold text-black dark:text-neon-light capitalize hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+        >
+          ${platform.name.replace('-', ' ')}
+        </a>
       </div>
       
-      <div class="flex items-center justify-center text-4xl mb-4">
-        ${getPlatformEmoji(platform.name)}
+      <p class="text-sm text-slate-800 dark:text-slate-400 mb-4 m-0">
+        ${platform.count} commands available
+      </p>
+      
+      <div class="space-y-2">
+        ${commandsHtml}
+        ${moreCommandsHtml}
       </div>
-    </a>
+      
+      <div class="mt-4 pt-4 border-t border-slate-200 dark:border-slate-900">
+        <a 
+          href="${platform.url}"
+          class="text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300"
+        >
+          View all ${platform.name} commands →
+        </a>
+      </div>
+    </div>
   `;
 }
 
 const { platforms, currentPage, totalPages, totalPlatforms, totalCommands, breadcrumbItems } = Astro.props;
+
+// Get commands for each platform
+import { getTldrPlatformCommands } from '../../lib/tldr-utils';
+
+const platformsWithCommands = await Promise.all(
+  platforms.map(async (platform: any) => {
+    const commands = await getTldrPlatformCommands(platform.name);
+    return { ...platform, commands };
+  })
+);
 ---
 
 <ToolContainer>
@@ -246,8 +279,8 @@ const { platforms, currentPage, totalPages, totalPlatforms, totalCommands, bread
   <!-- Platforms Grid -->
   <div class="mt-10 mb-6">
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {platforms.map((platform: any) => (
-        <Fragment set:html={renderPlatformCard(platform)} />
+      {platformsWithCommands.map((platform: any) => (
+        <Fragment set:html={renderPlatformCard(platform, platform.commands)} />
       ))}
     </div>
   </div>

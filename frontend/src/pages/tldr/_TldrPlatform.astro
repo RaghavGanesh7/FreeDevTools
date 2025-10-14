@@ -198,25 +198,8 @@ const { commands, currentPage, totalPages, totalCommands, platform, breadcrumbIt
     breadcrumbItems={breadcrumbItems}
   />
 
-  <!-- Platform Header -->
-  <div class="text-center mb-8">
-    <div class="flex items-center justify-center mb-4">
-      <div class="text-6xl mr-4">
-        {getPlatformEmoji(platform)}
-      </div>
-      <div>
-        <h1 class="text-3xl font-bold text-slate-900 dark:text-white capitalize">
-          {platform} Commands
-        </h1>
-        <p class="text-lg text-slate-600 dark:text-slate-400">
-          {totalCommands} commands available for {platform}
-        </p>
-      </div>
-    </div>
-  </div>
-
   <!-- Pagination Info -->
-  <div class="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6">
+  <div class="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-6">
     <div class="text-sm text-slate-600 dark:text-slate-400 text-center">
       Showing {commands.length} of {totalCommands} commands (Page {currentPage} of {totalPages})
     </div>
