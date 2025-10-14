@@ -26,6 +26,9 @@ const allCategories = Object.entries(iconsData.clusters).map(
   })
 );
 
+// Calculate total SVG icons across all categories
+const totalSvgIcons = allCategories.reduce((total: number, category: any) => total + category.iconCount, 0);
+
 // Pagination logic for page 1
 const itemsPerPage = 30;
 const currentPage = 1;
@@ -75,6 +78,7 @@ const canonical = currentPage === 1
     currentPage={currentPage}
     totalPages={totalPages}
     totalCategories={totalCategories}
+    totalSvgIcons={totalSvgIcons}
     breadcrumbItems={breadcrumbItems}
   />
 </BaseLayout>

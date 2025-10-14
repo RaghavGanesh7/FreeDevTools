@@ -107,7 +107,7 @@ function renderCategoryCard(category: any): string {
   `;
 }
 
-const { categories, currentPage, totalPages, totalCategories, breadcrumbItems } = Astro.props;
+const { categories, currentPage, totalPages, totalCategories, totalSvgIcons, breadcrumbItems } = Astro.props;
 ---
 
 <ToolContainer>
@@ -124,10 +124,10 @@ const { categories, currentPage, totalPages, totalCategories, breadcrumbItems } 
         <div class="text-3xl font-bold text-blue-600">{totalCategories}</div>
         <div class="text-sm text-gray-600 dark:text-gray-400">Categories</div>
       </div>
-      <div class="text-center">
-        <div class="text-3xl font-bold text-green-600">{formatNumber(totalCategories * 50)}</div>
-        <div class="text-sm text-gray-600 dark:text-gray-400">SVG Icons</div>
-      </div>
+          <div class="text-center">
+            <div class="text-3xl font-bold text-green-600">{formatNumber(totalSvgIcons)}</div>
+            <div class="text-sm text-gray-600 dark:text-gray-400">SVG Icons</div>
+          </div>
     </div>
   </div>
 
@@ -234,7 +234,7 @@ const { categories, currentPage, totalPages, totalCategories, breadcrumbItems } 
   <!-- Features -->
   <div class="mb-10 mt-6">
     <ToolContentCardWrapper>
-      <Card class="p-6">
+      <Card className="p-6">
         <h2 class="text-xl font-semibold mb-6 text-center">Why Use Our SVG Icons?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div class="text-center space-y-2">
