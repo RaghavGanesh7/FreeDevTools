@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatNumber } from '../../lib/utils';
 import SvgIcons from './_SvgIcons.astro';
 
 // Load SVG icons data
@@ -50,12 +51,26 @@ const seoTitle = currentPage === 1
   : `Free SVG Icons - Page ${currentPage} | Online Free DevTools by Hexmos`;
 
 const seoDescription = currentPage === 1
-  ? "Download thousands of free SVG icons instantly. Edit colors, add backgrounds, and customize vector graphics for your projects. No registration required."
+  ? `Download 50k+ free SVG icons instantly. Edit colors, add backgrounds, and customize vector graphics for your projects. No registration required.`
   : `Browse page ${currentPage} of our free SVG icons collection. Download thousands of vector graphics instantly. No registration required.`;
 
 const canonical = currentPage === 1
   ? "https://hexmos.com/freedevtools/svg_icons/"
   : `https://hexmos.com/freedevtools/svg_icons/${currentPage}/`;
+
+// Enhanced keywords for main page
+const mainKeywords = [
+  "svg icons",
+  "vector graphics",
+  "free icons", 
+  "download icons",
+  "edit icons",
+  "icon library",
+  "vector graphics library",
+  "svg download",
+  "free vector icons",
+  "customizable icons"
+];
 
 ---
 
@@ -69,8 +84,12 @@ const canonical = currentPage === 1
   showSidebar={false}
   showHeader={true}
   totalItems={totalCategories}
+  itemsPerPage={itemsPerPage}
   currentPage={currentPage}
-  keywords={["svg icons", "vector graphics", "free icons", "download icons", "edit icons"]}
+  category="SVG Icons"
+  partOf="Free DevTools"
+  partOfUrl="https://hexmos.com/freedevtools/"
+  keywords={mainKeywords}
   features={["Download", "Edit colors", "Add backgrounds", "Customize", "No registration"]}
 >
   <SvgIcons 

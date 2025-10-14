@@ -35,8 +35,21 @@ const breadcrumbItems = [
 
 // SEO data
 const seoTitle = `Free SVG Icons - Page ${currentPage} | Online Free DevTools by Hexmos`;
-const seoDescription = `Browse page ${currentPage} of our free SVG icons collection. Download thousands of vector graphics instantly. No registration required.`;
+const seoDescription = `Browse page ${currentPage} of ${totalPages} pages in our free SVG icons collection. Download thousands of vector graphics instantly. No registration required.`;
 const canonical = `https://hexmos.com/freedevtools/svg_icons/${currentPage}/`;
+
+// Enhanced keywords for paginated content
+const paginatedKeywords = [
+  "svg icons",
+  "vector graphics", 
+  "free icons",
+  "download icons",
+  "edit icons",
+  `page ${currentPage}`,
+  "pagination",
+  "icon collection",
+  "vector graphics library"
+];
 
 ---
 
@@ -50,8 +63,12 @@ const canonical = `https://hexmos.com/freedevtools/svg_icons/${currentPage}/`;
   showSidebar={false}
   showHeader={true}
   totalItems={totalCategories}
+  itemsPerPage={itemsPerPage}
   currentPage={currentPage}
-  keywords={["svg icons", "vector graphics", "free icons", "download icons", "edit icons"]}
+  category="SVG Icons"
+  partOf="Free DevTools"
+  partOfUrl="https://hexmos.com/freedevtools/"
+  keywords={paginatedKeywords}
   features={["Download", "Edit colors", "Add backgrounds", "Customize", "No registration"]}
 >
   <SvgIcons 
