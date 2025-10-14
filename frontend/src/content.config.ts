@@ -10,7 +10,7 @@ const tldr = defineCollection({
   loader: glob({
     // In dev mode, only load specific categories; in build mode, load all files
     pattern: forceTldrBuild ? '**/*.md' : '{pnm,git}/**/*.md',
-    base: './src/pages/markdown_pages/tldr',
+    base: 'public/data/tldr',
   }),
   schema: z.object({
     title: z.string(),
