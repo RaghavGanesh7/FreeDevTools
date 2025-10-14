@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import SvgIcons from './_SvgIcons';
+import SvgIcons from './_SvgIcons.astro';
 
 // Load SVG icons data
 const svgIconsEntries = await getCollection('svgIconsMetadata');
@@ -76,7 +76,6 @@ const canonical = currentPage === 1
     totalPages={totalPages}
     totalCategories={totalCategories}
     breadcrumbItems={breadcrumbItems}
-    client:load
   />
 </BaseLayout>
 
