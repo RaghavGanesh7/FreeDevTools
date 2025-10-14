@@ -12,7 +12,7 @@ export async function getStaticPaths() {
   const fs = await import('fs/promises');
   const path = await import('path');
   
-  const clustorPath = path.join('./src/pages/svg_icons', 'cluster_svg.json');
+  const clustorPath = path.join('public/data/', 'cluster_svg.json');
   const clustorData = JSON.parse(await fs.readFile(clustorPath, 'utf-8'));
   
   const categories = Object.values(clustorData.clusters).map((cluster: any) => cluster.name);
@@ -31,7 +31,7 @@ async function getCategoryIcons() {
   const fs = await import('fs/promises');
   const path = await import('path');
   
-  const clustorPath = path.join('./src/pages/svg_icons', 'cluster_svg.json');
+  const clustorPath = path.join('public/data/', 'cluster_svg.json');
   const clustorData = JSON.parse(await fs.readFile(clustorPath, 'utf-8'));
   
   // Find the cluster by name

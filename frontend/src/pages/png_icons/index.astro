@@ -14,7 +14,7 @@ async function getAllIcons() {
   const path = await import('path');
 
   // Load lightweight cluster first
-  const lightClusterPath = path.join('./src/pages/svg_icons', 'cluster-light.json');
+  const lightClusterPath = path.join('public/data/', 'cluster-light.json');
   console.time('Read cluster-light.json');
   const lightContent = await fs.readFile(lightClusterPath, 'utf-8');
   console.timeEnd('Read cluster-light.json');

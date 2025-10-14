@@ -107,7 +107,7 @@ const mcpCategoryData = defineCollection({
 
 // Define the SVG icons metadata collection
 const svgIconsMetadata = defineCollection({
-  loader: file('./public/data/cluster_svg.json', {
+  loader: file('public/data/cluster_svg.json', {
     parser: (fileContent) => {
       const data = JSON.parse(fileContent);
       return {

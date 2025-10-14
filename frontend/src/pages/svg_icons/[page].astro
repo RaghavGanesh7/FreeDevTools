@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { generateSvgIconsStaticPaths } from '../../lib/svg-icons-utils';
+import SvgIcons from './_SvgIcons';
+
+// Generate static paths for paginated routes
+export async function getStaticPaths() {
+  return await generateSvgIconsStaticPaths();
+}
+
+const { type, page, itemsPerPage, totalPages, categories } = Astro.props;
+
+// Redirect /svg_icons/1 to /svg_icons
+if (type === 'pagination' && page === 1) {
+  return Astro.redirect('/freedevtools/svg_icons/');
+}
+
+const currentPage = page;
+const totalCategories = categories.length;
+
+// Get categories for current page
+const startIndex = (currentPage - 1) * itemsPerPage;
+const endIndex = startIndex + itemsPerPage;
+const currentPageCategories = categories.slice(startIndex, endIndex);
+
+// Breadcrumb data
+const breadcrumbItems = [
+  { label: 'Free DevTools', href: '/freedevtools/' },
+  { label: 'SVG Icons', href: '/freedevtools/svg_icons/' },
+  { label: `Page ${currentPage}` }
+];
+
+// SEO data
+const seoTitle = `Free SVG Icons - Page ${currentPage} | Online Free DevTools by Hexmos`;
+const seoDescription = `Browse page ${currentPage} of our free SVG icons collection. Download thousands of vector graphics instantly. No registration required.`;
+const canonical = `https://hexmos.com/freedevtools/svg_icons/${currentPage}/`;
+
+---
+
+<BaseLayout 
+  name="SVG Icons"
+  path={`/freedevtools/svg_icons/${currentPage}/`}
+  title={seoTitle}
+  description={seoDescription}
+  canonical={canonical}
+  themeColor="#1e40af"
+  showSidebar={false}
+  showHeader={true}
+  totalItems={totalCategories}
+  currentPage={currentPage}
+  keywords={["svg icons", "vector graphics", "free icons", "download icons", "edit icons"]}
+  features={["Download", "Edit colors", "Add backgrounds", "Customize", "No registration"]}
+>
+  <SvgIcons 
+    categories={currentPageCategories}
+    currentPage={currentPage}
+    totalPages={totalPages}
+    totalCategories={totalCategories}
+    breadcrumbItems={breadcrumbItems}
+    client:load
+  />
+</BaseLayout>
