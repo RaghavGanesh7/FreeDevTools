@@ -1,7 +1,8 @@
 ---
 import { getCollection, render, type CollectionEntry } from 'astro:content';
-import AdBanner from '../../../components/banner/AdBanner';
 import CreditsButton from '../../../components/buttons/CreditsButton';
+import ToolContainer from '../../../components/tool/ToolContainer';
+import ToolHead from '../../../components/tool/ToolHead';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
@@ -42,6 +43,14 @@ if (!entry) {
 const { Content } = await render(entry);
 const title = entry.data.title || command;
 const description = entry.data.description || `Documentation for ${command} command`;
+
+// Breadcrumb items
+const breadcrumbItems = [
+  { label: 'Free DevTools', href: '/freedevtools/' },
+  { label: 'TLDR', href: '/freedevtools/tldr/' },
+  { label: platform, href: `/freedevtools/tldr/${platform}/` },
+  { label: command }
+];
 ---
 
 <BaseLayout 
@@ -54,19 +63,12 @@ const description = entry.data.description || `Documentation for ${command} comm
   showSidebar={false}
   showHeader={true}
 >
-<div class="max-w-6xl mx-auto px-2 md:px-6">
-  <div class="mb-16 mt-[74px]">
-    <AdBanner client:visible />
-  </div>
-    <nav class="text-sm text-slate-600 dark:text-slate-400 mb-6">
-      <a href="/freedevtools/tldr/creditsTLDR/" class="hover:text-blue-600 dark:hover:text-blue-400">Credits</a>
-      <span class="mx-2">/</span>
-      <a href="/freedevtools/tldr/" class="hover:text-blue-600 dark:hover:text-blue-400">TLDR</a>
-      <span class="mx-2">/</span>
-      <a href={`/freedevtools/tldr/${platform}/`} class="hover:text-blue-600 dark:hover:text-blue-400 capitalize">{platform}</a>
-      <span class="mx-2">/</span>
-      <span class="font-mono">{command}</span>
-    </nav>
+<ToolContainer>
+  <ToolHead
+    name={title}
+    description={description}
+    breadcrumbItems={breadcrumbItems}
+  />
 
     <article class="max-w-none">
       <header class="mb-8">
@@ -133,5 +135,5 @@ const description = entry.data.description || `Documentation for ${command} comm
         <CreditsButton href="/freedevtools/tldr/creditsTLDR/" />
       </div>
     </div>
-</div>
+  </ToolContainer>
 </BaseLayout>

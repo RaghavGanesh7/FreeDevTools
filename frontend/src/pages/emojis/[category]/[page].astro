@@ -1,25 +1,44 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdBanner from '../../components/banner/AdBanner';
-import Pagination from '../../components/PaginationComponent.astro';
-import CreditsButton from '../../components/buttons/CreditsButton';
-import ToolContainer from '../../components/tool/ToolContainer';
-import ToolHead from '../../components/tool/ToolHead';
-import { getEmojisByCategory, getEmojiCategories } from '../../lib/emojis';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AdBanner from '../../../components/banner/AdBanner';
+import Pagination from '../../../components/PaginationComponent.astro';
+import CreditsButton from '../../../components/buttons/CreditsButton';
+import ToolContainer from '../../../components/tool/ToolContainer';
+import ToolHead from '../../../components/tool/ToolHead';
+import { getEmojisByCategory, getEmojiCategories } from '../../../lib/emojis';
+
+const { category: categorySlug, page } = Astro.params;
+const currentPage = parseInt(page || '1');
 
 export async function getStaticPaths() {
   const categories = getEmojiCategories();
   
-  return categories
-    .filter((category) => category && category.trim() !== '')
-    .map((category) => ({
-      params: { category: category.toLowerCase().replace(/[^a-z0-9]+/g, '-') },
-      props: { category }
-    }));
+  const paths: any[] = [];
+  
+  for (const category of categories) {
+    if (category && category.trim() !== '') {
+      const categorySlug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      const emojis = await getEmojisByCategory(category);
+      const itemsPerPage = 30;
+      const totalPages = Math.ceil(emojis.length / itemsPerPage);
+      
+      // Generate pages for this category
+      for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
+        paths.push({
+          params: { 
+            category: categorySlug,
+            page: pageNum.toString()
+          },
+          props: { category }
+        });
+      }
+    }
+  }
+  
+  return paths;
 }
 
 // Prefer original category from build-time props to preserve symbols like '&'
-const { category: categorySlug } = Astro.params;
 const categoryName = (Astro.props?.category as string) || categorySlug!.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase());
 
 // SEO metadata and descriptions for categories
@@ -81,9 +100,8 @@ const seoData = categorySeo[categoryName] || {
 const emojis = await getEmojisByCategory(categoryName);
 const totalEmojis = emojis.length;
 
-// Pagination logic for page 1
+// Pagination logic
 const itemsPerPage = 36;
-const currentPage = 1;
 const totalPages = Math.ceil(totalEmojis / itemsPerPage);
 const startIndex = (currentPage - 1) * itemsPerPage;
 const endIndex = startIndex + itemsPerPage;
@@ -102,7 +120,7 @@ const breadcrumbItems = [
   path={`/emojis/${categorySlug}/`}
   title={seoData.title}
   description={seoData.description}
-  canonical={`https://hexmos.com/freedevtools/emojis/${categorySlug}/`}
+  canonical={`https://hexmos.com/freedevtools/emojis/${categorySlug}/${currentPage}/`}
   themeColor="#1e40af"
   keywords={seoData.keywords}
   showSidebar={false}
@@ -129,9 +147,9 @@ const breadcrumbItems = [
           <div class="text-3xl font-bold text-green-600">{totalPages}</div>
           <div class="text-sm text-gray-600 dark:text-gray-400">Pages</div>
         </div>
-        </div>
       </div>
-      
+    </div>
+
     <!-- Pagination Info -->
     <div class="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-8">
       <div class="text-sm text-slate-600 dark:text-slate-400 text-center">
@@ -142,22 +160,22 @@ const breadcrumbItems = [
     <!-- Emojis Grid -->
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-4 mb-8">
       {paginatedEmojis.map((emoji) => (
-        <a href={`/freedevtools/emojis/${emoji.slug}/`} class="emoji-card bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg p-4 text-center hover:shadow-lg transition-all duration-200 cursor-pointer block" data-emoji={emoji.code} data-title={emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}>
-          <div class="text-5xl mb-2">{emoji.code}</div>
+        <div class="emoji-card bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg p-4 text-center hover:shadow-lg transition-all duration-200 cursor-pointer" data-emoji={emoji.code} data-title={emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}>
+          <div class="text-4xl mb-2">{emoji.code}</div>
           <div class="text-xs text-slate-600 dark:text-slate-400 truncate" title={emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}>
             {emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}
           </div>
-        </a>
+        </div>
       ))}
     </div>
-    
+
     <!-- Pagination -->
     <Pagination 
       currentPage={currentPage}
       totalPages={totalPages}
       baseUrl={`/freedevtools/emojis/${categorySlug}/`}
     />
-    
+
     <!-- Credits Section -->
     <div class="mt-10 pt-6 mb-8 border-t border-slate-200 dark:border-slate-700">
       <div class="flex flex-wrap gap-4">
@@ -187,32 +205,26 @@ const breadcrumbItems = [
     const emojiCards = document.querySelectorAll('.emoji-card');
     
     emojiCards.forEach((card: any) => {
-      card.addEventListener('click', function(this: any, event: any) {
-        // Check if Ctrl/Cmd key is held for copy functionality
-        if (event.ctrlKey || event.metaKey) {
-          event.preventDefault(); // Prevent navigation
+      card.addEventListener('click', function(this: any) {
+        const emoji = this.dataset.emoji;
+        const title = this.dataset.title;
+        
+        // Copy to clipboard
+        navigator.clipboard.writeText(emoji).then(() => {
+          // Show feedback
+          const originalText = this.querySelector('.text-xs').textContent;
+          this.querySelector('.text-xs').textContent = 'Copied!';
+          this.style.backgroundColor = '#10b981';
+          this.style.color = 'white';
           
-          const emoji = this.dataset.emoji;
-          const title = this.dataset.title;
-          
-          // Copy to clipboard
-          navigator.clipboard.writeText(emoji).then(() => {
-            // Show feedback
-            const originalText = this.querySelector('.text-xs').textContent;
-            this.querySelector('.text-xs').textContent = 'Copied!';
-            this.style.backgroundColor = '#10b981';
-            this.style.color = 'white';
-            
-            setTimeout(() => {
-              this.querySelector('.text-xs').textContent = originalText;
-              this.style.backgroundColor = '';
-              this.style.color = '';
-            }, 1000);
-          }).catch((err: any) => {
-            console.error('Failed to copy emoji:', err);
-          });
-        }
-        // If no modifier key, allow normal link navigation
+          setTimeout(() => {
+            this.querySelector('.text-xs').textContent = originalText;
+            this.style.backgroundColor = '';
+            this.style.color = '';
+          }, 1000);
+        }).catch((err: any) => {
+          console.error('Failed to copy emoji:', err);
+        });
       });
     });
   });
