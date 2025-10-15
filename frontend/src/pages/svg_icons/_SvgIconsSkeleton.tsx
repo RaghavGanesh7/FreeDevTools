@@ -5,7 +5,7 @@ const SvgIconsSkeleton: React.FC = () => {
     <div className="space-y-6">
       {/* Stats skeleton */}
       <div className="text-center">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+        <div className="grid grid-cols-2 gap-6 mt-8">
           <div className="text-center">
             <div className="h-8 w-16 bg-slate-200 dark:bg-slate-700 rounded mx-auto mb-2"></div>
             <div className="h-4 w-20 bg-slate-200 dark:bg-slate-700 rounded mx-auto"></div>
@@ -53,7 +53,7 @@ const SvgIconsSkeleton: React.FC = () => {
         </div>
         <div className="h-4 w-48 bg-slate-200 dark:bg-slate-700 rounded mx-auto"></div>
       </div>
-    </div>
+    </div >
   );
 };
 
