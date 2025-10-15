@@ -14,7 +14,6 @@ import { getToolByKey, type Tool } from "@/config/tools";
 import React, { useCallback, useEffect, useState } from "react";
 import AdBanner from "../../../components/banner/AdBanner";
 import Base64EncoderSkeleton from "./_Base64EncoderSkeleton";
-import AdBanner from "../../../components/banner/AdBanner";
 // Base64 encoding/decoding utilities
 const toBase64 = (text: string): string => {
   try {
