@@ -10,7 +10,7 @@ const tldr = defineCollection({
   loader: glob({
     // In dev mode, only load specific categories; in build mode, load all files
     pattern: forceTldrBuild ? '**/*.md' : '{pnm,git}/**/*.md',
-    base: 'public/data/tldr',
+    base: 'data/tldr',
   }),
   schema: z.object({
     title: z.string(),
@@ -107,7 +107,7 @@ const mcpCategoryData = defineCollection({
 
 // Define the SVG icons metadata collection
 const svgIconsMetadata = defineCollection({
-  loader: file('public/data/cluster_svg.json', {
+  loader: file('data/cluster_svg.json', {
     parser: (fileContent) => {
       const data = JSON.parse(fileContent);
       return {
@@ -153,7 +153,7 @@ const svgIconsMetadata = defineCollection({
 
 // Define the PNG icons metadata collection
 const pngIconsMetadata = defineCollection({
-  loader: file('public/data/cluster_png.json', {
+  loader: file('data/cluster_png.json', {
     parser: (fileContent) => {
       const data = JSON.parse(fileContent);
       return {

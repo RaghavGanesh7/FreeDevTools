@@ -19,8 +19,8 @@ export interface CheatsheetItem {
 export async function getAllCheatsheetCategories(): Promise<
   CheatsheetCategory[]
 > {
-  // Use the existing cheatsheet system that loads from public/data/cheatsheets
-  const files = import.meta.glob('/public/data/cheatsheets/**/*.html', {
+  // Use the existing cheatsheet system that loads from data/cheatsheets
+  const files = import.meta.glob('/data/cheatsheets/**/*.html', {
     eager: true,
   });
 
@@ -118,7 +118,7 @@ export async function generateCheatsheetCategoryStaticPaths() {
 export async function getCheatsheetsByCategory(
   categoryName: string
 ): Promise<CheatsheetItem[]> {
-  const files = import.meta.glob('/public/data/cheatsheets/**/*.html', {
+  const files = import.meta.glob('/data/cheatsheets/**/*.html', {
     eager: true,
   });
 
@@ -149,13 +149,13 @@ export async function getCheatsheet(
 ) {
   try {
     // Use the existing cheatsheet system
-    const files = import.meta.glob('/public/data/cheatsheets/**/*.html', {
+    const files = import.meta.glob('/data/cheatsheets/**/*.html', {
       eager: true,
       query: '?raw',
       import: 'default',
     }) as Record<string, string>;
 
-    const filePath = `/public/data/cheatsheets/${categoryName}/${cheatsheetName}.html`;
+    const filePath = `/data/cheatsheets/${categoryName}/${cheatsheetName}.html`;
     const htmlContent = files[filePath];
 
     if (!htmlContent) {

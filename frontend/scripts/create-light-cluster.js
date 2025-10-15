@@ -6,8 +6,8 @@ import path from 'path';
 
 async function createClusterLight() {
   try {
-    const inputPath = path.join('public/data/', 'cluster.json');
-    const outputPath = path.join('public/data/', 'cluster-light.json');
+    const inputPath = path.join('data/', 'cluster.json');
+    const outputPath = path.join('data/', 'cluster-light.json');
 
     console.time('Read cluster.json');
     const fileContent = await fs.readFile(inputPath, 'utf-8');
