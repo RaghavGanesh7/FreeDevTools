@@ -1,5 +1,6 @@
 ---
 import CreditsButton from "@/components/buttons/CreditsButton";
+import Pagination from "@/components/PaginationComponent.astro";
 import ToolContainer from "@/components/tool/ToolContainer";
 import ToolContentCardWrapper from "@/components/tool/ToolContentCardWrapper";
 import ToolHead from "@/components/tool/ToolHead";
@@ -143,10 +144,9 @@ const getPlatformEmoji = (platformName: string): string => {
     'railway': '🔧',
     'render': '🔧',
     'fly': '🔧',
-    'digitalocean': '🔧',
-    'linode': '🔧',
-    'vultr': '🔧',
-    'aws': '☁️',
+    'digitalocean': '☁️',
+    'linode': '☁️',
+    'vultr': '☁️',
     'azure': '☁️',
     'gcp': '☁️',
     'ibm': '☁️',
@@ -162,28 +162,6 @@ const getPlatformEmoji = (platformName: string): string => {
     'scaleway': '☁️',
     'hetzner': '☁️',
     'contabo': '☁️',
-    'vultr': '☁️',
-    'linode': '☁️',
-    'digitalocean': '☁️',
-    'aws': '☁️',
-    'azure': '☁️',
-    'gcp': '☁️',
-    'ibm': '☁️',
-    'oracle': '☁️',
-    'alibaba': '☁️',
-    'tencent': '☁️',
-    'baidu': '☁️',
-    'huawei': '☁️',
-    'rackspace': '☁️',
-    'joyent': '☁️',
-    'softlayer': '☁️',
-    'ovh': '☁️',
-    'scaleway': '☁️',
-    'hetzner': '☁️',
-    'contabo': '☁️',
-    'vultr': '☁️',
-    'linode': '☁️',
-    'digitalocean': '☁️',
   };
 
   return emojiMap[platformName.toLowerCase()] || '🔧';
@@ -256,7 +234,7 @@ const platformsWithCommands = await Promise.all(
   />
 
   <!-- Overview Stats -->
-  <div class="text-center">
+  <div id="pagination-info" class="text-center">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
       <div class="text-center">
         <div class="text-3xl font-bold text-blue-600">{totalPlatforms}</div>
@@ -270,7 +248,7 @@ const platformsWithCommands = await Promise.all(
   </div>
 
   <!-- Pagination Info -->
-  <div class="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-6">
+  <div class="bg-slate-50 dark:bg-slate-800 rounded-lg p-4 mb-6 mt-8">
     <div class="text-sm text-slate-600 dark:text-slate-400 text-center">
       Showing {platforms.length} of {totalPlatforms} platforms (Page {currentPage} of {totalPages})
     </div>
@@ -285,108 +263,12 @@ const platformsWithCommands = await Promise.all(
     </div>
   </div>
 
-  <!-- Bottom Pagination -->
-  <div class="mt-8 pt-6 border-t border-slate-200 dark:border-slate-700">
-    <!-- Middle section with page numbers -->
-    <div class="flex items-center justify-center gap-2 mb-4">
-      {currentPage > 1 ? (
-        <a
-          href={currentPage === 2 ? "/freedevtools/tldr/" : `/freedevtools/tldr/${currentPage - 1}/`}
-          class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-        >
-          ← Previous
-        </a>
-      ) : (
-        <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-          ← Previous
-        </span>
-      )}
-
-      <!-- Page Numbers -->
-      {currentPage > 3 && (
-        <>
-          <a
-            href="/freedevtools/tldr/"
-            class="px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-          >
-            1
-          </a>
-          <span class="px-2 text-slate-400">...</span>
-        </>
-      )}
-
-      {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
-        const pageNum = Math.max(1, Math.min(totalPages - 4, currentPage - 2)) + i;
-        if (pageNum > totalPages) return null;
-
-        const isCurrentPage = pageNum === currentPage;
-        const pageUrl = pageNum === 1 ? "/freedevtools/tldr/" : `/freedevtools/tldr/${pageNum}/`;
-
-        return (
-          <a
-            href={pageUrl}
-            class={`px-3 py-2 text-sm font-medium rounded transition-colors ${isCurrentPage
-              ? 'text-white bg-blue-600 border border-blue-600'
-              : 'text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-600'
-              }`}
-          >
-            {pageNum}
-          </a>
-        );
-      })}
-
-      {currentPage < totalPages - 2 && (
-        <>
-          <span class="px-2 text-slate-400">...</span>
-          <a
-            href={`/freedevtools/tldr/${totalPages}/`}
-            class="px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-          >
-            {totalPages}
-          </a>
-        </>
-      )}
-
-      {currentPage < totalPages ? (
-        <a
-          href={`/freedevtools/tldr/${currentPage + 1}/`}
-          class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
-        >
-          Next →
-        </a>
-      ) : (
-        <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-          Next →
-        </span>
-      )}
-    </div>
-
-    <!-- Bottom section with info and go to page -->
-    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-      <div class="text-sm text-slate-600 dark:text-slate-400">
-        Page {currentPage} of {totalPages} • {totalPlatforms} total platforms
-      </div>
-      
-      <!-- Go to page input -->
-      <div class="flex items-center gap-2">
-        <span class="text-sm text-slate-600 dark:text-slate-400">Go to page:</span>
-        <input
-          type="number"
-          min="1"
-          max={totalPages}
-          value={currentPage}
-          class="w-16 px-2 py-1 text-sm border border-slate-300 dark:border-slate-600 rounded bg-white dark:bg-slate-800 text-slate-900 dark:text-slate-100 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-          onkeypress="if(event.key==='Enter'){const pageNum=parseInt(this.value);const totalPages=parseInt(this.max);if(pageNum>=1&&pageNum<=totalPages){const url=pageNum===1?'/freedevtools/tldr/':'/freedevtools/tldr/'+pageNum+'/';window.location.href=url}}"
-        />
-        <button
-          onclick="const input=this.previousElementSibling;const pageNum=parseInt(input.value);const totalPages=parseInt(input.max);if(pageNum>=1&&pageNum<=totalPages){const url=pageNum===1?'/freedevtools/tldr/':'/freedevtools/tldr/'+pageNum+'/';window.location.href=url}"
-          class="px-3 py-1 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded transition-colors"
-        >
-          Go
-        </button>
-      </div>
-    </div>
-  </div>
+  <!-- Pagination -->
+  <Pagination 
+    currentPage={currentPage}
+    totalPages={totalPages}
+    baseUrl="/freedevtools/tldr/"
+  />
 
   <!-- Features -->
   <div class="mb-10 mt-6">
@@ -433,3 +315,4 @@ const platformsWithCommands = await Promise.all(
     </div>
   </div>
 </ToolContainer>
+

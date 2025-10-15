@@ -20,7 +20,7 @@ export async function generateTldrStaticPaths() {
     url: `/freedevtools/tldr/${name}/`,
   }));
 
-  const itemsPerPage = 20;
+  const itemsPerPage = 30;
   const totalPages = Math.ceil(platforms.length / itemsPerPage);
   const paths: any[] = [];
 
@@ -63,7 +63,7 @@ export async function generateTldrPlatformStaticPaths() {
       return entryPlatform === platform;
     });
 
-    const itemsPerPage = 20;
+    const itemsPerPage = 30;
     const totalPages = Math.ceil(platformCommands.length / itemsPerPage);
 
     // Generate pagination pages for this platform (2, 3, 4, etc. - page 1 is handled by [platform]/index.astro)

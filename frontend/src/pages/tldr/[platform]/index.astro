@@ -26,7 +26,7 @@ const { platform } = Astro.params;
 const allCommands = await getTldrPlatformCommands(platform!);
 
 // Pagination logic for page 1
-const itemsPerPage = 20;
+const itemsPerPage = 30;
 const currentPage = 1;
 const totalPages = Math.ceil(allCommands.length / itemsPerPage);
 const startIndex = (currentPage - 1) * itemsPerPage;

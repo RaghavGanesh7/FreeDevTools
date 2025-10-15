@@ -11,7 +11,7 @@ const allPlatforms = await getAllTldrPlatforms();
 const totalCommands = allPlatforms.reduce((total: number, platform: any) => total + platform.count, 0);
 
 // Pagination logic for page 1
-const itemsPerPage = 20;
+const itemsPerPage = 30;
 const currentPage = 1;
 const totalPages = Math.ceil(allPlatforms.length / itemsPerPage);
 const startIndex = (currentPage - 1) * itemsPerPage;
