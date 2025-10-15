@@ -70,12 +70,9 @@ const {
           </a>
         </div>
         
-        <p class="text-sm text-slate-800 dark:text-slate-400 mb-4 m-0">
-          {category.cheatsheetCount} cheatsheets available
-        </p>
         
         <div class="space-y-2">
-          {category.cheatsheets.slice(0, 5).map((cheatsheet: any) => (
+          {category.cheatsheets.slice(0, 3).map((cheatsheet: any) => (
             <a 
               href={cheatsheet.url}
               class="block text-sm text-blue-600 dark:text-blue-400 hover:text-black dark:hover:text-white hover:font-bold"
@@ -83,9 +80,9 @@ const {
               {cheatsheet.name}
             </a>
           ))}
-          {category.cheatsheetCount > 5 && (
+          {category.cheatsheetCount > 3 && (
             <p class="text-xs text-slate-500 dark:text-slate-500">
-              +{category.cheatsheetCount - 5} more items
+              +{category.cheatsheetCount - 3} more cheatsheets
             </p>
           )}
         </div>

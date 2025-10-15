@@ -169,12 +169,12 @@ const getPlatformEmoji = (platformName: string): string => {
 
 // Helper function to render platform card
 function renderPlatformCard(platform: any, platformCommands: any[]): string {
-  const commandsHtml = platformCommands.slice(0, 5).map(command => 
+  const commandsHtml = platformCommands.slice(0, 3).map(command => 
     `<a href="/freedevtools/tldr/${platform.name}/${command.name}/" class="block text-sm text-blue-600 dark:text-blue-300 hover:text-black dark:hover:text-white hover:font-bold">${command.name}</a>`
   ).join('');
   
-  const moreCommandsHtml = platformCommands.length > 5 ? 
-    `<p class="text-xs text-slate-500 dark:text-slate-400">+${platformCommands.length - 5} more commands</p>` : '';
+  const moreCommandsHtml = platformCommands.length > 3 ? 
+    `<p class="text-xs text-slate-500 dark:text-slate-400">+${platformCommands.length - 3} more commands</p>` : '';
   
   return `
     <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-900 rounded-xl p-4 md:p-4 lg:p-8 transition-all duration-300 ease-in-out shadow-sm hover:-translate-y-1 hover:shadow-xl hover:border-border">
@@ -192,9 +192,6 @@ function renderPlatformCard(platform: any, platformCommands: any[]): string {
         </a>
       </div>
       
-      <p class="text-sm text-slate-800 dark:text-slate-400 mb-4 m-0">
-        ${platform.count} commands available
-      </p>
       
       <div class="space-y-2">
         ${commandsHtml}
