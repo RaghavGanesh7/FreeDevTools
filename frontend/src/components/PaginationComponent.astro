@@ -33,11 +33,11 @@ const buildUrl = (page: number): string => {
         href={buildUrl(currentPage - 1)}
         class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
       >
-        ← Previous
+        ← <span class="hidden md:block">Previous</span>
       </a>
     ) : (
       <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-        ← Previous
+        ← <span class="hidden md:block">Previous</span>
       </span>
     )}
 
@@ -91,11 +91,11 @@ const buildUrl = (page: number): string => {
         href={buildUrl(currentPage + 1)}
         class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded hover:bg-slate-50 dark:hover:bg-slate-600 transition-colors"
       >
-        Next →
+        <span class="hidden md:block">Next</span> →
       </a>
     ) : (
       <span class="inline-flex items-center px-3 py-2 text-sm font-medium text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded cursor-not-allowed">
-        Next →
+        <span class="hidden md:block">Next</span> →
       </span>
     )}
   </div>
