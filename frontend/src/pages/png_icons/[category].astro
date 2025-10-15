@@ -2,7 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdBanner from '../../components/banner/AdBanner';
 import CreditsButton from '../../components/buttons/CreditsButton';
-import Breadcrumb from '../../components/Breadcrumb';
+import ToolContainer from '../../components/tool/ToolContainer';
+import ToolHead from '../../components/tool/ToolHead';
 import { getCollection } from 'astro:content';
 import { Tooltips } from 'astro-tooltips';
 
@@ -101,35 +102,15 @@ const breadcrumbItems = [
 
   <Tooltips delay={[500, 100]} />
   
-  <div class="max-w-6xl mx-auto px-2 md:px-6">
-      <div class="mb-16 mt-[74px]">
-        <AdBanner client:visible />
-      </div>
+  <ToolContainer>
+    <ToolHead
+      name={`${category} PNG Graphics Collection`}
+      description={`Browse ${totalIcons} ready-to-use ${category} images, instantly downloadable without restrictions`}
+      breadcrumbItems={breadcrumbItems}
+    />
     
-    <div class="mb-8">
-      <Breadcrumb items={breadcrumbItems} client:load />
-      
-      <div class="flex items-center mb-4">
-        <div class="w-12 h-12 bg-white dark:bg-slate-800 rounded-lg flex items-center justify-center mr-4 border border-slate-200 dark:border-slate-700">
-          <img 
-            src={categoryIcon}
-            alt={`${category} logo`}
-            class="w-8 h-8 object-contain"
-            onerror="this.src='https://via.placeholder.com/40x40/3b82f6/ffffff?text=' + this.alt.split(' ')[0].charAt(0).toUpperCase()"
-          />
-        </div>
-        <div>
-          <h1 class="text-3xl font-bold text-slate-900 dark:text-slate-100 capitalize">
-            {category} PNG Graphics Collection
-          </h1>
-          <p class="text-lg text-slate-600 dark:text-slate-400">
-            Browse {totalIcons} ready-to-use {category} images, instantly downloadable without restrictions
-          </p>
-        </div>
-      </div>
-      
-      <!-- Search Bar -->
-      <div class="max-w-md mb-6 mt-6">
+    <!-- Search Bar -->
+    <div class="max-w-md mb-6 mt-6">
         <div class="relative">
           <input 
             type="text" 
@@ -163,7 +144,7 @@ const breadcrumbItems = [
         <CreditsButton href="/freedevtools/png_icons/credits/" />
       </div>
     </div>
-  </div>
+  </ToolContainer>
 </BaseLayout>
 
 <style>

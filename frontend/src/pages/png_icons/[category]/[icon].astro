@@ -1,12 +1,13 @@
 ---
 import AdBanner from '../../../components/banner/AdBanner';
-import Breadcrumb from '../../../components/Breadcrumb';
 import CopyPngButton from '../../../components/buttons/CopyPngButton.tsx';
 import CopySvgButton from '../../../components/buttons/CopySvgButton.tsx';
 import DownloadPngButton from '../../../components/buttons/DownloadPngButton.tsx';
 import DownloadSvgButton from '../../../components/buttons/DownloadSvgButton.tsx';
 import CreditsButton from '../../../components/buttons/CreditsButton';
 import ToastProvider from '../../../components/ToastProvider';
+import ToolContainer from '../../../components/tool/ToolContainer';
+import ToolHead from '../../../components/tool/ToolHead';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
@@ -165,27 +166,17 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
   license={iconData.license}
 >
 <ToastProvider client:load>
-  <div class="max-w-6xl mx-auto px-4 md:px-6 py-6">
-
-    {/* Ad Banner */}
-    <div class="mb-12 mt-8 md:mt-16">
-      <AdBanner client:visible />
-    </div>
-
-    {/* Breadcrumb Navigation */}
-    <Breadcrumb items={breadcrumbItems} client:load />
-
-    {/* Title & Description */}
-    <header class="mb-10">
-      <h1 class="text-3xl md:text-4xl font-semibold mb-3 text-black dark:text-slate-200">
-        {iconData.name} PNG Icon
-      </h1>
+  <ToolContainer>
+    <ToolHead
+      name={`${iconData.name} PNG Icon`}
+      description={seoDescription}
+      breadcrumbItems={breadcrumbItems}
+    />
       <p class="text-sm md:text-base text-slate-600 dark:text-slate-400 leading-relaxed">
         {iconData.description
           .replace(/SVG/g, "PNG")
           .replace(/\bAn PNG\b/g, "A PNG")}
       </p>
-    </header>
 
     {/* Main Section: Icon + Buttons (left) + Metadata (right) */}
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
@@ -282,7 +273,7 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
       </a>
       <CreditsButton href="/freedevtools/png_icons/credits/" />
     </div>
-  </div>
+  </ToolContainer>
 </ToastProvider>
 
 </BaseLayout>
