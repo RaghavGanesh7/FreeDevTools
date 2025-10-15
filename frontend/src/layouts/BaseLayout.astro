@@ -4,6 +4,7 @@ import Footer from '../components/Footer.tsx';
 // import Sidebar from '../components/Sidebar';
 import { ThemeProvider } from '../components/theme/ThemeContext.tsx';
 import ToastProvider from '../components/ToastProvider.tsx';
+import { GoogleTagManager } from 'astro-gtm';
 import '../styles/global.css';
 import SearchPage from '../components/SearchPage';
 
@@ -466,25 +467,6 @@ const GA_MEASUREMENT_ID = 'G-WXSDF484XZ';
     <!-- Load local fonts CSS -->
     <link rel="stylesheet" href="/freedevtools/fonts/fonts.css">
 
-    <!-- Google Analytics-->
-   
-      <>
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}></script>
-        <script define:vars={{ GA_MEASUREMENT_ID }}>
-          const isLocalhost = 
-            window.location.hostname === 'localhost' || 
-            window.location.hostname === '127.0.0.1';
-                     
-          if (!isLocalhost) {
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', GA_MEASUREMENT_ID);
-          } else {
-            console.log('Google Analytics disabled on localhost/development environment');
-          }
-        </script>
-      </>
     
     
     <!-- Theme initialization script -->
@@ -530,6 +512,7 @@ const GA_MEASUREMENT_ID = 'G-WXSDF484XZ';
     </script>
   </head>
   <body class="m-0 p-0 font-sans bg-slate-50 text-slate-800 leading-relaxed dark:bg-slate-900 dark:text-slate-200 min-h-screen flex flex-col">
+    <GoogleTagManager gtmId={GA_MEASUREMENT_ID} enableInDevMode={false} />
     <div class="flex flex-1">
       {showHeader && (
         <ThemeProvider client:load>
