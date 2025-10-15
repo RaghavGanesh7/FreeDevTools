@@ -87,6 +87,10 @@ function findNestedDefinition(node: unknown): string | null {
         <span class="mx-2">/</span>
         <a href="/freedevtools/emojis/" class="hover:text-blue-600 dark:hover:text-blue-400">Emojis</a>
         <span class="mx-2">/</span>
+        <a href={`/freedevtools/emojis/${(((emoji.fluentui_metadata && emoji.fluentui_metadata.group) ? emoji.fluentui_metadata.group : (emoji.emoji_net_data && emoji.emoji_net_data.category) || (emoji as any).given_category || 'Other') as string).toLowerCase().replace(/[^a-z0-9]+/g, '-')}/`} class="hover:text-blue-600 dark:hover:text-blue-400 capitalize">
+          {((emoji.fluentui_metadata && emoji.fluentui_metadata.group) ? emoji.fluentui_metadata.group : (emoji.emoji_net_data && emoji.emoji_net_data.category) || (emoji as any).given_category || 'Other') as string}
+        </a>
+        <span class="mx-2">/</span>
         <span>{emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}</span>
       </nav>
     </div>

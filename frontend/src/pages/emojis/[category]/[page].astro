@@ -99,7 +99,7 @@ const emojis = await getEmojisByCategory(categoryName);
 const totalEmojis = emojis.length;
 
 // Pagination logic
-const itemsPerPage = 30;
+const itemsPerPage = 36;
 const totalPages = Math.ceil(totalEmojis / itemsPerPage);
 const startIndex = (currentPage - 1) * itemsPerPage;
 const endIndex = startIndex + itemsPerPage;
@@ -118,7 +118,7 @@ const breadcrumbItems = [
   path={`/emojis/${categorySlug}/`}
   title={seoData.title}
   description={seoData.description}
-  canonical={`https://hexmos.com/freedevtools/emojis/${categorySlug}/`}
+  canonical={`https://hexmos.com/freedevtools/emojis/${categorySlug}/${currentPage}/`}
   themeColor="#1e40af"
   keywords={seoData.keywords}
   showSidebar={false}
@@ -174,7 +174,7 @@ const breadcrumbItems = [
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-4 mb-8">
       {paginatedEmojis.map((emoji) => (
         <div class="emoji-card bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg p-4 text-center hover:shadow-lg transition-all duration-200 cursor-pointer" data-emoji={emoji.code} data-title={emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}>
-          <div class="text-3xl mb-2">{emoji.code}</div>
+          <div class="text-4xl mb-2">{emoji.code}</div>
           <div class="text-xs text-slate-600 dark:text-slate-400 truncate" title={emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}>
             {emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}
           </div>
