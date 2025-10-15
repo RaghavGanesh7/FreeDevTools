@@ -2,10 +2,10 @@
 import AdBanner from '../../../components/banner/AdBanner';
 import CreditsButton from '../../../components/buttons/CreditsButton';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { getCheatsheet } from '../../../lib/cheatsheets';
+import { getCheatsheet } from '../../../lib/cheatsheets-utils';
 
 export async function getStaticPaths() {
-  const sheetFiles = import.meta.glob('/src/pages/html_pages/cheatsheets/**/*.html', { eager: true });
+  const sheetFiles = import.meta.glob('/public/data/cheatsheets/**/*.html', { eager: true });
   const paths: Array<{ params: { category: string; name: string } }> = [];
   
   for (const path of Object.keys(sheetFiles)) {
@@ -29,7 +29,7 @@ if (!cheatsheetResult) {
   return Astro.redirect('/404');
 }
 
-const { htmlContent, metatags } = cheatsheetResult;
+const { content, metatags } = cheatsheetResult;
 
 // Use metatags for title and description, with fallbacks
 const title = metatags.title || name;
@@ -47,7 +47,7 @@ const description = metatags.description || `Cheatsheet for ${name}`;
   showHeader={true}
 >
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
-  <div class="max-w-4xl mx-auto px-2 md:px-6">
+  <div class="max-w-6xl mx-auto px-2 md:px-6">
     <div class="mb-16 mt-[74px]">
       <AdBanner client:visible />
     </div>
@@ -72,7 +72,7 @@ const description = metatags.description || `Cheatsheet for ${name}`;
       </header>
 
       <div class="bg-slate-50 dark:bg-slate-800/50 rounded-lg p-6">
-        <div class="html-content prose prose-slate dark:prose-invert max-w-none" set:html={htmlContent} />
+        <div class="html-content prose prose-slate dark:prose-invert max-w-none" set:html={content} />
       </div>
     </article>
 
