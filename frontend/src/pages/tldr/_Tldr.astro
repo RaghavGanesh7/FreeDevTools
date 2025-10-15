@@ -214,6 +214,7 @@ const { platforms, currentPage, totalPages, totalPlatforms, totalCommands, bread
 
 // Get commands for each platform
 import { getTldrPlatformCommands } from '../../lib/tldr-utils';
+import AdBanner from "../../components/banner/AdBanner.astro";
 
 const platformsWithCommands = await Promise.all(
   platforms.map(async (platform: any) => {
@@ -224,6 +225,9 @@ const platformsWithCommands = await Promise.all(
 ---
 
 <ToolContainer>
+  <div class="mb-16 mt-[74px]">
+    <AdBanner />
+  </div>
   <ToolHead
     name="TLDR"
     description="Comprehensive documentation for command-line tools across different platforms. Learn commands quickly with practical examples."

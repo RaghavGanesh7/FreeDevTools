@@ -3,6 +3,7 @@ import CreditsButton from '../../components/buttons/CreditsButton';
 import Pagination from '../../components/PaginationComponent.astro';
 import ToolContainer from '../../components/tool/ToolContainer';
 import ToolHead from '../../components/tool/ToolHead';
+import AdBanner from '../../components/banner/AdBanner.astro';
 
 const { 
   categories, 
@@ -15,6 +16,9 @@ const {
 ---
 
 <ToolContainer>
+  <div class="mb-16 mt-[74px]">
+    <AdBanner />
+  </div>
   <ToolHead
     name="Cheatsheets"
     description="Concise, skimmable references for languages, frameworks, tools, and platforms."

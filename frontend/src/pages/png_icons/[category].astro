@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdBanner from '../../components/banner/AdBanner';
+import AdBanner from '../../components/banner/AdBanner.astro';
 import CreditsButton from '../../components/buttons/CreditsButton';
 import ToolContainer from '../../components/tool/ToolContainer';
 import ToolHead from '../../components/tool/ToolHead';
@@ -103,6 +103,9 @@ const breadcrumbItems = [
   <Tooltips delay={[500, 100]} />
   
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name={`${category} PNG Graphics Collection`}
       description={`Browse ${totalIcons} ready-to-use ${category} images, instantly downloadable without restrictions`}

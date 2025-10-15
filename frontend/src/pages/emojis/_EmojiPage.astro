@@ -1,4 +1,5 @@
 ---
+import AdBanner from '../../components/banner/AdBanner.astro';
 import CreditsButton from '../../components/buttons/CreditsButton';
 import Pagination from '../../components/PaginationComponent.astro';
 import ToolContainer from '../../components/tool/ToolContainer';
@@ -17,6 +18,9 @@ const {
 ---
 
 <ToolContainer>
+  <div class="mb-16 mt-[74px]">
+    <AdBanner />
+  </div>
   <ToolHead
     name="Emojis"
     description="Comprehensive emoji reference with categories, meanings, and copy functionality. Browse categories like Smileys & Emotion, People & Body, Animals & Nature, Food & Drink, Travel & Places, Activities, Objects, Symbols, and Flags."

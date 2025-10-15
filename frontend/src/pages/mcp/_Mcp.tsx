@@ -7,6 +7,7 @@ import { Card } from "@/components/ui/card";
 import { formatNumber } from "@/lib/utils";
 import { Filter, Star } from "lucide-react";
 import React, { useEffect, useState } from "react";
+import AdBanner from "../../components/banner/AdBanner";
 import McpSkeleton from "./_McpSkeleton";
 
 // Helper function to convert category icons to emojis
@@ -113,6 +114,9 @@ const Mcp: React.FC<McpProps> = ({
   if (!loaded) {
     return (
       <ToolContainer>
+        <div className="mb-16 mt-[74px]">
+          <AdBanner />
+        </div>
         <ToolHead
           name="MCP Directory"
           description={`Browse ${formatNumber(serversCount)}+ MCP repositories instantly with our comprehensive directory. Find Model Context Protocol servers, tools, and clients by category. Free, no registration required.`}
@@ -133,6 +137,9 @@ const Mcp: React.FC<McpProps> = ({
         `}
       </style>
       <ToolContainer>
+      <div className="mb-16 mt-[74px]">
+        <AdBanner />
+      </div>
         <ToolHead
           name="MCP Directory"
           description={`Browse ${formatNumber(serversCount)}+ MCP repositories instantly with our comprehensive directory. Find Model Context Protocol servers, tools, and clients by category. Free, no registration required.`}

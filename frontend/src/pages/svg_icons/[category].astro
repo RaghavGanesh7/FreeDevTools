@@ -4,6 +4,7 @@ import CreditsButton from '../../components/buttons/CreditsButton';
 import ToolContainer from '../../components/tool/ToolContainer';
 import ToolHead from '../../components/tool/ToolHead';
 import { getCollection } from 'astro:content';
+import AdBanner from '../../components/banner/AdBanner.astro';
 
 export async function getStaticPaths() {
   const svgIconsEntries = await getCollection('svgIconsMetadata');
@@ -100,6 +101,9 @@ const breadcrumbItems = [
 
   
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name={`${category} SVG Icons`}
       description={`Discover ${totalIcons} scalable ${category} icons ready in vector SVG format`}

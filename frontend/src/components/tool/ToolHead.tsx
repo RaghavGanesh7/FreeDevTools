@@ -1,5 +1,4 @@
 import React from "react";
-import AdBanner from "../banner/AdBanner";
 import Breadcrumb from "../Breadcrumb";
 
 export interface BreadcrumbItem {
@@ -16,10 +15,6 @@ export interface ToolHeadProps {
 const ToolHead: React.FC<ToolHeadProps> = ({ name, description, breadcrumbItems }) => {
   return (
     <>
-      {/* Ad Banner */}
-      <div className="mb-12 mt-[74px]">
-        <AdBanner />
-      </div>
       {breadcrumbItems && (
         <div className="mb-10 mt-10">
           <Breadcrumb items={breadcrumbItems} />

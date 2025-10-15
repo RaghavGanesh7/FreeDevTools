@@ -1,4 +1,5 @@
 ---
+import AdBanner from '../../../components/banner/AdBanner.astro';
 import CreditsButton from '../../../components/buttons/CreditsButton';
 import ToolContainer from '../../../components/tool/ToolContainer';
 import ToolHead from '../../../components/tool/ToolHead';
@@ -57,6 +58,9 @@ const breadcrumbItems = [
 >
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
 <ToolContainer>
+  <div class="mb-16 mt-[74px]">
+    <AdBanner />
+  </div>
   <ToolHead
     name={title}
     description={description}

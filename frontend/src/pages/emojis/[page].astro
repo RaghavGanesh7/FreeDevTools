@@ -5,6 +5,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ToolContainer from '../../components/tool/ToolContainer';
 import ToolHead from '../../components/tool/ToolHead';
 import { getAllEmojis, getEmojiCategories } from '../../lib/emojis';
+import AdBanner from '../../components/banner/AdBanner.astro';
 
 export async function getStaticPaths() {
   const emojis = await getAllEmojis();
@@ -94,6 +95,9 @@ const breadcrumbItems = [
   emojiCategory="Reference"
 >
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name="Emojis"
       description="Comprehensive emoji reference with categories, meanings, and copy functionality. Browse categories like Smileys & Emotion, People & Body, Animals & Nature, Food & Drink, Travel & Places, Activities, Objects, Symbols, and Flags."

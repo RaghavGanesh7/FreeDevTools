@@ -1,4 +1,5 @@
 ---
+import AdBanner from '../../../components/banner/AdBanner.astro';
 import CopyPngButton from '../../../components/buttons/CopyPngButton.tsx';
 import CopySvgButton from '../../../components/buttons/CopySvgButton.tsx';
 import CreditsButton from '../../../components/buttons/CreditsButton';
@@ -143,6 +144,9 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
 >
 <ToastProvider client:load>
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name={`${iconData.name} Vector SVG Icon`}
       description={seoDescription}

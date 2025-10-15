@@ -4,6 +4,7 @@ import Pagination from '../../../components/PaginationComponent.astro';
 import CreditsButton from '../../../components/buttons/CreditsButton';
 import ToolContainer from '../../../components/tool/ToolContainer';
 import ToolHead from '../../../components/tool/ToolHead';
+import AdBanner from '../../../components/banner/AdBanner.astro';
 import { getCheatsheetsByCategory, getAllCheatsheetCategories } from '../../../lib/cheatsheets-utils';
 
 export async function getStaticPaths() {
@@ -67,6 +68,9 @@ const keywords = [
   commandCategory="Reference"
 >
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name={`${categoryName} Cheatsheets`}
       description={seoDescription}

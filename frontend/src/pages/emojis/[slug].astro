@@ -1,4 +1,5 @@
 ---
+import AdBanner from '../../components/banner/AdBanner.astro';
 import CreditsButton from '../../components/buttons/CreditsButton';
 import EmojiPage from '../../components/EmojiPage.tsx';
 import ToolContainer from '../../components/tool/ToolContainer';
@@ -90,6 +91,9 @@ const breadcrumbItems = [
   showHeader={true}
 >
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name={`${emoji.code || (emoji as any).glyph} ${emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug}`}
       description={cleanDescription(emoji.description) || cleanDescription(findNestedDefinition(emoji) || undefined) || `Learn about the ${emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug} emoji ${emoji.code || (emoji as any).glyph}. Find meanings, shortcodes, and usage information.`}

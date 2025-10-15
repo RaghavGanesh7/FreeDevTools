@@ -6,6 +6,7 @@ import ToolContentCardWrapper from "@/components/tool/ToolContentCardWrapper";
 import ToolHead from "@/components/tool/ToolHead";
 import { Card } from "@/components/ui/card";
 import { Download, Filter, Star } from "lucide-react";
+import AdBanner from "../../components/banner/AdBanner.astro";
 
 // Helper function to get platform emoji
 const getPlatformEmoji = (platformName: string): string => {
@@ -193,6 +194,9 @@ const { commands, currentPage, totalPages, totalCommands, platform, breadcrumbIt
 ---
 
 <ToolContainer>
+  <div class="mb-16 mt-[74px]">
+    <AdBanner />
+  </div>
   <ToolHead
     name={`${platform} Commands`}
     description={`Comprehensive documentation for ${platform} command-line tools. Learn ${platform} commands quickly with practical examples.`}

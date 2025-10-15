@@ -7,6 +7,7 @@ import ToolHead from "@/components/tool/ToolHead";
 import { Card } from "@/components/ui/card";
 import { formatNumber } from "@/lib/utils";
 import { Download, Filter, Star } from "lucide-react";
+import AdBanner from "../../components/banner/AdBanner.astro";
 
 // Helper function to get category emoji
 const getCategoryEmoji = (categoryName: string): string => {
@@ -112,6 +113,9 @@ const { categories, currentPage, totalPages, totalCategories, totalPngIcons, bre
 ---
 
 <ToolContainer>
+  <div class="mb-16 mt-[74px]">
+    <AdBanner />
+  </div>
   <ToolHead
     name="PNG Icons"
     description="Download thousands of free PNG icons instantly. Edit colors, add backgrounds, and customize vector graphics for your projects. No registration required."

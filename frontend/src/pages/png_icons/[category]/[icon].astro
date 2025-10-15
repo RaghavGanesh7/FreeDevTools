@@ -8,6 +8,7 @@ import ToastProvider from '../../../components/ToastProvider';
 import ToolContainer from '../../../components/tool/ToolContainer';
 import ToolHead from '../../../components/tool/ToolHead';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AdBanner from '../../../components/banner/AdBanner.astro';
 
 export async function getStaticPaths() {
   const { getCollection } = await import('astro:content');
@@ -166,6 +167,9 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
 >
 <ToastProvider client:load>
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name={`${iconData.name} PNG Icon`}
       description={seoDescription}

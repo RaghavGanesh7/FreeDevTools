@@ -5,6 +5,7 @@ import CreditsButton from '../../../components/buttons/CreditsButton';
 import ToolContainer from '../../../components/tool/ToolContainer';
 import ToolHead from '../../../components/tool/ToolHead';
 import { getEmojisByCategory, getEmojiCategories } from '../../../lib/emojis';
+import AdBanner from '../../../components/banner/AdBanner.astro';
 
 const { category: categorySlug, page } = Astro.params;
 const currentPage = parseInt(page || '1');
@@ -129,6 +130,9 @@ const breadcrumbItems = [
   emojiCategory={categoryName}
 >
   <ToolContainer>
+    <div class="mb-16 mt-[74px]">
+      <AdBanner />
+    </div>
     <ToolHead
       name={`${categoryName} Emojis`}
       description={seoData.description}

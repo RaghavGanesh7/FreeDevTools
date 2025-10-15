@@ -4,6 +4,7 @@ import CreditsButton from '../../../components/buttons/CreditsButton';
 import ToolContainer from '../../../components/tool/ToolContainer';
 import ToolHead from '../../../components/tool/ToolHead';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AdBanner from '../../../components/banner/AdBanner.astro';
 
 export async function getStaticPaths() {
   const tldrEntries = await getCollection('tldr');
@@ -64,6 +65,9 @@ const breadcrumbItems = [
   showHeader={true}
 >
 <ToolContainer>
+  <div class="mb-16 mt-[74px]">
+    <AdBanner />
+  </div>
   <ToolHead
     name={title}
     description={description}
