@@ -135,7 +135,7 @@ const DownloadPngButton: React.FC<DownloadPngButtonProps> = ({ iconData }) => {
     <div className="inline-flex rounded overflow-hidden w-full">
       <button
         onClick={handleClick}
-        className="flex-1 px-2 sm:px-4 py-3 text-xs sm:text-sm font-medium text-white bg-green-600 hover:bg-green-700 transition-colors"
+        className="flex-1 px-2 sm:px-4 py-3 text-sm font-medium text-white bg-green-600 hover:bg-green-700 transition-colors"
       >
         <span className="hidden sm:inline">Download PNG</span>
         <span className="sm:hidden">PNG</span>
