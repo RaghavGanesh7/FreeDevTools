@@ -192,19 +192,20 @@ const encodingFormat = icon === 'brand-oauth' && category === 'factory'
         <picture>
           <source type="image/svg+xml" srcset={`/freedevtools/svg_icons/${category}/${icon}.svg`} />
           <img
-            src={`/freedevtools/svg_icons/${category}/${icon}.svg`}
-            alt={altText}
-            style={{
-              width: "280px",       // width adjusts automatically
-              height: "280px",      // fill container height
-              maxWidth: "100%",    // don't overflow container width
-              objectFit: "contain",
-              display: "block"
-            }}
-            loading="eager"
-            decoding="async"
-            title={`${iconData.name} ${iconData.category} icon`}
-          />
+          src={`/freedevtools/svg_icons/${category}/${icon}.svg`}
+          alt={altText}
+          width="280"
+          height="280"
+          style={{
+            maxWidth: "100%",
+            objectFit: "contain",
+            display: "block"
+          }}
+          loading="eager"
+          decoding="async"
+          title={`${iconData.name} ${iconData.category} icon`}
+          fetchpriority="high"
+        />
         </picture>
       </div>
 
