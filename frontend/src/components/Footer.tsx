@@ -13,7 +13,7 @@ const LeftColumn: React.FC = () => {
         >
           <img
             src="/freedevtools/svg_icons/productivity/livereview.svg"
-            alt="LiveReview"
+            alt="Hexmos LiveReview AI-Powered Code Review"
             className="w-5 h-5"
           />
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">LiveReview</p>
@@ -26,7 +26,7 @@ const LeftColumn: React.FC = () => {
         >
           <img
             src="/freedevtools/svg_icons/productivity/hexmos.svg"
-            alt="Since 2022"
+            alt="Hexmos Blog - Since 2022"
             className="w-5 h-5"
           />
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">Blog - Since 2022</p>
@@ -37,7 +37,7 @@ const LeftColumn: React.FC = () => {
         >
           <img
             src="/freedevtools/svg_icons/terms/policy-term-and-condition-term.svg"
-            alt="Terms of Use"
+            alt="FreeDevTools Terms of Use"
             className="w-5 h-5"
           />
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">Terms of Use</p>

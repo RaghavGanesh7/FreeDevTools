@@ -44,7 +44,7 @@ const LiveReviewBrand: React.FC<LiveReviewBrandProps> = ({ size = "md" }) => {
       >
         <img
           src="/freedevtools/t/livereview_logo_32.webp"
-          alt="LiveReview"
+          alt="Hexmos LiveReview AI-Powered Code Review"
           className={`${currentSize.logo} mb-0 lg:mb-0`}
         />
         <div className="text-left">
