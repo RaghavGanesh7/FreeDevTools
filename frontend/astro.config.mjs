@@ -2,7 +2,6 @@
 import react from "@astrojs/react";
 import tailwind from "@astrojs/tailwind";
 import compressor from "astro-compressor";
-import purgecss from "astro-purgecss";
 import { defineConfig } from "astro/config";
 import path from "path";
 
@@ -15,22 +14,7 @@ export default defineConfig({
   integrations: [
     react(),
     tailwind(),
-    compressor({ gzip: { level: 9 }, brotli: true }),
-    purgecss({
-      fontFace: true,
-      keyframes: true,
-      variables: true,
-      content: [
-        './src/**/*.{astro,js,jsx,ts,tsx,vue,svelte}'
-      ],
-      extractors: [
-        {
-          extractor: (content) =>
-            content.match(/[^<>"'`\s]*[^<>"'`\s:]/g) || [],
-          extensions: ['astro', 'html']
-        }
-      ]
-    })
+    compressor({ gzip: { level: 9 }, brotli: true })
     // sitemap({
     //   filter: (page) => !page.includes('404') && !page.includes('_astro'),
     //   changefreq: 'daily',
