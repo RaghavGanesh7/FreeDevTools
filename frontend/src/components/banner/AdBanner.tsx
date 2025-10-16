@@ -182,7 +182,9 @@ const AdBanner: React.FC = () => {
 
           {/* Mobile and Tablet button row */}
           <div className="flex flex-row items-center justify-between mb-2 xl:hidden">
-            <LearnMoreButton size="sm" />
+            <div className="hidden sm:block">
+              <LearnMoreButton size="sm" />
+            </div>
             <LiveReviewBrand size="sm" />
           </div>
 

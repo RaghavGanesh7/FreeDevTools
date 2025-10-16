@@ -109,30 +109,32 @@ const currentAd = adVariations[randomIndex];
 
       <!-- Mobile and Tablet button row -->
       <div class="flex flex-row items-center justify-between mb-2 xl:hidden">
-        <!-- Learn More Button (Small) -->
-        <button
-          class="flex justify-between items-center cursor-pointer shadow-[1px_2px_0px_black] border border-black rounded-[6px] relative overflow-hidden z-100 transition-all duration-250 hover:translate-x-[1px] hover:translate-y-[1px] hover:shadow-[0px_1px_0px_black] active:brightness-75 group px-1 py-0.5 bg-yellow-100 hover:bg-yellow-600"
-        >
-          <div class="relative text-black flex justify-start items-center font-semibold text-[10px]">
-            <span class="relative transition-all duration-250 mr-1">Learn</span>
-            <span class="relative transition-all duration-250 mr-1">More</span>
-          </div>
-          <div class="border border-black rounded-full bg-red-200 group-hover:bg-red-600 relative overflow-hidden transition-all duration-250 group-hover:translate-x-[1px] group-active:translate-x-[2px] p-0.5 mr-0.5">
-            <svg
-              width="8"
-              height="8"
-              viewBox="0 0 45 38"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-              class="relative z-10"
-            >
-              <path
-                d="M43.7678 20.7678C44.7441 19.7915 44.7441 18.2085 43.7678 17.2322L27.8579 1.32233C26.8816 0.34602 25.2986 0.34602 24.3223 1.32233C23.346 2.29864 23.346 3.88155 24.3223 4.85786L38.4645 19L24.3223 33.1421C23.346 34.1184 23.346 35.7014 24.3223 36.6777C25.2986 37.654 26.8816 37.654 27.8579 36.6777L43.7678 20.7678ZM0 21.5L42 21.5V16.5L0 16.5L0 21.5Z"
-                fill="black"
-              />
-            </svg>
-          </div>
-        </button>
+        <!-- Learn More Button (Small) - Hidden on phone, visible on tablet -->
+        <div class="hidden sm:block">
+          <button
+            class="flex justify-between items-center cursor-pointer shadow-[1px_2px_0px_black] border border-black rounded-[6px] relative overflow-hidden z-100 transition-all duration-250 hover:translate-x-[1px] hover:translate-y-[1px] hover:shadow-[0px_1px_0px_black] active:brightness-75 group px-1 py-0.5 bg-yellow-100 hover:bg-yellow-600"
+          >
+            <div class="relative text-black flex justify-start items-center font-semibold text-[10px]">
+              <span class="relative transition-all duration-250 mr-1">Learn</span>
+              <span class="relative transition-all duration-250 mr-1">More</span>
+            </div>
+            <div class="border border-black rounded-full bg-red-200 group-hover:bg-red-600 relative overflow-hidden transition-all duration-250 group-hover:translate-x-[1px] group-active:translate-x-[2px] p-0.5 mr-0.5">
+              <svg
+                width="8"
+                height="8"
+                viewBox="0 0 45 38"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                class="relative z-10"
+              >
+                <path
+                  d="M43.7678 20.7678C44.7441 19.7915 44.7441 18.2085 43.7678 17.2322L27.8579 1.32233C26.8816 0.34602 25.2986 0.34602 24.3223 1.32233C23.346 2.29864 23.346 3.88155 24.3223 4.85786L38.4645 19L24.3223 33.1421C23.346 34.1184 23.346 35.7014 24.3223 36.6777C25.2986 37.654 26.8816 37.654 27.8579 36.6777L43.7678 20.7678ZM0 21.5L42 21.5V16.5L0 16.5L0 21.5Z"
+                  fill="black"
+                />
+              </svg>
+            </div>
+          </button>
+        </div>
 
         <!-- LiveReview Brand (Small) -->
         <div class="flex flex-col items-center space-y-1 text-black">
