@@ -460,14 +460,18 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/freedevtools/t/favicon.webp" />
     
-    <!-- Fonts -->
-    <!-- Preload critical fonts for faster loading -->
-    <link rel="preload" href="/freedevtools/fonts/Cal_Sans/CalSans-Regular.ttf" as="font" type="font/ttf" crossorigin>
-    <!-- <link rel="preload" href="/freedevtools/fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin> -->
+    <!-- Resource hints for better performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="dns-prefetch" href="//hexmos.com">
     
-    <!-- Load local fonts CSS -->
-    <link rel="stylesheet" href="/freedevtools/fonts/fonts.css">
-
+    <!-- Fonts - Optimized loading -->
+    <!-- Preload critical fonts for faster loading -->
+    <link rel="preload" href="/freedevtools/fonts/Cal_Sans/CalSans-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+    
+    <!-- Load fonts CSS with media query to prevent render blocking -->
+    <link rel="stylesheet" href="/freedevtools/fonts/fonts.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="/freedevtools/fonts/fonts.css"></noscript>
+    
     
     <!-- Theme initialization script -->
     <script>
@@ -480,7 +484,6 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
         }
       })();
     </script>
-    
     
     <!-- Add global search state -->
     <script>
@@ -567,7 +570,7 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
             </script>
           </ToastProvider>
     <!-- Footer -->
-      <Footer client:load />
+      <Footer client:visible />
     </ThemeProvider>
   </main>
 </div>
