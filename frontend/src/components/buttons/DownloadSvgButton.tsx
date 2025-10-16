@@ -15,7 +15,7 @@ const DownloadSvgButton: React.FC<DownloadSvgButtonProps> = ({ iconData }) => {
 
     if (!svgData) {
       // Extract category and icon name from current URL
-      const pathParts = window.location.pathname.split('/');
+      const pathParts = window.location.pathname.split('/').filter(Boolean);
       const category = pathParts[pathParts.length - 2];
       const iconName = pathParts[pathParts.length - 1];
 

@@ -11,18 +11,23 @@ interface CopySvgButtonProps {
 
 const CopySvgButton: React.FC<CopySvgButtonProps> = ({ iconData }) => {
   const copyAsSVG = useCallback(async () => {
+    console.log('CopySvgButton clicked!', { iconData });
+
     // Load SVG content client-side if not available
     let svgData = iconData?.originalSvgContent || iconData?.svgContent || '';
 
     if (!svgData) {
-      // Extract category and icon name from current URL
-      const pathParts = window.location.pathname.split('/');
-      const category = pathParts[pathParts.length - 2];
-      const iconName = pathParts[pathParts.length - 1];
+      // Use iconData props if available, otherwise extract from URL
+      const pathParts = window.location.pathname.split('/').filter(Boolean);
+      const category = iconData?.category || pathParts[pathParts.length - 2];
+      const iconName = iconData?.iconName || pathParts[pathParts.length - 1];
+
+      console.log('Fetching SVG:', { category, iconName });
 
       try {
         const response = await fetch(`/freedevtools/svg_icons/${category}/${iconName}.svg`);
         svgData = await response.text();
+        console.log('SVG loaded successfully');
       } catch (error) {
         console.error('Failed to load SVG:', error);
         toast.error('Failed to load SVG data');
@@ -37,6 +42,8 @@ const CopySvgButton: React.FC<CopySvgButtonProps> = ({ iconData }) => {
       toast.error('Failed to copy SVG to clipboard');
     }
   }, [iconData]);
+
+  console.log('CopySvgButton rendering with iconData:', iconData);
 
   return (
     <button
