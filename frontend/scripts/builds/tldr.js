@@ -46,7 +46,7 @@ function logWarning(message) {
 }
 
 // Get the project root directory (frontend folder)
-const projectRoot = path.resolve(__dirname, '..');
+const projectRoot = path.resolve(__dirname, '../..');
 const pagesDir = path.join(projectRoot, 'src', 'pages');
 
 function excludeUnchangedSections() {
