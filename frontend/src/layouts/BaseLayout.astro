@@ -408,6 +408,20 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
+    <!-- Theme initialization script -->
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('theme') || 'dark';
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (theme === 'dark' || (!theme && prefersDark)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      })();
+    </script>
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
@@ -453,6 +467,7 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
         <meta name="twitter:image:alt" content={name} />
       </>
     )}
+  
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/freedevtools/t/favicon.webp" />
@@ -469,6 +484,7 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
     <link rel="stylesheet" href="/freedevtools/fonts/fonts.css" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="/freedevtools/fonts/fonts.css"></noscript>
     
+
     
     <!-- Theme initialization script -->
     <script>
@@ -481,6 +497,10 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
         }
       })();
     </script>
+
+
+    <!-- Load local fonts CSS -->
+    <link rel="stylesheet" href="/freedevtools/fonts/fonts.css">
     
     <!-- Optimized GTM loading -->
     <script>
