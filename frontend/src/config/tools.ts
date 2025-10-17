@@ -2108,6 +2108,25 @@ export const TOOLS_CONFIG: Record<string, Tool> = {
       'https://hexmos.com/freedevtools/tool-banners/zstd-decompress-banner.png',
     datePublished: '2025-09-23',
   },
+
+  'gemini-schema-validator': {
+    title: 'Gemini Schema Validator | Online Free DevTools by Hexmos',
+    name: 'Gemini Schema Validator',
+    path: '/freedevtools/t/gemini-schema-validator/',
+    description: 'TODO: Add your tool description here. Make it compelling and SEO-friendly.',
+    category: 'Developer Tools',
+    icon: '🛠️',
+    themeColor: '#3b82f6',
+    canonical: 'https://hexmos.com/freedevtools/t/gemini-schema-validator/',
+    keywords: ['gemini-schema-validator', 'developer tools', 'TODO: add more keywords'],
+    features: ['TODO: Add feature 1', 'TODO: Add feature 2', 'TODO: Add feature 3'],
+    ogImage:
+      "https://hexmos.com/freedevtools/tool-banners/gemini-schema-validator-banner.png",
+    twitterImage:
+      "https://hexmos.com/freedevtools/tool-banners/gemini-schema-validator-banner.png",
+    datePublished: "2025-10-16",
+    softwareVersion: "1.0.0",
+  }
 };
 
 // tldr: {

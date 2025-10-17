@@ -33,5 +33,8 @@ export default defineConfig({
         "@": path.resolve("./src"),
       },
     },
+    build:{
+      sourcemap: false,
+    },
   },
 });

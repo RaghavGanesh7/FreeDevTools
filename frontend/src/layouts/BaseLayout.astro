@@ -411,6 +411,20 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
+    <!-- Theme initialization script -->
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('theme') || 'dark';
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (theme === 'dark' || (!theme && prefersDark)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      })();
+    </script>
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
@@ -456,6 +470,7 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
         <meta name="twitter:image:alt" content={name} />
       </>
     )}
+  
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/freedevtools/t/favicon.webp" />
@@ -472,6 +487,7 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
     <link rel="stylesheet" href="/freedevtools/fonts/fonts.css" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="/freedevtools/fonts/fonts.css"></noscript>
     
+
     
     <!-- Theme initialization script -->
     <script>
@@ -484,7 +500,11 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
         }
       })();
     </script>
-    
+
+    <!-- Load local fonts CSS -->
+    <link rel="stylesheet" href="/freedevtools/fonts/fonts.css">
+
+  
     <!-- Add global search state -->
     <script>
       // Add type definition for window
