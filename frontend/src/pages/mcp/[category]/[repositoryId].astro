@@ -45,7 +45,25 @@ const formattedName = formatRepositoryName(server.name);
 let processedReadmeContent: string = '';
 if (server.readme_content) {
   try {
-    processedReadmeContent = await marked(server.readme_content);
+    // Clean up relative image references that would cause 404 errors
+    let cleanedContent = server.readme_content
+      // Remove relative image references like ![image.png](image.png)
+      .replace(/!\[([^\]]*)\]\(([^)]*\.(png|jpg|jpeg|gif|svg))\)/g, (match, alt, src) => {
+        // Only remove if it's a relative path (doesn't start with http or /)
+        if (!src.startsWith('http') && !src.startsWith('/')) {
+          return `<!-- Image removed: ${alt} (${src}) -->`;
+        }
+        return match;
+      })
+      // Remove standalone image references
+      .replace(/!\[([^\]]*)\]\(([^)]*\.(png|jpg|jpeg|gif|svg))\)/g, (match, alt, src) => {
+        if (!src.startsWith('http') && !src.startsWith('/')) {
+          return `<!-- Image removed: ${alt} (${src}) -->`;
+        }
+        return match;
+      });
+    
+    processedReadmeContent = await marked(cleanedContent);
   } catch (error) {
     console.warn('Error processing README content:', error);
     processedReadmeContent = server.readme_content;
