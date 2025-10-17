@@ -37,9 +37,9 @@ const RepositoryCard = ({ server, formattedName, category, repositoryId }: { ser
         {/* First Row: Title  age*/}
         <div>
           <div className="flex items-center justify-between">
-            <h3 className="text-xl font-semibold text-blue-600 dark:text-blue-400">
+            <h2>
               {formattedName}
-            </h3>
+            </h2>
             <span className="text-gray-400 dark:text-gray-500">→</span>
           </div>
 

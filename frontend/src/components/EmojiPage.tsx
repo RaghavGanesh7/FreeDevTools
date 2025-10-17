@@ -120,7 +120,7 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
   };
 
   return (
-    <div className="max-w-4xl mx-auto">
+    <div className="mt-6">
       {/* Header Section */}
       <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl p-6 mb-6 shadow-sm">
         <div className="flex flex-col md:flex-row items-start md:items-center gap-6">
@@ -128,43 +128,41 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
           <div className="text-8xl md:text-9xl flex-shrink-0">
             {emojiChar}
           </div>
-          
+
           {/* Emoji Info */}
           <div className="flex-1">
             <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-2">
               {emoji.code || (emoji as any).glyph} {emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug || 'Unknown'}
             </h1>
-            
+
             {emoji.alsoKnownAs && emoji.alsoKnownAs.length > 0 && (
               <p className="text-slate-600 dark:text-slate-400 mb-4">
                 Also known as: {emoji.alsoKnownAs.join(', ')}
               </p>
             )}
-            
+
             {/* Copy Buttons */}
             <div className="flex flex-wrap gap-3 mb-4">
               <button
                 onClick={() => copyToClipboard(emojiChar, 'code')}
-                className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-                  copiedCode
+                className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${copiedCode
                     ? 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400'
                     : 'bg-blue-100 text-blue-800 hover:bg-blue-200 dark:bg-blue-900/20 dark:text-blue-400 dark:hover:bg-blue-900/30'
-                }`}
+                  }`}
               >
                 {copiedCode ? '✓ Copied!' : `Copy ${emojiChar}`}
               </button>
-              
+
               {emoji.shortcodes && emoji.shortcodes.length > 0 && (
                 <div className="flex flex-wrap gap-2">
                   {emoji.shortcodes.slice(0, 3).map((shortcode) => (
                     <button
                       key={shortcode.code}
                       onClick={() => copyToClipboard(shortcode.code, 'shortcode', shortcode.code)}
-                      className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
-                        copiedShortcode === shortcode.code
+                      className={`px-3 py-1 rounded text-xs font-medium transition-colors ${copiedShortcode === shortcode.code
                           ? 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400'
                           : 'bg-slate-100 text-slate-700 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700'
-                      }`}
+                        }`}
                     >
                       {copiedShortcode === shortcode.code ? '✓' : shortcode.code}
                     </button>
@@ -172,7 +170,7 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
                 </div>
               )}
             </div>
-            
+
             {/* Unicode Info */}
             {emoji.codepointsHex && emoji.codepointsHex.length > 0 && (
               <div className="text-sm text-slate-500 dark:text-slate-400">
@@ -207,23 +205,23 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
                 try {
                   const response = await fetch(svgUrl);
                   const svgText = await response.text();
-              
+
                   const svgBlob = new Blob([svgText], { type: "image/svg+xml" });
                   const svgUrlBlob = URL.createObjectURL(svgBlob);
-              
+
                   const img = new Image();
                   img.src = svgUrlBlob;
-              
+
                   img.onload = async () => {
                     const canvas = document.createElement("canvas");
                     canvas.width = img.width * 5 || 1024; // fallback size
                     canvas.height = img.height * 5 || 1024;
-              
+
                     const ctx = canvas.getContext("2d");
                     if (!ctx) return;
-              
+
                     ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-              
+
                     canvas.toBlob(async (blob) => {
                       if (!blob) return;
                       await navigator.clipboard.write([new ClipboardItem({ [blob.type]: blob })]);
@@ -235,7 +233,7 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
                   toast.error("Failed to copy image.");
                 }
               };
-              
+
 
               const copyRasterImage = async () => {
                 try {
@@ -259,7 +257,7 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
                 if (variant.url.endsWith(".svg")) {
                   copySvgAsPng(variant.url);
                 } else {
-                  copyRasterImage(); 
+                  copyRasterImage();
                 }
               };
 
@@ -359,11 +357,10 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
                     <td className="py-3">
                       <button
                         onClick={() => copyToClipboard(shortcode.code, 'shortcode', shortcode.code)}
-                        className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
-                          copiedShortcode === shortcode.code
+                        className={`px-3 py-1 rounded text-xs font-medium transition-colors ${copiedShortcode === shortcode.code
                             ? 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400'
                             : 'bg-slate-100 text-slate-700 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700'
-                        }`}
+                          }`}
                       >
                         {copiedShortcode === shortcode.code ? 'Copied!' : 'Copy'}
                       </button>

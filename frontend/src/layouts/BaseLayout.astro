@@ -4,7 +4,6 @@ import Footer from '../components/Footer.tsx';
 // import Sidebar from '../components/Sidebar';
 import { ThemeProvider } from '../components/theme/ThemeContext.tsx';
 import ToastProvider from '../components/ToastProvider.tsx';
-import { GoogleTagManager } from 'astro-gtm';
 import '../styles/global.css';
 import SearchPage from '../components/SearchPage';
 
@@ -404,8 +403,6 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
 // console.log('📄 Page Type:', detectedPageType);
 // console.log('📋 Generated Schema:', JSON.stringify(schema, null, 2));
 
-const GA_MEASUREMENT_ID = 'G-WXSDF484XZ';
-const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
 ---
 
 <!DOCTYPE html>
@@ -501,10 +498,43 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
       })();
     </script>
 
+
     <!-- Load local fonts CSS -->
     <link rel="stylesheet" href="/freedevtools/fonts/fonts.css">
+    
+    <!-- Optimized GTM loading -->
+    <script>
+      (function() {
+        const GA_MEASUREMENT_ID = 'G-WXSDF484XZ';
+        const GTM_ID = "GTM-KH6DG8PP";
 
-  
+        // minimal dataLayer init
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+
+        function loadGTM() {
+          if (window.__gtmLoaded) return;
+          window.__gtmLoaded = true;
+
+          const s = document.createElement("script");
+          s.async = true;
+          s.src = `https://www.googletagmanager.com/gtm.js?id=${GTM_ID}`;
+          document.head.appendChild(s);
+        }
+
+        // trigger load on first interaction or after idle timeout
+        const trigger = () => loadGTM();
+        ["scroll", "pointerdown", "keydown"].forEach(evt =>
+          window.addEventListener(evt, trigger, { once: true, passive: true })
+        );
+
+        if ("requestIdleCallback" in window)
+          requestIdleCallback(loadGTM, { timeout: 5000 });
+        else
+          setTimeout(loadGTM, 5000);
+      })();
+    </script>
+    
     <!-- Add global search state -->
     <script>
       // Add type definition for window
@@ -537,7 +567,6 @@ const GTM_CONTAINER_ID = 'GTM-KH6DG8PP';
     </script>
   </head>
   <body class="m-0 p-0 font-sans bg-slate-50 text-slate-800 leading-relaxed dark:bg-slate-900 dark:text-slate-200 min-h-screen flex flex-col">
-    <GoogleTagManager gtmId={GTM_CONTAINER_ID} enableInDevMode={true} />
     <div class="flex flex-1">
       {showHeader && (
         <ThemeProvider client:load>
