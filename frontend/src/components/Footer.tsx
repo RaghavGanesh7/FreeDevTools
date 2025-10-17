@@ -15,6 +15,7 @@ const LeftColumn: React.FC = () => {
             src="/freedevtools/svg_icons/productivity/livereview.svg"
             alt="Hexmos LiveReview AI-Powered Code Review"
             className="w-5 h-5"
+            loading="lazy"
           />
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">LiveReview</p>
         </a>
@@ -28,6 +29,7 @@ const LeftColumn: React.FC = () => {
             src="/freedevtools/svg_icons/productivity/hexmos.svg"
             alt="Hexmos Blog - Since 2022"
             className="w-5 h-5"
+            loading="lazy"
           />
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">Blog - Since 2022</p>
         </a>
@@ -39,6 +41,7 @@ const LeftColumn: React.FC = () => {
             src="/freedevtools/svg_icons/terms/policy-term-and-condition-term.svg"
             alt="FreeDevTools Terms of Use"
             className="w-5 h-5"
+            loading="lazy"
           />
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">Terms of Use</p>
         </a>
@@ -52,6 +55,7 @@ const LeftColumn: React.FC = () => {
             src="/freedevtools/svg_icons/betwixt/discord.svg"
             alt="Discord Community"
             className="w-5 h-5"
+            loading="lazy"
           />
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">Community</p>
         </a>
@@ -133,6 +137,7 @@ const RightColumn: React.FC = () => {
           src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1109256&theme=light"
           alt="Free&#0032;DevTools - 50&#0044;000&#0043;&#0032;Free&#0032;Dev&#0032;Resources&#0032;&#0045;&#0032;No&#0032;Login&#0032;Required | Product Hunt"
           style={{ width: 180, height: 54 }}
+          loading="lazy"
         />
       </a>
     </div>
