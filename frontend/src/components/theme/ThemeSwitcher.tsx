@@ -150,8 +150,12 @@ const ThemeSwitcher: React.FC = () => {
   if (!mounted) {
     return (
       <div className="grid grid-cols-1">
-        <div className="relative z-0 inline-grid grid-cols-2 md:grid-cols-3 gap-0.5 rounded-full bg-gray-950/5 p-0.75 text-gray-950 dark:bg-white/10 dark:text-white">
-          <div className="relative rounded-full p-1.5 *:size-7 bg-white ring ring-gray-950/10 sm:p-0">
+        <div className="relative z-0 inline-grid gap-0.5 rounded-full bg-gray-950/5 p-0.5 sm:p-0.75 text-gray-950 dark:bg-white/10 dark:text-white"
+          style={{ gridTemplateColumns: `repeat(2, minmax(0, 1fr))` }}>
+          <div className="relative rounded-full p-0.5 *:size-4 sm:p-1 sm:*:size-5 lg:p-1 lg:*:size-6">
+            {themeConfigs[0].icon}
+          </div>
+          <div className="relative rounded-full p-0.5 *:size-4 sm:p-1 sm:*:size-5 lg:p-1 lg:*:size-6">
             {themeConfigs[1].icon}
           </div>
         </div>
@@ -178,11 +182,10 @@ const ThemeSwitcher: React.FC = () => {
             className={`relative rounded-full cursor-pointer transition-all duration-200 ${
               // Smaller size on mobile, reasonable size on desktop
               "p-0.5 *:size-4 sm:p-1 sm:*:size-5 lg:p-1 lg:*:size-6"
-            } ${
-              theme === config.type
+              } ${theme === config.type
                 ? "bg-white ring ring-gray-950/10 dark:bg-gray-600 dark:ring-white/10"
                 : "hover:bg-gray-100 dark:hover:bg-gray-700"
-            }`}
+              }`}
             onClick={() => handleThemeChange(config.type)}
             title={config.label}
           >
