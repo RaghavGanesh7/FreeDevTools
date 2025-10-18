@@ -34,7 +34,7 @@ const LeftColumn: React.FC = () => {
           <p className="hover:text-blue-600 dark:hover:text-blue-400 hover:font-bold transition-all duration-200">Blog - Since 2022</p>
         </a>
         <a
-          href="/freedevtools/termsofuse"
+          href="/freedevtools/termsofuse/"
           className="inline-flex items-center gap-2 "
         >
           <img
