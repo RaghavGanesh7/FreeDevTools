@@ -1,10 +1,10 @@
 ---
 import { getCollection, render, type CollectionEntry } from 'astro:content';
+import AdBanner from '../../../components/banner/AdBanner.astro';
 import CreditsButton from '../../../components/buttons/CreditsButton';
 import ToolContainer from '../../../components/tool/ToolContainer';
 import ToolHead from '../../../components/tool/ToolHead';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import AdBanner from '../../../components/banner/AdBanner.astro';
 
 export async function getStaticPaths() {
   const tldrEntries = await getCollection('tldr');
@@ -64,6 +64,11 @@ const breadcrumbItems = [
   showSidebar={false}
   showHeader={true}
 >
+<style>
+  :global(.prose   h1) {
+    display: none !important;
+  }
+</style>
 <ToolContainer>
   <div class="mb-16 mt-[74px]">
     <AdBanner />
