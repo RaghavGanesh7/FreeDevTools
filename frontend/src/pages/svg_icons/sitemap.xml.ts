@@ -66,11 +66,14 @@ export const GET: APIRoute = async ({ site, params }) => {
     });
   }
 
-  // Otherwise, serve sitemap index
   const indexXml = `<?xml version="1.0" encoding="UTF-8"?>
       <?xml-stylesheet type="text/xsl" href="/freedevtools/sitemap.xsl"?>
 
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>${site}/svg_icons_pages/sitemap.xml</loc>
+    <lastmod>${now}</lastmod>
+  </sitemap>
   ${sitemapChunks
     .map(
       (_, i) => `
