@@ -1,6 +1,10 @@
 import type { APIRoute } from 'astro';
 import type { CollectionEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
+import {
+  generateTldrPlatformStaticPaths,
+  generateTldrStaticPaths,
+} from '../../lib/tldr-utils';
 
 async function getCommandsByPlatform() {
   const entries: CollectionEntry<'tldr'>[] = await getCollection('tldr');
@@ -21,6 +25,8 @@ async function getCommandsByPlatform() {
 export const GET: APIRoute = async ({ site }) => {
   const now = new Date().toISOString();
   const byPlatform = await getCommandsByPlatform();
+  const paginationPaths = await generateTldrStaticPaths();
+  const platformPaginationPaths = await generateTldrPlatformStaticPaths();
 
   if (!site) {
     throw new Error('Site is not defined');
@@ -37,6 +43,22 @@ export const GET: APIRoute = async ({ site }) => {
       `  <url>\n    <loc>${site}/tldr/${platform}/</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>`
     );
   }
+
+  // Main TLDR pagination pages (tldr/2/, tldr/3/, etc.)
+  for (const path of paginationPaths) {
+    const page = path.params.page;
+    urls.push(
+      `  <url>\n    <loc>${site}/tldr/${page}/</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>`
+    );
+  }
+
+  // Platform pagination pages (tldr/linux/2/, tldr/windows/2/, etc.)
+  for (const path of platformPaginationPaths) {
+    const { platform, page } = path.params;
+    urls.push(
+      `  <url>\n    <loc>${site}/tldr/${platform}/${page}/</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>`
+    );
+  }
   // Individual command pages
   for (const [platform, commands] of Object.entries(byPlatform)) {
     for (const cmd of commands) {
@@ -48,7 +70,7 @@ export const GET: APIRoute = async ({ site }) => {
       // Don't add extra slash - cleanUrl already has the correct path
       const finalUrl = cleanUrl.startsWith('/') ? cleanUrl : `/${cleanUrl}`;
       urls.push(
-        `  <url>\n    <loc>${baseUrl}${finalUrl}</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.7</priority>\n  </url>`
+        `  <url>\n    <loc>${baseUrl}${finalUrl}</loc>\n    <lastmod>${now}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>`
       );
     }
   }
