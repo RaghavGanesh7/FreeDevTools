@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 
 // Get category from params
 const { category: categorySlug } = Astro.params;
-const categoryName = (Astro.props?.category as string) || categorySlug!.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase());
+const categoryName = (Astro.props?.category as string) || categorySlug!.replace(/-/g, ' ').replace(/_/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase());
 
 // Get cheatsheets for this category
 const cheatsheets = await getCheatsheetsByCategory(categoryName);

@@ -34,11 +34,17 @@ export async function getAllCheatsheetCategories(): Promise<
 
     if (!categoriesMap.has(category)) {
       categoriesMap.set(category, {
-        id: category.toLowerCase().replace(/[^a-z0-9]+/g, '_'),
+        id: category
+          .toLowerCase()
+          .replace(/[^a-z0-9_]+/g, '-')
+          .replace(/_/g, '_'),
         name: category,
         description: `Comprehensive cheatsheets for ${category}`,
         cheatsheetCount: 0,
-        url: `/freedevtools/c/${category.toLowerCase().replace(/[^a-z0-9]+/g, '_')}/`,
+        url: `/freedevtools/c/${category
+          .toLowerCase()
+          .replace(/[^a-z0-9_]+/g, '-')
+          .replace(/_/g, '_')}/`,
         keywords: [
           category.toLowerCase(),
           'cheatsheets',
@@ -59,7 +65,10 @@ export async function getAllCheatsheetCategories(): Promise<
     categoryData.cheatsheetCount++;
     categoryData.cheatsheets.push({
       name: name,
-      url: `/freedevtools/c/${category.toLowerCase().replace(/[^a-z0-9]+/g, '_')}/${name}/`,
+      url: `/freedevtools/c/${category
+        .toLowerCase()
+        .replace(/[^a-z0-9_]+/g, '-')
+        .replace(/_/g, '_')}/${name}/`,
       description: `Cheatsheet for ${name}`,
     });
   }
@@ -133,7 +142,10 @@ export async function getCheatsheetsByCategory(
     if (category === categoryName) {
       cheatsheets.push({
         name: name,
-        url: `/freedevtools/c/${categoryName.toLowerCase().replace(/[^a-z0-9]+/g, '_')}/${name}/`,
+        url: `/freedevtools/c/${categoryName
+          .toLowerCase()
+          .replace(/[^a-z0-9_]+/g, '-')
+          .replace(/_/g, '_')}/${name}/`,
         description: `Cheatsheet for ${name}`,
       });
     }
