@@ -1,6 +1,6 @@
+import { toast } from "@/components/ToastProvider";
 import { useState } from 'react';
 import type { EmojiData, EmojiImageVariants } from '../lib/emojis';
-import { toast } from "@/components/ToastProvider";
 
 interface EmojiPageProps {
   emoji: EmojiData;
@@ -131,9 +131,9 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
 
           {/* Emoji Info */}
           <div className="flex-1">
-            <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-2">
+            <p className="mb-2">
               {emoji.code || (emoji as any).glyph} {emoji.title || emoji.fluentui_metadata?.cldr || emoji.slug || 'Unknown'}
-            </h1>
+            </p>
 
             {emoji.alsoKnownAs && emoji.alsoKnownAs.length > 0 && (
               <p className="text-slate-600 dark:text-slate-400 mb-4">
@@ -146,8 +146,8 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
               <button
                 onClick={() => copyToClipboard(emojiChar, 'code')}
                 className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${copiedCode
-                    ? 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400'
-                    : 'bg-blue-100 text-blue-800 hover:bg-blue-200 dark:bg-blue-900/20 dark:text-blue-400 dark:hover:bg-blue-900/30'
+                  ? 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400'
+                  : 'bg-blue-100 text-blue-800 hover:bg-blue-200 dark:bg-blue-900/20 dark:text-blue-400 dark:hover:bg-blue-900/30'
                   }`}
               >
                 {copiedCode ? '✓ Copied!' : `Copy ${emojiChar}`}
@@ -155,18 +155,24 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
 
               {emoji.shortcodes && emoji.shortcodes.length > 0 && (
                 <div className="flex flex-wrap gap-2">
-                  {emoji.shortcodes.slice(0, 3).map((shortcode) => (
-                    <button
-                      key={shortcode.code}
-                      onClick={() => copyToClipboard(shortcode.code, 'shortcode', shortcode.code)}
-                      className={`px-3 py-1 rounded text-xs font-medium transition-colors ${copiedShortcode === shortcode.code
+                  {emoji.shortcodes
+                    .filter((shortcode, index, array) =>
+                      array.findIndex(s => s.code === shortcode.code) === index
+                    )
+                    .slice(0, 3)
+                    .map((shortcode) => (
+                      <button
+                        key={shortcode.code}
+                        onClick={() => copyToClipboard(shortcode.code, 'shortcode', shortcode.code)}
+                        className={`px-3 py-1 rounded text-xs font-medium transition-colors ${copiedShortcode === shortcode.code
                           ? 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400'
                           : 'bg-slate-100 text-slate-700 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700'
-                        }`}
-                    >
-                      {copiedShortcode === shortcode.code ? '✓' : shortcode.code}
-                    </button>
-                  ))}
+                          }`}
+                        title={`${shortcode.code} (${shortcode.vendor.title})`}
+                      >
+                        {copiedShortcode === shortcode.code ? '✓' : `${shortcode.code} (${shortcode.vendor.title})`}
+                      </button>
+                    ))}
                 </div>
               )}
             </div>
@@ -180,18 +186,6 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
           </div>
         </div>
       </div>
-
-      {/* Description (with fallback to definition) */}
-      {(emoji.description || findNestedDefinition(emoji)) && (
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl p-6 mb-6 shadow-sm">
-          <h2 className="text-xl font-semibold text-slate-900 dark:text-slate-100 mb-3">
-            Description
-          </h2>
-          <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
-            {cleanDescription(emoji.description || findNestedDefinition(emoji) || undefined)}
-          </p>
-        </div>
-      )}
       {/* Image Variants */}
       {getImageVariants().length > 0 && (
         <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl p-6 mb-6 shadow-sm">
@@ -346,27 +340,31 @@ export default function EmojiPage({ emoji, images }: EmojiPageProps) {
                 </tr>
               </thead>
               <tbody>
-                {emoji.shortcodes.map((shortcode, index) => (
-                  <tr key={index} className="border-b border-slate-100 dark:border-slate-800">
-                    <td className="py-3 text-slate-900 dark:text-slate-100">
-                      {shortcode.vendor.title}
-                    </td>
-                    <td className="py-3 font-mono text-slate-700 dark:text-slate-300">
-                      {shortcode.code}
-                    </td>
-                    <td className="py-3">
-                      <button
-                        onClick={() => copyToClipboard(shortcode.code, 'shortcode', shortcode.code)}
-                        className={`px-3 py-1 rounded text-xs font-medium transition-colors ${copiedShortcode === shortcode.code
+                {emoji.shortcodes
+                  .filter((shortcode, index, array) =>
+                    array.findIndex(s => s.code === shortcode.code) === index
+                  )
+                  .map((shortcode, index) => (
+                    <tr key={index} className="border-b border-slate-100 dark:border-slate-800">
+                      <td className="py-3 text-slate-900 dark:text-slate-100">
+                        {shortcode.vendor.title}
+                      </td>
+                      <td className="py-3 font-mono text-slate-700 dark:text-slate-300">
+                        {shortcode.code}
+                      </td>
+                      <td className="py-3">
+                        <button
+                          onClick={() => copyToClipboard(shortcode.code, 'shortcode', shortcode.code)}
+                          className={`px-3 py-1 rounded text-xs font-medium transition-colors ${copiedShortcode === shortcode.code
                             ? 'bg-green-100 text-green-800 dark:bg-green-900/20 dark:text-green-400'
                             : 'bg-slate-100 text-slate-700 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700'
-                          }`}
-                      >
-                        {copiedShortcode === shortcode.code ? 'Copied!' : 'Copy'}
-                      </button>
-                    </td>
-                  </tr>
-                ))}
+                            }`}
+                        >
+                          {copiedShortcode === shortcode.code ? 'Copied!' : 'Copy'}
+                        </button>
+                      </td>
+                    </tr>
+                  ))}
               </tbody>
             </table>
           </div>
