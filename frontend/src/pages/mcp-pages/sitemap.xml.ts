@@ -15,32 +15,42 @@ export const GET: APIRoute = async ({ site }) => {
   // Get all categories from the metadata
   const categories = Object.keys(metadata.categories);
 
-  // Calculate total pages for MCP directory pagination as
-
+  // Calculate total pages for MCP directory pagination
   const totalCategories = categories.length;
   const itemsPerPage = 30;
   const totalPages = Math.ceil(totalCategories / itemsPerPage);
 
-  // Create sitemap index - MCP pages sitemap + category sitemaps
-  const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/freedevtools/sitemap.xsl"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
-    <loc>${site}/mcp-pages/sitemap.xml</loc>
-    <lastmod>${now}</lastmod>
-  </sitemap>
-  ${categories
-    .map(
-      (category) => `
-  <sitemap>
-    <loc>${site}/mcp/${category}/sitemap.xml</loc>
-    <lastmod>${now}</lastmod>
-  </sitemap>`
-    )
-    .join('')}
-</sitemapindex>`;
+  const urls: string[] = [];
 
-  return new Response(sitemapIndex, {
+  // Root MCP page
+  urls.push(
+    `  <url>
+      <loc>${site}/mcp/</loc>
+      <lastmod>${now}</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.9</priority>
+    </url>`
+  );
+
+  // Pagination pages
+  for (let i = 1; i <= totalPages; i++) {
+    urls.push(
+      `  <url>
+        <loc>${site}/mcp/${i}/</loc>
+        <lastmod>${now}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+      </url>`
+    );
+  }
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/freedevtools/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.join('\n')}
+</urlset>`;
+
+  return new Response(xml, {
     headers: {
       'Content-Type': 'application/xml',
       'Cache-Control': 'public, max-age=3600',
