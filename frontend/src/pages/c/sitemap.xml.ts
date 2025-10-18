@@ -91,6 +91,7 @@ export const GET: APIRoute = async ({ site }) => {
 ${urls.join('\n')}
 </urlset>`;
 
+  // Return
   return new Response(xml, {
     headers: {
       'Content-Type': 'application/xml',
