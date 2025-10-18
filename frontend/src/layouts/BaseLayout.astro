@@ -480,9 +480,8 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
     <!-- Preload critical fonts for faster loading -->
     <link rel="preload" href="/freedevtools/fonts/Cal_Sans/CalSans-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
     
-    <!-- Load fonts CSS with media query to prevent render blocking -->
-    <link rel="stylesheet" href="/freedevtools/fonts/fonts.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="/freedevtools/fonts/fonts.css"></noscript>
+    <!-- Load fonts CSS with proper optimization -->
+    <link rel="stylesheet" href="/freedevtools/fonts/fonts.css" media="all">
     
 
     
