@@ -3,25 +3,10 @@ import { getCollection } from 'astro:content';
 
 // Generate static paths for all MCP categories
 export async function getStaticPaths() {
-  const fs = await import('fs/promises');
-  const path = await import('path');
+  const categoryEntries = await getCollection('mcpCategoryData' as any);
 
-  const inputDir = path.join('./public/mcp/input');
-  const files = await fs.readdir(inputDir);
-  const jsonFiles = files.filter((file) => file.endsWith('.json'));
-
-  const categories = [];
-
-  for (const file of jsonFiles) {
-    const filePath = path.join(inputDir, file);
-    const fileContent = await fs.readFile(filePath, 'utf-8');
-    const categoryData = JSON.parse(fileContent);
-
-    categories.push(categoryData.category);
-  }
-
-  return categories.map((category) => ({
-    params: { category },
+  return categoryEntries.map((entry: any) => ({
+    params: { category: entry.data.category },
   }));
 }
 
@@ -59,6 +44,11 @@ export const GET: APIRoute = async ({ site, params }) => {
       </url>`;
   });
 
+  // Calculate pagination for this category
+  const totalRepositories = Object.keys(repositories).length;
+  const itemsPerPage = 30;
+  const totalPages = Math.ceil(totalRepositories / itemsPerPage);
+
   // Add the category page itself (redirects to page 1)
   urls.unshift(`
     <url>
@@ -67,6 +57,17 @@ export const GET: APIRoute = async ({ site, params }) => {
       <changefreq>daily</changefreq>
       <priority>0.9</priority>
     </url>`);
+
+  // Add pagination pages (2, 3, 4, etc. - skip page 1 as it's the same as category/1/)
+  for (let i = 2; i <= totalPages; i++) {
+    urls.push(`
+      <url>
+        <loc>${site}/mcp/${category}/${i}/</loc>
+        <lastmod>${now}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+      </url>`);
+  }
 
   // Split URLs into chunks if needed
   const sitemapChunks: string[][] = [];
