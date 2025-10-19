@@ -127,6 +127,7 @@ const Mcp: React.FC<McpProps> = ({
     );
   }
 
+
   return (
     <>
       <style>
@@ -137,9 +138,9 @@ const Mcp: React.FC<McpProps> = ({
         `}
       </style>
       <ToolContainer>
-      <div className="mb-16 mt-[74px]">
-        <AdBanner />
-      </div>
+        <div className="mb-16 mt-[74px]">
+          <AdBanner />
+        </div>
         <ToolHead
           name="MCP Directory"
           description={`Browse ${formatNumber(serversCount)}+ MCP repositories instantly with our comprehensive directory. Find Model Context Protocol servers, tools, and clients by category. Free, no registration required.`}
