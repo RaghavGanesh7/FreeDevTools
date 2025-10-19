@@ -151,3 +151,5 @@ We welcome contributions! Here's how you can help:
 3. [LinceMathew](https://github.com/LinceMathew)
 4. [shrsv](https://github.com/shrsv)
 5. [Amazing-Stardom](https://github.com/Amazing-Stardom)
+6. [MuchiraIrungu](https://github.com/MuchiraIrungu)
+7. [soham-founder](https://github.com/soham-founder)
