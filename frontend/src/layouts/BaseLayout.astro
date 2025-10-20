@@ -15,6 +15,7 @@ export interface Props {
   description?: string;
   canonical?: string;
   keywords?: string[];
+  alternateName?: string[];
   ogImage?: string;
   twitterImage?: string;
   
@@ -77,6 +78,7 @@ const {
   description, 
   canonical, 
   keywords = [],
+  alternateName = [],
   ogImage = "https://hexmos.com/freedevtools/site-banner.png",
   twitterImage = "https://hexmos.com/freedevtools/site-banner.png",
   
@@ -244,6 +246,7 @@ function generatePageSpecificSchema(pageType: string, props: any) {
         ...baseSchema,
         "@type": "ImageObject",
         "name": props.iconName || props.name,
+        "alternateName": props.alternateName || [],
         "description": props.description,
         "contentUrl": props.thumbnailUrl || props.ogImage,
         "thumbnailUrl": props.thumbnailUrl || props.ogImage,
@@ -288,6 +291,7 @@ function generatePageSpecificSchema(pageType: string, props: any) {
           ...baseSchema,
           "@type": "SoftwareApplication",
           "name": props.name,
+          "alternateName": props.alternateName || [],
           "description": props.description,
           "applicationCategory": "DeveloperTool",
           "operatingSystem": "Any",
@@ -318,6 +322,7 @@ function generatePageSpecificSchema(pageType: string, props: any) {
           ...baseSchema,
           "@type": "SoftwareApplication",
           "name": props.name,
+          "alternateName": props.alternateName || [],
           "description": props.description,
           "applicationCategory": "DeveloperTool",
           "operatingSystem": "Any",
@@ -340,6 +345,7 @@ function generatePageSpecificSchema(pageType: string, props: any) {
         ...baseSchema,
         "@type": "TechArticle",
         "headline": props.name,
+        "alternateName": props.alternateName || [],
         "description": props.description,
         "articleBody": props.description,
         "keywords": props.keywords?.join(", ") || "",
@@ -359,6 +365,7 @@ function generatePageSpecificSchema(pageType: string, props: any) {
         ...baseSchema,
         "@type": "CollectionPage",
         "name": props.name,
+        "alternateName": props.alternateName || [],
         "description": props.description,
         "keywords": props.keywords?.join(", ") || "",
         "mainEntity": {
@@ -382,6 +389,7 @@ function generatePageSpecificSchema(pageType: string, props: any) {
         ...baseSchema,
         "@type": "WebPage",
         "name": props.name,
+        "alternateName": props.alternateName || [],
         "description": props.description,
         "keywords": props.keywords?.join(", ") || ""
       };
@@ -391,6 +399,15 @@ function generatePageSpecificSchema(pageType: string, props: any) {
 // Generate the final schema
 const detectedPageType = determinePageType(Astro.props.path, Astro.props);
 const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
+
+// Create website schema with alternateName
+const websiteSchema = {
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Burnt Toast",
+  "alternateName": alternateName.length > 0 ? alternateName : ["BT", "B-T", "Burnt Toast Shop", "example.com"],
+  "url": "https://example.com/"
+};
 
 // Debug: Print the final schema
 // console.log('🔍 JSON-LD Schema for:', Astro.props.path);
@@ -443,6 +460,9 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
     {schema && (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     )}
+    
+    <!-- Website Schema with alternateName -->
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     
     <!-- Additional SEO Meta Tags -->
     <meta name="robots" content="index, follow" />
