@@ -30,12 +30,12 @@ jobs:
           echo "Creating CloudFront invalidation..."
           RESPONSE=$(awscurl --service cloudfront \
             --region us-east-1 \
-            --access_key ${{ secrets.AWS_ACCESS_KEY_ID }} \
-            --secret_key ${{ secrets.AWS_SECRET_ACCESS_KEY }} \
+            --access_key ${{ secrets.AWS_ACCESS_KEY_ID_CLOUDFRONT_INVALIDATE }} \
+            --secret_key ${{ secrets.AWS_SECRET_ACCESS_KEY_CLOUDFRONT_INVALIDATE }} \
             --header "Content-Type: text/xml" \
             --data "$XML_PAYLOAD" \
             --request POST \
-            https://cloudfront.amazonaws.com/2020-05-31/distribution/${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}/invalidation)
+            https://cloudfront.amazonaws.com/2020-05-31/distribution/${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }}/invalidation)
 
           echo "Response:"
           echo "$RESPONSE"
