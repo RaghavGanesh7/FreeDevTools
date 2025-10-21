@@ -11,6 +11,39 @@ import { Card } from '../../components/ui/card';
 // Helper function to convert category icons to emojis
 const getCategoryEmoji = (icon: string): string => {
   const iconMap: Record<string, string> = {
+    // Direct category ID mappings
+    aggregators: '🔧',
+    'apis-and-http-requests': '🌐',
+    'art--culture': '🎨',
+    'blockchain-and-crypto': '₿',
+    'browser-automation': '🌐',
+    'business-tools': '💼',
+    'cloud-platforms': '☁️',
+    'cloud-services': '☁️',
+    'coding-agents': '💻',
+    'command-line': '💻',
+    communication: '💬',
+    'community-servers': '👥',
+    'content-creation': '🎨',
+    'crm-and-sales-tools': '💼',
+    'customer-data-platforms': '📊',
+    'data-analytics': '📊',
+    'data-labeling-and-annotation': '🏷️',
+    'data-platforms': '🗄️',
+    'data-science-tools': '📊',
+    databases: '🗄️',
+    'developer-tools': '🔧',
+    'devops-and-ci-cd': '⚙️',
+    'digital-marketing': '📈',
+    'document-processing': '📄',
+    'e-commerce-and-retail': '🛒',
+    'education-and-learning': '📚',
+    'email-and-messaging': '📧',
+    'embedded-system': '🔌',
+    'file-conversion': '🔄',
+    'file-management': '📁',
+
+    // Legacy icon mappings for backward compatibility
     pickaxe: '⛏️',
     code: '💻',
     brain: '🧠',
@@ -31,8 +64,8 @@ const getCategoryEmoji = (icon: string): string => {
   const normalizedIcon = icon.toLowerCase().trim();
 
   // Try exact match first
-  if (iconMap[icon]) {
-    return iconMap[icon];
+  if (iconMap[normalizedIcon]) {
+    return iconMap[normalizedIcon];
   }
 
   // Try substring matching - if any key from iconMap is found in the input
