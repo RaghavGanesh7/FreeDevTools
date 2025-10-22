@@ -2,11 +2,12 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/HexmosTech/FreeDevTools?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/HexmosTech/FreeDevTools)  
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/florindonhazua/application-tracker)](https://github.com/florindonhazua/application-tracker/commits/main)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/florindonhazua/application-tracker)](https://github.com/florindonhazua/application-tracker/commits/main)  
-[![GitHub repo size](https://img.shields.io/github/repo-size/florindonhazua/application-tracker)](https://github.com/florindonhazua/application-tracker)  
-[![Deployment](https://img.shields.io/badge/deployment-Live-green)](https://github.com/florindonhazua/application-tracker)  
-![GitHub issues](https://img.shields.io/github/issues/florindonhazua/application-tracker)  
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/HexmosTech/FreeDevTools)](https://github.com/HexmosTech/FreeDevTools/commits/main)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/HexmosTech/FreeDevTools)](https://github.com/HexmosTech/FreeDevTools/commits/main)  
+[![GitHub repo size](https://img.shields.io/github/repo-size/HexmosTech/FreeDevTools)](https://github.com/HexmosTech/FreeDevTools)  
+[![Deployment](https://img.shields.io/badge/deployment-Live-green)](https://hexmos.com/freedevtools/)  
+![GitHub issues](https://img.shields.io/github/issues/HexmosTech/FreeDevTools)
+ 
 
 
 A curated collection of 1,25,000+ free resources, icons, cheat sheets, and TLDRs. No login, unlimited downloads.
