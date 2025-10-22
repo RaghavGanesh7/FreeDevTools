@@ -1,6 +1,24 @@
 [![FreeDevTools](frontend/public/site-banner.png)](https://hexmos.com/freedevtools/)
 
+![GitHub stars](https://img.shields.io/github/stars/HexmosTech/FreeDevTools?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HexmosTech/FreeDevTools)
+![GitHub issues](https://img.shields.io/github/issues/HexmosTech/FreeDevTools)
+![GitHub license](https://img.shields.io/github/license/HexmosTech/FreeDevTools)
+![GitHub commits](https://img.shields.io/github/commits-since/HexmosTech/FreeDevTools/latest)
+
+
 A curated collection of 1,25,000+ free resources, icons, cheat sheets, and TLDRs. No login, unlimited downloads.
+
+---
+
+## 📘 Table of Contents
+- [Quick Start](#quick-start)
+- [Available Tools](#available-tools)
+- [Related Projects](#related-projects)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+---
 
 ## Available Tools
 
