@@ -10,6 +10,23 @@ import { generateMcpStaticPaths } from '../../../lib/mcp-utils';
 import { formatRepositoryName } from '../../../lib/utils';
 
 function processMcpReadmeLinks(html: string): string {
+  // First, add IDs to all headings (h1-h6) so anchor links work
+  html = html.replace(
+    /<(h[1-6])([^>]*)>([^<]+)<\/h[1-6]>/gi,
+    (match, tag, attributes, content) => {
+      // Generate anchor ID from heading content
+      const anchorId = content
+        .toLowerCase()
+        .replace(/[^a-z0-9\s-]/g, '') // Remove special chars
+        .replace(/\s+/g, '-') // Replace spaces with hyphens
+        .replace(/-+/g, '-') // Replace multiple hyphens with single
+        .replace(/^-|-$/g, ''); // Remove leading/trailing hyphens
+
+      return `<${tag}${attributes} id="${anchorId}">${content}</${tag}>`;
+    }
+  );
+
+  // Then process the links
   return html.replace(
     /<a\s+([^>]*?)href="([^"]*?)"([^>]*?)>/g,
     (
