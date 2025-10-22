@@ -7,7 +7,11 @@ import ToolContainer from '../../../components/tool/ToolContainer';
 import ToolHead from '../../../components/tool/ToolHead';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { generateMcpStaticPaths } from '../../../lib/mcp-utils';
-import { formatRepositoryName } from '../../../lib/utils';
+import {
+  addTargetBlankToLinks,
+  fixRelativeLinks,
+  formatRepositoryName,
+} from '../../../lib/utils';
 
 // Generate static paths for all MCP repositories using optimized utility
 export async function getStaticPaths() {
@@ -47,31 +51,14 @@ const formattedName = formatRepositoryName(server.name);
 let processedReadmeContent: string = '';
 if (server.readme_content) {
   try {
-    // Clean up relative image references that would cause 404 errors
-    let cleanedContent = server.readme_content
-      // Remove relative image references like ![image.png](image.png)
-      .replace(
-        /!\[([^\]]*)\]\(([^)]*\.(png|jpg|jpeg|gif|svg))\)/g,
-        (match, alt, src) => {
-          // Only remove if it's a relative path (doesn't start with http or /)
-          if (!src.startsWith('http') && !src.startsWith('/')) {
-            return `<!-- Image removed: ${alt} (${src}) -->`;
-          }
-          return match;
-        }
-      )
-      // Remove standalone image references
-      .replace(
-        /!\[([^\]]*)\]\(([^)]*\.(png|jpg|jpeg|gif|svg))\)/g,
-        (match, alt, src) => {
-          if (!src.startsWith('http') && !src.startsWith('/')) {
-            return `<!-- Image removed: ${alt} (${src}) -->`;
-          }
-          return match;
-        }
-      );
+    // Fix relative links to point to the GitHub repository
+    let cleanedContent = fixRelativeLinks(server.readme_content, server.url);
 
-    processedReadmeContent = await marked(cleanedContent);
+    // Convert markdown to HTML
+    let htmlContent = await marked(cleanedContent);
+
+    // Add target="_blank" to external links
+    processedReadmeContent = addTargetBlankToLinks(htmlContent);
   } catch (error) {
     console.warn('Error processing README content:', error);
     processedReadmeContent = server.readme_content;
