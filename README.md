@@ -14,8 +14,8 @@ A curated collection of 1,25,000+ free resources, icons, cheat sheets, and TLDRs
 ---
 
 ## 📘 Table of Contents
-- [Quick Start](#quick-start)
 - [Available Tools](#available-tools)
+- [Quick Start](#quick-start)
 - [Related Projects](#related-projects)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
