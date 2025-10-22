@@ -22,7 +22,22 @@ function processMcpReadmeLinks(html: string): string {
         .replace(/-+/g, '-') // Replace multiple hyphens with single
         .replace(/^-|-$/g, ''); // Remove leading/trailing hyphens
 
-      return `<${tag}${attributes} id="${anchorId}">${content}</${tag}>`;
+      // Add scroll margin to offset the header - use both class and inline style
+      const existingClass = attributes.includes('class=') ? attributes : '';
+      const scrollMarginClass = existingClass
+        ? existingClass.replace(/class="([^"]*)"/, 'class="$1 scroll-mt-32"')
+        : 'class="scroll-mt-32"';
+
+      // Add inline style as backup to ensure scroll margin works
+      const existingStyle = attributes.includes('style=') ? attributes : '';
+      const scrollMarginStyle = existingStyle
+        ? existingStyle.replace(
+            /style="([^"]*)"/,
+            'style="$1; scroll-margin-top: 8rem;"'
+          )
+        : 'style="scroll-margin-top: 8rem;"';
+
+      return `<${tag} ${scrollMarginClass} ${scrollMarginStyle} id="${anchorId}">${content}</${tag}>`;
     }
   );
 
@@ -420,3 +435,4 @@ const breadcrumbItems = [
     </div>
   </ToolContainer>
 </BaseLayout>
+
