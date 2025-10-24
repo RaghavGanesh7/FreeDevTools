@@ -15,7 +15,7 @@
   },
   {
     "id": "cheatsheets-alertmanager-opsgenie_alertmanager",
-    "name": "Alertmanager Configuration - Route Prometheus Alerts to Opsgenie & Slack",
+    "name": "Alertmanager Configuration - Route Prometheus Alerts to Opsgenie \u0026 Slack",
     "description": "Configure Prometheus alert routing with Alertmanager. Route alerts based on severity and environment to Slack and Opsgenie. Free, fast, and easy to use.",
     "path": "/freedevtools/c/alertmanager/opsgenie_alertmanager/",
     "category": "cheatsheets"
@@ -43,22 +43,22 @@
   },
   {
     "id": "cheatsheets-alertmanager-rules_blackbox_alerts",
-    "name": "Blackbox Alerts - Monitor Endpoint Uptime & Availability",
+    "name": "Blackbox Alerts - Monitor Endpoint Uptime \u0026 Availability",
     "description": "Monitor endpoint uptime with Blackbox Alerts. Get notified of failures and ensure availability. Free tool for endpoint monitoring and Prometheus alerting.",
     "path": "/freedevtools/c/alertmanager/rules_blackbox_alerts/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-alertmanager-rules_host_alerts",
-    "name": "Host Alerts - Monitor Disk Space & Server Health",
+    "name": "Host Alerts - Monitor Disk Space \u0026 Server Health",
     "description": "Monitor host disk space with Host Alerts. Get instant alerts for low disk space, server health, and system issues. Free and easy to use.",
     "path": "/freedevtools/c/alertmanager/rules_host_alerts/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-alertmanager-rules_http_alerts",
-    "name": "HTTP Alerts - Monitor HTTP Request Rates & Errors",
-    "description": "Monitor HTTP request rates with HTTP Alerts. Detect high error rates & excessive actuator scrapes. Ensure HTTP service health & performance with this tool.",
+    "name": "HTTP Alerts - Monitor HTTP Request Rates \u0026 Errors",
+    "description": "Monitor HTTP request rates with HTTP Alerts. Detect high error rates \u0026 excessive actuator scrapes. Ensure HTTP service health \u0026 performance with this tool.",
     "path": "/freedevtools/c/alertmanager/rules_http_alerts/",
     "category": "cheatsheets"
   },
@@ -281,7 +281,7 @@
   },
   {
     "id": "cheatsheets-aws-python-ec2",
-    "name": "AWS EC2 Instance Lister - Filter & Retrieve Instance Details",
+    "name": "AWS EC2 Instance Lister - Filter \u0026 Retrieve Instance Details",
     "description": "Easily list and filter AWS EC2 instances using Python. Retrieve instance IDs, types, and private IPs. Free tool for AWS developers.",
     "path": "/freedevtools/c/aws-python/ec2/",
     "category": "cheatsheets"
@@ -337,7 +337,7 @@
   },
   {
     "id": "cheatsheets-backend-django",
-    "name": "Django Development Tips - Best Practices & Commands",
+    "name": "Django Development Tips - Best Practices \u0026 Commands",
     "description": "Improve your Django development with coding style tips, deployment strategies, and essential Django-admin commands. Optimize your workflow and project setup.",
     "path": "/freedevtools/c/backend/django/",
     "category": "cheatsheets"
@@ -358,7 +358,7 @@
   },
   {
     "id": "cheatsheets-backend-laravel",
-    "name": "Laravel Commands - Artisan, Request, Response & More",
+    "name": "Laravel Commands - Artisan, Request, Response \u0026 More",
     "description": "Comprehensive list of Laravel commands including Artisan, Request, Response, Routing, Middleware, Validation, and more. Optimize your Laravel development workflow.",
     "path": "/freedevtools/c/backend/laravel/",
     "category": "cheatsheets"
@@ -477,7 +477,7 @@
   },
   {
     "id": "cheatsheets-ci_cd-gitlab-ci",
-    "name": "GitLab CI Cheatsheet - Examples & Resources",
+    "name": "GitLab CI Cheatsheet - Examples \u0026 Resources",
     "description": "GitLab CI Cheatsheet with examples for SSH keys, AWS ECS deployment, and GitOps. Find resources and documentation for GitLab CI YAML configuration.",
     "path": "/freedevtools/c/ci_cd/gitlab-ci/",
     "category": "cheatsheets"
@@ -596,7 +596,7 @@
   },
   {
     "id": "cheatsheets-cmd-WindowsBatch-CheatSheet",
-    "name": "Windows Batch Scripting Cheat Sheet - Commands & Examples",
+    "name": "Windows Batch Scripting Cheat Sheet - Commands \u0026 Examples",
     "description": "Master Windows batch scripting with our comprehensive cheat sheet. Learn essential commands, syntax, and practical examples for automating tasks and managing your system.",
     "path": "/freedevtools/c/cmd/WindowsBatch-CheatSheet/",
     "category": "cheatsheets"
@@ -610,7 +610,7 @@
   },
   {
     "id": "cheatsheets-cmd-acl",
-    "name": "ACL Commands - Manage File Permissions with setfacl & getfacl",
+    "name": "ACL Commands - Manage File Permissions with setfacl \u0026 getfacl",
     "description": "Master ACL commands with setfacl and getfacl. Learn to manage file permissions, add, modify, copy, and delete ACLs for users and groups efficiently.",
     "path": "/freedevtools/c/cmd/acl/",
     "category": "cheatsheets"
@@ -631,7 +631,7 @@
   },
   {
     "id": "cheatsheets-cmd-alias",
-    "name": "Shell Alias Command - Create & Manage Command Shortcuts",
+    "name": "Shell Alias Command - Create \u0026 Manage Command Shortcuts",
     "description": "Learn how to use the shell alias command to create custom shortcuts for frequently used commands. Simplify your workflow with efficient command aliasing.",
     "path": "/freedevtools/c/cmd/alias/",
     "category": "cheatsheets"
@@ -757,7 +757,7 @@
   },
   {
     "id": "cheatsheets-cmd-arp",
-    "name": "ARP Command Linux - Manage ARP Table & Cache",
+    "name": "ARP Command Linux - Manage ARP Table \u0026 Cache",
     "description": "Learn how to manage the ARP table in Linux using the arp and ip neigh commands. View, add, delete, and flush ARP entries for network troubleshooting.",
     "path": "/freedevtools/c/cmd/arp/",
     "category": "cheatsheets"
@@ -806,14 +806,14 @@
   },
   {
     "id": "cheatsheets-cmd-auditd",
-    "name": "Auditd - Linux Audit Daemon Commands & Rules",
+    "name": "Auditd - Linux Audit Daemon Commands \u0026 Rules",
     "description": "Master Linux auditd with essential commands for starting, stopping, listing rules, and filtering logs. Learn to create temporary and permanent audit rules for enhanced system security.",
     "path": "/freedevtools/c/cmd/auditd/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-awk",
-    "name": "Awk Command Line Utility - Text Processing & Transformation",
+    "name": "Awk Command Line Utility - Text Processing \u0026 Transformation",
     "description": "Learn Awk, a powerful command-line utility for finding, processing, and transforming text files. Explore patterns, actions, special variables, and practical examples.",
     "path": "/freedevtools/c/cmd/awk/",
     "category": "cheatsheets"
@@ -876,21 +876,21 @@
   },
   {
     "id": "cheatsheets-cmd-bash_4",
-    "name": "Bash Cheatsheet - Command Line Utilities & Scripting",
+    "name": "Bash Cheatsheet - Command Line Utilities \u0026 Scripting",
     "description": "Comprehensive Bash cheatsheet covering essential commands, one-liners, if statements, loops, functions, and output redirection for efficient shell scripting.",
     "path": "/freedevtools/c/cmd/bash_4/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-basic_file_management",
-    "name": "Basic File Management Commands - Linux & Unix Guide",
+    "name": "Basic File Management Commands - Linux \u0026 Unix Guide",
     "description": "Master basic file management commands in Linux and Unix. Learn to list, view, copy, move, delete, and link files and directories with practical examples.",
     "path": "/freedevtools/c/cmd/basic_file_management/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-basics",
-    "name": "Linux Command Line Basics - Essential Commands & Shortcuts",
+    "name": "Linux Command Line Basics - Essential Commands \u0026 Shortcuts",
     "description": "Master Linux command line basics with this guide to essential commands like man, date, ls, cat, cp, mv, rm, grep, pwd, and cd. Learn navigation and editing shortcuts for efficient terminal use.",
     "path": "/freedevtools/c/cmd/basics/",
     "category": "cheatsheets"
@@ -946,7 +946,7 @@
   },
   {
     "id": "cheatsheets-cmd-bzip2",
-    "name": "Bzip2 Compression Tool - Compress & Decompress Files",
+    "name": "Bzip2 Compression Tool - Compress \u0026 Decompress Files",
     "description": "Compress and decompress files using the Bzip2 command-line tool. Learn how to zip and unzip files efficiently with Bzip2 for optimal data compression.",
     "path": "/freedevtools/c/cmd/bzip2/",
     "category": "cheatsheets"
@@ -1016,7 +1016,7 @@
   },
   {
     "id": "cheatsheets-cmd-chown",
-    "name": "Chown Command - Change File Owner & Permissions",
+    "name": "Chown Command - Change File Owner \u0026 Permissions",
     "description": "Change file owner and group with the chown command. Learn how to use chown for recursive changes and reference files. Free Linux command-line utility.",
     "path": "/freedevtools/c/cmd/chown/",
     "category": "cheatsheets"
@@ -1037,7 +1037,7 @@
   },
   {
     "id": "cheatsheets-cmd-comm",
-    "name": "Comm Command - Compare Files & Find Differences",
+    "name": "Comm Command - Compare Files \u0026 Find Differences",
     "description": "Compare two sorted files line by line with the Comm command. Find common lines, unique lines, and differences efficiently. Free online tool for developers.",
     "path": "/freedevtools/c/cmd/comm/",
     "category": "cheatsheets"
@@ -1051,14 +1051,14 @@
   },
   {
     "id": "cheatsheets-cmd-conditions",
-    "name": "Shell Script Conditions - If Else & Short Circuiting",
-    "description": "Learn about shell script conditions, including if-else statements, file, string, and number comparisons, and short-circuiting with && and || operators.",
+    "name": "Shell Script Conditions - If Else \u0026 Short Circuiting",
+    "description": "Learn about shell script conditions, including if-else statements, file, string, and number comparisons, and short-circuiting with \u0026\u0026 and || operators.",
     "path": "/freedevtools/c/cmd/conditions/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-convert",
-    "name": "Image Converter & Manipulator - Command Line Tools by Hexmos",
+    "name": "Image Converter \u0026 Manipulator - Command Line Tools by Hexmos",
     "description": "Convert and manipulate images with command-line tools. Resize, annotate, crop, rotate, add borders, change quality, apply effects, and combine images to PDF.",
     "path": "/freedevtools/c/cmd/convert/",
     "category": "cheatsheets"
@@ -1121,14 +1121,14 @@
   },
   {
     "id": "cheatsheets-cmd-cups",
-    "name": "CUPS Commands - Manage Printers & Print Jobs",
+    "name": "CUPS Commands - Manage Printers \u0026 Print Jobs",
     "description": "Master CUPS commands for printer management and print job control. Learn to print files, view queues, remove jobs, and manage printer status with our comprehensive guide.",
     "path": "/freedevtools/c/cmd/cups/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-curl",
-    "name": "Curl Command - Transfer Data & Make API Requests",
+    "name": "Curl Command - Transfer Data \u0026 Make API Requests",
     "description": "Learn to use the curl command for transferring data and making REST API requests. Explore GET, POST, PUT, DELETE methods with practical examples.",
     "path": "/freedevtools/c/cmd/curl/",
     "category": "cheatsheets"
@@ -1142,7 +1142,7 @@
   },
   {
     "id": "cheatsheets-cmd-curl_3",
-    "name": "Curl Command Examples - Download & Transfer Files",
+    "name": "Curl Command Examples - Download \u0026 Transfer Files",
     "description": "Explore essential Curl command examples for downloading files, transferring data, and making HTTP requests. Learn to use Curl for various transfer scenarios with practical code snippets.",
     "path": "/freedevtools/c/cmd/curl_3/",
     "category": "cheatsheets"
@@ -1156,7 +1156,7 @@
   },
   {
     "id": "cheatsheets-cmd-date",
-    "name": "Date Command - Format & Convert Dates with Linux/Unix Commands",
+    "name": "Date Command - Format \u0026 Convert Dates with Linux/Unix Commands",
     "description": "Learn to format and convert dates using the",
     "path": "/freedevtools/c/cmd/date/",
     "category": "cheatsheets"
@@ -1184,14 +1184,14 @@
   },
   {
     "id": "cheatsheets-cmd-dd_3",
-    "name": "dd Command Cheatsheet - Linux File Operations & Benchmarking",
+    "name": "dd Command Cheatsheet - Linux File Operations \u0026 Benchmarking",
     "description": "Master the dd command with this comprehensive cheatsheet. Learn to create files, benchmark disk I/O, test write/read speeds, and optimize Linux file operations.",
     "path": "/freedevtools/c/cmd/dd_3/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-deb",
-    "name": "Deb Package Extractor & Installer - Free Dev Tool",
+    "name": "Deb Package Extractor \u0026 Installer - Free Dev Tool",
     "description": "Extract and install .deb files easily with our free Deb tool. Convert .deb packages for Debian/Ubuntu systems.",
     "path": "/freedevtools/c/cmd/deb/",
     "category": "cheatsheets"
@@ -1345,7 +1345,7 @@
   },
   {
     "id": "cheatsheets-cmd-dscacheutil",
-    "name": "Dscacheutil - Flush DNS Cache & Directory Service Utility",
+    "name": "Dscacheutil - Flush DNS Cache \u0026 Directory Service Utility",
     "description": "Learn how to use dscacheutil to flush DNS cache and gather directory service information on macOS. Includes commands for Mavericks and older versions.",
     "path": "/freedevtools/c/cmd/dscacheutil/",
     "category": "cheatsheets"
@@ -1436,7 +1436,7 @@
   },
   {
     "id": "cheatsheets-cmd-ethtool_3",
-    "name": "Ethtool - Network Interface Configuration & Statistics",
+    "name": "Ethtool - Network Interface Configuration \u0026 Statistics",
     "description": "Configure and view network interface statistics with ethtool. Learn to set speed, autonegotiation, and retrieve error counts for your network interfaces.",
     "path": "/freedevtools/c/cmd/ethtool_3/",
     "category": "cheatsheets"
@@ -1450,7 +1450,7 @@
   },
   {
     "id": "cheatsheets-cmd-exiftool",
-    "name": "ExifTool - Metadata Editor & Remover",
+    "name": "ExifTool - Metadata Editor \u0026 Remover",
     "description": "Edit and remove metadata from files with ExifTool. This powerful command-line utility allows you to manage EXIF, IPTC, XMP, and more. Free online tool for developers.",
     "path": "/freedevtools/c/cmd/exiftool/",
     "category": "cheatsheets"
@@ -1506,7 +1506,7 @@
   },
   {
     "id": "cheatsheets-cmd-ffmpeg_2",
-    "name": "FFmpeg Commands - Video & Audio Conversion & Manipulation",
+    "name": "FFmpeg Commands - Video \u0026 Audio Conversion \u0026 Manipulation",
     "description": "Explore essential FFmpeg commands for video and audio conversion, manipulation, and more. Learn to convert formats, combine files, add subtitles, and extract audio with practical examples.",
     "path": "/freedevtools/c/cmd/ffmpeg_2/",
     "category": "cheatsheets"
@@ -1583,7 +1583,7 @@
   },
   {
     "id": "cheatsheets-cmd-for",
-    "name": "Bash For Loop Examples - Generate & Iterate with Bash Scripting",
+    "name": "Bash For Loop Examples - Generate \u0026 Iterate with Bash Scripting",
     "description": "Explore various Bash for loop examples to generate and iterate through sequences, command outputs, and file patterns. Master Bash scripting for efficient task automation.",
     "path": "/freedevtools/c/cmd/for/",
     "category": "cheatsheets"
@@ -1597,7 +1597,7 @@
   },
   {
     "id": "cheatsheets-cmd-fs_cli",
-    "name": "FreeSWITCH CLI - Manage SIP & Call Features",
+    "name": "FreeSWITCH CLI - Manage SIP \u0026 Call Features",
     "description": "Master the FreeSWITCH CLI (fs_cli) to manage SIP registrations, calls, and configurations. Execute commands to reload settings, trace SIP messages, and control call sessions effectively.",
     "path": "/freedevtools/c/cmd/fs_cli/",
     "category": "cheatsheets"
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "cheatsheets-cmd-gh",
-    "name": "GitHub CLI (gh) Commands - View, Create, Manage Issues & PRs",
+    "name": "GitHub CLI (gh) Commands - View, Create, Manage Issues \u0026 PRs",
     "description": "Explore essential GitHub CLI (gh) commands to view READMEs, list and create issues, manage pull requests, and create gists. Free online tool for developers.",
     "path": "/freedevtools/c/cmd/gh/",
     "category": "cheatsheets"
@@ -1702,7 +1702,7 @@
   },
   {
     "id": "cheatsheets-cmd-hardware-info",
-    "name": "Hardware Information - System Details & Commands",
+    "name": "Hardware Information - System Details \u0026 Commands",
     "description": "Get comprehensive hardware information with our command-line tool guide. Learn to display system details, list modules, and view CPU/memory stats.",
     "path": "/freedevtools/c/cmd/hardware-info/",
     "category": "cheatsheets"
@@ -1737,7 +1737,7 @@
   },
   {
     "id": "cheatsheets-cmd-history",
-    "name": "Command History - View & Analyze Shell Commands",
+    "name": "Command History - View \u0026 Analyze Shell Commands",
     "description": "Analyze your command history with our tool. View top commands, frequencies, and percentages. Essential for shell users and developers.",
     "path": "/freedevtools/c/cmd/history/",
     "category": "cheatsheets"
@@ -1779,7 +1779,7 @@
   },
   {
     "id": "cheatsheets-cmd-i3",
-    "name": "i3 Window Manager Keybindings & Configuration Guide",
+    "name": "i3 Window Manager Keybindings \u0026 Configuration Guide",
     "description": "Master i3 window manager with this comprehensive guide to keybindings, configuration, and essential commands. Learn to navigate, manage windows, and customize your workflow efficiently.",
     "path": "/freedevtools/c/cmd/i3/",
     "category": "cheatsheets"
@@ -1829,7 +1829,7 @@
   {
     "id": "cheatsheets-cmd-indent",
     "name": "Code Indenter - Format Source Code with Indent Tool",
-    "description": "Format source code with the Code Indenter tool. Easily adjust indentation, wrap lines, and apply coding styles like K&R for C/C++.",
+    "description": "Format source code with the Code Indenter tool. Easily adjust indentation, wrap lines, and apply coding styles like K\u0026R for C/C++.",
     "path": "/freedevtools/c/cmd/indent/",
     "category": "cheatsheets"
   },
@@ -1982,7 +1982,7 @@
   },
   {
     "id": "cheatsheets-cmd-jot",
-    "name": "Jot Command - Generate Sequences & Data",
+    "name": "Jot Command - Generate Sequences \u0026 Data",
     "description": "Generate sequences and data with the Jot command. Explore examples for creating random strings, ASCII characters, and more. Free online tool for developers.",
     "path": "/freedevtools/c/cmd/jot/",
     "category": "cheatsheets"
@@ -2052,7 +2052,7 @@
   },
   {
     "id": "cheatsheets-cmd-kill",
-    "name": "Kill Process - Terminate Programs Gracefully & Forcefully",
+    "name": "Kill Process - Terminate Programs Gracefully \u0026 Forcefully",
     "description": "Terminate processes instantly with the Kill command. Learn to gracefully signal (-15) or forcefully kill (-9) processes by PID. Free online command-line utility.",
     "path": "/freedevtools/c/cmd/kill/",
     "category": "cheatsheets"
@@ -2199,7 +2199,7 @@
   },
   {
     "id": "cheatsheets-cmd-lsof",
-    "name": "Lsof Command - List Open Files & Network Connections",
+    "name": "Lsof Command - List Open Files \u0026 Network Connections",
     "description": "Master the lsof command to list open files and network connections on your system. Learn essential lsof commands for process monitoring and troubleshooting.",
     "path": "/freedevtools/c/cmd/lsof/",
     "category": "cheatsheets"
@@ -2318,7 +2318,7 @@
   },
   {
     "id": "cheatsheets-cmd-man",
-    "name": "Man Command - Linux Manual Page Viewer & Converter",
+    "name": "Man Command - Linux Manual Page Viewer \u0026 Converter",
     "description": "Learn how to use the man command to view Linux manual pages, convert them to PDF, and search for keywords. Essential tool for developers and system administrators.",
     "path": "/freedevtools/c/cmd/man/",
     "category": "cheatsheets"
@@ -2395,14 +2395,14 @@
   },
   {
     "id": "cheatsheets-cmd-mutt_2",
-    "name": "Mutt Commands - Email Client Shortcuts & Tips",
+    "name": "Mutt Commands - Email Client Shortcuts \u0026 Tips",
     "description": "Master Mutt with essential commands for mailbox management, bulk operations, and message deletion/undeletion. Enhance your email workflow with these powerful shortcuts.",
     "path": "/freedevtools/c/cmd/mutt_2/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-mv",
-    "name": "Mv Command - Move Files & Directories",
+    "name": "Mv Command - Move Files \u0026 Directories",
     "description": "Learn how to use the mv command to move files and directories in Linux/Unix. Explore options like -f, -i, -n, and -t for efficient file management.",
     "path": "/freedevtools/c/cmd/mv/",
     "category": "cheatsheets"
@@ -2472,14 +2472,14 @@
   },
   {
     "id": "cheatsheets-cmd-netstat_3",
-    "name": "Netstat Command - View Network Connections & Routing",
+    "name": "Netstat Command - View Network Connections \u0026 Routing",
     "description": "Learn how to use the netstat command to view network connections, listening ports, and routing tables. Discover its modern ss command replacements.",
     "path": "/freedevtools/c/cmd/netstat_3/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-netstat_4",
-    "name": "Netstat Cheatsheet - View Listening Ports & Network Connections",
+    "name": "Netstat Cheatsheet - View Listening Ports \u0026 Network Connections",
     "description": "Master netstat with our cheatsheet. Learn to view listening ports, network connections, and process information. Essential for network troubleshooting.",
     "path": "/freedevtools/c/cmd/netstat_4/",
     "category": "cheatsheets"
@@ -2493,7 +2493,7 @@
   },
   {
     "id": "cheatsheets-cmd-nkf",
-    "name": "NKF Command - Character Encoding Converter & Manipulator",
+    "name": "NKF Command - Character Encoding Converter \u0026 Manipulator",
     "description": "Convert character encodings like UTF-8, EUC-JP, Shift-JIS, and ISO-2022-JP with the NKF command. Also, manipulate newlines and perform MIME encoding/decoding.",
     "path": "/freedevtools/c/cmd/nkf/",
     "category": "cheatsheets"
@@ -2521,14 +2521,14 @@
   },
   {
     "id": "cheatsheets-cmd-nmap",
-    "name": "Nmap Commands - Network Scanning & Security Auditing",
+    "name": "Nmap Commands - Network Scanning \u0026 Security Auditing",
     "description": "Master Nmap commands for network scanning, port discovery, OS detection, and security auditing. Explore essential Nmap syntax for effective network analysis.",
     "path": "/freedevtools/c/cmd/nmap/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-nmap_2",
-    "name": "Nmap Commands - Network Scanning & Security Auditing Tool",
+    "name": "Nmap Commands - Network Scanning \u0026 Security Auditing Tool",
     "description": "Master Nmap commands for network scanning, port discovery, OS detection, and security auditing. Learn essential Nmap syntax for effective network analysis.",
     "path": "/freedevtools/c/cmd/nmap_2/",
     "category": "cheatsheets"
@@ -2570,7 +2570,7 @@
   },
   {
     "id": "cheatsheets-cmd-nvidia-smi",
-    "name": "NVIDIA SMI - GPU Monitoring & Management Tool",
+    "name": "NVIDIA SMI - GPU Monitoring \u0026 Management Tool",
     "description": "Monitor and manage NVIDIA GPUs with nvidia-smi. View GPU utilization, memory usage, temperature, and more. Essential tool for GPU computing and AI development.",
     "path": "/freedevtools/c/cmd/nvidia-smi/",
     "category": "cheatsheets"
@@ -2598,14 +2598,14 @@
   },
   {
     "id": "cheatsheets-cmd-openssl",
-    "name": "OpenSSL Commands - Generate Certificates & Encrypt Data",
+    "name": "OpenSSL Commands - Generate Certificates \u0026 Encrypt Data",
     "description": "Master OpenSSL commands for generating SSL certificates, CSRs, and performing high-quality symmetric encryption. Learn essential OpenSSL usage for developers.",
     "path": "/freedevtools/c/cmd/openssl/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-openssl_2",
-    "name": "OpenSSL Cheatsheet - Generate Keys & Random Strings",
+    "name": "OpenSSL Cheatsheet - Generate Keys \u0026 Random Strings",
     "description": "Master OpenSSL commands for generating random strings and RSA private keys. This cheatsheet provides essential commands for developers to create secure keys and random data.",
     "path": "/freedevtools/c/cmd/openssl_2/",
     "category": "cheatsheets"
@@ -2647,7 +2647,7 @@
   },
   {
     "id": "cheatsheets-cmd-pass",
-    "name": "Password Manager CLI - Generate & Manage Passwords Securely",
+    "name": "Password Manager CLI - Generate \u0026 Manage Passwords Securely",
     "description": "Securely generate, store, and manage your passwords with the Pass password manager CLI. Easy to use commands for creating strong passwords and organizing your credentials.",
     "path": "/freedevtools/c/cmd/pass/",
     "category": "cheatsheets"
@@ -2801,7 +2801,7 @@
   },
   {
     "id": "cheatsheets-cmd-proc",
-    "name": "Linux /proc Filesystem - Process Information & System Stats",
+    "name": "Linux /proc Filesystem - Process Information \u0026 System Stats",
     "description": "Explore the Linux /proc filesystem to access real-time process information, command lines, environment variables, and system memory stats. A vital tool for system administrators and developers.",
     "path": "/freedevtools/c/cmd/proc/",
     "category": "cheatsheets"
@@ -2816,7 +2816,7 @@
   {
     "id": "cheatsheets-cmd-process_substitution",
     "name": "Process Substitution - Bash Command Feature",
-    "description": "Understand and utilize Bash process substitution to treat command output as files. Learn how to use &lt;(command) and &gt;(command) for advanced scripting with Free DevTools.",
+    "description": "Understand and utilize Bash process substitution to treat command output as files. Learn how to use \u0026lt;(command) and \u0026gt;(command) for advanced scripting with Free DevTools.",
     "path": "/freedevtools/c/cmd/process_substitution/",
     "category": "cheatsheets"
   },
@@ -2927,7 +2927,7 @@
   },
   {
     "id": "cheatsheets-cmd-quickget",
-    "name": "Quickget - Download & Prepare VM Images",
+    "name": "Quickget - Download \u0026 Prepare VM Images",
     "description": "Quickget: Download OS release images and prepare QEMU VM configurations easily. Supports various operating systems and releases.",
     "path": "/freedevtools/c/cmd/quickget/",
     "category": "cheatsheets"
@@ -2969,7 +2969,7 @@
   },
   {
     "id": "cheatsheets-cmd-readline",
-    "name": "Readline Key Bindings - Command Line Navigation & Editing",
+    "name": "Readline Key Bindings - Command Line Navigation \u0026 Editing",
     "description": "Master readline key bindings for efficient command-line navigation and text editing. Learn shortcuts for moving, cutting, pasting, history search, and auto-completion.",
     "path": "/freedevtools/c/cmd/readline/",
     "category": "cheatsheets"
@@ -3039,7 +3039,7 @@
   },
   {
     "id": "cheatsheets-cmd-route",
-    "name": "Route Command - Display & Modify IP Routing Table",
+    "name": "Route Command - Display \u0026 Modify IP Routing Table",
     "description": "Master the route command to display and modify your IP routing table. Learn to add, delete, and change routes for networks, hosts, and default gateways with this essential Linux utility.",
     "path": "/freedevtools/c/cmd/route/",
     "category": "cheatsheets"
@@ -3165,14 +3165,14 @@
   },
   {
     "id": "cheatsheets-cmd-sed_3",
-    "name": "sed Cheatsheet - Command Line Text Replacement & Manipulation",
+    "name": "sed Cheatsheet - Command Line Text Replacement \u0026 Manipulation",
     "description": "Master sed commands for efficient text replacement, content manipulation, and blank line removal in files. A comprehensive cheatsheet for developers.",
     "path": "/freedevtools/c/cmd/sed_3/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-sed_filter_and_transform_text",
-    "name": "Sed Text Filter & Transformer - Command-Line Utility",
+    "name": "Sed Text Filter \u0026 Transformer - Command-Line Utility",
     "description": "Master sed text filtering and transformation with our comprehensive guide. Learn to search, replace, delete, and manipulate text in files and streams using powerful sed commands.",
     "path": "/freedevtools/c/cmd/sed_filter_and_transform_text/",
     "category": "cheatsheets"
@@ -3214,7 +3214,7 @@
   },
   {
     "id": "cheatsheets-cmd-sha256sum",
-    "name": "SHA256Sum Calculator - Generate & Verify Checksums",
+    "name": "SHA256Sum Calculator - Generate \u0026 Verify Checksums",
     "description": "Generate SHA256 checksums for files and text, and verify existing checksums with the SHA256Sum tool. Essential for data integrity checks.",
     "path": "/freedevtools/c/cmd/sha256sum/",
     "category": "cheatsheets"
@@ -3249,7 +3249,7 @@
   },
   {
     "id": "cheatsheets-cmd-sipcmd",
-    "name": "Sipcmd - Command-Line SIP Client & Testing Tool",
+    "name": "Sipcmd - Command-Line SIP Client \u0026 Testing Tool",
     "description": "Utilize Sipcmd, a powerful command-line SIP client, to initiate SIP calls, send messages, and test SIP server functionalities. Ideal for developers and network testers.",
     "path": "/freedevtools/c/cmd/sipcmd/",
     "category": "cheatsheets"
@@ -3277,7 +3277,7 @@
   },
   {
     "id": "cheatsheets-cmd-smartctl",
-    "name": "Smartctl - Drive Health & SMART Status Checker",
+    "name": "Smartctl - Drive Health \u0026 SMART Status Checker",
     "description": "Check drive health and SMART status with Smartctl. Get drive information, initiate short/long tests, and monitor your hard drives effectively.",
     "path": "/freedevtools/c/cmd/smartctl/",
     "category": "cheatsheets"
@@ -3319,14 +3319,14 @@
   },
   {
     "id": "cheatsheets-cmd-sockstat",
-    "name": "Sockstat - View Network Connections & Listening Ports",
+    "name": "Sockstat - View Network Connections \u0026 Listening Ports",
     "description": "View network connections and listening ports with sockstat. Understand which users and processes are utilizing network sockets on your system.",
     "path": "/freedevtools/c/cmd/sockstat/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-sort",
-    "name": "Sort Command - Sort Text Files & Lines",
+    "name": "Sort Command - Sort Text Files \u0026 Lines",
     "description": "Sort text files and lines with the Sort Command tool. Easily sort data numerically, in reverse, by column, or remove duplicates. Free online utility for developers.",
     "path": "/freedevtools/c/cmd/sort/",
     "category": "cheatsheets"
@@ -3354,7 +3354,7 @@
   },
   {
     "id": "cheatsheets-cmd-sox",
-    "name": "Sox Command Examples - Audio Conversion & Manipulation",
+    "name": "Sox Command Examples - Audio Conversion \u0026 Manipulation",
     "description": "Explore Sox command examples for audio conversion and manipulation. Learn to merge, trim, normalize, reverse, change sample rate, generate sounds, and adjust volume with Sox.",
     "path": "/freedevtools/c/cmd/sox/",
     "category": "cheatsheets"
@@ -3389,7 +3389,7 @@
   },
   {
     "id": "cheatsheets-cmd-sqlcmd",
-    "name": "SQLCMD - Execute SQL Commands & Scripts",
+    "name": "SQLCMD - Execute SQL Commands \u0026 Scripts",
     "description": "Execute SQL commands and scripts with SQLCMD. Learn how to connect to SQL Server, run queries, manage passwords, and use variables with this powerful command-line utility.",
     "path": "/freedevtools/c/cmd/sqlcmd/",
     "category": "cheatsheets"
@@ -3431,14 +3431,14 @@
   },
   {
     "id": "cheatsheets-cmd-ssh-keygen",
-    "name": "SSH Keygen - Generate & Manage SSH Keys",
+    "name": "SSH Keygen - Generate \u0026 Manage SSH Keys",
     "description": "Generate SSH keys securely with SSH Keygen. Create RSA, Ed25519, and FIDO2 keys, manage passphrases, and view key fingerprints. Free online tool for developers.",
     "path": "/freedevtools/c/cmd/ssh-keygen/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-ssh-keygen_2",
-    "name": "SSH Keygen - Generate & Manage SSH Keys",
+    "name": "SSH Keygen - Generate \u0026 Manage SSH Keys",
     "description": "Generate and manage SSH keys with SSH Keygen. Create private keys, view public keys, and convert key formats easily. Free online tool for developers.",
     "path": "/freedevtools/c/cmd/ssh-keygen_2/",
     "category": "cheatsheets"
@@ -3466,7 +3466,7 @@
   },
   {
     "id": "cheatsheets-cmd-stat",
-    "name": "Stat Command - File Status & Permissions",
+    "name": "Stat Command - File Status \u0026 Permissions",
     "description": "Get file status and permissions with the Stat command. Learn to display numerical values for file permissions and octal permissions for directories.",
     "path": "/freedevtools/c/cmd/stat/",
     "category": "cheatsheets"
@@ -3592,21 +3592,21 @@
   },
   {
     "id": "cheatsheets-cmd-system_profiler",
-    "name": "System Profiler - macOS Hardware & Software Report Tool",
+    "name": "System Profiler - macOS Hardware \u0026 Software Report Tool",
     "description": "Generate detailed macOS system hardware and software reports with the System Profiler command-line tool. Get system overview, serial number, and more.",
     "path": "/freedevtools/c/cmd/system_profiler/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-systemctl",
-    "name": "Systemctl Commands - Manage Linux Services & Systemd",
+    "name": "Systemctl Commands - Manage Linux Services \u0026 Systemd",
     "description": "Master systemctl commands to manage Linux services and systemd units. Learn to start, stop, enable, disable, and check the status of services with this comprehensive guide.",
     "path": "/freedevtools/c/cmd/systemctl/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-systemd",
-    "name": "Systemd Commands - Manage Linux Services & Processes",
+    "name": "Systemd Commands - Manage Linux Services \u0026 Processes",
     "description": "Master systemd commands for Linux. Learn to manage services, analyze startup times, and control processes with systemctl and systemd-analyze.",
     "path": "/freedevtools/c/cmd/systemd/",
     "category": "cheatsheets"
@@ -3627,7 +3627,7 @@
   },
   {
     "id": "cheatsheets-cmd-tar",
-    "name": "Tar Command - Archive Utility for Linux & Unix",
+    "name": "Tar Command - Archive Utility for Linux \u0026 Unix",
     "description": "Learn to use the tar command for archiving and compressing files on Linux and Unix systems. Explore common tar commands for backup, extraction, and deletion.",
     "path": "/freedevtools/c/cmd/tar/",
     "category": "cheatsheets"
@@ -3641,7 +3641,7 @@
   },
   {
     "id": "cheatsheets-cmd-tar_3",
-    "name": "Tar Command Cheatsheet - Compress & Extract Files",
+    "name": "Tar Command Cheatsheet - Compress \u0026 Extract Files",
     "description": "Master the tar command with this comprehensive cheatsheet. Learn to compress, extract, exclude files, follow symlinks, and combine tar with wget for efficient file management.",
     "path": "/freedevtools/c/cmd/tar_3/",
     "category": "cheatsheets"
@@ -3655,7 +3655,7 @@
   },
   {
     "id": "cheatsheets-cmd-tcpdump",
-    "name": "Tcpdump Command - Network Packet Capture & Analysis Tool",
+    "name": "Tcpdump Command - Network Packet Capture \u0026 Analysis Tool",
     "description": "Learn to use the tcpdump command for network packet capture and analysis. Filter traffic by host, port, protocol, and more. Analyze network issues effectively.",
     "path": "/freedevtools/c/cmd/tcpdump/",
     "category": "cheatsheets"
@@ -3669,7 +3669,7 @@
   },
   {
     "id": "cheatsheets-cmd-tee",
-    "name": "Tee Command - Redirect Output to File & Screen",
+    "name": "Tee Command - Redirect Output to File \u0026 Screen",
     "description": "Redirect command output to both the screen and files with the Tee command. Learn to use tee and tee -a for appending. Free online command-line utility.",
     "path": "/freedevtools/c/cmd/tee/",
     "category": "cheatsheets"
@@ -3746,7 +3746,7 @@
   },
   {
     "id": "cheatsheets-cmd-tmux_4",
-    "name": "tmux Cheatsheet - Terminal Multiplexer Commands & Installation",
+    "name": "tmux Cheatsheet - Terminal Multiplexer Commands \u0026 Installation",
     "description": "Master tmux with this comprehensive cheatsheet. Learn installation, window management, pane splitting, navigation, and essential commands for the terminal multiplexer.",
     "path": "/freedevtools/c/cmd/tmux_4/",
     "category": "cheatsheets"
@@ -3809,14 +3809,14 @@
   },
   {
     "id": "cheatsheets-cmd-tshark",
-    "name": "Tshark - Network Packet Analyzer & Capture Tool",
+    "name": "Tshark - Network Packet Analyzer \u0026 Capture Tool",
     "description": "Utilize Tshark, the powerful command-line network packet analyzer from the Wireshark project, to capture, filter, and analyze network traffic effectively.",
     "path": "/freedevtools/c/cmd/tshark/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-tsp",
-    "name": "Task Spooler (tsp) - Command Queue & Batch System",
+    "name": "Task Spooler (tsp) - Command Queue \u0026 Batch System",
     "description": "Convert datetime formats instantly with Date Time Converter from Hexmos. Transform UTC, ISO, Unix timestamps easily. Free, fast, no registration required.",
     "path": "/freedevtools/c/cmd/tsp/",
     "category": "cheatsheets"
@@ -3893,7 +3893,7 @@
   },
   {
     "id": "cheatsheets-cmd-uptime",
-    "name": "Uptime Command - System Status & Runtime Checker",
+    "name": "Uptime Command - System Status \u0026 Runtime Checker",
     "description": "Check system uptime and runtime status with the Uptime command. Monitor system load, users, and operational duration. Free online tool for developers.",
     "path": "/freedevtools/c/cmd/uptime/",
     "category": "cheatsheets"
@@ -4005,7 +4005,7 @@
   },
   {
     "id": "cheatsheets-cmd-vnstat",
-    "name": "Vnstat - Network Traffic Monitor & Log",
+    "name": "Vnstat - Network Traffic Monitor \u0026 Log",
     "description": "Monitor network traffic with Vnstat. View daily, monthly, and hourly usage, export data in JSON, and manage network interface statistics.",
     "path": "/freedevtools/c/cmd/vnstat/",
     "category": "cheatsheets"
@@ -4047,21 +4047,21 @@
   },
   {
     "id": "cheatsheets-cmd-wget_3",
-    "name": "Wget Command Examples - Download Files & Mirror Sites",
+    "name": "Wget Command Examples - Download Files \u0026 Mirror Sites",
     "description": "Explore essential Wget command examples for downloading files, resuming interrupted downloads, mirroring websites, and more. Master Wget for efficient web content retrieval.",
     "path": "/freedevtools/c/cmd/wget_3/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-whois",
-    "name": "WHOIS Lookup - Domain & IP Registration Information",
+    "name": "WHOIS Lookup - Domain \u0026 IP Registration Information",
     "description": "Perform WHOIS lookups to get domain name registration details and IP address information. Free online tool to query WHOIS databases for domain ownership and contact info.",
     "path": "/freedevtools/c/cmd/whois/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-cmd-windows-server",
-    "name": "Windows Server Commands - Evaluation & Licensing Guide",
+    "name": "Windows Server Commands - Evaluation \u0026 Licensing Guide",
     "description": "Master Windows Server evaluation and licensing with our comprehensive command-line guide. Learn to check status, rearm, activate, and manage product keys efficiently.",
     "path": "/freedevtools/c/cmd/windows-server/",
     "category": "cheatsheets"
@@ -4152,7 +4152,7 @@
   },
   {
     "id": "cheatsheets-cmd-xkb",
-    "name": "Xkb Configuration - Set Keyboard Layouts & Compose Keys",
+    "name": "Xkb Configuration - Set Keyboard Layouts \u0026 Compose Keys",
     "description": "Configure Xkb to set keyboard layouts, switch between languages, and customize compose key behavior for efficient typing.",
     "path": "/freedevtools/c/cmd/xkb/",
     "category": "cheatsheets"
@@ -4166,7 +4166,7 @@
   },
   {
     "id": "cheatsheets-cmd-xmlto",
-    "name": "XMLto - Convert DocBook XML to HTML & PDF",
+    "name": "XMLto - Convert DocBook XML to HTML \u0026 PDF",
     "description": "Convert DocBook XML to HTML and PDF formats with XMLto. Learn how to use XMLto for document conversion, including XSL overrides and custom stylesheets.",
     "path": "/freedevtools/c/cmd/xmlto/",
     "category": "cheatsheets"
@@ -4222,7 +4222,7 @@
   },
   {
     "id": "cheatsheets-cmd-youtube-dl",
-    "name": "YouTube DL - Download Videos & Audio",
+    "name": "YouTube DL - Download Videos \u0026 Audio",
     "description": "Download videos and audio from YouTube with youtube-dl. Learn how to specify formats, download playlists, extract audio, and more.",
     "path": "/freedevtools/c/cmd/youtube-dl/",
     "category": "cheatsheets"
@@ -4320,28 +4320,28 @@
   },
   {
     "id": "cheatsheets-databases-cassandra",
-    "name": "Cassandra Cheatsheet - Client Installation & Connection Guide",
+    "name": "Cassandra Cheatsheet - Client Installation \u0026 Connection Guide",
     "description": "Learn how to install and connect to Cassandra using cqlsh. This cheatsheet covers client installation on Alpine Linux and network connection methods.",
     "path": "/freedevtools/c/databases/cassandra/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-databases-ceph",
-    "name": "Ceph Cheatsheet - Ceph Commands & Status Overview",
+    "name": "Ceph Cheatsheet - Ceph Commands \u0026 Status Overview",
     "description": "Ceph cheatsheet for managing Ceph clusters. Quickly view status, manage pools, objects, and set dashboard credentials. Essential Ceph commands for administrators.",
     "path": "/freedevtools/c/databases/ceph/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-databases-influxdb",
-    "name": "InfluxDB Cheatsheet - InfluxDB Commands & Syntax",
+    "name": "InfluxDB Cheatsheet - InfluxDB Commands \u0026 Syntax",
     "description": "Master InfluxDB with our comprehensive cheatsheet. Learn essential commands for connecting, creating databases, managing measurements, and querying data.",
     "path": "/freedevtools/c/databases/influxdb/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-databases-mongo",
-    "name": "MongoDB Shell Commands - Cheat Sheet & Examples",
+    "name": "MongoDB Shell Commands - Cheat Sheet \u0026 Examples",
     "description": "Master MongoDB shell commands with this comprehensive cheat sheet. Learn to connect, query, and manage your MongoDB databases effectively.",
     "path": "/freedevtools/c/databases/mongo/",
     "category": "cheatsheets"
@@ -4355,7 +4355,7 @@
   },
   {
     "id": "cheatsheets-databases-mysql",
-    "name": "MySQL Commands - Essential Database Operations & Management",
+    "name": "MySQL Commands - Essential Database Operations \u0026 Management",
     "description": "Master MySQL commands for database operations, data manipulation, backup, restore, user management, and performance tuning. Essential SQL commands for developers.",
     "path": "/freedevtools/c/databases/mysql/",
     "category": "cheatsheets"
@@ -4376,7 +4376,7 @@
   },
   {
     "id": "cheatsheets-databases-mysql_4",
-    "name": "MySQL Cheatsheet - Essential Commands & Syntax",
+    "name": "MySQL Cheatsheet - Essential Commands \u0026 Syntax",
     "description": "Master MySQL with our comprehensive cheatsheet. Find essential commands for permissions, table creation, data manipulation, performance tuning, and more. Your go-to MySQL reference.",
     "path": "/freedevtools/c/databases/mysql_4/",
     "category": "cheatsheets"
@@ -4390,7 +4390,7 @@
   },
   {
     "id": "cheatsheets-databases-mysqldump_2",
-    "name": "MySQLDump Cheatsheet - Backup & Export Databases",
+    "name": "MySQLDump Cheatsheet - Backup \u0026 Export Databases",
     "description": "Master MySQL database backups with our comprehensive MySQLDump cheatsheet. Learn to export single databases, all databases, and handle common errors efficiently.",
     "path": "/freedevtools/c/databases/mysqldump_2/",
     "category": "cheatsheets"
@@ -4404,14 +4404,14 @@
   },
   {
     "id": "cheatsheets-databases-postgresql",
-    "name": "PostgreSQL Commands & Cheat Sheet - DevTools",
+    "name": "PostgreSQL Commands \u0026 Cheat Sheet - DevTools",
     "description": "Master PostgreSQL with our comprehensive cheat sheet. Find essential commands for connecting, managing databases, tables, users, and performing backups.",
     "path": "/freedevtools/c/databases/postgresql/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-databases-postgresql_2",
-    "name": "PostgreSQL Commands - Database Management & Docker",
+    "name": "PostgreSQL Commands - Database Management \u0026 Docker",
     "description": "Learn essential PostgreSQL commands for database management, backup, restore, creation, deletion, and running a Docker container. Optimize your PostgreSQL workflow.",
     "path": "/freedevtools/c/databases/postgresql_2/",
     "category": "cheatsheets"
@@ -4446,7 +4446,7 @@
   },
   {
     "id": "cheatsheets-databases-redis_2",
-    "name": "Redis Command Line Interface - Connect & Use Redis",
+    "name": "Redis Command Line Interface - Connect \u0026 Use Redis",
     "description": "Learn how to connect to a Redis server using the redis-cli and netcat (nc). Explore basic Redis commands and usage for databases, caches, and message brokers.",
     "path": "/freedevtools/c/databases/redis_2/",
     "category": "cheatsheets"
@@ -4481,14 +4481,14 @@
   },
   {
     "id": "cheatsheets-databases-sqlite",
-    "name": "SQLite Commands & Cheat Sheet - Free Developer Tool",
+    "name": "SQLite Commands \u0026 Cheat Sheet - Free Developer Tool",
     "description": "Access essential SQLite commands and a comprehensive cheat sheet to manage your databases efficiently. Learn to connect, query, backup, and restore SQLite databases with ease.",
     "path": "/freedevtools/c/databases/sqlite/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-databases-sqlite3",
-    "name": "SQLite3 Commands - Database Management & Querying",
+    "name": "SQLite3 Commands - Database Management \u0026 Querying",
     "description": "Learn essential SQLite3 commands for database creation, table management, data insertion, and querying. Master SQLite3 for efficient data handling.",
     "path": "/freedevtools/c/databases/sqlite3/",
     "category": "cheatsheets"
@@ -4537,7 +4537,7 @@
   },
   {
     "id": "cheatsheets-devops-Maven-CheatSheet",
-    "name": "Maven Cheat Sheet - Essential Commands & Configurations",
+    "name": "Maven Cheat Sheet - Essential Commands \u0026 Configurations",
     "description": "Comprehensive Maven cheat sheet covering essential commands, configurations, lifecycle, profiles, and plugins for efficient Java project management.",
     "path": "/freedevtools/c/devops/Maven-CheatSheet/",
     "category": "cheatsheets"
@@ -4593,7 +4593,7 @@
   },
   {
     "id": "cheatsheets-devops-bosh",
-    "name": "BOSH Commands - Manage Deployments & VMs",
+    "name": "BOSH Commands - Manage Deployments \u0026 VMs",
     "description": "Master BOSH deployments with essential commands. List deployments, VMs, SSH into instances, run errands, and manage tasks efficiently. Free online tool for DevOps.",
     "path": "/freedevtools/c/devops/bosh/",
     "category": "cheatsheets"
@@ -4642,7 +4642,7 @@
   },
   {
     "id": "cheatsheets-devops-docker_2",
-    "name": "Docker Commands Cheat Sheet - Container Management & Operations",
+    "name": "Docker Commands Cheat Sheet - Container Management \u0026 Operations",
     "description": "Comprehensive Docker commands cheat sheet for managing containers, images, volumes, and executing commands. Essential Docker operations for developers.",
     "path": "/freedevtools/c/devops/docker_2/",
     "category": "cheatsheets"
@@ -4719,14 +4719,14 @@
   },
   {
     "id": "cheatsheets-devops-proxmox",
-    "name": "Proxmox Command Cheat Sheet - VM & Container Management",
+    "name": "Proxmox Command Cheat Sheet - VM \u0026 Container Management",
     "description": "Comprehensive Proxmox command cheat sheet for managing VMs and containers. Includes commands for VM creation, start, stop, snapshot, disk operations, and container management.",
     "path": "/freedevtools/c/devops/proxmox/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-devops-salt",
-    "name": "Salt Commands - DevOps Automation & Management",
+    "name": "Salt Commands - DevOps Automation \u0026 Management",
     "description": "Master Salt commands for efficient DevOps automation and system management. Learn to manage keys, deploy states, copy files, and execute remote commands with SaltStack.",
     "path": "/freedevtools/c/devops/salt/",
     "category": "cheatsheets"
@@ -4796,7 +4796,7 @@
   },
   {
     "id": "cheatsheets-devops-zfs",
-    "name": "ZFS Commands Cheat Sheet - ZFS File System & Pool Management",
+    "name": "ZFS Commands Cheat Sheet - ZFS File System \u0026 Pool Management",
     "description": "Master ZFS file system and pool management with our comprehensive cheat sheet. Learn essential ZFS commands for creating, managing, and monitoring file systems, pools, snapshots, and clones.",
     "path": "/freedevtools/c/devops/zfs/",
     "category": "cheatsheets"
@@ -4873,7 +4873,7 @@
   },
   {
     "id": "cheatsheets-docker-docker",
-    "name": "Docker Cheatsheet - Essential Commands & Docker Compose Guide",
+    "name": "Docker Cheatsheet - Essential Commands \u0026 Docker Compose Guide",
     "description": "Comprehensive Docker cheatsheet covering essential commands, output manipulation, template variables, permissions, updates, multi-arch builds, and detailed Docker Compose configurations for healthchecks, logging, and dependencies.",
     "path": "/freedevtools/c/docker/docker/",
     "category": "cheatsheets"
@@ -4894,7 +4894,7 @@
   },
   {
     "id": "cheatsheets-dogecoin-curl",
-    "name": "Dogecoin RPC Examples - Convert & Execute Commands",
+    "name": "Dogecoin RPC Examples - Convert \u0026 Execute Commands",
     "description": "Explore Dogecoin RPC examples using curl. Learn to execute commands like getblockchaininfo, getnewaddress, and getbalance with clear JSON-RPC requests.",
     "path": "/freedevtools/c/dogecoin/curl/",
     "category": "cheatsheets"
@@ -5118,7 +5118,7 @@
   },
   {
     "id": "cheatsheets-elasticsearch-elasticsearch",
-    "name": "Elasticsearch Cheatsheet - Essential cURL Commands & API Usage",
+    "name": "Elasticsearch Cheatsheet - Essential cURL Commands \u0026 API Usage",
     "description": "Master Elasticsearch with this comprehensive cheatsheet. Learn essential cURL commands for cluster health, index management, data ingestion, search, reindexing, snapshots, and more.",
     "path": "/freedevtools/c/elasticsearch/elasticsearch/",
     "category": "cheatsheets"
@@ -5174,7 +5174,7 @@
   },
   {
     "id": "cheatsheets-elixir-erlang_interoperability",
-    "name": "Erlang Interoperability - Elixir & Erlang Integration Guide",
+    "name": "Erlang Interoperability - Elixir \u0026 Erlang Integration Guide",
     "description": "Learn how to achieve Erlang interoperability in Elixir. Discover how to call Erlang modules directly from Elixir and integrate them seamlessly.",
     "path": "/freedevtools/c/elixir/erlang_interoperability/",
     "category": "cheatsheets"
@@ -5188,7 +5188,7 @@
   },
   {
     "id": "cheatsheets-elixir-guards",
-    "name": "Elixir Guards Explained - Syntax & Usage",
+    "name": "Elixir Guards Explained - Syntax \u0026 Usage",
     "description": "Understand Elixir guards: learn allowed operators, functions, and syntax for effective guard clause usage. Free online tool for developers.",
     "path": "/freedevtools/c/elixir/guards/",
     "category": "cheatsheets"
@@ -5209,7 +5209,7 @@
   },
   {
     "id": "cheatsheets-elixir-mix",
-    "name": "Mix - Elixir Build Tool & Task Runner",
+    "name": "Mix - Elixir Build Tool \u0026 Task Runner",
     "description": "Learn about Mix, the Elixir build tool for task running, dependency management, and testing. Explore its features and how to create custom tasks.",
     "path": "/freedevtools/c/elixir/mix/",
     "category": "cheatsheets"
@@ -5251,7 +5251,7 @@
   },
   {
     "id": "cheatsheets-elixir-style_guide",
-    "name": "Elixir Style Guide - Coding Standards & Best Practices",
+    "name": "Elixir Style Guide - Coding Standards \u0026 Best Practices",
     "description": "Explore the Elixir style guide for coding standards, best practices, and naming conventions. Learn about module, record, protocol, behavior names, and identifier formatting.",
     "path": "/freedevtools/c/elixir/style_guide/",
     "category": "cheatsheets"
@@ -5279,7 +5279,7 @@
   },
   {
     "id": "cheatsheets-elixir-working_with_files",
-    "name": "Elixir File Operations - Guide & Examples",
+    "name": "Elixir File Operations - Guide \u0026 Examples",
     "description": "Learn how to work with files in Elixir, covering reading, writing, and file manipulation. Explore essential Elixir file I/O functions and best practices.",
     "path": "/freedevtools/c/elixir/working_with_files/",
     "category": "cheatsheets"
@@ -5300,14 +5300,14 @@
   },
   {
     "id": "cheatsheets-frontend-angular",
-    "name": "Angular Cheatsheet - Essential Syntax & Concepts",
+    "name": "Angular Cheatsheet - Essential Syntax \u0026 Concepts",
     "description": "Comprehensive Angular cheatsheet covering bootstrapping, modules, template syntax, directives, forms, decorators, and routing. Your go-to Angular reference.",
     "path": "/freedevtools/c/frontend/angular/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-frontend-angularjs",
-    "name": "AngularJS Cheatsheet - API, Directives, Filters & More",
+    "name": "AngularJS Cheatsheet - API, Directives, Filters \u0026 More",
     "description": "Comprehensive AngularJS cheatsheet covering API documentation, common directives, module functions, filters, and CSS classes. Essential reference for AngularJS developers.",
     "path": "/freedevtools/c/frontend/angularjs/",
     "category": "cheatsheets"
@@ -5328,7 +5328,7 @@
   },
   {
     "id": "cheatsheets-frontend-html5",
-    "name": "HTML5 Cheat Sheet - Essential Tags & Elements for Web Development",
+    "name": "HTML5 Cheat Sheet - Essential Tags \u0026 Elements for Web Development",
     "description": "Comprehensive HTML5 cheat sheet covering essential tags and elements for web development, including structure, text formatting, forms, tables, and new HTML5 semantic tags.",
     "path": "/freedevtools/c/frontend/html5/",
     "category": "cheatsheets"
@@ -5342,7 +5342,7 @@
   },
   {
     "id": "cheatsheets-frontend-react",
-    "name": "React.js Cheatsheet - Core Concepts & API Reference",
+    "name": "React.js Cheatsheet - Core Concepts \u0026 API Reference",
     "description": "Comprehensive React.js cheatsheet covering core concepts, component lifecycle, API references, and PropTypes for efficient web development.",
     "path": "/freedevtools/c/frontend/react/",
     "category": "cheatsheets"
@@ -5370,7 +5370,7 @@
   },
   {
     "id": "cheatsheets-github-actions-if-success-failure-slack",
-    "name": "GitHub Actions Slack Notification - Success & Failure Alerts",
+    "name": "GitHub Actions Slack Notification - Success \u0026 Failure Alerts",
     "description": "Implement GitHub Actions to send Slack notifications for job success or failure. Configure alerts for your CI/CD pipelines with this guide.",
     "path": "/freedevtools/c/github-actions/if-success-failure-slack/",
     "category": "cheatsheets"
@@ -5412,7 +5412,7 @@
   },
   {
     "id": "cheatsheets-gitlab-ci-aws-build-push-ecr_gitlab-ci",
-    "name": "GitLab CI AWS ECR Build & Push - DevOps Automation",
+    "name": "GitLab CI AWS ECR Build \u0026 Push - DevOps Automation",
     "description": "Automate your CI/CD pipeline by building Docker images and pushing them to AWS ECR using GitLab CI. This guide provides a practical example for DevOps Alertmanager.",
     "path": "/freedevtools/c/gitlab-ci/aws-build-push-ecr.gitlab-ci/",
     "category": "cheatsheets"
@@ -5594,7 +5594,7 @@
   },
   {
     "id": "cheatsheets-ide_editors-Eclipse-CheatSheet",
-    "name": "Eclipse Cheatsheet - Keyboard Shortcuts & Tips",
+    "name": "Eclipse Cheatsheet - Keyboard Shortcuts \u0026 Tips",
     "description": "Master Eclipse with this comprehensive cheatsheet. Learn essential keyboard shortcuts, navigation tips, and code style optimization techniques to boost your productivity.",
     "path": "/freedevtools/c/ide_editors/Eclipse-CheatSheet/",
     "category": "cheatsheets"
@@ -5608,7 +5608,7 @@
   },
   {
     "id": "cheatsheets-ide_editors-VSCode-CheatSheet",
-    "name": "VS Code Cheat Sheet - Essential Shortcuts & Tips for Developers",
+    "name": "VS Code Cheat Sheet - Essential Shortcuts \u0026 Tips for Developers",
     "description": "Master VS Code with our comprehensive cheat sheet. Discover essential shortcuts, tips, and tricks for efficient coding, from navigation and editing to debugging and extensions.",
     "path": "/freedevtools/c/ide_editors/VSCode-CheatSheet/",
     "category": "cheatsheets"
@@ -5672,7 +5672,7 @@
   {
     "id": "cheatsheets-ide_editors-vim_2",
     "name": "Vim - A Comprehensive Guide",
-    "description": "Master Vim: a comprehensive guide covering file management, movement, insertion, editing, search & replace, multiple windows, buffers, and more. Learn essential Vim commands and techniques for efficient text editing.",
+    "description": "Master Vim: a comprehensive guide covering file management, movement, insertion, editing, search \u0026 replace, multiple windows, buffers, and more. Learn essential Vim commands and techniques for efficient text editing.",
     "path": "/freedevtools/c/ide_editors/vim_2/",
     "category": "cheatsheets"
   },
@@ -5909,7 +5909,7 @@
   },
   {
     "id": "cheatsheets-languages-javascript",
-    "name": "JavaScript Global Objects & Methods - DevTools",
+    "name": "JavaScript Global Objects \u0026 Methods - DevTools",
     "description": "Explore JavaScript global objects like Object and Array, their properties, and essential methods. Learn how to use Object.assign, Array.from, and more for efficient coding.",
     "path": "/freedevtools/c/languages/javascript/",
     "category": "cheatsheets"
@@ -5972,14 +5972,14 @@
   },
   {
     "id": "cheatsheets-languages-ocaml",
-    "name": "OCaml - Run & Compile OCaml Code",
+    "name": "OCaml - Run \u0026 Compile OCaml Code",
     "description": "Run and compile OCaml code instantly with our free online OCaml tool.  This tool provides an interactive environment and supports various compilation options. Try it now!",
     "path": "/freedevtools/c/languages/ocaml/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-languages-perl",
-    "name": "Perl Interpreter - Execute & Manage Scripts",
+    "name": "Perl Interpreter - Execute \u0026 Manage Scripts",
     "description": "Execute Perl scripts, check syntax, and run one-liners with the Perl interpreter. Learn Perl commands and manage environment variables easily.",
     "path": "/freedevtools/c/languages/perl/",
     "category": "cheatsheets"
@@ -6014,7 +6014,7 @@
   },
   {
     "id": "cheatsheets-languages-php",
-    "name": "PHP Cheatsheet - Syntax & Examples",
+    "name": "PHP Cheatsheet - Syntax \u0026 Examples",
     "description": "Comprehensive PHP cheatsheet covering syntax, arrays, loops, conditions, classes, functions, and regex. Essential PHP examples for developers.",
     "path": "/freedevtools/c/languages/php/",
     "category": "cheatsheets"
@@ -6077,7 +6077,7 @@
   },
   {
     "id": "cheatsheets-languages-python_3",
-    "name": "Python 3 Web Server & Tools - Simple Guide",
+    "name": "Python 3 Web Server \u0026 Tools - Simple Guide",
     "description": "Learn how to quickly set up a simple web server using Python 3, along with handy tools for debugging and JSON handling.  This guide provides clear instructions and examples for beginners and experienced developers alike.",
     "path": "/freedevtools/c/languages/python_3/",
     "category": "cheatsheets"
@@ -6168,7 +6168,7 @@
   },
   {
     "id": "cheatsheets-loki-custom-log-metrics-from-promtail",
-    "name": "Promtail Custom Log Metrics - Create & Query Metrics",
+    "name": "Promtail Custom Log Metrics - Create \u0026 Query Metrics",
     "description": "Learn how to create custom log metrics from Promtail with PromQL. Configure Promtail, expose metrics, and query them in Prometheus for effective log analysis and alerting.",
     "path": "/freedevtools/c/loki/custom-log-metrics-from-promtail/",
     "category": "cheatsheets"
@@ -6217,7 +6217,7 @@
   },
   {
     "id": "cheatsheets-loki-logql",
-    "name": "LogQL Examples & Queries - Loki Log Query Language",
+    "name": "LogQL Examples \u0026 Queries - Loki Log Query Language",
     "description": "Explore comprehensive LogQL examples for Loki, covering filtering, regex, JSON parsing, and metric queries. Learn to effectively query and analyze your logs.",
     "path": "/freedevtools/c/loki/logql/",
     "category": "cheatsheets"
@@ -6252,7 +6252,7 @@
   },
   {
     "id": "cheatsheets-loki-promtail",
-    "name": "Promtail Configuration Examples & Pipelines - Loki Documentation",
+    "name": "Promtail Configuration Examples \u0026 Pipelines - Loki Documentation",
     "description": "Explore Promtail configuration examples and pipeline stages for Loki. Learn how to transform, drop, and parse logs effectively with Promtail.",
     "path": "/freedevtools/c/loki/promtail/",
     "category": "cheatsheets"
@@ -6308,7 +6308,7 @@
   },
   {
     "id": "cheatsheets-makefiles-with-help-section-Makefile",
-    "name": "Makefile Help - Generate & Manage Docker Tasks",
+    "name": "Makefile Help - Generate \u0026 Manage Docker Tasks",
     "description": "Use this Makefile to easily manage Docker Compose tasks: pull dependencies, build, run, stop, and view logs. Includes a comprehensive help section.",
     "path": "/freedevtools/c/makefiles/with-help-section-Makefile/",
     "category": "cheatsheets"
@@ -6350,7 +6350,7 @@
   },
   {
     "id": "cheatsheets-mongodb-shell",
-    "name": "MongoDB Shell Cheatsheet - Commands & Examples",
+    "name": "MongoDB Shell Cheatsheet - Commands \u0026 Examples",
     "description": "Master MongoDB with our comprehensive shell cheatsheet. Learn essential commands for database management, data manipulation, backups, and restores.",
     "path": "/freedevtools/c/mongodb/shell/",
     "category": "cheatsheets"
@@ -6364,7 +6364,7 @@
   },
   {
     "id": "cheatsheets-monitoring-alertmanager_monitoring",
-    "name": "Alertmanager Monitoring & Configuration Guide",
+    "name": "Alertmanager Monitoring \u0026 Configuration Guide",
     "description": "Explore Alertmanager monitoring and configuration with comprehensive guides, external references, and API examples. Learn to set up routing, notifications, and more.",
     "path": "/freedevtools/c/monitoring/alertmanager_monitoring/",
     "category": "cheatsheets"
@@ -6385,14 +6385,14 @@
   },
   {
     "id": "cheatsheets-monitoring-fluent-bit",
-    "name": "Fluent Bit - Log Processor & Forwarder",
+    "name": "Fluent Bit - Log Processor \u0026 Forwarder",
     "description": "Learn how to use Fluent Bit for efficient log processing and forwarding. Explore basic examples and resources for integrating with Docker and other services.",
     "path": "/freedevtools/c/monitoring/fluent-bit/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-monitoring-grafana",
-    "name": "Grafana Cheatsheet - Monitoring & Visualization Guide",
+    "name": "Grafana Cheatsheet - Monitoring \u0026 Visualization Guide",
     "description": "Comprehensive Grafana cheatsheet covering dashboards, tutorials, and datasources like CloudWatch, Elasticsearch, MySQL, Prometheus, and Loki. Optimize your monitoring setup.",
     "path": "/freedevtools/c/monitoring/grafana/",
     "category": "cheatsheets"
@@ -6427,7 +6427,7 @@
   },
   {
     "id": "cheatsheets-nginx-nginx",
-    "name": "Nginx Cheatsheet - Nginx Configuration & Redirects Guide",
+    "name": "Nginx Cheatsheet - Nginx Configuration \u0026 Redirects Guide",
     "description": "Master Nginx configuration with this cheatsheet. Learn about redirects, location priority, and essential Nginx server blocks for web deployment.",
     "path": "/freedevtools/c/nginx/nginx/",
     "category": "cheatsheets"
@@ -6448,7 +6448,7 @@
   },
   {
     "id": "cheatsheets-php-composer-7_19_3",
-    "name": "PHP 7.19.3 Dockerfile - Install Composer & PHPUnit",
+    "name": "PHP 7.19.3 Dockerfile - Install Composer \u0026 PHPUnit",
     "description": "Install PHP 7.19.3 with Composer and PHPUnit in a Dockerfile. This guide provides a complete Dockerfile for setting up a PHP development environment with essential tools.",
     "path": "/freedevtools/c/php-composer/7.19.3/",
     "category": "cheatsheets"
@@ -6469,21 +6469,21 @@
   },
   {
     "id": "cheatsheets-productivity-Discord-CheatSheet",
-    "name": "Discord Cheat Sheet - Keyboard Shortcuts & Emoji Picker",
+    "name": "Discord Cheat Sheet - Keyboard Shortcuts \u0026 Emoji Picker",
     "description": "Master Discord with our cheat sheet! Learn keyboard shortcuts for emoji, GIFs, and more. Boost your productivity on Discord with these essential tips.",
     "path": "/freedevtools/c/productivity/Discord-CheatSheet/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-productivity-Evernote-CheatSheet",
-    "name": "Evernote Cheat Sheet - Shortcuts & Formatting Guide",
+    "name": "Evernote Cheat Sheet - Shortcuts \u0026 Formatting Guide",
     "description": "Master Evernote with our comprehensive cheat sheet. Learn essential shortcuts for formatting code, creating links, and boosting your productivity.",
     "path": "/freedevtools/c/productivity/Evernote-CheatSheet/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-productivity-Obsidian-CheatSheet",
-    "name": "Obsidian Cheat Sheet - Markdown Formatting & Tips",
+    "name": "Obsidian Cheat Sheet - Markdown Formatting \u0026 Tips",
     "description": "Comprehensive Obsidian cheat sheet covering Markdown formatting, callouts, date/time insertion, PDF and YouTube embeds, footnotes, horizontal rules, and animated GIFs. Enhance your note-taking with these essential tips.",
     "path": "/freedevtools/c/productivity/Obsidian-CheatSheet/",
     "category": "cheatsheets"
@@ -6497,7 +6497,7 @@
   },
   {
     "id": "cheatsheets-productivity-Remote-Desktop-CheatSheet",
-    "name": "Remote Desktop Shortcuts & Cheatsheet",
+    "name": "Remote Desktop Shortcuts \u0026 Cheatsheet",
     "description": "Master remote desktop connections with our comprehensive cheatsheet. Learn essential shortcuts for Windows security, task switching, and print screen.",
     "path": "/freedevtools/c/productivity/Remote-Desktop-CheatSheet/",
     "category": "cheatsheets"
@@ -6679,7 +6679,7 @@
   },
   {
     "id": "cheatsheets-prometheus-CONTAINER_METRICS",
-    "name": "Container Metrics - Prometheus & cAdvisor Examples",
+    "name": "Container Metrics - Prometheus \u0026 cAdvisor Examples",
     "description": "Explore Prometheus queries and Grafana variables for container metrics, leveraging cAdvisor data for ECS clusters. Monitor CPU, memory, and network usage effectively.",
     "path": "/freedevtools/c/prometheus/CONTAINER_METRICS/",
     "category": "cheatsheets"
@@ -6707,14 +6707,14 @@
   },
   {
     "id": "cheatsheets-prometheus-prometheus",
-    "name": "Prometheus Cheatsheet - PromQL Queries & Configuration",
+    "name": "Prometheus Cheatsheet - PromQL Queries \u0026 Configuration",
     "description": "Comprehensive Prometheus cheatsheet with PromQL query examples, scrape configurations, recording rules, and external resources for effective monitoring.",
     "path": "/freedevtools/c/prometheus/prometheus/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-prometheus-prometheus_2",
-    "name": "Prometheus Configuration - Monitoring & Alerting Setup",
+    "name": "Prometheus Configuration - Monitoring \u0026 Alerting Setup",
     "description": "Configure Prometheus for effective monitoring and alerting. This guide provides a detailed look at Prometheus configuration files, including scrape intervals, alert managers, and job configurations.",
     "path": "/freedevtools/c/prometheus/prometheus_2/",
     "category": "cheatsheets"
@@ -6749,7 +6749,7 @@
   },
   {
     "id": "cheatsheets-pyspark-advanced_operations",
-    "name": "PySpark Advanced Operations - Dataframe Transformations & UDFs",
+    "name": "PySpark Advanced Operations - Dataframe Transformations \u0026 UDFs",
     "description": "Explore advanced PySpark operations including dataframe repartitioning and User Defined Functions (UDFs) for custom data transformations. Learn to optimize data processing.",
     "path": "/freedevtools/c/pyspark/advanced_operations/",
     "category": "cheatsheets"
@@ -6784,7 +6784,7 @@
   },
   {
     "id": "cheatsheets-pyspark-date_timestamp_operations",
-    "name": "PySpark Date & Timestamp Operations - Convert, Format, Calculate",
+    "name": "PySpark Date \u0026 Timestamp Operations - Convert, Format, Calculate",
     "description": "Master PySpark date and timestamp operations. Convert strings to dates/timestamps, extract date parts, add/subtract days/months, and calculate date differences.",
     "path": "/freedevtools/c/pyspark/date_timestamp_operations/",
     "category": "cheatsheets"
@@ -6805,7 +6805,7 @@
   },
   {
     "id": "cheatsheets-pyspark-string_operations",
-    "name": "PySpark String Operations - Filter & Manipulate Text Data",
+    "name": "PySpark String Operations - Filter \u0026 Manipulate Text Data",
     "description": "Master PySpark string operations for efficient text data manipulation. Learn to filter, transform, and extract information using PySpark",
     "path": "/freedevtools/c/pyspark/string_operations/",
     "category": "cheatsheets"
@@ -6819,7 +6819,7 @@
   },
   {
     "id": "cheatsheets-pyspark-useful_functions_transformations",
-    "name": "PySpark Transformations: Flatten & Lookup Functions",
+    "name": "PySpark Transformations: Flatten \u0026 Lookup Functions",
     "description": "Explore PySpark transformations for flattening nested data and performing lookup replacements. Enhance your data processing with these useful Python functions.",
     "path": "/freedevtools/c/pyspark/useful_functions_transformations/",
     "category": "cheatsheets"
@@ -6861,7 +6861,7 @@
   },
   {
     "id": "cheatsheets-python-python",
-    "name": "Python - Online Python Interpreter & Compiler",
+    "name": "Python - Online Python Interpreter \u0026 Compiler",
     "description": "Run Python code online with our free interpreter and compiler. Execute Python scripts, test code snippets, and learn Python easily.",
     "path": "/freedevtools/c/python/python/",
     "category": "cheatsheets"
@@ -6994,7 +6994,7 @@
   },
   {
     "id": "cheatsheets-security-certutil",
-    "name": "Certutil Commands - Manage Certificates & Files",
+    "name": "Certutil Commands - Manage Certificates \u0026 Files",
     "description": "Explore essential Certutil commands for managing certificates, encoding/decoding files, and calculating file hashes. A comprehensive guide for Windows users.",
     "path": "/freedevtools/c/security/certutil/",
     "category": "cheatsheets"
@@ -7043,7 +7043,7 @@
   },
   {
     "id": "cheatsheets-security-eslint",
-    "name": "ESLint - JavaScript Linter & Code Formatter",
+    "name": "ESLint - JavaScript Linter \u0026 Code Formatter",
     "description": "Use ESLint to find and fix problems in your JavaScript code. Learn how to initialize, lint, and configure ESLint with various command-line options for effective code quality.",
     "path": "/freedevtools/c/security/eslint/",
     "category": "cheatsheets"
@@ -7057,7 +7057,7 @@
   },
   {
     "id": "cheatsheets-security-flake8",
-    "name": "Flake8 - Python Code Linter & Style Checker",
+    "name": "Flake8 - Python Code Linter \u0026 Style Checker",
     "description": "Use Flake8 to check your Python code for style guide violations and programming errors. Learn commands to lint files, directories, exclude paths, and customize settings.",
     "path": "/freedevtools/c/security/flake8/",
     "category": "cheatsheets"
@@ -7106,7 +7106,7 @@
   },
   {
     "id": "cheatsheets-security-js-beautify",
-    "name": "JS Beautify - Format & Prettify Code Online",
+    "name": "JS Beautify - Format \u0026 Prettify Code Online",
     "description": "Format and prettify your JavaScript, JSON, CSS, and HTML code with JS Beautify. Use our free online tool to instantly improve code readability and structure.",
     "path": "/freedevtools/c/security/js-beautify/",
     "category": "cheatsheets"
@@ -7120,7 +7120,7 @@
   },
   {
     "id": "cheatsheets-security-jshint",
-    "name": "JSHint - JavaScript Code Linter & Validator",
+    "name": "JSHint - JavaScript Code Linter \u0026 Validator",
     "description": "Validate and detect errors in your JavaScript code with JSHint. Improve code quality and identify potential problems with this essential developer tool.",
     "path": "/freedevtools/c/security/jshint/",
     "category": "cheatsheets"
@@ -7134,7 +7134,7 @@
   },
   {
     "id": "cheatsheets-security-jsonlint",
-    "name": "JSON Validator & Formatter - Validate and Pretty Print JSON",
+    "name": "JSON Validator \u0026 Formatter - Validate and Pretty Print JSON",
     "description": "Validate and pretty-print JSON data instantly with JSONLint. Fix syntax errors, format code beautifully, and ensure valid JSON structure. Free online tool.",
     "path": "/freedevtools/c/security/jsonlint/",
     "category": "cheatsheets"
@@ -7162,7 +7162,7 @@
   },
   {
     "id": "cheatsheets-security-metasploit",
-    "name": "Metasploit Framework - Penetration Testing & Exploitation Tool",
+    "name": "Metasploit Framework - Penetration Testing \u0026 Exploitation Tool",
     "description": "Master penetration testing with Metasploit Framework. Learn to use exploits, payloads, and handlers for ethical hacking and security assessments.",
     "path": "/freedevtools/c/security/metasploit/",
     "category": "cheatsheets"
@@ -7197,21 +7197,21 @@
   },
   {
     "id": "cheatsheets-security-nmap",
-    "name": "Nmap Commands - Network Scanning & Security Auditing",
+    "name": "Nmap Commands - Network Scanning \u0026 Security Auditing",
     "description": "Explore essential Nmap commands for network scanning, port discovery, version detection, and security auditing. Master Nmap for effective network reconnaissance.",
     "path": "/freedevtools/c/security/nmap/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-security-nping",
-    "name": "Nping - Network Packet Generator & Scanner",
+    "name": "Nping - Network Packet Generator \u0026 Scanner",
     "description": "Utilize Nping to generate custom network packets and scan hosts. Explore TCP, UDP, ARP, and ICMP packet crafting with Nping for network security analysis.",
     "path": "/freedevtools/c/security/nping/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-security-openssl",
-    "name": "OpenSSL Commands - Certificate & Security Management Tool",
+    "name": "OpenSSL Commands - Certificate \u0026 Security Management Tool",
     "description": "Master OpenSSL commands for certificate management, key generation, encryption, and more. This comprehensive cheat-sheet provides essential OpenSSL commands for developers and system administrators.",
     "path": "/freedevtools/c/security/openssl/",
     "category": "cheatsheets"
@@ -7260,14 +7260,14 @@
   },
   {
     "id": "cheatsheets-security-pylama",
-    "name": "Pylama - Python & JavaScript Code Auditing Tool",
+    "name": "Pylama - Python \u0026 JavaScript Code Auditing Tool",
     "description": "Audit your Python and JavaScript code with Pylama. Identify errors and style issues using this powerful command-line tool. Free and efficient code analysis.",
     "path": "/freedevtools/c/security/pylama/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-security-pylint",
-    "name": "Pylint - Python Code Analysis & Linting Tool",
+    "name": "Pylint - Python Code Analysis \u0026 Linting Tool",
     "description": "Analyze Python code with Pylint for errors, coding standards, and code smells. Improve code quality and maintainability with this essential static analysis tool.",
     "path": "/freedevtools/c/security/pylint/",
     "category": "cheatsheets"
@@ -7302,7 +7302,7 @@
   },
   {
     "id": "cheatsheets-security-stylelint",
-    "name": "Stylelint - CSS Linter & Formatter",
+    "name": "Stylelint - CSS Linter \u0026 Formatter",
     "description": "Lint CSS code with Stylelint, a powerful linter to avoid errors and enforce style guides. Format and fix your stylesheets easily. Free online tool.",
     "path": "/freedevtools/c/security/stylelint/",
     "category": "cheatsheets"
@@ -7386,7 +7386,7 @@
   },
   {
     "id": "cheatsheets-terraform-terraform",
-    "name": "Terraform Cheatsheets & Examples - Infrastructure as Code Guide",
+    "name": "Terraform Cheatsheets \u0026 Examples - Infrastructure as Code Guide",
     "description": "Comprehensive Terraform cheatsheets and examples for infrastructure as code. Learn CLI commands, merge functions, validations, and best practices for managing cloud resources.",
     "path": "/freedevtools/c/terraform/terraform/",
     "category": "cheatsheets"
@@ -7449,7 +7449,7 @@
   },
   {
     "id": "cheatsheets-tools-cleancss",
-    "name": "Clean CSS - Minify & Optimize CSS Files Online",
+    "name": "Clean CSS - Minify \u0026 Optimize CSS Files Online",
     "description": "Optimize and minify your CSS files with Clean CSS. Reduce file size, improve loading speed, and enhance performance. Free online tool for developers.",
     "path": "/freedevtools/c/tools/cleancss/",
     "category": "cheatsheets"
@@ -7484,7 +7484,7 @@
   },
   {
     "id": "cheatsheets-tools-curl",
-    "name": "Curl Command Line Tool - Fetch Data & Interact with APIs",
+    "name": "Curl Command Line Tool - Fetch Data \u0026 Interact with APIs",
     "description": "Learn to use the Curl command-line tool for fetching data, interacting with APIs, and transferring files. Explore essential Curl commands and options for developers.",
     "path": "/freedevtools/c/tools/curl/",
     "category": "cheatsheets"
@@ -7519,14 +7519,14 @@
   },
   {
     "id": "cheatsheets-tools-elasticsearch",
-    "name": "Elasticsearch Commands - Manage & Monitor Your Cluster",
+    "name": "Elasticsearch Commands - Manage \u0026 Monitor Your Cluster",
     "description": "Access essential Elasticsearch commands for managing and monitoring your cluster. Learn how to check status, restart services, and verify versions with our quick reference guide.",
     "path": "/freedevtools/c/tools/elasticsearch/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-tools-emmet",
-    "name": "Emmet Cheat Sheet - Generate HTML & CSS Snippets Faster",
+    "name": "Emmet Cheat Sheet - Generate HTML \u0026 CSS Snippets Faster",
     "description": "Master Emmet with this comprehensive cheat sheet. Learn to generate HTML and CSS code snippets rapidly using Emmet expressions for faster web development.",
     "path": "/freedevtools/c/tools/emmet/",
     "category": "cheatsheets"
@@ -7554,7 +7554,7 @@
   },
   {
     "id": "cheatsheets-tools-geo",
-    "name": "Geo Tool - IP Geolocation & Network Info",
+    "name": "Geo Tool - IP Geolocation \u0026 Network Info",
     "description": "Get IP geolocation data, WAN, LAN, router, DNS, and MAC addresses with the Geo tool. Fast and free network information for developers.",
     "path": "/freedevtools/c/tools/geo/",
     "category": "cheatsheets"
@@ -7575,7 +7575,7 @@
   },
   {
     "id": "cheatsheets-tools-glkfu",
-    "name": "Glkfu - Compile & Build Linux Kernel Packages",
+    "name": "Glkfu - Compile \u0026 Build Linux Kernel Packages",
     "description": "Easily compile and build Debian packages for Linux kernels with Glkfu. Download, build, and manage kernel versions efficiently.",
     "path": "/freedevtools/c/tools/glkfu/",
     "category": "cheatsheets"
@@ -7596,14 +7596,14 @@
   },
   {
     "id": "cheatsheets-tools-gron",
-    "name": "Gron - JSON to Gron Converter & Grep Utility",
+    "name": "Gron - JSON to Gron Converter \u0026 Grep Utility",
     "description": "Convert JSON to Gron format for easier grepping and analysis. Flatten JSON into discrete assignments with Gron, a powerful command-line tool for developers.",
     "path": "/freedevtools/c/tools/gron/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-tools-heroku",
-    "name": "Heroku CLI Guide - Install, Deploy & Manage Apps",
+    "name": "Heroku CLI Guide - Install, Deploy \u0026 Manage Apps",
     "description": "Comprehensive guide to Heroku CLI: install, login, create apps, deploy with Git and Docker, and manage your applications effectively.",
     "path": "/freedevtools/c/tools/heroku/",
     "category": "cheatsheets"
@@ -7694,7 +7694,7 @@
   },
   {
     "id": "cheatsheets-tools-nginx",
-    "name": "Nginx Configuration Guide - Essential Commands & Settings",
+    "name": "Nginx Configuration Guide - Essential Commands \u0026 Settings",
     "description": "Master Nginx configuration with this comprehensive guide. Learn essential commands, server block settings, redirects, reverse proxy, HTTPS, and load balancing for web servers.",
     "path": "/freedevtools/c/tools/nginx/",
     "category": "cheatsheets"
@@ -7778,7 +7778,7 @@
   },
   {
     "id": "cheatsheets-tools-ocamlobjinfo",
-    "name": "OCaml Object Info - Inspect OCaml Bytecode & Native Files",
+    "name": "OCaml Object Info - Inspect OCaml Bytecode \u0026 Native Files",
     "description": "Inspect OCaml object files (.cmo, .cmx, .cma, .cmxa) and bytecode executables with OCamlobjinfo. Get detailed information about units and libraries.",
     "path": "/freedevtools/c/tools/ocamlobjinfo/",
     "category": "cheatsheets"
@@ -7813,7 +7813,7 @@
   },
   {
     "id": "cheatsheets-tools-oeis",
-    "name": "OEIS CLI Tool - Search & Describe Integer Sequences",
+    "name": "OEIS CLI Tool - Search \u0026 Describe Integer Sequences",
     "description": "Easily search, describe, and find implementations for OEIS integer sequences using the OEIS CLI tool. Get sequence details and code examples instantly.",
     "path": "/freedevtools/c/tools/oeis/",
     "category": "cheatsheets"
@@ -7869,21 +7869,21 @@
   },
   {
     "id": "cheatsheets-tools-rclone",
-    "name": "Rclone - Cloud File Sync & Management Tool",
+    "name": "Rclone - Cloud File Sync \u0026 Management Tool",
     "description": "Manage cloud storage with Rclone, a powerful command-line tool for syncing, copying, and moving files across various cloud services like a pro.",
     "path": "/freedevtools/c/tools/rclone/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-tools-read",
-    "name": "Bash Read Command - Read Input & Split Fields",
+    "name": "Bash Read Command - Read Input \u0026 Split Fields",
     "description": "Master the Bash read command to read input and split fields. Learn to prompt users, parse configuration files, and efficiently handle data with this essential shell utility.",
     "path": "/freedevtools/c/tools/read/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-tools-rfc",
-    "name": "RFC Search Tool - Find Internet Standards & Documentation",
+    "name": "RFC Search Tool - Find Internet Standards \u0026 Documentation",
     "description": "Search and retrieve Request for Comments (RFC) documents easily with our RFC Search Tool. Find internet standards, technical specifications, and community texts.",
     "path": "/freedevtools/c/tools/rfc/",
     "category": "cheatsheets"
@@ -7918,21 +7918,21 @@
   },
   {
     "id": "cheatsheets-tools-spring",
-    "name": "Spring Boot Project Generator - Create & Run Apps Free",
+    "name": "Spring Boot Project Generator - Create \u0026 Run Apps Free",
     "description": "Generate Spring Boot projects instantly with Spring Initializr. Create web apps with essential dependencies and run them with Maven. Free online tool.",
     "path": "/freedevtools/c/tools/spring/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-tools-standard",
-    "name": "JavaScript Standard Style Guide - Lint & Format Code",
+    "name": "JavaScript Standard Style Guide - Lint \u0026 Format Code",
     "description": "Format and lint your JavaScript code with StandardJS. Ensure consistent code style and catch errors easily. Free online tool for developers.",
     "path": "/freedevtools/c/tools/standard/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-tools-sublime_text",
-    "name": "Sublime Text Cheatsheet - Essential Shortcuts & Packages",
+    "name": "Sublime Text Cheatsheet - Essential Shortcuts \u0026 Packages",
     "description": "Master Sublime Text 3 with this comprehensive cheatsheet. Discover essential shortcuts, must-have packages, and tips for syncing settings. Boost your productivity!",
     "path": "/freedevtools/c/tools/sublime_text/",
     "category": "cheatsheets"
@@ -7981,14 +7981,14 @@
   },
   {
     "id": "cheatsheets-tools-vim",
-    "name": "Vim Cheatsheet - Essential Commands & Shortcuts",
+    "name": "Vim Cheatsheet - Essential Commands \u0026 Shortcuts",
     "description": "Comprehensive Vim cheatsheet with essential commands, shortcuts, and plugin usage for efficient text editing. Master Vim for programming and development.",
     "path": "/freedevtools/c/tools/vim/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-tools-vscode",
-    "name": "VS Code Cheatsheet - Shortcuts & Extensions for Developers",
+    "name": "VS Code Cheatsheet - Shortcuts \u0026 Extensions for Developers",
     "description": "Comprehensive VS Code cheatsheet with essential shortcuts for Linux, basic editing, and a curated list of useful extensions for HTML, CSS, JavaScript, PHP, Git, and more. Optimize your workflow.",
     "path": "/freedevtools/c/tools/vscode/",
     "category": "cheatsheets"
@@ -8002,7 +8002,7 @@
   },
   {
     "id": "cheatsheets-tools-xo",
-    "name": "XO Linter & Formatter - JavaScript/TypeScript Code Tool",
+    "name": "XO Linter \u0026 Formatter - JavaScript/TypeScript Code Tool",
     "description": "Format and lint JavaScript/TypeScript code with XO. Opinionated and minimal code linter and formatter for efficient development.",
     "path": "/freedevtools/c/tools/xo/",
     "category": "cheatsheets"
@@ -8037,7 +8037,7 @@
   },
   {
     "id": "cheatsheets-unreal_engine_5-AActor",
-    "name": "Unreal Engine 5 AActor - Actor Manipulation & Events",
+    "name": "Unreal Engine 5 AActor - Actor Manipulation \u0026 Events",
     "description": "Learn how to manage AActor events like BeginPlay and Tick, and manipulate actor properties like location, rotation, and scale in Unreal Engine 5.",
     "path": "/freedevtools/c/unreal_engine_5/AActor/",
     "category": "cheatsheets"
@@ -8051,7 +8051,7 @@
   },
   {
     "id": "cheatsheets-unreal_engine_5-Basics",
-    "name": "Unreal Engine 5 Basics: Control Flow & Logic",
+    "name": "Unreal Engine 5 Basics: Control Flow \u0026 Logic",
     "description": "Master Unreal Engine 5 basics with this guide on control flow and logic, covering branches, loops, and conditional execution for game development.",
     "path": "/freedevtools/c/unreal_engine_5/Basics/",
     "category": "cheatsheets"
@@ -8100,14 +8100,14 @@
   },
   {
     "id": "cheatsheets-utils-font-awesome",
-    "name": "Font Awesome Cheatsheet - Icons & Resources",
+    "name": "Font Awesome Cheatsheet - Icons \u0026 Resources",
     "description": "Access a comprehensive Font Awesome cheatsheet with icons and essential resources. Quickly find and use Font Awesome icons for your projects.",
     "path": "/freedevtools/c/utils/font-awesome/",
     "category": "cheatsheets"
   },
   {
     "id": "cheatsheets-utils-iterm",
-    "name": "iTerm Cheatsheet - Essential Commands & Shortcuts for Developers",
+    "name": "iTerm Cheatsheet - Essential Commands \u0026 Shortcuts for Developers",
     "description": "Access a comprehensive iTerm cheatsheet with essential commands and shortcuts for developers. Boost your productivity with this quick reference guide.",
     "path": "/freedevtools/c/utils/iterm/",
     "category": "cheatsheets"
@@ -8128,7 +8128,7 @@
   },
   {
     "id": "cheatsheets-utils-vagrant",
-    "name": "Vagrant Cheatsheet - Essential Commands & Tips",
+    "name": "Vagrant Cheatsheet - Essential Commands \u0026 Tips",
     "description": "Master Vagrant with our comprehensive cheatsheet. Find essential commands, configurations, and tips for managing virtual environments efficiently.",
     "path": "/freedevtools/c/utils/vagrant/",
     "category": "cheatsheets"
@@ -8170,7 +8170,7 @@
   },
   {
     "id": "cheatsheets-version_control-GitHub-CheatSheet",
-    "name": "GitHub Cheat Sheet - Essential Git Commands & Tips",
+    "name": "GitHub Cheat Sheet - Essential Git Commands \u0026 Tips",
     "description": "Master GitHub with this comprehensive cheat sheet. Find essential Git commands, tips for managing repositories, closing issues, and linking between projects.",
     "path": "/freedevtools/c/version_control/GitHub-CheatSheet/",
     "category": "cheatsheets"
