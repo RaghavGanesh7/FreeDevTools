@@ -9,25 +9,25 @@ run:
 	go run .
 
 gen-tools:
-	go run . category tools
+	go run . category=tools
 
 gen-tldr:
-	go run . category tldr
+	go run . category=tldr
 
 gen-emojis:
-	go run . category emojis
+	go run . category=emojis
 
 gen-svg-icons:
-	go run . category svg_icons
+	go run . category=svg_icons
 
 gen-png-icons:
-	go run . category png_icons
+	go run . category=png_icons
 
 gen-cheatsheets:
-	go run . category cheatsheets
+	go run . category=cheatsheets
 
 gen-mcp:
-	go run . category mcp
+	go run . category=mcp
 
 gen-all:
 	go run .
