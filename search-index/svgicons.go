@@ -14,7 +14,7 @@ func generateSVGIconsData(ctx context.Context) ([]SVGIconData, error) {
 	fmt.Println("🎨 Generating SVG icons data...")
 
 	// Path to cluster.json file
-	clusterPath := "../frontend/src/pages/svg_icons/cluster_svg.json"
+	clusterPath := "../frontend/data/cluster_svg.json"
 
 	content, err := ioutil.ReadFile(clusterPath)
 	if err != nil {

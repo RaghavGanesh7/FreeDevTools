@@ -14,7 +14,7 @@ func generatePNGIconsData(ctx context.Context) ([]SVGIconData, error) {
 	fmt.Println("🖼️ Generating PNG icons data...")
 
 	// Path to PNG cluster.json file
-	clusterPath := "../frontend/src/pages/png_icons/cluster_png.json"
+	clusterPath := "../frontend/data/cluster_png.json"
 
 	content, err := ioutil.ReadFile(clusterPath)
 	if err != nil {
