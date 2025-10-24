@@ -116,8 +116,9 @@ func generateIDFromPath(path string) string {
 	reg := regexp.MustCompile(`[^a-zA-Z0-9\-_]`)
 	cleanPath = reg.ReplaceAllString(cleanPath, "_")
 
-	return fmt.Sprintf("tldr-%s", cleanPath)
+	return fmt.Sprintf("tldr-%s", sanitizeID(cleanPath))
 }
+
 
 func capitalizeFirstLetter(name string) string {
 	if len(name) == 0 {

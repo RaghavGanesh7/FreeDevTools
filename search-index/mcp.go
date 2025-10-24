@@ -136,7 +136,7 @@ func generateMCPData(ctx context.Context) ([]MCPData, error) {
 			}
 
 			// Create a unique ID for the repository
-			id := fmt.Sprintf("mcp-%s-%s", categoryKey, repoKey)
+			id := fmt.Sprintf("mcp-%s-%s", sanitizeID(categoryKey), sanitizeID(repoKey))
 
 			// Generate a path for the repository
 			path := fmt.Sprintf("/freedevtools/mcp/%s/%s/", categoryKey, repoKey)
@@ -221,3 +221,4 @@ func runMCPOnly(ctx context.Context, start time.Time) {
 
 	fmt.Printf("💾 Data saved to output/mcp.json\n")
 }
+

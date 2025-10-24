@@ -102,8 +102,8 @@ func generateIconIDFromPath(path string) string {
 	reg := regexp.MustCompile(`[^a-zA-Z0-9\-_]`)
 	cleanPath = reg.ReplaceAllString(cleanPath, "_")
 	
-	// Add prefix with hyphen
-	return fmt.Sprintf("svg-icons-%s", cleanPath)
+	// Add prefix with hyphen and sanitize
+	return fmt.Sprintf("svg-icons-%s", sanitizeID(cleanPath))
 }
 
 func formatIconName(iconName string) string {
@@ -121,3 +121,4 @@ func formatIconName(iconName string) string {
 
 	return strings.Join(words, " ")
 }
+

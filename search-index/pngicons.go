@@ -90,5 +90,6 @@ func generatePNGIconIDFromPath(path string) string {
 	
 	reg := regexp.MustCompile(`[^a-zA-Z0-9\-_]`)
 	cleanPath = reg.ReplaceAllString(cleanPath, "_")
-	return fmt.Sprintf("png-icons-%s", cleanPath)
+	return fmt.Sprintf("png-icons-%s", sanitizeID(cleanPath))
 }
+
