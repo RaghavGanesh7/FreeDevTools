@@ -81,7 +81,13 @@ func generatePNGIconsData(ctx context.Context) ([]SVGIconData, error) {
 
 func generatePNGIconIDFromPath(path string) string {
 	cleanPath := strings.Replace(path, "/freedevtools/png_icons/", "", 1)
+	
+	// Remove trailing slash if present
+	cleanPath = strings.TrimSuffix(cleanPath, "/")
+	
+	// Replace remaining slashes with dashes
 	cleanPath = strings.Replace(cleanPath, "/", "-", -1)
+	
 	reg := regexp.MustCompile(`[^a-zA-Z0-9\-_]`)
 	cleanPath = reg.ReplaceAllString(cleanPath, "_")
 	return fmt.Sprintf("png-icons-%s", cleanPath)
