@@ -35,7 +35,7 @@ gen-all:
 sync-search-index:
 	@echo "🔄 Starting search index sync process..."
 	@echo "📊 Step 1: Generating search index files..."
-	go run .
+	./search-index
 	@echo "📤 Step 2: Transferring files to remote server..."
 	./transfer-index-files.sh
 	@echo "✅ Search index sync completed!"
