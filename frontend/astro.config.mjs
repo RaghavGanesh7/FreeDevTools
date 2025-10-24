@@ -11,6 +11,10 @@ export default defineConfig({
   output: 'static',
   base: "/freedevtools",
   trailingSlash: 'ignore',
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'hover'
+  },
   integrations: [
     react(),
     tailwind(),
