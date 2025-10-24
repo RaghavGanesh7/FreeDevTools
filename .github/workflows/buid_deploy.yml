@@ -217,7 +217,6 @@ jobs:
           ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
       - name: Generate search index data and deploy to server
-        if: steps.detect-changes.outputs.should_deploy == 'true'
         run: |
           echo "🔍 Generating search index data..."
           cd search-index
