@@ -91,11 +91,17 @@ func generateSVGIconsData(ctx context.Context) ([]SVGIconData, error) {
 func generateIconIDFromPath(path string) string {
 	// Remove the base path (similar to Python logic)
 	cleanPath := strings.Replace(path, "/freedevtools/svg_icons/", "", 1)
-	// Replace slashes with hyphens
+	
+	// Remove trailing slash if present
+	cleanPath = strings.TrimSuffix(cleanPath, "/")
+	
+	// Replace remaining slashes with hyphens
 	cleanPath = strings.Replace(cleanPath, "/", "-", -1)
+	
 	// Replace any invalid characters with underscores
 	reg := regexp.MustCompile(`[^a-zA-Z0-9\-_]`)
 	cleanPath = reg.ReplaceAllString(cleanPath, "_")
+	
 	// Add prefix with hyphen
 	return fmt.Sprintf("svg-icons-%s", cleanPath)
 }
