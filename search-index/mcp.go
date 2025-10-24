@@ -8,6 +8,7 @@ import (
 	"os"
 	"path/filepath"
 	"sort"
+	"strings"
 	"time"
 )
 
@@ -149,10 +150,13 @@ func generateMCPData(ctx context.Context) ([]MCPData, error) {
 				description = fmt.Sprintf("MCP server: %s", repo.Name)
 			}
 
+			// Format the repository name properly
+			formattedName := formatRepositoryName(repo.Name)
+
 			// Create MCPData entry
 			mcpEntry := MCPData{
 				ID:          id,
-				Name:        repo.Name,
+				Name:        formattedName,
 				Description: description,
 				Path:        path,
 				Category:    "mcp",
@@ -171,6 +175,14 @@ func generateMCPData(ctx context.Context) ([]MCPData, error) {
 	})
 
 	return mcpData, nil
+}
+
+func formatRepositoryName(name string) string {
+	// Only capitalize the first letter, keep everything else as is
+	if len(name) == 0 {
+		return name
+	}
+	return strings.ToUpper(string(name[0])) + strings.ToLower(name[1:])
 }
 
 // runMCPOnly runs only the MCP data generation
