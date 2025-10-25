@@ -10,6 +10,8 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	jargon_stemmer "search-index/jargon-stemmer"
 )
 
 func main() {
@@ -20,8 +22,15 @@ func main() {
 		log.Fatalf("Failed to create output directory: %v", err)
 	}
 
-	// Parse command line arguments for category
+	// Parse command line arguments for category and stem
 	category := parseCategory()
+	stemArgs := parseStem()
+
+	if stemArgs != "" {
+		fmt.Printf("🚀 Starting stem processing...\n")
+		runStemProcessing(stemArgs)
+		return
+	}
 
 	if category != "" {
 		fmt.Printf("🚀 Starting %s data generation...\n", category)
@@ -282,6 +291,40 @@ func parseCategory() string {
 	return ""
 }
 
+func parseStem() string {
+	for _, arg := range os.Args[1:] {
+		if strings.HasPrefix(arg, "stem=") {
+			return strings.TrimPrefix(arg, "stem=")
+		}
+	}
+	return ""
+}
+
+func runStemProcessing(stemArgs string) {
+	start := time.Now()
+	
+	// Use the file path directly
+	filePath := strings.TrimSpace(stemArgs)
+	
+	// Check if the file exists
+	if _, err := os.Stat(filePath); os.IsNotExist(err) {
+		fmt.Printf("❌ File not found: %s\n", filePath)
+		fmt.Println("Make sure the file exists.")
+		os.Exit(1)
+	}
+	
+	fmt.Printf("🔍 Processing file: %s\n", filePath)
+	
+	// Use the reusable function from jargon-stemmer package
+	if err := jargon_stemmer.ProcessJSONFile(filePath); err != nil {
+		log.Fatalf("❌ Stem processing failed: %v", err)
+	}
+	
+	elapsed := time.Since(start)
+	fmt.Printf("\n🎉 Stem processing completed in %v\n", elapsed)
+	fmt.Printf("💾 Processed file: %s\n", filePath)
+}
+
 func runSingleCategory(category string) {
 	ctx, cancel := context.WithTimeout(context.Background(), 2*time.Minute)
 	defer cancel()
@@ -307,6 +350,7 @@ func runSingleCategory(category string) {
 		fmt.Printf("❌ Unknown category: %s\n", category)
 		fmt.Println("Available categories: tools, tldr, emojis, svg_icons, png_icons, cheatsheets, mcp")
 		fmt.Println("Usage: go run main.go category=tools")
+		fmt.Println("Or for stem processing: go run main.go stem=output/emojis.json")
 		os.Exit(1)
 	}
 }
