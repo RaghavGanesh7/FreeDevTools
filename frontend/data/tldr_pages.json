@@ -13875,9 +13875,9 @@
     "path": "/freedevtools/tldr/get/get_iplayer/"
   },
   {
-    "name": "getadusers.py",
+    "name": "getadusers-py",
     "description": "Extract Active Directory users with GetADUsers. Retrieve user attributes like last logon time, email, and more. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/get/getadusers.py/"
+    "path": "/freedevtools/tldr/get/getadusers-py/"
   },
   {
     "name": "getarch.py",
@@ -13890,9 +13890,9 @@
     "path": "/freedevtools/tldr/get/geth/"
   },
   {
-    "name": "getnpusers.py",
+    "name": "getnpusers-py",
     "description": "Enumerate Active Directory users with GetNPUsers.py to identify potential AS-REP roasting targets, enabling penetration testers to uncover security vulnerabilities. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/get/getnpusers.py/"
+    "path": "/freedevtools/tldr/get/getnpusers-py/"
   },
   {
     "name": "getopts",
