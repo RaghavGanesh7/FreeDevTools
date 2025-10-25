@@ -53,7 +53,7 @@ interface SearchResponse {
 }
 
 // Search function for Meilisearch
-async function searchUtilities(query: string, category?: string, page: number = 1): Promise<SearchResponse> {
+async function searchUtilities(query: string, categories: string[] = [], page: number = 1): Promise<SearchResponse> {
   try {
     const searchBody: any = {
       q: query,
@@ -63,11 +63,18 @@ async function searchUtilities(query: string, category?: string, page: number = 
     };
 
     // Add category filter if specified
-    if (category && category !== "all") {
-      if (category === "emoji") {
-        searchBody.filter = "category = 'emojis'";
+    if (categories.length > 0) {
+      const filterConditions = categories.map(category => {
+        if (category === "emoji") {
+          return "category = 'emojis'";
+        }
+        return `category = '${category}'`;
+      });
+
+      if (filterConditions.length === 1) {
+        searchBody.filter = filterConditions[0];
       } else {
-        searchBody.filter = `category = '${category}'`;
+        searchBody.filter = filterConditions.join(" OR ");
       }
     }
 
@@ -113,6 +120,7 @@ const SearchPage: React.FC = () => {
   const [loading, setLoading] = useState(false);
   const [loadingMore, setLoadingMore] = useState(false);
   const [activeCategory, setActiveCategory] = useState<string>("all");
+  const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [allResults, setAllResults] = useState<SearchResult[]>([]);
   const [availableCategories, setAvailableCategories] = useState<{ [key: string]: number }>({});
@@ -198,7 +206,7 @@ const SearchPage: React.FC = () => {
       setCurrentPage(1); // Reset to first page for new search
       setAvailableCategories({}); // Clear counts while loading
       try {
-        const searchResponse = await searchUtilities(query, activeCategory, 1);
+        const searchResponse = await searchUtilities(query, getEffectiveCategories(), 1);
         console.log("Search results:", searchResponse);
         setResults(searchResponse.hits || []);
         setAllResults(searchResponse.hits || []); // Store all accumulated results
@@ -222,7 +230,7 @@ const SearchPage: React.FC = () => {
     }, 300);
 
     return () => clearTimeout(timeoutId);
-  }, [query, activeCategory]);
+  }, [query, activeCategory, selectedCategories]);
 
   // Reset page and clear results when category changes
   useEffect(() => {
@@ -230,7 +238,7 @@ const SearchPage: React.FC = () => {
     setResults([]);
     setAllResults([]);
     setSearchInfo(null);
-  }, [activeCategory]);
+  }, [activeCategory, selectedCategories]);
 
   // Update URL when query changes manually
   useEffect(() => {
@@ -251,7 +259,7 @@ const SearchPage: React.FC = () => {
     setLoadingMore(true);
     try {
       const nextPage = currentPage + 1;
-      const searchResponse = await searchUtilities(query, activeCategory, nextPage);
+      const searchResponse = await searchUtilities(query, getEffectiveCategories(), nextPage);
       const newResults = searchResponse.hits || [];
 
       // Append new results to existing ones
@@ -287,6 +295,55 @@ const SearchPage: React.FC = () => {
     }
   };
 
+  // Handle category selection (left click - single select)
+  const handleCategoryClick = (category: string) => {
+    if (category === "all") {
+      setActiveCategory("all");
+      setSelectedCategories([]);
+    } else {
+      setActiveCategory(category);
+      setSelectedCategories([category]);
+    }
+  };
+
+  // Handle category right-click (multi-select)
+  const handleCategoryRightClick = (e: React.MouseEvent, category: string) => {
+    e.preventDefault();
+
+    if (category === "all") {
+      setActiveCategory("all");
+      setSelectedCategories([]);
+      return;
+    }
+
+    const isSelected = selectedCategories.includes(category);
+
+    if (isSelected) {
+      // Remove from selection
+      const newSelection = selectedCategories.filter(cat => cat !== category);
+      setSelectedCategories(newSelection);
+
+      // If no categories selected, go back to "all"
+      if (newSelection.length === 0) {
+        setActiveCategory("all");
+      } else {
+        setActiveCategory("multi");
+      }
+    } else {
+      // Add to selection
+      const newSelection = [...selectedCategories, category];
+      setSelectedCategories(newSelection);
+      setActiveCategory("multi");
+    }
+  };
+
+  // Get effective filter categories
+  const getEffectiveCategories = () => {
+    if (activeCategory === "all") return [];
+    if (activeCategory === "multi") return selectedCategories;
+    return [activeCategory];
+  };
+
   const handleSelect = (result: SearchResult) => {
     if (result.path) {
       // Navigate directly to the path since it already includes the full path
@@ -303,6 +360,8 @@ const SearchPage: React.FC = () => {
     setResults([]);
     setAllResults([]);
     setCurrentPage(1);
+    setActiveCategory("all");
+    setSelectedCategories([]);
 
     // Update the global search state to empty string
     if (window.searchState) {
@@ -329,7 +388,9 @@ const SearchPage: React.FC = () => {
             {searchInfo ? (
               activeCategory === "all"
                 ? `Found ${searchInfo.totalHits.toLocaleString()} results for "${query}"`
-                : `Found ${searchInfo.totalHits.toLocaleString()} ${getCategoryDisplayName(activeCategory)} for "${query}"`
+                : activeCategory === "multi"
+                  ? `Found ${searchInfo.totalHits.toLocaleString()} results for "${query}"`
+                  : `Found ${searchInfo.totalHits.toLocaleString()} ${getCategoryDisplayName(activeCategory)} for "${query}"`
             ) : `Search Results for "${query}"`}
           </h2>
           <Button
@@ -345,70 +406,78 @@ const SearchPage: React.FC = () => {
           <Button
             variant={activeCategory === "all" ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("all")}
+            onClick={() => handleCategoryClick("all")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "all")}
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             All {Object.keys(availableCategories).length > 0 && `(${Object.values(availableCategories).reduce((sum, count) => sum + count, 0)})`}
           </Button>
           <Button
-            variant={activeCategory === "tools" ? "default" : "outline"}
+            variant={activeCategory === "tools" || selectedCategories.includes("tools") ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("tools")}
-            className="whitespace-nowrap text-xs lg:text-sm"
+            onClick={() => handleCategoryClick("tools")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "tools")}
+            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "tools" || selectedCategories.includes("tools")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "tools" || selectedCategories.includes("tools")) ? "shadow-md shadow-blue-500/50" : ""}`}
           >
             <Wrench className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             Tools {availableCategories.tools && `(${availableCategories.tools})`}
           </Button>
           <Button
-            variant={activeCategory === "tldr" ? "default" : "outline"}
+            variant={activeCategory === "tldr" || selectedCategories.includes("tldr") ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("tldr")}
-            className="whitespace-nowrap text-xs lg:text-sm"
+            onClick={() => handleCategoryClick("tldr")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "tldr")}
+            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "tldr" || selectedCategories.includes("tldr")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "tldr" || selectedCategories.includes("tldr")) ? "shadow-md shadow-blue-500/50" : ""}`}
           >
             <BookOpen className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             TLDR {availableCategories.tldr && `(${availableCategories.tldr})`}
           </Button>
           <Button
-            variant={activeCategory === "cheatsheets" ? "default" : "outline"}
+            variant={activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets") ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("cheatsheets")}
-            className="whitespace-nowrap text-xs lg:text-sm"
+            onClick={() => handleCategoryClick("cheatsheets")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "cheatsheets")}
+            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets")) ? "shadow-md shadow-blue-500/50" : ""}`}
           >
             <FileText className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             Cheatsheets {availableCategories.cheatsheets && `(${availableCategories.cheatsheets})`}
           </Button>
           <Button
-            variant={activeCategory === "png_icons" ? "default" : "outline"}
+            variant={activeCategory === "png_icons" || selectedCategories.includes("png_icons") ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("png_icons")}
-            className="whitespace-nowrap text-xs lg:text-sm"
+            onClick={() => handleCategoryClick("png_icons")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "png_icons")}
+            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "png_icons" || selectedCategories.includes("png_icons")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "png_icons" || selectedCategories.includes("png_icons")) ? "shadow-md shadow-blue-500/50" : ""}`}
           >
             <Image className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             PNG Icons {availableCategories.png_icons && `(${availableCategories.png_icons})`}
           </Button>
           <Button
-            variant={activeCategory === "svg_icons" ? "default" : "outline"}
+            variant={activeCategory === "svg_icons" || selectedCategories.includes("svg_icons") ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("svg_icons")}
-            className="whitespace-nowrap text-xs lg:text-sm"
+            onClick={() => handleCategoryClick("svg_icons")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "svg_icons")}
+            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "svg_icons" || selectedCategories.includes("svg_icons")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "svg_icons" || selectedCategories.includes("svg_icons")) ? "shadow-md shadow-blue-500/50" : ""}`}
           >
             <PenLine className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             SVG Icons {availableCategories.svg_icons && `(${availableCategories.svg_icons})`}
           </Button>
           <Button
-            variant={activeCategory === "emoji" ? "default" : "outline"}
+            variant={activeCategory === "emoji" || selectedCategories.includes("emoji") ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("emoji")}
-            className="whitespace-nowrap text-xs lg:text-sm"
+            onClick={() => handleCategoryClick("emoji")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "emoji")}
+            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "emoji" || selectedCategories.includes("emoji")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "emoji" || selectedCategories.includes("emoji")) ? "shadow-md shadow-blue-500/50" : ""}`}
           >
             <Smile className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             Emojis {availableCategories.emojis && `(${availableCategories.emojis})`}
           </Button>
           <Button
-            variant={activeCategory === "mcp" ? "default" : "outline"}
+            variant={activeCategory === "mcp" || selectedCategories.includes("mcp") ? "default" : "outline"}
             size="sm"
-            onClick={() => setActiveCategory("mcp")}
-            className="whitespace-nowrap text-xs lg:text-sm"
+            onClick={() => handleCategoryClick("mcp")}
+            onContextMenu={(e) => handleCategoryRightClick(e, "mcp")}
+            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "mcp" || selectedCategories.includes("mcp")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "mcp" || selectedCategories.includes("mcp")) ? "shadow-md shadow-blue-500/50" : ""}`}
           >
             <Settings className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             MCP {availableCategories.mcp && `(${availableCategories.mcp})`}
