@@ -5733,13 +5733,6 @@
     "category": "tldr"
   },
   {
-    "id": "tldr-common-g__",
-    "name": "G++",
-    "description": "Compile C++ code efficiently with G++ Compiler. Optimize, debug, and manage dependencies for cross-platform development. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/common/g++/",
-    "category": "tldr"
-  },
-  {
     "id": "tldr-common-gacutil",
     "name": "Gacutil",
     "description": "Manage assemblies with Gacutil, the Global Assembly Cache utility. Install, uninstall and list assemblies in the GAC effortlessly. Free online tool, no registration required.",
@@ -6297,6 +6290,13 @@
     "name": "Gox",
     "description": "Cross-compile Go programs with Gox. Effortlessly build for multiple operating systems and architectures. Free online tool, no registration required.",
     "path": "/freedevtools/tldr/common/gox/",
+    "category": "tldr"
+  },
+  {
+    "id": "tldr-common-gpp",
+    "name": "G++",
+    "description": "Compile C++ code efficiently with G++ Compiler. Optimize, debug, and manage dependencies for cross-platform development. Free online tool, no registration required.",
+    "path": "/freedevtools/tldr/common/gpp/",
     "category": "tldr"
   },
   {
@@ -19433,7 +19433,7 @@
   },
   {
     "id": "tldr-get-getadusers-py",
-    "name": "Getadusers.py",
+    "name": "Getadusers-py",
     "description": "Extract Active Directory users with GetADUsers. Retrieve user attributes like last logon time, email, and more. Free online tool, no registration required.",
     "path": "/freedevtools/tldr/get/getadusers-py/",
     "category": "tldr"
@@ -19454,7 +19454,7 @@
   },
   {
     "id": "tldr-get-getnpusers-py",
-    "name": "Getnpusers.py",
+    "name": "Getnpusers-py",
     "description": "Enumerate Active Directory users with GetNPUsers.py to identify potential AS-REP roasting targets, enabling penetration testers to uncover security vulnerabilities. Free online tool, no registration required.",
     "path": "/freedevtools/tldr/get/getnpusers-py/",
     "category": "tldr"
