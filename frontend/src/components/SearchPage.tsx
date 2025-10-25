@@ -117,6 +117,7 @@ const SearchPage: React.FC = () => {
   const [searchInfo, setSearchInfo] = useState<{
     totalHits: number;
     processingTime: number;
+    facetTotal?: number;
   } | null>(null);
   const [loading, setLoading] = useState(false);
   const [loadingMore, setLoadingMore] = useState(false);
@@ -211,15 +212,19 @@ const SearchPage: React.FC = () => {
         console.log("Search results:", searchResponse);
         setResults(searchResponse.hits || []);
         setAllResults(searchResponse.hits || []); // Store all accumulated results
-        setSearchInfo({
-          totalHits: searchResponse.estimatedTotalHits || 0,
-          processingTime: searchResponse.processingTimeMs || 0
-        });
 
-        // Update available categories from facet distribution
+        // Calculate real total from facet distribution
+        let facetTotal = 0;
         if (searchResponse.facetDistribution?.category) {
+          facetTotal = Object.values(searchResponse.facetDistribution.category).reduce((sum, count) => sum + count, 0);
           setAvailableCategories(searchResponse.facetDistribution.category);
         }
+
+        setSearchInfo({
+          totalHits: facetTotal > 0 ? facetTotal : (searchResponse.estimatedTotalHits || 0),
+          processingTime: searchResponse.processingTimeMs || 0,
+          facetTotal: facetTotal
+        });
       } catch (error) {
         console.error("Search error:", error);
         setResults([]);
@@ -429,7 +434,7 @@ const SearchPage: React.FC = () => {
               onContextMenu={(e) => handleCategoryRightClick(e, "all")}
               className="whitespace-nowrap text-xs lg:text-sm"
             >
-              All {Object.keys(availableCategories).length > 0 && `(${Object.values(availableCategories).reduce((sum, count) => sum + count, 0)})`}
+              All {activeCategory === "all" && Object.keys(availableCategories).length > 0 && `(${Object.values(availableCategories).reduce((sum, count) => sum + count, 0)})`}
             </Button>
             {!(activeCategory === "tools" || selectedCategories.includes("tools")) ? (
               <Tooltip>
@@ -442,7 +447,7 @@ const SearchPage: React.FC = () => {
                     className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
                   >
                     <Wrench className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-                    Tools {availableCategories.tools && `(${availableCategories.tools})`}
+                    Tools {(activeCategory === "tools" || selectedCategories.includes("tools") || activeCategory === "all") && availableCategories.tools && `(${availableCategories.tools})`}
                   </Button>
                 </TooltipTrigger>
                 <TooltipContent>
@@ -472,7 +477,7 @@ const SearchPage: React.FC = () => {
                     className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
                   >
                     <BookOpen className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-                    TLDR {availableCategories.tldr && `(${availableCategories.tldr})`}
+                    TLDR {(activeCategory === "tldr" || selectedCategories.includes("tldr") || activeCategory === "all") && availableCategories.tldr && `(${availableCategories.tldr})`}
                   </Button>
                 </TooltipTrigger>
                 <TooltipContent>
@@ -502,7 +507,7 @@ const SearchPage: React.FC = () => {
                     className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
                   >
                     <FileText className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-                    Cheatsheets {availableCategories.cheatsheets && `(${availableCategories.cheatsheets})`}
+                    Cheatsheets {(activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets") || activeCategory === "all") && availableCategories.cheatsheets && `(${availableCategories.cheatsheets})`}
                   </Button>
                 </TooltipTrigger>
                 <TooltipContent>
@@ -532,7 +537,7 @@ const SearchPage: React.FC = () => {
                     className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
                   >
                     <Image className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-                    PNG Icons {availableCategories.png_icons && `(${availableCategories.png_icons})`}
+                    PNG Icons {(activeCategory === "png_icons" || selectedCategories.includes("png_icons") || activeCategory === "all") && availableCategories.png_icons && `(${availableCategories.png_icons})`}
                   </Button>
                 </TooltipTrigger>
                 <TooltipContent>
@@ -562,7 +567,7 @@ const SearchPage: React.FC = () => {
                     className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
                   >
                     <PenLine className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-                    SVG Icons {availableCategories.svg_icons && `(${availableCategories.svg_icons})`}
+                    SVG Icons {(activeCategory === "svg_icons" || selectedCategories.includes("svg_icons") || activeCategory === "all") && availableCategories.svg_icons && `(${availableCategories.svg_icons})`}
                   </Button>
                 </TooltipTrigger>
                 <TooltipContent>
@@ -592,7 +597,7 @@ const SearchPage: React.FC = () => {
                     className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
                   >
                     <Smile className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-                    Emojis {availableCategories.emojis && `(${availableCategories.emojis})`}
+                    Emojis {(activeCategory === "emoji" || selectedCategories.includes("emoji") || activeCategory === "all") && availableCategories.emojis && `(${availableCategories.emojis})`}
                   </Button>
                 </TooltipTrigger>
                 <TooltipContent>
@@ -622,7 +627,7 @@ const SearchPage: React.FC = () => {
                     className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
                   >
                     <Settings className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-                    MCP {availableCategories.mcp && `(${availableCategories.mcp})`}
+                    MCP {(activeCategory === "mcp" || selectedCategories.includes("mcp") || activeCategory === "all") && availableCategories.mcp && `(${availableCategories.mcp})`}
                   </Button>
                 </TooltipTrigger>
                 <TooltipContent>
