@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from "react";
-import { X, Wrench, BookOpen, FileText, Image, PenLine, Smile } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
+import { BookOpen, FileText, Image, PenLine, Settings, Smile, Wrench, X } from "lucide-react";
+import React, { useEffect, useState } from "react";
 
 // Add TypeScript declaration for our global window properties
 declare global {
@@ -46,8 +45,19 @@ interface SearchResponse {
 }
 
 // Search function for Meilisearch
-async function searchUtilities(query: string): Promise<SearchResponse> {
+async function searchUtilities(query: string, category?: string): Promise<SearchResponse> {
   try {
+    const searchBody: any = { q: query };
+
+    // Add category filter if specified
+    if (category && category !== "all") {
+      if (category === "emoji") {
+        searchBody.filter = "category = 'emojis'";
+      } else {
+        searchBody.filter = `category = '${category}'`;
+      }
+    }
+
     const response = await fetch(
       "https://search.apps.hexmos.com/indexes/freedevtools/search",
       {
@@ -57,7 +67,7 @@ async function searchUtilities(query: string): Promise<SearchResponse> {
           Authorization:
             "Bearer 509923210c1fbc863d8cd8d01ffc062bac61aa503944c5d65b155e6cafdaddb5",
         },
-        body: JSON.stringify({ q: query }),
+        body: JSON.stringify(searchBody),
       }
     );
 
@@ -125,7 +135,7 @@ const SearchPage: React.FC = () => {
     };
 
     checkHashForSearch();
-    
+
     // Also listen for hash changes
     window.addEventListener('hashchange', checkHashForSearch);
     return () => {
@@ -138,14 +148,14 @@ const SearchPage: React.FC = () => {
     const handleSearchQueryChange = (event: CustomEvent) => {
       const newQuery = event.detail.query;
       setQuery(newQuery);
-      
+
       // Update URL hash when query changes
       updateUrlHash(newQuery);
     };
 
     // Add event listener
     window.addEventListener('searchQueryChanged', handleSearchQueryChange as EventListener);
-    
+
     // Initial load from global state if it exists
     if (window.searchState && window.searchState.getQuery()) {
       const initialQuery = window.searchState.getQuery();
@@ -169,7 +179,7 @@ const SearchPage: React.FC = () => {
     const timeoutId = setTimeout(async () => {
       setLoading(true);
       try {
-        const searchResponse = await searchUtilities(query);
+        const searchResponse = await searchUtilities(query, activeCategory);
         console.log("Search results:", searchResponse);
         setResults(searchResponse.hits || []);
         setSearchInfo({
@@ -186,22 +196,15 @@ const SearchPage: React.FC = () => {
     }, 300);
 
     return () => clearTimeout(timeoutId);
-  }, [query]);
+  }, [query, activeCategory]);
 
   // Update URL when query changes manually
   useEffect(() => {
     updateUrlHash(query);
   }, [query]);
-  
-  // Filter results by category
-  const filteredResults = activeCategory === "all" 
-    ? results 
-    : results.filter(result => {
-        if (activeCategory === "emoji") {
-          return result.category?.toLowerCase() === "emojis";
-        }
-        return result.category?.toLowerCase() === activeCategory.toLowerCase();
-      });
+
+  // Results are already filtered by backend, no need for frontend filtering
+  const filteredResults = results;
 
   const handleSelect = (result: SearchResult) => {
     if (result.path) {
@@ -216,18 +219,18 @@ const SearchPage: React.FC = () => {
   const clearResults = () => {
     // Clear the query in this component
     setQuery('');
-    
+
     // Update the global search state to empty string
     if (window.searchState) {
       window.searchState.setQuery('');
     }
-    
+
     // Clear URL hash
     if (window.location.hash.startsWith('#search')) {
       history.pushState("", document.title, window.location.pathname + window.location.search);
     }
   };
-  
+
   // If no search query, don't show the search UI
   if (!query.trim()) {
     return null;
@@ -313,6 +316,15 @@ const SearchPage: React.FC = () => {
             <Smile className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
             Emojis
           </Button>
+          <Button
+            variant={activeCategory === "mcp" ? "default" : "outline"}
+            size="sm"
+            onClick={() => setActiveCategory("mcp")}
+            className="whitespace-nowrap text-xs lg:text-sm"
+          >
+            <Settings className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+            MCP
+          </Button>
         </div>
       </div>
 
@@ -364,19 +376,21 @@ const SearchPage: React.FC = () => {
                   return 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200';
                 case 'png_icons':
                   return 'bg-pink-100 text-pink-800 dark:bg-pink-900 dark:text-pink-200';
+                case 'mcp':
+                  return 'bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-200';
                 default:
                   return 'bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-200';
               }
             };
 
             return (
-              <a 
+              <a
                 key={result.id || index}
                 href={result.path ? `https://hexmos.com${result.path}` : '#'}
                 className="block no-underline"
               >
                 {result.category?.toLowerCase() === "emojis" ? (
-                  <Card 
+                  <Card
                     className="cursor-pointer hover:border-primary hover:bg-slate-50 dark:hover:bg-slate-900 transition-all overflow-hidden h-full flex flex-col"
                   >
                     <div className="flex-1 flex flex-col items-center justify-center p-6 relative">
@@ -404,9 +418,9 @@ const SearchPage: React.FC = () => {
                         </div>
                       )}
                       <div className="w-16 h-16 mb-3 flex items-center justify-center bg-white dark:bg-gray-100 rounded-md p-2">
-                        <img 
-                          src={`https://hexmos.com/freedevtools${result.image}`} 
-                          alt={result.name || result.title || "Icon"} 
+                        <img
+                          src={`https://hexmos.com/freedevtools${result.image}`}
+                          alt={result.name || result.title || "Icon"}
                           className="w-full h-full object-contain"
                           onError={(e) => {
                             e.currentTarget.style.display = 'none';
@@ -418,7 +432,7 @@ const SearchPage: React.FC = () => {
                       </span>
                     </div>
                   </Card>
-                ) : (                
+                ) : (
                   <Card
                     className="cursor-pointer hover:border-primary hover:bg-slate-50 dark:hover:bg-slate-900 transition-all h-full flex flex-col"
                   >
