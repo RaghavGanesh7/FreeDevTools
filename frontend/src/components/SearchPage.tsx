@@ -45,6 +45,11 @@ interface SearchResponse {
   totalHits?: number;
   totalPages?: number;
   page?: number;
+  facetDistribution?: {
+    category?: {
+      [key: string]: number;
+    };
+  };
 }
 
 // Search function for Meilisearch
@@ -53,7 +58,8 @@ async function searchUtilities(query: string, category?: string, page: number = 
     const searchBody: any = {
       q: query,
       limit: 100,
-      offset: (page - 1) * 100
+      offset: (page - 1) * 100,
+      facets: ["category"] // Always include facets for category filtering
     };
 
     // Add category filter if specified
@@ -109,6 +115,7 @@ const SearchPage: React.FC = () => {
   const [activeCategory, setActiveCategory] = useState<string>("all");
   const [currentPage, setCurrentPage] = useState(1);
   const [allResults, setAllResults] = useState<SearchResult[]>([]);
+  const [availableCategories, setAvailableCategories] = useState<{ [key: string]: number }>({});
 
   // Add this function to update the URL hash
   const updateUrlHash = (searchQuery: string) => {
@@ -189,6 +196,7 @@ const SearchPage: React.FC = () => {
     const timeoutId = setTimeout(async () => {
       setLoading(true);
       setCurrentPage(1); // Reset to first page for new search
+      setAvailableCategories({}); // Clear counts while loading
       try {
         const searchResponse = await searchUtilities(query, activeCategory, 1);
         console.log("Search results:", searchResponse);
@@ -198,6 +206,11 @@ const SearchPage: React.FC = () => {
           totalHits: searchResponse.estimatedTotalHits || 0,
           processingTime: searchResponse.processingTimeMs || 0
         });
+
+        // Update available categories from facet distribution
+        if (searchResponse.facetDistribution?.category) {
+          setAvailableCategories(searchResponse.facetDistribution.category);
+        }
       } catch (error) {
         console.error("Search error:", error);
         setResults([]);
@@ -335,7 +348,7 @@ const SearchPage: React.FC = () => {
             onClick={() => setActiveCategory("all")}
             className="whitespace-nowrap text-xs lg:text-sm"
           >
-            All
+            All {Object.keys(availableCategories).length > 0 && `(${Object.values(availableCategories).reduce((sum, count) => sum + count, 0)})`}
           </Button>
           <Button
             variant={activeCategory === "tools" ? "default" : "outline"}
@@ -344,7 +357,7 @@ const SearchPage: React.FC = () => {
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <Wrench className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            Tools
+            Tools {availableCategories.tools && `(${availableCategories.tools})`}
           </Button>
           <Button
             variant={activeCategory === "tldr" ? "default" : "outline"}
@@ -353,7 +366,7 @@ const SearchPage: React.FC = () => {
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <BookOpen className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            TLDR
+            TLDR {availableCategories.tldr && `(${availableCategories.tldr})`}
           </Button>
           <Button
             variant={activeCategory === "cheatsheets" ? "default" : "outline"}
@@ -362,7 +375,7 @@ const SearchPage: React.FC = () => {
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <FileText className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            Cheatsheets
+            Cheatsheets {availableCategories.cheatsheets && `(${availableCategories.cheatsheets})`}
           </Button>
           <Button
             variant={activeCategory === "png_icons" ? "default" : "outline"}
@@ -371,7 +384,7 @@ const SearchPage: React.FC = () => {
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <Image className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            PNG Icons
+            PNG Icons {availableCategories.png_icons && `(${availableCategories.png_icons})`}
           </Button>
           <Button
             variant={activeCategory === "svg_icons" ? "default" : "outline"}
@@ -380,7 +393,7 @@ const SearchPage: React.FC = () => {
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <PenLine className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            SVG Icons
+            SVG Icons {availableCategories.svg_icons && `(${availableCategories.svg_icons})`}
           </Button>
           <Button
             variant={activeCategory === "emoji" ? "default" : "outline"}
@@ -389,7 +402,7 @@ const SearchPage: React.FC = () => {
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <Smile className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            Emojis
+            Emojis {availableCategories.emojis && `(${availableCategories.emojis})`}
           </Button>
           <Button
             variant={activeCategory === "mcp" ? "default" : "outline"}
@@ -398,7 +411,7 @@ const SearchPage: React.FC = () => {
             className="whitespace-nowrap text-xs lg:text-sm"
           >
             <Settings className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            MCP
+            MCP {availableCategories.mcp && `(${availableCategories.mcp})`}
           </Button>
         </div>
       </div>
