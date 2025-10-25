@@ -42,12 +42,19 @@ interface SearchResponse {
   limit: number;
   offset: number;
   estimatedTotalHits: number;
+  totalHits?: number;
+  totalPages?: number;
+  page?: number;
 }
 
 // Search function for Meilisearch
-async function searchUtilities(query: string, category?: string): Promise<SearchResponse> {
+async function searchUtilities(query: string, category?: string, page: number = 1): Promise<SearchResponse> {
   try {
-    const searchBody: any = { q: query };
+    const searchBody: any = {
+      q: query,
+      limit: 100,
+      offset: (page - 1) * 100
+    };
 
     // Add category filter if specified
     if (category && category !== "all") {
@@ -98,7 +105,10 @@ const SearchPage: React.FC = () => {
     processingTime: number;
   } | null>(null);
   const [loading, setLoading] = useState(false);
+  const [loadingMore, setLoadingMore] = useState(false);
   const [activeCategory, setActiveCategory] = useState<string>("all");
+  const [currentPage, setCurrentPage] = useState(1);
+  const [allResults, setAllResults] = useState<SearchResult[]>([]);
 
   // Add this function to update the URL hash
   const updateUrlHash = (searchQuery: string) => {
@@ -178,10 +188,12 @@ const SearchPage: React.FC = () => {
 
     const timeoutId = setTimeout(async () => {
       setLoading(true);
+      setCurrentPage(1); // Reset to first page for new search
       try {
-        const searchResponse = await searchUtilities(query, activeCategory);
+        const searchResponse = await searchUtilities(query, activeCategory, 1);
         console.log("Search results:", searchResponse);
         setResults(searchResponse.hits || []);
+        setAllResults(searchResponse.hits || []); // Store all accumulated results
         setSearchInfo({
           totalHits: searchResponse.estimatedTotalHits || 0,
           processingTime: searchResponse.processingTimeMs || 0
@@ -189,6 +201,7 @@ const SearchPage: React.FC = () => {
       } catch (error) {
         console.error("Search error:", error);
         setResults([]);
+        setAllResults([]);
         setSearchInfo(null);
       } finally {
         setLoading(false);
@@ -198,13 +211,68 @@ const SearchPage: React.FC = () => {
     return () => clearTimeout(timeoutId);
   }, [query, activeCategory]);
 
+  // Reset page and clear results when category changes
+  useEffect(() => {
+    setCurrentPage(1);
+    setResults([]);
+    setAllResults([]);
+    setSearchInfo(null);
+  }, [activeCategory]);
+
   // Update URL when query changes manually
   useEffect(() => {
     updateUrlHash(query);
   }, [query]);
 
   // Results are already filtered by backend, no need for frontend filtering
-  const filteredResults = results;
+  const filteredResults = allResults;
+
+  // Load more functionality
+  const totalPages = searchInfo ? Math.ceil(searchInfo.totalHits / 100) : 1;
+  const hasMoreResults = currentPage < totalPages;
+  const currentPageNumber = Math.ceil(allResults.length / 100);
+
+  const loadMoreResults = async () => {
+    if (!hasMoreResults || loadingMore) return;
+
+    setLoadingMore(true);
+    try {
+      const nextPage = currentPage + 1;
+      const searchResponse = await searchUtilities(query, activeCategory, nextPage);
+      const newResults = searchResponse.hits || [];
+
+      // Append new results to existing ones
+      setAllResults(prev => [...prev, ...newResults]);
+      setResults(prev => [...prev, ...newResults]);
+      setCurrentPage(nextPage);
+    } catch (error) {
+      console.error("Load more error:", error);
+    } finally {
+      setLoadingMore(false);
+    }
+  };
+
+  // Get category display name
+  const getCategoryDisplayName = (category: string) => {
+    switch (category) {
+      case "emoji":
+        return "emojis";
+      case "mcp":
+        return "MCPs";
+      case "svg_icons":
+        return "SVG icons";
+      case "png_icons":
+        return "PNG icons";
+      case "tools":
+        return "tools";
+      case "tldr":
+        return "TLDRs";
+      case "cheatsheets":
+        return "cheatsheets";
+      default:
+        return "items";
+    }
+  };
 
   const handleSelect = (result: SearchResult) => {
     if (result.path) {
@@ -219,6 +287,9 @@ const SearchPage: React.FC = () => {
   const clearResults = () => {
     // Clear the query in this component
     setQuery('');
+    setResults([]);
+    setAllResults([]);
+    setCurrentPage(1);
 
     // Update the global search state to empty string
     if (window.searchState) {
@@ -242,7 +313,11 @@ const SearchPage: React.FC = () => {
       <div className="mb-8">
         <div className="flex items-center justify-between mb-4 mt-8 md:mt-0">
           <h2 className="text-xl font-medium">
-            {searchInfo ? `Found ${searchInfo.totalHits.toLocaleString()} results for "${query}"` : `Search Results for "${query}"`}
+            {searchInfo ? (
+              activeCategory === "all"
+                ? `Found ${searchInfo.totalHits.toLocaleString()} results for "${query}"`
+                : `Found ${searchInfo.totalHits.toLocaleString()} ${getCategoryDisplayName(activeCategory)} for "${query}"`
+            ) : `Search Results for "${query}"`}
           </h2>
           <Button
             variant="ghost"
@@ -458,6 +533,40 @@ const SearchPage: React.FC = () => {
               </a>
             );
           })}
+        </div>
+      )}
+
+      {/* Load More Section */}
+      {!loading && filteredResults.length > 0 && (
+        <div className="flex flex-col items-center space-y-4 mt-8">
+          {searchInfo && (
+            <p className="text-sm text-muted-foreground">
+              Showing {allResults.length} of {searchInfo.totalHits.toLocaleString()} {activeCategory === "all" ? "items" : getCategoryDisplayName(activeCategory)} (Page {currentPageNumber} of {totalPages})
+            </p>
+          )}
+
+          {hasMoreResults && (
+            <Button
+              variant="default"
+              onClick={loadMoreResults}
+              disabled={loadingMore}
+              className="flex items-center space-x-2 bg-primary hover:bg-primary/90 text-primary-foreground"
+            >
+              {loadingMore ? (
+                <>
+                  <div className="animate-spin rounded-full h-4 w-4 border-t-2 border-b-2 border-primary-foreground"></div>
+                  <span className="text-primary-foreground">Loading...</span>
+                </>
+              ) : (
+                <>
+                  <span className="text-primary-foreground">Load More</span>
+                  <span className="text-xs text-primary-foreground/80">
+                    ({searchInfo ? searchInfo.totalHits - allResults.length : 0} more)
+                  </span>
+                </>
+              )}
+            </Button>
+          )}
         </div>
       )}
     </div>
