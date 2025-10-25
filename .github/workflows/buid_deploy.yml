@@ -216,13 +216,6 @@ jobs:
         run: |
           ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
-      - name: Generate search index data and deploy to server
-        run: |
-          echo "🔍 Generating search index data..."
-          cd search-index
-          make sync-search-index
-          echo "✅ Search index generation completed"
-
       - name: Deploy to server
         if: steps.detect-changes.outputs.should_deploy == 'true'
         run: |
@@ -272,6 +265,13 @@ jobs:
 
           echo "Response:"
           echo "$RESPONSE"
+
+      - name: Generate search index data and deploy to server
+        run: |
+          echo "🔍 Generating search index data..."
+          cd search-index
+          make sync-search-index
+          echo "✅ Search index generation completed"
 
       - name: Skip deployment message
         if: steps.detect-changes.outputs.should_deploy == 'false'
