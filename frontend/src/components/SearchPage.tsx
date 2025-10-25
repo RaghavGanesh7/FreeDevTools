@@ -60,7 +60,17 @@ async function searchUtilities(query: string, categories: string[] = [], page: n
       q: query,
       limit: 100,
       offset: (page - 1) * 100,
-      facets: ["category"] // Always include facets for category filtering
+      facets: ["category"], // Always include facets for category filtering
+      attributesToRetrieve: [
+        "id",
+        "name",
+        "title",
+        "description",
+        "category",
+        "path",
+        "image",
+        "code"
+      ] // Only retrieve essential fields for better performance
     };
 
     // Add category filter if specified
