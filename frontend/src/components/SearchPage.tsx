@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { BookOpen, FileText, Image, PenLine, Settings, Smile, Wrench, X } from "lucide-react";
 import React, { useEffect, useState } from "react";
 
@@ -245,6 +246,20 @@ const SearchPage: React.FC = () => {
     updateUrlHash(query);
   }, [query]);
 
+  // Handle ESC key to clear results
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape' && query.trim()) {
+        clearResults();
+      }
+    };
+
+    document.addEventListener('keydown', handleKeyDown);
+    return () => {
+      document.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [query]);
+
   // Results are already filtered by backend, no need for frontend filtering
   const filteredResults = allResults;
 
@@ -397,92 +412,237 @@ const SearchPage: React.FC = () => {
             variant="ghost"
             size="sm"
             onClick={clearResults}
+            className="flex items-center gap-2"
           >
-            <X className="h-4 w-4 mr-1" />
-            Clear results
+            <kbd className="px-1.5 py-0.5 text-xs text-gray-800 bg-gray-100 border border-gray-200 rounded dark:bg-gray-600 dark:text-gray-300 dark:border-gray-500">Esc</kbd>
+            <span className="text-sm">Clear results</span>
+            <X className="h-4 w-4" />
+
           </Button>
         </div>
-        <div className="grid grid-cols-3 md:grid-cols-4 lg:flex lg:space-x-2 gap-2 lg:gap-0 pb-2">
-          <Button
-            variant={activeCategory === "all" ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("all")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "all")}
-            className="whitespace-nowrap text-xs lg:text-sm"
-          >
-            All {Object.keys(availableCategories).length > 0 && `(${Object.values(availableCategories).reduce((sum, count) => sum + count, 0)})`}
-          </Button>
-          <Button
-            variant={activeCategory === "tools" || selectedCategories.includes("tools") ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("tools")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "tools")}
-            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "tools" || selectedCategories.includes("tools")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "tools" || selectedCategories.includes("tools")) ? "shadow-md shadow-blue-500/50" : ""}`}
-          >
-            <Wrench className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            Tools {availableCategories.tools && `(${availableCategories.tools})`}
-          </Button>
-          <Button
-            variant={activeCategory === "tldr" || selectedCategories.includes("tldr") ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("tldr")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "tldr")}
-            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "tldr" || selectedCategories.includes("tldr")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "tldr" || selectedCategories.includes("tldr")) ? "shadow-md shadow-blue-500/50" : ""}`}
-          >
-            <BookOpen className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            TLDR {availableCategories.tldr && `(${availableCategories.tldr})`}
-          </Button>
-          <Button
-            variant={activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets") ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("cheatsheets")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "cheatsheets")}
-            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets")) ? "shadow-md shadow-blue-500/50" : ""}`}
-          >
-            <FileText className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            Cheatsheets {availableCategories.cheatsheets && `(${availableCategories.cheatsheets})`}
-          </Button>
-          <Button
-            variant={activeCategory === "png_icons" || selectedCategories.includes("png_icons") ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("png_icons")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "png_icons")}
-            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "png_icons" || selectedCategories.includes("png_icons")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "png_icons" || selectedCategories.includes("png_icons")) ? "shadow-md shadow-blue-500/50" : ""}`}
-          >
-            <Image className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            PNG Icons {availableCategories.png_icons && `(${availableCategories.png_icons})`}
-          </Button>
-          <Button
-            variant={activeCategory === "svg_icons" || selectedCategories.includes("svg_icons") ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("svg_icons")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "svg_icons")}
-            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "svg_icons" || selectedCategories.includes("svg_icons")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "svg_icons" || selectedCategories.includes("svg_icons")) ? "shadow-md shadow-blue-500/50" : ""}`}
-          >
-            <PenLine className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            SVG Icons {availableCategories.svg_icons && `(${availableCategories.svg_icons})`}
-          </Button>
-          <Button
-            variant={activeCategory === "emoji" || selectedCategories.includes("emoji") ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("emoji")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "emoji")}
-            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "emoji" || selectedCategories.includes("emoji")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "emoji" || selectedCategories.includes("emoji")) ? "shadow-md shadow-blue-500/50" : ""}`}
-          >
-            <Smile className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            Emojis {availableCategories.emojis && `(${availableCategories.emojis})`}
-          </Button>
-          <Button
-            variant={activeCategory === "mcp" || selectedCategories.includes("mcp") ? "default" : "outline"}
-            size="sm"
-            onClick={() => handleCategoryClick("mcp")}
-            onContextMenu={(e) => handleCategoryRightClick(e, "mcp")}
-            className={`whitespace-nowrap text-xs lg:text-sm ${!(activeCategory === "mcp" || selectedCategories.includes("mcp")) ? "hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50" : ""} ${(activeCategory === "mcp" || selectedCategories.includes("mcp")) ? "shadow-md shadow-blue-500/50" : ""}`}
-          >
-            <Settings className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
-            MCP {availableCategories.mcp && `(${availableCategories.mcp})`}
-          </Button>
-        </div>
+        <TooltipProvider>
+          <div className="grid grid-cols-3 md:grid-cols-4 lg:flex lg:space-x-2 gap-2 lg:gap-0 pb-2">
+            <Button
+              variant={activeCategory === "all" ? "default" : "outline"}
+              size="sm"
+              onClick={() => handleCategoryClick("all")}
+              onContextMenu={(e) => handleCategoryRightClick(e, "all")}
+              className="whitespace-nowrap text-xs lg:text-sm"
+            >
+              All {Object.keys(availableCategories).length > 0 && `(${Object.values(availableCategories).reduce((sum, count) => sum + count, 0)})`}
+            </Button>
+            {!(activeCategory === "tools" || selectedCategories.includes("tools")) ? (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => handleCategoryClick("tools")}
+                    onContextMenu={(e) => handleCategoryRightClick(e, "tools")}
+                    className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
+                  >
+                    <Wrench className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                    Tools {availableCategories.tools && `(${availableCategories.tools})`}
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>
+                  <span className="text-xs">Right-click to multi-select</span>
+                </TooltipContent>
+              </Tooltip>
+            ) : (
+              <Button
+                variant="default"
+                size="sm"
+                onClick={() => handleCategoryClick("tools")}
+                onContextMenu={(e) => handleCategoryRightClick(e, "tools")}
+                className="whitespace-nowrap text-xs lg:text-sm shadow-md shadow-blue-500/50"
+              >
+                <Wrench className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                Tools {availableCategories.tools && `(${availableCategories.tools})`}
+              </Button>
+            )}
+            {!(activeCategory === "tldr" || selectedCategories.includes("tldr")) ? (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => handleCategoryClick("tldr")}
+                    onContextMenu={(e) => handleCategoryRightClick(e, "tldr")}
+                    className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
+                  >
+                    <BookOpen className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                    TLDR {availableCategories.tldr && `(${availableCategories.tldr})`}
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>
+                  <p>Right-click to multi-select</p>
+                </TooltipContent>
+              </Tooltip>
+            ) : (
+              <Button
+                variant="default"
+                size="sm"
+                onClick={() => handleCategoryClick("tldr")}
+                onContextMenu={(e) => handleCategoryRightClick(e, "tldr")}
+                className="whitespace-nowrap text-xs lg:text-sm shadow-md shadow-blue-500/50"
+              >
+                <BookOpen className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                TLDR {availableCategories.tldr && `(${availableCategories.tldr})`}
+              </Button>
+            )}
+            {!(activeCategory === "cheatsheets" || selectedCategories.includes("cheatsheets")) ? (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => handleCategoryClick("cheatsheets")}
+                    onContextMenu={(e) => handleCategoryRightClick(e, "cheatsheets")}
+                    className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
+                  >
+                    <FileText className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                    Cheatsheets {availableCategories.cheatsheets && `(${availableCategories.cheatsheets})`}
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>
+                  <p>Right-click to multi-select</p>
+                </TooltipContent>
+              </Tooltip>
+            ) : (
+              <Button
+                variant="default"
+                size="sm"
+                onClick={() => handleCategoryClick("cheatsheets")}
+                onContextMenu={(e) => handleCategoryRightClick(e, "cheatsheets")}
+                className="whitespace-nowrap text-xs lg:text-sm shadow-md shadow-blue-500/50"
+              >
+                <FileText className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                Cheatsheets {availableCategories.cheatsheets && `(${availableCategories.cheatsheets})`}
+              </Button>
+            )}
+            {!(activeCategory === "png_icons" || selectedCategories.includes("png_icons")) ? (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => handleCategoryClick("png_icons")}
+                    onContextMenu={(e) => handleCategoryRightClick(e, "png_icons")}
+                    className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
+                  >
+                    <Image className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                    PNG Icons {availableCategories.png_icons && `(${availableCategories.png_icons})`}
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>
+                  <p>Right-click to multi-select</p>
+                </TooltipContent>
+              </Tooltip>
+            ) : (
+              <Button
+                variant="default"
+                size="sm"
+                onClick={() => handleCategoryClick("png_icons")}
+                onContextMenu={(e) => handleCategoryRightClick(e, "png_icons")}
+                className="whitespace-nowrap text-xs lg:text-sm shadow-md shadow-blue-500/50"
+              >
+                <Image className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                PNG Icons {availableCategories.png_icons && `(${availableCategories.png_icons})`}
+              </Button>
+            )}
+            {!(activeCategory === "svg_icons" || selectedCategories.includes("svg_icons")) ? (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => handleCategoryClick("svg_icons")}
+                    onContextMenu={(e) => handleCategoryRightClick(e, "svg_icons")}
+                    className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
+                  >
+                    <PenLine className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                    SVG Icons {availableCategories.svg_icons && `(${availableCategories.svg_icons})`}
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>
+                  <p>Right-click to multi-select</p>
+                </TooltipContent>
+              </Tooltip>
+            ) : (
+              <Button
+                variant="default"
+                size="sm"
+                onClick={() => handleCategoryClick("svg_icons")}
+                onContextMenu={(e) => handleCategoryRightClick(e, "svg_icons")}
+                className="whitespace-nowrap text-xs lg:text-sm shadow-md shadow-blue-500/50"
+              >
+                <PenLine className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                SVG Icons {availableCategories.svg_icons && `(${availableCategories.svg_icons})`}
+              </Button>
+            )}
+            {!(activeCategory === "emoji" || selectedCategories.includes("emoji")) ? (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => handleCategoryClick("emoji")}
+                    onContextMenu={(e) => handleCategoryRightClick(e, "emoji")}
+                    className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
+                  >
+                    <Smile className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                    Emojis {availableCategories.emojis && `(${availableCategories.emojis})`}
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>
+                  <p>Right-click to multi-select</p>
+                </TooltipContent>
+              </Tooltip>
+            ) : (
+              <Button
+                variant="default"
+                size="sm"
+                onClick={() => handleCategoryClick("emoji")}
+                onContextMenu={(e) => handleCategoryRightClick(e, "emoji")}
+                className="whitespace-nowrap text-xs lg:text-sm shadow-md shadow-blue-500/50"
+              >
+                <Smile className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                Emojis {availableCategories.emojis && `(${availableCategories.emojis})`}
+              </Button>
+            )}
+            {!(activeCategory === "mcp" || selectedCategories.includes("mcp")) ? (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => handleCategoryClick("mcp")}
+                    onContextMenu={(e) => handleCategoryRightClick(e, "mcp")}
+                    className="whitespace-nowrap text-xs lg:text-sm hover:shadow-md hover:shadow-gray-500/30 dark:hover:bg-slate-900 dark:hover:shadow-slate-900/50"
+                  >
+                    <Settings className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                    MCP {availableCategories.mcp && `(${availableCategories.mcp})`}
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>
+                  <p>Right-click to multi-select</p>
+                </TooltipContent>
+              </Tooltip>
+            ) : (
+              <Button
+                variant="default"
+                size="sm"
+                onClick={() => handleCategoryClick("mcp")}
+                onContextMenu={(e) => handleCategoryRightClick(e, "mcp")}
+                className="whitespace-nowrap text-xs lg:text-sm shadow-md shadow-blue-500/50"
+              >
+                <Settings className="mr-1 h-3 w-3 lg:h-4 lg:w-4" />
+                MCP {availableCategories.mcp && `(${availableCategories.mcp})`}
+              </Button>
+            )}
+          </div>
+        </TooltipProvider>
       </div>
 
       {loading && (
