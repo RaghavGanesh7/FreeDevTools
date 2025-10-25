@@ -111,23 +111,11 @@ func ProcessJSONFile(filePath string) error {
 				// Update counter safely
 				mu.Lock()
 				processedCount++
-				currentCount := processedCount
 				mu.Unlock()
 				
 				// Show first few examples
-				if currentCount <= 3 {
-					fmt.Printf("📝 Example %d:\n", currentCount)
-					fmt.Printf("   Name: '%s' → altName: '%s'\n", originalName, processedName)
-					if objects[i].Description != "" {
-						fmt.Printf("   Description: '%s' → altDescription: '%s'\n", objects[i].Description, objects[i].AltDescription)
-					}
-					fmt.Println()
-				}
 				
-				// Progress update
-				if currentCount%100 == 0 {
-					fmt.Printf("⏳ Processed %d/%d entries...\n", currentCount, len(objects))
-				}
+				// Progress update removed - no more spam
 			}
 		}()
 	}
@@ -224,23 +212,11 @@ func main() {
 				// Update counter safely
 				mu.Lock()
 				processedCount++
-				currentCount := processedCount
 				mu.Unlock()
 				
-				// Show first few examples
-				if currentCount <= 3 {
-					fmt.Printf("📝 Example %d:\n", currentCount)
-					fmt.Printf("   Name: '%s' → altName: '%s'\n", originalName, processedName)
-					if objects[i].Description != "" {
-						fmt.Printf("   Description: '%s' → altDescription: '%s'\n", objects[i].Description, objects[i].AltDescription)
-					}
-					fmt.Println()
-				}
+			
 				
-				// Progress update
-				if currentCount%100 == 0 {
-					fmt.Printf("⏳ Processed %d/%d entries...\n", currentCount, len(objects))
-				}
+				// Progress update removed - no more spam
 			}
 		}()
 	}

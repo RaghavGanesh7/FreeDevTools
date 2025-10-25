@@ -43,7 +43,6 @@ func generateSVGIconsData(ctx context.Context) ([]SVGIconData, error) {
 		}
 
 		categoryCount++
-		fmt.Printf("  %d. %s (%d icons)\n", categoryCount, clusterEntry.Name, len(clusterEntry.FileNames))
 
 		// Process each icon in the cluster
 		for _, fileName := range clusterEntry.FileNames {

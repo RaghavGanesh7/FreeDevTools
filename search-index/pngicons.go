@@ -43,7 +43,6 @@ func generatePNGIconsData(ctx context.Context) ([]SVGIconData, error) {
 		}
 
 		categoryCount++
-		fmt.Printf("  %d. %s (%d icons)\n", categoryCount, clusterEntry.Name, len(clusterEntry.FileNames))
 
 		for _, fileName := range clusterEntry.FileNames {
 			iconCount++
