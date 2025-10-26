@@ -62,6 +62,7 @@ const breadcrumbItems = [
   description={description}
   canonical={`https://hexmos.com/freedevtools/tldr/${platform}/${command}/`}
   showHeader={true}
+  keywords={entry.data.keywords || ["free devtools", "tldr", platform, command]}
 >
   <style>
     :global(.prose h1) {
