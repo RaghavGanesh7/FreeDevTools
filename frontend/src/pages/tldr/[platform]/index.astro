@@ -4,6 +4,17 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getTldrPlatformCommands } from '../../../lib/tldr-utils';
 import TldrPlatform from '../_TldrPlatform.astro';
 
+
+
+
+
+
+
+
+
+
+
+
 // Generate static paths for all platforms
 export async function getStaticPaths() {
   const tldrEntries = await getCollection('tldr');
