@@ -492,7 +492,11 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
 
     <!-- Resource hints for better performance -->
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://api.github.com" crossorigin />
+    <link rel="preconnect" href="https://github.com" crossorigin />
     <link rel="dns-prefetch" href="//hexmos.com" />
+    <link rel="dns-prefetch" href="//www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
 
     <!-- Fonts - Optimized loading -->
     <!-- Preload critical fonts for faster loading -->
@@ -519,7 +523,7 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
       })();
     </script>
 
-    <!-- Load local fonts CSS -->
+    <!-- Load local fonts CSS. -->
     <link rel="stylesheet" href="/freedevtools/fonts/fonts.css" />
 
     <!-- Optimized GTM loading -->
@@ -612,7 +616,7 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
       Skip to search
     </a>
 
-    <div class="flex flex-1">
+    <div class="flex flex-1 flex-col">
       {showHeader && <Header />}
 
       <main
@@ -668,9 +672,10 @@ const schema = generatePageSpecificSchema(detectedPageType, Astro.props);
             });
           </script>
         </ToastProvider>
-        <!-- Footer -->
-        <Footer />
       </main>
+
+      <!-- Footer -->
+      <Footer />
     </div>
   </body>
 </html>

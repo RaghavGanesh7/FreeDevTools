@@ -508,9 +508,9 @@
       ],
       "category": "cloud-platforms"
     },
-    "manusa--Kubernetes MCP Server": {
+    "manusa--Kubernetes-MCP-Server": {
       "owner": "manusa",
-      "name": "Kubernetes MCP Server",
+      "name": "Kubernetes-MCP-Server",
       "url": "https://github.com/manusa/kubernetes-mcp-server",
       "imageUrl": "",
       "description": "powerful Kubernetes MCP server with additional support for OpenShift. Besides providing CRUD operations for **any** Kubernetes resource, this server provides specialized tools to interact with your cluster.",

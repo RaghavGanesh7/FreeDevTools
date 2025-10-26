@@ -1025,9 +1025,9 @@
     "path": "/freedevtools/tldr/cisco-ios/write/"
   },
   {
-    "name": "clang++",
+    "name": "clangpp",
     "description": "Compile C++ source code with clang++. Create executables, optimize for performance and debug applications using this command line tool. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/clang/clang++/"
+    "path": "/freedevtools/tldr/clang/clangpp/"
   },
   {
     "name": "clang-cpp",
@@ -4095,11 +4095,6 @@
     "path": "/freedevtools/tldr/common/fzf/"
   },
   {
-    "name": "g++",
-    "description": "Compile C++ code efficiently with G++ Compiler. Optimize, debug, and manage dependencies for cross-platform development. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/common/g++/"
-  },
-  {
     "name": "gacutil",
     "description": "Manage assemblies with Gacutil, the Global Assembly Cache utility. Install, uninstall and list assemblies in the GAC effortlessly. Free online tool, no registration required.",
     "path": "/freedevtools/tldr/common/gacutil/"
@@ -6875,9 +6870,9 @@
     "path": "/freedevtools/tldr/common/mpg321/"
   },
   {
-    "name": "mpic++",
+    "name": "mpic",
     "description": "Compile parallel C++ code with MPI C++ Compiler, enabling efficient message passing. Build distributed applications on Linux. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/common/mpic++/"
+    "path": "/freedevtools/tldr/common/mpic/"
   },
   {
     "name": "mpicc",
@@ -13880,9 +13875,9 @@
     "path": "/freedevtools/tldr/get/get_iplayer/"
   },
   {
-    "name": "getadusers.py",
+    "name": "getadusers-py",
     "description": "Extract Active Directory users with GetADUsers. Retrieve user attributes like last logon time, email, and more. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/get/getadusers.py/"
+    "path": "/freedevtools/tldr/get/getadusers-py/"
   },
   {
     "name": "getarch.py",
@@ -13895,9 +13890,9 @@
     "path": "/freedevtools/tldr/get/geth/"
   },
   {
-    "name": "getnpusers.py",
+    "name": "getnpusers-py",
     "description": "Enumerate Active Directory users with GetNPUsers.py to identify potential AS-REP roasting targets, enabling penetration testers to uncover security vulnerabilities. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/get/getnpusers.py/"
+    "path": "/freedevtools/tldr/get/getnpusers-py/"
   },
   {
     "name": "getopts",
@@ -15285,24 +15280,24 @@
     "path": "/freedevtools/tldr/gpg/gpgv/"
   },
   {
-    "name": "gst-device-monitor-1.0",
+    "name": "gst-device-monitor",
     "description": "List devices with gst-device-monitor-1.0, a GStreamer tool for monitoring audio and video sources/sinks. Identify and track device changes easily. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/gst/gst-device-monitor-1.0/"
+    "path": "/freedevtools/tldr/gst/gst-device-monitor/"
   },
   {
-    "name": "gst-discoverer-1.0",
+    "name": "gst-discoverer",
     "description": "Analyze media files with gst-discoverer-1.0. Extract metadata and stream information. Examine file properties and codec details. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/gst/gst-discoverer-1.0/"
+    "path": "/freedevtools/tldr/gst/gst-discoverer/"
   },
   {
-    "name": "gst-inspect-1.0",
+    "name": "gst-inspect",
     "description": "Analyze GStreamer plugins with gst-inspect-1.0. Discover available media codecs and hardware capabilities. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/gst/gst-inspect-1.0/"
+    "path": "/freedevtools/tldr/gst/gst-inspect/"
   },
   {
-    "name": "gst-launch-1.0",
+    "name": "gst-launch",
     "description": "Build GStreamer pipelines with gst-launch-1.0. Create multimedia processing workflows and stream media easily. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/gst/gst-launch-1.0/"
+    "path": "/freedevtools/tldr/gst/gst-launch/"
   },
   {
     "name": "hg-add",
@@ -19925,9 +19920,9 @@
     "path": "/freedevtools/tldr/linux/mkisofs/"
   },
   {
-    "name": "mklost+found",
+    "name": "mklost-found",
     "description": "Create a lost+found directory with mklost+found. Recover lost files and manage file system integrity on Linux. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/linux/mklost+found/"
+    "path": "/freedevtools/tldr/linux/mklost-found/"
   },
   {
     "name": "mknod",
@@ -24010,9 +24005,9 @@
     "path": "/freedevtools/tldr/llvm/llvm-dis/"
   },
   {
-    "name": "llvm-g++",
+    "name": "llvm-gpp",
     "description": "Generate executable code with llvm-g++. Alias for clang++, create optimized binaries and link libraries. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/llvm/llvm-g++/"
+    "path": "/freedevtools/tldr/llvm/llvm-gpp/"
   },
   {
     "name": "llvm-gcc",
@@ -24150,14 +24145,14 @@
     "path": "/freedevtools/tldr/netbsd/sockstat/"
   },
   {
-    "name": "nix-build.2",
+    "name": "nix-build_2",
     "description": "Create Nix expressions with Nix Build. Easily build software packages, and manage dependencies. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/nix/nix-build.2/"
+    "path": "/freedevtools/tldr/nix/nix-build_2/"
   },
   {
-    "name": "nix-build.3",
+    "name": "nix-build-3",
     "description": "Generate packages easily with Nix Build, utilizing Nix expressions and flake support. Manage builds, print paths, and avoid symlinks. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/nix/nix-build.3/"
+    "path": "/freedevtools/tldr/nix/nix-build-3/"
   },
   {
     "name": "nix-build",
@@ -28210,9 +28205,9 @@
     "path": "/freedevtools/tldr/st/st-util/"
   },
   {
-    "name": "st.2",
+    "name": "st-2",
     "description": "Generate descriptive statistics with Statistics Tool (st). Calculate mean, sum, standard deviation, and more from data. Free online tool, no registration required.",
-    "path": "/freedevtools/tldr/st/st.2/"
+    "path": "/freedevtools/tldr/st/st-2/"
   },
   {
     "name": "st4topgm",
