@@ -17,7 +17,7 @@ import TldrPlatform from '../_TldrPlatform.astro';
 
 // Generate static paths for all platforms
 export async function getStaticPaths() {
-  const tldrEntries = await getCollection('tldr');
+		  const tldrEntries = await getCollection('tldr');
   const platforms = new Set<string>();
   
   for (const entry of tldrEntries) {
